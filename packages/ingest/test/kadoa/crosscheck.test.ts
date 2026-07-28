@@ -8,7 +8,7 @@ const universe = loadUniverse();
 
 /** As if the official House ingest had already extracted Gill's 2025-06-20 buy. */
 const officialGillBuy: Trade = {
-  memberId: "G000602",
+  memberId: "G000603",
   assetRaw: "BTC",
   security: { ticker: "BTC", kind: "direct" },
   side: "buy",
@@ -25,8 +25,8 @@ describe("selectRosterFilerIds", () => {
     expect(ids).toContain("house_brandon_gill");
     expect(ids).toContain("senate_davidh_mccormick");
     expect(ids).toContain("house_felixbarry_moore");
+    expect(ids).toContain("house_samt_liccardo"); // on the full-Congress roster
     expect(ids).not.toContain("senate_alan_armstrong"); // phantom, no party
-    expect(ids).not.toContain("house_samt_liccardo"); // off roster
     expect(ids).not.toContain("oge_donald_trump"); // executive
   });
 });
@@ -55,7 +55,7 @@ describe("crossCheckKadoa (end-to-end over fixtures, no network)", () => {
     // The official Gill row matched its kadoa counterpart -> "both", kept as-is.
     const gill = result.merged.filter(
       (t) =>
-        t.memberId === "G000602" &&
+        t.memberId === "G000603" &&
         t.transactionDate === "2025-06-20" &&
         t.security?.kind === "direct",
     );
@@ -64,7 +64,7 @@ describe("crossCheckKadoa (end-to-end over fixtures, no network)", () => {
     expect(gill[0]?.docUrl).toBe(officialGillBuy.docUrl);
 
     // Historical BTC rows arrive as kadoa backfill (filed before coverage).
-    const backfilledGill = result.backfilled.filter((t) => t.memberId === "G000602");
+    const backfilledGill = result.backfilled.filter((t) => t.memberId === "G000603");
     expect(backfilledGill.length).toBeGreaterThan(5);
     expect(backfilledGill.some((t) => t.security?.kind === "direct")).toBe(true);
     expect(backfilledGill.some((t) => t.security?.ticker === "IBIT")).toBe(true);
@@ -72,15 +72,16 @@ describe("crossCheckKadoa (end-to-end over fixtures, no network)", () => {
     // McCormick's BITB history lands too.
     const bitb = result.merged.filter((t) => t.security?.ticker === "BITB");
     expect(bitb.length).toBeGreaterThanOrEqual(5);
-    expect(bitb.every((t) => t.memberId === "M001244")).toBe(true);
+    expect(bitb.every((t) => t.memberId === "M001243")).toBe(true);
 
     // Rows filed on/after coverage start that we did not ingest -> missed.
     expect(result.missedByOfficial.length).toBeGreaterThan(0);
     expect(result.missedByOfficial.every((t) => t.filedDate >= "2026-07-01")).toBe(true);
     expect(result.missedByOfficial.every((t) => t.provenance === "kadoa")).toBe(true);
 
-    // Off-roster congress filers surface for review instead of being invented.
-    expect(result.unmatchedFilers.length).toBeGreaterThan(0);
+    // With the full-Congress roster every partied fixture filer resolves;
+    // phantom (party-less) filers are skipped as phantoms, not unmatched.
+    expect(result.unmatchedFilers).toEqual([]);
 
     // Executive rows were skipped, never merged.
     expect(result.skipped.some((s) => s.reason === "non-congress filer")).toBe(true);
@@ -94,13 +95,13 @@ describe("crossCheckKadoa (end-to-end over fixtures, no network)", () => {
       fetch: { cacheDir: null, fetchFn: fixtureFetchFn() },
     });
     const conflict = result.conflicts.find(
-      (c) => c.official.memberId === "G000602" && c.official.transactionDate === "2025-06-20",
+      (c) => c.official.memberId === "G000603" && c.official.transactionDate === "2025-06-20",
     );
     expect(conflict).toBeDefined();
     expect(conflict?.fields).toContain("range.lo");
     // Official values kept in the merged output.
     const merged = result.merged.find(
-      (t) => t.memberId === "G000602" && t.transactionDate === "2025-06-20",
+      (t) => t.memberId === "G000603" && t.transactionDate === "2025-06-20",
     );
     expect(merged).toMatchObject({ provenance: "both", range: { lo: 250001, hi: 500000 } });
   });

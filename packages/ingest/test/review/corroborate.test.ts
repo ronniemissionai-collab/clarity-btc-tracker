@@ -84,7 +84,7 @@ describe("corroborateHoldings classification (fixtures only, no network)", () =>
 
   it("flags a conflict when the title reports a sale of a row we show as held", async () => {
     const row = holding({
-      memberId: "G000602",
+      memberId: "G000603",
       security: { ticker: "BTC", kind: "direct" },
     });
     const evidenceUrl = "https://example-news.com/gill-sells-bitcoin";
@@ -241,7 +241,7 @@ describe("budget exhaustion (reported, never silent)", () => {
   it("reports queriesSkipped and skippedHoldings once the budget runs out", async () => {
     const rows = [
       holding(), // Biggs IBIT - gets the single budgeted query
-      holding({ memberId: "G000602", security: { ticker: "BTC", kind: "direct" } }),
+      holding({ memberId: "G000603", security: { ticker: "BTC", kind: "direct" } }),
       holding({ memberId: "L000571", security: { ticker: "FBTC", kind: "spot-etf" } }),
     ];
     const dropped: string[] = [];

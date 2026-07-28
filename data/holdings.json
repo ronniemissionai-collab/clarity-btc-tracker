@@ -2,17 +2,17 @@
   {
     "memberId": "L000571",
     "security": { "ticker": "BTC", "kind": "direct" },
-    "owner": "trust",
-    "range": { "lo": 100001, "hi": 250000 },
-    "status": "holds",
-    "asOf": "2025-08-13",
+    "owner": "self",
+    "range": { "lo": 50001, "hi": 100000 },
+    "status": "stale",
+    "asOf": "2021-08-16",
     "extraction": "efd-html",
     "verification": "corroborated",
     "sources": [
       {
         "kind": "filing",
-        "url": "https://efdsearch.senate.gov/search/view/annual/6e0a5e18-2f5c-4a2b-9f3d-sample-lummis/",
-        "title": "Senate eFD annual report (2024), Sen. Cynthia Lummis"
+        "url": "https://efdsearch.senate.gov/search/view/ptr/1124fac7-7277-4328-8740-fbaceeaac1b5/",
+        "title": "Senate eFD PTR filed 2021-10-07, Sen. Cynthia Lummis (BTC buy 2021-08-16, owner Self)"
       },
       {
         "kind": "news",
@@ -20,7 +20,7 @@
         "title": "Bitcoin Politicians (jlopp)"
       }
     ],
-    "note": "~5 BTC purchased 2013-2021; in a blind trust since 2021 - not actively traded."
+    "note": "~5 BTC purchased 2013-2021; reportedly in a blind trust since Oct 2021 (press-level - blind-trust contents are not itemized in eFD, so no BTC line appears on her annuals). Owner 'self' per her 2021 PTR, the only BTC filing on record; not actively traded."
   },
   {
     "memberId": "C001098",
@@ -46,7 +46,7 @@
     "note": "Bought via River Financial 2022-01-25; still on latest annual."
   },
   {
-    "memberId": "M001244",
+    "memberId": "M001243",
     "security": { "ticker": "BITB", "kind": "spot-etf" },
     "owner": "self",
     "range": { "lo": 1000001, "hi": 1600000 },
@@ -74,7 +74,7 @@
     "note": "Aggregated from repeated 2025 PTR buys (up to ~$1.1M by Apr, ~$1.6M by Dec). Instrument is the Bitwise spot ETF (BITB), NOT direct BTC. Also holds a Bitwise equity stake."
   },
   {
-    "memberId": "S001227",
+    "memberId": "S001232",
     "security": { "ticker": "BTC", "kind": "direct" },
     "owner": "self",
     "range": { "lo": 100001, "hi": 250000 },
@@ -97,7 +97,7 @@
     "note": "Reported as a 'Bitcoin investment fund' on the 2023 candidate disclosure; needs re-verification against the latest annual - marked stale."
   },
   {
-    "memberId": "G000602",
+    "memberId": "G000603",
     "security": { "ticker": "BTC", "kind": "direct" },
     "owner": "self",
     "range": { "lo": 1150000, "hi": 2600000 },
@@ -125,7 +125,7 @@
     "note": "Estimated $1.15M-$2.6M across repeated 2025 buy-the-dip purchases; ~$500K of early-2025 buys disclosed late (STOCK Act violation, OpenSecrets 2025-06-02)."
   },
   {
-    "memberId": "G000602",
+    "memberId": "G000603",
     "security": { "ticker": "IBIT", "kind": "spot-etf" },
     "owner": "self",
     "range": { "lo": 15001, "hi": 50000 },

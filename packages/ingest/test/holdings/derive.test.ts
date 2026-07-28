@@ -45,7 +45,7 @@ function annual(overrides: Partial<Holding> = {}): Holding {
 
 function trade(overrides: Partial<Trade> = {}): Trade {
   return {
-    memberId: "G000602",
+    memberId: "G000603",
     assetRaw: "Bitcoin",
     security: { ticker: "BTC", kind: "direct" },
     side: "buy",
@@ -72,7 +72,7 @@ describe("deriveHoldings - buys", () => {
     expect(rejects).toEqual([]);
     expect(holdings).toHaveLength(1);
     const row = holdings[0]!;
-    expect(row.memberId).toBe("G000602");
+    expect(row.memberId).toBe("G000603");
     expect(row.security).toEqual({ ticker: "BTC", kind: "direct" });
     expect(row.owner).toBe("self"); // trades without an owner default to self
     expect(row.range).toEqual({ lo: 500001, hi: 1000000 });
@@ -237,7 +237,7 @@ describe("deriveHoldings - sales", () => {
     const { holdings, rejects } = derive([], [sale]);
     expect(holdings).toEqual([]);
     expect(rejects).toHaveLength(1);
-    expect(rejects[0]?.memberId).toBe("G000602");
+    expect(rejects[0]?.memberId).toBe("G000603");
     expect(rejects[0]?.reason).toMatch(/partial sale .* without a known position/);
   });
 

@@ -5,7 +5,7 @@ import { holdingFlagChips, partyChip, voteChip } from "../src/components/flags";
 
 function holding(overrides: Partial<Holding> = {}): Holding {
   return {
-    memberId: "G000602",
+    memberId: "G000603",
     security: { ticker: "BTC", kind: "direct" },
     owner: "self",
     range: { lo: 1001, hi: 15000 },

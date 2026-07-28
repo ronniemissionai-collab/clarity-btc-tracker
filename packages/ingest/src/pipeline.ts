@@ -45,7 +45,7 @@ import {
   type UniverseConfig,
 } from "@clarity-btc/shared";
 import { ingestHouse } from "./house/index.js";
-import { ingestSenate } from "./senate/index.js";
+import { ingestSenate, SENATE_FIRST_RUN_SINCE } from "./senate/index.js";
 import { crossCheckKadoa, type MergedTrade } from "./kadoa/index.js";
 import type { KadoaFetchFn } from "./kadoa/fetch.js";
 import { deriveHoldings, validateHoldings, type ValidationReport } from "./holdings/index.js";
@@ -457,10 +457,19 @@ export async function runPipeline(options: RunPipelineOptions): Promise<Pipeline
     stats["annualBaselineRows"] = annualBaseline.length;
 
     // -- Step 3: kadoa cross-check + merge ----------------------------------
+    // Coverage floors differ per chamber: the House ingest reads the
+    // current-year Clerk index only, while the Senate ingest's first run
+    // reaches back to SENATE_FIRST_RUN_SINCE. Kadoa-only rows are judged
+    // "missed vs backfill" against their own chamber's floor.
+    const houseYear = io.houseYear ?? new Date().getUTCFullYear();
     const kadoa = await step("kadoa-crosscheck", () =>
       crossCheckKadoa(officialTrades, {
         members,
         universe: universe.universe,
+        coverageStarts: {
+          house: `${houseYear}-01-01`,
+          senate: SENATE_FIRST_RUN_SINCE,
+        },
         fetch: {
           cacheDir: path.join(options.cacheDir, "kadoa"),
           ...(io.kadoaFetch !== undefined ? { fetchFn: io.kadoaFetch } : {}),

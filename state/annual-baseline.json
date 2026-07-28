@@ -1,0 +1,194 @@
+[
+  {
+    "memberId": "A000383",
+    "security": {
+      "ticker": "TSLA",
+      "kind": "treasury"
+    },
+    "owner": "joint",
+    "range": {
+      "lo": 50001,
+      "hi": 100000
+    },
+    "status": "holds",
+    "asOf": "2026-07-21",
+    "extraction": "efd-html",
+    "verification": "unverified",
+    "sources": [
+      {
+        "kind": "filing",
+        "url": "https://efdsearch.senate.gov/search/view/annual/37264946-5291-4f15-aea8-c23453c027c3/",
+        "title": "New Filer Report for 03/24/2026"
+      }
+    ],
+    "note": "from New Filer Report for 03/24/2026: Tesla, Inc. - Common Stock"
+  },
+  {
+    "memberId": "S001184",
+    "security": {
+      "ticker": "TSLA",
+      "kind": "treasury"
+    },
+    "owner": "self",
+    "range": {
+      "lo": 1001,
+      "hi": 15000
+    },
+    "status": "holds",
+    "asOf": "2026-05-15",
+    "extraction": "efd-html",
+    "verification": "unverified",
+    "sources": [
+      {
+        "kind": "filing",
+        "url": "https://efdsearch.senate.gov/search/view/annual/516c1638-5b26-4a14-99be-d89c1b426839/",
+        "title": "Annual Report for CY 2025"
+      }
+    ],
+    "note": "from Annual Report for CY 2025: Tesla Inc"
+  },
+  {
+    "memberId": "F000479",
+    "security": {
+      "ticker": "COIN",
+      "kind": "exchange"
+    },
+    "owner": "dependent",
+    "range": {
+      "lo": 1001,
+      "hi": 15000
+    },
+    "status": "holds",
+    "asOf": "2026-05-15",
+    "extraction": "efd-html",
+    "verification": "unverified",
+    "sources": [
+      {
+        "kind": "filing",
+        "url": "https://efdsearch.senate.gov/search/view/annual/8eed05ea-ec2d-4ef5-b458-d410fd76b40e/",
+        "title": "Annual Report for CY 2025"
+      }
+    ],
+    "note": "from Annual Report for CY 2025: Coinbase Global, Inc. - Class A Common Stock Filer comment: Purchase less than $1,000."
+  },
+  {
+    "memberId": "M001243",
+    "security": {
+      "ticker": "BITB",
+      "kind": "spot-etf"
+    },
+    "owner": "self",
+    "range": {
+      "lo": 1000001,
+      "hi": 5000000
+    },
+    "status": "holds",
+    "asOf": "2025-08-13",
+    "extraction": "efd-html",
+    "verification": "unverified",
+    "sources": [
+      {
+        "kind": "filing",
+        "url": "https://efdsearch.senate.gov/search/view/annual/f0dda451-74f3-4b34-b6a9-71a8c593fbae/",
+        "title": "Annual Report for CY 2024"
+      }
+    ],
+    "note": "from Annual Report for CY 2024: Bitwise Bitcoin ETF"
+  },
+  {
+    "memberId": "C001098",
+    "security": {
+      "ticker": "BTC",
+      "kind": "direct"
+    },
+    "owner": "self",
+    "range": {
+      "lo": 100001,
+      "hi": 250000
+    },
+    "status": "holds",
+    "asOf": "2025-08-13",
+    "extraction": "efd-html",
+    "verification": "unverified",
+    "sources": [
+      {
+        "kind": "filing",
+        "url": "https://efdsearch.senate.gov/search/view/annual/8b455ae7-a24e-462a-95b8-78f7067c0d22/",
+        "title": "Annual Report for CY 2024"
+      }
+    ],
+    "note": "from Annual Report for CY 2024: Bitcoin Exchange/Platform : River Financial Inc"
+  },
+  {
+    "memberId": "M001244",
+    "security": {
+      "ticker": "TSLA",
+      "kind": "treasury"
+    },
+    "owner": "self",
+    "range": {
+      "lo": 1001,
+      "hi": 15000
+    },
+    "status": "holds",
+    "asOf": "2025-05-21",
+    "extraction": "efd-html",
+    "verification": "unverified",
+    "sources": [
+      {
+        "kind": "filing",
+        "url": "https://efdsearch.senate.gov/search/view/annual/2a8e3a84-ea4e-41c8-8653-1dc74abeade9/",
+        "title": "New Filer Report for 01/21/2025"
+      }
+    ],
+    "note": "from New Filer Report for 01/21/2025: Tesla Inc"
+  },
+  {
+    "memberId": "S001184",
+    "security": {
+      "ticker": "TSLA",
+      "kind": "treasury"
+    },
+    "owner": "self",
+    "range": {
+      "lo": 1001,
+      "hi": 15000
+    },
+    "status": "holds",
+    "asOf": "2025-05-16",
+    "extraction": "efd-html",
+    "verification": "unverified",
+    "sources": [
+      {
+        "kind": "filing",
+        "url": "https://efdsearch.senate.gov/search/view/annual/59bbe69d-c265-4fce-8776-196dd40948d8/",
+        "title": "Annual Report for CY 2024 (Amendment 1)"
+      }
+    ],
+    "note": "from Annual Report for CY 2024 (Amendment 1): Tesla Inc"
+  },
+  {
+    "memberId": "S001184",
+    "security": {
+      "ticker": "TSLA",
+      "kind": "treasury"
+    },
+    "owner": "self",
+    "range": {
+      "lo": 1001,
+      "hi": 15000
+    },
+    "status": "holds",
+    "asOf": "2025-05-15",
+    "extraction": "efd-html",
+    "verification": "unverified",
+    "sources": [
+      {
+        "kind": "filing",
+        "url": "https://efdsearch.senate.gov/search/view/annual/31313d73-5cb1-4799-9622-ebbf621712a8/",
+        "title": "Annual Report for CY 2024"
+      }
+    ],
+    "note": "from Annual Report for CY 2024: Tesla Inc"
+  }
+]

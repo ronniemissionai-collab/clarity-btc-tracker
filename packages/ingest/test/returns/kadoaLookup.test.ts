@@ -6,7 +6,7 @@ import { loadFilerFileFixture } from "../kadoa/helpers.js";
 import { makeTrade } from "./helpers.js";
 
 const mccormick: Member = {
-  bioguideId: "M001244",
+  bioguideId: "M001243",
   name: "Dave McCormick",
   party: "R",
   chamber: "senate",
@@ -37,7 +37,7 @@ describe("buildKadoaReturnLookup", () => {
     // carry only filer_id - the filer directory supplies the name to match).
     const hit = lookup.find(
       makeTrade({
-        memberId: "M001244",
+        memberId: "M001243",
         assetRaw: "Bitwise Bitcoin ETF",
         transactionDate: "2025-11-28",
         range: { lo: 50001, hi: 100000 },
@@ -53,7 +53,7 @@ describe("buildKadoaReturnLookup", () => {
     const lookup = buildKadoaReturnLookup(file.trades, [file.filer], [mccormick]);
     const hit = lookup.find(
       makeTrade({
-        memberId: "M001244",
+        memberId: "M001243",
         assetRaw: "Bitwise Bitcoin ETF Trust - Common Shares", // not kadoa's text
         transactionDate: "2025-11-28",
         range: { lo: 50001, hi: 100000 },
@@ -75,7 +75,7 @@ describe("buildKadoaReturnLookup", () => {
     expect(
       agreeing.find(
         makeTrade({
-          memberId: "M001244",
+          memberId: "M001243",
           assetRaw: "some other wording",
           transactionDate: "2025-11-28",
           range: { lo: 50001, hi: 100000 },
@@ -95,7 +95,7 @@ describe("buildKadoaReturnLookup", () => {
     expect(
       ambiguous.find(
         makeTrade({
-          memberId: "M001244",
+          memberId: "M001243",
           assetRaw: "some other wording",
           transactionDate: "2025-11-28",
           range: { lo: 50001, hi: 100000 },
@@ -106,7 +106,7 @@ describe("buildKadoaReturnLookup", () => {
     expect(
       ambiguous.find(
         makeTrade({
-          memberId: "M001244",
+          memberId: "M001243",
           assetRaw: "iShares Bitcoin Trust",
           transactionDate: "2025-11-28",
           range: { lo: 50001, hi: 100000 },
@@ -124,7 +124,7 @@ describe("buildKadoaReturnLookup", () => {
     expect(
       lookup.find(
         makeTrade({
-          memberId: "M001244",
+          memberId: "M001243",
           assetRaw: "TSLA",
           transactionDate: "2025-11-28",
           range: { lo: 50001, hi: 100000 },

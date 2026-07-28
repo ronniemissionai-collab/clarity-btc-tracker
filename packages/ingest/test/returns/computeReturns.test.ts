@@ -19,7 +19,7 @@ const claims = [
 
 const roster: TradersConfig = {
   active: [
-    { id: "M001244", name: "Dave McCormick", party: "R", chamber: "senate", claims },
+    { id: "M001243", name: "Dave McCormick", party: "R", chamber: "senate", claims },
     { id: "P000197", name: "Nancy Pelosi", party: "D", chamber: "house", claims },
     { id: "P000608", name: "Scott Peters", party: "D", chamber: "house", claims },
   ],
@@ -35,7 +35,7 @@ function mergedTrades(): Trade[] {
   return [
     // McCormick - two BITB buys matching kadoa fixture rows, plus one sell.
     makeTrade({
-      memberId: "M001244",
+      memberId: "M001243",
       assetRaw: "Bitwise Bitcoin ETF",
       owner: "self",
       transactionDate: "2025-11-28",
@@ -44,7 +44,7 @@ function mergedTrades(): Trade[] {
       security: { ticker: "BITB", kind: "spot-etf" },
     }),
     makeTrade({
-      memberId: "M001244",
+      memberId: "M001243",
       assetRaw: "Bitwise Bitcoin ETF",
       owner: "self",
       transactionDate: "2025-11-25",
@@ -53,7 +53,7 @@ function mergedTrades(): Trade[] {
       security: { ticker: "BITB", kind: "spot-etf" },
     }),
     makeTrade({
-      memberId: "M001244",
+      memberId: "M001243",
       assetRaw: "Microsoft Corporation",
       owner: "self",
       side: "sell",
@@ -124,7 +124,7 @@ describe("computeReturns", () => {
     const result = await run();
     expect(result.traders).toHaveLength(3);
     for (const trader of result.traders) expect(isTrader(trader)).toBe(true);
-    expect(result.traders.map((t) => t.memberId)).toEqual(["M001244", "P000197", "P000608"]);
+    expect(result.traders.map((t) => t.memberId)).toEqual(["M001243", "P000197", "P000608"]);
     expect(result.traders.map((t) => t.tradeCount)).toEqual([3, 2, 2]);
     // Claims pass through from the config untouched.
     expect(result.traders[0]?.claims).toEqual(claims);
@@ -137,7 +137,7 @@ describe("computeReturns", () => {
   it("uses kadoa's precomputed per-trade returns as the primary source", async () => {
     const yahooCalls: string[] = [];
     const result = await run(yahooCalls);
-    const mccormick = result.traders.find((t) => t.memberId === "M001244");
+    const mccormick = result.traders.find((t) => t.memberId === "M001243");
     // Midpoint-weighted mean of the two matched kadoa rows:
     // (75000.5 * -28.629156 + 32500.5 * -25.863310) / 107501 = -27.79296...
     expect(mccormick?.measured?.return).toBe(-27.8);
@@ -152,7 +152,7 @@ describe("computeReturns", () => {
     expect(mccormick?.measured?.note).toContain("Estimate");
     expect(mccormick?.attribution).toBe("self");
 
-    const points = result.computations.find((c) => c.memberId === "M001244")?.points;
+    const points = result.computations.find((c) => c.memberId === "M001243")?.points;
     expect(points?.map((p) => p.source)).toEqual(["kadoa", "kadoa"]);
     expect(points?.map((p) => p.midpoint)).toEqual([32500.5, 75000.5]);
     // kadoa-scored tickers never hit Yahoo.
@@ -235,7 +235,7 @@ describe("computeReturns", () => {
     expect(peters?.measured?.return).toBe(10);
     // McCormick's BITB rows lose their kadoa returns and fall back to Yahoo,
     // which has no BITB series in this stub -> unpriceable, measured null.
-    const mccormick = result.traders.find((t) => t.memberId === "M001244");
+    const mccormick = result.traders.find((t) => t.memberId === "M001243");
     expect(mccormick?.measured).toBeNull();
     expect(mccormick?.note).toContain("Not measured");
   });

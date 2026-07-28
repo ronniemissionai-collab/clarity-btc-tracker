@@ -61,7 +61,7 @@ describe("securityKey", () => {
 
 describe("HoldingSchema source rules", () => {
   const base = {
-    memberId: "M001244",
+    memberId: "M001243",
     security: { ticker: "BITB", kind: "spot-etf" },
     owner: "self",
     range: { lo: 1000001, hi: 1600000 },

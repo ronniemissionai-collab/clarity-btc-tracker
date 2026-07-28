@@ -23,7 +23,7 @@ describe("normalizeKadoaTrades: per-filer fixtures", () => {
     expect(trades.length).toBeGreaterThan(0);
     expect(skipped).toEqual([]);
     expect(trades.every(isTrade)).toBe(true);
-    expect(trades.every((t) => t.memberId === "G000602")).toBe(true);
+    expect(trades.every((t) => t.memberId === "G000603")).toBe(true);
 
     const direct = trades.filter((t) => t.security?.kind === "direct");
     expect(direct.length).toBeGreaterThanOrEqual(4);
@@ -50,7 +50,7 @@ describe("normalizeKadoaTrades: per-filer fixtures", () => {
       universe,
       defaultFiler: file.filer,
     });
-    expect(trades.every((t) => t.memberId === "M001244")).toBe(true);
+    expect(trades.every((t) => t.memberId === "M001243")).toBe(true);
 
     const bitb = trades.filter((t) => t.security?.ticker === "BITB");
     expect(bitb.length).toBeGreaterThanOrEqual(5);
@@ -131,12 +131,14 @@ describe("normalizeKadoaTrades: top-level trades.json slice", () => {
   });
 
   it("reports congress filers that are off the roster instead of guessing", () => {
-    expect(result.unmatchedFilers.length).toBeGreaterThan(0);
+    // With the full 119th-Congress roster every partied congress filer in the
+    // fixture resolves; only names genuinely off the roster may ever land here.
     expect(result.unmatchedFilers).not.toContain("Nancy Pelosi");
     const rosterNames = new Set(members.map((m) => m.name));
     for (const name of result.unmatchedFilers) {
       expect(rosterNames.has(name)).toBe(false);
     }
+    expect(result.unmatchedFilers).toEqual([]);
   });
 
   it("skips unsupported transaction types (Exchange) with a reason", () => {

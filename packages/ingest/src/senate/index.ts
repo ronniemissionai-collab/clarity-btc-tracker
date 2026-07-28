@@ -92,7 +92,7 @@ export interface SenateIngestOptions {
   statePath?: string;
   /** In-memory state (overrides statePath loading; statePath still saved). */
   state?: SenateIngestState;
-  /** First-run search window start (ISO date). Default: January 1 this year. */
+  /** First-run search window start (ISO date). Default: SENATE_FIRST_RUN_SINCE. */
   since?: string;
   /** Injectable fetch — tests serve fixtures through this; no network. */
   fetchImpl?: typeof fetch;
@@ -150,6 +150,18 @@ export interface SenateIngestResult {
 const STOCK_ACT_WINDOW_DAYS = 45;
 const DAY_MS = 24 * 60 * 60 * 1000;
 
+/**
+ * First-run search window start. Annual reports for calendar year N are filed
+ * May-August of N+1 (extensions run later still), so a window opening on
+ * January 1 of the current year misses the latest annuals entirely: verified
+ * live 2026-07-28, the newest annual on file for several senators (e.g. Cruz's
+ * CY 2024 report carrying his BTC line, filed 2025-08-13) predates 2026.
+ * Opening the first run on 2025-01-01 captures every CY 2024 annual plus all
+ * CY 2025 annuals and 18+ months of PTRs; later runs advance incrementally
+ * from state.lastSubmittedDate.
+ */
+export const SENATE_FIRST_RUN_SINCE = "2025-01-01";
+
 function isLate(transactionDate: string, filedDate: string): boolean {
   const elapsed = Date.parse(filedDate) - Date.parse(transactionDate);
   return elapsed > STOCK_ACT_WINDOW_DAYS * DAY_MS;
@@ -164,10 +176,7 @@ export async function ingestSenate(
       ? await loadSenateState(options.statePath)
       : initialSenateState());
 
-  const since =
-    state.lastSubmittedDate ??
-    options.since ??
-    `${new Date().getUTCFullYear()}-01-01`;
+  const since = state.lastSubmittedDate ?? options.since ?? SENATE_FIRST_RUN_SINCE;
 
   const client = new EfdClient({
     ...(options.fetchImpl !== undefined ? { fetchImpl: options.fetchImpl } : {}),
