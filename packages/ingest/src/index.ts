@@ -29,5 +29,10 @@ export {
 } from "./kadoa/index.js";
 export { deriveHoldings } from "./holdings.js";
 export { reviewWithExa, type ExaReviewResult } from "./review.js";
-export { refreshBill } from "./bill.js";
+export {
+  refreshBill,
+  refreshBillDetailed,
+  type BillRefreshResult,
+  type RefreshBillOptions,
+} from "./bill/index.js";
 export { computeReturns } from "./returns.js";
