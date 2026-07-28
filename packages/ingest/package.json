@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "type": "module",
-  "description": "Daily ingest + compute pipeline steps (stubs until tickets 02-08)",
+  "description": "Daily ingest + compute pipeline (all eight steps + orchestrator CLI)",
   "types": "./src/index.ts",
   "exports": {
     ".": {

@@ -325,6 +325,21 @@ describe("Senate passage of the substitute text", () => {
     expect(() =>
       assertNeverLawWithoutEnactment({ bill: result.bill, milestones: result.milestones }),
     ).not.toThrow();
+
+    // Promoted into the shared Bill contract (integration ticket 11):
+    // requiresHouseRepassage ships on bill.json itself...
+    expect(result.bill.requiresHouseRepassage).toBe(true);
+    // ...and the Senate per-member breakdown ships LIS-keyed (no bioguide
+    // ids in the LIS feed, so memberVotes stays empty for Senate rolls).
+    expect(senatePassage?.memberVotes).toBeUndefined();
+    expect(senatePassage?.senateMemberVotes).toHaveLength(4);
+    expect(senatePassage?.senateMemberVotes?.[3]).toEqual({
+      lisMemberId: "S428",
+      name: "Alsobrooks (D-MD)",
+      party: "D",
+      state: "MD",
+      vote: "not-voting",
+    });
   });
 
   it("EAS (Engrossed Amendment Senate) text version alone flags substitute passage", () => {

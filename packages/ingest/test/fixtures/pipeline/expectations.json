@@ -1,0 +1,22 @@
+{
+  "holderBound": { "min": 1, "max": 30 },
+  "contested": [
+    {
+      "id": "mccormick-instrument",
+      "memberId": "M001244",
+      "memberName": "Dave McCormick",
+      "rule": "holds-security",
+      "expect": { "ticker": "BITB", "kind": "spot-etf" },
+      "forbid": { "ticker": "BTC", "kind": "direct" },
+      "note": "Fixture-world copy of the real pin: McCormick's BTC exposure is the Bitwise spot ETF (kadoa per-filer fixture) and must never render as direct BTC.",
+      "source": "https://www.coindesk.com/policy/2025/04/24/pennsylvania-senator-mccormick-invests-more-in-bitcoin-etf"
+    },
+    {
+      "id": "mtg-departed",
+      "memberId": "G000596",
+      "memberName": "Marjorie Taylor Greene",
+      "rule": "member-inactive",
+      "note": "Resigned 2026-01-05; the roster fixture marks her inactive and she must never count toward the active holder set."
+    }
+  ]
+}

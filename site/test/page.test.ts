@@ -83,4 +83,29 @@ describe("rendered views", () => {
     const claimLinks = view.querySelectorAll("a.claim-source");
     expect(claimLinks.length).toBeGreaterThan(0);
   });
+
+  it("renders the reputation chip only when claimsSupported === false", () => {
+    const CHIP = "reputation not supported by filings";
+    // Fixture traders omit the field -> the chip must not render.
+    const plain = renderPortfolioView(model, data.meta);
+    expect(plain.textContent).not.toContain(CHIP);
+
+    // A trader whose numeric claims the filings contradict gets the chip.
+    const busted = buildModel({
+      ...data,
+      traders: data.traders.map((t, i) => (i === 0 ? { ...t, claimsSupported: false } : t)),
+    });
+    const view = renderPortfolioView(busted, data.meta);
+    const chips = [...view.querySelectorAll(".chip.conflict")].filter(
+      (c) => c.textContent === CHIP,
+    );
+    expect(chips).toHaveLength(1);
+
+    // claimsSupported true renders nothing either - the chip only flags.
+    const supported = buildModel({
+      ...data,
+      traders: data.traders.map((t) => ({ ...t, claimsSupported: true })),
+    });
+    expect(renderPortfolioView(supported, data.meta).textContent).not.toContain(CHIP);
+  });
 });

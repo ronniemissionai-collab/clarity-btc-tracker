@@ -259,6 +259,12 @@ export async function ingestSenate(
             });
             continue;
           }
+          // Carry the eFD Sale (Full) / Sale (Partial) distinction into the
+          // note - the holdings derivation reads "partial sale" from it.
+          const notes: string[] = [];
+          if (tx.transactionType.startsWith("Sale (Partial)")) notes.push("partial sale");
+          else if (tx.transactionType.startsWith("Sale (Full)")) notes.push("full sale");
+          if (tx.comment !== undefined) notes.push(tx.comment);
           trades.push(
             parseTrade({
               memberId: member.bioguideId,
@@ -271,7 +277,7 @@ export async function ingestSenate(
               filedDate,
               docUrl: ref.url,
               late: isLate(tx.transactionDate, filedDate),
-              ...(tx.comment !== undefined ? { note: tx.comment } : {}),
+              ...(notes.length > 0 ? { note: notes.join("; ") } : {}),
             }),
           );
         }

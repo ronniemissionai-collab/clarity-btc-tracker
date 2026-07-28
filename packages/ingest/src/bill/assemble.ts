@@ -143,6 +143,7 @@ export function assembleBill(input: AssembleBillInput): AssembledBill {
       : {}),
     latestAction,
     ...(warning !== undefined ? { substituteWarning: warning } : {}),
+    requiresHouseRepassage: milestones.requiresHouseRepassage,
     stages,
     textVersions,
     votes,

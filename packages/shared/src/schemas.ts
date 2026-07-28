@@ -179,6 +179,22 @@ export const MemberVoteSchema = z.object({
   vote: z.enum(["yea", "nay", "present", "not-voting"]),
 });
 
+/**
+ * Per-member Senate vote keyed by LIS member id ("S428"), NOT bioguide - the
+ * Senate LIS feed does not carry bioguide ids, so Senate breakdowns ship on
+ * this parallel shape instead of `memberVotes` (promoted at integration,
+ * build ticket 11).
+ */
+export const SenateLisMemberVoteSchema = z.object({
+  /** LIS member id, e.g. "S428". */
+  lisMemberId: z.string().min(1),
+  /** Display form as published by LIS, e.g. "Alsobrooks (D-MD)". */
+  name: z.string().min(1),
+  party: z.string().min(1),
+  state: z.string().min(1),
+  vote: z.enum(["yea", "nay", "present", "not-voting"]),
+});
+
 export const BillVoteSchema = z.object({
   type: VoteTypeSchema,
   chamber: ChamberSchema,
@@ -193,6 +209,8 @@ export const BillVoteSchema = z.object({
   byParty: z.record(z.string(), PartyTallySchema).optional(),
   /** Per-member breakdown; optional in fixtures, populated by the ingest step. */
   memberVotes: z.array(MemberVoteSchema).optional(),
+  /** Senate per-member breakdown (LIS ids - the LIS feed has no bioguide ids). */
+  senateMemberVotes: z.array(SenateLisMemberVoteSchema).optional(),
 });
 
 export const RelatedBillSchema = z.object({
@@ -218,6 +236,11 @@ export const BillSchema = z.object({
    * text becoming law. The Senate text is a full strike-and-replace substitute.
    */
   substituteWarning: z.string().optional(),
+  /**
+   * True once the Senate has passed its substitute text and the House has not
+   * yet re-passed the amended bill (promoted from BillMilestones, ticket 11).
+   */
+  requiresHouseRepassage: z.boolean().optional(),
   stages: z.array(BillStageSchema).min(1),
   textVersions: z.array(BillTextVersionSchema),
   votes: z.array(BillVoteSchema),
@@ -256,6 +279,14 @@ export const TraderSchema = z.object({
   measured: MeasuredPerformanceSchema.nullable(),
   /** Whose trades these are: "self", "spouse (Paul Pelosi)", "family trusts", ... */
   attribution: z.string().min(1),
+  /**
+   * Whether the measured returns support the numeric return claims quoted for
+   * this trader (sign-level agreement only - claim windows differ from the
+   * measured since-trade window). Omitted when no claim states a number or
+   * nothing was measured; false renders the "reputation not supported by
+   * filings" chip.
+   */
+  claimsSupported: z.boolean().optional(),
   note: z.string().optional(),
 });
 
@@ -289,6 +320,8 @@ export const MetaSchema = z.object({
     ok: z.boolean(),
     stats: z.record(z.string(), z.number()),
     errors: z.array(z.string()),
+    /** Non-fatal problems from the run (skipped steps, per-row issues...). */
+    warnings: z.array(z.string()).optional(),
   }),
 });
 

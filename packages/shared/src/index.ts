@@ -5,7 +5,7 @@
  * (isX), and parse helpers (parseX / parseXs) that throw on invalid input.
  */
 import { z } from "zod";
-import type { SecurityRefSchema } from "./schemas.js";
+import type { SecurityRefSchema, SenateLisMemberVoteSchema } from "./schemas.js";
 import {
   BillSchema,
   ExpectationsSchema,
@@ -32,6 +32,7 @@ export type SecurityRef = z.infer<typeof SecurityRefSchema>;
 export type Holding = z.infer<typeof HoldingSchema>;
 export type Trade = z.infer<typeof TradeSchema>;
 export type Bill = z.infer<typeof BillSchema>;
+export type SenateLisMemberVote = z.infer<typeof SenateLisMemberVoteSchema>;
 export type Trader = z.infer<typeof TraderSchema>;
 export type NewsItem = z.infer<typeof NewsItemSchema>;
 export type Meta = z.infer<typeof MetaSchema>;

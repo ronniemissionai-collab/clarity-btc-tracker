@@ -69,6 +69,15 @@ function renderCard(ranked: RankedTrader): HTMLElement {
       ),
     );
   }
+  if (trader.claimsSupported === false) {
+    head.appendChild(
+      chip(
+        "reputation not supported by filings",
+        "conflict",
+        "The returns claimed for this trader do not match what their disclosed filings measure",
+      ),
+    );
+  }
   card.appendChild(head);
   card.appendChild(el("h3", { class: "trader-name" }, member?.name ?? trader.memberId));
 
