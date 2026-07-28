@@ -49,4 +49,24 @@ export {
   type BillRefreshResult,
   type RefreshBillOptions,
 } from "./bill/index.js";
-export { computeReturns } from "./returns.js";
+export {
+  computeReturns,
+  createKadoaPriceProvider,
+  createPriceChain,
+  createYahooClient,
+  createYahooPriceProvider,
+  PriceChainExhaustedError,
+  PriceError,
+  PriceFetchError,
+  PriceParseError,
+  PriceUnavailableError,
+  type ComputeReturnsOptions,
+  type ComputeReturnsResult,
+  type PriceChain,
+  type PriceProvider,
+  type TradeReturnPoint,
+  type TraderComputation,
+  type UnpriceableTrade,
+  type YahooClient,
+  type YahooClientOptions,
+} from "./returns/index.js";
