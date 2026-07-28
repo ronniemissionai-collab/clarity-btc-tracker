@@ -1,8 +1,8 @@
 /**
  * @clarity-btc/ingest - daily pipeline steps, in run order.
- * house/ (ticket 02), senate/ (03), kadoa/ (04), holdings/ (05), and bill/
- * (06) are implemented; the rest are typed no-op stubs until their build
- * tickets land.
+ * house/ (ticket 02), senate/ (03), kadoa/ (04), holdings/ (05), bill/ (06),
+ * and review/ (07) are implemented; the rest are typed no-op stubs until
+ * their build tickets land.
  */
 export * from "./house/index.js";
 export {
@@ -42,7 +42,26 @@ export {
   type ValidationFailure,
   type ValidationReport,
 } from "./holdings/index.js";
-export { reviewWithExa, type ExaReviewResult } from "./review.js";
+export {
+  buildNewsStrip,
+  corroborateHoldings,
+  DEFAULT_NEWS_QUERIES,
+  DEFAULT_QUERY_BUDGET,
+  ExaBudgetError,
+  ExaClient,
+  ExaError,
+  reviewWithExa,
+  type CorroborateOptions,
+  type CorroborateResult,
+  type ExaClientOptions,
+  type ExaReviewOptions,
+  type ExaReviewResult,
+  type ExaSearchRequest,
+  type ExaSearchResponse,
+  type ExaSearchResult,
+  type NewsStripOptions,
+  type NewsStripResult,
+} from "./review/index.js";
 export {
   refreshBill,
   refreshBillDetailed,
