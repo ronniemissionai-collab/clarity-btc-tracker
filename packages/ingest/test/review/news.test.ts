@@ -167,7 +167,7 @@ describe("reviewWithExa orchestration", () => {
   it("news strip queries run before corroboration can drain the budget", async () => {
     // Budget 2: exactly the news set - every holding query is skipped+reported.
     const result = await reviewWithExa({
-      holdings: [holding(), holding({ memberId: "G000602" })],
+      holdings: [holding(), holding({ memberId: "G000603" })],
       members,
       universe,
       apiKey: "test-key",

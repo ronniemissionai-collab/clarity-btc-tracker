@@ -12,7 +12,8 @@
     "build": "tsc -p packages/shared && tsc -p packages/ingest && tsc -p site && vite build site",
     "test": "vitest run",
     "lint": "eslint .",
-    "pipeline": "tsx packages/ingest/src/cli.ts"
+    "pipeline": "tsx packages/ingest/src/cli.ts",
+    "roster": "tsx packages/ingest/scripts/build-roster.ts"
   },
   "engines": {
     "node": ">=22"

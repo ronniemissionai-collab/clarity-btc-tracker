@@ -72,8 +72,11 @@ describe("config/traders.json", () => {
 describe("config/expectations.json", () => {
   const expectations = parseExpectations(expectationsRaw);
 
-  it("pins the holder bound at 15-25", () => {
-    expect(expectations.holderBound).toEqual({ min: 15, max: 25 });
+  it("pins the holder bound at 9-25 (recalibrated after the first live run)", () => {
+    // min was lowered from the research estimate of 15: the justification and
+    // the named invisible holders live in config/expectations.json
+    // (holderBoundNote / invisibleKnownHolders).
+    expect(expectations.holderBound).toEqual({ min: 9, max: 25 });
   });
 
   it("carries the four contested-case pins", () => {
@@ -148,25 +151,25 @@ describe("contested-case pins hold against the fixtures", () => {
   const members = parseMembers(membersRaw);
 
   it("McCormick holds BITB (spot-etf), never direct BTC", () => {
-    const rows = holdings.filter((h) => h.memberId === "M001244");
+    const rows = holdings.filter((h) => h.memberId === "M001243");
     expect(rows.some((h) => securityKey(h.security) === "BITB:spot-etf")).toBe(true);
     expect(rows.some((h) => securityKey(h.security) === "BTC:direct")).toBe(false);
   });
 
   it("Gill's direct BTC range sits within $1.15M-$2.6M", () => {
     const row = holdings.find(
-      (h) => h.memberId === "G000602" && securityKey(h.security) === "BTC:direct",
+      (h) => h.memberId === "G000603" && securityKey(h.security) === "BTC:direct",
     );
     expect(row).toBeDefined();
     expect(row!.range.lo).toBeGreaterThanOrEqual(1150000);
     expect(row!.range.hi).toBeLessThanOrEqual(2600000);
   });
 
-  it("Lummis's direct BTC is owned by a (blind) trust", () => {
+  it("Lummis's direct BTC carries owner 'self' per her 2021 PTR (blind trust is press-level only)", () => {
     const row = holdings.find(
       (h) => h.memberId === "L000571" && securityKey(h.security) === "BTC:direct",
     );
-    expect(row?.owner).toBe("trust");
+    expect(row?.owner).toBe("self");
   });
 
   it("MTG is inactive (resigned) and holds nothing in the fixture", () => {

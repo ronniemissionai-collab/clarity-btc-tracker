@@ -35,6 +35,20 @@ export interface MergeTradesOptions {
    * (no official rows -> everything is backfill).
    */
   officialCoverageStart?: string;
+  /**
+   * Per-chamber coverage starts - the House Clerk ingest (current-year index)
+   * and Senate eFD ingest (first-run submitted-date floor) cover different
+   * windows, so a single date misclassifies one chamber's backfill as
+   * "missed". A kadoa-only row is judged against its own chamber's start
+   * (inferred from the filing docUrl); a chamber without a date falls back to
+   * `officialCoverageStart` / the earliest official filedDate.
+   */
+  coverageStarts?: { house?: string; senate?: string };
+}
+
+/** Which chamber's official ingest owns a filing, judged by its doc URL. */
+export function chamberOfDocUrl(docUrl: string): "house" | "senate" {
+  return docUrl.includes("efdsearch.senate.gov") ? "senate" : "house";
 }
 
 export interface MergeTradesResult {
@@ -48,12 +62,30 @@ export interface MergeTradesResult {
   conflicts: TradeConflict[];
 }
 
+/**
+ * Aggressive raw-text normalization for cross-source asset matching: decodes
+ * common HTML entities, drops Clerk asset-type codes ("[ST]") and
+ * parenthesized ticker/detail segments, lowercases, and collapses to
+ * alphanumeric words. The official House parse keeps "(MPC) [ST]" suffixes
+ * and the Senate parse keeps raw eFD whitespace, while kadoa publishes
+ * cleaned names - after this normalization both sides align.
+ */
+export function cleanAssetText(raw: string): string {
+  return raw
+    .replace(/&amp;/gi, "&")
+    .replace(/&#\d+;|&[a-z]+;/gi, " ")
+    .replace(/\[[A-Z]{1,3}\]/g, " ")
+    .replace(/\([^)]*\)/g, " ")
+    .toLowerCase()
+    .replace(/[^a-z0-9]+/g, " ")
+    .replace(/\s+/g, " ")
+    .trim();
+}
+
 /** Identity key: member + security (or raw asset text) + tx date + side. */
 export function tradeMatchKey(trade: Trade): string {
   const asset =
-    trade.security !== null
-      ? securityKey(trade.security)
-      : `raw:${trade.assetRaw.toLowerCase().replace(/[^a-z0-9]+/g, " ").trim()}`;
+    trade.security !== null ? securityKey(trade.security) : `raw:${cleanAssetText(trade.assetRaw)}`;
   return [trade.memberId, asset, trade.transactionDate, trade.side].join("|");
 }
 
@@ -89,6 +121,7 @@ export function mergeTrades(
   // Same-day repeat trades are real (e.g. two BITB buys in one filing), so
   // buckets hold lists and each official row can absorb exactly one kadoa row.
   const buckets = new Map<string, MergedTrade[]>();
+  const byTriple = new Map<string, MergedTrade[]>();
   const officialMerged: MergedTrade[] = official.map((t) => ({
     ...t,
     provenance: "official" as TradeProvenance,
@@ -98,7 +131,37 @@ export function mergeTrades(
     const list = buckets.get(key);
     if (list === undefined) buckets.set(key, [row]);
     else list.push(row);
+    const triple = `${row.memberId}|${row.transactionDate}|${row.side}`;
+    const tripleList = byTriple.get(triple);
+    if (tripleList === undefined) byTriple.set(triple, [row]);
+    else tripleList.push(row);
   }
+
+  /**
+   * Second-pass match for kadoa rows the exact key missed: same member +
+   * date + side, and the cleaned asset texts are equal or one is a prefix of
+   * the other (kadoa appends eFD detail clauses like "Rate/Coupon 5 Matures
+   * 2035-04-01" to the asset name). Prefix matches require >= 4 chars on the
+   * shorter side; equal ranges win when several candidates qualify.
+   */
+  const findByText = (row: Trade): MergedTrade | undefined => {
+    const kc = cleanAssetText(row.assetRaw);
+    if (kc === "") return undefined;
+    const candidates = (
+      byTriple.get(`${row.memberId}|${row.transactionDate}|${row.side}`) ?? []
+    ).filter((o) => {
+      if (o.provenance !== "official") return false;
+      const oc = cleanAssetText(o.assetRaw);
+      if (oc === "") return false;
+      if (oc === kc) return true;
+      const shorter = Math.min(oc.length, kc.length);
+      return shorter >= 4 && (kc.startsWith(oc) || oc.startsWith(kc));
+    });
+    return (
+      candidates.find((o) => o.range.lo === row.range.lo && o.range.hi === row.range.hi) ??
+      candidates[0]
+    );
+  };
 
   const coverageStart =
     options.officialCoverageStart ??
@@ -113,7 +176,7 @@ export function mergeTrades(
 
   for (const row of kadoa) {
     const bucket = buckets.get(tradeMatchKey(row));
-    const claimed = bucket?.find((o) => o.provenance === "official");
+    const claimed = bucket?.find((o) => o.provenance === "official") ?? findByText(row);
     if (claimed !== undefined) {
       claimed.provenance = "both";
       const fields = diffFields(claimed, row);
@@ -126,7 +189,9 @@ export function mergeTrades(
     }
     const mergedRow: MergedTrade = { ...row, provenance: "kadoa" };
     kadoaOnly.push(mergedRow);
-    if (coverageStart !== undefined && row.filedDate >= coverageStart) {
+    const chamberStart =
+      options.coverageStarts?.[chamberOfDocUrl(row.docUrl)] ?? coverageStart;
+    if (chamberStart !== undefined && row.filedDate >= chamberStart) {
       missedByOfficial.push(mergedRow);
     } else {
       backfilled.push(mergedRow);

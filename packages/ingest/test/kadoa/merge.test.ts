@@ -5,7 +5,7 @@ import { mergeTrades } from "../../src/kadoa/index.js";
 /** Gill's 2025-06-20 direct-BTC buy as our official ingest would emit it. */
 function officialGillBuy(overrides: Partial<Trade> = {}): Trade {
   return {
-    memberId: "G000602",
+    memberId: "G000603",
     assetRaw: "BTC",
     security: { ticker: "BTC", kind: "direct" },
     side: "buy",
@@ -28,7 +28,7 @@ function kadoaGillBuy(overrides: Partial<Trade> = {}): Trade {
 
 function mccormickBitb(overrides: Partial<Trade> = {}): Trade {
   return {
-    memberId: "M001244",
+    memberId: "M001243",
     assetRaw: "Bitwise Bitcoin ETF",
     security: { ticker: "BITB", kind: "spot-etf" },
     side: "buy",
@@ -99,7 +99,7 @@ describe("mergeTrades", () => {
     );
     expect(merged).toHaveLength(2);
     expect(backfilled).toHaveLength(1);
-    expect(backfilled[0]).toMatchObject({ memberId: "G000602", provenance: "kadoa" });
+    expect(backfilled[0]).toMatchObject({ memberId: "G000603", provenance: "kadoa" });
     expect(missedByOfficial).toEqual([]);
   });
 

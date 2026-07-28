@@ -20,6 +20,19 @@ export function filerDisplayName(filing: HouseFiling): string {
 }
 
 /**
+ * Strip diacritics and punctuation so "Linda T. Sánchez" and "Donald S.
+ * Beyer, Jr." match the Clerk's plain-ASCII "Sanchez" / "Beyer" filer names.
+ */
+function normalizeDisplayName(name: string): string {
+  return name
+    .normalize("NFD")
+    .replace(/[̀-ͯ]/g, "")
+    .replace(/[.,]/g, " ")
+    .replace(/\s+/g, " ")
+    .trim();
+}
+
+/**
  * Match a Clerk filing to a House member in the roster: same state, and the
  * member's display name contains the filing's last name as a whole word.
  * Ambiguities (same surname + state) are narrowed by district, else dropped.
@@ -27,12 +40,14 @@ export function filerDisplayName(filing: HouseFiling): string {
 export function resolveHouseMember(filing: HouseFiling, members: Member[]): Member | null {
   const loc = districtFromStateDst(filing.stateDst);
   if (!loc) return null;
+  const lastNorm = normalizeDisplayName(filing.last);
   const lastRe = new RegExp(
-    `(^|\\s)${filing.last.replace(/[.*+?^${}()|[\]\\]/g, "\\$&")}($|\\s)`,
+    `(^|\\s)${lastNorm.replace(/[.*+?^${}()|[\]\\]/g, "\\$&")}($|\\s)`,
     "i",
   );
   const candidates = members.filter(
-    (m) => m.chamber === "house" && m.state === loc.state && lastRe.test(m.name),
+    (m) =>
+      m.chamber === "house" && m.state === loc.state && lastRe.test(normalizeDisplayName(m.name)),
   );
   if (candidates.length === 1) return candidates[0] ?? null;
   if (candidates.length > 1) {

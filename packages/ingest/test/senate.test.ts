@@ -44,11 +44,11 @@ const TILLIS_ANNUAL_ID = "cb89b62d-ebfa-4739-abb0-3ce34f5533b3";
 
 /** Roster fixture: real bioguide ids, senate chamber (test data only). */
 const MEMBERS: Member[] = [
-  { bioguideId: "M001239", name: "Bernie Moreno", party: "R", chamber: "senate", state: "OH", active: true },
+  { bioguideId: "M001242", name: "Bernie Moreno", party: "R", chamber: "senate", state: "OH", active: true },
   { bioguideId: "T000278", name: "Tommy Tuberville", party: "R", chamber: "senate", state: "AL", active: true },
   { bioguideId: "B001277", name: "Richard Blumenthal", party: "D", chamber: "senate", state: "CT", active: true },
   { bioguideId: "T000476", name: "Thom Tillis", party: "R", chamber: "senate", state: "NC", active: true },
-  { bioguideId: "G000602", name: "Brandon Gill", party: "R", chamber: "house", state: "TX", district: "TX-26", active: true },
+  { bioguideId: "G000603", name: "Brandon Gill", party: "R", chamber: "house", state: "TX", district: "TX-26", active: true },
 ];
 
 // ---------------------------------------------------------------------------
@@ -268,7 +268,7 @@ describe("member resolution", () => {
   const resolve = buildMemberResolver(MEMBERS);
 
   it("matches eFD filer names to senators", () => {
-    expect(resolve("Bernie", "Moreno")?.bioguideId).toBe("M001239");
+    expect(resolve("Bernie", "Moreno")?.bioguideId).toBe("M001242");
     expect(resolve("RICHARD ", "BLUMENTHAL")?.bioguideId).toBe("B001277");
     expect(resolve("Thomas H", "Tuberville")?.bioguideId).toBe("T000278");
   });
@@ -432,7 +432,7 @@ describe("ingestSenate end-to-end over fixtures", () => {
     // Trades: Moreno 2 + Tuberville 11, contract-valid, correct provenance.
     expect(result.trades).toHaveLength(13);
     expect(result.trades.every((t) => isTrade(t))).toBe(true);
-    const morenoTrades = result.trades.filter((t) => t.memberId === "M001239");
+    const morenoTrades = result.trades.filter((t) => t.memberId === "M001242");
     expect(morenoTrades).toHaveLength(2);
     expect(morenoTrades[0]).toMatchObject({
       side: "sell",

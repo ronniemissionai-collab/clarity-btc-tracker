@@ -41,6 +41,8 @@ export const ValueRangeSchema = z
 export const MemberSchema = z.object({
   /** Bioguide-style id, e.g. "P000197". */
   bioguideId: z.string().regex(/^[A-Z]\d{6}$/, "expected bioguide-style id"),
+  /** Senate LIS member id, e.g. "S428" (senators only; the LIS vote feed has no bioguide ids). */
+  lisId: z.string().optional(),
   name: z.string().min(1),
   party: PartySchema,
   chamber: ChamberSchema,
@@ -50,6 +52,8 @@ export const MemberSchema = z.object({
   district: z.string().optional(),
   /** Roster corrections (resignations etc.) live here, e.g. MTG resigned 2026-01-05. */
   active: z.boolean(),
+  /** Membership in the config/traders.json portfolio-tracker roster. */
+  traderRoster: z.enum(["active", "watch"]).optional(),
   note: z.string().optional(),
 });
 

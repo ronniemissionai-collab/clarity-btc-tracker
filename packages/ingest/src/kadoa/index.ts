@@ -49,6 +49,8 @@ export {
   type NormalizeKadoaResult,
 } from "./normalize.js";
 export {
+  chamberOfDocUrl,
+  cleanAssetText,
   mergeTrades,
   tradeMatchKey,
   type MergedTrade,
@@ -69,6 +71,8 @@ export interface KadoaCrossCheckOptions {
    * after it are flagged missed, earlier ones are backfill.
    */
   officialCoverageStart?: string;
+  /** Per-chamber coverage starts (see MergeTradesOptions.coverageStarts). */
+  coverageStarts?: { house?: string; senate?: string };
   /**
    * Per-filer histories to pull for backfill. Default: every kadoa congress
    * filer that matches the member roster (the top-level trades.json only
@@ -134,6 +138,9 @@ export async function crossCheckKadoa(
   const mergeResult = mergeTrades(officialTrades, normalized.trades, {
     ...(options.officialCoverageStart !== undefined
       ? { officialCoverageStart: options.officialCoverageStart }
+      : {}),
+    ...(options.coverageStarts !== undefined
+      ? { coverageStarts: options.coverageStarts }
       : {}),
   });
 

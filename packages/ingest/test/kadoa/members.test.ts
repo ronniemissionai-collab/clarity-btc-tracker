@@ -11,12 +11,12 @@ describe("buildMemberMatcher", () => {
 
   it("matches exact names", () => {
     expect(matcher.match("Nancy Pelosi", "house")?.bioguideId).toBe("P000197");
-    expect(matcher.match("Brandon Gill", "house")?.bioguideId).toBe("G000602");
+    expect(matcher.match("Brandon Gill", "house")?.bioguideId).toBe("G000603");
     expect(matcher.match("Sheri Biggs", "house")?.bioguideId).toBe("B001325");
   });
 
   it("matches formal given names against roster nicknames", () => {
-    expect(matcher.match("David H McCormick", "senate")?.bioguideId).toBe("M001244"); // Dave
+    expect(matcher.match("David H McCormick", "senate")?.bioguideId).toBe("M001243"); // Dave
     expect(matcher.match("Rohit Khanna", "house")?.bioguideId).toBe("K000389"); // Ro
     expect(matcher.match("Gilbert Cisneros", "house")?.bioguideId).toBe("C001123"); // Gil
     expect(matcher.match("Nicholas Begich III", "house")?.bioguideId).toBe("B001323"); // Nick
@@ -27,7 +27,7 @@ describe("buildMemberMatcher", () => {
   });
 
   it("keeps the two Moores apart", () => {
-    expect(matcher.match("Tim Moore", "house")?.bioguideId).toBe("M001245");
+    expect(matcher.match("Tim Moore", "house")?.bioguideId).toBe("M001236");
     expect(matcher.match("Felix Barry Moore", "house")?.bioguideId).toBe("M001212");
   });
 
@@ -46,9 +46,18 @@ describe("buildMemberMatcher", () => {
     expect(matcher.match("Shri Thanedar")?.bioguideId).toBe("T000488");
   });
 
+  it("keeps the two McCormicks apart across chambers", () => {
+    expect(matcher.match("Richard Dean McCormick", "house")?.bioguideId).toBe("M001218");
+    expect(matcher.match("David H McCormick", "senate")?.bioguideId).toBe("M001243");
+  });
+
   it("returns undefined for filers off the roster", () => {
-    expect(matcher.match("Sam T. Liccardo", "house")).toBeUndefined();
-    expect(matcher.match("Alan Armstrong", "senate")).toBeUndefined();
-    expect(matcher.match("Richard Dean McCormick", "house")).toBeUndefined();
+    // Departed members and non-members - none are on the current
+    // full-Congress roster. (Phantom eFD filers that share a real member's
+    // name, e.g. "Alan Armstrong", are excluded upstream by the party check
+    // in normalizeKadoaTrades, not by the name matcher.)
+    expect(matcher.match("Michael Waltz", "house")).toBeUndefined();
+    expect(matcher.match("Jerome Powell", "house")).toBeUndefined();
+    expect(matcher.match("Garret Graves", "house")).toBeUndefined();
   });
 });

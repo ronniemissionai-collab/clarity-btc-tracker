@@ -59,7 +59,7 @@ describe("districtFromStateDst", () => {
 describe("resolveHouseMember", () => {
   const members: Member[] = [
     member({}),
-    member({ bioguideId: "M001245", name: "Tim Moore", state: "NC", district: "NC-14" }),
+    member({ bioguideId: "M001236", name: "Tim Moore", state: "NC", district: "NC-14" }),
     member({ bioguideId: "M001212", name: "Barry Moore", state: "AL", district: "AL-01" }),
     member({ bioguideId: "B001323", name: "Nick Begich III", state: "AK", district: "AK-AL" }),
     member({ bioguideId: "L000571", name: "Cynthia Lummis", chamber: "senate", state: "WY" }),
@@ -73,7 +73,7 @@ describe("resolveHouseMember", () => {
     expect(
       resolveHouseMember(filing({ last: "Moore", first: "Tim", stateDst: "NC14" }), members)
         ?.bioguideId,
-    ).toBe("M001245");
+    ).toBe("M001236");
     expect(
       resolveHouseMember(filing({ last: "Moore", first: "Barry", stateDst: "AL01" }), members)
         ?.bioguideId,

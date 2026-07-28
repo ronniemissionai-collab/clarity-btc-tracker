@@ -85,7 +85,7 @@ export const biggs: Member = {
 };
 
 export const gill: Member = {
-  bioguideId: "G000602",
+  bioguideId: "G000603",
   name: "Brandon Gill",
   party: "R",
   chamber: "house",
