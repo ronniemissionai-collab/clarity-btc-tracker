@@ -5,14 +5,29 @@
  * them, and every holding row links its official filing.
  */
 import { describe, expect, it } from "vitest";
-import { loadData } from "../src/data";
+import { parseDataset } from "../src/data";
+import billFx from "./fixtures/bill.json";
+import membersFx from "./fixtures/members.json";
+import holdingsFx from "./fixtures/holdings.json";
+import tradesFx from "./fixtures/trades.json";
+import tradersFx from "./fixtures/traders.json";
+import newsFx from "./fixtures/news.json";
+import metaFx from "./fixtures/meta.json";
 import { buildModel } from "../src/derive";
 import { renderHero } from "../src/components/hero";
 import { renderBillStrip } from "../src/components/billStrip";
 import { renderHoldingsView } from "../src/components/holdingsView";
 import { renderPortfolioView } from "../src/components/traderCards";
 
-const data = loadData();
+const data = parseDataset({
+  bill: billFx,
+  members: membersFx,
+  holdings: holdingsFx,
+  trades: tradesFx,
+  traders: tradersFx,
+  news: newsFx,
+  meta: metaFx,
+});
 const model = buildModel(data);
 
 describe("model derived from fixtures", () => {

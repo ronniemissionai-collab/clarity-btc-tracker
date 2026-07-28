@@ -20,13 +20,13 @@ import {
 import universeRaw from "../../../config/universe.json";
 import tradersConfigRaw from "../../../config/traders.json";
 import expectationsRaw from "../../../config/expectations.json";
-import billRaw from "../../../data/bill.json";
-import membersRaw from "../../../data/members.json";
-import holdingsRaw from "../../../data/holdings.json";
-import tradesRaw from "../../../data/trades.json";
-import tradersRaw from "../../../data/traders.json";
-import newsRaw from "../../../data/news.json";
-import metaRaw from "../../../data/meta.json";
+import billRaw from "../../../site/test/fixtures/bill.json";
+import membersRaw from "../../../site/test/fixtures/members.json";
+import holdingsRaw from "../../../site/test/fixtures/holdings.json";
+import tradesRaw from "../../../site/test/fixtures/trades.json";
+import tradersRaw from "../../../site/test/fixtures/traders.json";
+import newsRaw from "../../../site/test/fixtures/news.json";
+import metaRaw from "../../../site/test/fixtures/meta.json";
 
 describe("config/universe.json", () => {
   const universe = parseUniverseConfig(universeRaw).universe;

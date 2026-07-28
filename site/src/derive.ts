@@ -56,6 +56,8 @@ export interface Model {
   housePassage: BillVote | undefined;
   /** Distinct members with a current (non-sold) holding in the universe. */
   holderCount: number;
+  /** Rows dropped because they reference departed members or lack a filing URL. */
+  unattributedHoldings: number;
   /** Distinct Tier 1 current holders by party. */
   tier1HoldersByParty: Map<Party, number>;
   /** Sum of lo / sum of hi over all current holdings (ranges sum band-wise). */
@@ -88,30 +90,33 @@ export function buildModel(data: AppData): Model {
   const memberById = new Map(data.members.map((m) => [m.bioguideId, m]));
   const securityByKey = new Map(data.universe.universe.map((s) => [securityKey(s), s]));
 
-  const rows: HoldingRow[] = data.holdings.map((holding) => {
+  // Live data can reference members who have since left Congress (kadoa backfill);
+  // those rows are dropped from display and surfaced only as a count.
+  let unattributedHoldings = 0;
+  const rows: HoldingRow[] = [];
+  for (const holding of data.holdings) {
     const member = memberById.get(holding.memberId);
-    if (!member) {
-      throw new Error(`holdings.json references unknown member ${holding.memberId}`);
+    const filing = holding.sources.find((s) => s.kind === "filing");
+    if (!member || !filing) {
+      unattributedHoldings += 1;
+      continue;
     }
     const security = securityByKey.get(securityKey(holding.security));
-    const filing = holding.sources.find((s) => s.kind === "filing");
-    if (!filing) {
-      // The schema guarantees one; belt-and-braces because the row must not ship without it.
-      throw new Error(`holding for ${member.name} has no official filing URL`);
-    }
-    return { holding, member, security, tier: security?.tier ?? 2, filingUrl: filing.url };
-  });
+    rows.push({ holding, member, security, tier: security?.tier ?? 2, filingUrl: filing.url });
+  }
 
   const tier1Rows = rows.filter((r) => r.tier === 1);
   const tier2Rows = rows.filter((r) => r.tier === 2);
 
   // --- counts -------------------------------------------------------------
-  const currentHolderIds = new Set(rows.filter((r) => isCurrent(r.holding)).map((r) => r.member.bioguideId));
+  const currentHolderIds = new Set(
+    rows.filter((r) => isCurrent(r.holding) && r.member.active !== false).map((r) => r.member.bioguideId),
+  );
 
   const tier1HoldersByParty = new Map<Party, number>();
   const seenTier1 = new Set<string>();
   for (const r of tier1Rows) {
-    if (!isCurrent(r.holding) || seenTier1.has(r.member.bioguideId)) continue;
+    if (!isCurrent(r.holding) || r.member.active === false || seenTier1.has(r.member.bioguideId)) continue;
     seenTier1.add(r.member.bioguideId);
     tier1HoldersByParty.set(r.member.party, (tier1HoldersByParty.get(r.member.party) ?? 0) + 1);
   }
@@ -179,6 +184,7 @@ export function buildModel(data: AppData): Model {
     bill: data.bill,
     housePassage,
     holderCount: currentHolderIds.size,
+    unattributedHoldings,
     tier1HoldersByParty,
     combinedExposure,
     tier1Columns,

@@ -1,0 +1,299 @@
+[
+  {
+    "memberId": "L000571",
+    "security": { "ticker": "BTC", "kind": "direct" },
+    "owner": "self",
+    "range": { "lo": 50001, "hi": 100000 },
+    "status": "stale",
+    "asOf": "2021-08-16",
+    "extraction": "efd-html",
+    "verification": "corroborated",
+    "sources": [
+      {
+        "kind": "filing",
+        "url": "https://efdsearch.senate.gov/search/view/ptr/1124fac7-7277-4328-8740-fbaceeaac1b5/",
+        "title": "Senate eFD PTR filed 2021-10-07, Sen. Cynthia Lummis (BTC buy 2021-08-16, owner Self)"
+      },
+      {
+        "kind": "news",
+        "url": "https://bitcoinpoliticians.org/",
+        "title": "Bitcoin Politicians (jlopp)"
+      }
+    ],
+    "note": "~5 BTC purchased 2013-2021; reportedly in a blind trust since Oct 2021 (press-level - blind-trust contents are not itemized in eFD, so no BTC line appears on her annuals). Owner 'self' per her 2021 PTR, the only BTC filing on record; not actively traded."
+  },
+  {
+    "memberId": "C001098",
+    "security": { "ticker": "BTC", "kind": "direct" },
+    "owner": "self",
+    "range": { "lo": 15001, "hi": 50000 },
+    "status": "holds",
+    "asOf": "2025-08-13",
+    "extraction": "efd-html",
+    "verification": "corroborated",
+    "sources": [
+      {
+        "kind": "filing",
+        "url": "https://efdsearch.senate.gov/search/view/annual/2b1c7d44-8e9a-4f10-b2c3-sample-cruz/",
+        "title": "Senate eFD annual report (2024), Sen. Ted Cruz"
+      },
+      {
+        "kind": "news",
+        "url": "https://capitolexposed.com/stock/BTC",
+        "title": "CapitolExposed BTC holders"
+      }
+    ],
+    "note": "Bought via River Financial 2022-01-25; still on latest annual."
+  },
+  {
+    "memberId": "M001243",
+    "security": { "ticker": "BITB", "kind": "spot-etf" },
+    "owner": "self",
+    "range": { "lo": 1000001, "hi": 1600000 },
+    "status": "holds",
+    "asOf": "2025-12-29",
+    "extraction": "efd-html",
+    "verification": "corroborated",
+    "sources": [
+      {
+        "kind": "filing",
+        "url": "https://efdsearch.senate.gov/search/view/ptr/9c4f2a77-1d3b-4e58-a6f9-sample-mccormick/",
+        "title": "Senate eFD PTR, Sen. David McCormick (repeated 2025 BITB buys)"
+      },
+      {
+        "kind": "news",
+        "url": "https://www.coindesk.com/policy/2025/04/24/pennsylvania-senator-mccormick-invests-more-in-bitcoin-etf",
+        "title": "CoinDesk: McCormick invests more in Bitcoin ETF"
+      },
+      {
+        "kind": "news",
+        "url": "https://www.benzinga.com/news/politics/25/12/mccormick-bitcoin-etf-purchases",
+        "title": "Benzinga: McCormick BITB total reaches ~$1.6M"
+      }
+    ],
+    "note": "Aggregated from repeated 2025 PTR buys (up to ~$1.1M by Apr, ~$1.6M by Dec). Instrument is the Bitwise spot ETF (BITB), NOT direct BTC. Also holds a Bitwise equity stake."
+  },
+  {
+    "memberId": "S001232",
+    "security": { "ticker": "BTC", "kind": "direct" },
+    "owner": "self",
+    "range": { "lo": 100001, "hi": 250000 },
+    "status": "stale",
+    "asOf": "2024-08-13",
+    "extraction": "pdf-text",
+    "verification": "unverified",
+    "sources": [
+      {
+        "kind": "filing",
+        "url": "https://efdsearch.senate.gov/search/view/annual/7a8b9c10-4d5e-4f60-8899-sample-sheehy/",
+        "title": "Senate candidate disclosure (2023, extended 2024 annual)"
+      },
+      {
+        "kind": "news",
+        "url": "https://montanafreepress.org/2025/07/22/montana-delegation-crypto-holdings/",
+        "title": "Montana Free Press: MT delegation crypto holdings"
+      }
+    ],
+    "note": "Reported as a 'Bitcoin investment fund' on the 2023 candidate disclosure; needs re-verification against the latest annual - marked stale."
+  },
+  {
+    "memberId": "G000603",
+    "security": { "ticker": "BTC", "kind": "direct" },
+    "owner": "self",
+    "range": { "lo": 1150000, "hi": 2600000 },
+    "status": "holds",
+    "asOf": "2025-12-31",
+    "extraction": "pdf-text",
+    "verification": "corroborated",
+    "sources": [
+      {
+        "kind": "filing",
+        "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20026591.pdf",
+        "title": "House Clerk PTR, Rep. Brandon Gill (2025-06-20 buy $500K-$1M)"
+      },
+      {
+        "kind": "news",
+        "url": "https://capitoltrades.com/trades/20003787928",
+        "title": "Capitol Trades: Gill BTC purchase"
+      },
+      {
+        "kind": "news",
+        "url": "https://cryptobriefing.com/brandon-gill-bitcoin-holdings-house-largest/",
+        "title": "Crypto Briefing: largest House BTC position"
+      }
+    ],
+    "note": "Estimated $1.15M-$2.6M across repeated 2025 buy-the-dip purchases; ~$500K of early-2025 buys disclosed late (STOCK Act violation, OpenSecrets 2025-06-02)."
+  },
+  {
+    "memberId": "G000603",
+    "security": { "ticker": "IBIT", "kind": "spot-etf" },
+    "owner": "self",
+    "range": { "lo": 15001, "hi": 50000 },
+    "status": "holds",
+    "asOf": "2025-10-29",
+    "extraction": "pdf-text",
+    "verification": "unverified",
+    "sources": [
+      {
+        "kind": "filing",
+        "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20026712.pdf",
+        "title": "House Clerk PTR, Rep. Brandon Gill (2025-10-29 IBIT buy)"
+      }
+    ]
+  },
+  {
+    "memberId": "B001323",
+    "security": { "ticker": "BTC", "kind": "direct" },
+    "owner": "self",
+    "range": { "lo": 500001, "hi": 1000000 },
+    "status": "holds",
+    "asOf": "2025-08-26",
+    "extraction": "pdf-ocr",
+    "verification": "corroborated",
+    "sources": [
+      {
+        "kind": "filing",
+        "url": "https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/8220345.pdf",
+        "title": "House annual FD (2025), Rep. Nick Begich III"
+      },
+      {
+        "kind": "news",
+        "url": "https://alaskapublic.org/2025/08/26/begich-bitcoin-holdings-bitcoin-act/",
+        "title": "Alaska Public Media: Begich holds ~$760K BTC while sponsoring the BITCOIN Act"
+      }
+    ],
+    "note": "Held since 2013. Scanned annual FD - OCR extraction. CREW flagged the BITCOIN Act conflict."
+  },
+  {
+    "memberId": "D000032",
+    "security": { "ticker": "BTC", "kind": "direct" },
+    "owner": "spouse",
+    "range": { "lo": 50001, "hi": 100000 },
+    "status": "holds",
+    "asOf": "2025-12-18",
+    "extraction": "pdf-text",
+    "verification": "corroborated",
+    "sources": [
+      {
+        "kind": "filing",
+        "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20026998.pdf",
+        "title": "House Clerk PTR, Rep. Byron Donalds (spouse buy 2025-12-18)"
+      },
+      {
+        "kind": "news",
+        "url": "https://notus.org/donalds-bitcoin-irs-staking-rule/",
+        "title": "NOTUS: buy landed the same day he pressed the IRS on the staking rule"
+      }
+    ],
+    "note": "Attribution must say spouse."
+  },
+  {
+    "memberId": "B001325",
+    "security": { "ticker": "IBIT", "kind": "spot-etf" },
+    "owner": "spouse",
+    "range": { "lo": 200002, "hi": 500000 },
+    "status": "holds",
+    "asOf": "2026-03-04",
+    "extraction": "pdf-text",
+    "verification": "unverified",
+    "sources": [
+      {
+        "kind": "filing",
+        "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20027103.pdf",
+        "title": "House Clerk PTR, Rep. Sheri Biggs (2026-03-04 IBIT buy)"
+      },
+      {
+        "kind": "news",
+        "url": "https://www.quiverquant.com/congresstrading/trade/House-B001325-49",
+        "title": "Quiver Quantitative trade record"
+      }
+    ],
+    "note": "Two buys ($100K-$250K each, 2025-07-09 and 2026-03-04) in a spouse/managed account; ranges summed lo+lo / hi+hi."
+  },
+  {
+    "memberId": "M001212",
+    "security": { "ticker": "BTC", "kind": "direct" },
+    "owner": "self",
+    "range": { "lo": 1001, "hi": 15000 },
+    "status": "holds",
+    "asOf": "2025-08-13",
+    "extraction": "pdf-text",
+    "verification": "unverified",
+    "sources": [
+      {
+        "kind": "filing",
+        "url": "https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/8220411.pdf",
+        "title": "House annual FD (2025), Rep. Barry Moore"
+      }
+    ]
+  },
+  {
+    "memberId": "R000610",
+    "security": { "ticker": "BTC", "kind": "direct" },
+    "owner": "self",
+    "range": { "lo": 1001, "hi": 15000 },
+    "status": "sold",
+    "asOf": "2025-04-24",
+    "extraction": "pdf-text",
+    "verification": "corroborated",
+    "sources": [
+      {
+        "kind": "filing",
+        "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20026402.pdf",
+        "title": "House Clerk PTR, Rep. Guy Reschenthaler (sale 2025-04-24)"
+      },
+      {
+        "kind": "news",
+        "url": "https://www.quiverquant.com/congresstrading/stock/BITCOIN",
+        "title": "Quiver Quantitative: BITCOIN trades"
+      }
+    ],
+    "note": "SOLD 2025-04-24 (at least partial exit) - must render with a SOLD chip, not as a holder."
+  },
+  {
+    "memberId": "K000389",
+    "security": { "ticker": "IBIT", "kind": "spot-etf" },
+    "owner": "dependent",
+    "range": { "lo": 100001, "hi": 250000 },
+    "status": "holds",
+    "asOf": "2026-02-26",
+    "extraction": "pdf-text",
+    "verification": "corroborated",
+    "sources": [
+      {
+        "kind": "filing",
+        "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20027055.pdf",
+        "title": "House Clerk PTR, Rep. Ro Khanna (child account, 2026-02-26)"
+      },
+      {
+        "kind": "news",
+        "url": "https://capitolexposed.com/stock/IBIT",
+        "title": "CapitolExposed IBIT holders"
+      }
+    ],
+    "note": "Child's account. One of only ~2-3 Democrats with real BTC exposure - missing him skews the D count to ~zero."
+  },
+  {
+    "memberId": "T000488",
+    "security": { "ticker": "MSTR", "kind": "treasury" },
+    "owner": "self",
+    "range": { "lo": 15001, "hi": 50000 },
+    "status": "holds",
+    "asOf": "2025-08-15",
+    "extraction": "pdf-text",
+    "verification": "corroborated",
+    "sources": [
+      {
+        "kind": "filing",
+        "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20026488.pdf",
+        "title": "House Clerk PTR, Rep. Shri Thanedar (MSTR buy Aug 2025)"
+      },
+      {
+        "kind": "news",
+        "url": "https://www.quiverquant.com/congresstrading/stock/MSTR",
+        "title": "Quiver Quantitative: MSTR congressional trades"
+      }
+    ],
+    "note": "Tier 2 proxy exposure; also reported direct BTC/ETH/LTC on the 2023 annual (re-verify)."
+  }
+]

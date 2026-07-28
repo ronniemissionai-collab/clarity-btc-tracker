@@ -43,15 +43,39 @@ export interface AppData {
   universe: UniverseConfig;
 }
 
-export function loadData(): AppData {
+export interface RawDataset {
+  bill: unknown;
+  members: unknown;
+  holdings: unknown;
+  trades: unknown;
+  traders: unknown;
+  news: unknown;
+  meta: unknown;
+  universe?: unknown;
+}
+
+export function parseDataset(raw: RawDataset): AppData {
   return {
-    bill: parseBill(billRaw),
-    members: parseMembers(membersRaw),
-    holdings: parseHoldings(holdingsRaw),
-    trades: parseTrades(tradesRaw),
-    traders: parseTraders(tradersRaw),
-    news: parseNews(newsRaw),
-    meta: parseMeta(metaRaw),
-    universe: parseUniverseConfig(universeRaw),
+    bill: parseBill(raw.bill),
+    members: parseMembers(raw.members),
+    holdings: parseHoldings(raw.holdings),
+    trades: parseTrades(raw.trades),
+    traders: parseTraders(raw.traders),
+    news: parseNews(raw.news),
+    meta: parseMeta(raw.meta),
+    universe: parseUniverseConfig(raw.universe ?? universeRaw),
   };
+}
+
+export function loadData(): AppData {
+  return parseDataset({
+    bill: billRaw,
+    members: membersRaw,
+    holdings: holdingsRaw,
+    trades: tradesRaw,
+    traders: tradersRaw,
+    news: newsRaw,
+    meta: metaRaw,
+    universe: universeRaw,
+  });
 }
