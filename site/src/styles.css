@@ -1,0 +1,831 @@
+/* ---------------------------------------------------------------------------
+ * clarity-btc-tracker — Variant D visual system.
+ * Warm-paper/ink ledger palette, Bitcoin ochre single accent, party
+ * crimson/cobalt reserved for chips, serif display + monospace tabular
+ * figures. Light + dark via tokens: prefers-color-scheme sets the default,
+ * [data-theme] on <html> overrides it (theme.ts toggle).
+ * ------------------------------------------------------------------------- */
+
+:root {
+  --paper: #f7f5f0;
+  --ink: #1c1e22;
+  --ink-2: #5a574f;
+  --line: #ddd8cc;
+  --card: #ffffff;
+  --accent: #d97e1e;
+  --accent-ink: #9a5510;
+  --rep: #a63a32;
+  --dem: #33639e;
+  --ind: #5a7d5a;
+  --gain: #2e7d4f;
+  --loss: #b04238;
+  --warn-bg: #f3ead2;
+  --warn-ink: #6e5613;
+  --chip: #efebe1;
+  --on-party: #ffffff;
+  color-scheme: light;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --paper: #16181d;
+    --ink: #e9e6df;
+    --ink-2: #a19c90;
+    --line: #33363e;
+    --card: #1e2127;
+    --accent: #e89440;
+    --accent-ink: #e89440;
+    --rep: #c96a61;
+    --dem: #6e97cc;
+    --ind: #86ab86;
+    --gain: #5caf85;
+    --loss: #cc7168;
+    --warn-bg: #2e2a1c;
+    --warn-ink: #d9c173;
+    --chip: #262a31;
+    --on-party: #16181d;
+    color-scheme: dark;
+  }
+}
+
+:root[data-theme="light"] {
+  --paper: #f7f5f0;
+  --ink: #1c1e22;
+  --ink-2: #5a574f;
+  --line: #ddd8cc;
+  --card: #ffffff;
+  --accent: #d97e1e;
+  --accent-ink: #9a5510;
+  --rep: #a63a32;
+  --dem: #33639e;
+  --ind: #5a7d5a;
+  --gain: #2e7d4f;
+  --loss: #b04238;
+  --warn-bg: #f3ead2;
+  --warn-ink: #6e5613;
+  --chip: #efebe1;
+  --on-party: #ffffff;
+  color-scheme: light;
+}
+
+:root[data-theme="dark"] {
+  --paper: #16181d;
+  --ink: #e9e6df;
+  --ink-2: #a19c90;
+  --line: #33363e;
+  --card: #1e2127;
+  --accent: #e89440;
+  --accent-ink: #e89440;
+  --rep: #c96a61;
+  --dem: #6e97cc;
+  --ind: #86ab86;
+  --gain: #5caf85;
+  --loss: #cc7168;
+  --warn-bg: #2e2a1c;
+  --warn-ink: #d9c173;
+  --chip: #262a31;
+  --on-party: #16181d;
+  color-scheme: dark;
+}
+
+/* --------------------------------- base --------------------------------- */
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  background: var(--paper);
+  color: var(--ink);
+  font:
+    16px/1.55 system-ui,
+    sans-serif;
+}
+
+h1,
+h2,
+h3,
+.display {
+  font-family: "Iowan Old Style", Palatino, Georgia, serif;
+  text-wrap: balance;
+}
+
+.num {
+  font-family: ui-monospace, "SF Mono", Menlo, monospace;
+  font-variant-numeric: tabular-nums;
+  font-size: 0.92em;
+}
+
+a {
+  color: var(--accent-ink);
+}
+
+.muted {
+  color: var(--ink-2);
+}
+
+.wrap {
+  max-width: 76rem;
+  margin: 0 auto;
+  padding: 0 1.25rem 2rem;
+}
+
+.eyebrow {
+  text-transform: uppercase;
+  letter-spacing: 0.09em;
+  font-size: 0.72rem;
+  color: var(--ink-2);
+  font-weight: 600;
+  margin: 0;
+}
+
+.visually-hidden {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0 0 0 0);
+  white-space: nowrap;
+  border: 0;
+}
+
+/* Keyboard-visible focus everywhere. */
+:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 2px;
+  border-radius: 2px;
+}
+
+.skip-link {
+  position: absolute;
+  left: -100vw;
+  top: 0;
+  background: var(--ink);
+  color: var(--paper);
+  padding: 0.4rem 0.8rem;
+  border-radius: 0 0 6px 0;
+  z-index: 100;
+}
+
+.skip-link:focus-visible {
+  left: 0;
+}
+
+.errbox {
+  background: var(--card);
+  border: 1px solid var(--loss);
+  border-radius: 8px;
+  padding: 1rem;
+  overflow-x: auto;
+  font-size: 0.8rem;
+}
+
+/* --------------------------------- chips -------------------------------- */
+
+.chip {
+  display: inline-block;
+  padding: 0.1rem 0.55rem;
+  border-radius: 999px;
+  font-size: 0.74rem;
+  font-weight: 600;
+  background: var(--chip);
+  color: var(--ink);
+  white-space: nowrap;
+}
+
+.chip.r {
+  color: var(--on-party);
+  background: var(--rep);
+}
+
+.chip.d {
+  color: var(--on-party);
+  background: var(--dem);
+}
+
+.chip.i {
+  color: var(--on-party);
+  background: var(--ind);
+}
+
+.chip.yea {
+  background: var(--gain);
+  color: var(--on-party);
+}
+
+.chip.nay {
+  background: var(--loss);
+  color: var(--on-party);
+}
+
+.chip.sold {
+  background: transparent;
+  border: 1.5px solid var(--loss);
+  color: var(--loss);
+}
+
+.chip.owner {
+  border: 1.5px solid var(--line);
+  background: transparent;
+  color: var(--ink-2);
+  font-style: italic;
+}
+
+.chip.ocr,
+.chip.unverified,
+.chip.stale {
+  background: var(--warn-bg);
+  color: var(--warn-ink);
+}
+
+.chip.conflict {
+  background: transparent;
+  border: 1.5px dashed var(--loss);
+  color: var(--loss);
+}
+
+/* --------------------------------- hero --------------------------------- */
+
+.hero {
+  padding: 1.4rem 0 1.4rem;
+}
+
+.topbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  gap: 1rem;
+  flex-wrap: wrap;
+}
+
+.theme-toggle {
+  font: 600 0.74rem/1.4 system-ui, sans-serif;
+  letter-spacing: 0.04em;
+  border: 1px solid var(--line);
+  background: var(--card);
+  color: var(--ink-2);
+  border-radius: 999px;
+  padding: 0.2rem 0.7rem;
+  cursor: pointer;
+}
+
+.hero h1 {
+  font-size: clamp(1.9rem, 5vw, 3.2rem);
+  line-height: 1.08;
+  margin: 0.5rem 0 0.9rem;
+  max-width: 24ch;
+}
+
+.hero .big {
+  color: var(--accent-ink);
+  font-variant-numeric: tabular-nums;
+}
+
+.hero-sub {
+  max-width: 58ch;
+  color: var(--ink-2);
+  margin: 0;
+}
+
+/* ------------------------------ bill status ------------------------------ */
+
+.stages {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1.1rem 1.5rem;
+  align-items: center;
+  background: var(--card);
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  padding: 0.9rem 1.1rem;
+  list-style: none;
+  margin: 0;
+}
+
+.stage {
+  display: flex;
+  align-items: center;
+  gap: 0.45rem;
+  font-size: 0.85rem;
+}
+
+.stage .dot {
+  flex: none;
+  width: 0.65rem;
+  height: 0.65rem;
+  border-radius: 50%;
+  background: var(--gain);
+}
+
+.stage.current .dot {
+  background: var(--accent);
+  outline: 3px solid color-mix(in srgb, var(--accent) 30%, transparent);
+}
+
+.stage.pending .dot {
+  background: var(--line);
+}
+
+.stage.current b {
+  color: var(--accent-ink);
+}
+
+.stage-date {
+  color: var(--ink-2);
+}
+
+.subnote {
+  background: var(--warn-bg);
+  color: var(--warn-ink);
+  border-radius: 8px;
+  padding: 0.7rem 0.9rem;
+  font-size: 0.87rem;
+  margin: 0.8rem 0 0;
+}
+
+.news {
+  margin-top: 0.8rem;
+  border-left: 3px solid var(--line);
+  padding-left: 0.9rem;
+}
+
+.news-head {
+  margin-bottom: 0.25rem;
+}
+
+.news-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  font-size: 0.86rem;
+}
+
+.news-item {
+  padding: 0.15rem 0;
+}
+
+.news-meta {
+  color: var(--ink-2);
+  white-space: nowrap;
+}
+
+/* --------------------------------- tabs ---------------------------------- */
+
+.tabs {
+  display: flex;
+  gap: 0;
+  border-bottom: 2px solid var(--line);
+  margin: 1.4rem 0 1.5rem;
+}
+
+.tab {
+  font: inherit;
+  font-weight: 600;
+  padding: 0.55rem 1.1rem;
+  background: none;
+  border: 0;
+  border-bottom: 3px solid transparent;
+  margin-bottom: -2px;
+  color: var(--ink-2);
+  cursor: pointer;
+}
+
+.tab.on {
+  color: var(--ink);
+  border-bottom-color: var(--accent);
+}
+
+[role="tabpanel"]:focus-visible {
+  outline-offset: -2px;
+}
+
+/* ------------------------------ stat cards ------------------------------- */
+
+.statcards {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(10.5rem, 1fr));
+  gap: 0.9rem;
+  margin: 0 0 1.2rem;
+}
+
+.statcard {
+  background: var(--card);
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  padding: 0.8rem 1rem;
+}
+
+.statvalue {
+  display: block;
+  font-size: 1.55rem;
+  margin-top: 0.15rem;
+}
+
+.statvalue.rep {
+  color: var(--rep);
+}
+
+.statvalue.dem {
+  color: var(--dem);
+}
+
+.statdetail {
+  color: var(--ink-2);
+}
+
+/* -------------------------------- toolbar -------------------------------- */
+
+.toolbar {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.9rem 1.4rem;
+  align-items: center;
+  margin: 0 0 1.1rem;
+  font-size: 0.85rem;
+}
+
+.control {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.45rem;
+}
+
+.control-label {
+  font-weight: 600;
+  color: var(--ink-2);
+  text-transform: uppercase;
+  font-size: 0.72rem;
+  letter-spacing: 0.07em;
+}
+
+.control select {
+  font: inherit;
+  color: var(--ink);
+  background: var(--card);
+  border: 1px solid var(--line);
+  border-radius: 6px;
+  padding: 0.3rem 0.5rem;
+  max-width: 16rem;
+}
+
+/* ---------------------------- party columns ------------------------------ */
+
+.cols {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(min(100%, 21rem), 1fr));
+  gap: 1rem;
+}
+
+.col {
+  border-top: 4px solid var(--ink-2);
+  background: var(--card);
+  border-radius: 0 0 8px 8px;
+  border-right: 1px solid var(--line);
+  border-left: 1px solid var(--line);
+  border-bottom: 1px solid var(--line);
+  padding: 0.9rem;
+}
+
+.col.rep {
+  border-top-color: var(--rep);
+}
+
+.col.dem {
+  border-top-color: var(--dem);
+}
+
+.col.ind {
+  border-top-color: var(--ind);
+}
+
+.col-head {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  margin: 0.1rem 0 0.4rem;
+  font-size: 1.1rem;
+}
+
+.col-count {
+  font-size: 1rem;
+}
+
+.member {
+  padding: 0.55rem 0;
+  border-bottom: 1px solid var(--line);
+}
+
+.member:last-child {
+  border-bottom: 0;
+}
+
+.member-head {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  gap: 0.5rem;
+  flex-wrap: wrap;
+  font-size: 0.92rem;
+}
+
+.holding {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  gap: 0.5rem 0.75rem;
+  flex-wrap: wrap;
+  padding: 0.3rem 0 0.1rem;
+  font-size: 0.88rem;
+}
+
+.holding-sec {
+  min-width: 0;
+}
+
+.holding-val {
+  text-align: right;
+  margin-left: auto;
+}
+
+.range-link {
+  text-decoration-color: color-mix(in srgb, var(--accent-ink) 45%, transparent);
+}
+
+.sold-range {
+  text-decoration: line-through;
+  color: var(--ink-2);
+}
+
+.member-note {
+  display: block;
+  margin-top: 0.25rem;
+  font-size: 0.78rem;
+}
+
+.rangebar {
+  position: relative;
+  height: 6px;
+  width: 7.5rem;
+  max-width: 100%;
+  background: var(--chip);
+  border-radius: 3px;
+  margin: 0.3rem 0 0 auto;
+}
+
+.rangebar-band {
+  position: absolute;
+  top: 0;
+  height: 100%;
+  background: var(--accent);
+  border-radius: 3px;
+}
+
+.empty {
+  font-size: 0.88rem;
+}
+
+/* ------------------------------ tier 2 table ------------------------------ */
+
+.tier2-head {
+  font-size: 1.05rem;
+  margin: 1.8rem 0 0.6rem;
+}
+
+.tier2-head small {
+  font-weight: 400;
+  font-family: system-ui, sans-serif;
+}
+
+.tablebox {
+  overflow-x: auto;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: var(--card);
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+  min-width: 46rem;
+}
+
+th {
+  text-align: left;
+  font-size: 0.72rem;
+  text-transform: uppercase;
+  letter-spacing: 0.07em;
+  color: var(--ink-2);
+  padding: 0.6rem 0.75rem;
+  border-bottom: 2px solid var(--line);
+}
+
+.th-sort {
+  font: inherit;
+  color: inherit;
+  text-transform: inherit;
+  letter-spacing: inherit;
+  background: none;
+  border: 0;
+  padding: 0;
+  cursor: pointer;
+}
+
+th[aria-sort="ascending"] .th-sort::after {
+  content: " ↑";
+}
+
+th[aria-sort="descending"] .th-sort::after {
+  content: " ↓";
+}
+
+td {
+  padding: 0.55rem 0.75rem;
+  border-bottom: 1px solid var(--line);
+  vertical-align: top;
+  font-size: 0.9rem;
+}
+
+tr:last-child td {
+  border-bottom: 0;
+}
+
+/* ------------------------------ trader cards ------------------------------ */
+
+.view-intro {
+  max-width: 60ch;
+  margin: 0 0 1.1rem;
+}
+
+.traders {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(min(100%, 17rem), 1fr));
+  gap: 1rem;
+}
+
+.trader {
+  background: var(--card);
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  padding: 1rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.45rem;
+}
+
+.trader-head {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  gap: 0.5rem;
+}
+
+.rank {
+  font-family: "Iowan Old Style", Palatino, Georgia, serif;
+  font-size: 1.9rem;
+  color: var(--accent-ink);
+}
+
+.trader-name {
+  margin: 0;
+  font-size: 1.15rem;
+}
+
+.spark-wrap {
+  display: flex;
+  flex-direction: column;
+  gap: 0.15rem;
+}
+
+.spark {
+  width: 100%;
+  height: 34px;
+}
+
+.spark-caption,
+.spark-empty {
+  color: var(--ink-2);
+  font-size: 0.72rem;
+}
+
+.spark-empty {
+  margin: 0;
+  padding: 0.55rem 0;
+  border-block: 1px dashed var(--line);
+}
+
+.trader-stats {
+  display: grid;
+  grid-template-columns: auto 1fr;
+  gap: 0.6rem 1rem;
+  font-size: 0.85rem;
+}
+
+.trader-trades {
+  display: flex;
+  flex-direction: column;
+}
+
+.trader-trades .num {
+  font-size: 1.1rem;
+}
+
+.trader-claims {
+  grid-column: 2;
+  grid-row: 1;
+}
+
+.trader-measured {
+  grid-column: 1 / -1;
+  border-top: 1px solid var(--line);
+  padding-top: 0.5rem;
+}
+
+.claim {
+  margin: 0.15rem 0 0;
+}
+
+.measured-value {
+  display: inline-block;
+  font-size: 1.1rem;
+  margin: 0.1rem 0.5rem 0 0;
+}
+
+.measured-value.gain {
+  color: var(--gain);
+}
+
+.measured-value.loss {
+  color: var(--loss);
+}
+
+.measured-excess {
+  white-space: nowrap;
+}
+
+.measured-note {
+  display: block;
+  margin-top: 0.15rem;
+}
+
+.trader-attr {
+  font-size: 0.78rem;
+}
+
+.trader-note {
+  font-size: 0.78rem;
+}
+
+.methodnote {
+  font-size: 0.85rem;
+  max-width: 62ch;
+  margin-top: 1.1rem;
+}
+
+/* -------------------------------- footer --------------------------------- */
+
+.foot {
+  border-top: 2px solid var(--line);
+  margin-top: 2.5rem;
+  padding: 1.25rem 0 1rem;
+  font-size: 0.84rem;
+  color: var(--ink-2);
+}
+
+.foot p {
+  max-width: 62ch;
+}
+
+/* ------------------------- motion & small screens ------------------------- */
+
+@media (prefers-reduced-motion: no-preference) {
+  .tab,
+  .theme-toggle,
+  a {
+    transition:
+      color 0.15s,
+      background 0.15s,
+      border-color 0.15s;
+  }
+}
+
+@media (max-width: 26rem) {
+  .wrap {
+    padding: 0 1rem 2rem;
+  }
+
+  .tab {
+    padding: 0.55rem 0.8rem;
+  }
+
+  .holding-val {
+    text-align: left;
+    margin-left: 0;
+  }
+
+  .rangebar {
+    margin-left: 0;
+  }
+}
