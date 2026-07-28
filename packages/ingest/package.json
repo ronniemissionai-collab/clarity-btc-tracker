@@ -13,5 +13,8 @@
   },
   "dependencies": {
     "@clarity-btc/shared": "*"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.0"
   }
 }
