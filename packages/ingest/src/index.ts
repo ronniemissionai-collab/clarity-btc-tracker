@@ -3,7 +3,12 @@
  * All modules are typed no-op stubs until their build tickets land.
  */
 export { ingestHouse, type HouseIngestResult } from "./house.js";
-export { ingestSenate, type SenateIngestResult } from "./senate.js";
+export {
+  ingestSenate,
+  type SenateIngestOptions,
+  type SenateIngestResult,
+  type SenatePaperStub,
+} from "./senate/index.js";
 export {
   crossCheckKadoa,
   fetchKadoaFilerTrades,
