@@ -1,0 +1,27 @@
+{
+  "name": "clarity-btc-tracker",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "CLARITY Act & Congressional Bitcoin Tracker - static site + daily ingest pipeline",
+  "workspaces": [
+    "packages/*",
+    "site"
+  ],
+  "scripts": {
+    "build": "tsc -p packages/shared && tsc -p packages/ingest && tsc -p site && vite build site",
+    "test": "vitest run",
+    "lint": "eslint ."
+  },
+  "engines": {
+    "node": ">=22"
+  },
+  "devDependencies": {
+    "@eslint/js": "^10.0.1",
+    "eslint": "^10.8.0",
+    "typescript": "^6.0.3",
+    "typescript-eslint": "^8.65.0",
+    "vite": "^8.1.5",
+    "vitest": "^4.1.10"
+  }
+}

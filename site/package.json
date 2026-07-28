@@ -1,0 +1,14 @@
+{
+  "name": "@clarity-btc/site",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Static front-end (placeholder until the design-build ticket; proves the shared-types + fixtures wiring)",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc -p . && vite build"
+  },
+  "dependencies": {
+    "@clarity-btc/shared": "*"
+  }
+}

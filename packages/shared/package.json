@@ -1,0 +1,17 @@
+{
+  "name": "@clarity-btc/shared",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Shared TypeScript types + zod schemas - the single data contract for clarity-btc-tracker",
+  "types": "./src/index.ts",
+  "exports": {
+    ".": {
+      "types": "./src/index.ts",
+      "default": "./src/index.ts"
+    }
+  },
+  "dependencies": {
+    "zod": "^3.25.76"
+  }
+}

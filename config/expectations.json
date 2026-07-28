@@ -1,0 +1,44 @@
+{
+  "holderBound": {
+    "min": 15,
+    "max": 25
+  },
+  "contested": [
+    {
+      "id": "mccormick-instrument",
+      "memberId": "M001244",
+      "memberName": "Dave McCormick",
+      "rule": "holds-security",
+      "expect": { "ticker": "BITB", "kind": "spot-etf" },
+      "forbid": { "ticker": "BTC", "kind": "direct" },
+      "note": "Largest BTC investor in Congress via the Bitwise spot ETF (BITB, up to $1.6M+ in 2025 buys) plus a Bitwise equity stake - sits on Senate Banking. Must never render as direct BTC.",
+      "source": "https://www.coindesk.com/policy/2025/04/24/pennsylvania-senator-mccormick-invests-more-in-bitcoin-etf"
+    },
+    {
+      "id": "gill-direct-btc-range",
+      "memberId": "G000602",
+      "memberName": "Brandon Gill",
+      "rule": "holding-range",
+      "expect": { "ticker": "BTC", "kind": "direct", "lo": 1150000, "hi": 2600000 },
+      "note": "Largest direct-BTC position in the House, estimated $1.15M-$2.6M end-2025; STOCK Act late-filing violation on ~$500K of early-2025 buys. The direct-BTC holding range must sit within these bounds.",
+      "source": "https://capitoltrades.com/trades/20003787928"
+    },
+    {
+      "id": "lummis-blind-trust",
+      "memberId": "L000571",
+      "memberName": "Cynthia Lummis",
+      "rule": "owner",
+      "expect": { "ticker": "BTC", "kind": "direct", "owner": "trust" },
+      "note": "~5 BTC in a blind trust since 2021; sponsors the Senate BITCOIN Act. The page must not present it as actively traded.",
+      "source": "https://bitcoinpoliticians.org/"
+    },
+    {
+      "id": "mtg-absent",
+      "memberId": "G000596",
+      "memberName": "Marjorie Taylor Greene",
+      "rule": "member-inactive",
+      "note": "Resigned from Congress effective 2026-01-05. Must be absent from the active holder set (active=false); appears only as historical data.",
+      "source": "https://finance.yahoo.com/news/marjorie-taylor-greene-stocks-jumped-181500027.html"
+    }
+  ]
+}

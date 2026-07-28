@@ -1,0 +1,114 @@
+[
+  {
+    "memberId": "C001123",
+    "tradeCount": 1464,
+    "claims": [
+      {
+        "quote": "This is the biggest trader in Congress with over 1,000 trades this last year.",
+        "sourceUrl": "https://finbold.com/this-is-the-biggest-trader-in-congress-with-over-1000-trades-this-last-year/",
+        "attribution": "Finbold"
+      }
+    ],
+    "measured": {
+      "return": 9.5,
+      "excess": -1.5,
+      "method": "midpoint",
+      "benchmark": "SPY",
+      "window": "2025-26 buys, mean since-trade",
+      "asOf": "2026-07-24"
+    },
+    "attribution": "self",
+    "note": "638 trades in 2026 - most active member right now; ~$48M+ volume of diversified churn."
+  },
+  {
+    "memberId": "G000583",
+    "tradeCount": 480,
+    "claims": [
+      {
+        "quote": "Perennial 'most active trader in Congress' headlines; 3,482 all-time disclosed trades.",
+        "sourceUrl": "https://unusualwhales.substack.com/p/congressional-trading-report-2025",
+        "attribution": "Unusual Whales Congress Trading Report 2025"
+      }
+    ],
+    "measured": {
+      "return": 16.8,
+      "excess": -3.8,
+      "method": "midpoint",
+      "benchmark": "SPY",
+      "window": "2025-26 buys, mean since-trade",
+      "asOf": "2026-07-24"
+    },
+    "attribution": "self",
+    "note": "Rapid-fire big-tech round trips; 293 late filings all-time."
+  },
+  {
+    "memberId": "M001244",
+    "tradeCount": 344,
+    "claims": [
+      {
+        "quote": "Sen. David McCormick reports new Bitcoin ETF purchases as total for 2025 approaches $1 million.",
+        "sourceUrl": "https://www.quiverquant.com/news/Sen.+David+McCormick+Reports+New+Bitcoin+ETF+Purchases+as+Total+for+2025+Approaches+$1+Million",
+        "attribution": "Quiver Quantitative"
+      }
+    ],
+    "measured": {
+      "return": -23.2,
+      "excess": -49.5,
+      "method": "midpoint",
+      "benchmark": "SPY",
+      "window": "2025-26 buys, mean since-trade",
+      "asOf": "2026-07-24",
+      "note": "314 of 344 trades are BITB; Mar & Nov 2025 buys down 26-29%."
+    },
+    "attribution": "self",
+    "note": "Fame verified, but as a loser so far - directly relevant to a BTC tracker."
+  },
+  {
+    "memberId": "M001245",
+    "tradeCount": 236,
+    "claims": [
+      {
+        "quote": "2025's best market return in Congress with a +52% gain.",
+        "sourceUrl": "https://nypost.com/2026/01/03/us-news/heres-how-much-members-of-congress-raked-in-on-their-stock-portfolios-2025/",
+        "attribution": "Quiver Quantitative via NY Post"
+      }
+    ],
+    "measured": {
+      "return": 62.5,
+      "excess": 41.5,
+      "method": "midpoint",
+      "benchmark": "SPY",
+      "window": "2025-26 buys, mean since-trade",
+      "asOf": "2026-07-24"
+    },
+    "attribution": "self",
+    "note": "Best measured among prolific traders - fame verified by data. Small-cap heavy; 23 late filings."
+  },
+  {
+    "memberId": "P000197",
+    "tradeCount": 28,
+    "claims": [
+      {
+        "quote": "PelosiTracker shows +19% portfolio return.",
+        "sourceUrl": "https://pelositracker.app/portfolios/nancy-pelosi",
+        "attribution": "PelosiTracker app"
+      },
+      {
+        "quote": "Lifetime +816%-per-decade claims circulate on X; 2025 was 18-20%, roughly market.",
+        "sourceUrl": "https://www.lambdafin.com/articles/nancy-pelosi-portfolio-returns-by-year",
+        "attribution": "LambdaFin"
+      }
+    ],
+    "measured": {
+      "return": 9.0,
+      "excess": -3.2,
+      "method": "midpoint",
+      "benchmark": "SPY",
+      "window": "2025-26 buys, mean since-trade",
+      "asOf": "2026-07-24",
+      "note": "Excludes LEAPS options legs, which cannot be marked to market from equity closes."
+    },
+    "attribution": "spouse (Paul Pelosi)",
+    "note": "Low count, huge sizes; the legend is built on 2023-24 AVGO/NVDA/PLTR calls (kadoa lifetime avg since-trade +207.5%)."
+  }
+]

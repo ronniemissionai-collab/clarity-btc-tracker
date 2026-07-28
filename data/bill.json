@@ -1,0 +1,114 @@
+{
+  "congress": 119,
+  "billType": "hr",
+  "number": 3633,
+  "title": "Digital Asset Market Clarity Act of 2025",
+  "shortTitle": "CLARITY Act",
+  "introducedDate": "2025-05-29",
+  "sponsor": { "name": "Rep. J. French Hill", "party": "R", "state": "AR" },
+  "latestAction": {
+    "date": "2026-06-01",
+    "text": "Reported by Sen. Tim Scott (R-SC) with an amendment in the nature of a substitute; placed on Senate Legislative Calendar under General Orders, Calendar No. 423."
+  },
+  "substituteWarning": "The Senate text is a full strike-and-replace substitute (now a merged 616-page Banking+Agriculture draft). If the Senate passes H.R. 3633, the bill goes back to the House for re-passage of the amended text - it does NOT send the House-passed CLARITY text to the President. A cloture vote is not a passage vote.",
+  "stages": [
+    {
+      "label": "Introduced in House",
+      "date": "2025-05-29",
+      "status": "done",
+      "detail": "Referred to House Financial Services + Agriculture."
+    },
+    {
+      "label": "Passed House",
+      "date": "2025-07-17",
+      "status": "done",
+      "detail": "294-134 (Roll Call 199)."
+    },
+    {
+      "label": "Senate Banking reported (substitute text)",
+      "date": "2026-06-01",
+      "status": "done",
+      "detail": "Ordered reported 15-9 on 2026-05-14 with an amendment in the nature of a substitute; Calendar No. 423."
+    },
+    {
+      "label": "Senate floor vote",
+      "date": null,
+      "status": "current",
+      "detail": "No Senate roll call as of 2026-07-27 (zero H.R. 3633 votes in the 119-2 menu); leadership says the votes are lacking before the August recess."
+    },
+    {
+      "label": "House re-passage of Senate text",
+      "date": null,
+      "status": "pending",
+      "detail": "Required because the Senate text strikes all House-passed text."
+    },
+    {
+      "label": "Signed into law",
+      "date": null,
+      "status": "pending"
+    }
+  ],
+  "textVersions": [
+    {
+      "version": "IH",
+      "label": "Introduced in House",
+      "chamber": "house",
+      "date": "2025-05-29",
+      "url": "https://www.congress.gov/bill/119th-congress/house-bill/3633/text/ih"
+    },
+    {
+      "version": "EH",
+      "label": "Engrossed in House (House-passed text)",
+      "chamber": "house",
+      "date": "2025-07-17",
+      "url": "https://www.congress.gov/bill/119th-congress/house-bill/3633/text/eh"
+    },
+    {
+      "version": "ANS",
+      "label": "Senate Banking amendment in the nature of a substitute (strike-and-replace)",
+      "chamber": "senate",
+      "date": "2026-05-14",
+      "url": "https://www.banking.senate.gov/imo/media/doc/ehf26374.pdf"
+    }
+  ],
+  "votes": [
+    {
+      "type": "passage",
+      "chamber": "house",
+      "date": "2025-07-17",
+      "question": "On Passage",
+      "result": "passed",
+      "yea": 294,
+      "nay": 134,
+      "present": 0,
+      "notVoting": 4,
+      "rollUrl": "https://clerk.house.gov/evs/2025/roll199.xml",
+      "byParty": {
+        "R": { "yea": 216, "nay": 0, "notVoting": 4 },
+        "D": { "yea": 78, "nay": 134, "notVoting": 0 }
+      }
+    },
+    {
+      "type": "committee",
+      "chamber": "senate",
+      "date": "2026-05-14",
+      "question": "To report H.R. 3633 favorably with an amendment in the nature of a substitute",
+      "result": "passed",
+      "yea": 15,
+      "nay": 9,
+      "rollUrl": "https://www.banking.senate.gov/newsroom/majority/chairman-scott-senate-banking-committee-advance-clarity-act-in-historic-bipartisan-vote",
+      "byParty": {
+        "R": { "yea": 13, "nay": 0 },
+        "D": { "yea": 2, "nay": 9 }
+      }
+    }
+  ],
+  "relatedBills": [
+    {
+      "title": "Digital Commodity Intermediaries Act",
+      "url": "https://www.agriculture.senate.gov/newsroom/rep/press/release/boozman-leads-ag-committee-in-advancing-crypto-market-structure-legislation",
+      "note": "Senate Agriculture CFTC-side companion, advanced 2026-01-29 on a party-line vote; merged into the 616-page combined Senate draft released ~2026-07-22. Watch /relatedbills for a new Senate vehicle."
+    }
+  ],
+  "asOf": "2026-07-27"
+}

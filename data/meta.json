@@ -1,0 +1,24 @@
+{
+  "generatedAt": "2026-07-28T06:00:00Z",
+  "asOf": {
+    "bill": "2026-07-27",
+    "members": "2026-07-27",
+    "holdings": "2026-07-27",
+    "trades": "2026-07-24",
+    "traders": "2026-07-24",
+    "news": "2026-07-24"
+  },
+  "run": {
+    "ok": true,
+    "stats": {
+      "membersTracked": 17,
+      "holdingRows": 13,
+      "tradesIngested": 8,
+      "tradersRanked": 5,
+      "newsItems": 4,
+      "ocrFlagged": 1,
+      "validationFailures": 0
+    },
+    "errors": []
+  }
+}
