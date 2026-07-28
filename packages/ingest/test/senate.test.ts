@@ -448,6 +448,14 @@ describe("ingestSenate end-to-end over fixtures", () => {
     expect(tubervilleTrades).toHaveLength(11);
     expect(tubervilleTrades.every((t) => t.side === "sell" && !t.late)).toBe(true);
 
+    // The eFD Sale (Full) / Sale (Partial) distinction is carried into the
+    // note (integration ticket 11) - the holdings derivation reads it there.
+    // Every fixture sale is a "Sale (Full)".
+    const sells = result.trades.filter((t) => t.side === "sell");
+    expect(sells.length).toBeGreaterThan(0);
+    expect(sells.every((t) => t.note?.includes("full sale"))).toBe(true);
+    expect(sells.some((t) => /partial sale/i.test(t.note ?? ""))).toBe(false);
+
     // Holdings: only the universe-matched IBM row from the annual report.
     expect(result.holdings).toHaveLength(1);
     expect(isHolding(result.holdings[0])).toBe(true);

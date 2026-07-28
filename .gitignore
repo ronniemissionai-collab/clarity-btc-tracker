@@ -4,3 +4,6 @@ node_modules/
 .scratch/
 dist/
 .claude/
+.cache/
+# The pipeline failure report is uploaded as a workflow artifact, never committed.
+state/failure-report.json

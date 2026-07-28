@@ -1,0 +1,41 @@
+# CI (build ticket 11): lint, tests, build, and a fixture-backed end-to-end
+# pipeline pass (--dry-run, zero network) on every push and pull request.
+name: ci
+
+on:
+  push:
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  ci:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+
+      - name: Install PDF tooling (parity with the refresh job)
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y --no-install-recommends poppler-utils tesseract-ocr
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Lint
+        run: npm run lint
+
+      - name: Test
+        run: npm test
+
+      - name: Build
+        run: npm run build
+
+      - name: Pipeline dry run (fixtures, zero network)
+        run: npm run pipeline -- --dry-run

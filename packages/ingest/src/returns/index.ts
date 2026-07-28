@@ -44,6 +44,7 @@ import {
   simpleReturnPct,
   type TradeReturnPoint,
 } from "./compute.js";
+import { claimsSupportedByMeasured } from "./claims.js";
 import { PriceError } from "./errors.js";
 import { buildKadoaReturnLookup, type KadoaReturnLookup } from "./kadoaLookup.js";
 import {
@@ -55,6 +56,7 @@ import {
 import { createYahooClient, type YahooClientOptions } from "./yahoo.js";
 
 export * from "./errors.js";
+export { claimsSupportedByMeasured, extractClaimedReturnPct } from "./claims.js";
 export {
   aggregateMidpointWeighted,
   extractTicker,
@@ -402,12 +404,17 @@ export async function computeReturns(
       ...(noMeasureReason !== undefined ? [`Not measured: ${noMeasureReason}.`] : []),
     ];
 
+    const claimsSupported = claimsSupportedByMeasured(
+      entry.claims,
+      measured === null ? null : measured.return,
+    );
     const trader = TraderSchema.parse({
       memberId: entry.id,
       tradeCount: memberTrades.length,
       claims: entry.claims,
       measured,
       attribution: deriveAttribution(memberTrades),
+      ...(claimsSupported !== undefined ? { claimsSupported } : {}),
       ...(noteParts.length > 0 ? { note: noteParts.join(" ") } : {}),
     });
     traders.push(trader);

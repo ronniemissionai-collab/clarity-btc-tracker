@@ -284,9 +284,9 @@ function mapSenateResult(result: string): "passed" | "failed" {
  * passage votes are representable in the contract; procedural votes return
  * undefined (they stay visible through the watcher, not through Bill.votes).
  *
- * Per-member votes are intentionally omitted: the Senate LIS feed identifies
- * members by LIS id (e.g. "S428"), and the shared MemberVote contract requires
- * bioguide ids. The full breakdown remains available on SenateRollCall.
+ * Per-member votes ship on `senateMemberVotes` (LIS ids, e.g. "S428") - the
+ * LIS feed has no bioguide ids, so the bioguide-keyed `memberVotes` field
+ * stays empty for Senate rolls (shared contract, promoted in ticket 11).
  */
 export function senateDetailToBillVote(detail: SenateRollCall, rollUrl: string): BillVote | undefined {
   if (detail.kind === "other") return undefined;
@@ -302,6 +302,17 @@ export function senateDetailToBillVote(detail: SenateRollCall, rollUrl: string):
     notVoting: detail.counts.absent,
     rollUrl,
     byParty: detail.byParty,
+    ...(detail.members.length > 0
+      ? {
+          senateMemberVotes: detail.members.map((m) => ({
+            lisMemberId: m.lisMemberId,
+            name: m.memberFull,
+            party: m.party,
+            state: m.state,
+            vote: m.vote,
+          })),
+        }
+      : {}),
   };
 }
 
