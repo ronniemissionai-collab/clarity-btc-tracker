@@ -1,8 +1,9 @@
 /**
  * @clarity-btc/ingest - daily pipeline steps, in run order.
- * All modules are typed no-op stubs until their build tickets land.
+ * house/ is implemented (ticket 02); the rest are typed no-op stubs until
+ * their build tickets land.
  */
-export { ingestHouse, type HouseIngestResult } from "./house.js";
+export * from "./house/index.js";
 export {
   ingestSenate,
   type SenateIngestOptions,
