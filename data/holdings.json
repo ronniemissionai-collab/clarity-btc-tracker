@@ -1,197 +1,116 @@
 [
   {
-    "memberId": "L000571",
-    "security": { "ticker": "BTC", "kind": "direct" },
-    "owner": "self",
-    "range": { "lo": 50001, "hi": 100000 },
-    "status": "stale",
-    "asOf": "2021-08-16",
-    "extraction": "efd-html",
-    "verification": "corroborated",
-    "sources": [
-      {
-        "kind": "filing",
-        "url": "https://efdsearch.senate.gov/search/view/ptr/1124fac7-7277-4328-8740-fbaceeaac1b5/",
-        "title": "Senate eFD PTR filed 2021-10-07, Sen. Cynthia Lummis (BTC buy 2021-08-16, owner Self)"
-      },
-      {
-        "kind": "news",
-        "url": "https://bitcoinpoliticians.org/",
-        "title": "Bitcoin Politicians (jlopp)"
-      }
-    ],
-    "note": "~5 BTC purchased 2013-2021; reportedly in a blind trust since Oct 2021 (press-level - blind-trust contents are not itemized in eFD, so no BTC line appears on her annuals). Owner 'self' per her 2021 PTR, the only BTC filing on record; not actively traded."
-  },
-  {
-    "memberId": "C001098",
-    "security": { "ticker": "BTC", "kind": "direct" },
-    "owner": "self",
-    "range": { "lo": 15001, "hi": 50000 },
-    "status": "holds",
-    "asOf": "2025-08-13",
-    "extraction": "efd-html",
-    "verification": "corroborated",
-    "sources": [
-      {
-        "kind": "filing",
-        "url": "https://efdsearch.senate.gov/search/view/annual/2b1c7d44-8e9a-4f10-b2c3-sample-cruz/",
-        "title": "Senate eFD annual report (2024), Sen. Ted Cruz"
-      },
-      {
-        "kind": "news",
-        "url": "https://capitolexposed.com/stock/BTC",
-        "title": "CapitolExposed BTC holders"
-      }
-    ],
-    "note": "Bought via River Financial 2022-01-25; still on latest annual."
-  },
-  {
-    "memberId": "M001243",
-    "security": { "ticker": "BITB", "kind": "spot-etf" },
-    "owner": "self",
-    "range": { "lo": 1000001, "hi": 1600000 },
-    "status": "holds",
-    "asOf": "2025-12-29",
-    "extraction": "efd-html",
-    "verification": "corroborated",
-    "sources": [
-      {
-        "kind": "filing",
-        "url": "https://efdsearch.senate.gov/search/view/ptr/9c4f2a77-1d3b-4e58-a6f9-sample-mccormick/",
-        "title": "Senate eFD PTR, Sen. David McCormick (repeated 2025 BITB buys)"
-      },
-      {
-        "kind": "news",
-        "url": "https://www.coindesk.com/policy/2025/04/24/pennsylvania-senator-mccormick-invests-more-in-bitcoin-etf",
-        "title": "CoinDesk: McCormick invests more in Bitcoin ETF"
-      },
-      {
-        "kind": "news",
-        "url": "https://www.benzinga.com/news/politics/25/12/mccormick-bitcoin-etf-purchases",
-        "title": "Benzinga: McCormick BITB total reaches ~$1.6M"
-      }
-    ],
-    "note": "Aggregated from repeated 2025 PTR buys (up to ~$1.1M by Apr, ~$1.6M by Dec). Instrument is the Bitwise spot ETF (BITB), NOT direct BTC. Also holds a Bitwise equity stake."
-  },
-  {
-    "memberId": "S001232",
-    "security": { "ticker": "BTC", "kind": "direct" },
-    "owner": "self",
-    "range": { "lo": 100001, "hi": 250000 },
-    "status": "stale",
-    "asOf": "2024-08-13",
+    "memberId": "A000055",
+    "security": {
+      "ticker": "TSLA",
+      "kind": "treasury"
+    },
+    "owner": "dependent",
+    "range": {
+      "lo": 1001,
+      "hi": 15000
+    },
+    "status": "sold",
+    "asOf": "2022-12-05",
     "extraction": "pdf-text",
     "verification": "unverified",
     "sources": [
       {
         "kind": "filing",
-        "url": "https://efdsearch.senate.gov/search/view/annual/7a8b9c10-4d5e-4f60-8899-sample-sheehy/",
-        "title": "Senate candidate disclosure (2023, extended 2024 annual)"
-      },
-      {
-        "kind": "news",
-        "url": "https://montanafreepress.org/2025/07/22/montana-delegation-crypto-holdings/",
-        "title": "Montana Free Press: MT delegation crypto holdings"
+        "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20022132.pdf"
       }
     ],
-    "note": "Reported as a 'Bitcoin investment fund' on the 2023 candidate disclosure; needs re-verification against the latest annual - marked stale."
+    "note": "sale reported by PTR with no annual baseline in our coverage"
   },
   {
-    "memberId": "G000603",
-    "security": { "ticker": "BTC", "kind": "direct" },
+    "memberId": "A000383",
+    "security": {
+      "ticker": "COIN",
+      "kind": "exchange"
+    },
     "owner": "self",
-    "range": { "lo": 1150000, "hi": 2600000 },
+    "range": {
+      "lo": 1001,
+      "hi": 15000
+    },
     "status": "holds",
-    "asOf": "2025-12-31",
-    "extraction": "pdf-text",
+    "asOf": "2026-03-27",
+    "extraction": "efd-html",
     "verification": "corroborated",
     "sources": [
       {
         "kind": "filing",
-        "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20026591.pdf",
-        "title": "House Clerk PTR, Rep. Brandon Gill (2025-06-20 buy $500K-$1M)"
+        "url": "https://efdsearch.senate.gov/search/view/ptr/fda235b3-bad7-4637-8fa1-053f354d929c/"
       },
       {
         "kind": "news",
-        "url": "https://capitoltrades.com/trades/20003787928",
-        "title": "Capitol Trades: Gill BTC purchase"
+        "url": "https://www.stocktitan.net/sec-filings/COIN/8-k-coinbase-global-inc-reports-material-event-42dd2827c2f2.html",
+        "title": "Coinbase shareholders back board, auditor picks | COIN 8-K Filing"
       },
       {
         "kind": "news",
-        "url": "https://cryptobriefing.com/brandon-gill-bitcoin-holdings-house-largest/",
-        "title": "Crypto Briefing: largest House BTC position"
-      }
-    ],
-    "note": "Estimated $1.15M-$2.6M across repeated 2025 buy-the-dip purchases; ~$500K of early-2025 buys disclosed late (STOCK Act violation, OpenSecrets 2025-06-02)."
-  },
-  {
-    "memberId": "G000603",
-    "security": { "ticker": "IBIT", "kind": "spot-etf" },
-    "owner": "self",
-    "range": { "lo": 15001, "hi": 50000 },
-    "status": "holds",
-    "asOf": "2025-10-29",
-    "extraction": "pdf-text",
-    "verification": "unverified",
-    "sources": [
-      {
-        "kind": "filing",
-        "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20026712.pdf",
-        "title": "House Clerk PTR, Rep. Brandon Gill (2025-10-29 IBIT buy)"
+        "url": "https://bitrss.com/coinbase-coin-clo-offloads-233k-in-shares-just-before-being-named-in-shareholder-suit-190491",
+        "title": "Coinbase (COIN) CLO Offloads $233K in Shares Just Before Being Named in Shareholder Suit - BitRss - Crypto World News"
       }
     ]
   },
   {
-    "memberId": "B001323",
-    "security": { "ticker": "BTC", "kind": "direct" },
-    "owner": "self",
-    "range": { "lo": 500001, "hi": 1000000 },
+    "memberId": "A000383",
+    "security": {
+      "ticker": "TSLA",
+      "kind": "treasury"
+    },
+    "owner": "joint",
+    "range": {
+      "lo": 50001,
+      "hi": 100000
+    },
     "status": "holds",
-    "asOf": "2025-08-26",
-    "extraction": "pdf-ocr",
-    "verification": "corroborated",
+    "asOf": "2026-07-21",
+    "extraction": "efd-html",
+    "verification": "unverified",
     "sources": [
       {
         "kind": "filing",
-        "url": "https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/8220345.pdf",
-        "title": "House annual FD (2025), Rep. Nick Begich III"
-      },
-      {
-        "kind": "news",
-        "url": "https://alaskapublic.org/2025/08/26/begich-bitcoin-holdings-bitcoin-act/",
-        "title": "Alaska Public Media: Begich holds ~$760K BTC while sponsoring the BITCOIN Act"
+        "url": "https://efdsearch.senate.gov/search/view/annual/37264946-5291-4f15-aea8-c23453c027c3/",
+        "title": "New Filer Report for 03/24/2026"
       }
     ],
-    "note": "Held since 2013. Scanned annual FD - OCR extraction. CREW flagged the BITCOIN Act conflict."
+    "note": "from New Filer Report for 03/24/2026: Tesla, Inc. - Common Stock"
   },
   {
-    "memberId": "D000032",
-    "security": { "ticker": "BTC", "kind": "direct" },
-    "owner": "spouse",
-    "range": { "lo": 50001, "hi": 100000 },
+    "memberId": "A000383",
+    "security": {
+      "ticker": "TSLA",
+      "kind": "treasury"
+    },
+    "owner": "self",
+    "range": {
+      "lo": 16002,
+      "hi": 65000
+    },
     "status": "holds",
-    "asOf": "2025-12-18",
-    "extraction": "pdf-text",
-    "verification": "corroborated",
+    "asOf": "2026-03-30",
+    "extraction": "efd-html",
+    "verification": "unverified",
     "sources": [
       {
         "kind": "filing",
-        "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20026998.pdf",
-        "title": "House Clerk PTR, Rep. Byron Donalds (spouse buy 2025-12-18)"
-      },
-      {
-        "kind": "news",
-        "url": "https://notus.org/donalds-bitcoin-irs-staking-rule/",
-        "title": "NOTUS: buy landed the same day he pressed the IRS on the staking rule"
+        "url": "https://efdsearch.senate.gov/search/view/ptr/fda235b3-bad7-4637-8fa1-053f354d929c/"
       }
-    ],
-    "note": "Attribution must say spouse."
+    ]
   },
   {
     "memberId": "B001325",
-    "security": { "ticker": "IBIT", "kind": "spot-etf" },
+    "security": {
+      "ticker": "IBIT",
+      "kind": "spot-etf"
+    },
     "owner": "spouse",
-    "range": { "lo": 200002, "hi": 500000 },
+    "range": {
+      "lo": 200002,
+      "hi": 500000
+    },
     "status": "holds",
     "asOf": "2026-03-04",
     "extraction": "pdf-text",
@@ -199,39 +118,1384 @@
     "sources": [
       {
         "kind": "filing",
-        "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20027103.pdf",
-        "title": "House Clerk PTR, Rep. Sheri Biggs (2026-03-04 IBIT buy)"
+        "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032149.pdf"
+      },
+      {
+        "kind": "filing",
+        "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034346.pdf"
       },
       {
         "kind": "news",
         "url": "https://www.quiverquant.com/congresstrading/trade/House-B001325-49",
         "title": "Quiver Quantitative trade record"
       }
-    ],
-    "note": "Two buys ($100K-$250K each, 2025-07-09 and 2026-03-04) in a spouse/managed account; ranges summed lo+lo / hi+hi."
+    ]
   },
   {
-    "memberId": "M001212",
-    "security": { "ticker": "BTC", "kind": "direct" },
+    "memberId": "B001327",
+    "security": {
+      "ticker": "COIN",
+      "kind": "exchange"
+    },
     "owner": "self",
-    "range": { "lo": 1001, "hi": 15000 },
-    "status": "holds",
-    "asOf": "2025-08-13",
+    "range": {
+      "lo": 1001,
+      "hi": 15000
+    },
+    "status": "stale",
+    "asOf": "2025-06-24",
+    "extraction": "pdf-text",
+    "verification": "corroborated",
+    "sources": [
+      {
+        "kind": "filing",
+        "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030635.pdf"
+      },
+      {
+        "kind": "news",
+        "url": "https://www.ourfinanceworld.com/archives/24383",
+        "title": "Pennsylvania Congressman Rob Bresnahan Ends Frequent Stock Trading Amid Election Pressure - Ourfinanceworld.com"
+      }
+    ]
+  },
+  {
+    "memberId": "B001327",
+    "security": {
+      "ticker": "TSLA",
+      "kind": "treasury"
+    },
+    "owner": "self",
+    "range": {
+      "lo": 5005,
+      "hi": 75000
+    },
+    "status": "stale",
+    "asOf": "2025-06-05",
     "extraction": "pdf-text",
     "verification": "unverified",
     "sources": [
       {
         "kind": "filing",
-        "url": "https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/8220411.pdf",
-        "title": "House annual FD (2025), Rep. Barry Moore"
+        "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030291.pdf"
+      },
+      {
+        "kind": "filing",
+        "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030482.pdf"
+      },
+      {
+        "kind": "filing",
+        "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030546.pdf"
+      },
+      {
+        "kind": "filing",
+        "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030635.pdf"
+      }
+    ]
+  },
+  {
+    "memberId": "C001098",
+    "security": {
+      "ticker": "BTC",
+      "kind": "direct"
+    },
+    "owner": "self",
+    "range": {
+      "lo": 100001,
+      "hi": 250000
+    },
+    "status": "holds",
+    "asOf": "2025-08-13",
+    "extraction": "efd-html",
+    "verification": "corroborated",
+    "sources": [
+      {
+        "kind": "filing",
+        "url": "https://efdsearch.senate.gov/search/view/annual/8b455ae7-a24e-462a-95b8-78f7067c0d22/",
+        "title": "Annual Report for CY 2024"
+      },
+      {
+        "kind": "news",
+        "url": "https://cryptobriefing.com/ted-cruz-ai-bills-markup-crypto/",
+        "title": "Ted Cruz eyes July 29 for possible markup of AI bills, and ..."
+      },
+      {
+        "kind": "news",
+        "url": "https://www.gate.com/news/detail/bitcoin-ethereum-lead-us-congress-members-crypto-holdings-under-stock-act-20469945",
+        "title": "Bitcoin, Ethereum Lead US Congress Members' Crypto Holdings Under STOCK Act Disclosure | Gate News"
+      }
+    ],
+    "note": "from Annual Report for CY 2024: Bitcoin Exchange/Platform : River Financial Inc"
+  },
+  {
+    "memberId": "C001120",
+    "security": {
+      "ticker": "TSLA",
+      "kind": "treasury"
+    },
+    "owner": "self",
+    "range": {
+      "lo": 1001,
+      "hi": 15000
+    },
+    "status": "sold",
+    "asOf": "2021-12-29",
+    "extraction": "pdf-text",
+    "verification": "corroborated",
+    "sources": [
+      {
+        "kind": "filing",
+        "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020189.pdf"
+      },
+      {
+        "kind": "news",
+        "url": "https://www.benzinga.com/government/26/07/60527211/texas-rep-dan-crenshaw-sold-90k-worth-alphabet-stock",
+        "title": "Texas Rep. Dan Crenshaw Sold Up to $90K Worth of ..."
+      }
+    ],
+    "note": "sale reported by PTR with no annual baseline in our coverage"
+  },
+  {
+    "memberId": "C001123",
+    "security": {
+      "ticker": "COIN",
+      "kind": "exchange"
+    },
+    "owner": "self",
+    "range": {
+      "lo": 1001,
+      "hi": 15000
+    },
+    "status": "sold",
+    "asOf": "2026-06-16",
+    "extraction": "pdf-text",
+    "verification": "corroborated",
+    "sources": [
+      {
+        "kind": "filing",
+        "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034500.pdf"
+      },
+      {
+        "kind": "filing",
+        "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034906.pdf"
+      },
+      {
+        "kind": "news",
+        "url": "https://poliwealth.com/receipts/quiver_d7dd2ca4d3b4c239",
+        "title": "COIN · Cisneros congressional trade receipt | PoliWealth"
+      },
+      {
+        "kind": "news",
+        "url": "https://poliwealth.com/receipts/quiver_d99d53d1faf5cfd3",
+        "title": "COIN · Cisneros congressional trade receipt | PoliWealth"
+      }
+    ]
+  },
+  {
+    "memberId": "C001123",
+    "security": {
+      "ticker": "MSTR",
+      "kind": "treasury"
+    },
+    "owner": "self",
+    "range": {
+      "lo": 15001,
+      "hi": 50000
+    },
+    "status": "holds",
+    "asOf": "2026-06-05",
+    "extraction": "pdf-text",
+    "verification": "corroborated",
+    "sources": [
+      {
+        "kind": "filing",
+        "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034906.pdf"
+      },
+      {
+        "kind": "news",
+        "url": "https://poliwealth.com/receipts/quiver_b81301858aaa240e",
+        "title": "MSTR · Cisneros congressional trade receipt | PoliWealth"
+      },
+      {
+        "kind": "news",
+        "url": "https://www.thelincolnianonline.com/2026/07/04/rep-gilbert-ray-cisneros-jr-buys-shares-of-strategy-inc-nasdaqmstr.html",
+        "title": "Rep. Gilbert Ray Cisneros, Jr. Buys Shares of Strategy Inc (NASDAQ:MSTR) - The Lincolnian Online"
+      }
+    ]
+  },
+  {
+    "memberId": "C001123",
+    "security": {
+      "ticker": "SPCX",
+      "kind": "treasury"
+    },
+    "owner": "self",
+    "range": {
+      "lo": 1001,
+      "hi": 15000
+    },
+    "status": "holds",
+    "asOf": "2026-06-18",
+    "extraction": "pdf-text",
+    "verification": "corroborated",
+    "sources": [
+      {
+        "kind": "filing",
+        "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034906.pdf"
+      },
+      {
+        "kind": "news",
+        "url": "https://www.cnbc.com/2026/07/03/spacex-stock-congress-meuser-cisneros-ipo-disclosure.html",
+        "title": "First known congressional SpaceX stock buys surface after ..."
+      },
+      {
+        "kind": "news",
+        "url": "https://www.cnbc.com/2026/07/28/spacex-stock-congress-lawmakers-ipo-conflict-of-interest.html",
+        "title": "Congress members buy Musk's SpaceX stock after IPO"
+      }
+    ]
+  },
+  {
+    "memberId": "C001123",
+    "security": {
+      "ticker": "STRC",
+      "kind": "treasury"
+    },
+    "owner": "self",
+    "range": {
+      "lo": 15001,
+      "hi": 50000
+    },
+    "status": "holds",
+    "asOf": "2025-08-06",
+    "extraction": "pdf-text",
+    "verification": "corroborated",
+    "sources": [
+      {
+        "kind": "filing",
+        "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20031022.pdf"
+      },
+      {
+        "kind": "news",
+        "url": "https://poliwealth.com/receipts/quiver_ffb72bf6fe6dcc40",
+        "title": "STRL · Cisneros congressional trade receipt | PoliWealth"
+      },
+      {
+        "kind": "news",
+        "url": "https://www.thelincolnianonline.com/2026/07/04/rep-gilbert-ray-cisneros-jr-buys-shares-of-strategy-inc-nasdaqmstr.html",
+        "title": "Rep. Gilbert Ray Cisneros, Jr. Buys Shares of Strategy Inc (NASDAQ:MSTR) - The Lincolnian Online"
+      }
+    ]
+  },
+  {
+    "memberId": "C001123",
+    "security": {
+      "ticker": "TSLA",
+      "kind": "treasury"
+    },
+    "owner": "self",
+    "range": {
+      "lo": 2002,
+      "hi": 74999
+    },
+    "status": "holds",
+    "asOf": "2026-05-29",
+    "extraction": "pdf-text",
+    "verification": "corroborated",
+    "sources": [
+      {
+        "kind": "filing",
+        "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20031022.pdf"
+      },
+      {
+        "kind": "filing",
+        "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20033455.pdf"
+      },
+      {
+        "kind": "filing",
+        "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20033619.pdf"
+      },
+      {
+        "kind": "filing",
+        "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033983.pdf"
+      },
+      {
+        "kind": "filing",
+        "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034285.pdf"
+      },
+      {
+        "kind": "filing",
+        "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034500.pdf"
+      },
+      {
+        "kind": "filing",
+        "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034713.pdf"
+      },
+      {
+        "kind": "news",
+        "url": "https://poliwealth.com/receipts/quiver_514c354a1d82c684",
+        "title": "TSLA · Cisneros congressional trade receipt | PoliWealth"
+      },
+      {
+        "kind": "news",
+        "url": "https://www.marketbeat.com/instant-alerts/rep-gilbert-ray-cisneros-jr-buys-tesla-inc-nasdaqtsla-shares-2026-06-10/",
+        "title": "Rep. Gilbert Ray Cisneros, Jr. Buys Tesla, Inc. (NASDAQ:TSLA) Shares"
+      }
+    ],
+    "note": "partial sale 2026-03-13"
+  },
+  {
+    "memberId": "D000032",
+    "security": {
+      "ticker": "BTC",
+      "kind": "direct"
+    },
+    "owner": "self",
+    "range": {
+      "lo": 50001,
+      "hi": 100000
+    },
+    "status": "holds",
+    "asOf": "2025-12-18",
+    "extraction": "pdf-text",
+    "verification": "corroborated",
+    "sources": [
+      {
+        "kind": "filing",
+        "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033780.pdf"
+      },
+      {
+        "kind": "news",
+        "url": "https://www.gate.com/news/detail/bitcoin-ethereum-lead-us-congress-members-crypto-holdings-under-stock-act-20469945",
+        "title": "Bitcoin, Ethereum Lead US Congress Members' Crypto Holdings Under STOCK Act Disclosure | Gate News"
+      },
+      {
+        "kind": "news",
+        "url": "https://www.benzinga.com/government/26/07/60500739/recent-report-shows-rep-byron-donalds-sold-60k-worth-cadence-design-systems-stock",
+        "title": "Recent Report Shows That Rep. Byron Donalds Sold Up to $60K Worth of Cadence Design Systems Stock - Caden - Benzinga"
+      }
+    ]
+  },
+  {
+    "memberId": "D000032",
+    "security": {
+      "ticker": "BTC",
+      "kind": "direct"
+    },
+    "owner": "spouse",
+    "range": {
+      "lo": 1001,
+      "hi": 15000
+    },
+    "status": "holds",
+    "asOf": "2026-01-08",
+    "extraction": "pdf-text",
+    "verification": "corroborated",
+    "sources": [
+      {
+        "kind": "filing",
+        "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033981.pdf"
+      },
+      {
+        "kind": "news",
+        "url": "https://www.gate.com/news/detail/bitcoin-ethereum-lead-us-congress-members-crypto-holdings-under-stock-act-20469945",
+        "title": "Bitcoin, Ethereum Lead US Congress Members' Crypto Holdings Under STOCK Act Disclosure | Gate News"
+      },
+      {
+        "kind": "news",
+        "url": "https://www.benzinga.com/government/26/07/60500739/recent-report-shows-rep-byron-donalds-sold-60k-worth-cadence-design-systems-stock",
+        "title": "Recent Report Shows That Rep. Byron Donalds Sold Up to $60K Worth of Cadence Design Systems Stock - Caden - Benzinga"
+      }
+    ]
+  },
+  {
+    "memberId": "D000032",
+    "security": {
+      "ticker": "BTC",
+      "kind": "spot-etf"
+    },
+    "owner": "self",
+    "range": {
+      "lo": 50001,
+      "hi": 100000
+    },
+    "status": "holds",
+    "asOf": "2025-12-18",
+    "extraction": "pdf-text",
+    "verification": "corroborated",
+    "sources": [
+      {
+        "kind": "filing",
+        "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033747.pdf"
+      },
+      {
+        "kind": "news",
+        "url": "https://www.benzinga.com/government/26/07/60500739/recent-report-shows-rep-byron-donalds-sold-60k-worth-cadence-design-systems-stock",
+        "title": "Recent Report Shows That Rep. Byron Donalds Sold Up to $60K Worth of Cadence Design Systems Stock - Caden - Benzinga"
+      }
+    ]
+  },
+  {
+    "memberId": "D000628",
+    "security": {
+      "ticker": "MSTR",
+      "kind": "treasury"
+    },
+    "owner": "spouse",
+    "range": {
+      "lo": 15001,
+      "hi": 50000
+    },
+    "status": "stale",
+    "asOf": "2024-12-24",
+    "extraction": "pdf-text",
+    "verification": "corroborated",
+    "sources": [
+      {
+        "kind": "filing",
+        "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20027895.pdf"
+      },
+      {
+        "kind": "news",
+        "url": "https://www.capitolexposed.com/stock/MSTR",
+        "title": "MSTR (SP MicroStrategy Incorporated - Class A)"
+      }
+    ]
+  },
+  {
+    "memberId": "E000296",
+    "security": {
+      "ticker": "TSLA",
+      "kind": "treasury"
+    },
+    "owner": "self",
+    "range": {
+      "lo": 2002,
+      "hi": 30000
+    },
+    "status": "sold",
+    "asOf": "2024-10-29",
+    "extraction": "pdf-text",
+    "verification": "unverified",
+    "sources": [
+      {
+        "kind": "filing",
+        "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20017404.pdf"
+      },
+      {
+        "kind": "filing",
+        "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20017791.pdf"
+      },
+      {
+        "kind": "filing",
+        "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20029062.pdf"
+      }
+    ]
+  },
+  {
+    "memberId": "F000462",
+    "security": {
+      "ticker": "MSTR",
+      "kind": "treasury"
+    },
+    "owner": "self",
+    "range": {
+      "lo": 2002,
+      "hi": 30000
+    },
+    "status": "stale",
+    "asOf": "2017-06-23",
+    "extraction": "pdf-text",
+    "verification": "unverified",
+    "sources": [
+      {
+        "kind": "filing",
+        "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2017/20007653.pdf"
+      }
+    ]
+  },
+  {
+    "memberId": "F000479",
+    "security": {
+      "ticker": "COIN",
+      "kind": "exchange"
+    },
+    "owner": "dependent",
+    "range": {
+      "lo": 1001,
+      "hi": 15000
+    },
+    "status": "holds",
+    "asOf": "2026-05-15",
+    "extraction": "efd-html",
+    "verification": "unverified",
+    "sources": [
+      {
+        "kind": "filing",
+        "url": "https://efdsearch.senate.gov/search/view/annual/8eed05ea-ec2d-4ef5-b458-d410fd76b40e/",
+        "title": "Annual Report for CY 2025"
+      }
+    ],
+    "note": "from Annual Report for CY 2025: Coinbase Global, Inc. - Class A Common Stock Filer comment: Purchase less than $1,000."
+  },
+  {
+    "memberId": "G000583",
+    "security": {
+      "ticker": "TSLA",
+      "kind": "treasury"
+    },
+    "owner": "joint",
+    "range": {
+      "lo": 4004,
+      "hi": 60000
+    },
+    "status": "sold",
+    "asOf": "2025-06-05",
+    "extraction": "pdf-text",
+    "verification": "unverified",
+    "sources": [
+      {
+        "kind": "filing",
+        "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030462.pdf"
+      },
+      {
+        "kind": "filing",
+        "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030621.pdf"
+      }
+    ]
+  },
+  {
+    "memberId": "G000591",
+    "security": {
+      "ticker": "TSLA",
+      "kind": "treasury"
+    },
+    "owner": "dependent",
+    "range": {
+      "lo": 1001,
+      "hi": 15000
+    },
+    "status": "stale",
+    "asOf": "2024-11-08",
+    "extraction": "pdf-text",
+    "verification": "unverified",
+    "sources": [
+      {
+        "kind": "filing",
+        "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/20026412.pdf"
+      }
+    ]
+  },
+  {
+    "memberId": "G000591",
+    "security": {
+      "ticker": "TSLA",
+      "kind": "treasury"
+    },
+    "owner": "spouse",
+    "range": {
+      "lo": 1001,
+      "hi": 15000
+    },
+    "status": "stale",
+    "asOf": "2023-08-07",
+    "extraction": "pdf-text",
+    "verification": "unverified",
+    "sources": [
+      {
+        "kind": "filing",
+        "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20023442.pdf"
+      }
+    ]
+  },
+  {
+    "memberId": "G000596",
+    "security": {
+      "ticker": "IBIT",
+      "kind": "spot-etf"
+    },
+    "owner": "self",
+    "range": {
+      "lo": 21007,
+      "hi": 140000
+    },
+    "status": "holds",
+    "asOf": "2025-11-21",
+    "extraction": "pdf-text",
+    "verification": "unverified",
+    "sources": [
+      {
+        "kind": "filing",
+        "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20026658.pdf"
+      },
+      {
+        "kind": "filing",
+        "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20027933.pdf"
+      },
+      {
+        "kind": "filing",
+        "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032174.pdf"
+      },
+      {
+        "kind": "filing",
+        "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20033314.pdf"
+      },
+      {
+        "kind": "filing",
+        "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20033360.pdf"
+      },
+      {
+        "kind": "filing",
+        "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20033570.pdf"
+      }
+    ]
+  },
+  {
+    "memberId": "G000596",
+    "security": {
+      "ticker": "TSLA",
+      "kind": "treasury"
+    },
+    "owner": "self",
+    "range": {
+      "lo": 10010,
+      "hi": 150000
+    },
+    "status": "holds",
+    "asOf": "2025-10-15",
+    "extraction": "pdf-text",
+    "verification": "unverified",
+    "sources": [
+      {
+        "kind": "filing",
+        "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/20025777.pdf"
+      },
+      {
+        "kind": "filing",
+        "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/20026059.pdf"
+      },
+      {
+        "kind": "filing",
+        "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/20026149.pdf"
+      },
+      {
+        "kind": "filing",
+        "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/20026174.pdf"
+      },
+      {
+        "kind": "filing",
+        "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20026658.pdf"
+      },
+      {
+        "kind": "filing",
+        "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20027933.pdf"
+      },
+      {
+        "kind": "filing",
+        "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20029138.pdf"
+      },
+      {
+        "kind": "filing",
+        "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030295.pdf"
+      },
+      {
+        "kind": "filing",
+        "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030389.pdf"
+      },
+      {
+        "kind": "filing",
+        "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20033314.pdf"
+      }
+    ]
+  },
+  {
+    "memberId": "G000596",
+    "security": {
+      "ticker": "TSLA",
+      "kind": "treasury"
+    },
+    "owner": "spouse",
+    "range": {
+      "lo": 1001,
+      "hi": 15000
+    },
+    "status": "stale",
+    "asOf": "2021-01-22",
+    "extraction": "pdf-text",
+    "verification": "unverified",
+    "sources": [
+      {
+        "kind": "filing",
+        "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20018243.pdf"
+      }
+    ]
+  },
+  {
+    "memberId": "G000599",
+    "security": {
+      "ticker": "COIN",
+      "kind": "exchange"
+    },
+    "owner": "self",
+    "range": {
+      "lo": 1001,
+      "hi": 15000
+    },
+    "status": "sold",
+    "asOf": "2023-07-14",
+    "extraction": "pdf-text",
+    "verification": "unverified",
+    "sources": [
+      {
+        "kind": "filing",
+        "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20023404.pdf"
+      }
+    ],
+    "note": "sale reported by PTR with no annual baseline in our coverage"
+  },
+  {
+    "memberId": "G000599",
+    "security": {
+      "ticker": "TSLA",
+      "kind": "treasury"
+    },
+    "owner": "self",
+    "range": {
+      "lo": 146005,
+      "hi": 415000
+    },
+    "status": "stale",
+    "asOf": "2023-04-10",
+    "extraction": "pdf-text",
+    "verification": "unverified",
+    "sources": [
+      {
+        "kind": "filing",
+        "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20022480.pdf"
+      },
+      {
+        "kind": "filing",
+        "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20022653.pdf"
+      },
+      {
+        "kind": "filing",
+        "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20022948.pdf"
+      }
+    ]
+  },
+  {
+    "memberId": "G000603",
+    "security": {
+      "ticker": "BTC",
+      "kind": "direct"
+    },
+    "owner": "self",
+    "range": {
+      "lo": 1150008,
+      "hi": 2600000
+    },
+    "status": "holds",
+    "asOf": "2025-10-20",
+    "extraction": "pdf-text",
+    "verification": "unverified",
+    "sources": [
+      {
+        "kind": "filing",
+        "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030417.pdf"
+      },
+      {
+        "kind": "filing",
+        "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030641.pdf"
+      },
+      {
+        "kind": "filing",
+        "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20033476.pdf"
+      }
+    ]
+  },
+  {
+    "memberId": "G000603",
+    "security": {
+      "ticker": "IBIT",
+      "kind": "spot-etf"
+    },
+    "owner": "self",
+    "range": {
+      "lo": 65002,
+      "hi": 150000
+    },
+    "status": "holds",
+    "asOf": "2025-10-29",
+    "extraction": "pdf-text",
+    "verification": "unverified",
+    "sources": [
+      {
+        "kind": "filing",
+        "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030889.pdf"
+      },
+      {
+        "kind": "filing",
+        "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20033476.pdf"
+      }
+    ]
+  },
+  {
+    "memberId": "H001072",
+    "security": {
+      "ticker": "TSLA",
+      "kind": "treasury"
+    },
+    "owner": "dependent",
+    "range": {
+      "lo": 1001,
+      "hi": 15000
+    },
+    "status": "stale",
+    "asOf": "2021-04-08",
+    "extraction": "pdf-text",
+    "verification": "unverified",
+    "sources": [
+      {
+        "kind": "filing",
+        "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20018570.pdf"
+      }
+    ]
+  },
+  {
+    "memberId": "J000307",
+    "security": {
+      "ticker": "SPCX",
+      "kind": "treasury"
+    },
+    "owner": "spouse",
+    "range": {
+      "lo": 15001,
+      "hi": 50000
+    },
+    "status": "holds",
+    "asOf": "2026-06-12",
+    "extraction": "pdf-text",
+    "verification": "unverified",
+    "sources": [
+      {
+        "kind": "filing",
+        "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034949.pdf"
+      }
+    ]
+  },
+  {
+    "memberId": "J000310",
+    "security": {
+      "ticker": "TSLA",
+      "kind": "treasury"
+    },
+    "owner": "joint",
+    "range": {
+      "lo": 15001,
+      "hi": 50000
+    },
+    "status": "sold",
+    "asOf": "2025-02-12",
+    "extraction": "pdf-text",
+    "verification": "unverified",
+    "sources": [
+      {
+        "kind": "filing",
+        "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20027936.pdf"
+      }
+    ],
+    "note": "sale reported by PTR with no annual baseline in our coverage"
+  },
+  {
+    "memberId": "K000389",
+    "security": {
+      "ticker": "TSLA",
+      "kind": "treasury"
+    },
+    "owner": "dependent",
+    "range": {
+      "lo": 1001,
+      "hi": 15000
+    },
+    "status": "sold",
+    "asOf": "2026-02-24",
+    "extraction": "pdf-text",
+    "verification": "unverified",
+    "sources": [
+      {
+        "kind": "filing",
+        "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/8221358.pdf"
+      }
+    ],
+    "note": "sale reported by PTR with no annual baseline in our coverage"
+  },
+  {
+    "memberId": "K000389",
+    "security": {
+      "ticker": "TSLA",
+      "kind": "treasury"
+    },
+    "owner": "spouse",
+    "range": {
+      "lo": 1001,
+      "hi": 15000
+    },
+    "status": "sold",
+    "asOf": "2026-04-13",
+    "extraction": "pdf-text",
+    "verification": "unverified",
+    "sources": [
+      {
+        "kind": "filing",
+        "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9115822.pdf"
+      }
+    ],
+    "note": "sale reported by PTR with no annual baseline in our coverage"
+  },
+  {
+    "memberId": "L000397",
+    "security": {
+      "ticker": "TSLA",
+      "kind": "treasury"
+    },
+    "owner": "joint",
+    "range": {
+      "lo": 15001,
+      "hi": 50000
+    },
+    "status": "sold",
+    "asOf": "2018-09-21",
+    "extraction": "pdf-text",
+    "verification": "unverified",
+    "sources": [
+      {
+        "kind": "filing",
+        "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20010451.pdf"
+      }
+    ],
+    "note": "sale reported by PTR with no annual baseline in our coverage"
+  },
+  {
+    "memberId": "L000571",
+    "security": {
+      "ticker": "BTC",
+      "kind": "direct"
+    },
+    "owner": "self",
+    "range": {
+      "lo": 50001,
+      "hi": 100000
+    },
+    "status": "stale",
+    "asOf": "2021-08-16",
+    "extraction": "efd-html",
+    "verification": "corroborated",
+    "sources": [
+      {
+        "kind": "filing",
+        "url": "https://efdsearch.senate.gov/search/view/ptr/1124fac7-7277-4328-8740-fbaceeaac1b5/"
+      },
+      {
+        "kind": "news",
+        "url": "https://bitcoinpoliticians.org/",
+        "title": "Bitcoin Politicians (jlopp)"
+      }
+    ]
+  },
+  {
+    "memberId": "M001136",
+    "security": {
+      "ticker": "SPCX",
+      "kind": "treasury"
+    },
+    "owner": "spouse",
+    "range": {
+      "lo": 100001,
+      "hi": 250000
+    },
+    "status": "holds",
+    "asOf": "2025-09-12",
+    "extraction": "pdf-text",
+    "verification": "unverified",
+    "sources": [
+      {
+        "kind": "filing",
+        "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032129.pdf"
+      }
+    ]
+  },
+  {
+    "memberId": "M001136",
+    "security": {
+      "ticker": "TSLA",
+      "kind": "treasury"
+    },
+    "owner": "spouse",
+    "range": {
+      "lo": 1001,
+      "hi": 15000
+    },
+    "status": "sold",
+    "asOf": "2025-10-31",
+    "extraction": "pdf-text",
+    "verification": "unverified",
+    "sources": [
+      {
+        "kind": "filing",
+        "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20033446.pdf"
+      }
+    ],
+    "note": "sale reported by PTR with no annual baseline in our coverage"
+  },
+  {
+    "memberId": "M001184",
+    "security": {
+      "ticker": "TSLA",
+      "kind": "treasury"
+    },
+    "owner": "self",
+    "range": {
+      "lo": 15001,
+      "hi": 50000
+    },
+    "status": "sold",
+    "asOf": "2020-07-14",
+    "extraction": "pdf-text",
+    "verification": "unverified",
+    "sources": [
+      {
+        "kind": "filing",
+        "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20016969.pdf"
+      }
+    ],
+    "note": "sale reported by PTR with no annual baseline in our coverage"
+  },
+  {
+    "memberId": "M001204",
+    "security": {
+      "ticker": "SPCX",
+      "kind": "treasury"
+    },
+    "owner": "dependent",
+    "range": {
+      "lo": 15001,
+      "hi": 50000
+    },
+    "status": "holds",
+    "asOf": "2026-06-15",
+    "extraction": "pdf-text",
+    "verification": "unverified",
+    "sources": [
+      {
+        "kind": "filing",
+        "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034774.pdf"
+      }
+    ]
+  },
+  {
+    "memberId": "M001213",
+    "security": {
+      "ticker": "TSLA",
+      "kind": "treasury"
+    },
+    "owner": "self",
+    "range": {
+      "lo": 1001,
+      "hi": 15000
+    },
+    "status": "sold",
+    "asOf": "2021-08-18",
+    "extraction": "pdf-text",
+    "verification": "unverified",
+    "sources": [
+      {
+        "kind": "filing",
+        "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019457.pdf"
+      }
+    ]
+  },
+  {
+    "memberId": "M001217",
+    "security": {
+      "ticker": "SPCX",
+      "kind": "treasury"
+    },
+    "owner": "self",
+    "range": {
+      "lo": 1001,
+      "hi": 15000
+    },
+    "status": "holds",
+    "asOf": "2026-06-12",
+    "extraction": "pdf-text",
+    "verification": "unverified",
+    "sources": [
+      {
+        "kind": "filing",
+        "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034963.pdf"
+      }
+    ]
+  },
+  {
+    "memberId": "M001220",
+    "security": {
+      "ticker": "DJT",
+      "kind": "treasury"
+    },
+    "owner": "spouse",
+    "range": {
+      "lo": 1001,
+      "hi": 15000
+    },
+    "status": "sold",
+    "asOf": "2024-11-08",
+    "extraction": "pdf-text",
+    "verification": "unverified",
+    "sources": [
+      {
+        "kind": "filing",
+        "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/20026360.pdf"
+      }
+    ]
+  },
+  {
+    "memberId": "M001220",
+    "security": {
+      "ticker": "TSLA",
+      "kind": "treasury"
+    },
+    "owner": "spouse",
+    "range": {
+      "lo": 1001,
+      "hi": 15000
+    },
+    "status": "sold",
+    "asOf": "2024-11-13",
+    "extraction": "pdf-text",
+    "verification": "unverified",
+    "sources": [
+      {
+        "kind": "filing",
+        "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/20026207.pdf"
+      },
+      {
+        "kind": "filing",
+        "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/20026360.pdf"
+      }
+    ]
+  },
+  {
+    "memberId": "M001236",
+    "security": {
+      "ticker": "COIN",
+      "kind": "exchange"
+    },
+    "owner": "self",
+    "range": {
+      "lo": 15001,
+      "hi": 50000
+    },
+    "status": "sold",
+    "asOf": "2026-02-18",
+    "extraction": "pdf-text",
+    "verification": "unverified",
+    "sources": [
+      {
+        "kind": "filing",
+        "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032256.pdf"
+      },
+      {
+        "kind": "filing",
+        "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034034.pdf"
+      }
+    ]
+  },
+  {
+    "memberId": "M001239",
+    "security": {
+      "ticker": "SPCX",
+      "kind": "treasury"
+    },
+    "owner": "spouse",
+    "range": {
+      "lo": 1001,
+      "hi": 15000
+    },
+    "status": "holds",
+    "asOf": "2026-06-15",
+    "extraction": "pdf-text",
+    "verification": "unverified",
+    "sources": [
+      {
+        "kind": "filing",
+        "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034942.pdf"
+      }
+    ]
+  },
+  {
+    "memberId": "M001242",
+    "security": {
+      "ticker": "BTC",
+      "kind": "direct"
+    },
+    "owner": "self",
+    "range": {
+      "lo": 1001,
+      "hi": 15000
+    },
+    "status": "sold",
+    "asOf": "2025-10-31",
+    "extraction": "efd-html",
+    "verification": "unverified",
+    "sources": [
+      {
+        "kind": "filing",
+        "url": "https://efdsearch.senate.gov/search/view/ptr/42ed7699-61fc-4a73-813d-4ae47af91e61/"
+      }
+    ],
+    "note": "sale reported by PTR with no annual baseline in our coverage"
+  },
+  {
+    "memberId": "M001243",
+    "security": {
+      "ticker": "BITB",
+      "kind": "spot-etf"
+    },
+    "owner": "self",
+    "range": {
+      "lo": 1165005,
+      "hi": 5350000
+    },
+    "status": "holds",
+    "asOf": "2025-11-28",
+    "extraction": "efd-html",
+    "verification": "unverified",
+    "sources": [
+      {
+        "kind": "filing",
+        "url": "https://efdsearch.senate.gov/search/view/annual/f0dda451-74f3-4b34-b6a9-71a8c593fbae/",
+        "title": "Annual Report for CY 2024"
+      },
+      {
+        "kind": "filing",
+        "url": "https://efdsearch.senate.gov/search/view/ptr/5d118fc0-14f4-426a-8d38-05056392b4d8/"
+      },
+      {
+        "kind": "filing",
+        "url": "https://efdsearch.senate.gov/search/view/ptr/e337e1b4-ff0a-4b83-8a58-1d25a81ea26f/"
+      }
+    ],
+    "note": "from Annual Report for CY 2024: Bitwise Bitcoin ETF"
+  },
+  {
+    "memberId": "M001244",
+    "security": {
+      "ticker": "TSLA",
+      "kind": "treasury"
+    },
+    "owner": "self",
+    "range": {
+      "lo": 1001,
+      "hi": 15000
+    },
+    "status": "stale",
+    "asOf": "2025-05-21",
+    "extraction": "efd-html",
+    "verification": "unverified",
+    "sources": [
+      {
+        "kind": "filing",
+        "url": "https://efdsearch.senate.gov/search/view/annual/2a8e3a84-ea4e-41c8-8653-1dc74abeade9/",
+        "title": "New Filer Report for 01/21/2025"
+      }
+    ],
+    "note": "from New Filer Report for 01/21/2025: Tesla Inc"
+  },
+  {
+    "memberId": "N000189",
+    "security": {
+      "ticker": "TSLA",
+      "kind": "treasury"
+    },
+    "owner": "self",
+    "range": {
+      "lo": 1001,
+      "hi": 15000
+    },
+    "status": "stale",
+    "asOf": "2023-03-17",
+    "extraction": "pdf-text",
+    "verification": "unverified",
+    "sources": [
+      {
+        "kind": "filing",
+        "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20023020.pdf"
+      }
+    ]
+  },
+  {
+    "memberId": "N000189",
+    "security": {
+      "ticker": "TSLA",
+      "kind": "treasury"
+    },
+    "owner": "spouse",
+    "range": {
+      "lo": 1001,
+      "hi": 15000
+    },
+    "status": "sold",
+    "asOf": "2025-04-11",
+    "extraction": "pdf-text",
+    "verification": "unverified",
+    "sources": [
+      {
+        "kind": "filing",
+        "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030292.pdf"
+      }
+    ],
+    "note": "sale reported by PTR with no annual baseline in our coverage"
+  },
+  {
+    "memberId": "P000197",
+    "security": {
+      "ticker": "TSLA",
+      "kind": "treasury"
+    },
+    "owner": "spouse",
+    "range": {
+      "lo": 1500002,
+      "hi": 6000000
+    },
+    "status": "sold",
+    "asOf": "2024-06-24",
+    "extraction": "pdf-text",
+    "verification": "unverified",
+    "sources": [
+      {
+        "kind": "filing",
+        "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20018011.pdf"
+      },
+      {
+        "kind": "filing",
+        "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020662.pdf"
+      },
+      {
+        "kind": "filing",
+        "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/20025368.pdf"
       }
     ]
   },
   {
     "memberId": "R000610",
-    "security": { "ticker": "BTC", "kind": "direct" },
+    "security": {
+      "ticker": "BTC",
+      "kind": "direct"
+    },
     "owner": "self",
-    "range": { "lo": 1001, "hi": 15000 },
+    "range": {
+      "lo": 1001,
+      "hi": 15000
+    },
     "status": "sold",
     "asOf": "2025-04-24",
     "extraction": "pdf-text",
@@ -239,61 +1503,439 @@
     "sources": [
       {
         "kind": "filing",
-        "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20026402.pdf",
-        "title": "House Clerk PTR, Rep. Guy Reschenthaler (sale 2025-04-24)"
+        "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20026547.pdf"
+      },
+      {
+        "kind": "filing",
+        "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030237.pdf"
       },
       {
         "kind": "news",
         "url": "https://www.quiverquant.com/congresstrading/stock/BITCOIN",
         "title": "Quiver Quantitative: BITCOIN trades"
       }
-    ],
-    "note": "SOLD 2025-04-24 (at least partial exit) - must render with a SOLD chip, not as a holder."
+    ]
   },
   {
-    "memberId": "K000389",
-    "security": { "ticker": "IBIT", "kind": "spot-etf" },
-    "owner": "dependent",
-    "range": { "lo": 100001, "hi": 250000 },
-    "status": "holds",
-    "asOf": "2026-02-26",
+    "memberId": "S000510",
+    "security": {
+      "ticker": "TSLA",
+      "kind": "treasury"
+    },
+    "owner": "spouse",
+    "range": {
+      "lo": 1001,
+      "hi": 15000
+    },
+    "status": "sold",
+    "asOf": "2025-08-08",
     "extraction": "pdf-text",
-    "verification": "corroborated",
+    "verification": "unverified",
     "sources": [
       {
         "kind": "filing",
-        "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20027055.pdf",
-        "title": "House Clerk PTR, Rep. Ro Khanna (child account, 2026-02-26)"
-      },
-      {
-        "kind": "news",
-        "url": "https://capitolexposed.com/stock/IBIT",
-        "title": "CapitolExposed IBIT holders"
+        "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030868.pdf"
       }
     ],
-    "note": "Child's account. One of only ~2-3 Democrats with real BTC exposure - missing him skews the D count to ~zero."
+    "note": "sale reported by PTR with no annual baseline in our coverage"
+  },
+  {
+    "memberId": "S001184",
+    "security": {
+      "ticker": "TSLA",
+      "kind": "treasury"
+    },
+    "owner": "self",
+    "range": {
+      "lo": 1001,
+      "hi": 15000
+    },
+    "status": "holds",
+    "asOf": "2026-05-15",
+    "extraction": "efd-html",
+    "verification": "unverified",
+    "sources": [
+      {
+        "kind": "filing",
+        "url": "https://efdsearch.senate.gov/search/view/annual/516c1638-5b26-4a14-99be-d89c1b426839/",
+        "title": "Annual Report for CY 2025"
+      }
+    ],
+    "note": "from Annual Report for CY 2025: Tesla Inc"
+  },
+  {
+    "memberId": "S001201",
+    "security": {
+      "ticker": "TSLA",
+      "kind": "treasury"
+    },
+    "owner": "self",
+    "range": {
+      "lo": 50001,
+      "hi": 100000
+    },
+    "status": "sold",
+    "asOf": "2021-04-07",
+    "extraction": "pdf-text",
+    "verification": "unverified",
+    "sources": [
+      {
+        "kind": "filing",
+        "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019379.pdf"
+      }
+    ]
+  },
+  {
+    "memberId": "S001211",
+    "security": {
+      "ticker": "TSLA",
+      "kind": "treasury"
+    },
+    "owner": "spouse",
+    "range": {
+      "lo": 1001,
+      "hi": 15000
+    },
+    "status": "sold",
+    "asOf": "2023-10-24",
+    "extraction": "pdf-text",
+    "verification": "unverified",
+    "sources": [
+      {
+        "kind": "filing",
+        "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20023892.pdf"
+      }
+    ]
+  },
+  {
+    "memberId": "S001216",
+    "security": {
+      "ticker": "TSLA",
+      "kind": "treasury"
+    },
+    "owner": "joint",
+    "range": {
+      "lo": 250001,
+      "hi": 500000
+    },
+    "status": "sold",
+    "asOf": "2022-03-22",
+    "extraction": "pdf-text",
+    "verification": "unverified",
+    "sources": [
+      {
+        "kind": "filing",
+        "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020712.pdf"
+      }
+    ],
+    "note": "sale reported by PTR with no annual baseline in our coverage"
+  },
+  {
+    "memberId": "S001216",
+    "security": {
+      "ticker": "TSLA",
+      "kind": "treasury"
+    },
+    "owner": "spouse",
+    "range": {
+      "lo": 250001,
+      "hi": 500000
+    },
+    "status": "sold",
+    "asOf": "2022-03-22",
+    "extraction": "pdf-text",
+    "verification": "unverified",
+    "sources": [
+      {
+        "kind": "filing",
+        "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020712.pdf"
+      }
+    ],
+    "note": "sale reported by PTR with no annual baseline in our coverage"
+  },
+  {
+    "memberId": "S001229",
+    "security": {
+      "ticker": "COIN",
+      "kind": "exchange"
+    },
+    "owner": "self",
+    "range": {
+      "lo": 15001,
+      "hi": 50000
+    },
+    "status": "sold",
+    "asOf": "2025-05-12",
+    "extraction": "pdf-text",
+    "verification": "unverified",
+    "sources": [
+      {
+        "kind": "filing",
+        "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030387.pdf"
+      }
+    ]
+  },
+  {
+    "memberId": "S001229",
+    "security": {
+      "ticker": "MSTR",
+      "kind": "treasury"
+    },
+    "owner": "self",
+    "range": {
+      "lo": 15001,
+      "hi": 50000
+    },
+    "status": "sold",
+    "asOf": "2025-05-12",
+    "extraction": "pdf-text",
+    "verification": "unverified",
+    "sources": [
+      {
+        "kind": "filing",
+        "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20027879.pdf"
+      },
+      {
+        "kind": "filing",
+        "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030387.pdf"
+      }
+    ]
+  },
+  {
+    "memberId": "S001229",
+    "security": {
+      "ticker": "TSLA",
+      "kind": "treasury"
+    },
+    "owner": "self",
+    "range": {
+      "lo": 100001,
+      "hi": 250000
+    },
+    "status": "sold",
+    "asOf": "2025-05-12",
+    "extraction": "pdf-text",
+    "verification": "unverified",
+    "sources": [
+      {
+        "kind": "filing",
+        "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030387.pdf"
+      }
+    ],
+    "note": "sale reported by PTR with no annual baseline in our coverage"
+  },
+  {
+    "memberId": "T000278",
+    "security": {
+      "ticker": "TSLA",
+      "kind": "treasury"
+    },
+    "owner": "joint",
+    "range": {
+      "lo": 1001,
+      "hi": 15000
+    },
+    "status": "sold",
+    "asOf": "2023-10-17",
+    "extraction": "efd-html",
+    "verification": "unverified",
+    "sources": [
+      {
+        "kind": "filing",
+        "url": "https://efdsearch.senate.gov/search/view/ptr/25e0814a-7ea9-41b7-96e6-9c59fbc8c0e3/"
+      }
+    ]
+  },
+  {
+    "memberId": "T000480",
+    "security": {
+      "ticker": "SPCX",
+      "kind": "treasury"
+    },
+    "owner": "self",
+    "range": {
+      "lo": 100002,
+      "hi": 200000
+    },
+    "status": "holds",
+    "asOf": "2026-06-15",
+    "extraction": "pdf-text",
+    "verification": "unverified",
+    "sources": [
+      {
+        "kind": "filing",
+        "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035042.pdf"
+      },
+      {
+        "kind": "filing",
+        "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20022577.pdf"
+      }
+    ]
   },
   {
     "memberId": "T000488",
-    "security": { "ticker": "MSTR", "kind": "treasury" },
+    "security": {
+      "ticker": "BTC",
+      "kind": "direct"
+    },
     "owner": "self",
-    "range": { "lo": 15001, "hi": 50000 },
-    "status": "holds",
-    "asOf": "2025-08-15",
+    "range": {
+      "lo": 250001,
+      "hi": 500000
+    },
+    "status": "sold",
+    "asOf": "2024-02-05",
     "extraction": "pdf-text",
-    "verification": "corroborated",
+    "verification": "unverified",
     "sources": [
       {
         "kind": "filing",
-        "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20026488.pdf",
-        "title": "House Clerk PTR, Rep. Shri Thanedar (MSTR buy Aug 2025)"
-      },
-      {
-        "kind": "news",
-        "url": "https://www.quiverquant.com/congresstrading/stock/MSTR",
-        "title": "Quiver Quantitative: MSTR congressional trades"
+        "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/20024468.pdf"
       }
     ],
-    "note": "Tier 2 proxy exposure; also reported direct BTC/ETH/LTC on the 2023 annual (re-verify)."
+    "note": "sale reported by PTR with no annual baseline in our coverage"
+  },
+  {
+    "memberId": "T000488",
+    "security": {
+      "ticker": "COIN",
+      "kind": "exchange"
+    },
+    "owner": "self",
+    "range": {
+      "lo": 1001,
+      "hi": 15000
+    },
+    "status": "sold",
+    "asOf": "2022-12-20",
+    "extraction": "pdf-text",
+    "verification": "unverified",
+    "sources": [
+      {
+        "kind": "filing",
+        "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20022380.pdf"
+      }
+    ],
+    "note": "sale reported by PTR with no annual baseline in our coverage"
+  },
+  {
+    "memberId": "T000488",
+    "security": {
+      "ticker": "MSTR",
+      "kind": "treasury"
+    },
+    "owner": "self",
+    "range": {
+      "lo": 15001,
+      "hi": 50000
+    },
+    "status": "stale",
+    "asOf": "2024-07-01",
+    "extraction": "pdf-text",
+    "verification": "unverified",
+    "sources": [
+      {
+        "kind": "filing",
+        "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030869.pdf"
+      }
+    ]
+  },
+  {
+    "memberId": "T000488",
+    "security": {
+      "ticker": "TSLA",
+      "kind": "treasury"
+    },
+    "owner": "self",
+    "range": {
+      "lo": 1001,
+      "hi": 15000
+    },
+    "status": "sold",
+    "asOf": "2023-01-23",
+    "extraction": "pdf-text",
+    "verification": "unverified",
+    "sources": [
+      {
+        "kind": "filing",
+        "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20022380.pdf"
+      }
+    ],
+    "note": "sale reported by PTR with no annual baseline in our coverage"
+  },
+  {
+    "memberId": "W000802",
+    "security": {
+      "ticker": "TSLA",
+      "kind": "treasury"
+    },
+    "owner": "joint",
+    "range": {
+      "lo": 1001,
+      "hi": 15000
+    },
+    "status": "sold",
+    "asOf": "2019-08-27",
+    "extraction": "efd-html",
+    "verification": "unverified",
+    "sources": [
+      {
+        "kind": "filing",
+        "url": "https://efdsearch.senate.gov/search/view/ptr/a22bbeeb-0e4f-4993-89e2-ed28ba9f6242/"
+      },
+      {
+        "kind": "filing",
+        "url": "https://efdsearch.senate.gov/search/view/ptr/6afab8c4-aaf4-464a-9c1c-4e04b229e77f/"
+      }
+    ]
+  },
+  {
+    "memberId": "W000802",
+    "security": {
+      "ticker": "TSLA",
+      "kind": "treasury"
+    },
+    "owner": "self",
+    "range": {
+      "lo": 15001,
+      "hi": 50000
+    },
+    "status": "sold",
+    "asOf": "2024-10-28",
+    "extraction": "efd-html",
+    "verification": "unverified",
+    "sources": [
+      {
+        "kind": "filing",
+        "url": "https://efdsearch.senate.gov/search/view/ptr/a3fd3dbc-8c32-476a-85eb-67ee0ce304cb/"
+      }
+    ],
+    "note": "sale reported by PTR with no annual baseline in our coverage"
+  },
+  {
+    "memberId": "W000802",
+    "security": {
+      "ticker": "TSLA",
+      "kind": "treasury"
+    },
+    "owner": "spouse",
+    "range": {
+      "lo": 1001,
+      "hi": 15000
+    },
+    "status": "sold",
+    "asOf": "2024-10-28",
+    "extraction": "efd-html",
+    "verification": "unverified",
+    "sources": [
+      {
+        "kind": "filing",
+        "url": "https://efdsearch.senate.gov/search/view/ptr/bb5e855a-e130-45b5-89da-f9d64954a56e/"
+      },
+      {
+        "kind": "filing",
+        "url": "https://efdsearch.senate.gov/search/view/ptr/a3fd3dbc-8c32-476a-85eb-67ee0ce304cb/"
+      }
+    ]
   }
 ]

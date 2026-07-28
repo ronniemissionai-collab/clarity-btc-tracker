@@ -1,24 +1,58 @@
 {
-  "generatedAt": "2026-07-28T06:00:00Z",
+  "generatedAt": "2026-07-28T14:43:05.329Z",
   "asOf": {
-    "bill": "2026-07-27",
-    "members": "2026-07-27",
-    "holdings": "2026-07-27",
-    "trades": "2026-07-24",
-    "traders": "2026-07-24",
-    "news": "2026-07-24"
+    "bill": "2026-07-28",
+    "members": "2026-07-28",
+    "holdings": "2026-07-28",
+    "trades": "2026-07-28",
+    "traders": "2026-07-28",
+    "news": "2026-07-28"
   },
   "run": {
     "ok": true,
     "stats": {
-      "membersTracked": 17,
-      "holdingRows": 13,
-      "tradesIngested": 8,
-      "tradersRanked": 5,
-      "newsItems": 4,
-      "ocrFlagged": 1,
-      "validationFailures": 0
+      "houseNewPtrs": 0,
+      "houseTrades": 0,
+      "houseOcrFlagged": 0,
+      "houseUnmatchedFilings": 0,
+      "houseIssues": 0,
+      "senateNewFilings": 0,
+      "senateTrades": 0,
+      "senateAnnualHoldings": 0,
+      "senatePaperStubs": 0,
+      "senateSkipped": 0,
+      "officialTradeLedger": 4400,
+      "annualBaselineRows": 8,
+      "kadoaNormalized": 37318,
+      "kadoaSkippedRows": 5253,
+      "kadoaUnmatchedFilers": 1,
+      "tradesMerged": 38103,
+      "tradesProvenanceOfficial": 785,
+      "tradesProvenanceBoth": 3615,
+      "tradesProvenanceKadoa": 33703,
+      "tradesBackfilled": 32520,
+      "tradesMissedByOfficial": 1183,
+      "tradeConflicts": 103,
+      "holdingsDerived": 73,
+      "holdingRejects": 0,
+      "holdingsChanged": 70,
+      "exaQueriesUsed": 30,
+      "exaQueriesSkipped": 52,
+      "exaSkippedHoldings": 51,
+      "newsItems": 6,
+      "billRefreshed": 1,
+      "billVotes": 1,
+      "tradersRanked": 15,
+      "tradersMeasured": 12,
+      "tradersClaimsNotSupported": 1,
+      "unpriceableBuys": 1482,
+      "tier1Holders": 10,
+      "validationFailures": 0,
+      "dryRun": 0
     },
-    "errors": []
+    "errors": [],
+    "warnings": [
+      "kadoa cross-check: 1183 row(s) inside the official coverage window were only found via kadoa - investigate the official ingest"
+    ]
   }
 }

@@ -2,39 +2,43 @@
   "congress": 119,
   "billType": "hr",
   "number": 3633,
-  "title": "Digital Asset Market Clarity Act of 2025",
+  "title": "Digital Asset Market Clarity Act",
   "shortTitle": "CLARITY Act",
   "introducedDate": "2025-05-29",
-  "sponsor": { "name": "Rep. J. French Hill", "party": "R", "state": "AR" },
+  "sponsor": {
+    "name": "Rep. J. French Hill",
+    "party": "R",
+    "state": "AR"
+  },
   "latestAction": {
     "date": "2026-06-01",
-    "text": "Reported by Sen. Tim Scott (R-SC) with an amendment in the nature of a substitute; placed on Senate Legislative Calendar under General Orders, Calendar No. 423."
+    "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 423."
   },
-  "substituteWarning": "The Senate text is a full strike-and-replace substitute (now a merged 616-page Banking+Agriculture draft). If the Senate passes H.R. 3633, the bill goes back to the House for re-passage of the amended text - it does NOT send the House-passed CLARITY text to the President. A cloture vote is not a passage vote.",
+  "substituteWarning": "The Senate text is a full strike-and-replace substitute (amendment in the nature of a substitute). If the Senate passes H.R. 3633, the bill goes back to the House for re-passage of the amended text - it does NOT send the House-passed CLARITY text to the President. A cloture vote is not a passage vote.",
+  "requiresHouseRepassage": false,
   "stages": [
     {
       "label": "Introduced in House",
       "date": "2025-05-29",
       "status": "done",
-      "detail": "Referred to House Financial Services + Agriculture."
+      "detail": "Introduced in House"
     },
     {
       "label": "Passed House",
       "date": "2025-07-17",
       "status": "done",
-      "detail": "294-134 (Roll Call 199)."
+      "detail": "Passed/agreed to in House: On passage Passed by the Yeas and Nays: 294 - 134 (Roll no. 199)."
     },
     {
-      "label": "Senate Banking reported (substitute text)",
+      "label": "Senate committee reported (substitute text)",
       "date": "2026-06-01",
       "status": "done",
-      "detail": "Ordered reported 15-9 on 2026-05-14 with an amendment in the nature of a substitute; Calendar No. 423."
+      "detail": "Committee on Banking, Housing, and Urban Affairs. Reported by Senator Scott SC, with an amendment in the nature of a substitute. Without written report."
     },
     {
       "label": "Senate floor vote",
       "date": null,
-      "status": "current",
-      "detail": "No Senate roll call as of 2026-07-27 (zero H.R. 3633 votes in the 119-2 menu); leadership says the votes are lacking before the August recess."
+      "status": "current"
     },
     {
       "label": "House re-passage of Senate text",
@@ -54,21 +58,35 @@
       "label": "Introduced in House",
       "chamber": "house",
       "date": "2025-05-29",
-      "url": "https://www.congress.gov/bill/119th-congress/house-bill/3633/text/ih"
+      "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr3633ih/xml/BILLS-119hr3633ih.xml"
+    },
+    {
+      "version": "RH",
+      "label": "Reported in House",
+      "chamber": "house",
+      "date": "2025-06-23",
+      "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr3633rh/xml/BILLS-119hr3633rh.xml"
     },
     {
       "version": "EH",
       "label": "Engrossed in House (House-passed text)",
       "chamber": "house",
       "date": "2025-07-17",
-      "url": "https://www.congress.gov/bill/119th-congress/house-bill/3633/text/eh"
+      "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr3633eh/xml/BILLS-119hr3633eh.xml"
     },
     {
-      "version": "ANS",
-      "label": "Senate Banking amendment in the nature of a substitute (strike-and-replace)",
+      "version": "RFS",
+      "label": "Referred in Senate (House-passed text as received)",
       "chamber": "senate",
-      "date": "2026-05-14",
-      "url": "https://www.banking.senate.gov/imo/media/doc/ehf26374.pdf"
+      "date": "2025-09-18",
+      "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr3633rfs/xml/BILLS-119hr3633rfs.xml"
+    },
+    {
+      "version": "RS",
+      "label": "Reported to Senate - committee amendment in the nature of a substitute (strike-and-replace)",
+      "chamber": "senate",
+      "date": "2026-06-01",
+      "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr3633rs/xml/BILLS-119hr3633rs.xml"
     }
   ],
   "votes": [
@@ -84,31 +102,1773 @@
       "notVoting": 4,
       "rollUrl": "https://clerk.house.gov/evs/2025/roll199.xml",
       "byParty": {
-        "R": { "yea": 216, "nay": 0, "notVoting": 4 },
-        "D": { "yea": 78, "nay": 134, "notVoting": 0 }
-      }
-    },
-    {
-      "type": "committee",
-      "chamber": "senate",
-      "date": "2026-05-14",
-      "question": "To report H.R. 3633 favorably with an amendment in the nature of a substitute",
-      "result": "passed",
-      "yea": 15,
-      "nay": 9,
-      "rollUrl": "https://www.banking.senate.gov/newsroom/majority/chairman-scott-senate-banking-committee-advance-clarity-act-in-historic-bipartisan-vote",
-      "byParty": {
-        "R": { "yea": 13, "nay": 0 },
-        "D": { "yea": 2, "nay": 9 }
-      }
+        "R": {
+          "yea": 216,
+          "nay": 0,
+          "present": 0,
+          "notVoting": 4
+        },
+        "D": {
+          "yea": 78,
+          "nay": 134,
+          "present": 0,
+          "notVoting": 0
+        },
+        "I": {
+          "yea": 0,
+          "nay": 0,
+          "present": 0,
+          "notVoting": 0
+        }
+      },
+      "memberVotes": [
+        {
+          "bioguideId": "A000370",
+          "vote": "nay"
+        },
+        {
+          "bioguideId": "A000055",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "A000371",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "A000379",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "A000372",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "A000380",
+          "vote": "nay"
+        },
+        {
+          "bioguideId": "A000369",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "A000381",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "A000375",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "A000148",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "B001291",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "B001298",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "B001307",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "B001306",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "B001318",
+          "vote": "nay"
+        },
+        {
+          "bioguideId": "B001282",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "B001300",
+          "vote": "nay"
+        },
+        {
+          "bioguideId": "B001321",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "B001322",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "B001314",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "B001281",
+          "vote": "nay"
+        },
+        {
+          "bioguideId": "B001323",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "B001324",
+          "vote": "nay"
+        },
+        {
+          "bioguideId": "B000668",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "B001287",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "B001301",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "B001292",
+          "vote": "nay"
+        },
+        {
+          "bioguideId": "B000740",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "B001302",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "B001325",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "B001257",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "B000490",
+          "vote": "nay"
+        },
+        {
+          "bioguideId": "B000825",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "B001278",
+          "vote": "nay"
+        },
+        {
+          "bioguideId": "B001295",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "B001296",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "B001317",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "B001327",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "B001313",
+          "vote": "nay"
+        },
+        {
+          "bioguideId": "B001285",
+          "vote": "nay"
+        },
+        {
+          "bioguideId": "B001260",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "B001315",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "B001309",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "B001316",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "B001326",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "C000059",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "C001039",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "C001112",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "C001126",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "C001072",
+          "vote": "nay"
+        },
+        {
+          "bioguideId": "C001103",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "C001125",
+          "vote": "nay"
+        },
+        {
+          "bioguideId": "C001051",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "C001131",
+          "vote": "nay"
+        },
+        {
+          "bioguideId": "C001055",
+          "vote": "nay"
+        },
+        {
+          "bioguideId": "C001117",
+          "vote": "nay"
+        },
+        {
+          "bioguideId": "C001066",
+          "vote": "nay"
+        },
+        {
+          "bioguideId": "C001091",
+          "vote": "nay"
+        },
+        {
+          "bioguideId": "C001127",
+          "vote": "nay"
+        },
+        {
+          "bioguideId": "C001080",
+          "vote": "nay"
+        },
+        {
+          "bioguideId": "C001133",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "C001123",
+          "vote": "nay"
+        },
+        {
+          "bioguideId": "C001101",
+          "vote": "nay"
+        },
+        {
+          "bioguideId": "C001067",
+          "vote": "nay"
+        },
+        {
+          "bioguideId": "C001061",
+          "vote": "nay"
+        },
+        {
+          "bioguideId": "C001118",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "C001115",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "C000537",
+          "vote": "nay"
+        },
+        {
+          "bioguideId": "C001116",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "C001068",
+          "vote": "nay"
+        },
+        {
+          "bioguideId": "C001053",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "C001129",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "C001108",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "C001136",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "C001110",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "C001059",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "C001069",
+          "vote": "nay"
+        },
+        {
+          "bioguideId": "C001119",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "C001132",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "C001137",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "C001087",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "C001120",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "C001130",
+          "vote": "nay"
+        },
+        {
+          "bioguideId": "C001121",
+          "vote": "nay"
+        },
+        {
+          "bioguideId": "C001063",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "D000629",
+          "vote": "nay"
+        },
+        {
+          "bioguideId": "D000626",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "D000096",
+          "vote": "nay"
+        },
+        {
+          "bioguideId": "D000230",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "D000594",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "D000631",
+          "vote": "nay"
+        },
+        {
+          "bioguideId": "D000197",
+          "vote": "nay"
+        },
+        {
+          "bioguideId": "D000216",
+          "vote": "nay"
+        },
+        {
+          "bioguideId": "D000617",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "D000530",
+          "vote": "nay"
+        },
+        {
+          "bioguideId": "D000623",
+          "vote": "nay"
+        },
+        {
+          "bioguideId": "D000616",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "D000635",
+          "vote": "nay"
+        },
+        {
+          "bioguideId": "D000600",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "D000624",
+          "vote": "nay"
+        },
+        {
+          "bioguideId": "D000399",
+          "vote": "nay"
+        },
+        {
+          "bioguideId": "D000032",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "D000634",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "D000628",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "E000246",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "E000301",
+          "vote": "nay"
+        },
+        {
+          "bioguideId": "E000071",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "E000294",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "E000299",
+          "vote": "nay"
+        },
+        {
+          "bioguideId": "E000297",
+          "vote": "nay"
+        },
+        {
+          "bioguideId": "E000298",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "E000300",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "E000296",
+          "vote": "nay"
+        },
+        {
+          "bioguideId": "E000235",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "F000246",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "F000482",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "F000446",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "F000110",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "F000481",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "F000484",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "F000475",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "F000470",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "F000471",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "F000466",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "F000459",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "F000468",
+          "vote": "nay"
+        },
+        {
+          "bioguideId": "F000474",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "F000480",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "F000454",
+          "vote": "nay"
+        },
+        {
+          "bioguideId": "F000477",
+          "vote": "nay"
+        },
+        {
+          "bioguideId": "F000450",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "F000462",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "F000472",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "F000483",
+          "vote": "nay"
+        },
+        {
+          "bioguideId": "F000476",
+          "vote": "nay"
+        },
+        {
+          "bioguideId": "F000478",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "F000469",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "G000559",
+          "vote": "nay"
+        },
+        {
+          "bioguideId": "G000597",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "G000598",
+          "vote": "nay"
+        },
+        {
+          "bioguideId": "G000586",
+          "vote": "nay"
+        },
+        {
+          "bioguideId": "G000587",
+          "vote": "nay"
+        },
+        {
+          "bioguideId": "G000603",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "G000602",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "G000593",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "G000592",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "G000599",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "G000601",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "G000585",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "G000594",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "G000581",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "G000589",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "G000604",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "G000565",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "G000583",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "G000546",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "G000605",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "G000590",
+          "vote": "not-voting"
+        },
+        {
+          "bioguideId": "G000553",
+          "vote": "nay"
+        },
+        {
+          "bioguideId": "G000596",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "G000568",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "G000576",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "G000591",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "G000558",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "H001096",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "H001098",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "H001090",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "H001099",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "H001101",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "H001052",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "H001102",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "H001086",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "H001081",
+          "vote": "nay"
+        },
+        {
+          "bioguideId": "H001082",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "H001077",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "H001072",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "H001047",
+          "vote": "nay"
+        },
+        {
+          "bioguideId": "H001091",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "H001066",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "H001093",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "H001085",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "H000874",
+          "vote": "nay"
+        },
+        {
+          "bioguideId": "H001094",
+          "vote": "nay"
+        },
+        {
+          "bioguideId": "H001067",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "H001068",
+          "vote": "nay"
+        },
+        {
+          "bioguideId": "H001058",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "H001095",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "H001100",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "I000056",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "I000058",
+          "vote": "nay"
+        },
+        {
+          "bioguideId": "J000311",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "J000309",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "J000304",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "J000305",
+          "vote": "nay"
+        },
+        {
+          "bioguideId": "J000307",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "J000298",
+          "vote": "nay"
+        },
+        {
+          "bioguideId": "J000294",
+          "vote": "nay"
+        },
+        {
+          "bioguideId": "J000288",
+          "vote": "nay"
+        },
+        {
+          "bioguideId": "J000299",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "J000301",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "J000310",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "J000289",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "J000295",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "J000302",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "K000400",
+          "vote": "nay"
+        },
+        {
+          "bioguideId": "K000009",
+          "vote": "nay"
+        },
+        {
+          "bioguideId": "K000398",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "K000375",
+          "vote": "nay"
+        },
+        {
+          "bioguideId": "K000385",
+          "vote": "nay"
+        },
+        {
+          "bioguideId": "K000388",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "K000376",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "K000402",
+          "vote": "nay"
+        },
+        {
+          "bioguideId": "K000403",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "K000389",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "K000399",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "K000401",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "K000397",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "K000405",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "K000391",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "K000392",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "L000585",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "L000598",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "L000578",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "L000601",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "L000600",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "L000560",
+          "vote": "nay"
+        },
+        {
+          "bioguideId": "L000557",
+          "vote": "nay"
+        },
+        {
+          "bioguideId": "L000606",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "L000566",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "L000599",
+          "vote": "not-voting"
+        },
+        {
+          "bioguideId": "L000597",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "L000590",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "L000602",
+          "vote": "nay"
+        },
+        {
+          "bioguideId": "L000273",
+          "vote": "nay"
+        },
+        {
+          "bioguideId": "L000595",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "L000593",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "L000607",
+          "vote": "nay"
+        },
+        {
+          "bioguideId": "L000582",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "L000397",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "L000583",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "L000491",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "L000596",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "L000603",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "L000562",
+          "vote": "nay"
+        },
+        {
+          "bioguideId": "M000194",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "M001230",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "M001223",
+          "vote": "nay"
+        },
+        {
+          "bioguideId": "M000317",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "M001228",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "M000871",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "M001231",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "M001184",
+          "vote": "not-voting"
+        },
+        {
+          "bioguideId": "M001199",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "M001163",
+          "vote": "nay"
+        },
+        {
+          "bioguideId": "M001208",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "M001238",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "M001157",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "M001136",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "M001232",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "M001227",
+          "vote": "nay"
+        },
+        {
+          "bioguideId": "M001177",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "M001143",
+          "vote": "nay"
+        },
+        {
+          "bioguideId": "M001218",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "M001237",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "M001240",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "M001220",
+          "vote": "nay"
+        },
+        {
+          "bioguideId": "M000312",
+          "vote": "nay"
+        },
+        {
+          "bioguideId": "M001239",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "M001229",
+          "vote": "nay"
+        },
+        {
+          "bioguideId": "M001137",
+          "vote": "nay"
+        },
+        {
+          "bioguideId": "M001226",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "M001188",
+          "vote": "nay"
+        },
+        {
+          "bioguideId": "M001233",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "M001204",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "M000687",
+          "vote": "nay"
+        },
+        {
+          "bioguideId": "M001211",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "M001222",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "M001205",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "M001215",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "M001216",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "M001241",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "M001194",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "M001212",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "M001236",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "M001213",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "M001160",
+          "vote": "nay"
+        },
+        {
+          "bioguideId": "M001235",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "M001224",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "M001206",
+          "vote": "nay"
+        },
+        {
+          "bioguideId": "M001234",
+          "vote": "nay"
+        },
+        {
+          "bioguideId": "M001217",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "M001196",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "M001214",
+          "vote": "nay"
+        },
+        {
+          "bioguideId": "M001225",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "M001210",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "N000002",
+          "vote": "nay"
+        },
+        {
+          "bioguideId": "N000015",
+          "vote": "nay"
+        },
+        {
+          "bioguideId": "N000191",
+          "vote": "nay"
+        },
+        {
+          "bioguideId": "N000026",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "N000189",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "N000188",
+          "vote": "nay"
+        },
+        {
+          "bioguideId": "N000190",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "N000193",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "O000019",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "O000172",
+          "vote": "nay"
+        },
+        {
+          "bioguideId": "O000175",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "O000176",
+          "vote": "nay"
+        },
+        {
+          "bioguideId": "O000173",
+          "vote": "nay"
+        },
+        {
+          "bioguideId": "O000177",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "O000086",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "P000034",
+          "vote": "nay"
+        },
+        {
+          "bioguideId": "P000609",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "P000613",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "P000614",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "P000622",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "P000197",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "G000600",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "P000605",
+          "vote": "not-voting"
+        },
+        {
+          "bioguideId": "P000608",
+          "vote": "nay"
+        },
+        {
+          "bioguideId": "P000620",
+          "vote": "nay"
+        },
+        {
+          "bioguideId": "P000048",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "P000597",
+          "vote": "nay"
+        },
+        {
+          "bioguideId": "P000607",
+          "vote": "nay"
+        },
+        {
+          "bioguideId": "P000621",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "P000617",
+          "vote": "nay"
+        },
+        {
+          "bioguideId": "Q000023",
+          "vote": "nay"
+        },
+        {
+          "bioguideId": "R000617",
+          "vote": "nay"
+        },
+        {
+          "bioguideId": "R000621",
+          "vote": "nay"
+        },
+        {
+          "bioguideId": "R000606",
+          "vote": "nay"
+        },
+        {
+          "bioguideId": "R000610",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "R000622",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "R000620",
+          "vote": "nay"
+        },
+        {
+          "bioguideId": "R000575",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "R000395",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "R000612",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "R000305",
+          "vote": "nay"
+        },
+        {
+          "bioguideId": "R000603",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "R000614",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "R000599",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "R000619",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "R000609",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "R000579",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "S000168",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "S001226",
+          "vote": "nay"
+        },
+        {
+          "bioguideId": "S001156",
+          "vote": "nay"
+        },
+        {
+          "bioguideId": "S001176",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "S001205",
+          "vote": "nay"
+        },
+        {
+          "bioguideId": "S001145",
+          "vote": "nay"
+        },
+        {
+          "bioguideId": "S001228",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "S001190",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "S001221",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "S001216",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "S001183",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "S000185",
+          "vote": "nay"
+        },
+        {
+          "bioguideId": "S001189",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "S001157",
+          "vote": "nay"
+        },
+        {
+          "bioguideId": "S001224",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "S000250",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "S001185",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "S000344",
+          "vote": "nay"
+        },
+        {
+          "bioguideId": "S001207",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "S001229",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "S001231",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "S001148",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "S001195",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "S001172",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "S000522",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "S000510",
+          "vote": "nay"
+        },
+        {
+          "bioguideId": "S001199",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "S001225",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "S001200",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "S000929",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "S001218",
+          "vote": "nay"
+        },
+        {
+          "bioguideId": "S001211",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "S001212",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "S001196",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "S001213",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "S001214",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "S001215",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "S001159",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "S001220",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "S001188",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "S001230",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "S001201",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "S001193",
+          "vote": "nay"
+        },
+        {
+          "bioguideId": "S001223",
+          "vote": "nay"
+        },
+        {
+          "bioguideId": "T000472",
+          "vote": "nay"
+        },
+        {
+          "bioguideId": "T000490",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "T000478",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "T000488",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "T000460",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "T000193",
+          "vote": "nay"
+        },
+        {
+          "bioguideId": "T000467",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "T000165",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "T000480",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "T000468",
+          "vote": "nay"
+        },
+        {
+          "bioguideId": "T000481",
+          "vote": "nay"
+        },
+        {
+          "bioguideId": "T000487",
+          "vote": "nay"
+        },
+        {
+          "bioguideId": "T000469",
+          "vote": "nay"
+        },
+        {
+          "bioguideId": "T000474",
+          "vote": "nay"
+        },
+        {
+          "bioguideId": "T000486",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "T000482",
+          "vote": "nay"
+        },
+        {
+          "bioguideId": "T000491",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "T000463",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "U000040",
+          "vote": "nay"
+        },
+        {
+          "bioguideId": "V000129",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "V000133",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "V000134",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "V000135",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "V000130",
+          "vote": "nay"
+        },
+        {
+          "bioguideId": "V000136",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "V000131",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "V000081",
+          "vote": "nay"
+        },
+        {
+          "bioguideId": "V000138",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "W000812",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "W000798",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "W000797",
+          "vote": "nay"
+        },
+        {
+          "bioguideId": "W000187",
+          "vote": "nay"
+        },
+        {
+          "bioguideId": "W000822",
+          "vote": "nay"
+        },
+        {
+          "bioguideId": "W000814",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "W000806",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "W000821",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "W000830",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "W000829",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "W000788",
+          "vote": "nay"
+        },
+        {
+          "bioguideId": "W000816",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "W000808",
+          "vote": "nay"
+        },
+        {
+          "bioguideId": "W000795",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "W000804",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "W000809",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "Y000067",
+          "vote": "yea"
+        },
+        {
+          "bioguideId": "Z000018",
+          "vote": "yea"
+        }
+      ]
     }
   ],
   "relatedBills": [
     {
-      "title": "Digital Commodity Intermediaries Act",
-      "url": "https://www.agriculture.senate.gov/newsroom/rep/press/release/boozman-leads-ag-committee-in-advancing-crypto-market-structure-legislation",
-      "note": "Senate Agriculture CFTC-side companion, advanced 2026-01-29 on a party-line vote; merged into the 616-page combined Senate draft released ~2026-07-22. Watch /relatedbills for a new Senate vehicle."
+      "title": "Providing for consideration of the bill (H.R. 4922) to limit youth offender status in the District of Columbia to individuals 18 years of age or younger, to direct the Attorney General of the Distric…",
+      "number": "H.Res. 707",
+      "url": "https://www.congress.gov/bill/119th-congress/house-resolution/707"
+    },
+    {
+      "title": "Securing Innovation in Financial Regulation Act",
+      "number": "H.R. 3690",
+      "url": "https://www.congress.gov/bill/119th-congress/house-bill/3690"
+    },
+    {
+      "title": "Providing for consideration of the bill (H.R. 4016) making appropriations for the Department of Defense for the fiscal year ending September 30, 2026, and for other purposes; providing for considerat…",
+      "number": "H.Res. 580",
+      "url": "https://www.congress.gov/bill/119th-congress/house-resolution/580"
     }
   ],
-  "asOf": "2026-07-27"
+  "asOf": "2026-07-28"
 }

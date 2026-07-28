@@ -1,7 +1,28 @@
 [
   {
+    "memberId": "G000583",
+    "tradeCount": 3480,
+    "claims": [
+      {
+        "quote": "Perennial 'most active trader in Congress' headlines; 3,482 all-time disclosed trades, the most of any member.",
+        "sourceUrl": "https://unusualwhales.substack.com/p/congressional-trading-report-2025"
+      }
+    ],
+    "measured": {
+      "return": 92.4,
+      "excess": -5.6,
+      "method": "midpoint",
+      "benchmark": "SPY",
+      "window": "disclosed buys 2017-01-03 to 2026-05-22, since-trade, midpoint-weighted",
+      "asOf": "2026-07-28",
+      "note": "Estimate: position sizes are disclosed-range midpoints, never exact amounts. 146 unpriceable position(s) excluded (options or no resolvable price)."
+    },
+    "attribution": "joint + spouse",
+    "note": "Rapid-fire big-tech round trips; 293 late filings all-time. 480 trades in the 2025-26 kadoa window."
+  },
+  {
     "memberId": "C001123",
-    "tradeCount": 1464,
+    "tradeCount": 2604,
     "claims": [
       {
         "quote": "This is the biggest trader in Congress with over 1,000 trades this last year.",
@@ -10,58 +31,168 @@
       }
     ],
     "measured": {
-      "return": 9.5,
-      "excess": -1.5,
+      "return": 80.1,
+      "excess": 14,
       "method": "midpoint",
       "benchmark": "SPY",
-      "window": "2025-26 buys, mean since-trade",
-      "asOf": "2026-07-24"
+      "window": "disclosed buys 2019-01-18 to 2026-06-30, since-trade, midpoint-weighted",
+      "asOf": "2026-07-28",
+      "note": "Estimate: position sizes are disclosed-range midpoints, never exact amounts. 154 unpriceable position(s) excluded (options or no resolvable price)."
     },
     "attribution": "self",
-    "note": "638 trades in 2026 - most active member right now; ~$48M+ volume of diversified churn."
+    "note": "1,464 trades in the 2025-26 window, 638 in 2026 - most active member right now. Broad diversified churn, ~$48M+ volume."
   },
   {
-    "memberId": "G000583",
-    "tradeCount": 480,
+    "memberId": "M001136",
+    "tradeCount": 1426,
     "claims": [
       {
-        "quote": "Perennial 'most active trader in Congress' headlines; 3,482 all-time disclosed trades.",
-        "sourceUrl": "https://unusualwhales.substack.com/p/congressional-trading-report-2025",
-        "attribution": "Unusual Whales Congress Trading Report 2025"
+        "quote": "+37% return in 2025, third-best in Congress.",
+        "sourceUrl": "https://nypost.com/2026/01/03/us-news/heres-how-much-members-of-congress-raked-in-on-their-stock-portfolios-2025/",
+        "attribution": "Quiver Quantitative via NY Post"
       }
     ],
     "measured": {
-      "return": 16.8,
-      "excess": -3.8,
+      "return": 28.8,
+      "excess": 10,
       "method": "midpoint",
       "benchmark": "SPY",
-      "window": "2025-26 buys, mean since-trade",
-      "asOf": "2026-07-24"
+      "window": "disclosed buys 2024-03-11 to 2026-02-06, since-trade, midpoint-weighted",
+      "asOf": "2026-07-28",
+      "note": "Estimate: position sizes are disclosed-range midpoints, never exact amounts. 25 unpriceable position(s) excluded (options or no resolvable price)."
     },
-    "attribution": "self",
-    "note": "Rapid-fire big-tech round trips; 293 late filings all-time."
+    "attribution": "spouse",
+    "claimsSupported": true,
+    "note": "1,366 trades in window but only 3 since Dec 2025 (winding down). House GOP Conference chair; 538 late filings all-time."
+  },
+  {
+    "memberId": "P000608",
+    "tradeCount": 673,
+    "claims": [
+      {
+        "quote": "Measured +68.6% avg since-trade / +55.2 vs SPY on 2025-26 buys - a data-verified outperformer nobody tweets about.",
+        "sourceUrl": "https://github.com/kadoa-org/congress-trading-monitor",
+        "attribution": "kadoa congress-trading-monitor data"
+      }
+    ],
+    "measured": {
+      "return": 196.2,
+      "excess": -1.1,
+      "method": "midpoint",
+      "benchmark": "SPY",
+      "window": "disclosed buys 2013-02-13 to 2025-09-09, since-trade, midpoint-weighted",
+      "asOf": "2026-07-28",
+      "note": "Estimate: position sizes are disclosed-range midpoints, never exact amounts. 251 unpriceable position(s) excluded (options or no resolvable price)."
+    },
+    "attribution": "spouse",
+    "note": "152 trades in window (99 in 2026) via spouse (Lynn Gorguze) accounts. Little X fame; sleeper."
+  },
+  {
+    "memberId": "K000389",
+    "tradeCount": 582,
+    "claims": [
+      {
+        "quote": "Most trades in Congress - 3,944 trades reported in 2025, the highest raw count of any member.",
+        "sourceUrl": "https://unusualwhales.substack.com/p/congressional-trading-report-2025"
+      }
+    ],
+    "measured": {
+      "return": 6.2,
+      "excess": -0.2,
+      "method": "midpoint",
+      "benchmark": "SPY",
+      "window": "disclosed buys 2026-02-06 to 2026-06-05, since-trade, midpoint-weighted",
+      "asOf": "2026-07-28",
+      "note": "Estimate: position sizes are disclosed-range midpoints, never exact amounts. 320 unpriceable position(s) excluded (options or no resolvable price)."
+    },
+    "attribution": "dependent + spouse",
+    "note": "Partly meme-driven: volume comes from spouse and dependent trusts making hundreds of tiny diversified trades ($1K-$15K), not conviction bets."
+  },
+  {
+    "memberId": "B001236",
+    "tradeCount": 435,
+    "claims": [
+      {
+        "quote": "345 trades in the 2025-26 disclosure window - top-volume senator with little X fame.",
+        "sourceUrl": "https://github.com/kadoa-org/congress-trading-monitor",
+        "attribution": "kadoa congress-trading-monitor data"
+      }
+    ],
+    "measured": {
+      "return": 10.4,
+      "excess": -9.9,
+      "method": "midpoint",
+      "benchmark": "SPY",
+      "window": "disclosed buys 2023-08-29 to 2026-06-25, since-trade, midpoint-weighted",
+      "asOf": "2026-07-28",
+      "note": "Estimate: position sizes are disclosed-range midpoints, never exact amounts. 5 unpriceable position(s) excluded (options or no resolvable price)."
+    },
+    "attribution": "joint + self",
+    "note": "Volume-only entry; measured +11.8% / -3.1 vs SPY."
+  },
+  {
+    "memberId": "M001157",
+    "tradeCount": 418,
+    "claims": [
+      {
+        "quote": "Frequently cited among the top-10 members of Congress by trading volume.",
+        "sourceUrl": "https://unusualwhales.substack.com/p/congressional-trading-report-2025"
+      }
+    ],
+    "measured": {
+      "return": 3,
+      "excess": -3.2,
+      "method": "midpoint",
+      "benchmark": "SPY",
+      "window": "disclosed buys 2026-02-05 to 2026-06-29, since-trade, midpoint-weighted",
+      "asOf": "2026-07-28",
+      "note": "Estimate: position sizes are disclosed-range midpoints, never exact amounts. 250 unpriceable position(s) excluded (options or no resolvable price)."
+    },
+    "attribution": "spouse",
+    "note": "418 trades in window via family/spouse and children's accounts; measured performance poor (+1.9%)."
+  },
+  {
+    "memberId": "M001217",
+    "tradeCount": 388,
+    "claims": [
+      {
+        "quote": "Occasional Unusual Whales callouts on timely trades.",
+        "sourceUrl": "https://unusualwhales.substack.com/p/congressional-trading-report-2025"
+      }
+    ],
+    "measured": {
+      "return": 28.9,
+      "excess": -8.6,
+      "method": "midpoint",
+      "benchmark": "SPY",
+      "window": "disclosed buys 2023-02-21 to 2026-06-18, since-trade, midpoint-weighted",
+      "asOf": "2026-07-28",
+      "note": "Estimate: position sizes are disclosed-range midpoints, never exact amounts. 5 unpriceable position(s) excluded (options or no resolvable price)."
+    },
+    "attribution": "dependent + self",
+    "note": "155 trades in window; measured +28.4% / +7.0 vs SPY. 89 late filings all-time."
   },
   {
     "memberId": "M001243",
-    "tradeCount": 344,
+    "tradeCount": 345,
     "claims": [
       {
-        "quote": "Sen. David McCormick reports new Bitcoin ETF purchases as total for 2025 approaches $1 million.",
+        "quote": "Sen. David McCormick reports new Bitcoin ETF purchases as total for 2025 approaches $1 million - while sitting on Senate Banking.",
         "sourceUrl": "https://www.quiverquant.com/news/Sen.+David+McCormick+Reports+New+Bitcoin+ETF+Purchases+as+Total+for+2025+Approaches+$1+Million",
         "attribution": "Quiver Quantitative"
       }
     ],
     "measured": {
-      "return": -23.2,
-      "excess": -49.5,
+      "return": -24.5,
+      "excess": -49.3,
       "method": "midpoint",
       "benchmark": "SPY",
-      "window": "2025-26 buys, mean since-trade",
-      "asOf": "2026-07-24",
-      "note": "314 of 344 trades are BITB; Mar & Nov 2025 buys down 26-29%."
+      "window": "disclosed buys 2025-02-25 to 2025-11-28, since-trade, midpoint-weighted",
+      "asOf": "2026-07-28",
+      "note": "Estimate: position sizes are disclosed-range midpoints, never exact amounts. 248 unpriceable position(s) excluded (options or no resolvable price)."
     },
-    "attribution": "self",
-    "note": "Fame verified, but as a loser so far - directly relevant to a BTC tracker."
+    "attribution": "spouse + self",
+    "note": "314 of 344 window trades are BITB (Bitwise spot BTC ETF) - conviction DCA. Measured -23.2% / -49.5 vs SPY so far. Ex-Bridgewater CEO."
   },
   {
     "memberId": "M001236",
@@ -71,22 +202,29 @@
         "quote": "2025's best market return in Congress with a +52% gain.",
         "sourceUrl": "https://nypost.com/2026/01/03/us-news/heres-how-much-members-of-congress-raked-in-on-their-stock-portfolios-2025/",
         "attribution": "Quiver Quantitative via NY Post"
+      },
+      {
+        "quote": "Move over Pelosi: this Congress member posted 2025's best market return with a 52% gain.",
+        "sourceUrl": "https://www.benzinga.com/news/politics/26/01/49712291/move-over-pelosi-this-congress-member-posted-2025s-best-market-return-with-a-52-gain",
+        "attribution": "Benzinga"
       }
     ],
     "measured": {
-      "return": 62.5,
-      "excess": 41.5,
+      "return": 52.9,
+      "excess": 30.2,
       "method": "midpoint",
       "benchmark": "SPY",
-      "window": "2025-26 buys, mean since-trade",
-      "asOf": "2026-07-24"
+      "window": "disclosed buys 2025-01-03 to 2026-06-04, since-trade, midpoint-weighted",
+      "asOf": "2026-07-28",
+      "note": "Estimate: position sizes are disclosed-range midpoints, never exact amounts. 19 unpriceable position(s) excluded (options or no resolvable price)."
     },
     "attribution": "self",
-    "note": "Best measured among prolific traders - fame verified by data. Small-cap heavy; 23 late filings."
+    "claimsSupported": true,
+    "note": "Fame verified by data: best measured among prolific traders (+62.5% avg since-trade on 2025-26 buys). Small-caps; 23 late filings."
   },
   {
     "memberId": "P000197",
-    "tradeCount": 28,
+    "tradeCount": 178,
     "claims": [
       {
         "quote": "PelosiTracker shows +19% portfolio return.",
@@ -94,21 +232,89 @@
         "attribution": "PelosiTracker app"
       },
       {
-        "quote": "Lifetime +816%-per-decade claims circulate on X; 2025 was 18-20%, roughly market.",
+        "quote": "2025 portfolio return of 18-20%; the lifetime legend (+816%/decade claims) is built on 2023-24 AVGO/NVDA/PLTR calls.",
         "sourceUrl": "https://www.lambdafin.com/articles/nancy-pelosi-portfolio-returns-by-year",
         "attribution": "LambdaFin"
       }
     ],
     "measured": {
-      "return": 9.0,
-      "excess": -3.2,
+      "return": 157.9,
+      "excess": 71.5,
       "method": "midpoint",
       "benchmark": "SPY",
-      "window": "2025-26 buys, mean since-trade",
-      "asOf": "2026-07-24",
-      "note": "Excludes LEAPS options legs, which cannot be marked to market from equity closes."
+      "window": "disclosed buys 2014-10-24 to 2026-01-16, since-trade, midpoint-weighted",
+      "asOf": "2026-07-28",
+      "note": "Estimate: position sizes are disclosed-range midpoints, never exact amounts. 50 unpriceable position(s) excluded (options or no resolvable price)."
     },
-    "attribution": "spouse (Paul Pelosi)",
-    "note": "Low count, huge sizes; the legend is built on 2023-24 AVGO/NVDA/PLTR calls (kadoa lifetime avg since-trade +207.5%)."
+    "attribution": "spouse",
+    "claimsSupported": false,
+    "note": "All trades by spouse Paul Pelosi; heavy LEAPS options (AVGO, GOOGL, TEM, VST) that cannot be priced from stock closes. Low count, huge sizes."
+  },
+  {
+    "memberId": "K000398",
+    "tradeCount": 147,
+    "claims": [
+      {
+        "quote": "Measured +29.5% avg since-trade / +10.0 vs SPY on 2025-26 buys - sleeper outperformer.",
+        "sourceUrl": "https://github.com/kadoa-org/congress-trading-monitor",
+        "attribution": "kadoa congress-trading-monitor data"
+      }
+    ],
+    "measured": {
+      "return": 27.2,
+      "excess": -3,
+      "method": "midpoint",
+      "benchmark": "SPY",
+      "window": "disclosed buys 2023-01-18 to 2026-06-24, since-trade, midpoint-weighted",
+      "asOf": "2026-07-28",
+      "note": "Estimate: position sizes are disclosed-range midpoints, never exact amounts. 9 unpriceable position(s) excluded (options or no resolvable price)."
+    },
+    "attribution": "self",
+    "note": "105 trades in window; low fame."
+  },
+  {
+    "memberId": "M001190",
+    "tradeCount": 0,
+    "claims": [
+      {
+        "quote": "Frequent Unusual Whales and media callouts on well-timed trades.",
+        "sourceUrl": "https://unusualwhales.substack.com/p/congressional-trading-report-2025"
+      }
+    ],
+    "measured": null,
+    "attribution": "self (owner not stated in filings)",
+    "note": "217 trades in window (little since Feb 2026) via family accounts; measured +33.2% / +18.4 vs SPY - data-verified performer. Not measured: no merged trades for this member yet."
+  },
+  {
+    "memberId": "D000633",
+    "tradeCount": 0,
+    "claims": [
+      {
+        "quote": "Rising 'new most-active trader' mentions in congressional-trading coverage.",
+        "sourceUrl": "https://unusualwhales.substack.com/p/congressional-trading-report-2025"
+      }
+    ],
+    "measured": null,
+    "attribution": "self (owner not stated in filings)",
+    "note": "345 trades in window; measured -0.1% / -13.7 vs SPY - volume real, performance poor. Spouse is John Delaney (ex-rep, financier). Not measured: no merged trades for this member yet."
+  },
+  {
+    "memberId": "F000112",
+    "tradeCount": 0,
+    "claims": [
+      {
+        "quote": "Serial NVDA buyer - 36 disclosed NVDA trades.",
+        "sourceUrl": "https://politalpha.com/politicians/cleo-fields/stock/NVDA",
+        "attribution": "PolitAlpha"
+      },
+      {
+        "quote": "Cleo Fields voted to deregulate crypto while investing in related tech companies.",
+        "sourceUrl": "https://readsludge.com/2025/08/07/cleo-fields-voted-to-deregulate-crypto-while-investing-in-related-tech-companies/",
+        "attribution": "Sludge"
+      }
+    ],
+    "measured": null,
+    "attribution": "self (owner not stated in filings)",
+    "note": "194 trades in window; still active Jun 2026. Fame growing, returns near market (+13.8%). Not measured: no merged trades for this member yet."
   }
 ]
