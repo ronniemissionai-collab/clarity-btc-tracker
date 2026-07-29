@@ -247,6 +247,51 @@ a {
   color: var(--loss);
 }
 
+.chip.buy {
+  background: color-mix(in srgb, var(--gain) 16%, transparent);
+  color: var(--gain);
+}
+
+.chip.sell {
+  background: color-mix(in srgb, var(--loss) 16%, transparent);
+  color: var(--loss);
+}
+
+/* Toggle chips (directory party / active filters). */
+.chip-btn {
+  font: 600 0.74rem/1.4 system-ui, sans-serif;
+  padding: 0.14rem 0.6rem;
+  border-radius: 999px;
+  border: 1.5px solid var(--line);
+  background: var(--card);
+  color: var(--ink-2);
+  cursor: pointer;
+}
+
+.chip-btn[aria-pressed="true"] {
+  border-color: var(--accent);
+  background: color-mix(in srgb, var(--accent) 14%, transparent);
+  color: var(--ink);
+}
+
+.chip-btn.r[aria-pressed="true"] {
+  border-color: var(--rep);
+  background: var(--rep);
+  color: var(--on-party);
+}
+
+.chip-btn.d[aria-pressed="true"] {
+  border-color: var(--dem);
+  background: var(--dem);
+  color: var(--on-party);
+}
+
+.chip-btn.i[aria-pressed="true"] {
+  border-color: var(--ind);
+  background: var(--ind);
+  color: var(--on-party);
+}
+
 /* --------------------------------- hero --------------------------------- */
 
 .hero {
@@ -782,6 +827,130 @@ tr:last-child td {
   font-size: 0.85rem;
   max-width: 62ch;
   margin-top: 1.1rem;
+}
+
+/* --------------------- directory & member portfolio ---------------------- */
+
+.control input[type="search"] {
+  font: inherit;
+  color: var(--ink);
+  background: var(--card);
+  border: 1px solid var(--line);
+  border-radius: 6px;
+  padding: 0.3rem 0.5rem;
+  width: 14rem;
+  max-width: 100%;
+}
+
+.dir-count {
+  margin: 0 0 0.6rem;
+  font-size: 0.85rem;
+}
+
+.dir-table,
+.trades-table,
+.positions-table {
+  min-width: 34rem;
+}
+
+.dir-link {
+  color: var(--ink);
+  text-decoration-color: color-mix(in srgb, var(--accent-ink) 45%, transparent);
+}
+
+.lazy-status,
+.lazy-error p {
+  font-size: 0.9rem;
+}
+
+.lazy-error .errbox {
+  margin: 0.6rem 0;
+}
+
+.show-more {
+  font: 600 0.85rem/1.4 system-ui, sans-serif;
+  margin-top: 0.8rem;
+  border: 1px solid var(--line);
+  background: var(--card);
+  color: var(--ink);
+  border-radius: 6px;
+  padding: 0.45rem 0.9rem;
+  cursor: pointer;
+}
+
+.show-more:hover {
+  border-color: var(--accent);
+}
+
+.member-topbar {
+  padding: 1.4rem 0 0.4rem;
+}
+
+.back-link {
+  font-weight: 600;
+  font-size: 0.9rem;
+}
+
+.member-hero {
+  padding: 0.6rem 0 0.4rem;
+}
+
+.member-title {
+  font-size: clamp(1.6rem, 4vw, 2.4rem);
+  line-height: 1.1;
+  margin: 0.35rem 0 0.6rem;
+}
+
+.member-chips {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.35rem;
+  margin-bottom: 0.6rem;
+}
+
+.member-hero .spark-wrap {
+  max-width: 28rem;
+  margin-top: 0.6rem;
+}
+
+.member-hero .spark-empty {
+  max-width: 28rem;
+}
+
+.detail-section {
+  margin-top: 1.6rem;
+}
+
+.detail-head {
+  font-size: 1.15rem;
+  margin: 0 0 0.6rem;
+}
+
+.measured-panel {
+  background: var(--card);
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  padding: 0.9rem 1.1rem;
+}
+
+.measured-panel .measured-value {
+  font-size: 1.35rem;
+}
+
+.measured-line {
+  margin: 0;
+  display: flex;
+  align-items: baseline;
+  gap: 0.6rem;
+  flex-wrap: wrap;
+}
+
+.measured-panel .methodnote {
+  margin: 0.5rem 0 0;
+}
+
+.trade-what {
+  max-width: 34rem;
 }
 
 /* -------------------------------- footer --------------------------------- */

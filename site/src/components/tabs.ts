@@ -1,6 +1,8 @@
 /**
- * Accessible two-tab navigation (Bitcoin holdings / Portfolio tracker):
- * proper tab semantics, roving tabindex, arrow-key + Home/End support.
+ * Accessible tab navigation (Bitcoin holdings / Portfolio tracker / All
+ * traders): proper tab semantics, roving tabindex, arrow-key + Home/End
+ * support. `onShow` fires each time a tab is selected — the directory tab
+ * uses it to lazy-fetch its data on first open.
  */
 import { el } from "../dom";
 
@@ -8,11 +10,15 @@ export interface TabDef {
   id: string;
   label: string;
   panel: HTMLElement;
+  /** Called every time this tab is selected (not for the initial tab). */
+  onShow?: () => void;
 }
 
 export interface Tabs {
   nav: HTMLElement;
   panels: HTMLElement[];
+  /** Programmatic selection by tab id (used by the #directory hash route). */
+  select: (id: string) => void;
 }
 
 export function createTabs(defs: TabDef[]): Tabs {
@@ -32,6 +38,7 @@ export function createTabs(defs: TabDef[]): Tabs {
       panel.hidden = !on;
     });
     if (focus) buttons[index]?.focus();
+    defs[index]?.onShow?.();
   };
 
   defs.forEach((def, i) => {
@@ -72,5 +79,12 @@ export function createTabs(defs: TabDef[]): Tabs {
     panels.push(def.panel);
   });
 
-  return { nav, panels };
+  return {
+    nav,
+    panels,
+    select: (id) => {
+      const index = defs.findIndex((def) => def.id === id);
+      if (index >= 0) select(index, false);
+    },
+  };
 }

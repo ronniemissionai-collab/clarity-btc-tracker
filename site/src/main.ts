@@ -1,19 +1,31 @@
 /**
- * Entry point: load + validate the seven data files, derive the view model,
+ * Entry point: load + validate the small data files, derive the view model,
  * and assemble the approved Variant D composite — hero, bill stage strip with
- * substitute warning and news strip, two tabs (holdings / portfolio), and the
- * methodology footer.
+ * substitute warning and news strip, three tabs (holdings / portfolio / all
+ * traders), and the methodology footer.
+ *
+ * Routing is location.hash based:
+ *   ""            → home (tabs)
+ *   "#directory"  → home with the "All traders" tab selected
+ *   "#member/{id}"→ member portfolio view (lazy /data/portfolio/{id}.json)
+ * The browser back button walks hash history, so back from a member view
+ * returns to wherever the reader came from.
  */
 import "./styles.css";
-import { loadData } from "./data";
+import { loadData, type AppData } from "./data";
 import { buildModel } from "./derive";
 import { el } from "./dom";
 import { renderBillStrip } from "./components/billStrip";
+import { renderDirectoryView } from "./components/directory";
 import { renderFooter } from "./components/footer";
 import { renderHero } from "./components/hero";
 import { renderHoldingsView } from "./components/holdingsView";
-import { createTabs } from "./components/tabs";
+import { renderMemberPage } from "./components/memberDetail";
+import { createTabs, type Tabs } from "./components/tabs";
 import { renderPortfolioView } from "./components/traderCards";
+import { createThemeToggle } from "./theme";
+
+const MEMBER_ROUTE = /^#member\/([A-Z]\d{6})$/;
 
 const app = document.querySelector<HTMLDivElement>("#app");
 if (app === null) {
@@ -34,8 +46,8 @@ function renderError(mount: HTMLElement, error: unknown): void {
   mount.replaceChildren(box);
 }
 
-function render(mount: HTMLElement): void {
-  const data = loadData();
+/** The home page (hero + strip + tabs) — built once, reused across routes. */
+function buildHomePage(data: AppData): { page: HTMLElement; tabs: Tabs } {
   const model = buildModel(data);
 
   const wrap = el("div", { class: "wrap" });
@@ -56,21 +68,63 @@ function render(mount: HTMLElement): void {
     );
   }
 
+  const directory = renderDirectoryView();
   const main = el("main", { id: "main" });
   const tabs = createTabs([
     { id: "holdings", label: "Bitcoin holdings", panel: renderHoldingsView(model) },
     { id: "portfolio", label: "Portfolio tracker", panel: renderPortfolioView(model, data.meta) },
+    { id: "directory", label: "All traders", panel: directory.view, onShow: directory.load },
   ]);
   main.appendChild(tabs.nav);
   for (const panel of tabs.panels) main.appendChild(panel);
   wrap.appendChild(main);
 
   wrap.appendChild(renderFooter(data.meta));
-  mount.replaceChildren(wrap);
+  return { page: wrap, tabs };
+}
+
+/** A member portfolio page: back link + lazily fetched detail + footer. */
+function buildMemberPage(memberId: string, data: AppData): HTMLElement {
+  const wrap = el("div", { class: "wrap" });
+  const topbar = el("div", { class: "topbar member-topbar" });
+  topbar.appendChild(el("a", { class: "back-link", href: "#directory" }, "← All traders"));
+  topbar.appendChild(createThemeToggle());
+  wrap.appendChild(topbar);
+
+  const main = el("main", { id: "main", tabindex: -1 });
+  main.appendChild(renderMemberPage(memberId));
+  wrap.appendChild(main);
+
+  wrap.appendChild(renderFooter(data.meta));
+  return wrap;
+}
+
+function start(mount: HTMLElement): void {
+  const data = loadData();
+  const home = buildHomePage(data);
+
+  const route = (): void => {
+    const member = MEMBER_ROUTE.exec(location.hash);
+    if (member?.[1] !== undefined) {
+      const page = buildMemberPage(member[1], data);
+      mount.replaceChildren(page);
+      window.scrollTo(0, 0);
+      page.querySelector<HTMLElement>("main")?.focus();
+      return;
+    }
+    if (mount.firstChild !== home.page) {
+      mount.replaceChildren(home.page);
+      window.scrollTo(0, 0);
+    }
+    if (location.hash === "#directory") home.tabs.select("directory");
+  };
+
+  window.addEventListener("hashchange", route);
+  route();
 }
 
 try {
-  render(app);
+  start(app);
 } catch (error) {
   renderError(app, error);
   console.error(error);

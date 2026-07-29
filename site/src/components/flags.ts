@@ -45,11 +45,15 @@ export function voteChip(status: VoteStatus): HTMLSpanElement {
 /**
  * Every flag a holding row must carry: owner attribution when not the member
  * themself, OCR extraction, unverified / conflicting verification, and
- * stale / SOLD status with the filing date.
+ * stale / SOLD status with the filing date. Pass `{ owner: false }` where the
+ * table already shows the owner in its own column (member portfolio view).
  */
-export function holdingFlagChips(holding: Holding): HTMLSpanElement[] {
+export function holdingFlagChips(
+  holding: Holding,
+  opts: { owner?: boolean } = {},
+): HTMLSpanElement[] {
   const chips: HTMLSpanElement[] = [];
-  if (holding.owner !== "self") {
+  if (holding.owner !== "self" && opts.owner !== false) {
     chips.push(chip(holding.owner, "owner", `Held by ${holding.owner}, attributed to the member`));
   }
   if (holding.extraction === "pdf-ocr") {
