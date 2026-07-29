@@ -5,8 +5,12 @@
  */
 export {
   deriveHoldings,
+  derivePortfolioPositions,
+  type AllTickerTrade,
   type DeriveHoldingsOptions,
   type DeriveHoldingsResult,
+  type DerivePortfolioPositionsOptions,
+  type DerivePortfolioPositionsResult,
   type HoldingReject,
 } from "./derive.js";
 export { buildUniverseIndex, type UniverseIndex } from "./universe.js";

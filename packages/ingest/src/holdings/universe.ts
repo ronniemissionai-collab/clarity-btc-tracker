@@ -9,16 +9,16 @@
  * different input shape. By the time rows reach the holdings derivation they
  * carry resolved SecurityRefs, so this module only needs key membership.
  */
-import type { Security, SecurityRef, UniverseConfig } from "@clarity-btc/shared";
+import type { PortfolioSecurityRef, Security, UniverseConfig } from "@clarity-btc/shared";
 import { securityKey } from "@clarity-btc/shared";
 
 export interface UniverseIndex {
   /** All universe securities, as configured. */
   securities: Security[];
-  /** Is this resolved ref part of the configured universe? */
-  has(ref: SecurityRef): boolean;
+  /** Is this resolved ref part of the configured universe? (Portfolio refs allowed; kind "other" is never a member.) */
+  has(ref: PortfolioSecurityRef): boolean;
   /** Tier of the ref's universe entry, or null when outside the universe. */
-  tierOf(ref: SecurityRef): 1 | 2 | null;
+  tierOf(ref: PortfolioSecurityRef): 1 | 2 | null;
 }
 
 export function buildUniverseIndex(universe: UniverseConfig | Security[]): UniverseIndex {
