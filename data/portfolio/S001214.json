@@ -1,0 +1,465 @@
+{
+  "member": {
+    "bioguideId": "S001214",
+    "name": "W. Gregory Steube",
+    "party": "R",
+    "chamber": "house",
+    "state": "FL",
+    "district": "FL-17",
+    "active": true
+  },
+  "positions": [
+    {
+      "memberId": "S001214",
+      "security": {
+        "ticker": "IONQ",
+        "kind": "other"
+      },
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "holds",
+      "asOf": "2026-03-18",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034345.pdf"
+        }
+      ]
+    }
+  ],
+  "trades": [
+    {
+      "memberId": "S001214",
+      "assetRaw": "MARRIOTT INTL INC NEW SER LL NOTE 5.45000% 09/15/2026 (571903BM4) [CS]",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2026-04-08",
+      "filedDate": "2026-04-14",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034345.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "S001214",
+      "assetRaw": "IonQ, Inc. Common Stock (IONQ) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-03-18",
+      "filedDate": "2026-04-14",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034345.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "S001214",
+      "assetRaw": "GENERAL MTRS FINL CO INC NOTE 5.40000% 04/06/2026 CALL MAKE WHOLE ( 37045XEF9) [CS]",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2025-07-10",
+      "filedDate": "2025-07-16",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030673.pdf",
+      "late": false,
+      "note": "Corporate Note",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S001214",
+      "assetRaw": "Synovus Financial Corp. Common Stock",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2025-02-19",
+      "filedDate": "2025-04-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20024927.pdf",
+      "late": false,
+      "note": "Company distribution",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S001214",
+      "assetRaw": "Synovus Financial Corp. Common Stock",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2024-03-28",
+      "filedDate": "2024-04-06",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/20024787.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S001214",
+      "assetRaw": "Synovus Financial Corp. Common Stock",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2024-02-16",
+      "filedDate": "2024-03-15",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/20024660.pdf",
+      "late": false,
+      "note": "Employee stock plan distribution.",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S001214",
+      "assetRaw": "Synovus Financial Corp.",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2023-07-03",
+      "filedDate": "2023-08-09",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20023452.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S001214",
+      "assetRaw": "Synovus Financial Corp.",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2023-02-17",
+      "filedDate": "2023-03-15",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20022574.pdf",
+      "late": false,
+      "note": "Employee stock plan distribution.",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S001214",
+      "assetRaw": "Synovus Financial Corp.",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2023-02-06",
+      "filedDate": "2023-03-15",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20022574.pdf",
+      "late": false,
+      "note": "Employee stock plan distribution.",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S001214",
+      "assetRaw": "Synovus Financial Corp.",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-08-25",
+      "filedDate": "2022-09-27",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021743.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S001214",
+      "assetRaw": "Synovus Financial Corp.",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-02-23",
+      "filedDate": "2022-03-03",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020396.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S001214",
+      "assetRaw": "Synovus Financial Corp.",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-02-09",
+      "filedDate": "2022-03-03",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020396.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S001214",
+      "assetRaw": "Synovus Financial Corp.",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-02-08",
+      "filedDate": "2022-03-03",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020396.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S001214",
+      "assetRaw": "Synovus Financial Corp.",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-03-10",
+      "filedDate": "2022-03-03",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020396.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S001214",
+      "assetRaw": "Synovus Financial Corp.",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2021-03-09",
+      "filedDate": "2021-04-02",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20018463.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S001214",
+      "assetRaw": "Synovus Financial Corp.",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-02-08",
+      "filedDate": "2021-02-24",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20018273.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S001214",
+      "assetRaw": "Synovus Financial Corp.",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-02-07",
+      "filedDate": "2021-02-24",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20018273.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S001214",
+      "assetRaw": "Synovus Financial Corp.",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-02-06",
+      "filedDate": "2021-02-24",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20018273.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S001214",
+      "assetRaw": "Synovus Financial Corp.",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2020-11-11",
+      "filedDate": "2020-11-20",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20017718.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S001214",
+      "assetRaw": "Synovus Financial Corp.",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2020-02-06",
+      "filedDate": "2020-04-24",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20016477.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S001214",
+      "assetRaw": "Synovus Financial Corp.",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2019-02-08",
+      "filedDate": "2019-08-13",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20012159.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    }
+  ],
+  "series": [
+    {
+      "date": "2019-02-08",
+      "value": 8000.5
+    },
+    {
+      "date": "2020-02-06",
+      "value": 8000.5
+    },
+    {
+      "date": "2020-11-11",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-02-06",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-02-07",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-02-08",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-03-09",
+      "value": 32500.5
+    },
+    {
+      "date": "2021-03-10",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-02-08",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-02-09",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-02-23",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-08-25",
+      "value": 8000.5
+    },
+    {
+      "date": "2023-02-06",
+      "value": 8000.5
+    },
+    {
+      "date": "2023-02-17",
+      "value": 8000.5
+    },
+    {
+      "date": "2023-07-03",
+      "value": 8000.5
+    },
+    {
+      "date": "2024-02-16",
+      "value": 32500.5
+    },
+    {
+      "date": "2024-03-28",
+      "value": 32500.5
+    },
+    {
+      "date": "2025-02-19",
+      "value": 32500.5
+    },
+    {
+      "date": "2025-07-10",
+      "value": 32500.5
+    },
+    {
+      "date": "2026-03-18",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-04-08",
+      "value": 32500.5
+    }
+  ],
+  "measured": null
+}

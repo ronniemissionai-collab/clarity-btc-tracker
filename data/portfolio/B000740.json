@@ -1,0 +1,97 @@
+{
+  "member": {
+    "bioguideId": "B000740",
+    "name": "Stephanie I. Bice",
+    "party": "R",
+    "chamber": "house",
+    "state": "OK",
+    "district": "OK-05",
+    "active": true
+  },
+  "positions": [],
+  "trades": [
+    {
+      "memberId": "B000740",
+      "assetRaw": "US TREASURY BILL23 U S T BILL DUE 12/28/23 (912796CR8) [GS]",
+      "security": null,
+      "side": "buy",
+      "owner": "joint",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2023-09-27",
+      "filedDate": "2024-08-10",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/20025620.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "B000740",
+      "assetRaw": "US TREASURY BILL23 U S T BILL DUE 09/21/23 (912796ZN2) [GS]",
+      "security": null,
+      "side": "buy",
+      "owner": "joint",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2023-06-22",
+      "filedDate": "2024-08-10",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/20025620.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "B000740",
+      "assetRaw": "US TREASURY BILL DUE 6/8/23 4.57% (912796ZP7) [GS]",
+      "security": null,
+      "side": "buy",
+      "owner": "joint",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2022-12-12",
+      "filedDate": "2023-08-12",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20023437.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "B000740",
+      "assetRaw": "Wells Fargo & Company",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-08-06",
+      "filedDate": "2021-08-12",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019292.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    }
+  ],
+  "series": [
+    {
+      "date": "2021-08-06",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-12-12",
+      "value": 32500.5
+    },
+    {
+      "date": "2023-06-22",
+      "value": 32500.5
+    },
+    {
+      "date": "2023-09-27",
+      "value": 32500.5
+    }
+  ],
+  "measured": null
+}

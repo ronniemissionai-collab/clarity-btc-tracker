@@ -1,0 +1,38 @@
+{
+  "member": {
+    "bioguideId": "B001323",
+    "name": "Nick Begich III",
+    "party": "R",
+    "chamber": "house",
+    "state": "AK",
+    "district": "AK-AL",
+    "active": true,
+    "note": "Holds BTC since 2013; sponsors the House BITCOIN Act."
+  },
+  "positions": [],
+  "trades": [
+    {
+      "memberId": "B001323",
+      "assetRaw": "Listen Ventures IV, LP [HN]",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 250001,
+        "hi": 500000
+      },
+      "transactionDate": "2026-05-13",
+      "filedDate": "2026-06-12",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20020055.pdf",
+      "late": false,
+      "provenance": "both"
+    }
+  ],
+  "series": [
+    {
+      "date": "2026-05-13",
+      "value": 375000.5
+    }
+  ],
+  "measured": null
+}

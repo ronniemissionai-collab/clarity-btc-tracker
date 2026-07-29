@@ -1,0 +1,1867 @@
+{
+  "member": {
+    "bioguideId": "G000591",
+    "name": "Michael Guest",
+    "party": "R",
+    "chamber": "house",
+    "state": "MS",
+    "district": "MS-03",
+    "active": true
+  },
+  "positions": [
+    {
+      "memberId": "G000591",
+      "security": {
+        "ticker": "CHRD",
+        "kind": "other"
+      },
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "sold",
+      "asOf": "2026-01-09",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033944.pdf"
+        }
+      ],
+      "note": "sale reported by PTR with no annual baseline in our coverage"
+    },
+    {
+      "memberId": "G000591",
+      "security": {
+        "ticker": "DT",
+        "kind": "other"
+      },
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "sold",
+      "asOf": "2026-01-09",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033944.pdf"
+        }
+      ],
+      "note": "sale reported by PTR with no annual baseline in our coverage"
+    },
+    {
+      "memberId": "G000591",
+      "security": {
+        "ticker": "EVVTY",
+        "kind": "other"
+      },
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "sold",
+      "asOf": "2026-01-09",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033944.pdf"
+        }
+      ],
+      "note": "sale reported by PTR with no annual baseline in our coverage"
+    },
+    {
+      "memberId": "G000591",
+      "security": {
+        "ticker": "MS",
+        "kind": "other"
+      },
+      "owner": "spouse",
+      "range": {
+        "lo": 17003,
+        "hi": 80000
+      },
+      "status": "stale",
+      "asOf": "2023-06-28",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20022270.pdf"
+        },
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20023247.pdf"
+        }
+      ]
+    },
+    {
+      "memberId": "G000591",
+      "security": {
+        "ticker": "OTCM",
+        "kind": "other"
+      },
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "sold",
+      "asOf": "2026-01-09",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033944.pdf"
+        }
+      ],
+      "note": "sale reported by PTR with no annual baseline in our coverage"
+    },
+    {
+      "memberId": "G000591",
+      "security": {
+        "ticker": "TSLA",
+        "kind": "treasury"
+      },
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "stale",
+      "asOf": "2024-11-08",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/20026412.pdf"
+        }
+      ]
+    },
+    {
+      "memberId": "G000591",
+      "security": {
+        "ticker": "TSLA",
+        "kind": "treasury"
+      },
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "stale",
+      "asOf": "2023-08-07",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20023442.pdf"
+        }
+      ]
+    }
+  ],
+  "trades": [
+    {
+      "memberId": "G000591",
+      "assetRaw": "Chord Energy Corporation - Common Stock (CHRD) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-01-09",
+      "filedDate": "2026-02-17",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033944.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "G000591",
+      "assetRaw": "Dynatrace, Inc. Common Stock (DT) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-01-09",
+      "filedDate": "2026-02-17",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033944.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "G000591",
+      "assetRaw": "EVOLUTION AB UNSP/ADR (EVVTY) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-01-09",
+      "filedDate": "2026-02-17",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033944.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "G000591",
+      "assetRaw": "OTC Markets Group Inc. Common Stock Class A (OTCM) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-01-09",
+      "filedDate": "2026-02-17",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033944.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "G000591",
+      "assetRaw": "Monolithic Power Systems, Inc. - Common Stock",
+      "security": null,
+      "side": "buy",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-10-20",
+      "filedDate": "2025-11-19",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20033416.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "G000591",
+      "assetRaw": "Amazon.com, Inc. - Common Stock",
+      "security": null,
+      "side": "buy",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2024-11-08",
+      "filedDate": "2024-12-20",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/20026412.pdf",
+      "late": false,
+      "note": "Filing Status: New\nSubholding Of: TR - D1",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "G000591",
+      "assetRaw": "Tesla, Inc. - Common Stock",
+      "security": {
+        "ticker": "TSLA",
+        "kind": "treasury"
+      },
+      "side": "buy",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2024-11-08",
+      "filedDate": "2024-12-20",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/20026412.pdf",
+      "late": false,
+      "note": "Filing Status: New\nSubholding Of: TR - D1",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "G000591",
+      "assetRaw": "monday.com Ltd. - Ordinary Shares",
+      "security": null,
+      "side": "buy",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2024-11-08",
+      "filedDate": "2024-12-20",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/20026412.pdf",
+      "late": false,
+      "note": "Filing Status: New\nSubholding Of: TR - D1",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "G000591",
+      "assetRaw": "NVIDIA Corporation - Common Stock",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2024-02-20",
+      "filedDate": "2024-03-12",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/20024622.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "G000591",
+      "assetRaw": "Dynatrace, Inc.",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2023-11-13",
+      "filedDate": "2023-12-11",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20024107.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "G000591",
+      "assetRaw": "EVOLUTION AB UNSP/ADR",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2023-11-13",
+      "filedDate": "2023-12-11",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20024107.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "G000591",
+      "assetRaw": "Medpace Holdings, Inc.",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2023-11-13",
+      "filedDate": "2023-12-11",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20024107.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "G000591",
+      "assetRaw": "Uber Technologies, Inc.",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2023-11-13",
+      "filedDate": "2023-12-11",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20024107.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "G000591",
+      "assetRaw": "Ulta Beauty, Inc.",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2023-11-13",
+      "filedDate": "2023-12-11",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20024107.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "G000591",
+      "assetRaw": "Arista Networks, Inc.",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2023-11-01",
+      "filedDate": "2023-11-20",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20023951.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "G000591",
+      "assetRaw": "International Seaways, Inc.",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2023-10-27",
+      "filedDate": "2023-11-20",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20023951.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "G000591",
+      "assetRaw": "Uranium Energy Corp.",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2023-10-25",
+      "filedDate": "2023-11-20",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20023951.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "G000591",
+      "assetRaw": "MISSISSIPPI DEV BK SPL OBLIG BDS 2018 (DUE 10/01/2037 03.750%)",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2023-08-09",
+      "filedDate": "2023-08-23",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20023442.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "G000591",
+      "assetRaw": "Permian Resources Corporation Class A",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2023-08-09",
+      "filedDate": "2023-08-23",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20023442.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "G000591",
+      "assetRaw": "AbbVie Inc.",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2023-08-07",
+      "filedDate": "2023-08-23",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20023442.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "G000591",
+      "assetRaw": "Airbnb, Inc. - Class A",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2023-08-07",
+      "filedDate": "2023-08-23",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20023442.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "G000591",
+      "assetRaw": "Allstate Corporation",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2023-08-07",
+      "filedDate": "2023-08-23",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20023442.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "G000591",
+      "assetRaw": "Amazon.com, Inc.",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2023-08-07",
+      "filedDate": "2023-08-23",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20023442.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "G000591",
+      "assetRaw": "Apple Inc.",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2023-08-07",
+      "filedDate": "2023-08-23",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20023442.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "G000591",
+      "assetRaw": "Chevron Corporation",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2023-08-07",
+      "filedDate": "2023-08-23",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20023442.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "G000591",
+      "assetRaw": "Exxon Mobil Corporation",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2023-08-07",
+      "filedDate": "2023-08-23",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20023442.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "G000591",
+      "assetRaw": "General Dynamics Corporation",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2023-08-07",
+      "filedDate": "2023-08-23",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20023442.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "G000591",
+      "assetRaw": "JP Morgan Chase & Co.",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2023-08-07",
+      "filedDate": "2023-08-23",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20023442.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "G000591",
+      "assetRaw": "Johnson & Johnson",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2023-08-07",
+      "filedDate": "2023-08-23",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20023442.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "G000591",
+      "assetRaw": "Lincoln National Corporation",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2023-08-07",
+      "filedDate": "2023-08-23",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20023442.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "G000591",
+      "assetRaw": "Lowe's Companies, Inc.",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2023-08-07",
+      "filedDate": "2023-08-23",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20023442.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "G000591",
+      "assetRaw": "McDonald's Corporation",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2023-08-07",
+      "filedDate": "2023-08-23",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20023442.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "G000591",
+      "assetRaw": "Medtronic plc. Ordinary Shares",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2023-08-07",
+      "filedDate": "2023-08-23",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20023442.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "G000591",
+      "assetRaw": "Microsoft Corporation",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2023-08-07",
+      "filedDate": "2023-08-23",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20023442.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "G000591",
+      "assetRaw": "NVIDIA Corporation",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2023-08-07",
+      "filedDate": "2023-08-23",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20023442.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "G000591",
+      "assetRaw": "NextEra Energy, Inc.",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2023-08-07",
+      "filedDate": "2023-08-23",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20023442.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "G000591",
+      "assetRaw": "Oracle Corporation",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2023-08-07",
+      "filedDate": "2023-08-23",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20023442.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "G000591",
+      "assetRaw": "Southwest Gas Holdings, Inc. Common Stock",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2023-08-07",
+      "filedDate": "2023-08-23",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20023442.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "G000591",
+      "assetRaw": "Tesla, Inc.",
+      "security": {
+        "ticker": "TSLA",
+        "kind": "treasury"
+      },
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2023-08-07",
+      "filedDate": "2023-08-23",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20023442.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "G000591",
+      "assetRaw": "Tractor Supply Company",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2023-08-07",
+      "filedDate": "2023-08-23",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20023442.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "G000591",
+      "assetRaw": "Uber Technologies, Inc.",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2023-08-07",
+      "filedDate": "2023-08-23",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20023442.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "G000591",
+      "assetRaw": "Valero Energy Corporation",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2023-08-07",
+      "filedDate": "2023-08-23",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20023442.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "G000591",
+      "assetRaw": "Walmart Inc.",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2023-08-07",
+      "filedDate": "2023-08-23",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20023442.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "G000591",
+      "assetRaw": "e.l.f. Beauty, Inc.",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2023-08-07",
+      "filedDate": "2023-08-23",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20023442.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "G000591",
+      "assetRaw": "Chord Energy Corporation",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2023-08-04",
+      "filedDate": "2023-08-23",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20023442.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "G000591",
+      "assetRaw": "AT&T Inc.",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2023-08-01",
+      "filedDate": "2023-08-23",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20023442.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "G000591",
+      "assetRaw": "Kinder Morgan, Inc.",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2023-08-01",
+      "filedDate": "2023-08-23",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20023442.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "G000591",
+      "assetRaw": "Lafayette Cnty Miss Go Pub IMPT BDS 2023 DUE 06/01/2043 04.000% (506120KP8)",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2023-08-01",
+      "filedDate": "2023-08-23",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20023442.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "G000591",
+      "assetRaw": "Mississippi St Univ Edl Bldg C REV BDS 2015 DUE 11/01/2044 04.000% (605699PU5)",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2023-08-01",
+      "filedDate": "2023-08-23",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20023442.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "G000591",
+      "assetRaw": "Univ Mississippi MS Eductnl BLDG CORP REV CAMPUS IMPT DUE 11/01/2039 04.000% (914476PV2)",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2023-08-01",
+      "filedDate": "2023-08-23",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20023442.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "G000591",
+      "assetRaw": "Univ Southern Mississippi ED BLDG CORP REV REF BDS 2017 DUE 03/01/2043 04.000% (784532JF1)",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2023-08-01",
+      "filedDate": "2023-08-23",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20023442.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "G000591",
+      "assetRaw": "Warner Bros. Discovery, Inc. - Series A",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2023-08-01",
+      "filedDate": "2023-08-23",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20023442.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "G000591",
+      "assetRaw": "L OBLIG MISSISSIPPI GULF COAST CMNTY (MS)",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2023-06-28",
+      "filedDate": "2023-07-14",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20023247.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "G000591",
+      "assetRaw": "MISSISSIPPI DEV BK SPL OBLIG SPL OBLIG BDS 2012 DUE 09/01/2036 03.375% MS [GS]",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2023-06-02",
+      "filedDate": "2023-07-14",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20023247.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "G000591",
+      "assetRaw": "MISSISSIPPI DEV BK SPL OBLIG SPL OBLIG BDS 2017 DUE 07/01/2035 03.375% JJ [GS]",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2023-06-02",
+      "filedDate": "2023-07-14",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20023247.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "G000591",
+      "assetRaw": "WEST RANKIN MISS UTIL AUTH REV BDS 2018 DUE 01/01/2039 03.500% JJ [GS]",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2023-06-02",
+      "filedDate": "2023-07-14",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20023247.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "G000591",
+      "assetRaw": "Mississippi Dev Bk Spl Oblig BDS 2019 [GS]",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2023-03-02",
+      "filedDate": "2023-04-14",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20022701.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "G000591",
+      "assetRaw": "Mississippi Dev Bk Spl Oblig BDS 2021 [GS]",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2023-03-02",
+      "filedDate": "2023-04-14",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20022701.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "G000591",
+      "assetRaw": "Mississippi St Gaming Tax Rev BDS 2015 [GS]",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2023-03-02",
+      "filedDate": "2023-04-14",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20022701.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "G000591",
+      "assetRaw": "Mississippi St Univ Edl Bldg Rev Corp Camp Impt Project [GS]",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2023-03-02",
+      "filedDate": "2023-04-14",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20022701.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "G000591",
+      "assetRaw": "Essential Utilities, Inc.",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2023-01-11",
+      "filedDate": "2023-02-24",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20022392.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "G000591",
+      "assetRaw": "Kinder Morgan, Inc.",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2023-01-11",
+      "filedDate": "2023-02-24",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20022392.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "G000591",
+      "assetRaw": "Pfizer, Inc.",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2023-01-11",
+      "filedDate": "2023-02-24",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20022392.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "G000591",
+      "assetRaw": "ALCORN ST UNIV EDL BLDG MS CORP M REV REF BDS DUE 09/01/2039 [GS]",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2022-12-21",
+      "filedDate": "2023-01-19",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20022270.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "G000591",
+      "assetRaw": "L OBLIG REF HINDS CMNTY COLLEGE DIST (MS)",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-12-21",
+      "filedDate": "2023-01-19",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20022270.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "G000591",
+      "assetRaw": "L OBLIG REF HINDS CMNTY COLLEGE DIST (MS)",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2022-12-21",
+      "filedDate": "2023-01-19",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20022270.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "G000591",
+      "assetRaw": "MISSISSIPPI DEV BK SPL OBLIG BDS 2019 DUE 02/01/2049 [GS]",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2022-12-21",
+      "filedDate": "2023-01-19",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20022270.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "G000591",
+      "assetRaw": "MISSISSIPPI DEV BK SPL OBLIG BDS 2019 DUE 03/01/2048 [GS]",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2022-12-21",
+      "filedDate": "2023-01-19",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20022270.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "G000591",
+      "assetRaw": "MISSISSIPPI DEV BK SPL OBLIG RANKIN CNTY SCH DIST BD PJ DUE 06/01/2042 [GS]",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2022-12-21",
+      "filedDate": "2023-01-19",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20022270.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "G000591",
+      "assetRaw": "MISSISSIPPI DEV BK SPL OBLIG SPL OBLIG BDS 2017 DUE",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2022-12-21",
+      "filedDate": "2023-01-19",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20022270.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "G000591",
+      "assetRaw": "MISSISSIPPI ST DEV BANK SPL OBLG BATESVILLE MS REV PROJ DUE 03/01/2050 [GS]",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2022-12-21",
+      "filedDate": "2023-01-19",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20022270.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "G000591",
+      "assetRaw": "Warner Bros. Discovery, Inc. - Series A",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-12-21",
+      "filedDate": "2023-01-19",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20022270.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "G000591",
+      "assetRaw": "Woodside Energy Group Limited American Depositary Shares, each representing one Ordinary Share",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-12-21",
+      "filedDate": "2023-01-19",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20022270.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "G000591",
+      "assetRaw": "MISSISSIPPI ST GO BDS 2021 A B/E CPN 3.000% DUE 06/01/40 CALL 06/01/30 @ 100.000 [GS]",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2022-08-23",
+      "filedDate": "2022-09-14",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021691.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "G000591",
+      "assetRaw": "Starkville, Mississippi - Water and Sewer Systems [OT]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2022-06-27",
+      "filedDate": "2022-07-26",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021434.pdf",
+      "late": false,
+      "note": "Municipal Bond.",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "G000591",
+      "assetRaw": "MISSISSIPPI ST UNIV EDL BLDG CORP REV CAMPUS IMPTS PJ B/E OID @98.767 CPN 3.500% DUE 11/01/37 [CS]",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2022-05-11",
+      "filedDate": "2022-06-22",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021172.pdf",
+      "late": false,
+      "note": "MISSISSIPPI ST UNIV EDL BLDG CORP REV CAMPUS IMPTS PJ B/E OID @98.767 CPN 3.500% DUE 11/01/37 DTD 04/08/15 FC 11/01/15 CALL 11/01/25 @ 100.000 605699PM3",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "G000591",
+      "assetRaw": "MISSISSIPPI ST UNIV EDL BLDG CORP REV CAMPUS IMPTS PJ B/E CPN 3.5000% DUE 11/01/37 [GS]",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2022-05-11",
+      "filedDate": "2022-05-22",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021007.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "G000591",
+      "assetRaw": "DE SOTO CNTY MS SCH DIST NT SER A B/E CPN 3.000% DUE 04/01/30 DTD 9/17/21 [GS]",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2022-04-25",
+      "filedDate": "2022-05-22",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021007.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "G000591",
+      "assetRaw": "RIDGELAND MS B/E CPN 3.000% DUE 12/01/34 DTD 12/22/15 [GS]",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2022-04-25",
+      "filedDate": "2022-05-22",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021007.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "G000591",
+      "assetRaw": "AT&T Inc.",
+      "security": null,
+      "side": "buy",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-03-14",
+      "filedDate": "2022-03-18",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020644.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "G000591",
+      "assetRaw": "Exxon Mobil Corporation",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-01-22",
+      "filedDate": "2021-11-03",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019676.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "G000591",
+      "assetRaw": "bP p.l.c. (bP) [ST]",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-01-22",
+      "filedDate": "2021-11-03",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019676.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "G000591",
+      "assetRaw": "KINV-LPL SPaT&T Inc.",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2020-02-21",
+      "filedDate": "2020-04-03",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20016360.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "G000591",
+      "assetRaw": "SPaT&T Inc.",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2020-02-21",
+      "filedDate": "2020-04-03",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20016360.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    }
+  ],
+  "series": [
+    {
+      "date": "2020-02-21",
+      "value": 32500.5
+    },
+    {
+      "date": "2020-02-21",
+      "value": 32500.5
+    },
+    {
+      "date": "2021-01-22",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-01-22",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-03-14",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-04-25",
+      "value": 75000.5
+    },
+    {
+      "date": "2022-04-25",
+      "value": 32500.5
+    },
+    {
+      "date": "2022-05-11",
+      "value": 32500.5
+    },
+    {
+      "date": "2022-05-11",
+      "value": 75000.5
+    },
+    {
+      "date": "2022-06-27",
+      "value": 75000.5
+    },
+    {
+      "date": "2022-08-23",
+      "value": 75000.5
+    },
+    {
+      "date": "2022-12-21",
+      "value": 32500.5
+    },
+    {
+      "date": "2022-12-21",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-12-21",
+      "value": 32500.5
+    },
+    {
+      "date": "2022-12-21",
+      "value": 175000.5
+    },
+    {
+      "date": "2022-12-21",
+      "value": 32500.5
+    },
+    {
+      "date": "2022-12-21",
+      "value": 32500.5
+    },
+    {
+      "date": "2022-12-21",
+      "value": 32500.5
+    },
+    {
+      "date": "2022-12-21",
+      "value": 32500.5
+    },
+    {
+      "date": "2022-12-21",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-12-21",
+      "value": 8000.5
+    },
+    {
+      "date": "2023-01-11",
+      "value": 8000.5
+    },
+    {
+      "date": "2023-01-11",
+      "value": 8000.5
+    },
+    {
+      "date": "2023-01-11",
+      "value": 8000.5
+    },
+    {
+      "date": "2023-03-02",
+      "value": 32500.5
+    },
+    {
+      "date": "2023-03-02",
+      "value": 8000.5
+    },
+    {
+      "date": "2023-03-02",
+      "value": 75000.5
+    },
+    {
+      "date": "2023-03-02",
+      "value": 32500.5
+    },
+    {
+      "date": "2023-06-02",
+      "value": 75000.5
+    },
+    {
+      "date": "2023-06-02",
+      "value": 32500.5
+    },
+    {
+      "date": "2023-06-02",
+      "value": 75000.5
+    },
+    {
+      "date": "2023-06-28",
+      "value": 8000.5
+    },
+    {
+      "date": "2023-08-01",
+      "value": 8000.5
+    },
+    {
+      "date": "2023-08-01",
+      "value": 32500.5
+    },
+    {
+      "date": "2023-08-01",
+      "value": 32500.5
+    },
+    {
+      "date": "2023-08-01",
+      "value": 8000.5
+    },
+    {
+      "date": "2023-08-01",
+      "value": 75000.5
+    },
+    {
+      "date": "2023-08-01",
+      "value": 32500.5
+    },
+    {
+      "date": "2023-08-01",
+      "value": 8000.5
+    },
+    {
+      "date": "2023-08-04",
+      "value": 32500.5
+    },
+    {
+      "date": "2023-08-07",
+      "value": 8000.5
+    },
+    {
+      "date": "2023-08-07",
+      "value": 8000.5
+    },
+    {
+      "date": "2023-08-07",
+      "value": 8000.5
+    },
+    {
+      "date": "2023-08-07",
+      "value": 8000.5
+    },
+    {
+      "date": "2023-08-07",
+      "value": 8000.5
+    },
+    {
+      "date": "2023-08-07",
+      "value": 8000.5
+    },
+    {
+      "date": "2023-08-07",
+      "value": 8000.5
+    },
+    {
+      "date": "2023-08-07",
+      "value": 8000.5
+    },
+    {
+      "date": "2023-08-07",
+      "value": 8000.5
+    },
+    {
+      "date": "2023-08-07",
+      "value": 8000.5
+    },
+    {
+      "date": "2023-08-07",
+      "value": 8000.5
+    },
+    {
+      "date": "2023-08-07",
+      "value": 8000.5
+    },
+    {
+      "date": "2023-08-07",
+      "value": 8000.5
+    },
+    {
+      "date": "2023-08-07",
+      "value": 8000.5
+    },
+    {
+      "date": "2023-08-07",
+      "value": 8000.5
+    },
+    {
+      "date": "2023-08-07",
+      "value": 8000.5
+    },
+    {
+      "date": "2023-08-07",
+      "value": 8000.5
+    },
+    {
+      "date": "2023-08-07",
+      "value": 8000.5
+    },
+    {
+      "date": "2023-08-07",
+      "value": 8000.5
+    },
+    {
+      "date": "2023-08-07",
+      "value": 8000.5
+    },
+    {
+      "date": "2023-08-07",
+      "value": 8000.5
+    },
+    {
+      "date": "2023-08-07",
+      "value": 8000.5
+    },
+    {
+      "date": "2023-08-07",
+      "value": 8000.5
+    },
+    {
+      "date": "2023-08-07",
+      "value": 8000.5
+    },
+    {
+      "date": "2023-08-07",
+      "value": 8000.5
+    },
+    {
+      "date": "2023-08-09",
+      "value": 32500.5
+    },
+    {
+      "date": "2023-08-09",
+      "value": 8000.5
+    },
+    {
+      "date": "2023-10-25",
+      "value": 8000.5
+    },
+    {
+      "date": "2023-10-27",
+      "value": 8000.5
+    },
+    {
+      "date": "2023-11-01",
+      "value": 8000.5
+    },
+    {
+      "date": "2023-11-13",
+      "value": 8000.5
+    },
+    {
+      "date": "2023-11-13",
+      "value": 8000.5
+    },
+    {
+      "date": "2023-11-13",
+      "value": 8000.5
+    },
+    {
+      "date": "2023-11-13",
+      "value": 8000.5
+    },
+    {
+      "date": "2023-11-13",
+      "value": 8000.5
+    },
+    {
+      "date": "2024-02-20",
+      "value": 8000.5
+    },
+    {
+      "date": "2024-11-08",
+      "value": 8000.5
+    },
+    {
+      "date": "2024-11-08",
+      "value": 8000.5
+    },
+    {
+      "date": "2024-11-08",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-10-20",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-01-09",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-01-09",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-01-09",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-01-09",
+      "value": 8000.5
+    }
+  ],
+  "measured": null
+}

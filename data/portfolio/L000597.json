@@ -1,0 +1,473 @@
+{
+  "member": {
+    "bioguideId": "L000597",
+    "name": "Laurel M. Lee",
+    "party": "R",
+    "chamber": "house",
+    "state": "FL",
+    "district": "FL-15",
+    "active": true
+  },
+  "positions": [
+    {
+      "memberId": "L000597",
+      "security": {
+        "ticker": "GE",
+        "kind": "other"
+      },
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "sold",
+      "asOf": "2026-06-16",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034694.pdf"
+        }
+      ],
+      "note": "sale reported by PTR with no annual baseline in our coverage"
+    },
+    {
+      "memberId": "L000597",
+      "security": {
+        "ticker": "NOK",
+        "kind": "other"
+      },
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "sold",
+      "asOf": "2026-07-06",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034694.pdf"
+        }
+      ],
+      "note": "sale reported by PTR with no annual baseline in our coverage"
+    }
+  ],
+  "trades": [
+    {
+      "memberId": "L000597",
+      "assetRaw": "Nokia Corporation Sponsored American Depositary Shares (NOK) [OP]",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-07-06",
+      "filedDate": "2026-07-19",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034694.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "L000597",
+      "assetRaw": "GE Aerospace Common Stock (GE) [OP]",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-06-16",
+      "filedDate": "2026-07-19",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034694.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "L000597",
+      "assetRaw": "Bank of America Corporation Common Stock (BAC) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-06-02",
+      "filedDate": "2026-07-19",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034694.pdf",
+      "late": true,
+      "note": "partial sale",
+      "provenance": "both"
+    },
+    {
+      "memberId": "L000597",
+      "assetRaw": "Nokia Corporation Sponsored American Depositary Shares (NOK) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-06-02",
+      "filedDate": "2026-07-19",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034694.pdf",
+      "late": true,
+      "note": "partial sale",
+      "provenance": "both"
+    },
+    {
+      "memberId": "L000597",
+      "assetRaw": "Nokia Corporation Sponsored American Depositary Shares (NOK) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2026-05-11",
+      "filedDate": "2026-07-19",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034694.pdf",
+      "late": true,
+      "note": "partial sale",
+      "provenance": "both"
+    },
+    {
+      "memberId": "L000597",
+      "assetRaw": "TuHURA Biosciences, Inc. - Common Stock",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2025-07-13",
+      "filedDate": "2025-08-09",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030810.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "L000597",
+      "assetRaw": "Novo Nordisk A/S Common Stock",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-05-08",
+      "filedDate": "2025-06-22",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030458.pdf",
+      "late": false,
+      "note": "Five put contracts in Novo Nordisk (NVO) expiring June 20, 2025 at the $65 strike for $4 per share.",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "L000597",
+      "assetRaw": "Warner Bros. Discovery, Inc. - Series A Common Stock",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2024-11-29",
+      "filedDate": "2025-08-11",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030875.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "L000597",
+      "assetRaw": "Warner Bros. Discovery, Inc. - Series A Common Stock",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2024-11-29",
+      "filedDate": "2025-01-07",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20026513.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "L000597",
+      "assetRaw": "TuHURA Biosciences, Inc. - Common Stock",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2024-11-25",
+      "filedDate": "2025-01-07",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20026513.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "L000597",
+      "assetRaw": "GE Vernova Inc. Common Stock",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2024-11-08",
+      "filedDate": "2024-11-21",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/20026063.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "L000597",
+      "assetRaw": "Pfizer, Inc. Common Stock",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2024-10-21",
+      "filedDate": "2024-11-21",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/20026063.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "L000597",
+      "assetRaw": "Apple Inc. - Common Stock",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2024-10-07",
+      "filedDate": "2024-11-21",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/20026063.pdf",
+      "late": false,
+      "note": "$215 Puts exp. 1/17/25",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "L000597",
+      "assetRaw": "JP Morgan Chase & Co. Common Stock",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2024-09-10",
+      "filedDate": "2024-09-14",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/20025714.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "L000597",
+      "assetRaw": "Apple Inc. - Common Stock",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2024-07-31",
+      "filedDate": "2024-09-14",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/20025714.pdf",
+      "late": false,
+      "note": "Purchase to close 01/17/24 Calls",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "L000597",
+      "assetRaw": "Apple Inc. - Common Stock",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2024-07-05",
+      "filedDate": "2024-08-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/20025546.pdf",
+      "late": false,
+      "note": "Sale of 25 Jan 2025 $230 Call contracts",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "L000597",
+      "assetRaw": "Apple Inc. - Common Stock",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2024-07-05",
+      "filedDate": "2024-08-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/20025546.pdf",
+      "late": false,
+      "note": "Purchase of 25 Jan 2025 $215 Put contracts",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "L000597",
+      "assetRaw": "TuHURA Biosciences, Inc. [CS]",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2024-05-06",
+      "filedDate": "2024-05-25",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/20025116.pdf",
+      "late": false,
+      "note": "Convertible Promissory Note Loan",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "L000597",
+      "assetRaw": "Alibaba Group Holding Limited American Depositary Shares each representing eight Ordinary share",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2023-12-29",
+      "filedDate": "2025-08-11",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030875.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "L000597",
+      "assetRaw": "Alibaba Group Holding Limited American Depositary Shares each representing eight Ordinary share",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2023-12-29",
+      "filedDate": "2024-01-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/20024249.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    }
+  ],
+  "series": [
+    {
+      "date": "2023-12-29",
+      "value": 175000.5
+    },
+    {
+      "date": "2023-12-29",
+      "value": 175000.5
+    },
+    {
+      "date": "2024-05-06",
+      "value": 175000.5
+    },
+    {
+      "date": "2024-07-05",
+      "value": 32500.5
+    },
+    {
+      "date": "2024-07-05",
+      "value": 32500.5
+    },
+    {
+      "date": "2024-07-31",
+      "value": 32500.5
+    },
+    {
+      "date": "2024-09-10",
+      "value": 75000.5
+    },
+    {
+      "date": "2024-10-07",
+      "value": 32500.5
+    },
+    {
+      "date": "2024-10-21",
+      "value": 32500.5
+    },
+    {
+      "date": "2024-11-08",
+      "value": 32500.5
+    },
+    {
+      "date": "2024-11-25",
+      "value": 8000.5
+    },
+    {
+      "date": "2024-11-29",
+      "value": 8000.5
+    },
+    {
+      "date": "2024-11-29",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-05-08",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-07-13",
+      "value": 75000.5
+    },
+    {
+      "date": "2026-05-11",
+      "value": 32500.5
+    },
+    {
+      "date": "2026-06-02",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-06-02",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-06-16",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-07-06",
+      "value": 8000.5
+    }
+  ],
+  "measured": null
+}

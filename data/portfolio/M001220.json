@@ -1,0 +1,559 @@
+{
+  "member": {
+    "bioguideId": "M001220",
+    "name": "Morgan McGarvey",
+    "party": "D",
+    "chamber": "house",
+    "state": "KY",
+    "district": "KY-03",
+    "active": true
+  },
+  "positions": [
+    {
+      "memberId": "M001220",
+      "security": {
+        "ticker": "DJT",
+        "kind": "treasury"
+      },
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "sold",
+      "asOf": "2024-11-08",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/20026360.pdf"
+        }
+      ]
+    },
+    {
+      "memberId": "M001220",
+      "security": {
+        "ticker": "TSLA",
+        "kind": "treasury"
+      },
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "sold",
+      "asOf": "2024-11-13",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/20026207.pdf"
+        },
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/20026360.pdf"
+        }
+      ]
+    }
+  ],
+  "trades": [
+    {
+      "memberId": "M001220",
+      "assetRaw": "Amazon.com, Inc. - Common Stock",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2024-11-13",
+      "filedDate": "2024-12-10",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/20026360.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001220",
+      "assetRaw": "Charles Schwab Corporation",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2024-11-13",
+      "filedDate": "2024-12-10",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/20026360.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001220",
+      "assetRaw": "Interactive Brokers Group, Inc. - Class A Common Stock",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2024-11-13",
+      "filedDate": "2024-12-10",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/20026360.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001220",
+      "assetRaw": "Microsoft Corporation - Common Stock",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2024-11-13",
+      "filedDate": "2024-12-10",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/20026360.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001220",
+      "assetRaw": "NVIDIA Corporation - Common Stock",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2024-11-13",
+      "filedDate": "2024-12-10",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/20026360.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001220",
+      "assetRaw": "NVIDIA Corporation - Common Stock",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2024-11-13",
+      "filedDate": "2024-12-10",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/20026360.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001220",
+      "assetRaw": "NVIDIA Corporation - Common Stock",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2024-11-13",
+      "filedDate": "2024-12-10",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/20026360.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001220",
+      "assetRaw": "NVIDIA Corporation - Common Stock",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2024-11-13",
+      "filedDate": "2024-12-10",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/20026360.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001220",
+      "assetRaw": "Shell PLC American Depositary Shares",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2024-11-13",
+      "filedDate": "2024-12-10",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/20026360.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001220",
+      "assetRaw": "Tesla, Inc. - Common Stock",
+      "security": {
+        "ticker": "TSLA",
+        "kind": "treasury"
+      },
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2024-11-13",
+      "filedDate": "2024-12-10",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/20026360.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001220",
+      "assetRaw": "Trump Media & Technology Group Corp. - Common Stock",
+      "security": {
+        "ticker": "DJT",
+        "kind": "treasury"
+      },
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2024-11-08",
+      "filedDate": "2024-12-10",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/20026360.pdf",
+      "late": false,
+      "note": "Sold for a loss",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001220",
+      "assetRaw": "Trump Media & Technology Group Corp. - Common Stock",
+      "security": {
+        "ticker": "DJT",
+        "kind": "treasury"
+      },
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2024-11-06",
+      "filedDate": "2024-12-10",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/20026360.pdf",
+      "late": false,
+      "note": "Purchased without knowledge of filer or spouse.",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001220",
+      "assetRaw": "Tesla, Inc. - Common Stock",
+      "security": {
+        "ticker": "TSLA",
+        "kind": "treasury"
+      },
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2024-10-25",
+      "filedDate": "2024-11-13",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/20026207.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001220",
+      "assetRaw": "Apple Inc. - Common Stock",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2024-08-19",
+      "filedDate": "2024-09-25",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/20025892.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001220",
+      "assetRaw": "Apple Inc. - Common Stock",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2024-08-13",
+      "filedDate": "2024-09-25",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/20025892.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001220",
+      "assetRaw": "Delta Air Lines, Inc. Common Stock",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2024-07-23",
+      "filedDate": "2024-09-03",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/20025765.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001220",
+      "assetRaw": "Delta Air Lines, Inc. Common Stock",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2024-06-28",
+      "filedDate": "2024-07-03",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/20025388.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001220",
+      "assetRaw": "Interactive Brokers Group, Inc. - Class A Common Stock",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2024-06-06",
+      "filedDate": "2024-07-03",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/20025388.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001220",
+      "assetRaw": "NVIDIA Corporation - Common Stock",
+      "security": null,
+      "side": "buy",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2024-05-31",
+      "filedDate": "2024-07-03",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/20025388.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001220",
+      "assetRaw": "Charles Schwab Corporation",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2023-10-05",
+      "filedDate": "2023-11-16",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20023977.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001220",
+      "assetRaw": "Twilio Inc. Class A",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2023-08-25",
+      "filedDate": "2023-09-26",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20023739.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001220",
+      "assetRaw": "NVIDIA Corporation",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2023-03-07",
+      "filedDate": "2023-04-12",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20022656.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001220",
+      "assetRaw": "NVIDIA Corporation",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2023-02-28",
+      "filedDate": "2023-03-23",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20022526.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001220",
+      "assetRaw": "Amazon.com, Inc.",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2023-02-07",
+      "filedDate": "2023-03-23",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20022526.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    }
+  ],
+  "series": [
+    {
+      "date": "2023-02-07",
+      "value": 8000.5
+    },
+    {
+      "date": "2023-02-28",
+      "value": 8000.5
+    },
+    {
+      "date": "2023-03-07",
+      "value": 8000.5
+    },
+    {
+      "date": "2023-08-25",
+      "value": 8000.5
+    },
+    {
+      "date": "2023-10-05",
+      "value": 8000.5
+    },
+    {
+      "date": "2024-05-31",
+      "value": 8000.5
+    },
+    {
+      "date": "2024-06-06",
+      "value": 8000.5
+    },
+    {
+      "date": "2024-06-28",
+      "value": 8000.5
+    },
+    {
+      "date": "2024-07-23",
+      "value": 8000.5
+    },
+    {
+      "date": "2024-08-13",
+      "value": 8000.5
+    },
+    {
+      "date": "2024-08-19",
+      "value": 8000.5
+    },
+    {
+      "date": "2024-10-25",
+      "value": 8000.5
+    },
+    {
+      "date": "2024-11-06",
+      "value": 8000.5
+    },
+    {
+      "date": "2024-11-08",
+      "value": 8000.5
+    },
+    {
+      "date": "2024-11-13",
+      "value": 8000.5
+    },
+    {
+      "date": "2024-11-13",
+      "value": 8000.5
+    },
+    {
+      "date": "2024-11-13",
+      "value": 8000.5
+    },
+    {
+      "date": "2024-11-13",
+      "value": 8000.5
+    },
+    {
+      "date": "2024-11-13",
+      "value": 8000.5
+    },
+    {
+      "date": "2024-11-13",
+      "value": 8000.5
+    },
+    {
+      "date": "2024-11-13",
+      "value": 32500.5
+    },
+    {
+      "date": "2024-11-13",
+      "value": 8000.5
+    },
+    {
+      "date": "2024-11-13",
+      "value": 8000.5
+    },
+    {
+      "date": "2024-11-13",
+      "value": 8000.5
+    }
+  ],
+  "measured": null
+}

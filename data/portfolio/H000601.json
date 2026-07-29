@@ -1,0 +1,1020 @@
+{
+  "member": {
+    "bioguideId": "H000601",
+    "lisId": "S407",
+    "name": "Bill Hagerty",
+    "party": "R",
+    "chamber": "senate",
+    "state": "TN",
+    "active": true
+  },
+  "positions": [
+    {
+      "memberId": "H000601",
+      "security": {
+        "ticker": "REIT",
+        "kind": "other"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "sold",
+      "asOf": "2021-12-29",
+      "extraction": "efd-html",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://efdsearch.senate.gov/search/view/ptr/ef87390b-ab6c-433f-a852-838d02a1dd5a/"
+        }
+      ],
+      "note": "sale reported by PTR with no annual baseline in our coverage"
+    }
+  ],
+  "trades": [
+    {
+      "memberId": "H000601",
+      "assetRaw": "Hall Ward Energy Fund II, LP\n                                        \n                                        \n                                        \n                                            \n                                                \n                                                    Company: Hall Ward Energy Fund II, LP\n                                                    \n                                                         (Oklahoma City, OK)\n                                                    \n                                                \n                                            \n\n                                            \n                                                Description: Limited Partnership with the purpose of investing in non-operating working interests in oil and gas wells.",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2026-01-29",
+      "filedDate": "2026-03-02",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/12848a78-c94a-4813-9051-5b3063c718a9/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H000601",
+      "assetRaw": "Contour Venture Partners V, LP\n                                        \n                                        \n                                        \n                                            \n                                                \n                                                    Company: Contour Venture Partners V, LP\n                                                    \n                                                         (Princeton, NJ)\n                                                    \n                                                \n                                            \n\n                                            \n                                                Description: Limited partnership for the purpose of making early stage equity investments.",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 250001,
+        "hi": 500000
+      },
+      "transactionDate": "2026-01-23",
+      "filedDate": "2026-02-23",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/f3dc67af-1a91-4d58-a98f-f5adec91ecd7/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H000601",
+      "assetRaw": "Aspen Insurance Holdings Ltd [Ahl/Pc]",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2025-01-02",
+      "filedDate": "2025-01-22",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/f09fb0fe-7f70-434e-88c7-a43e96ee08a7/",
+      "late": false,
+      "note": "Asset sold by Roundstone Ventures LLC",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H000601",
+      "assetRaw": "Equity Commonwealth",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2024-12-13",
+      "filedDate": "2024-12-30",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/63d6b410-364c-479e-bc08-f51fb938c72a/",
+      "late": false,
+      "note": "Asset sold by Roundstone Ventures LLC.",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H000601",
+      "assetRaw": "CareBridge\n                                        \n                                        \n                                        \n                                            \n                                                \n                                                    Company: RSV QOZB LTSS, Inc.\n                                                    \n                                                         (Nashville, TN)\n                                                    \n                                                \n                                            \n\n                                            \n                                                Description: Healthcare services technology and business.",
+      "security": null,
+      "side": "sell",
+      "owner": "dependent",
+      "range": {
+        "lo": 250001,
+        "hi": 500000
+      },
+      "transactionDate": "2024-12-10",
+      "filedDate": "2024-12-30",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/63d6b410-364c-479e-bc08-f51fb938c72a/",
+      "late": false,
+      "note": "Asset sold by DC 4.",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H000601",
+      "assetRaw": "Keysight Technologies Bond\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 4.55% Matures: 10/30/2024",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2024-10-30",
+      "filedDate": "2024-11-25",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/a076a6f8-81d7-4cde-9fa0-bb434fb9821a/",
+      "late": false,
+      "note": "Bond Matured 10/30/2024.\nAsset held in Roundstone Ventures LLC",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H000601",
+      "assetRaw": "Datadog, Inc. - Class A Common Stock",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2023-12-27",
+      "filedDate": "2024-01-10",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/5cf58a0a-aa8f-4a64-972a-fcf9c5532b76/",
+      "late": false,
+      "note": "Asset held by Roundstone Ventures LLC.",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H000601",
+      "assetRaw": "445 Park Commons\n                                        \n                                        \n                                        \n                                            \n                                                \n                                                    Company: 445 Park Commons\n                                                    \n                                                         (Nashville, TN)\n                                                    \n                                                \n                                            \n\n                                            \n                                                Description: Underlying commercial real estate asset owned by NSHD MSE Block C Joint Venture, LLC in Nashville, TN.",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 250001,
+        "hi": 500000
+      },
+      "transactionDate": "2023-10-02",
+      "filedDate": "2023-10-18",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/dc545c54-6034-406d-9af3-43ad7bd29cda/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H000601",
+      "assetRaw": "NSHD MSE Block C Joint Venture, LLC\n                                        \n                                        \n                                        \n                                            \n                                                \n                                                    Company: NSHD MSE Block C Joint Venture, LLC\n                                                    \n                                                         (Nashville, TN)\n                                                    \n                                                \n                                            \n\n                                            \n                                                Description: LLC interest for the purpose of investing in commercial real estate.",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 250001,
+        "hi": 500000
+      },
+      "transactionDate": "2023-10-02",
+      "filedDate": "2023-10-18",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/dc545c54-6034-406d-9af3-43ad7bd29cda/",
+      "late": false,
+      "note": "Asset held by Roundstone Ventures, LLC.",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H000601",
+      "assetRaw": "Blueknight Energy Partners L.P. - Series A Preferr",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2022-08-19",
+      "filedDate": "2022-09-02",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/41063ac9-dfc3-4b5b-b43d-7bd012bae17e/",
+      "late": false,
+      "note": "Asset sold by Roundstone Ventures LLC",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H000601",
+      "assetRaw": "HC D Hill Partners, LP\n                                        \n                                        \n                                        \n                                            \n                                                \n                                                    Company: HC D Hill Partners, LP\n                                                    \n                                                         (Wilmington, DE)\n                                                    \n                                                \n                                            \n\n                                            \n                                                Description: Limited Partnership for purpose of acquiring, developing and selling commercial real estate",
+      "security": null,
+      "side": "buy",
+      "owner": "dependent",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2022-06-15",
+      "filedDate": "2022-07-13",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/07515a5e-e784-4a94-93d7-98c916cb0df2/",
+      "late": false,
+      "note": "Asset held by Dependent Child 2 Trust",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H000601",
+      "assetRaw": "HC D Hill Partners, LP\n                                        \n                                        \n                                        \n                                            \n                                                \n                                                    Company: HC D Hill Partners, LP\n                                                    \n                                                         (Wilmington, DE)\n                                                    \n                                                \n                                            \n\n                                            \n                                                Description: Limited Partnership for the purpose of acquiring, developing and selling commercial real estate",
+      "security": null,
+      "side": "buy",
+      "owner": "dependent",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2022-06-15",
+      "filedDate": "2022-07-13",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/07515a5e-e784-4a94-93d7-98c916cb0df2/",
+      "late": false,
+      "note": "Asset held by Dependent Child 4 Trust",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H000601",
+      "assetRaw": "HC D Hill Partners, LP\n                                        \n                                        \n                                        \n                                            \n                                                \n                                                    Company: HC D Hill Partners, LP\n                                                    \n                                                         (Wilmington, DE)\n                                                    \n                                                \n                                            \n\n                                            \n                                                Description: Limited Partnership for the purpose of acquiring, developing and selling commercial real estate.",
+      "security": null,
+      "side": "buy",
+      "owner": "dependent",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2022-06-15",
+      "filedDate": "2022-07-13",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/07515a5e-e784-4a94-93d7-98c916cb0df2/",
+      "late": false,
+      "note": "Asset held by Dependent Child 1 Trust",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H000601",
+      "assetRaw": "Lemonade, Inc. Common Stock",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-05-06",
+      "filedDate": "2022-05-16",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/5286dd41-6735-41b0-be8f-374d874c3ea3/",
+      "late": false,
+      "note": "Asset held by Roundstone Ventures LLC.",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H000601",
+      "assetRaw": "CareBridge\n                                        \n                                        \n                                        \n                                            \n                                                \n                                                    Company: RSV QOZB LTSS, Inc.\n                                                    \n                                                         (Nashville, TN)\n                                                    \n                                                \n                                            \n\n                                            \n                                                Description: Health care services technology business",
+      "security": null,
+      "side": "buy",
+      "owner": "dependent",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2022-04-22",
+      "filedDate": "2022-05-16",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/5286dd41-6735-41b0-be8f-374d874c3ea3/",
+      "late": false,
+      "note": "Asset held by Dependent Child 3 through interest in Liberty Partners, LLC",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H000601",
+      "assetRaw": "CareBridge\n                                        \n                                        \n                                        \n                                            \n                                                \n                                                    Company: RSV QOZB LTSS, Inc.\n                                                    \n                                                         (Nashville, TN)\n                                                    \n                                                \n                                            \n\n                                            \n                                                Description: Health care services technology company",
+      "security": null,
+      "side": "buy",
+      "owner": "dependent",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2022-04-22",
+      "filedDate": "2022-05-16",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/5286dd41-6735-41b0-be8f-374d874c3ea3/",
+      "late": false,
+      "note": "Asset held by Dependent Child 4 through interest in Liberty Partners, LLC",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H000601",
+      "assetRaw": "Del Taco Restaurants, Inc. - Common Stock",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2022-03-09",
+      "filedDate": "2023-08-14",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/5506edae-7d2f-4c33-a22e-7971200c6f0d/",
+      "late": true,
+      "note": "Asset held by Roundstone Ventures LLC",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H000601",
+      "assetRaw": "Del Taco Restaurants, Inc. - Common Stock",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2022-03-09",
+      "filedDate": "2022-04-13",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/3520c9a8-d39c-4f03-95ac-3a24e345444f/",
+      "late": false,
+      "note": "Asset held by Roundstone Ventures LLC",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H000601",
+      "assetRaw": "Liberty Partners, LLC\n                                        \n                                        \n                                        \n                                            \n                                                \n                                                    Company: Liberty Partners, LLC\n                                                    \n                                                         (Nashville, TN)\n                                                    \n                                                \n                                            \n\n                                            \n                                                Description: LLC for the purpose of holding sports and entertainment interests",
+      "security": null,
+      "side": "buy",
+      "owner": "dependent",
+      "range": {
+        "lo": 1000001,
+        "hi": 5000000
+      },
+      "transactionDate": "2022-02-28",
+      "filedDate": "2022-03-29",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/b21b9cd6-fd14-441c-8d7e-3f9193befb82/",
+      "late": false,
+      "note": "Asset held by Dependent Child 4",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H000601",
+      "assetRaw": "Nashville Soccer Holdings, LLC\n                                        \n                                        \n                                        \n                                            \n                                                \n                                                    Company: Nashville Soccer Holdings, LLC\n                                                    \n                                                         (Nashville, TN)\n                                                    \n                                                \n                                            \n\n                                            \n                                                Description: Holds sports and entertainment interests.",
+      "security": null,
+      "side": "buy",
+      "owner": "dependent",
+      "range": {
+        "lo": 1000001,
+        "hi": 5000000
+      },
+      "transactionDate": "2022-02-28",
+      "filedDate": "2022-03-29",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/b21b9cd6-fd14-441c-8d7e-3f9193befb82/",
+      "late": false,
+      "note": "Asset held by Dependent Child 4 through interest in Liberty Partners, LLC",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H000601",
+      "assetRaw": "Nashville Soccer Holdings, LLC\n                                        \n                                        \n                                        \n                                            \n                                                \n                                                    Company: Nashville Soccer Holdings, LLC\n                                                    \n                                                         (Nashville, Tennessee)\n                                                    \n                                                \n                                            \n\n                                            \n                                                Description: Holds sports and entertainment interests.",
+      "security": null,
+      "side": "buy",
+      "owner": "dependent",
+      "range": {
+        "lo": 1000001,
+        "hi": 5000000
+      },
+      "transactionDate": "2022-02-28",
+      "filedDate": "2022-03-29",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/b21b9cd6-fd14-441c-8d7e-3f9193befb82/",
+      "late": false,
+      "note": "Asset held by Dependent Child 1 through interest in Liberty Partners, LLC",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H000601",
+      "assetRaw": "Blueknight Energy Partners L.P., L.L.C. - Common U",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2021-12-29",
+      "filedDate": "2022-01-10",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/ef87390b-ab6c-433f-a852-838d02a1dd5a/",
+      "late": false,
+      "note": "Asset held by Roundstone Ventures, LLC.",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H000601",
+      "assetRaw": "Chatham Lodging Trust (REIT) Common Shares of Bene",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-12-29",
+      "filedDate": "2022-01-10",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/ef87390b-ab6c-433f-a852-838d02a1dd5a/",
+      "late": false,
+      "note": "Asset held by Roundstone Ventures, LLC.",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H000601",
+      "assetRaw": "Coca-Cola Europacific Partners plc - Ordinary Shar",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2021-12-29",
+      "filedDate": "2022-01-10",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/ef87390b-ab6c-433f-a852-838d02a1dd5a/",
+      "late": false,
+      "note": "Asset held by Roundstone Ventures, LLC.",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H000601",
+      "assetRaw": "Enova International, Inc. Common Stock",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2021-12-29",
+      "filedDate": "2022-01-10",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/ef87390b-ab6c-433f-a852-838d02a1dd5a/",
+      "late": false,
+      "note": "Asset held by Roundstone Ventures, LLC.",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H000601",
+      "assetRaw": "Nustar Energy L.P.  Common Units",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2021-12-29",
+      "filedDate": "2022-01-10",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/ef87390b-ab6c-433f-a852-838d02a1dd5a/",
+      "late": false,
+      "note": "Asset held by Roundstone Ventures, LLC.",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H000601",
+      "assetRaw": "Pinnacle Financial Partners, Inc. - Common Stock",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2021-12-29",
+      "filedDate": "2022-01-10",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/ef87390b-ab6c-433f-a852-838d02a1dd5a/",
+      "late": false,
+      "note": "Asset held by Roundstone Ventures, LLC.",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H000601",
+      "assetRaw": "Signature Bank - Common Stock",
+      "security": null,
+      "side": "sell",
+      "owner": "dependent",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2021-12-28",
+      "filedDate": "2022-07-20",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/a285e53c-f72f-4bbb-afaf-0c19ce7e0c5a/",
+      "late": true,
+      "note": "Asset sold in DC 3 Trust",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H000601",
+      "assetRaw": "Datadog, Inc. - Class A Common Stock",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2021-12-28",
+      "filedDate": "2022-01-10",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/ef87390b-ab6c-433f-a852-838d02a1dd5a/",
+      "late": false,
+      "note": "Asset held by Roundstone Ventures, LLC.",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H000601",
+      "assetRaw": "RenaissanceRe Holdings Ltd. Common Stock",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 250001,
+        "hi": 500000
+      },
+      "transactionDate": "2021-12-28",
+      "filedDate": "2022-01-10",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/ef87390b-ab6c-433f-a852-838d02a1dd5a/",
+      "late": false,
+      "note": "Asset held by William F. Hagerty IV.",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H000601",
+      "assetRaw": "RenaissanceRe Holdings Ltd. Common Stock",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 250001,
+        "hi": 500000
+      },
+      "transactionDate": "2021-12-23",
+      "filedDate": "2022-01-10",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/ef87390b-ab6c-433f-a852-838d02a1dd5a/",
+      "late": false,
+      "note": "Asset held by Roundstone Ventures, LLC.",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H000601",
+      "assetRaw": "Ryman Hospitality Properties, Inc. (REIT)",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2021-12-23",
+      "filedDate": "2022-01-10",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/ef87390b-ab6c-433f-a852-838d02a1dd5a/",
+      "late": false,
+      "note": "Asset held by Roundstone Ventures, LLC.",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H000601",
+      "assetRaw": "Ryman Hospitality Properties, Inc. (REIT)",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2021-12-23",
+      "filedDate": "2022-01-10",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/ef87390b-ab6c-433f-a852-838d02a1dd5a/",
+      "late": false,
+      "note": "Asset held by William F. Hagerty IV.",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H000601",
+      "assetRaw": "Vroom, Inc. - Common Stock",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-12-16",
+      "filedDate": "2021-12-22",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/ac2ba9f8-2938-46be-a501-88910e9d2299/",
+      "late": false,
+      "note": "Asset owned by Roundstone Ventures, LLC",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H000601",
+      "assetRaw": "Qwest Corporation 7% Notes due 2056\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 6.75 Matures: 12/01/2021",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2021-12-01",
+      "filedDate": "2021-12-22",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/ac2ba9f8-2938-46be-a501-88910e9d2299/",
+      "late": false,
+      "note": "Asset owned by Roundstone Ventures, LLC.",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H000601",
+      "assetRaw": "Datadog, Inc. - Class A Common Stock",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1000001,
+        "hi": 5000000
+      },
+      "transactionDate": "2021-11-08",
+      "filedDate": "2021-11-23",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/7c9634ee-7352-469f-b311-c3ee8b38ec8c/",
+      "late": false,
+      "note": "Asset held in Roundstone Ventures, LLC",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H000601",
+      "assetRaw": "The Boeing Company",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-06-08",
+      "filedDate": "2021-07-08",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/0e6e0250-95fe-41a2-91ed-607a396b11cc/",
+      "late": false,
+      "note": "Asset owned by Roundstone Ventures LLC",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H000601",
+      "assetRaw": "Natera, Inc.",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-04-20",
+      "filedDate": "2021-05-04",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/505fff21-a8c4-426e-9475-b119d3602361/",
+      "late": false,
+      "note": "Asset held by Roundstone Ventures, LLC",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H000601",
+      "assetRaw": "Qurate Retail, Inc.",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2021-03-26",
+      "filedDate": "2021-04-08",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/6788596d-6a54-4caf-a73c-f03f5d2f6e5f/",
+      "late": false,
+      "note": "Asset held by Roundstone Ventures, LLC",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H000601",
+      "assetRaw": "Qwest Corp. NT 7% 2056",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2021-02-16",
+      "filedDate": "2021-02-19",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/823ec2b1-9e0c-4b13-bf35-81722c1a083c/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H000601",
+      "assetRaw": "Vroom, Inc.",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-01-26",
+      "filedDate": "2021-02-19",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/823ec2b1-9e0c-4b13-bf35-81722c1a083c/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H000601",
+      "assetRaw": "Editas Medicine, Inc.",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2021-01-19",
+      "filedDate": "2021-02-19",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/823ec2b1-9e0c-4b13-bf35-81722c1a083c/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H000601",
+      "assetRaw": "HC 17th and Grand Partners, LP\n                                        \n                                        \n                                        \n                                            \n                                                \n                                                    Company: HC 17th and Grand Partners, LP\n                                                    \n                                                         (Wilmington, DE)\n                                                    \n                                                \n                                            \n\n                                            \n                                                Description: Limited Partnership for purpose of acquiring, developing and selling commercial real estate",
+      "security": null,
+      "side": "buy",
+      "owner": "dependent",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2021-01-11",
+      "filedDate": "2021-02-24",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/331fc417-1f96-4a2e-a164-b15fc2493281/",
+      "late": false,
+      "note": "Asset held by William F. Hagerty V Irrevocable Trust",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H000601",
+      "assetRaw": "HC 17th and Grand Partners, LP\n                                        \n                                        \n                                        \n                                            \n                                                \n                                                    Company: HC 17th and Grand Partners, LP\n                                                    \n                                                         (Wilmington, DE)\n                                                    \n                                                \n                                            \n\n                                            \n                                                Description: Limited Partnership for purpose of acquiring, developing and selling commercial real estate",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 250001,
+        "hi": 500000
+      },
+      "transactionDate": "2021-01-11",
+      "filedDate": "2021-02-24",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/331fc417-1f96-4a2e-a164-b15fc2493281/",
+      "late": false,
+      "note": "Asset held by Roundstone Ventures, LLC",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H000601",
+      "assetRaw": "HC 17th and Grand Partners, LP \n                                        \n                                        \n                                        \n                                            \n                                                \n                                                    Company: HC 17th and Grand Partners, LP\n                                                    \n                                                         (Wilmington, DE)\n                                                    \n                                                \n                                            \n\n                                            \n                                                Description: Limited Partnership for the purpose of acquiring, developing and selling commercial real estate",
+      "security": null,
+      "side": "buy",
+      "owner": "dependent",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2021-01-11",
+      "filedDate": "2021-02-24",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/331fc417-1f96-4a2e-a164-b15fc2493281/",
+      "late": false,
+      "note": "Asset held by Christine B. Hagerty Irrevocable Trust",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H000601",
+      "assetRaw": "Lemonade, Inc.",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-01-08",
+      "filedDate": "2021-02-19",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/823ec2b1-9e0c-4b13-bf35-81722c1a083c/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H000601",
+      "assetRaw": "Vroom, Inc.",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-01-08",
+      "filedDate": "2021-02-19",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/823ec2b1-9e0c-4b13-bf35-81722c1a083c/",
+      "late": false,
+      "provenance": "kadoa"
+    }
+  ],
+  "series": [
+    {
+      "date": "2021-01-08",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-01-08",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-01-11",
+      "value": 75000.5
+    },
+    {
+      "date": "2021-01-11",
+      "value": 375000.5
+    },
+    {
+      "date": "2021-01-11",
+      "value": 75000.5
+    },
+    {
+      "date": "2021-01-19",
+      "value": 32500.5
+    },
+    {
+      "date": "2021-01-26",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-02-16",
+      "value": 32500.5
+    },
+    {
+      "date": "2021-03-26",
+      "value": 32500.5
+    },
+    {
+      "date": "2021-04-20",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-06-08",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-11-08",
+      "value": 3000000.5
+    },
+    {
+      "date": "2021-12-01",
+      "value": 75000.5
+    },
+    {
+      "date": "2021-12-16",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-12-23",
+      "value": 375000.5
+    },
+    {
+      "date": "2021-12-23",
+      "value": 175000.5
+    },
+    {
+      "date": "2021-12-23",
+      "value": 32500.5
+    },
+    {
+      "date": "2021-12-28",
+      "value": 32500.5
+    },
+    {
+      "date": "2021-12-28",
+      "value": 375000.5
+    },
+    {
+      "date": "2021-12-28",
+      "value": 32500.5
+    },
+    {
+      "date": "2021-12-29",
+      "value": 32500.5
+    },
+    {
+      "date": "2021-12-29",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-12-29",
+      "value": 75000.5
+    },
+    {
+      "date": "2021-12-29",
+      "value": 32500.5
+    },
+    {
+      "date": "2021-12-29",
+      "value": 75000.5
+    },
+    {
+      "date": "2021-12-29",
+      "value": 175000.5
+    },
+    {
+      "date": "2022-02-28",
+      "value": 3000000.5
+    },
+    {
+      "date": "2022-02-28",
+      "value": 3000000.5
+    },
+    {
+      "date": "2022-02-28",
+      "value": 3000000.5
+    },
+    {
+      "date": "2022-03-09",
+      "value": 32500.5
+    },
+    {
+      "date": "2022-03-09",
+      "value": 32500.5
+    },
+    {
+      "date": "2022-04-22",
+      "value": 175000.5
+    },
+    {
+      "date": "2022-04-22",
+      "value": 175000.5
+    },
+    {
+      "date": "2022-05-06",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-06-15",
+      "value": 175000.5
+    },
+    {
+      "date": "2022-06-15",
+      "value": 175000.5
+    },
+    {
+      "date": "2022-06-15",
+      "value": 175000.5
+    },
+    {
+      "date": "2022-08-19",
+      "value": 32500.5
+    },
+    {
+      "date": "2023-10-02",
+      "value": 375000.5
+    },
+    {
+      "date": "2023-10-02",
+      "value": 375000.5
+    },
+    {
+      "date": "2023-12-27",
+      "value": 8000.5
+    },
+    {
+      "date": "2024-10-30",
+      "value": 75000.5
+    },
+    {
+      "date": "2024-12-10",
+      "value": 375000.5
+    },
+    {
+      "date": "2024-12-13",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-01-02",
+      "value": 32500.5
+    },
+    {
+      "date": "2026-01-23",
+      "value": 375000.5
+    },
+    {
+      "date": "2026-01-29",
+      "value": 175000.5
+    }
+  ],
+  "measured": null
+}

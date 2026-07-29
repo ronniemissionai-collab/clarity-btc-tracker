@@ -1,0 +1,162 @@
+{
+  "member": {
+    "bioguideId": "S001172",
+    "name": "Adrian Smith",
+    "party": "R",
+    "chamber": "house",
+    "state": "NE",
+    "district": "NE-03",
+    "active": true
+  },
+  "positions": [],
+  "trades": [
+    {
+      "memberId": "S001172",
+      "assetRaw": "CarterBaldwin [PS]",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2026-07-31",
+      "filedDate": "2026-07-27",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035067.pdf",
+      "late": false,
+      "provenance": "official"
+    },
+    {
+      "memberId": "S001172",
+      "assetRaw": "CarterBaldwin [PS]",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2024-01-30",
+      "filedDate": "2024-03-01",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/20024577.pdf",
+      "late": false,
+      "note": "Partner stock",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S001172",
+      "assetRaw": "CarterBaldwin [PS]",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2023-07-17",
+      "filedDate": "2023-07-26",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20023381.pdf",
+      "late": false,
+      "note": "Partner stock",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S001172",
+      "assetRaw": "CarterBaldwin [PS]",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2023-02-01",
+      "filedDate": "2023-05-23",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20023004.pdf",
+      "late": true,
+      "note": "Partner stock",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S001172",
+      "assetRaw": "Real Estate Rental, 50% Interest [OL]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1000001,
+        "hi": 5000000
+      },
+      "transactionDate": "2022-09-19",
+      "filedDate": "2022-10-11",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021759.pdf",
+      "late": false,
+      "note": "real estate rentals",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S001172",
+      "assetRaw": "CarterBaldwin [PS]",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-06-18",
+      "filedDate": "2023-05-23",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20023004.pdf",
+      "late": true,
+      "note": "Partner stock",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S001172",
+      "assetRaw": "CarterBaldwin [PS]",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-01-19",
+      "filedDate": "2023-05-23",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20023004.pdf",
+      "late": true,
+      "note": "Partner stock",
+      "provenance": "kadoa"
+    }
+  ],
+  "series": [
+    {
+      "date": "2022-01-19",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-06-18",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-09-19",
+      "value": 3000000.5
+    },
+    {
+      "date": "2023-02-01",
+      "value": 8000.5
+    },
+    {
+      "date": "2023-07-17",
+      "value": 32500.5
+    },
+    {
+      "date": "2024-01-30",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-07-31",
+      "value": 32500.5
+    }
+  ],
+  "measured": null
+}

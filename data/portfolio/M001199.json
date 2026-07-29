@@ -1,0 +1,1554 @@
+{
+  "member": {
+    "bioguideId": "M001199",
+    "name": "Brian J. Mast",
+    "party": "R",
+    "chamber": "house",
+    "state": "FL",
+    "district": "FL-21",
+    "active": true
+  },
+  "positions": [
+    {
+      "memberId": "M001199",
+      "security": {
+        "ticker": "BTI",
+        "kind": "other"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "status": "stale",
+      "asOf": "2019-01-31",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20011103.pdf"
+        }
+      ]
+    },
+    {
+      "memberId": "M001199",
+      "security": {
+        "ticker": "EXPE",
+        "kind": "other"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "status": "stale",
+      "asOf": "2019-01-29",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20011103.pdf"
+        }
+      ]
+    },
+    {
+      "memberId": "M001199",
+      "security": {
+        "ticker": "KHC",
+        "kind": "other"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "status": "stale",
+      "asOf": "2019-08-14",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20012261.pdf"
+        }
+      ]
+    },
+    {
+      "memberId": "M001199",
+      "security": {
+        "ticker": "MO",
+        "kind": "other"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "status": "stale",
+      "asOf": "2019-01-24",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20011103.pdf"
+        }
+      ]
+    },
+    {
+      "memberId": "M001199",
+      "security": {
+        "ticker": "NIO",
+        "kind": "other"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 17003,
+        "hi": 80000
+      },
+      "status": "stale",
+      "asOf": "2019-03-15",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20011284.pdf"
+        },
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20011470.pdf"
+        }
+      ]
+    },
+    {
+      "memberId": "M001199",
+      "security": {
+        "ticker": "PETQ",
+        "kind": "other"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "status": "stale",
+      "asOf": "2019-01-04",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20011103.pdf"
+        }
+      ]
+    },
+    {
+      "memberId": "M001199",
+      "security": {
+        "ticker": "YETI",
+        "kind": "other"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "status": "stale",
+      "asOf": "2018-12-24",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20010968.pdf"
+        }
+      ]
+    }
+  ],
+  "trades": [
+    {
+      "memberId": "M001199",
+      "assetRaw": "SmileDirectClub, Inc.",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-04-18",
+      "filedDate": "2022-05-09",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020964.pdf",
+      "late": false,
+      "note": "Filing Status: New\nSubholding Of: MS Joint A/C",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001199",
+      "assetRaw": "Tilray Brands, Inc. - Class 2",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-04-18",
+      "filedDate": "2022-05-09",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020964.pdf",
+      "late": false,
+      "note": "Filing Status: New\nSubholding Of: MS Joint A/C",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001199",
+      "assetRaw": "Virgin Galactic Holdings, Inc.",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-04-18",
+      "filedDate": "2022-05-09",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020964.pdf",
+      "late": false,
+      "note": "Filing Status: New\nSubholding Of: Morgan Stanley Maverick Mast UTMA/FL",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001199",
+      "assetRaw": "iShares Russell 2000 ETF",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2022-04-18",
+      "filedDate": "2022-05-09",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020964.pdf",
+      "late": false,
+      "note": "Filing Status: New\nSubholding Of: MS Joint A/C",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001199",
+      "assetRaw": "urban-gro, Inc.",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2022-04-18",
+      "filedDate": "2022-05-09",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020964.pdf",
+      "late": false,
+      "note": "Filing Status: New\nSubholding Of: MS Joint A/C",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001199",
+      "assetRaw": "Eros STX Global Corporation A Ordinary Shares",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-08-05",
+      "filedDate": "2022-08-12",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021542.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001199",
+      "assetRaw": "Eros STX global Corporation A Ordinary Shares (ESgC) [ST]",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-08-05",
+      "filedDate": "2021-09-07",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019436.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001199",
+      "assetRaw": "Morgan Stanley Magnum Mast UTMA/FL Virgin galactic Holdings, Inc.",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2021-07-19",
+      "filedDate": "2021-08-23",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019373.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001199",
+      "assetRaw": "Virgin galactic Holdings, Inc.",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2021-07-19",
+      "filedDate": "2021-08-23",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019373.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001199",
+      "assetRaw": "Aemetis, Inc",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2021-04-12",
+      "filedDate": "2021-05-14",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20018737.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001199",
+      "assetRaw": "Morgan Stanley Magnum Mast UTMA/FL Aemetis, Inc",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2021-04-12",
+      "filedDate": "2021-05-14",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20018737.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001199",
+      "assetRaw": "Aemetis, Inc",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-03-04",
+      "filedDate": "2021-04-19",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20018601.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001199",
+      "assetRaw": "Morgan Stanley Magnum Mast UTMA/FL Aemetis, Inc",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2021-03-04",
+      "filedDate": "2021-04-19",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20018601.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001199",
+      "assetRaw": "Morgan Stanley Magnum Mast UTMA/FL Aemetis, Inc",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-03-04",
+      "filedDate": "2021-04-19",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20018601.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001199",
+      "assetRaw": "Morgan Stanley Maverick Mast UTMA/FL Aemetis, Inc",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-03-04",
+      "filedDate": "2021-04-19",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20018601.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001199",
+      "assetRaw": "Aphria Inc. - Common Shares",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2021-02-18",
+      "filedDate": "2022-08-12",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021542.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001199",
+      "assetRaw": "UGRO",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-02-18",
+      "filedDate": "2022-08-12",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021538.pdf",
+      "late": true,
+      "note": "Symbol did not populate because it was misspelled",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001199",
+      "assetRaw": "UGRO",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-02-18",
+      "filedDate": "2022-08-12",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021542.pdf",
+      "late": true,
+      "note": "Symbol did not populate because it was misspelled",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001199",
+      "assetRaw": "LOCATION: US DESCRIPTION: Stock Purchase that does not populate in the asset name line when ticker is added. URgO [OT]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-02-18",
+      "filedDate": "2021-03-18",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20018421.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001199",
+      "assetRaw": "Aphria Inc. - Common Shares",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2021-02-18",
+      "filedDate": "2021-03-17",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20018412.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001199",
+      "assetRaw": "Ideal Power Inc.",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2021-02-16",
+      "filedDate": "2022-08-12",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021543.pdf",
+      "late": true,
+      "note": "Morgan Stanley Joint Advisory Account",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001199",
+      "assetRaw": "UGRO",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2021-02-16",
+      "filedDate": "2022-08-12",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021538.pdf",
+      "late": true,
+      "note": "Symbol did not populate correctly because it was misspelled",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001199",
+      "assetRaw": "UGRO",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2021-02-16",
+      "filedDate": "2022-08-12",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021542.pdf",
+      "late": true,
+      "note": "Symbol did not populate correctly because it was misspelled",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001199",
+      "assetRaw": "URgO [OT]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2021-02-16",
+      "filedDate": "2021-03-18",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20018421.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001199",
+      "assetRaw": "Eros STX Global Corporation A Ordinary Shares",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2021-02-12",
+      "filedDate": "2022-08-12",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021542.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001199",
+      "assetRaw": "Eros STX global Corporation A Ordinary Shares (ESgC) [ST]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2021-02-12",
+      "filedDate": "2021-03-17",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20018412.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001199",
+      "assetRaw": "Tilray, Inc. - Class 2",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2021-02-10",
+      "filedDate": "2022-08-12",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021542.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001199",
+      "assetRaw": "Tilray, Inc. - Class 2 (TlRY) [ST]",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2021-02-10",
+      "filedDate": "2021-03-17",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20018412.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001199",
+      "assetRaw": "Tilray, Inc. - Class 2",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2021-02-09",
+      "filedDate": "2022-08-12",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021542.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001199",
+      "assetRaw": "Tilray, Inc. - Class 2 (TlRY) [ST]",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2021-02-09",
+      "filedDate": "2021-03-17",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20018412.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001199",
+      "assetRaw": "Ideal Power Inc.",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2020-12-24",
+      "filedDate": "2021-02-01",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20018108.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001199",
+      "assetRaw": "Zuora, Inc. Class A (ZuO) [ST]",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2020-12-11",
+      "filedDate": "2021-02-01",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20018108.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001199",
+      "assetRaw": "Tilray, Inc. - Class 2 (TlRY) [ST]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2020-11-06",
+      "filedDate": "2020-12-01",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20017772.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001199",
+      "assetRaw": "Beam global",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2020-11-05",
+      "filedDate": "2020-12-01",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20017772.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001199",
+      "assetRaw": "Beam global",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2020-09-15",
+      "filedDate": "2020-10-15",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20017526.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001199",
+      "assetRaw": "Zuora, Inc. Class A (ZuO) [ST]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2020-09-03",
+      "filedDate": "2020-10-15",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20017526.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001199",
+      "assetRaw": "Rackspace Technology, Inc.",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2020-09-01",
+      "filedDate": "2020-10-15",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20017526.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001199",
+      "assetRaw": "Rackspace Technology, Inc.",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2020-08-18",
+      "filedDate": "2020-09-09",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20017324.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001199",
+      "assetRaw": "orting goods Corporation (BgFV) [ST]",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2020-08-07",
+      "filedDate": "2020-09-09",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20017324.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001199",
+      "assetRaw": "orting goods Corporation (BgFV) [ST]",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2020-08-07",
+      "filedDate": "2020-08-14",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20017194.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001199",
+      "assetRaw": "Davis Select u.S. Equity ETF (DuSA) [ST]",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2020-07-13",
+      "filedDate": "2020-08-14",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20017194.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001199",
+      "assetRaw": "NIO Inc. American depositary shares, each representing one Class A ordinary share",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2020-07-06",
+      "filedDate": "2020-08-14",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20017194.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001199",
+      "assetRaw": "NIO Inc. American depositary shares, each representing one Class A ordinary share",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2020-07-02",
+      "filedDate": "2020-08-14",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20017194.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001199",
+      "assetRaw": "Personalis, Inc. (PsNl) [sT]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2020-02-14",
+      "filedDate": "2020-03-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20016167.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001199",
+      "assetRaw": "orting goods Corporation (BgFV) [sT]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2020-02-14",
+      "filedDate": "2020-03-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20016167.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001199",
+      "assetRaw": "smileDirectClub, Inc. (sDC) [sT]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2020-02-14",
+      "filedDate": "2020-03-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20016167.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001199",
+      "assetRaw": "smileDirectClub, Inc. (sDC) [sT]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2019-10-09",
+      "filedDate": "2019-11-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20012546.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001199",
+      "assetRaw": "smileDirectClub, Inc. (sDC) [sT]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2019-09-25",
+      "filedDate": "2019-10-02",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20012405.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001199",
+      "assetRaw": "smileDirectClub, Inc. (sDC) [sT]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2019-09-23",
+      "filedDate": "2019-10-02",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20012405.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001199",
+      "assetRaw": "uber Technologies, Inc. (uBER) [sT]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2019-09-23",
+      "filedDate": "2019-10-02",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20012405.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001199",
+      "assetRaw": "smileDirectClub, Inc. (sDC) [sT]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2019-09-16",
+      "filedDate": "2019-10-02",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20012405.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001199",
+      "assetRaw": "uber Technologies, Inc. (uBER) [sT]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2019-09-16",
+      "filedDate": "2019-10-02",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20012405.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001199",
+      "assetRaw": "The Kraft Heinz Company (KHC) [sT]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2019-08-14",
+      "filedDate": "2019-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20012261.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001199",
+      "assetRaw": "Walgreens Boots alliance, Inc. (WBa) [sT]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2019-08-14",
+      "filedDate": "2019-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20012261.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001199",
+      "assetRaw": "antero Midstream Corporation (aM) [sT]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2019-08-14",
+      "filedDate": "2019-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20012261.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001199",
+      "assetRaw": "CVs Health Corporation (CVs) [sT]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2019-04-11",
+      "filedDate": "2019-05-08",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20011639.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001199",
+      "assetRaw": "Walgreens Boots alliance, Inc. (WBa) [sT]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2019-04-11",
+      "filedDate": "2019-05-08",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20011639.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001199",
+      "assetRaw": "NIO Inc. american depositary shares, each representing one Class a ordinary share (NIO) [sT]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2019-03-15",
+      "filedDate": "2019-04-15",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20011470.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001199",
+      "assetRaw": "NIO Inc. american depositary shares, each representing one Class a ordinary share (NIO) [sT]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2019-02-28",
+      "filedDate": "2019-03-12",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20011284.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001199",
+      "assetRaw": "NIO Inc. american depositary shares, each representing one Class a ordinary share (NIO) [sT]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2019-02-27",
+      "filedDate": "2019-03-12",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20011284.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001199",
+      "assetRaw": "snap Inc. Class a (sNaP) [sT]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2019-02-11",
+      "filedDate": "2019-03-12",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20011284.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001199",
+      "assetRaw": "snap Inc. Class a (sNaP) [sT]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2019-02-07",
+      "filedDate": "2019-03-12",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20011284.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001199",
+      "assetRaw": "British american Tobacco Industries, p.l.c. Common stock aDR (BTI) [sT]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2019-01-31",
+      "filedDate": "2019-02-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20011103.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001199",
+      "assetRaw": "Expedia group, Inc. (EXPE) [sT]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2019-01-29",
+      "filedDate": "2019-02-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20011103.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001199",
+      "assetRaw": "altria group, Inc. (MO) [sT]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2019-01-24",
+      "filedDate": "2019-02-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20011103.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001199",
+      "assetRaw": "Tilray, Inc. - Class 2 (TlRY) [sT]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2019-01-18",
+      "filedDate": "2019-02-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20011103.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001199",
+      "assetRaw": "uBs group ag Registered Ordinary shares (uBs) [sT]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2019-01-15",
+      "filedDate": "2019-02-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20011103.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001199",
+      "assetRaw": "PetIQ, Inc. - Class a (PETQ) [sT]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2019-01-04",
+      "filedDate": "2019-02-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20011103.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001199",
+      "assetRaw": "YETI Holdings, Inc. (YETI) [sT]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2018-12-24",
+      "filedDate": "2019-01-07",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20010968.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001199",
+      "assetRaw": "Expedia group, Inc.",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2018-06-26",
+      "filedDate": "2018-09-20",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20010335.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001199",
+      "assetRaw": "MS Joint A/C Walt Disney Company",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2018-06-26",
+      "filedDate": "2018-09-20",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20010335.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001199",
+      "assetRaw": "MS Joint A/C Yamana gold Inc. ordinary Shares",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-02-21",
+      "filedDate": "2018-09-20",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20010335.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    }
+  ],
+  "series": [
+    {
+      "date": "2017-02-21",
+      "value": 8000.5
+    },
+    {
+      "date": "2018-06-26",
+      "value": 75000.5
+    },
+    {
+      "date": "2018-06-26",
+      "value": 75000.5
+    },
+    {
+      "date": "2018-12-24",
+      "value": 32500.5
+    },
+    {
+      "date": "2019-01-04",
+      "value": 32500.5
+    },
+    {
+      "date": "2019-01-15",
+      "value": 32500.5
+    },
+    {
+      "date": "2019-01-18",
+      "value": 32500.5
+    },
+    {
+      "date": "2019-01-24",
+      "value": 32500.5
+    },
+    {
+      "date": "2019-01-29",
+      "value": 75000.5
+    },
+    {
+      "date": "2019-01-31",
+      "value": 32500.5
+    },
+    {
+      "date": "2019-02-07",
+      "value": 8000.5
+    },
+    {
+      "date": "2019-02-11",
+      "value": 8000.5
+    },
+    {
+      "date": "2019-02-27",
+      "value": 8000.5
+    },
+    {
+      "date": "2019-02-28",
+      "value": 32500.5
+    },
+    {
+      "date": "2019-03-15",
+      "value": 8000.5
+    },
+    {
+      "date": "2019-04-11",
+      "value": 75000.5
+    },
+    {
+      "date": "2019-04-11",
+      "value": 75000.5
+    },
+    {
+      "date": "2019-08-14",
+      "value": 32500.5
+    },
+    {
+      "date": "2019-08-14",
+      "value": 32500.5
+    },
+    {
+      "date": "2019-08-14",
+      "value": 32500.5
+    },
+    {
+      "date": "2019-09-16",
+      "value": 32500.5
+    },
+    {
+      "date": "2019-09-16",
+      "value": 32500.5
+    },
+    {
+      "date": "2019-09-23",
+      "value": 32500.5
+    },
+    {
+      "date": "2019-09-23",
+      "value": 32500.5
+    },
+    {
+      "date": "2019-09-25",
+      "value": 32500.5
+    },
+    {
+      "date": "2019-10-09",
+      "value": 8000.5
+    },
+    {
+      "date": "2020-02-14",
+      "value": 32500.5
+    },
+    {
+      "date": "2020-02-14",
+      "value": 8000.5
+    },
+    {
+      "date": "2020-02-14",
+      "value": 8000.5
+    },
+    {
+      "date": "2020-07-02",
+      "value": 32500.5
+    },
+    {
+      "date": "2020-07-06",
+      "value": 75000.5
+    },
+    {
+      "date": "2020-07-13",
+      "value": 32500.5
+    },
+    {
+      "date": "2020-08-07",
+      "value": 32500.5
+    },
+    {
+      "date": "2020-08-07",
+      "value": 32500.5
+    },
+    {
+      "date": "2020-08-18",
+      "value": 32500.5
+    },
+    {
+      "date": "2020-09-01",
+      "value": 32500.5
+    },
+    {
+      "date": "2020-09-03",
+      "value": 32500.5
+    },
+    {
+      "date": "2020-09-15",
+      "value": 32500.5
+    },
+    {
+      "date": "2020-11-05",
+      "value": 32500.5
+    },
+    {
+      "date": "2020-11-06",
+      "value": 32500.5
+    },
+    {
+      "date": "2020-12-11",
+      "value": 32500.5
+    },
+    {
+      "date": "2020-12-24",
+      "value": 32500.5
+    },
+    {
+      "date": "2021-02-09",
+      "value": 32500.5
+    },
+    {
+      "date": "2021-02-09",
+      "value": 32500.5
+    },
+    {
+      "date": "2021-02-10",
+      "value": 75000.5
+    },
+    {
+      "date": "2021-02-10",
+      "value": 75000.5
+    },
+    {
+      "date": "2021-02-12",
+      "value": 32500.5
+    },
+    {
+      "date": "2021-02-12",
+      "value": 32500.5
+    },
+    {
+      "date": "2021-02-16",
+      "value": 32500.5
+    },
+    {
+      "date": "2021-02-16",
+      "value": 32500.5
+    },
+    {
+      "date": "2021-02-16",
+      "value": 32500.5
+    },
+    {
+      "date": "2021-02-16",
+      "value": 32500.5
+    },
+    {
+      "date": "2021-02-18",
+      "value": 32500.5
+    },
+    {
+      "date": "2021-02-18",
+      "value": 32500.5
+    },
+    {
+      "date": "2021-02-18",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-02-18",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-02-18",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-03-04",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-03-04",
+      "value": 32500.5
+    },
+    {
+      "date": "2021-03-04",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-03-04",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-04-12",
+      "value": 75000.5
+    },
+    {
+      "date": "2021-04-12",
+      "value": 32500.5
+    },
+    {
+      "date": "2021-07-19",
+      "value": 32500.5
+    },
+    {
+      "date": "2021-07-19",
+      "value": 32500.5
+    },
+    {
+      "date": "2021-08-05",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-08-05",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-04-18",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-04-18",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-04-18",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-04-18",
+      "value": 32500.5
+    },
+    {
+      "date": "2022-04-18",
+      "value": 32500.5
+    }
+  ],
+  "measured": null
+}

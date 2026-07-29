@@ -1,0 +1,4636 @@
+{
+  "member": {
+    "bioguideId": "D000624",
+    "name": "Debbie Dingell",
+    "party": "D",
+    "chamber": "house",
+    "state": "MI",
+    "district": "MI-06",
+    "active": true
+  },
+  "positions": [
+    {
+      "memberId": "D000624",
+      "security": {
+        "ticker": "AAPL",
+        "kind": "other"
+      },
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "stale",
+      "asOf": "2016-02-18",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2016/20005343.pdf"
+        }
+      ]
+    },
+    {
+      "memberId": "D000624",
+      "security": {
+        "ticker": "AMZN",
+        "kind": "other"
+      },
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "status": "stale",
+      "asOf": "2016-02-18",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2016/20005343.pdf"
+        }
+      ]
+    },
+    {
+      "memberId": "D000624",
+      "security": {
+        "ticker": "AXP",
+        "kind": "other"
+      },
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "sold",
+      "asOf": "2016-11-14",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2015/20003165.pdf"
+        },
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2016/20006242.pdf"
+        }
+      ]
+    },
+    {
+      "memberId": "D000624",
+      "security": {
+        "ticker": "AXP",
+        "kind": "other"
+      },
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "sold",
+      "asOf": "2016-11-14",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2016/20006242.pdf"
+        }
+      ],
+      "note": "sale reported by PTR with no annual baseline in our coverage"
+    },
+    {
+      "memberId": "D000624",
+      "security": {
+        "ticker": "BX",
+        "kind": "other"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "stale",
+      "asOf": "2016-06-22",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2016/20005422.pdf"
+        }
+      ]
+    },
+    {
+      "memberId": "D000624",
+      "security": {
+        "ticker": "CCI",
+        "kind": "other"
+      },
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "stale",
+      "asOf": "2015-10-21",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2015/20003995.pdf"
+        }
+      ]
+    },
+    {
+      "memberId": "D000624",
+      "security": {
+        "ticker": "CCL",
+        "kind": "other"
+      },
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "sold",
+      "asOf": "2016-12-14",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2016/20005596.pdf"
+        },
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2016/20006392.pdf"
+        }
+      ]
+    },
+    {
+      "memberId": "D000624",
+      "security": {
+        "ticker": "CMI",
+        "kind": "other"
+      },
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "status": "sold",
+      "asOf": "2018-01-26",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20008859.pdf"
+        }
+      ],
+      "note": "sale reported by PTR with no annual baseline in our coverage"
+    },
+    {
+      "memberId": "D000624",
+      "security": {
+        "ticker": "CVS",
+        "kind": "other"
+      },
+      "owner": "spouse",
+      "range": {
+        "lo": 30002,
+        "hi": 100000
+      },
+      "status": "sold",
+      "asOf": "2016-11-14",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2016/20004381.pdf"
+        },
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2016/20005343.pdf"
+        },
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2016/20006242.pdf"
+        }
+      ]
+    },
+    {
+      "memberId": "D000624",
+      "security": {
+        "ticker": "CVX",
+        "kind": "other"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "status": "stale",
+      "asOf": "2017-03-15",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2017/20006957.pdf"
+        }
+      ]
+    },
+    {
+      "memberId": "D000624",
+      "security": {
+        "ticker": "DIS",
+        "kind": "other"
+      },
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "status": "stale",
+      "asOf": "2016-02-23",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2016/20004673.pdf"
+        }
+      ]
+    },
+    {
+      "memberId": "D000624",
+      "security": {
+        "ticker": "DUK",
+        "kind": "other"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "status": "sold",
+      "asOf": "2019-11-01",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20012607.pdf"
+        }
+      ],
+      "note": "sale reported by PTR with no annual baseline in our coverage"
+    },
+    {
+      "memberId": "D000624",
+      "security": {
+        "ticker": "DVMT",
+        "kind": "other"
+      },
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "sold",
+      "asOf": "2016-09-15",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2016/20005910.pdf"
+        }
+      ],
+      "note": "sale reported by PTR with no annual baseline in our coverage"
+    },
+    {
+      "memberId": "D000624",
+      "security": {
+        "ticker": "DWDP",
+        "kind": "other"
+      },
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "sold",
+      "asOf": "2017-09-19",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2017/20007996.pdf"
+        }
+      ],
+      "note": "sale reported by PTR with no annual baseline in our coverage"
+    },
+    {
+      "memberId": "D000624",
+      "security": {
+        "ticker": "EPD",
+        "kind": "other"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "stale",
+      "asOf": "2016-08-24",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2016/20005824.pdf"
+        }
+      ]
+    },
+    {
+      "memberId": "D000624",
+      "security": {
+        "ticker": "FB",
+        "kind": "other"
+      },
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "status": "stale",
+      "asOf": "2017-07-10",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2017/20007647.pdf"
+        }
+      ]
+    },
+    {
+      "memberId": "D000624",
+      "security": {
+        "ticker": "FCX",
+        "kind": "other"
+      },
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "sold",
+      "asOf": "2015-09-18",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2015/20003845.pdf"
+        }
+      ],
+      "note": "sale reported by PTR with no annual baseline in our coverage"
+    },
+    {
+      "memberId": "D000624",
+      "security": {
+        "ticker": "FCX",
+        "kind": "other"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "sold",
+      "asOf": "2015-09-18",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2016/20005343.pdf"
+        },
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2015/20003845.pdf"
+        }
+      ]
+    },
+    {
+      "memberId": "D000624",
+      "security": {
+        "ticker": "FCX",
+        "kind": "other"
+      },
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "sold",
+      "asOf": "2015-05-26",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2016/20005343.pdf"
+        }
+      ],
+      "note": "sale reported by PTR with no annual baseline in our coverage"
+    },
+    {
+      "memberId": "D000624",
+      "security": {
+        "ticker": "FEI",
+        "kind": "other"
+      },
+      "owner": "joint",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "status": "stale",
+      "asOf": "2015-05-19",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2015/20003165.pdf"
+        }
+      ]
+    },
+    {
+      "memberId": "D000624",
+      "security": {
+        "ticker": "HD",
+        "kind": "other"
+      },
+      "owner": "spouse",
+      "range": {
+        "lo": 2002,
+        "hi": 30000
+      },
+      "status": "stale",
+      "asOf": "2016-03-21",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2016/20005343.pdf"
+        },
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2016/20004828.pdf"
+        }
+      ]
+    },
+    {
+      "memberId": "D000624",
+      "security": {
+        "ticker": "HES",
+        "kind": "other"
+      },
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "sold",
+      "asOf": "2017-05-17",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2017/20007308.pdf"
+        }
+      ],
+      "note": "sale reported by PTR with no annual baseline in our coverage"
+    },
+    {
+      "memberId": "D000624",
+      "security": {
+        "ticker": "HON",
+        "kind": "other"
+      },
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "status": "stale",
+      "asOf": "2016-02-18",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2016/20004653.pdf"
+        }
+      ]
+    },
+    {
+      "memberId": "D000624",
+      "security": {
+        "ticker": "IBM",
+        "kind": "other"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "stale",
+      "asOf": "2017-08-14",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2017/20007784.pdf"
+        }
+      ]
+    },
+    {
+      "memberId": "D000624",
+      "security": {
+        "ticker": "IBM",
+        "kind": "other"
+      },
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "sold",
+      "asOf": "2015-10-21",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2015/20003995.pdf"
+        }
+      ],
+      "note": "sale reported by PTR with no annual baseline in our coverage"
+    },
+    {
+      "memberId": "D000624",
+      "security": {
+        "ticker": "JCI",
+        "kind": "other"
+      },
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "status": "stale",
+      "asOf": "2016-11-14",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2016/20006242.pdf"
+        }
+      ]
+    },
+    {
+      "memberId": "D000624",
+      "security": {
+        "ticker": "JNJ",
+        "kind": "other"
+      },
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "status": "stale",
+      "asOf": "2016-02-18",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2016/20005343.pdf"
+        }
+      ]
+    },
+    {
+      "memberId": "D000624",
+      "security": {
+        "ticker": "M",
+        "kind": "other"
+      },
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "status": "stale",
+      "asOf": "2016-03-21",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2016/20004828.pdf"
+        }
+      ]
+    },
+    {
+      "memberId": "D000624",
+      "security": {
+        "ticker": "MS",
+        "kind": "other"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "status": "stale",
+      "asOf": "2021-03-02",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20018361.pdf"
+        }
+      ]
+    },
+    {
+      "memberId": "D000624",
+      "security": {
+        "ticker": "MSFT",
+        "kind": "other"
+      },
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "status": "stale",
+      "asOf": "2016-02-18",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2016/20005343.pdf"
+        }
+      ]
+    },
+    {
+      "memberId": "D000624",
+      "security": {
+        "ticker": "NKE",
+        "kind": "other"
+      },
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "sold",
+      "asOf": "2018-03-16",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20009160.pdf"
+        }
+      ],
+      "note": "sale reported by PTR with no annual baseline in our coverage"
+    },
+    {
+      "memberId": "D000624",
+      "security": {
+        "ticker": "NVDA",
+        "kind": "other"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "stale",
+      "asOf": "2017-03-16",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2017/20006957.pdf"
+        }
+      ]
+    },
+    {
+      "memberId": "D000624",
+      "security": {
+        "ticker": "NWL",
+        "kind": "other"
+      },
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "status": "stale",
+      "asOf": "2017-10-18",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2017/20008274.pdf"
+        }
+      ]
+    },
+    {
+      "memberId": "D000624",
+      "security": {
+        "ticker": "NYLD",
+        "kind": "other"
+      },
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "stale",
+      "asOf": "2016-11-14",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2016/20006242.pdf"
+        }
+      ]
+    },
+    {
+      "memberId": "D000624",
+      "security": {
+        "ticker": "OAK",
+        "kind": "other"
+      },
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "status": "stale",
+      "asOf": "2016-03-11",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2016/20004726.pdf"
+        }
+      ]
+    },
+    {
+      "memberId": "D000624",
+      "security": {
+        "ticker": "PEP",
+        "kind": "other"
+      },
+      "owner": "joint",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "status": "stale",
+      "asOf": "2016-11-14",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2016/20006242.pdf"
+        }
+      ]
+    },
+    {
+      "memberId": "D000624",
+      "security": {
+        "ticker": "PFE",
+        "kind": "other"
+      },
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "status": "stale",
+      "asOf": "2016-02-23",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2016/20004673.pdf"
+        }
+      ]
+    },
+    {
+      "memberId": "D000624",
+      "security": {
+        "ticker": "PTA",
+        "kind": "other"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "holds",
+      "asOf": "2026-04-21",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034416.pdf"
+        }
+      ]
+    },
+    {
+      "memberId": "D000624",
+      "security": {
+        "ticker": "QCOM",
+        "kind": "other"
+      },
+      "owner": "spouse",
+      "range": {
+        "lo": 3003,
+        "hi": 45000
+      },
+      "status": "stale",
+      "asOf": "2017-08-14",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2016/20004653.pdf"
+        },
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2017/20006957.pdf"
+        },
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2017/20007784.pdf"
+        }
+      ]
+    },
+    {
+      "memberId": "D000624",
+      "security": {
+        "ticker": "SBUX",
+        "kind": "other"
+      },
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "status": "stale",
+      "asOf": "2016-10-25",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2016/20006127.pdf"
+        }
+      ]
+    },
+    {
+      "memberId": "D000624",
+      "security": {
+        "ticker": "SP",
+        "kind": "other"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "status": "stale",
+      "asOf": "2019-11-01",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20012607.pdf"
+        }
+      ]
+    },
+    {
+      "memberId": "D000624",
+      "security": {
+        "ticker": "TWX",
+        "kind": "other"
+      },
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "status": "sold",
+      "asOf": "2016-10-25",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2016/20004828.pdf"
+        },
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2016/20006127.pdf"
+        }
+      ]
+    },
+    {
+      "memberId": "D000624",
+      "security": {
+        "ticker": "UBSI",
+        "kind": "other"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "stale",
+      "asOf": "2019-03-25",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20011420.pdf"
+        }
+      ]
+    },
+    {
+      "memberId": "D000624",
+      "security": {
+        "ticker": "WBA",
+        "kind": "other"
+      },
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "status": "stale",
+      "asOf": "2016-11-14",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2016/20006242.pdf"
+        }
+      ]
+    },
+    {
+      "memberId": "D000624",
+      "security": {
+        "ticker": "WMB",
+        "kind": "other"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "sold",
+      "asOf": "2015-12-22",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2016/20004381.pdf"
+        }
+      ],
+      "note": "sale reported by PTR with no annual baseline in our coverage"
+    },
+    {
+      "memberId": "D000624",
+      "security": {
+        "ticker": "WMB",
+        "kind": "other"
+      },
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "stale",
+      "asOf": "2015-05-19",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2015/20003165.pdf"
+        }
+      ]
+    },
+    {
+      "memberId": "D000624",
+      "security": {
+        "ticker": "WMT",
+        "kind": "other"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "stale",
+      "asOf": "2018-02-22",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20009051.pdf"
+        }
+      ]
+    }
+  ],
+  "trades": [
+    {
+      "memberId": "D000624",
+      "assetRaw": "FHLMC 30 YR GOLD RQ0128 [GS]",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2026-07-14",
+      "filedDate": "2026-07-22",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035048.pdf",
+      "late": false,
+      "provenance": "official"
+    },
+    {
+      "memberId": "D000624",
+      "assetRaw": "Gains > $200? FHLMC 30 YR GOLD RQ0128 [GS]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2026-07-14",
+      "filedDate": "2026-07-22",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035048.pdf",
+      "late": false,
+      "note": "Mortgage Backed Security; Due Date 06/01/2056; Coupon 5.50% Fixed",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000624",
+      "assetRaw": "FEDERAL NATIONAL MORTGAGE ASSOCIATION POOL MA6054 [CS]",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2026-05-26",
+      "filedDate": "2026-06-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034702.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "D000624",
+      "assetRaw": "Cohen & Steers Tax-Advantaged Preferred Securities and Income Fund Common Shares of Beneficial Interest (PTA) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-04-21",
+      "filedDate": "2026-04-28",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034416.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "D000624",
+      "assetRaw": "MICHIGAN ST HSG DEV AUTH SINGLE FAMILY M [GS]",
+      "security": null,
+      "side": "buy",
+      "owner": "joint",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2026-04-21",
+      "filedDate": "2026-04-28",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034416.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "D000624",
+      "assetRaw": "Alphabet Inc. - Class C Capital Stock",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2025-11-24",
+      "filedDate": "2025-12-06",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20029105.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000624",
+      "assetRaw": "Apple Inc. - Common Stock",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2025-11-24",
+      "filedDate": "2025-12-06",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20029105.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000624",
+      "assetRaw": "Honeywell International Inc.",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2025-11-24",
+      "filedDate": "2025-12-06",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20029105.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000624",
+      "assetRaw": "Solstice Advanced Materials Inc. - Common Stock",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-11-24",
+      "filedDate": "2025-12-06",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20029105.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000624",
+      "assetRaw": "GOVERNMENT NATIONAL MORTGAGE ASSOCIATION POOL MB0260",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2025-03-28",
+      "filedDate": "2025-04-02",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20029053.pdf",
+      "late": false,
+      "note": "Description: Corporate Bond; Maturity Date - 03/20/2055; Coupon Rate - 6% Fixed",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000624",
+      "assetRaw": "Walmart Inc. Common Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2025-03-27",
+      "filedDate": "2025-04-02",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20029053.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000624",
+      "assetRaw": "FEDERAL NATIONAL MORTGAGE ASSOCIATION POOL MA5471",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2025-01-15",
+      "filedDate": "2025-01-27",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20026647.pdf",
+      "late": false,
+      "note": "Corporate Bond; maturity date - 09/01/2054; Coupon Rate - 6% Fixed",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000624",
+      "assetRaw": "Walt Disney Company",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-01-15",
+      "filedDate": "2025-01-27",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20026647.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000624",
+      "assetRaw": "GOVERNMENT NATIONAL MORTGAGE ASSOCIATION POOL MA9542 [CS]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2024-11-01",
+      "filedDate": "2024-11-09",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/20026160.pdf",
+      "late": false,
+      "note": "Corporate Bond; Maturity Date - 03/20/2054; Coupon Fixed Rate - 6%",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000624",
+      "assetRaw": "Apple Inc. - Common Stock",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2024-06-13",
+      "filedDate": "2024-06-24",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/20025306.pdf",
+      "late": false,
+      "note": "Filing Status: New\nSubholding Of: Morgan Stanley Smith Barney LLC Brokerage Account - Spouse Irrevocable Trust",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000624",
+      "assetRaw": "Apple Inc. - Common Stock",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2024-06-12",
+      "filedDate": "2024-06-24",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/20025306.pdf",
+      "late": false,
+      "note": "Filing Status: New\nSubholding Of: Morgan Stanley Smith Barney LLC Brokerage Account - Spouse Irrevocable Trust",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000624",
+      "assetRaw": "Apple Inc. - Common Stock",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2024-06-12",
+      "filedDate": "2024-06-24",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/20025306.pdf",
+      "late": false,
+      "note": "Filing Status: New\nSubholding Of: Morgan Stanley Smith Barney LLC Brokerage Account - Spouse Irrevocable Trust",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000624",
+      "assetRaw": "GOVERNMENT NATIONAL\nMORTGAGE ASSOCIATION POOL",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2024-05-01",
+      "filedDate": "2024-05-16",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/20025056.pdf",
+      "late": false,
+      "note": "Corporate Bond, Maturity Date - 12/20/2053, Coupon Fixed Rate - 7%",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000624",
+      "assetRaw": "GOVERNMENT NATIONAL\nMORTGAGE ASSOCIATION POOL",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2024-05-01",
+      "filedDate": "2024-05-16",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/20025056.pdf",
+      "late": false,
+      "note": "Corporate Bond, Maturity Date - 12/20/2053, Coupon Fixed Rate - 7%",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000624",
+      "assetRaw": "GOVERNMENT NATIONAL MORTGAGE ASSOCIATION POOL [CS]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2024-02-09",
+      "filedDate": "2024-02-15",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/20024270.pdf",
+      "late": false,
+      "note": "Corporate Bond Maturity Date - 11/20/2053 Coupon Rate - 7.50%",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000624",
+      "assetRaw": "Medtronic plc. Ordinary Shares",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2023-12-05",
+      "filedDate": "2023-12-14",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20024143.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000624",
+      "assetRaw": "Blackstone Inc.",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2023-04-10",
+      "filedDate": "2023-04-19",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20022749.pdf",
+      "late": false,
+      "note": "Filing Status: New\nSubholding Of: Morgan Stanley Smith Barney LLC Brokerage Account",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000624",
+      "assetRaw": "Corteva, Inc.",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2023-04-10",
+      "filedDate": "2023-04-19",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20022749.pdf",
+      "late": false,
+      "note": "Filing Status: New\nSubholding Of: Morgan Stanley Smith Barney LLC Brokerage Account",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000624",
+      "assetRaw": "SERVICE PROPERTIES TRUST",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2023-03-08",
+      "filedDate": "2023-03-15",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20022585.pdf",
+      "late": false,
+      "note": "Redemption of Called Bond; Corporate Fixed Income - Corporate Bond; Coupon Rate - 4.5%; Maturity Date - 6/15/2023",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000624",
+      "assetRaw": "ARES CAPITAL CORP [CS]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2023-03-03",
+      "filedDate": "2023-03-08",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20022528.pdf",
+      "late": false,
+      "note": "Corporate Bond Maturity Date - 07/15/2026 Coupon Rate - 2.15%",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000624",
+      "assetRaw": "AMERICAN TOWER CORP [CS]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2023-01-12",
+      "filedDate": "2023-01-19",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20022293.pdf",
+      "late": false,
+      "note": "Corporate Bond Maturity Date - 01/15/2027 Coupon Rate - 3.125% Fixed",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000624",
+      "assetRaw": "Meta Platforms, Inc. - Class A",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2022-12-19",
+      "filedDate": "2023-01-01",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20022184.pdf",
+      "late": false,
+      "note": "Filing Status: New\nSubholding Of: Morgan Stanley Smith Barney LLC Brokerage Account - Spouse Irrevocable Trust",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000624",
+      "assetRaw": "Stanley Black & Decker, Inc.",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-12-19",
+      "filedDate": "2023-01-01",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20022184.pdf",
+      "late": false,
+      "note": "Filing Status: New\nSubholding Of: Morgan Stanley Smith Barney LLC Brokerage Account - Spouse Irrevocable Trust",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000624",
+      "assetRaw": "Walt Disney Company",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-11-29",
+      "filedDate": "2023-05-15",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20022957.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000624",
+      "assetRaw": "Procter & Gamble Company",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-08-03",
+      "filedDate": "2022-08-15",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021536.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000624",
+      "assetRaw": "Ally Financial Inc. [CS]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2022-05-31",
+      "filedDate": "2022-06-12",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021166.pdf",
+      "late": false,
+      "note": "Corporate Bond - Maturity Date - 03/30/2025; Coupon Rate - 4.62% PARAMOUNT GLOBAL FXD [CS]",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000624",
+      "assetRaw": "Williams Companies, Inc.",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2022-05-16",
+      "filedDate": "2022-05-19",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021083.pdf",
+      "late": false,
+      "note": "Redemption of Called Bond. Corporate Fixed Income - Corporate Bond Coupon Rate - 3.350% - Maturity Date - 08/15/2022.",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000624",
+      "assetRaw": "Apple Inc.",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2022-04-18",
+      "filedDate": "2022-04-26",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020866.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000624",
+      "assetRaw": "Apple Inc.",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2021-12-01",
+      "filedDate": "2021-12-10",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019967.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000624",
+      "assetRaw": "Morgan Stanley Smith Barney LLC Brokerage Account - Spouse Irrevocable Trust International Paper Company",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2021-12-01",
+      "filedDate": "2021-12-10",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019967.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000624",
+      "assetRaw": "Morgan Stanley Smith Barney LLC Brokerage Account - Spouse Irrevocable Trust Sylvamo Corporation",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-12-01",
+      "filedDate": "2021-12-10",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019967.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000624",
+      "assetRaw": "AbbVie Inc.",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2021-06-18",
+      "filedDate": "2021-06-29",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20018962.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000624",
+      "assetRaw": "Morgan Stanley Smith Barney LLC Brokerage Account - Spouse Irrevocable Trust Otis Worldwide Corporation",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2021-06-18",
+      "filedDate": "2021-06-29",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20018962.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000624",
+      "assetRaw": "Morgan Stanley Smith Barney LLC IRA Viatris Inc.",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-06-18",
+      "filedDate": "2021-06-29",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20018962.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000624",
+      "assetRaw": "Fedex Corp. [CS]",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2021-05-20",
+      "filedDate": "2021-06-15",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20018918.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000624",
+      "assetRaw": "The Blackstone group Inc.",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2021-04-22",
+      "filedDate": "2021-05-03",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20018643.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000624",
+      "assetRaw": "eBay Inc. [CS]",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2021-03-24",
+      "filedDate": "2021-04-01",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20018488.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000624",
+      "assetRaw": "MACY'S RETAIL HLDgS INC. [CS]",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2021-03-17",
+      "filedDate": "2021-03-25",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20018459.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000624",
+      "assetRaw": "Morgan Stanley Smith Barney LLC IRA DESCRIPTION: Morgan Stanley (MS) shares received in exchange for Eaton Vance (EV) as a result of merger. Pepsico, Inc.",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2021-03-02",
+      "filedDate": "2021-03-10",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20018361.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000624",
+      "assetRaw": "ViacomCBS Inc. - Class B",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2021-01-29",
+      "filedDate": "2021-02-01",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20018112.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000624",
+      "assetRaw": "Morgan Stanley Smith Barney LLC Brokerage Account - Spouse Irrevocable Trust Walt Disney Company",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2020-12-31",
+      "filedDate": "2021-01-13",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20017983.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000624",
+      "assetRaw": "ViacomCBS Inc. - Class B",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2020-12-31",
+      "filedDate": "2021-01-13",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20017983.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000624",
+      "assetRaw": "AbbVie Inc.",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2020-10-13",
+      "filedDate": "2020-10-24",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20017566.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000624",
+      "assetRaw": "Morgan Stanley Smith Barney LLC Brokerage Account - Spouse Irrevocable Trust Carrier global Corporation",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2020-10-13",
+      "filedDate": "2020-10-24",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20017566.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000624",
+      "assetRaw": "Morgan Stanley Smith Barney LLC IRA NVIDIA Corporation",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2020-10-13",
+      "filedDate": "2020-10-24",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20017566.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000624",
+      "assetRaw": "Apple Inc.",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2020-08-20",
+      "filedDate": "2020-09-02",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20017265.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000624",
+      "assetRaw": "Apple Inc.",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2020-08-20",
+      "filedDate": "2020-09-02",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20017265.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000624",
+      "assetRaw": "Morgan Stanley Smith Barney LLC Brokerage Account - Spouse Irrevocable Trust Walmart Inc.",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2020-08-20",
+      "filedDate": "2020-09-02",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20017265.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000624",
+      "assetRaw": "NextEra Energy, Inc.",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2020-01-02",
+      "filedDate": "2020-01-13",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20013817.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000624",
+      "assetRaw": "Aircastle Limited",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2019-11-06",
+      "filedDate": "2019-11-15",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20012607.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000624",
+      "assetRaw": "Morgan Stanley Smith Barney LLC Brokerage Account - Spouse Irrevocable Trust Alcon Inc. ordinary Shares",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2019-11-01",
+      "filedDate": "2019-11-15",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20012607.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000624",
+      "assetRaw": "Morgan Stanley Smith Barney LLC Brokerage Account Duke Energy Corporation",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2019-11-01",
+      "filedDate": "2019-11-15",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20012607.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000624",
+      "assetRaw": "Morgan Stanley Smith Barney LLC IRA (DUK) stock transferred from Morgan Stanley Smith Barney LLC IRA (SP). Valero Energy Corporation (VLo) [ST]",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2019-11-01",
+      "filedDate": "2019-11-15",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20012607.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000624",
+      "assetRaw": "Morgan Stanley Smith Barney LLC IRA DESCRIPTIoN: Valero Energy (VLo) stock transferred from Morgan Stanley Smith Barney LLC IRA (SP). Walt Disney Company",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2019-11-01",
+      "filedDate": "2019-11-15",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20012607.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000624",
+      "assetRaw": "Morgan Stanley Smith Barney LLC IRA WPX Energy, Inc.",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2019-11-01",
+      "filedDate": "2019-11-15",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20012607.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000624",
+      "assetRaw": "united Technologies Corporation (uTX) [ST]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2019-06-17",
+      "filedDate": "2019-06-27",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20011898.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000624",
+      "assetRaw": "Hospitality Properties Trust - Shares of Beneficial Interest",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2019-05-14",
+      "filedDate": "2019-05-22",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20011724.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000624",
+      "assetRaw": "Morgan Stanley Smith Barney LLC IRA Vodafone group Plc - American Depositary Shares each representing ten ordinary Shares (VoD) [ST]",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2019-05-14",
+      "filedDate": "2019-05-22",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20011724.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000624",
+      "assetRaw": "2000049413MgM RESoRTS INTERNATIoNAL [CS]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2019-04-01",
+      "filedDate": "2019-04-17",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20011483.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000624",
+      "assetRaw": "Morgan Stanley Smith Barney LLC IRA DESCRIPTIoN: Corporate Bond Maturity Date - 4/15/2027 Yield - 5.50% 2000049414MgM RESoRTS INTERNATIoNAL [CS]",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2019-04-01",
+      "filedDate": "2019-04-17",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20011483.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000624",
+      "assetRaw": "Morgan Stanley Smith Barney LLC Brokerage Account gM RESoRTS INTERNATIoNAL [CS]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2019-04-01",
+      "filedDate": "2019-04-14",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20011420.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000624",
+      "assetRaw": "Morgan Stanley Smith Barney LLC IRA DESCRIPTIoN: Corporate Bond Maturity Date - 4/15/2027 Yield - 5.50% gM RESoRTS INTERNATIoNAL [CS]",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2019-04-01",
+      "filedDate": "2019-04-14",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20011420.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000624",
+      "assetRaw": "Morgan Stanley Smith Barney LLC IRA WARNER MEDIA LLC [CS]",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2019-03-27",
+      "filedDate": "2019-04-14",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20011420.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000624",
+      "assetRaw": "CBS Corporation Class B",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2019-03-25",
+      "filedDate": "2019-04-14",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20011420.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000624",
+      "assetRaw": "Morgan Stanley Smith Barney LLC Brokerage Account Crown Castle International Corp.",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2019-03-25",
+      "filedDate": "2019-04-14",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20011420.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000624",
+      "assetRaw": "Morgan Stanley Smith Barney LLC IRA (UBSI)",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2019-03-25",
+      "filedDate": "2019-04-14",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20011420.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000624",
+      "assetRaw": "Morgan Stanley Smith Barney LLC IRA DESCRIPTIoN: Redemption of Called Corporate Bond Maturity Date - 1/15/2021 Yield - 4.7% WILLIAMS CoS INC/THE [CS]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2019-03-25",
+      "filedDate": "2019-04-14",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20011420.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000624",
+      "assetRaw": "[ST] gfedc FILINg STATUS: New Morgan Stanley Smith Barney LLC Brokerage Account Walt Disney Company",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2019-03-25",
+      "filedDate": "2019-04-14",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20011420.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000624",
+      "assetRaw": "Energy Transfer LP Common Units",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2019-01-02",
+      "filedDate": "2019-01-16",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20011012.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000624",
+      "assetRaw": "Morgan Stanley Smith Barney LLC Brokerage account Chevron Corporation",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2018-12-19",
+      "filedDate": "2019-01-02",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20010926.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000624",
+      "assetRaw": "Morgan Stanley Smith Barney LLC Brokerage account Exxon Mobil Corporation (XoM) [ST]",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2018-12-19",
+      "filedDate": "2019-01-02",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20010926.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000624",
+      "assetRaw": "Morgan Stanley Smith Barney LLC Brokerage account Williams Companies, Inc.",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2018-12-19",
+      "filedDate": "2019-01-02",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20010926.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000624",
+      "assetRaw": "aT&T Inc.",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2018-12-19",
+      "filedDate": "2019-01-02",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20010926.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000624",
+      "assetRaw": "united Technologies Corporation (uTX) [ST]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2018-11-27",
+      "filedDate": "2018-12-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20010768.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000624",
+      "assetRaw": "WPX Energy, Inc.",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2018-11-08",
+      "filedDate": "2018-11-19",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20010662.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000624",
+      "assetRaw": "Morgan Stanley Smith Barney LLC IRA LOCATION: US DESCRIPTION: Bond Matures 5/19/2022 Coupon Rate: 4.625% Resideo Technologies, Inc.",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2018-11-01",
+      "filedDate": "2018-11-19",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20010662.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000624",
+      "assetRaw": "Resideo Technologies, Inc.",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2018-11-01",
+      "filedDate": "2018-11-19",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20010662.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000624",
+      "assetRaw": "ALLY FINANCIAL INC. [OT]",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2018-10-31",
+      "filedDate": "2018-11-19",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20010662.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000624",
+      "assetRaw": "JT3M Company",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2018-10-24",
+      "filedDate": "2018-10-30",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20010555.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000624",
+      "assetRaw": "Starbucks Corporation",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2018-10-24",
+      "filedDate": "2018-10-30",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20010555.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000624",
+      "assetRaw": "Walgreens Boots Alliance, Inc.",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2018-10-24",
+      "filedDate": "2018-10-30",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20010555.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000624",
+      "assetRaw": "Morgan Stanley Smith Barney LLC Brokerage account DESCRIPTIoN: Bond Maturity Date - 5/01/2033 Coupon Rate - 3.125% CUSIP ID # - 594612EE9 Praxair, Inc.",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2018-10-02",
+      "filedDate": "2018-10-11",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20010447.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000624",
+      "assetRaw": "MICHIgaN ST. [CS]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2018-10-01",
+      "filedDate": "2018-10-11",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20010447.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000624",
+      "assetRaw": "MgM Resorts International [CS]",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2018-09-11",
+      "filedDate": "2018-09-18",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20010314.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000624",
+      "assetRaw": "NRg Yield, Inc. Class C",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2018-08-21",
+      "filedDate": "2018-09-06",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20010206.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000624",
+      "assetRaw": "aircastle Limited (aYR) [ST]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2018-08-14",
+      "filedDate": "2018-08-23",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20010137.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000624",
+      "assetRaw": "CBS Corporation Class B",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2018-07-30",
+      "filedDate": "2018-08-09",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20010050.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000624",
+      "assetRaw": "Valero Energy Corporation",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2018-07-30",
+      "filedDate": "2018-08-09",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20010050.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000624",
+      "assetRaw": "Ally Financial Inc.",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2018-07-26",
+      "filedDate": "2018-08-01",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20009986.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000624",
+      "assetRaw": "QuALCOMM Incorporated",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2018-07-26",
+      "filedDate": "2018-08-01",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20009986.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000624",
+      "assetRaw": "Johnson Controls International plc ordinary Share",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2018-07-12",
+      "filedDate": "2018-07-24",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20009911.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000624",
+      "assetRaw": "MgM RESORTS INTL [CS]",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2018-06-04",
+      "filedDate": "2018-06-19",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20009722.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000624",
+      "assetRaw": "Valero Energy Corporation",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2018-06-04",
+      "filedDate": "2018-06-19",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20009722.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000624",
+      "assetRaw": "JT3M Company",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2018-05-23",
+      "filedDate": "2018-06-03",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20009650.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000624",
+      "assetRaw": "Pepsico, Inc.",
+      "security": null,
+      "side": "buy",
+      "owner": "joint",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2018-05-23",
+      "filedDate": "2018-06-03",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20009650.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000624",
+      "assetRaw": "Comcast Corporation - Class a (CMCSa) [ST]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2018-05-08",
+      "filedDate": "2018-05-16",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20009570.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000624",
+      "assetRaw": "Morgan Stanley Smith Barney LLC Brokerage account Enterprise Products Partners L.P.",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2018-05-08",
+      "filedDate": "2018-05-16",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20009570.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000624",
+      "assetRaw": "SPgMAC CAP TRuST I 8.125% TO 2/15/2016 FLOATS AFTER",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2018-04-26",
+      "filedDate": "2018-05-03",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20009412.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000624",
+      "assetRaw": "Crown Castle International Corp.",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2018-04-20",
+      "filedDate": "2018-04-26",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20009378.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000624",
+      "assetRaw": "QuALCOMM Incorporated",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2018-04-20",
+      "filedDate": "2018-04-26",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20009378.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000624",
+      "assetRaw": "Vodafone group Plc - American Depositary Shares each representing ten Ordinary Shares",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2018-04-09",
+      "filedDate": "2018-04-18",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20009323.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000624",
+      "assetRaw": "Nike, Inc. (NKE)",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2018-03-16",
+      "filedDate": "2018-03-20",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20009160.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000624",
+      "assetRaw": "Morgan Stanley Smith Barney Brokerage account Cisco Systems, Inc. (CSCo)",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2018-02-22",
+      "filedDate": "2018-03-01",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20009051.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000624",
+      "assetRaw": "Morgan Stanley Smith Barney LLC Brokerage account Walmart Inc. (WMT)",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2018-02-22",
+      "filedDate": "2018-03-01",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20009051.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000624",
+      "assetRaw": "abbVie Inc. (aBBV)",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2018-02-22",
+      "filedDate": "2018-03-01",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20009051.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000624",
+      "assetRaw": "Cummins Inc. (CMI)",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2018-01-26",
+      "filedDate": "2018-02-01",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20008859.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000624",
+      "assetRaw": "Morgan Stanley Smith Barney LLC IRA Walmart Inc. (WMT)",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2018-01-26",
+      "filedDate": "2018-02-01",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20008859.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000624",
+      "assetRaw": "Cisco Systems, Inc. (CSCo)",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2017-11-15",
+      "filedDate": "2017-11-21",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2017/20008427.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000624",
+      "assetRaw": "Newell Brands Inc. (NWL)",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2017-10-18",
+      "filedDate": "2017-10-26",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2017/20008274.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000624",
+      "assetRaw": "general Electric Company (gE)",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2017-10-18",
+      "filedDate": "2017-10-26",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2017/20008274.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000624",
+      "assetRaw": "DowDuPont Inc. (DWDP)",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-09-19",
+      "filedDate": "2017-09-28",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2017/20007996.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000624",
+      "assetRaw": "International Business Machines Corporation (IBM)",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-08-14",
+      "filedDate": "2017-08-23",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2017/20007784.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000624",
+      "assetRaw": "QUALCOMM Incorporated (QCOM)",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-08-14",
+      "filedDate": "2017-08-23",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2017/20007784.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000624",
+      "assetRaw": "Facebook, Inc. - Class a (FB)",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2017-07-10",
+      "filedDate": "2017-07-20",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2017/20007647.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000624",
+      "assetRaw": "aircastle Limited (aYR)",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-07-10",
+      "filedDate": "2017-07-20",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2017/20007647.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000624",
+      "assetRaw": "Hess Corporation (HES)",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-05-17",
+      "filedDate": "2017-06-01",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2017/20007308.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000624",
+      "assetRaw": "aircastle Limited (aYR)",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-05-17",
+      "filedDate": "2017-06-01",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2017/20007308.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000624",
+      "assetRaw": "Morgan Stanley Smith Barney LLC Brokerage Account NVIDIA Corporation (NVDA)",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-03-16",
+      "filedDate": "2017-03-22",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2017/20006957.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000624",
+      "assetRaw": "QUALCOMM Incorporated (QCOM)",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-03-16",
+      "filedDate": "2017-03-22",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2017/20006957.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000624",
+      "assetRaw": "Chevron Corporation (CVX)",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2017-03-15",
+      "filedDate": "2017-03-22",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2017/20006957.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000624",
+      "assetRaw": "UNIT AAM HIgH 50 DIVIDEND STRATEgY 2016-4Q",
+      "security": null,
+      "side": "buy",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-03-10",
+      "filedDate": "2017-03-15",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2017/20006909.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000624",
+      "assetRaw": "UNIT AAM HIgH 50 DIVIDEND STRATEgY 2016-4Q",
+      "security": null,
+      "side": "buy",
+      "owner": "joint",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2017-03-10",
+      "filedDate": "2017-03-15",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2017/20006909.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000624",
+      "assetRaw": "UNIT AAM High 50 DIVIDEND STRATEgY 2016-4Q",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-03-10",
+      "filedDate": "2017-03-15",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2017/20006909.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000624",
+      "assetRaw": "Carnival Corporation (CCL)",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2016-12-14",
+      "filedDate": "2016-12-21",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2016/20006392.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000624",
+      "assetRaw": "Alphabet Inc. - Class C Capital Stock (gOOg)",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2016-11-14",
+      "filedDate": "2016-11-29",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2016/20006242.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000624",
+      "assetRaw": "American Express Company (AXP)",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2016-11-14",
+      "filedDate": "2016-11-29",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2016/20006242.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000624",
+      "assetRaw": "American Express Company (AXP)",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2016-11-14",
+      "filedDate": "2016-11-29",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2016/20006242.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000624",
+      "assetRaw": "CVS Health Corporation (CVS)",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2016-11-14",
+      "filedDate": "2016-11-29",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2016/20006242.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000624",
+      "assetRaw": "Johnson Controls International plc Ordinary Share (JCI)",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2016-11-14",
+      "filedDate": "2016-11-29",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2016/20006242.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000624",
+      "assetRaw": "NRg Yield, Inc. Class C (NYLD)",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2016-11-14",
+      "filedDate": "2016-11-29",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2016/20006242.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000624",
+      "assetRaw": "Pepsico, Inc. (PEP)",
+      "security": null,
+      "side": "buy",
+      "owner": "joint",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2016-11-14",
+      "filedDate": "2016-11-29",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2016/20006242.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000624",
+      "assetRaw": "Walgreens Boots Alliance, Inc. (WBA)",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2016-11-14",
+      "filedDate": "2016-11-29",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2016/20006242.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000624",
+      "assetRaw": "Starbucks Corporation (SBUX)",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2016-10-25",
+      "filedDate": "2016-11-02",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2016/20006127.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000624",
+      "assetRaw": "Time Warner Inc. New (TWX)",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2016-10-25",
+      "filedDate": "2016-11-02",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2016/20006127.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000624",
+      "assetRaw": "general Electric Company (gE)",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2016-10-24",
+      "filedDate": "2016-11-02",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2016/20006127.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000624",
+      "assetRaw": "Dell Technologies Inc. Class V (DVMT)",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2016-09-15",
+      "filedDate": "2016-09-27",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2016/20005910.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000624",
+      "assetRaw": "Enterprise Products Partners L.P. (EPD)",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2016-08-24",
+      "filedDate": "2016-09-08",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2016/20005824.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000624",
+      "assetRaw": "Carnival Corporation (CCL)",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2016-07-20",
+      "filedDate": "2016-07-28",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2016/20005596.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000624",
+      "assetRaw": "Morgan Stanley Smith Barney Brokerage account The Blackstone group L.P. Common Units Representing Limited Partnership Interests (BX)",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2016-06-22",
+      "filedDate": "2016-06-29",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2016/20005422.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000624",
+      "assetRaw": "abbVie Inc. (aBBV)",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2016-06-22",
+      "filedDate": "2016-06-29",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2016/20005422.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000624",
+      "assetRaw": "Amgen Inc. (AMgN)",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2016-03-21",
+      "filedDate": "2016-03-31",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2016/20004828.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000624",
+      "assetRaw": "Home Depot, Inc. (HD)",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2016-03-21",
+      "filedDate": "2016-03-31",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2016/20004828.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000624",
+      "assetRaw": "Macy's Inc (M)",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2016-03-21",
+      "filedDate": "2016-03-31",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2016/20004828.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000624",
+      "assetRaw": "Time Warner Inc. New (TWX)",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2016-03-21",
+      "filedDate": "2016-03-31",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2016/20004828.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000624",
+      "assetRaw": "Oaktree Capital group, LLC Class A units Representing Limited Liability Company Interests (OAK)",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2016-03-11",
+      "filedDate": "2016-03-15",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2016/20004726.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000624",
+      "assetRaw": "Amgen Inc. (AMgN)",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2016-02-23",
+      "filedDate": "2016-03-02",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2016/20004673.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000624",
+      "assetRaw": "Morgan Stanley Smith Barney LLC IRA (PFE)",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2016-02-23",
+      "filedDate": "2016-03-02",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2016/20004673.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000624",
+      "assetRaw": "Walt Disney Company (DIS)",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2016-02-23",
+      "filedDate": "2016-03-02",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2016/20004673.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000624",
+      "assetRaw": "Alphabet Inc. - Class C Capital Stock (gOOg)",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2016-02-18",
+      "filedDate": "2016-06-29",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2016/20005343.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000624",
+      "assetRaw": "Amazon.com, Inc. (AMZN)",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2016-02-18",
+      "filedDate": "2016-06-29",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2016/20005343.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000624",
+      "assetRaw": "Apple Inc. (AAPL)",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2016-02-18",
+      "filedDate": "2016-06-29",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2016/20005343.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000624",
+      "assetRaw": "CVS Health Corporation (CVS)",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2016-02-18",
+      "filedDate": "2016-06-29",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2016/20005343.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000624",
+      "assetRaw": "Home Depot, Inc. (HD)",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2016-02-18",
+      "filedDate": "2016-06-29",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2016/20005343.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000624",
+      "assetRaw": "Johnson & Johnson (JNJ)",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2016-02-18",
+      "filedDate": "2016-06-29",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2016/20005343.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000624",
+      "assetRaw": "Microsoft Corporation (MSFT)",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2016-02-18",
+      "filedDate": "2016-06-29",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2016/20005343.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000624",
+      "assetRaw": "Time Warner Inc.",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2016-02-18",
+      "filedDate": "2016-06-29",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2016/20005343.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000624",
+      "assetRaw": "Unit AAM High 50 DIV 14-4QS02/16/201602/22/2016$1,001 - $15,000 FILINg STATUS: New Morgan Stanley Smith Barney LLC Brokerage Account LOCATION: US",
+      "security": null,
+      "side": "buy",
+      "owner": "joint",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2016-02-18",
+      "filedDate": "2016-06-29",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2016/20005343.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000624",
+      "assetRaw": "BuRLINgTON NORTHERN SANTA FE LLC",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2016-02-18",
+      "filedDate": "2016-03-01",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2016/20004653.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000624",
+      "assetRaw": "EBAY INCP02/18/201602/22/2016$15,001 - $50,000 FILINg STATuS: New Morgan Stanley Smith Barney LLC IRA",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2016-02-18",
+      "filedDate": "2016-03-01",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2016/20004653.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000624",
+      "assetRaw": "Honeywell International Inc. (HON)",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2016-02-18",
+      "filedDate": "2016-03-01",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2016/20004653.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000624",
+      "assetRaw": "QuALCOMM Incorporated (QCOM)",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2016-02-18",
+      "filedDate": "2016-03-01",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2016/20004653.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000624",
+      "assetRaw": "CVS Health Corporation (CVS)",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2015-12-22",
+      "filedDate": "2016-01-14",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2016/20004381.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000624",
+      "assetRaw": "Comcast Corporation - Class a (CMCSa)",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2015-12-22",
+      "filedDate": "2016-01-14",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2016/20004381.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000624",
+      "assetRaw": "Morgan Stanley Smith Barney LLC Brokerage account Williams Companies, Inc. (WMB)",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2015-12-22",
+      "filedDate": "2016-01-14",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2016/20004381.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000624",
+      "assetRaw": "Caterpillar, Inc. (CaT)",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2015-10-21",
+      "filedDate": "2015-11-03",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2015/20003995.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000624",
+      "assetRaw": "Crown Castle International Corp. (CCI)",
+      "security": null,
+      "side": "buy",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2015-10-21",
+      "filedDate": "2015-11-03",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2015/20003995.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000624",
+      "assetRaw": "International Business Machines Corporation (IBM)",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2015-10-21",
+      "filedDate": "2015-11-03",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2015/20003995.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000624",
+      "assetRaw": "Morgan Stanley Smith Barney Brokerage account Targa Resources Partners LP Common Units Representing Limited Partnership Interests (NgLS)",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2015-10-21",
+      "filedDate": "2015-11-03",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2015/20003995.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000624",
+      "assetRaw": "Freeport-McMoRan, Inc. (FCX)",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2015-09-18",
+      "filedDate": "2015-09-30",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2015/20003845.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000624",
+      "assetRaw": "Morgan Stanley Smith Barney LLC Brokerage account Freeport-McMoRan, Inc. (FCX)",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2015-09-18",
+      "filedDate": "2015-09-30",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2015/20003845.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000624",
+      "assetRaw": "Freeport-McMoRan, Inc. (FCX)",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2015-05-26",
+      "filedDate": "2016-06-29",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2016/20005343.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000624",
+      "assetRaw": "Morgan Stanley Smith Barney Brokerage Account Freeport-McMoRan, Inc. (FCX)",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2015-05-26",
+      "filedDate": "2016-06-29",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2016/20005343.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000624",
+      "assetRaw": "American Express Company (AXP)",
+      "security": null,
+      "side": "buy",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2015-05-19",
+      "filedDate": "2015-06-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2015/20003165.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000624",
+      "assetRaw": "First Trust MLP and Energy Income Fund Common Shares of Beneficial Interest (FEI)",
+      "security": null,
+      "side": "buy",
+      "owner": "joint",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2015-05-19",
+      "filedDate": "2015-06-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2015/20003165.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000624",
+      "assetRaw": "Morgan Stanley Smith Barney LLC IRA Williams Companies, Inc. (WMB)",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2015-05-19",
+      "filedDate": "2015-06-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2015/20003165.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000624",
+      "assetRaw": "general Electric Company (gE)",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2015-04-28",
+      "filedDate": "2015-05-14",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2015/20002625.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    }
+  ],
+  "series": [
+    {
+      "date": "2015-04-28",
+      "value": 8000.5
+    },
+    {
+      "date": "2015-05-19",
+      "value": 8000.5
+    },
+    {
+      "date": "2015-05-19",
+      "value": 32500.5
+    },
+    {
+      "date": "2015-05-19",
+      "value": 8000.5
+    },
+    {
+      "date": "2015-05-26",
+      "value": 8000.5
+    },
+    {
+      "date": "2015-05-26",
+      "value": 8000.5
+    },
+    {
+      "date": "2015-09-18",
+      "value": 8000.5
+    },
+    {
+      "date": "2015-09-18",
+      "value": 8000.5
+    },
+    {
+      "date": "2015-10-21",
+      "value": 8000.5
+    },
+    {
+      "date": "2015-10-21",
+      "value": 8000.5
+    },
+    {
+      "date": "2015-10-21",
+      "value": 8000.5
+    },
+    {
+      "date": "2015-10-21",
+      "value": 8000.5
+    },
+    {
+      "date": "2015-12-22",
+      "value": 32500.5
+    },
+    {
+      "date": "2015-12-22",
+      "value": 32500.5
+    },
+    {
+      "date": "2015-12-22",
+      "value": 8000.5
+    },
+    {
+      "date": "2016-02-18",
+      "value": 32500.5
+    },
+    {
+      "date": "2016-02-18",
+      "value": 32500.5
+    },
+    {
+      "date": "2016-02-18",
+      "value": 8000.5
+    },
+    {
+      "date": "2016-02-18",
+      "value": 32500.5
+    },
+    {
+      "date": "2016-02-18",
+      "value": 32500.5
+    },
+    {
+      "date": "2016-02-18",
+      "value": 32500.5
+    },
+    {
+      "date": "2016-02-18",
+      "value": 8000.5
+    },
+    {
+      "date": "2016-02-18",
+      "value": 32500.5
+    },
+    {
+      "date": "2016-02-18",
+      "value": 32500.5
+    },
+    {
+      "date": "2016-02-18",
+      "value": 32500.5
+    },
+    {
+      "date": "2016-02-18",
+      "value": 8000.5
+    },
+    {
+      "date": "2016-02-18",
+      "value": 32500.5
+    },
+    {
+      "date": "2016-02-18",
+      "value": 32500.5
+    },
+    {
+      "date": "2016-02-23",
+      "value": 32500.5
+    },
+    {
+      "date": "2016-02-23",
+      "value": 32500.5
+    },
+    {
+      "date": "2016-02-23",
+      "value": 32500.5
+    },
+    {
+      "date": "2016-03-11",
+      "value": 32500.5
+    },
+    {
+      "date": "2016-03-21",
+      "value": 8000.5
+    },
+    {
+      "date": "2016-03-21",
+      "value": 8000.5
+    },
+    {
+      "date": "2016-03-21",
+      "value": 32500.5
+    },
+    {
+      "date": "2016-03-21",
+      "value": 32500.5
+    },
+    {
+      "date": "2016-06-22",
+      "value": 8000.5
+    },
+    {
+      "date": "2016-06-22",
+      "value": 8000.5
+    },
+    {
+      "date": "2016-07-20",
+      "value": 8000.5
+    },
+    {
+      "date": "2016-08-24",
+      "value": 8000.5
+    },
+    {
+      "date": "2016-09-15",
+      "value": 8000.5
+    },
+    {
+      "date": "2016-10-24",
+      "value": 8000.5
+    },
+    {
+      "date": "2016-10-25",
+      "value": 32500.5
+    },
+    {
+      "date": "2016-10-25",
+      "value": 32500.5
+    },
+    {
+      "date": "2016-11-14",
+      "value": 32500.5
+    },
+    {
+      "date": "2016-11-14",
+      "value": 8000.5
+    },
+    {
+      "date": "2016-11-14",
+      "value": 32500.5
+    },
+    {
+      "date": "2016-11-14",
+      "value": 32500.5
+    },
+    {
+      "date": "2016-11-14",
+      "value": 32500.5
+    },
+    {
+      "date": "2016-11-14",
+      "value": 8000.5
+    },
+    {
+      "date": "2016-11-14",
+      "value": 32500.5
+    },
+    {
+      "date": "2016-11-14",
+      "value": 32500.5
+    },
+    {
+      "date": "2016-12-14",
+      "value": 32500.5
+    },
+    {
+      "date": "2017-03-10",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-03-10",
+      "value": 32500.5
+    },
+    {
+      "date": "2017-03-10",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-03-15",
+      "value": 32500.5
+    },
+    {
+      "date": "2017-03-16",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-03-16",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-05-17",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-05-17",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-07-10",
+      "value": 32500.5
+    },
+    {
+      "date": "2017-07-10",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-08-14",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-08-14",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-09-19",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-10-18",
+      "value": 32500.5
+    },
+    {
+      "date": "2017-10-18",
+      "value": 32500.5
+    },
+    {
+      "date": "2017-11-15",
+      "value": 32500.5
+    },
+    {
+      "date": "2018-01-26",
+      "value": 32500.5
+    },
+    {
+      "date": "2018-01-26",
+      "value": 8000.5
+    },
+    {
+      "date": "2018-02-22",
+      "value": 8000.5
+    },
+    {
+      "date": "2018-02-22",
+      "value": 8000.5
+    },
+    {
+      "date": "2018-02-22",
+      "value": 8000.5
+    },
+    {
+      "date": "2018-03-16",
+      "value": 8000.5
+    },
+    {
+      "date": "2018-04-09",
+      "value": 8000.5
+    },
+    {
+      "date": "2018-04-20",
+      "value": 32500.5
+    },
+    {
+      "date": "2018-04-20",
+      "value": 32500.5
+    },
+    {
+      "date": "2018-04-26",
+      "value": 32500.5
+    },
+    {
+      "date": "2018-05-08",
+      "value": 32500.5
+    },
+    {
+      "date": "2018-05-08",
+      "value": 8000.5
+    },
+    {
+      "date": "2018-05-23",
+      "value": 32500.5
+    },
+    {
+      "date": "2018-05-23",
+      "value": 32500.5
+    },
+    {
+      "date": "2018-06-04",
+      "value": 32500.5
+    },
+    {
+      "date": "2018-06-04",
+      "value": 8000.5
+    },
+    {
+      "date": "2018-07-12",
+      "value": 8000.5
+    },
+    {
+      "date": "2018-07-26",
+      "value": 32500.5
+    },
+    {
+      "date": "2018-07-26",
+      "value": 32500.5
+    },
+    {
+      "date": "2018-07-30",
+      "value": 32500.5
+    },
+    {
+      "date": "2018-07-30",
+      "value": 8000.5
+    },
+    {
+      "date": "2018-08-14",
+      "value": 8000.5
+    },
+    {
+      "date": "2018-08-21",
+      "value": 32500.5
+    },
+    {
+      "date": "2018-09-11",
+      "value": 32500.5
+    },
+    {
+      "date": "2018-10-01",
+      "value": 32500.5
+    },
+    {
+      "date": "2018-10-02",
+      "value": 32500.5
+    },
+    {
+      "date": "2018-10-24",
+      "value": 32500.5
+    },
+    {
+      "date": "2018-10-24",
+      "value": 32500.5
+    },
+    {
+      "date": "2018-10-24",
+      "value": 32500.5
+    },
+    {
+      "date": "2018-10-31",
+      "value": 32500.5
+    },
+    {
+      "date": "2018-11-01",
+      "value": 8000.5
+    },
+    {
+      "date": "2018-11-01",
+      "value": 8000.5
+    },
+    {
+      "date": "2018-11-08",
+      "value": 32500.5
+    },
+    {
+      "date": "2018-11-27",
+      "value": 32500.5
+    },
+    {
+      "date": "2018-12-19",
+      "value": 75000.5
+    },
+    {
+      "date": "2018-12-19",
+      "value": 32500.5
+    },
+    {
+      "date": "2018-12-19",
+      "value": 32500.5
+    },
+    {
+      "date": "2018-12-19",
+      "value": 32500.5
+    },
+    {
+      "date": "2019-01-02",
+      "value": 32500.5
+    },
+    {
+      "date": "2019-03-25",
+      "value": 8000.5
+    },
+    {
+      "date": "2019-03-25",
+      "value": 32500.5
+    },
+    {
+      "date": "2019-03-25",
+      "value": 8000.5
+    },
+    {
+      "date": "2019-03-25",
+      "value": 32500.5
+    },
+    {
+      "date": "2019-03-25",
+      "value": 32500.5
+    },
+    {
+      "date": "2019-03-27",
+      "value": 32500.5
+    },
+    {
+      "date": "2019-04-01",
+      "value": 32500.5
+    },
+    {
+      "date": "2019-04-01",
+      "value": 32500.5
+    },
+    {
+      "date": "2019-04-01",
+      "value": 32500.5
+    },
+    {
+      "date": "2019-04-01",
+      "value": 32500.5
+    },
+    {
+      "date": "2019-05-14",
+      "value": 8000.5
+    },
+    {
+      "date": "2019-05-14",
+      "value": 8000.5
+    },
+    {
+      "date": "2019-06-17",
+      "value": 32500.5
+    },
+    {
+      "date": "2019-11-01",
+      "value": 8000.5
+    },
+    {
+      "date": "2019-11-01",
+      "value": 32500.5
+    },
+    {
+      "date": "2019-11-01",
+      "value": 32500.5
+    },
+    {
+      "date": "2019-11-01",
+      "value": 32500.5
+    },
+    {
+      "date": "2019-11-01",
+      "value": 32500.5
+    },
+    {
+      "date": "2019-11-06",
+      "value": 32500.5
+    },
+    {
+      "date": "2020-01-02",
+      "value": 75000.5
+    },
+    {
+      "date": "2020-08-20",
+      "value": 32500.5
+    },
+    {
+      "date": "2020-08-20",
+      "value": 32500.5
+    },
+    {
+      "date": "2020-08-20",
+      "value": 8000.5
+    },
+    {
+      "date": "2020-10-13",
+      "value": 32500.5
+    },
+    {
+      "date": "2020-10-13",
+      "value": 32500.5
+    },
+    {
+      "date": "2020-10-13",
+      "value": 75000.5
+    },
+    {
+      "date": "2020-12-31",
+      "value": 32500.5
+    },
+    {
+      "date": "2020-12-31",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-01-29",
+      "value": 32500.5
+    },
+    {
+      "date": "2021-03-02",
+      "value": 32500.5
+    },
+    {
+      "date": "2021-03-17",
+      "value": 32500.5
+    },
+    {
+      "date": "2021-03-24",
+      "value": 32500.5
+    },
+    {
+      "date": "2021-04-22",
+      "value": 32500.5
+    },
+    {
+      "date": "2021-05-20",
+      "value": 32500.5
+    },
+    {
+      "date": "2021-06-18",
+      "value": 75000.5
+    },
+    {
+      "date": "2021-06-18",
+      "value": 32500.5
+    },
+    {
+      "date": "2021-06-18",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-12-01",
+      "value": 32500.5
+    },
+    {
+      "date": "2021-12-01",
+      "value": 32500.5
+    },
+    {
+      "date": "2021-12-01",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-04-18",
+      "value": 32500.5
+    },
+    {
+      "date": "2022-05-16",
+      "value": 32500.5
+    },
+    {
+      "date": "2022-05-31",
+      "value": 32500.5
+    },
+    {
+      "date": "2022-08-03",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-11-29",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-12-19",
+      "value": 32500.5
+    },
+    {
+      "date": "2022-12-19",
+      "value": 8000.5
+    },
+    {
+      "date": "2023-01-12",
+      "value": 8000.5
+    },
+    {
+      "date": "2023-03-03",
+      "value": 32500.5
+    },
+    {
+      "date": "2023-03-08",
+      "value": 32500.5
+    },
+    {
+      "date": "2023-04-10",
+      "value": 32500.5
+    },
+    {
+      "date": "2023-04-10",
+      "value": 32500.5
+    },
+    {
+      "date": "2023-12-05",
+      "value": 32500.5
+    },
+    {
+      "date": "2024-02-09",
+      "value": 75000.5
+    },
+    {
+      "date": "2024-05-01",
+      "value": 75000.5
+    },
+    {
+      "date": "2024-05-01",
+      "value": 32500.5
+    },
+    {
+      "date": "2024-06-12",
+      "value": 8000.5
+    },
+    {
+      "date": "2024-06-12",
+      "value": 32500.5
+    },
+    {
+      "date": "2024-06-13",
+      "value": 32500.5
+    },
+    {
+      "date": "2024-11-01",
+      "value": 75000.5
+    },
+    {
+      "date": "2025-01-15",
+      "value": 175000.5
+    },
+    {
+      "date": "2025-01-15",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-03-27",
+      "value": 32500.5
+    },
+    {
+      "date": "2025-03-28",
+      "value": 32500.5
+    },
+    {
+      "date": "2025-11-24",
+      "value": 32500.5
+    },
+    {
+      "date": "2025-11-24",
+      "value": 75000.5
+    },
+    {
+      "date": "2025-11-24",
+      "value": 32500.5
+    },
+    {
+      "date": "2025-11-24",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-04-21",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-04-21",
+      "value": 32500.5
+    },
+    {
+      "date": "2026-05-26",
+      "value": 75000.5
+    },
+    {
+      "date": "2026-07-14",
+      "value": 32500.5
+    },
+    {
+      "date": "2026-07-14",
+      "value": 32500.5
+    }
+  ],
+  "measured": null
+}

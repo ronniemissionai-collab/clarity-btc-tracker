@@ -1,0 +1,75 @@
+{
+  "member": {
+    "bioguideId": "M001210",
+    "name": "Gregory F. Murphy",
+    "party": "R",
+    "chamber": "house",
+    "state": "NC",
+    "district": "NC-03",
+    "active": true
+  },
+  "positions": [],
+  "trades": [
+    {
+      "memberId": "M001210",
+      "assetRaw": "Condominium - Raleigh, NC [OT]",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 250001,
+        "hi": 500000
+      },
+      "transactionDate": "2022-05-01",
+      "filedDate": "2022-06-08",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021171.pdf",
+      "late": false,
+      "note": "Rental real estate",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001210",
+      "assetRaw": "Nymox Pharmaceutical Corporation",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2021-01-22",
+      "filedDate": "2021-02-12",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20016924.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001210",
+      "assetRaw": "Medical Bond Redemption [CS]",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2019-10-23",
+      "filedDate": "2019-11-03",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20012542.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    }
+  ],
+  "series": [
+    {
+      "date": "2019-10-23",
+      "value": 75000.5
+    },
+    {
+      "date": "2021-01-22",
+      "value": 75000.5
+    },
+    {
+      "date": "2022-05-01",
+      "value": 375000.5
+    }
+  ],
+  "measured": null
+}

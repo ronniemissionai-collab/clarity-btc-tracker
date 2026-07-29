@@ -1,0 +1,37 @@
+{
+  "member": {
+    "bioguideId": "J000312",
+    "lisId": "S437",
+    "name": "James C. Justice",
+    "party": "R",
+    "chamber": "senate",
+    "state": "WV",
+    "active": true
+  },
+  "positions": [],
+  "trades": [
+    {
+      "memberId": "J000312",
+      "assetRaw": "Peoples Bancorp Inc. - Common Stock",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 250001,
+        "hi": 500000
+      },
+      "transactionDate": "2025-08-28",
+      "filedDate": "2025-10-10",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/8ee74188-75a9-4289-b6bd-5ccb94fd6b18/",
+      "late": false,
+      "provenance": "kadoa"
+    }
+  ],
+  "series": [
+    {
+      "date": "2025-08-28",
+      "value": 375000.5
+    }
+  ],
+  "measured": null
+}

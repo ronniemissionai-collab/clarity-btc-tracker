@@ -1,0 +1,57 @@
+{
+  "member": {
+    "bioguideId": "P000607",
+    "name": "Mark Pocan",
+    "party": "D",
+    "chamber": "house",
+    "state": "WI",
+    "district": "WI-02",
+    "active": true
+  },
+  "positions": [],
+  "trades": [
+    {
+      "memberId": "P000607",
+      "assetRaw": "US Treasury I Bond [GS]",
+      "security": null,
+      "side": "buy",
+      "owner": "joint",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2023-01-21",
+      "filedDate": "2024-03-28",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/20024758.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000607",
+      "assetRaw": "US Treasury I Bond [GS]",
+      "security": null,
+      "side": "buy",
+      "owner": "joint",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2022-03-30",
+      "filedDate": "2024-03-28",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/20024758.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    }
+  ],
+  "series": [
+    {
+      "date": "2022-03-30",
+      "value": 32500.5
+    },
+    {
+      "date": "2023-01-21",
+      "value": 32500.5
+    }
+  ],
+  "measured": null
+}

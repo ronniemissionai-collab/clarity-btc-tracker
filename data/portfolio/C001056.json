@@ -1,0 +1,80 @@
+{
+  "member": {
+    "bioguideId": "C001056",
+    "lisId": "S287",
+    "name": "John Cornyn",
+    "party": "R",
+    "chamber": "senate",
+    "state": "TX",
+    "active": true
+  },
+  "positions": [
+    {
+      "memberId": "C001056",
+      "security": {
+        "ticker": "NASDAQ",
+        "kind": "other"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "status": "stale",
+      "asOf": "2015-08-21",
+      "extraction": "efd-html",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://efdsearch.senate.gov/search/view/ptr/95d27bf4-c3fc-4251-9f43-72b9a2112351/"
+        }
+      ]
+    }
+  ],
+  "trades": [
+    {
+      "memberId": "C001056",
+      "assetRaw": "Apple Inc.",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2017-02-01",
+      "filedDate": "2017-02-24",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/3c3b5ad6-91be-4cd0-9c18-fbeab62cb0fd/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "C001056",
+      "assetRaw": "Apple Inc. (NASDAQ)",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2015-08-21",
+      "filedDate": "2015-09-21",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/95d27bf4-c3fc-4251-9f43-72b9a2112351/",
+      "late": false,
+      "provenance": "kadoa"
+    }
+  ],
+  "series": [
+    {
+      "date": "2015-08-21",
+      "value": 32500.5
+    },
+    {
+      "date": "2017-02-01",
+      "value": 32500.5
+    }
+  ],
+  "measured": null
+}

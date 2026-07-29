@@ -1,0 +1,57 @@
+{
+  "member": {
+    "bioguideId": "M000871",
+    "name": "Tracey Mann",
+    "party": "R",
+    "chamber": "house",
+    "state": "KS",
+    "district": "KS-01",
+    "active": true
+  },
+  "positions": [],
+  "trades": [
+    {
+      "memberId": "M000871",
+      "assetRaw": "TripleBlind [PS]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2024-04-04",
+      "filedDate": "2024-04-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/20024810.pdf",
+      "late": false,
+      "note": "TripleBlind is a privately held software company.",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M000871",
+      "assetRaw": "Redeem Technologies [PS]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2023-05-25",
+      "filedDate": "2023-05-26",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20022801.pdf",
+      "late": false,
+      "note": "Redeem Technologies is a privately held Web3 company.",
+      "provenance": "kadoa"
+    }
+  ],
+  "series": [
+    {
+      "date": "2023-05-25",
+      "value": 32500.5
+    },
+    {
+      "date": "2024-04-04",
+      "value": 32500.5
+    }
+  ],
+  "measured": null
+}

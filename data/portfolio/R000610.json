@@ -1,0 +1,165 @@
+{
+  "member": {
+    "bioguideId": "R000610",
+    "name": "Guy Reschenthaler",
+    "party": "R",
+    "chamber": "house",
+    "state": "PA",
+    "district": "PA-14",
+    "active": true,
+    "note": "Sold at least part of his direct BTC on 2025-04-24."
+  },
+  "positions": [
+    {
+      "memberId": "R000610",
+      "security": {
+        "ticker": "BTC",
+        "kind": "direct"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "sold",
+      "asOf": "2025-04-24",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20026547.pdf"
+        },
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030237.pdf"
+        }
+      ]
+    }
+  ],
+  "trades": [
+    {
+      "memberId": "R000610",
+      "assetRaw": "SOL (Solana) [CT]",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-05-12",
+      "filedDate": "2025-05-20",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030371.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000610",
+      "assetRaw": "Bitcoin",
+      "security": {
+        "ticker": "BTC",
+        "kind": "direct"
+      },
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-04-24",
+      "filedDate": "2025-04-29",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030237.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000610",
+      "assetRaw": "Ripple",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-04-24",
+      "filedDate": "2025-04-29",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030237.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000610",
+      "assetRaw": "BTC (Bitcoin)",
+      "security": {
+        "ticker": "BTC",
+        "kind": "direct"
+      },
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2024-12-23",
+      "filedDate": "2025-01-09",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20026547.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000610",
+      "assetRaw": "SOL (Solana)",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2024-12-11",
+      "filedDate": "2025-01-09",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20026547.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000610",
+      "assetRaw": "XRP (Ripple)",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2024-12-11",
+      "filedDate": "2025-01-09",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20026547.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    }
+  ],
+  "series": [
+    {
+      "date": "2024-12-11",
+      "value": 8000.5
+    },
+    {
+      "date": "2024-12-11",
+      "value": 8000.5
+    },
+    {
+      "date": "2024-12-23",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-04-24",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-04-24",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-05-12",
+      "value": 8000.5
+    }
+  ],
+  "measured": null
+}

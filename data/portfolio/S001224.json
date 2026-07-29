@@ -1,0 +1,117 @@
+{
+  "member": {
+    "bioguideId": "S001224",
+    "name": "Keith Self",
+    "party": "R",
+    "chamber": "house",
+    "state": "TX",
+    "district": "TX-03",
+    "active": true
+  },
+  "positions": [],
+  "trades": [
+    {
+      "memberId": "S001224",
+      "assetRaw": "AT&T Inc",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-01-10",
+      "filedDate": "2026-06-30",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116197.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S001224",
+      "assetRaw": "Genuine Parts Co",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-01-10",
+      "filedDate": "2026-06-30",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116197.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S001224",
+      "assetRaw": "Merck & Co, Inc",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-01-10",
+      "filedDate": "2026-06-30",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116197.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S001224",
+      "assetRaw": "NVIDIA Corp",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-01-10",
+      "filedDate": "2026-06-30",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116197.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S001224",
+      "assetRaw": "Pepsico INC",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-01-10",
+      "filedDate": "2026-06-30",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116197.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    }
+  ],
+  "series": [
+    {
+      "date": "2025-01-10",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-01-10",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-01-10",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-01-10",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-01-10",
+      "value": 8000.5
+    }
+  ],
+  "measured": null
+}

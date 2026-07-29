@@ -1,0 +1,6621 @@
+{
+  "member": {
+    "bioguideId": "R000609",
+    "name": "John H. Rutherford",
+    "party": "R",
+    "chamber": "house",
+    "state": "FL",
+    "district": "FL-05",
+    "active": true
+  },
+  "positions": [
+    {
+      "memberId": "R000609",
+      "security": {
+        "ticker": "NTTYY",
+        "kind": "other"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 2002,
+        "hi": 30000
+      },
+      "status": "stale",
+      "asOf": "2018-07-26",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20009815.pdf"
+        }
+      ]
+    },
+    {
+      "memberId": "R000609",
+      "security": {
+        "ticker": "SKHHY",
+        "kind": "other"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "stale",
+      "asOf": "2017-07-11",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20009815.pdf"
+        }
+      ]
+    }
+  ],
+  "trades": [
+    {
+      "memberId": "R000609",
+      "assetRaw": "Sunshine Group Partners, 4% Interest [OL]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2023-04-28",
+      "filedDate": "2023-05-25",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20023026.pdf",
+      "late": false,
+      "note": "Purchased ownership stock in Sunshine Group Partners",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "Dow Inc.",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-03-23",
+      "filedDate": "2022-04-19",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020828.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "DNB ASA SP/ADR",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-03-16",
+      "filedDate": "2023-08-02",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20023426.pdf",
+      "late": true,
+      "note": "Filing Status: Amended\nSubholding Of: West End Traditional IRA\nComments: Asset was transferred from old IRA account to West End Traditional IRA and then sold. The use of the ticker symbol DNHBY in reporting this transaction was a data entry error. The correct ticker symbol is DNBBY. DNBBY is OTC stock, and was previously not listed in the system’s stock catalog.",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "NN GROUP NV UNSP/ADR",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-03-16",
+      "filedDate": "2023-08-02",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20023426.pdf",
+      "late": true,
+      "note": "Filing Status: Amended\nSubholding Of: West End Traditional IRA\nComments: Asset was transferred from old IRA account to West End Traditional IRA and then sold. The use of the ticker symbol NNGPF in reporting this transaction was a data entry error. The correct ticker symbol is NNGRY. NNGRY is OTC stock, and was previously not listed in the system’s stock catalog.",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "3i Group Plc Unsponsored ADR",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-03-16",
+      "filedDate": "2022-04-19",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020828.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "AB Volvo Class B American Depositary Receipts",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-03-16",
+      "filedDate": "2022-04-19",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020828.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "ASE Technology Holding Co., Ltd. American Depositary Shares",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-03-16",
+      "filedDate": "2022-04-19",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020828.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "AbbVie Inc.",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-03-16",
+      "filedDate": "2022-04-19",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020828.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "Altria Group, Inc.",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-03-16",
+      "filedDate": "2022-04-19",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020828.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "Arthur J. Gallagher & Co.",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-03-16",
+      "filedDate": "2022-04-19",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020828.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "BCE, Inc.",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-03-16",
+      "filedDate": "2022-04-19",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020828.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "BNP Paribas American Depositary Shares",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-03-16",
+      "filedDate": "2022-04-19",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020828.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "BlackRock, Inc.",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-03-16",
+      "filedDate": "2022-04-19",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020828.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "Bristol-Myers Squibb Company",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-03-16",
+      "filedDate": "2022-04-19",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020828.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "British American Tobacco Industries, p.l.c. Common Stock ADR",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-03-16",
+      "filedDate": "2022-04-19",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020828.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "Britvic plc Sponsored ADR",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-03-16",
+      "filedDate": "2022-04-19",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020828.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "Broadcom Inc.",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-03-16",
+      "filedDate": "2022-04-19",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020828.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "CVS Health Corporation",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-03-16",
+      "filedDate": "2022-04-19",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020828.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "Caterpillar, Inc.",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-03-16",
+      "filedDate": "2022-04-19",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020828.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "Celanese Corporation Celanese Corporation",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2022-03-16",
+      "filedDate": "2022-04-19",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020828.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "Chevron Corporation",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-03-16",
+      "filedDate": "2022-04-19",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020828.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "Compagnie de Saint Gobain Unsponsored ADR",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-03-16",
+      "filedDate": "2022-04-19",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020828.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "Crown Castle International Corp.",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-03-16",
+      "filedDate": "2022-04-19",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020828.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "DNB ASA SPONSORED ADR Representing 10",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-03-16",
+      "filedDate": "2022-04-19",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020828.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "Deutsche Post AG Sponsored ADR",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-03-16",
+      "filedDate": "2022-04-19",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020828.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "Deutsche Telekom AG",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-03-16",
+      "filedDate": "2022-04-19",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020828.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "Eastman Chemical Company",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-03-16",
+      "filedDate": "2022-04-19",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020828.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "Enel Societa Per Azioni Unsponsored ADR",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-03-16",
+      "filedDate": "2022-04-19",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020828.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "Evergy, Inc.",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-03-16",
+      "filedDate": "2022-04-19",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020828.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "Exxon Mobil Corporation",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-03-16",
+      "filedDate": "2022-04-19",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020828.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "FNF Group of Fidelity National Financial, Inc.",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-03-16",
+      "filedDate": "2022-04-19",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020828.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "Fifth Third Bancorp",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-03-16",
+      "filedDate": "2022-04-19",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020828.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "General Dynamics Corporation",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-03-16",
+      "filedDate": "2022-04-19",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020828.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "HP Inc.",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-03-16",
+      "filedDate": "2022-04-19",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020828.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "Healthpeak Properties, Inc.",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-03-16",
+      "filedDate": "2022-04-19",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020828.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "Home Depot, Inc.",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-03-16",
+      "filedDate": "2022-04-19",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020828.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "Iberdrola Sa Sponsored ADR",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-03-16",
+      "filedDate": "2022-04-19",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020828.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "Intel Corporation",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-03-16",
+      "filedDate": "2022-04-19",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020828.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "Johnson & Johnson",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-03-16",
+      "filedDate": "2022-04-19",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020828.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "KeyCorp",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-03-16",
+      "filedDate": "2022-04-19",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020828.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "Kinder Morgan, Inc.",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-03-16",
+      "filedDate": "2022-04-19",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020828.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "McDonald's Corporation",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-03-16",
+      "filedDate": "2022-04-19",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020828.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "Medtronic plc. Ordinary Shares",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-03-16",
+      "filedDate": "2022-04-19",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020828.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "Merck & Company, Inc. Common Stock",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-03-16",
+      "filedDate": "2022-04-19",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020828.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "MetLife, Inc.",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-03-16",
+      "filedDate": "2022-04-19",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020828.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "Michelin Compagnie Generale des Etablissements Michelin Unsponsored ADR representing Nom Shares",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-03-16",
+      "filedDate": "2022-04-19",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020828.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "Mondelez International, Inc. - Class A",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-03-16",
+      "filedDate": "2022-04-19",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020828.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "Muenchener Re Group AG Unsponsored ADR",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-03-16",
+      "filedDate": "2022-04-19",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020828.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "NN Group NV Ordinary Shares",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-03-16",
+      "filedDate": "2022-04-19",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020828.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "Nestle SA Sponsored ADR representing Registered Shares Series B",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-03-16",
+      "filedDate": "2022-04-19",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020828.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "Nippon Telegraph and Telephone Corporation",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-03-16",
+      "filedDate": "2022-04-19",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020828.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "Novartis AG",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-03-16",
+      "filedDate": "2022-04-19",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020828.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "PNC Financial Services Group, Inc.",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-03-16",
+      "filedDate": "2022-04-19",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020828.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "Pepsico, Inc.",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-03-16",
+      "filedDate": "2022-04-19",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020828.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "Persimmon Plc Unsponsored ADR",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-03-16",
+      "filedDate": "2022-04-19",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020828.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "Philip Morris International Inc",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-03-16",
+      "filedDate": "2022-04-19",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020828.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "Power Corp of Canada Ordinary Shares",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-03-16",
+      "filedDate": "2022-04-19",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020828.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "ProLogis, Inc.",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-03-16",
+      "filedDate": "2022-04-19",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020828.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "Procter & Gamble Company",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-03-16",
+      "filedDate": "2022-04-19",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020828.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "Prudential Financial, Inc.",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-03-16",
+      "filedDate": "2022-04-19",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020828.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "Public Service Enterprise Group Incorporated",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-03-16",
+      "filedDate": "2022-04-19",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020828.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "Raytheon Technologies Corporation",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-03-16",
+      "filedDate": "2022-04-19",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020828.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "Rio Tinto Plc",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-03-16",
+      "filedDate": "2022-04-19",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020828.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "Roche Holdings AG Basel American Depositary Shares",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-03-16",
+      "filedDate": "2022-04-19",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020828.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "Sanofi - American Depositary Shares",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-03-16",
+      "filedDate": "2022-04-19",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020828.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "Siemens AG American Depositary Shares",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-03-16",
+      "filedDate": "2022-04-19",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020828.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "Smurfit Kappa Group Plc American Depositary Shares",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-03-16",
+      "filedDate": "2022-04-19",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020828.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "Softbank Corp Unsponsored ADR",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-03-16",
+      "filedDate": "2022-04-19",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020828.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "Sonic Healthcare Ltd Unsponsored ADR",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-03-16",
+      "filedDate": "2022-04-19",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020828.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "Southern Company",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-03-16",
+      "filedDate": "2022-04-19",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020828.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "Svenska Handelsbanken Unsponsored ADR representing A Shares",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-03-16",
+      "filedDate": "2022-04-19",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020828.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "Tesco Plc Ord American Depositary Shares",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-03-16",
+      "filedDate": "2022-04-19",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020828.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "The Bank of New York Mellon Corporation",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-03-16",
+      "filedDate": "2022-04-19",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020828.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "Tokio Marine Holdings, Inc. Sponsored ADR",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-03-16",
+      "filedDate": "2022-04-19",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020828.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "TotalEnergies SE",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-03-16",
+      "filedDate": "2022-04-19",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020828.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "Toyota Motor Corporation",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-03-16",
+      "filedDate": "2022-04-19",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020828.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "Truist Financial Corporation",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-03-16",
+      "filedDate": "2022-04-19",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020828.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "Tyson Foods, Inc.",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-03-16",
+      "filedDate": "2022-04-19",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020828.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "UGI Corporation",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-03-16",
+      "filedDate": "2022-04-19",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020828.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "United Overseas Bk Singapore American Depositary Shares",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-03-16",
+      "filedDate": "2022-04-19",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020828.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "Upm Kymmene Corp Ordinary Shares",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-03-16",
+      "filedDate": "2022-04-19",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020828.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "VALE S.A. American Depositary Shares Each Representing one common share",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-03-16",
+      "filedDate": "2022-04-19",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020828.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "Verizon Communications Inc.",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-03-16",
+      "filedDate": "2022-04-19",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020828.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "W. P. Carey Inc. REIT",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-03-16",
+      "filedDate": "2022-04-19",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020828.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "Walmart Inc.",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-03-16",
+      "filedDate": "2022-04-19",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020828.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "Zurich Insurance Group Limited Sponsored American Depositary Shares",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-03-16",
+      "filedDate": "2022-04-19",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020828.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "Allianz SE ADS",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-03-10",
+      "filedDate": "2022-04-08",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020753.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "National Financial Services/Fidelity - Premiere Select IRA Int'l TotalEnergies SE",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-03-03",
+      "filedDate": "2022-04-08",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020753.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "National Financial Services/Fidelity - Premiere Select IRA Int'l Rio Tinto Plc",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-03-01",
+      "filedDate": "2022-04-08",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020753.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "National Financial Services/Fidelity - Premiere Select IRA Domestic Raytheon Technologies Corporation",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-02-24",
+      "filedDate": "2022-03-16",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020629.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "National Financial Services/Fidelity - Premiere Select IRA Domestic Amcor plc Ordinary Shares",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-02-17",
+      "filedDate": "2022-03-16",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020629.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "National Financial Services/Fidelity - Premiere Select IRA Domestic Amgen Inc. (AMgN) [ST]",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-02-17",
+      "filedDate": "2022-03-16",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020629.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "National Financial Services/Fidelity - Premiere Select IRA Domestic Corteva, Inc.",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-02-17",
+      "filedDate": "2022-03-16",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020629.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "National Financial Services/Fidelity - Premiere Select IRA Domestic Dow Inc.",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-02-17",
+      "filedDate": "2022-03-16",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020629.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "National Financial Services/Fidelity - Premiere Select IRA Domestic Evergy, Inc. (EVRg) [ST]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-02-17",
+      "filedDate": "2022-03-16",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020629.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "National Financial Services/Fidelity - Premiere Select IRA Domestic Home Depot, Inc.",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-02-17",
+      "filedDate": "2022-03-16",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020629.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "National Financial Services/Fidelity - Premiere Select IRA Domestic Phillips 66",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-02-17",
+      "filedDate": "2022-03-16",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020629.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "National Financial Services/Fidelity - Premiere Select IRA Domestic Power Corp of Canada Ordinary Shares",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-02-17",
+      "filedDate": "2022-03-16",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020629.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "National Financial Services/Fidelity - Premiere Select IRA Domestic Stock: DNbbY [OT]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-02-17",
+      "filedDate": "2022-03-16",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020629.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "National Financial Services/Fidelity - Premiere Select IRA Domestic Thomson Reuters Corp Ordinary Shares",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-02-17",
+      "filedDate": "2022-03-16",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020629.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "National Financial Services/Fidelity - Premiere Select IRA Domestic Toyota Motor Corporation",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-02-17",
+      "filedDate": "2022-03-16",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020629.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "National Financial Services/Fidelity - Premiere Select IRA Domestic VAlE S.A. American Depositary Shares Each Representing one common share (VAlE) [ST]",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-02-17",
+      "filedDate": "2022-03-16",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020629.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "National Financial Services/Fidelity - Premiere Select IRA Domestic bCE, Inc. (bCE) [ST]",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-02-17",
+      "filedDate": "2022-03-16",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020629.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "National Financial Services/Fidelity - Premiere Select IRA Domestic glaxoSmithKline PlC (gSK) [ST]",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-02-17",
+      "filedDate": "2022-03-16",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020629.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "National Financial Services/Fidelity - Premiere Select IRA Domestic las Vegas Sands Corp. (lVS) [ST]",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-02-17",
+      "filedDate": "2022-03-16",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020629.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "National Financial Services/Fidelity - Premiere Select IRA Domestic ugI Corporation (ugI) [ST]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-02-17",
+      "filedDate": "2022-03-16",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020629.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "National Financial Services/Fidelity - Premiere Select IRA Int'l AFlAC Incorporated (AFl) [ST]",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-02-17",
+      "filedDate": "2022-03-16",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020629.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "National Financial Services/Fidelity - Premiere Select IRA Int'l Ab Volvo Class b American Depositary Receipts (VOlVY) [ST]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-02-17",
+      "filedDate": "2022-03-16",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020629.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "National Financial Services/Fidelity - Premiere Select IRA Int'l Abb ltd (Abb) [ST]",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-02-17",
+      "filedDate": "2022-03-16",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020629.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "National Financial Services/Fidelity - Premiere Select IRA Int'l Chevron Corporation",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-02-17",
+      "filedDate": "2022-03-16",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020629.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "National Financial Services/Fidelity - Premiere Select IRA Int'l Healthpeak Properties, Inc.",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-02-17",
+      "filedDate": "2022-03-16",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020629.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "National Financial Services/Fidelity - Premiere Select IRA Int'l Manulife Financial Corporation",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-02-17",
+      "filedDate": "2022-03-16",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020629.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "National Financial Services/Fidelity - Premiere Select IRA Int'l McDonald's Corporation",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-02-17",
+      "filedDate": "2022-03-16",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020629.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "National Financial Services/Fidelity - Premiere Select IRA Int'l Pfizer, Inc.",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-02-17",
+      "filedDate": "2022-03-16",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020629.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "National Financial Services/Fidelity - Premiere Select IRA Int'l Procter & gamble Company (Pg) [ST]",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-02-17",
+      "filedDate": "2022-03-16",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020629.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "National Financial Services/Fidelity - Premiere Select IRA Int'l The bank of New York Mellon Corporation (bK) [ST]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-02-17",
+      "filedDate": "2022-03-16",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020629.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "National Financial Services/Fidelity - Premiere Select IRA Int'l british American Tobacco Industries, p.l.c. Common Stock ADR (bTI) [ST]",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-02-17",
+      "filedDate": "2022-03-16",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020629.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "National Financial Services/Fidelity - Premiere Select IRA Int'l u.S. bancorp (uSb) [ST]",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-02-17",
+      "filedDate": "2022-03-16",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020629.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "ON ADR EACH REP 1 ORD SHS) -- was not in stock catalog Tesco Plc Ord American Depositary Shares",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-02-17",
+      "filedDate": "2022-03-16",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020629.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "onsored ADR (TgOPY) [ST]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-02-17",
+      "filedDate": "2022-03-16",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020629.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "onsored ADR (XYIgY) [ST]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-02-17",
+      "filedDate": "2022-03-16",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020629.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "onsored ADR representing Nom Shares (MgDDY) [ST]",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-02-17",
+      "filedDate": "2022-03-16",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020629.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "National Financial Services/Fidelity - Premiere Select IRA Domestic Norwegian Cruise line Holdings ltd. Ordinary Shares (NClH) [ST]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2021-03-01",
+      "filedDate": "2021-03-08",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20018350.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "National Financial Services/Fidelity - Premiere Select IRA Domestic Comcast Corporation - Class A",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-02-23",
+      "filedDate": "2021-11-19",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019858.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "AT&T Inc.",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-02-23",
+      "filedDate": "2021-03-08",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20018350.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "National Financial Services/Fidelity - Premiere Select IRA Domestic BAE SYSTEMS plc Sponsored ADR",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-02-23",
+      "filedDate": "2021-03-08",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20018350.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "National Financial Services/Fidelity - Premiere Select IRA Domestic Cisco Systems, Inc.",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-02-23",
+      "filedDate": "2021-03-08",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20018350.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "National Financial Services/Fidelity - Premiere Select IRA Domestic Coca-Cola Company",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-02-23",
+      "filedDate": "2021-03-08",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20018350.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "National Financial Services/Fidelity - Premiere Select IRA Domestic ConocoPhillips",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-02-23",
+      "filedDate": "2021-03-08",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20018350.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "National Financial Services/Fidelity - Premiere Select IRA Domestic JP Morgan Chase & Co.",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-02-23",
+      "filedDate": "2021-03-08",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20018350.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "National Financial Services/Fidelity - Premiere Select IRA Domestic Microsoft Corporation",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-02-23",
+      "filedDate": "2021-03-08",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20018350.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "National Financial Services/Fidelity - Premiere Select IRA Domestic lockheed Martin Corporation (lMT) [ST]",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-02-23",
+      "filedDate": "2021-03-08",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20018350.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "National Financial Services/Fidelity - Premiere Select IRA Int'l Bank of America Corporation",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-02-23",
+      "filedDate": "2021-03-08",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20018350.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "National Financial Services/Fidelity - Premiere Select IRA Int'l Wells Fargo & Company",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-02-23",
+      "filedDate": "2021-03-08",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20018350.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "National Financial Services/Fidelity - Premiere Select IRA Int'l uBS group Ag Registered Ordinary Shares (uBS) [ST]",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-02-23",
+      "filedDate": "2021-03-08",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20018350.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "National Financial Services/Fidelity - Premiere Select IRA Domestic Comcast Corporation - Class A",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-02-18",
+      "filedDate": "2021-03-08",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20018350.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "Jefferson National 457B DESCRIPTION: Cash out from IRA dividends Smurfit Kappa group Plc American Depositary Shares",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-02-11",
+      "filedDate": "2021-03-08",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20018350.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "National Financial Services/Fidelity - Premiere Select IRA Int'l Corteva, Inc.",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-01-21",
+      "filedDate": "2021-02-02",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20018124.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "National Financial Services/Fidelity - Premiere Select IRA Int'l Truist Financial Corporation",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-01-21",
+      "filedDate": "2021-02-02",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20018124.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "Abb ltd (Abb) [ST]",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-01-20",
+      "filedDate": "2021-02-02",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20018124.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "National Financial Services/Fidelity - Premiere Select IRA Domestic Tokio Marine Holdings, Inc. Sponsored ADR",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-01-20",
+      "filedDate": "2021-02-02",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20018124.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "National Financial Services/Fidelity - Premiere Select IRA Domestic Compagnie de Saint gobain unsponsored ADR",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2020-12-22",
+      "filedDate": "2021-02-02",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20018123.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "onsored ADR representing A Shares (SVNlY) [ST]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2020-12-07",
+      "filedDate": "2021-02-02",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20018123.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "onsored ADR (DPSgY) [ST]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2020-11-13",
+      "filedDate": "2021-02-02",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20018123.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "American Electric Power Company, Inc.",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2020-10-21",
+      "filedDate": "2021-02-02",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20018123.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "National Financial Services/Fidelity - Premiere Select IRA Int'l Tyson Foods, Inc.",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2020-10-21",
+      "filedDate": "2021-02-02",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20018123.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "National Financial Services/Fidelity - Premiere Select IRA Domestic Persimmon Plc unsponsored ADR",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2020-10-13",
+      "filedDate": "2020-10-20",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20017563.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "Comcast Corporation - Class A",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2020-08-18",
+      "filedDate": "2020-10-20",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20017563.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "National Financial Services/Fidelity - Premiere Select IRA Domestic 2000068417VAlE S.A. American Depositary Shares Each Representing one common share (VAlE) [ST]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2020-07-22",
+      "filedDate": "2021-11-19",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019858.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "2000068416bristol-Myers Squibb Company (bMY) [ST]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2020-07-21",
+      "filedDate": "2021-11-19",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019858.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "Jefferson National 457B VAlE S.A. American Depositary Shares Each Representing one common share (VAlE) [ST]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2020-06-22",
+      "filedDate": "2020-07-29",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20017040.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "Bristol-Myers Squibb Company",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2020-06-21",
+      "filedDate": "2020-07-29",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20017040.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "onsored ADR (ENlAY) [ST]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2020-05-27",
+      "filedDate": "2020-07-29",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20017040.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "National Financial Services/Fidelity - Premiere Select IRA Int'l Norwegian Cruise line Holdings ltd. Ordinary Shares (NClH) [ST]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2020-05-11",
+      "filedDate": "2020-07-29",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20017040.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "BAE SYSTEMS plc Sponsored ADR",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2020-04-29",
+      "filedDate": "2020-05-01",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20016514.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "National Financial Services/Fidelity - Premiere Select IRA Int'l Roche Holdings Ag Basel American Depositary Shares",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2020-04-29",
+      "filedDate": "2020-05-01",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20016514.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "National Financial Services/Fidelity - Premiere Select IRA Int'l Softbank Corp Unsponsored ADR",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2020-04-29",
+      "filedDate": "2020-05-01",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20016514.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "onsored ADR New 2006 (SgAPY) [ST]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2020-04-17",
+      "filedDate": "2020-05-01",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20016514.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "National Financial Services/Fidelity - Premiere Select IRA Int'l loCATIoN: US DESCRIPTIoN: ENgIY - Engie Spon Adr Imperial Brands PlC",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2020-04-15",
+      "filedDate": "2020-05-01",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20016514.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "National Financial Services/Fidelity - Premiere Select IRA Int'l ENgIY - Engie Spon Adr [PS]",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2020-04-14",
+      "filedDate": "2020-05-01",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20016514.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "National Financial Services/Fidelity - Premiere Select IRA Int'l Roche Holdings Ag Basel American Depositary Shares",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2020-04-14",
+      "filedDate": "2020-05-01",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20016514.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "National Financial Services/Fidelity - Premiere Select IRA Int'l lloyds Banking group Plc American Depositary Shares (lYg)",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2020-04-09",
+      "filedDate": "2020-05-01",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20016514.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "National Financial Services/Fidelity - Premiere Select IRA Int'l DESCRIPTIoN: SoBKY - Softbank Corps Unsponsred Ad Softbank Corp Unsponsored ADR",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2020-03-18",
+      "filedDate": "2020-05-01",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20016514.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "National Financial Services/Fidelity - Premiere Select IRA Int'l China Petroleum & Chemical Corporation",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2020-03-17",
+      "filedDate": "2020-05-01",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20016514.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "National Financial Services/Fidelity - Premiere Select IRA Int'l las Vegas Sands Corp. (lVS) [ST]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2020-03-17",
+      "filedDate": "2020-05-01",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20016514.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "[ST] FIlINg STATUS: New National Financial Services/Fidelity - Premiere Select IRA Int'l Microsoft Corporation",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2020-02-24",
+      "filedDate": "2020-05-01",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20016514.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "onsored ADR representing Registered Shares Series B (NSRgY) [ST]",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2020-02-11",
+      "filedDate": "2020-05-01",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20016514.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "Astrazeneca PlC",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2020-01-15",
+      "filedDate": "2020-01-23",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20014952.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "National Financial Services/Fidelity - Premiere Select IRA Int'l CVS Health Corporation",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2020-01-15",
+      "filedDate": "2020-01-23",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20014952.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "National Financial Services/Fidelity - Premiere Select IRA Int'l liberty Property Trust (lPT) [ST]",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2020-01-15",
+      "filedDate": "2020-01-23",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20014952.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "onsored ADR representing Registered Shares Series b (NSRgY) [ST]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2020-01-15",
+      "filedDate": "2020-01-23",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20014952.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "National Financial Services/Fidelity - Premiere Select IRA Domestic Diageo plc (DEo) [ST]",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2020-01-07",
+      "filedDate": "2020-01-23",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20014952.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "bNP Paribas American Depositary Shares (bNPQY) [ST]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2019-11-21",
+      "filedDate": "2019-12-18",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20013786.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "National Financial Services/Fidelity - Premiere Select IRA Domestic Honda Motor Company, ltd.",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2019-11-19",
+      "filedDate": "2019-12-18",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20013786.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "National Financial Services/Fidelity - Premiere Select IRA Int'l Daimler Ag",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2019-11-19",
+      "filedDate": "2019-12-18",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20013786.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "National Financial Services/Fidelity - Premiere Select IRA Int'l Eastman Chemical Company",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2019-10-28",
+      "filedDate": "2019-12-18",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20013786.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "Caterpillar, Inc.",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2019-09-19",
+      "filedDate": "2019-09-27",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20012382.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "National Financial Services/Fidelity - Premiere Select IRA Domestic DESCRIPTIoN: Bought 11 shares CMS Energy Corporation",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2019-09-19",
+      "filedDate": "2019-09-27",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20012382.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "National Financial Services/Fidelity - Premiere Select IRA Int'l DESCRIPTIoN: Sold 81 shares uPM-Kymmene oyj (uPMKY) [ST]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2019-09-17",
+      "filedDate": "2019-09-27",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20012382.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "National Financial Services/Fidelity - Premiere Select IRA Domestic DESCRIPTIoN: Sold 17 shares uPM-Kymmene oyj (uPMKY) [ST]",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2019-09-04",
+      "filedDate": "2019-09-27",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20012382.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "National Financial Services/Fidelity - Premiere Select IRA Domestic bristol-Myers Squibb Company (bMY) [ST]",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2019-07-10",
+      "filedDate": "2019-08-09",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20012005.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "National Financial Services/Fidelity - Premiere Select IRA Int'l Valero Energy Corporation (Vlo) [ST]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2019-07-10",
+      "filedDate": "2019-08-09",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20012005.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "National Financial Services/Fidelity - Premiere Select IRA Int'l Roche Holdings Ag basel American Depositary Shares (RHHbY) [ST]",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2019-07-05",
+      "filedDate": "2019-08-09",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20012005.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "National Financial Services/Fidelity - Premiere Select IRA Int'l uPM-Kymmene oyj (uPMKY) [ST]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2019-06-21",
+      "filedDate": "2019-08-09",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20012005.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "onsored ADR (SMgZY) [ST]",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2019-06-21",
+      "filedDate": "2019-08-09",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20012005.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "National Financial Services/Fidelity - Premiere Select IRA Domestic Deutsche Telekom Ag (DTEgY) [ST]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2019-05-30",
+      "filedDate": "2019-08-09",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20012005.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "National Financial Services/Fidelity - Premiere Select IRA Domestic Vodafone group Plc - American Depositary Shares each representing ten ordinary Shares (VoD) [ST]",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2019-05-30",
+      "filedDate": "2019-08-09",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20012005.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "bb&T Corporation (bbT) [ST]",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2019-05-17",
+      "filedDate": "2019-08-09",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20012005.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "KAR Auction Services, Inc",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2019-04-24",
+      "filedDate": "2019-05-10",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20011650.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "National Financial Services/Fidelity - Premiere Select IRA Int'l Tapestry, Inc.",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2019-04-24",
+      "filedDate": "2019-05-10",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20011650.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "National Financial Services/Fidelity - Premiere Select IRA Domestic Novartis Ag",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2019-04-18",
+      "filedDate": "2019-05-10",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20011650.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "KeyCorp",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2019-03-19",
+      "filedDate": "2019-04-02",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20011377.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "National Financial Services/Fidelity - Premiere Select IRA Domestic ogE Energy Corp (ogE) [ST]",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2019-03-19",
+      "filedDate": "2019-04-02",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20011377.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "Eli lilly and Company (llY) [ST]",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2019-02-20",
+      "filedDate": "2019-02-28",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20011222.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "onsored ADR (IbDRY) [ST]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2019-02-19",
+      "filedDate": "2019-02-28",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20011222.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "Southern Company (So) [ST]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2019-01-03",
+      "filedDate": "2019-01-31",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20011078.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "INg group, N.V. (INg) [ST]",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2019-01-02",
+      "filedDate": "2019-01-02",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20010938.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "National Financial Services/Fidelity - Premiere Select IRA Int'l Sanofi ADR",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2018-12-03",
+      "filedDate": "2019-01-02",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20010938.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "National Financial Services/Fidelity - Premiere Select IRA Int'l Total S.A. (ToT) [ST]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2018-12-03",
+      "filedDate": "2019-01-02",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20010938.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "onsored ADR (MuRgY) [ST]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2018-12-03",
+      "filedDate": "2019-01-02",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20010938.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "Marsh & Mclennan Companies, Inc.",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2018-10-24",
+      "filedDate": "2018-10-30",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20010564.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "National Financial Services/Fidelity - Premiere Select IRA Domestic Pepsico, Inc.",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2018-10-24",
+      "filedDate": "2018-10-30",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20010564.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "National Financial Services/Fidelity - Premiere Select IRA Domestic QuAlCoMM Incorporated (QCoM) [ST]",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2018-10-24",
+      "filedDate": "2018-10-30",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20010564.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "Kinder Morgan, Inc.",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2018-09-25",
+      "filedDate": "2018-10-02",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20010395.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "National Financial Services/Fidelity - Premiere Select IRA Domestic Prologis, Inc. (PlD) [ST]",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2018-09-25",
+      "filedDate": "2018-10-02",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20010395.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "National Financial Services/Fidelity - Premiere Select IRA Domestic Honda Motor Company, ltd.",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2018-08-28",
+      "filedDate": "2018-08-31",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20010191.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "boC Hong Kong (bHKlY) [ST]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2018-08-28",
+      "filedDate": "2018-08-31",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20010191.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "National Financial Services/Fidelity - Premiere Select IRA Int'l Eaton Corporation, PlC ordinary Shares",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2018-08-23",
+      "filedDate": "2018-08-31",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20010191.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "National Financial Services/Fidelity - Premiere Select IRA Int'l Ventas, Inc.",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2018-08-23",
+      "filedDate": "2018-08-31",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20010191.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "National Financial Services/Fidelity - Premiere Select IRA Int'l loCATIoN: uS DESCRIPTIoN: NTTYY Stock Nippon Telegraph and Telephone Corporation ADR (NTTYY) [oT]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2018-07-26",
+      "filedDate": "2018-08-20",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20009815.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "National Financial Services/Fidelity - Premiere Select IRA Domestic CMS Energy Corporation",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2018-07-24",
+      "filedDate": "2018-08-20",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20009815.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "National Financial Services/Fidelity - Premiere Select IRA Domestic Eaton Corporation, PlC ordinary Shares",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2018-07-24",
+      "filedDate": "2018-08-20",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20009815.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "National Financial Services/Fidelity - Premiere Select IRA Int'l Huntington Bancshares Incorporated",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2018-06-21",
+      "filedDate": "2018-08-20",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20009815.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "National Financial Services/Fidelity - Premiere Select IRA Int'l loCATIoN: uS DESCRIPTIoN: ENgIY Stock Exelon Corporation",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2018-06-20",
+      "filedDate": "2018-08-20",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20009815.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "National Financial Services/Fidelity - Premiere Select IRA Domestic Medtronic plc. ordinary Shares",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2018-05-16",
+      "filedDate": "2018-08-20",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20009815.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "National Financial Services/Fidelity - Premiere Select IRA Int'l Marathon Petroleum Corporation",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2018-05-16",
+      "filedDate": "2018-08-20",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20009815.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "National Financial Services/Fidelity - Premiere Select IRA Domestic Imperial Brands PlC",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2018-05-01",
+      "filedDate": "2018-08-20",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20009815.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "National Financial Services/Fidelity - Premiere Select IRA Int'l Japan Tobacco unsponsored American Depository Receipt",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2018-04-30",
+      "filedDate": "2018-08-20",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20009815.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "National Financial Services/Fidelity - Premiere Select IRA Domestic Delta Air lines, Inc. (DAl) [ST]",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2018-04-19",
+      "filedDate": "2018-08-20",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20009815.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "National Financial Services/Fidelity - Premiere Select IRA Domestic ogE Energy Corporation (ogE) [ST]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2018-04-18",
+      "filedDate": "2018-08-20",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20009815.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "National Financial Services/Fidelity - Premiere Select IRA Int'l BB&T Corporation",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2018-03-19",
+      "filedDate": "2018-08-20",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20009815.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "National Financial Services/Fidelity - Premiere Select IRA Domestic China Petroleum & Chemical Corporation",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2018-02-21",
+      "filedDate": "2018-08-20",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20009815.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "National Financial Services/Fidelity - Premiere Select IRA Domestic lloyds Banking group Plc American Depositary Shares (lYg) [ST]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2018-02-21",
+      "filedDate": "2018-08-20",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20009815.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "National Financial Services/Fidelity - Premiere Select IRA Int'l Total S.A. (ToT) [ST]",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2018-02-21",
+      "filedDate": "2018-08-20",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20009815.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "National Financial Services/Fidelity - Premiere Select IRA Domestic Mondelez International, Inc. - Class A (MDlZ) [ST]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2018-02-14",
+      "filedDate": "2018-08-20",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20009815.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "National Financial Services/Fidelity - Premiere Select IRA Domestic united Technologies Corporation (uTX) [ST]",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2018-01-29",
+      "filedDate": "2018-08-20",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20009815.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "National Financial Services/Fidelity - Premiere Select IRA Int'l u.S. Bancorp (uSB) [ST]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2018-01-29",
+      "filedDate": "2018-08-20",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20009815.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "ons ADR (NIlSY) [ST]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2018-01-29",
+      "filedDate": "2018-08-20",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20009815.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "National Financial Services/Fidelity - Premiere Select IRA Domestic Delta Air lines, Inc. (DAl) [ST]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-12-28",
+      "filedDate": "2018-08-20",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20009815.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "National Financial Services/Fidelity - Premiere Select IRA Domestic Kimberly-Clark Corporation",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-12-28",
+      "filedDate": "2018-08-20",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20009815.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "National Financial Services/Fidelity - Premiere Select IRA Int'l loCATIoN: uS DESCRIPTIoN: DMlRY Stock DMlRY - Daimler Ag uNSP ADR [oT]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-12-21",
+      "filedDate": "2018-08-20",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20009815.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "National Financial Services/Fidelity - Premiere Select IRA Int'l loCATIoN: uS DESCRIPTIoN: NNgRY Stock NNgRY - NN group NV uNSP ADR [oT]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-12-21",
+      "filedDate": "2018-08-20",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20009815.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "Ford Motor Company",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-11-13",
+      "filedDate": "2018-08-20",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20009815.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "National Financial Services/Fidelity - Premiere Select IRA Domestic Air Products and Chemicals, Inc.",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-11-13",
+      "filedDate": "2018-08-20",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20009815.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "National Financial Services/Fidelity - Premiere Select IRA Domestic Xerox Corporation",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-11-13",
+      "filedDate": "2018-08-20",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20009815.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "National Financial Services/Fidelity - Premiere Select IRA Domestic general Electric Company (gE) [ST]",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-11-13",
+      "filedDate": "2018-08-20",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20009815.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "National Financial Services/Fidelity - Premiere Select IRA Domestic Exelon Corporation",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-10-25",
+      "filedDate": "2018-08-20",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20009815.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "National Financial Services/Fidelity - Premiere Select IRA Domestic Norfolk Southern Corporation",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-10-25",
+      "filedDate": "2018-08-20",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20009815.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "National Financial Services/Fidelity - Premiere Select IRA Int'l DMlRY - Daimler Ag uNSP ADR [oT]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-10-02",
+      "filedDate": "2018-08-20",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20009815.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "National Financial Services/Fidelity - Premiere Select IRA Int'l Smurfit Kappa group Plc American Depositary Shares",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-09-05",
+      "filedDate": "2018-08-20",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20009815.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "National Financial Services/Fidelity - Premiere Select IRA Domestic Phillips 66",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-08-16",
+      "filedDate": "2018-08-20",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20009815.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "National Financial Services/Fidelity - Premiere Select IRA Int'l Bristol-Myers Squibb Company",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-08-16",
+      "filedDate": "2018-08-20",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20009815.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "National Financial Services/Fidelity - Premiere Select IRA Int'l loCATIoN: uS DESCRIPTIoN: SMA - IRA - invested in money market fund used to buy and sell stocks within the SMA FirstEnergy Corp.",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-08-16",
+      "filedDate": "2018-08-20",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20009815.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "National Financial Services/Fidelity - Premiere Select IRA Domestic ASE Technology Holding Co., ltd. American Depositary Shares",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-08-14",
+      "filedDate": "2018-08-20",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20009815.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "National Financial Services/Fidelity - Premiere Select IRA Int'l BCE, Inc.",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-08-14",
+      "filedDate": "2018-08-20",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20009815.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "National Financial Services/Fidelity - Premiere Select IRA Int'l Deutsche Telekom Ag (DTEgY) [ST]",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-08-14",
+      "filedDate": "2018-08-20",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20009815.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "onsored ADR (SMgZY) [ST]",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-08-14",
+      "filedDate": "2018-08-20",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20009815.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "onsored ADR New 2006 (SgAPY) [ST]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-08-14",
+      "filedDate": "2018-08-20",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20009815.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "onsored ADR representing Nom Shares (MgDDY) [ST]",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-08-14",
+      "filedDate": "2018-08-20",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20009815.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "National Financial Services/Fidelity - Premiere Select IRA Int'l loCATIoN: uS DESCRIPTIoN: NTTYY Stock NNgRY - NN group NV uNSP ADR [oT]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-08-09",
+      "filedDate": "2018-08-20",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20009815.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "National Financial Services/Fidelity - Premiere Select IRA Domestic loCATIoN: uS DESCRIPTIoN: Rolled over Jefferson National 457B Retirement Account into an IRA - initiated by buying this Fidelity Money Market fund in a Separately Managed Account. The money manager then used the funds to acquire a variety of stocks. Fidelity govt MMKT Daily Money Class @ 1 [oT]",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2017-07-20",
+      "filedDate": "2018-08-20",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20009815.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "National Financial Services/Fidelity - Premiere Select IRA Int'l loCATIoN: uS DESCRIPTIoN: Rolled over Jefferson National 457B Retirement Account into an IRA - initiated by buying this Fidelity Money Market fund in two Separately Managed Accounts. The money manager then used the funds to acquire a variety of stocks. Fidelity govt MMKT Daily Money Class @ 1 [oT]",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2017-07-20",
+      "filedDate": "2018-08-20",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20009815.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "National Financial Services/Fidelity - Premiere Select IRA Int'l loCATIoN: uS DESCRIPTIoN: Rolled over Jefferson National 457B Retirement Account into an IRA - initiated by buying this Fidelity Money Market fund in two Separately Managed Accounts. The money manager then used the funds to acquire a variety of stocks. Fidelity govt MMKT Daily Money Class @ 1 [oT]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-07-20",
+      "filedDate": "2018-08-20",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20009815.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "Cisco Systems, Inc. (CSCo) [ST]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-07-17",
+      "filedDate": "2018-08-20",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20009815.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "Jefferson National 457B loCATIoN: uS DESCRIPTIoN: Rolled over 457B retirement account into two IRAs with National Financial Services/Fidelity Johnson & Johnson",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-07-17",
+      "filedDate": "2018-08-20",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20009815.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "Microsoft Corporation",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-07-17",
+      "filedDate": "2018-08-20",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20009815.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "National Financial Services/Fidelity - Premiere Select IRA Domestic AFlAC Incorporated (AFl) [ST]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-07-17",
+      "filedDate": "2018-08-20",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20009815.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "National Financial Services/Fidelity - Premiere Select IRA Domestic American Electric Power Company, Inc.",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-07-17",
+      "filedDate": "2018-08-20",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20009815.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "National Financial Services/Fidelity - Premiere Select IRA Domestic Ameriprise Financial, Inc.",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-07-17",
+      "filedDate": "2018-08-20",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20009815.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "National Financial Services/Fidelity - Premiere Select IRA Domestic Amgen Inc. (AMgN) [ST]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-07-17",
+      "filedDate": "2018-08-20",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20009815.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "National Financial Services/Fidelity - Premiere Select IRA Domestic Arthur J. gallagher & Co. (AJg) [ST]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-07-17",
+      "filedDate": "2018-08-20",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20009815.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "National Financial Services/Fidelity - Premiere Select IRA Domestic Coca-Cola Company (Ko) [ST]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-07-17",
+      "filedDate": "2018-08-20",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20009815.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "National Financial Services/Fidelity - Premiere Select IRA Domestic Crown Castle International Corp.",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-07-17",
+      "filedDate": "2018-08-20",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20009815.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "National Financial Services/Fidelity - Premiere Select IRA Domestic Exxon Mobil Corporation (XoM) [ST]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-07-17",
+      "filedDate": "2018-08-20",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20009815.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "National Financial Services/Fidelity - Premiere Select IRA Domestic International Paper Company",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-07-17",
+      "filedDate": "2018-08-20",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20009815.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "National Financial Services/Fidelity - Premiere Select IRA Domestic JP Morgan Chase & Co.",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-07-17",
+      "filedDate": "2018-08-20",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20009815.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "National Financial Services/Fidelity - Premiere Select IRA Domestic Marathon Petroleum Corporation",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-07-17",
+      "filedDate": "2018-08-20",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20009815.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "National Financial Services/Fidelity - Premiere Select IRA Domestic Marsh & Mclennan Companies, Inc.",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-07-17",
+      "filedDate": "2018-08-20",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20009815.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "National Financial Services/Fidelity - Premiere Select IRA Domestic Merck & Company, Inc. Common Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-07-17",
+      "filedDate": "2018-08-20",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20009815.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "National Financial Services/Fidelity - Premiere Select IRA Domestic Metlife, Inc.",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-07-17",
+      "filedDate": "2018-08-20",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20009815.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "National Financial Services/Fidelity - Premiere Select IRA Domestic PNC Financial Services group, Inc.",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-07-17",
+      "filedDate": "2018-08-20",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20009815.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "National Financial Services/Fidelity - Premiere Select IRA Domestic QuAlCoMM Incorporated (QCoM) [ST]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-07-17",
+      "filedDate": "2018-08-20",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20009815.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "National Financial Services/Fidelity - Premiere Select IRA Domestic Verizon Communications Inc.",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-07-17",
+      "filedDate": "2018-08-20",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20009815.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "National Financial Services/Fidelity - Premiere Select IRA Domestic Wells Fargo & Company",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-07-17",
+      "filedDate": "2018-08-20",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20009815.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "National Financial Services/Fidelity - Premiere Select IRA Domestic Williams Companies, Inc.",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-07-17",
+      "filedDate": "2018-08-20",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20009815.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "National Financial Services/Fidelity - Premiere Select IRA Domestic Xerox Corporation",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-07-17",
+      "filedDate": "2018-08-20",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20009815.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "National Financial Services/Fidelity - Premiere Select IRA Domestic general Electric Company (gE) [ST]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-07-17",
+      "filedDate": "2018-08-20",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20009815.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "National Financial Services/Fidelity - Premiere Select IRA Domestic gilead Sciences, Inc. (gIlD) [ST]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-07-17",
+      "filedDate": "2018-08-20",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20009815.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "National Financial Services/Fidelity - Premiere Select IRA Domestic liberty Property Trust (lPT) [ST]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-07-17",
+      "filedDate": "2018-08-20",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20009815.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "National Financial Services/Fidelity - Premiere Select IRA Domestic u.S. Bancorp (uSB) [ST]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-07-17",
+      "filedDate": "2018-08-20",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20009815.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "National Financial Services/Fidelity - Premiere Select IRA Int'l AT&T Inc.",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-07-17",
+      "filedDate": "2018-08-20",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20009815.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "National Financial Services/Fidelity - Premiere Select IRA Int'l AbbVie Inc.",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-07-17",
+      "filedDate": "2018-08-20",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20009815.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "National Financial Services/Fidelity - Premiere Select IRA Int'l Altria group, Inc. (Mo) [ST]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-07-17",
+      "filedDate": "2018-08-20",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20009815.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "National Financial Services/Fidelity - Premiere Select IRA Int'l BlackRock, Inc. (BlK) [ST]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-07-17",
+      "filedDate": "2018-08-20",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20009815.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "National Financial Services/Fidelity - Premiere Select IRA Int'l Chevron Corporation",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-07-17",
+      "filedDate": "2018-08-20",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20009815.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "National Financial Services/Fidelity - Premiere Select IRA Int'l HP Inc.",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-07-17",
+      "filedDate": "2018-08-20",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20009815.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "National Financial Services/Fidelity - Premiere Select IRA Int'l Home Depot, Inc.",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-07-17",
+      "filedDate": "2018-08-20",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20009815.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "National Financial Services/Fidelity - Premiere Select IRA Int'l Intel Corporation",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-07-17",
+      "filedDate": "2018-08-20",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20009815.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "National Financial Services/Fidelity - Premiere Select IRA Int'l Kimberly-Clark Corporation",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-07-17",
+      "filedDate": "2018-08-20",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20009815.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "National Financial Services/Fidelity - Premiere Select IRA Int'l Pfizer, Inc.",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-07-17",
+      "filedDate": "2018-08-20",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20009815.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "National Financial Services/Fidelity - Premiere Select IRA Int'l Prudential Financial, Inc. (PRu) [ST]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-07-17",
+      "filedDate": "2018-08-20",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20009815.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "National Financial Services/Fidelity - Premiere Select IRA Int'l Schlumberger N.V. (SlB) [ST]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-07-17",
+      "filedDate": "2018-08-20",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20009815.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "National Financial Services/Fidelity - Premiere Select IRA Int'l Thomson Reuters Corp ordinary Shares",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-07-17",
+      "filedDate": "2018-08-20",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20009815.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "National Financial Services/Fidelity - Premiere Select IRA Int'l Walmart Inc.",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-07-17",
+      "filedDate": "2018-08-20",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20009815.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "National Financial Services/Fidelity - Premiere Select IRA Int'l loCATIoN: uS DESCRIPTIoN: DMlRY Stock Eaton Corporation, PlC ordinary Shares",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-07-17",
+      "filedDate": "2018-08-20",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20009815.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "National Financial Services/Fidelity - Premiere Select IRA Int'l lockheed Martin Corporation (lMT) [ST]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-07-17",
+      "filedDate": "2018-08-20",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20009815.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "National Financial Services/Fidelity - Premiere Select IRA Int'l occidental Petroleum Corporation (oXY) [ST]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-07-17",
+      "filedDate": "2018-08-20",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20009815.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "National Financial Services/Fidelity - Premiere Select IRA Int'l united Technologies Corporation (uTX) [ST]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-07-17",
+      "filedDate": "2018-08-20",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20009815.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "Prologis, Inc. (PlD) [ST]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-07-17",
+      "filedDate": "2018-08-20",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20009815.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "loCATIoN: uS DESCRIPTIoN: NNgRY Stock Norfolk Southern Corporation",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-07-17",
+      "filedDate": "2018-08-20",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20009815.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "National Financial Services/Fidelity - Premiere Select IRA Domestic Fidelity govt MMKT Daily Money Class @ 1 [oT]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2017-07-14",
+      "filedDate": "2018-08-20",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20009815.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "National Financial Services/Fidelity - Premiere Select IRA Domestic loCATIoN: uS DESCRIPTIoN: Rolled over Jefferson National 457B Retirement Account into an IRA - initiated by buying this Fidelity Money Market fund in a Separately Managed Account. The money manager then used the funds to acquire a variety of stocks. Fidelity govt MMKT Daily Money Class @ 1 [oT]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2017-07-14",
+      "filedDate": "2018-08-20",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20009815.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "ABB ltd",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-07-11",
+      "filedDate": "2018-08-20",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20009815.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "National Financial Services/Fidelity - Premiere Select IRA Domestic Allianz SE ADS",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-07-11",
+      "filedDate": "2018-08-20",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20009815.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "National Financial Services/Fidelity - Premiere Select IRA Domestic BAE SYSTEMS plc Sponsored ADR",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-07-11",
+      "filedDate": "2018-08-20",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20009815.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "National Financial Services/Fidelity - Premiere Select IRA Domestic BCE, Inc.",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-07-11",
+      "filedDate": "2018-08-20",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20009815.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "National Financial Services/Fidelity - Premiere Select IRA Domestic BNP Paribas American Depositary Shares",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-07-11",
+      "filedDate": "2018-08-20",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20009815.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "National Financial Services/Fidelity - Premiere Select IRA Domestic British American Tobacco Industries, p.l.c. Common Stock ADR",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-07-11",
+      "filedDate": "2018-08-20",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20009815.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "National Financial Services/Fidelity - Premiere Select IRA Domestic Deutsche Telekom Ag (DTEgY) [ST]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-07-11",
+      "filedDate": "2018-08-20",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20009815.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "National Financial Services/Fidelity - Premiere Select IRA Domestic ENgIY - Engie Spon ADR [oT]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-07-11",
+      "filedDate": "2018-08-20",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20009815.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "National Financial Services/Fidelity - Premiere Select IRA Domestic HSBC Holdings, plc.",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-07-11",
+      "filedDate": "2018-08-20",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20009815.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "National Financial Services/Fidelity - Premiere Select IRA Domestic Honda Motor Company, ltd.",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-07-11",
+      "filedDate": "2018-08-20",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20009815.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "National Financial Services/Fidelity - Premiere Select IRA Domestic Japan Tobacco unsponsored American Depository Receipt",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-07-11",
+      "filedDate": "2018-08-20",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20009815.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "National Financial Services/Fidelity - Premiere Select IRA Domestic Manulife Financial Corporation",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-07-11",
+      "filedDate": "2018-08-20",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20009815.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "National Financial Services/Fidelity - Premiere Select IRA Domestic Novartis Ag",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-07-11",
+      "filedDate": "2018-08-20",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20009815.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "National Financial Services/Fidelity - Premiere Select IRA Domestic ProsiebenSat.1 Media Ag Muenchen unsponsored ADR",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-07-11",
+      "filedDate": "2018-08-20",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20009815.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "National Financial Services/Fidelity - Premiere Select IRA Domestic Roche Holdings Ag Basel American Depositary Shares",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-07-11",
+      "filedDate": "2018-08-20",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20009815.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "National Financial Services/Fidelity - Premiere Select IRA Domestic Siemens Ag American Depositary Shares (SIEgY) [ST]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-07-11",
+      "filedDate": "2018-08-20",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20009815.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "National Financial Services/Fidelity - Premiere Select IRA Domestic Total S.A. (ToT) [ST]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-07-11",
+      "filedDate": "2018-08-20",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20009815.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "National Financial Services/Fidelity - Premiere Select IRA Domestic Vermilion Energy Inc. Common",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-07-11",
+      "filedDate": "2018-08-20",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20009815.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "National Financial Services/Fidelity - Premiere Select IRA Domestic glaxoSmithKline PlC (gSK) [ST]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-07-11",
+      "filedDate": "2018-08-20",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20009815.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "National Financial Services/Fidelity - Premiere Select IRA Domestic uBS group Ag Registered ordinary Shares (uBS) [ST]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-07-11",
+      "filedDate": "2018-08-20",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20009815.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "National Financial Services/Fidelity - Premiere Select IRA Int'l Astrazeneca PlC",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-07-11",
+      "filedDate": "2018-08-20",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20009815.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "National Financial Services/Fidelity - Premiere Select IRA Int'l BoC Hong Kong (BHKlY) [ST]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-07-11",
+      "filedDate": "2018-08-20",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20009815.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "National Financial Services/Fidelity - Premiere Select IRA Int'l Diageo plc (DEo) [ST]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-07-11",
+      "filedDate": "2018-08-20",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20009815.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "National Financial Services/Fidelity - Premiere Select IRA Int'l INg group, N.V. (INg) [ST]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-07-11",
+      "filedDate": "2018-08-20",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20009815.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "National Financial Services/Fidelity - Premiere Select IRA Int'l Imperial Brands PlC",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-07-11",
+      "filedDate": "2018-08-20",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20009815.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "National Financial Services/Fidelity - Premiere Select IRA Int'l Nippon Telegraph and Telephone Corporation ADR (NTTYY) [oT]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-07-11",
+      "filedDate": "2018-08-20",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20009815.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "National Financial Services/Fidelity - Premiere Select IRA Int'l Royal Dutch Shell PlC Royal Dutch Shell PlC American Depositary Shares",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-07-11",
+      "filedDate": "2018-08-20",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20009815.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "National Financial Services/Fidelity - Premiere Select IRA Int'l Sanofi American Depositary Shares",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-07-11",
+      "filedDate": "2018-08-20",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20009815.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "National Financial Services/Fidelity - Premiere Select IRA Int'l Smurfit Kappa group Plc American Depositary Shares",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-07-11",
+      "filedDate": "2018-08-20",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20009815.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "National Financial Services/Fidelity - Premiere Select IRA Int'l Vodafone group Plc - American Depositary Shares each representing ten ordinary Shares (VoD) [ST]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-07-11",
+      "filedDate": "2018-08-20",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20009815.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "National Financial Services/Fidelity - Premiere Select IRA Int'l loCATIoN: uS DESCRIPTIoN: SKHHY Stock SSE Plc Sponsored ADR",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-07-11",
+      "filedDate": "2018-08-20",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20009815.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "National Financial Services/Fidelity - Premiere Select IRA Int'l unilever NV (uN) [ST]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-07-11",
+      "filedDate": "2018-08-20",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20009815.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "National Financial Services/Fidelity - Premiere Select IRA Int'l united overseas Bk Singapore American Depositary Shares (uoVEY) [ST]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-07-11",
+      "filedDate": "2018-08-20",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20009815.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "Telefonica Brasil, S.A. ADS",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-07-11",
+      "filedDate": "2018-08-20",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20009815.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "ons ADR (NIlSY) [ST]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-07-11",
+      "filedDate": "2018-08-20",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20009815.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "onsored ADR (MuRgY) [ST]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-07-11",
+      "filedDate": "2018-08-20",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20009815.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "onsored ADR (SKHHY) [oT]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-07-11",
+      "filedDate": "2018-08-20",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20009815.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "onsored ADR (SMgZY) [ST]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-07-11",
+      "filedDate": "2018-08-20",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20009815.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "onsored ADR New 2006 (SgAPY) [ST]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-07-11",
+      "filedDate": "2018-08-20",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20009815.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "onsored ADR representing Nom Shares (MgDDY) [ST]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-07-11",
+      "filedDate": "2018-08-20",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20009815.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "onsored ADR representing Registered Shares Series B (NSRgY) [ST]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-07-11",
+      "filedDate": "2018-08-20",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20009815.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "onsored American Depositary Shares (ZuRVY) [ST]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-07-11",
+      "filedDate": "2018-08-20",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20009815.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000609",
+      "assetRaw": "onsored American Depositary Shares (oRKlY) [ST]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-07-11",
+      "filedDate": "2018-08-20",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20009815.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    }
+  ],
+  "series": [
+    {
+      "date": "2017-07-11",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-07-11",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-07-11",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-07-11",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-07-11",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-07-11",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-07-11",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-07-11",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-07-11",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-07-11",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-07-11",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-07-11",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-07-11",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-07-11",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-07-11",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-07-11",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-07-11",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-07-11",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-07-11",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-07-11",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-07-11",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-07-11",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-07-11",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-07-11",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-07-11",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-07-11",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-07-11",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-07-11",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-07-11",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-07-11",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-07-11",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-07-11",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-07-11",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-07-11",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-07-11",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-07-11",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-07-11",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-07-11",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-07-11",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-07-11",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-07-11",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-07-11",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-07-11",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-07-14",
+      "value": 175000.5
+    },
+    {
+      "date": "2017-07-14",
+      "value": 175000.5
+    },
+    {
+      "date": "2017-07-17",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-07-17",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-07-17",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-07-17",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-07-17",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-07-17",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-07-17",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-07-17",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-07-17",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-07-17",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-07-17",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-07-17",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-07-17",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-07-17",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-07-17",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-07-17",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-07-17",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-07-17",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-07-17",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-07-17",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-07-17",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-07-17",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-07-17",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-07-17",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-07-17",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-07-17",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-07-17",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-07-17",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-07-17",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-07-17",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-07-17",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-07-17",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-07-17",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-07-17",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-07-17",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-07-17",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-07-17",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-07-17",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-07-17",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-07-17",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-07-17",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-07-17",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-07-17",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-07-17",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-07-17",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-07-17",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-07-17",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-07-20",
+      "value": 175000.5
+    },
+    {
+      "date": "2017-07-20",
+      "value": 175000.5
+    },
+    {
+      "date": "2017-07-20",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-08-09",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-08-14",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-08-14",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-08-14",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-08-14",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-08-14",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-08-14",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-08-16",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-08-16",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-08-16",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-09-05",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-10-02",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-10-25",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-10-25",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-11-13",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-11-13",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-11-13",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-11-13",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-12-21",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-12-21",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-12-28",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-12-28",
+      "value": 8000.5
+    },
+    {
+      "date": "2018-01-29",
+      "value": 8000.5
+    },
+    {
+      "date": "2018-01-29",
+      "value": 8000.5
+    },
+    {
+      "date": "2018-01-29",
+      "value": 8000.5
+    },
+    {
+      "date": "2018-02-14",
+      "value": 8000.5
+    },
+    {
+      "date": "2018-02-21",
+      "value": 8000.5
+    },
+    {
+      "date": "2018-02-21",
+      "value": 8000.5
+    },
+    {
+      "date": "2018-02-21",
+      "value": 8000.5
+    },
+    {
+      "date": "2018-03-19",
+      "value": 8000.5
+    },
+    {
+      "date": "2018-04-18",
+      "value": 8000.5
+    },
+    {
+      "date": "2018-04-19",
+      "value": 8000.5
+    },
+    {
+      "date": "2018-04-30",
+      "value": 8000.5
+    },
+    {
+      "date": "2018-05-01",
+      "value": 8000.5
+    },
+    {
+      "date": "2018-05-16",
+      "value": 8000.5
+    },
+    {
+      "date": "2018-05-16",
+      "value": 8000.5
+    },
+    {
+      "date": "2018-06-20",
+      "value": 8000.5
+    },
+    {
+      "date": "2018-06-21",
+      "value": 8000.5
+    },
+    {
+      "date": "2018-07-24",
+      "value": 8000.5
+    },
+    {
+      "date": "2018-07-24",
+      "value": 8000.5
+    },
+    {
+      "date": "2018-07-26",
+      "value": 8000.5
+    },
+    {
+      "date": "2018-08-23",
+      "value": 8000.5
+    },
+    {
+      "date": "2018-08-23",
+      "value": 8000.5
+    },
+    {
+      "date": "2018-08-28",
+      "value": 8000.5
+    },
+    {
+      "date": "2018-08-28",
+      "value": 8000.5
+    },
+    {
+      "date": "2018-09-25",
+      "value": 8000.5
+    },
+    {
+      "date": "2018-09-25",
+      "value": 8000.5
+    },
+    {
+      "date": "2018-10-24",
+      "value": 8000.5
+    },
+    {
+      "date": "2018-10-24",
+      "value": 8000.5
+    },
+    {
+      "date": "2018-10-24",
+      "value": 8000.5
+    },
+    {
+      "date": "2018-12-03",
+      "value": 8000.5
+    },
+    {
+      "date": "2018-12-03",
+      "value": 8000.5
+    },
+    {
+      "date": "2018-12-03",
+      "value": 8000.5
+    },
+    {
+      "date": "2019-01-02",
+      "value": 8000.5
+    },
+    {
+      "date": "2019-01-03",
+      "value": 8000.5
+    },
+    {
+      "date": "2019-02-19",
+      "value": 8000.5
+    },
+    {
+      "date": "2019-02-20",
+      "value": 8000.5
+    },
+    {
+      "date": "2019-03-19",
+      "value": 8000.5
+    },
+    {
+      "date": "2019-03-19",
+      "value": 8000.5
+    },
+    {
+      "date": "2019-04-18",
+      "value": 8000.5
+    },
+    {
+      "date": "2019-04-24",
+      "value": 8000.5
+    },
+    {
+      "date": "2019-04-24",
+      "value": 8000.5
+    },
+    {
+      "date": "2019-05-17",
+      "value": 8000.5
+    },
+    {
+      "date": "2019-05-30",
+      "value": 8000.5
+    },
+    {
+      "date": "2019-05-30",
+      "value": 8000.5
+    },
+    {
+      "date": "2019-06-21",
+      "value": 8000.5
+    },
+    {
+      "date": "2019-06-21",
+      "value": 8000.5
+    },
+    {
+      "date": "2019-07-05",
+      "value": 8000.5
+    },
+    {
+      "date": "2019-07-10",
+      "value": 8000.5
+    },
+    {
+      "date": "2019-07-10",
+      "value": 8000.5
+    },
+    {
+      "date": "2019-09-04",
+      "value": 8000.5
+    },
+    {
+      "date": "2019-09-17",
+      "value": 8000.5
+    },
+    {
+      "date": "2019-09-19",
+      "value": 8000.5
+    },
+    {
+      "date": "2019-09-19",
+      "value": 8000.5
+    },
+    {
+      "date": "2019-10-28",
+      "value": 8000.5
+    },
+    {
+      "date": "2019-11-19",
+      "value": 8000.5
+    },
+    {
+      "date": "2019-11-19",
+      "value": 8000.5
+    },
+    {
+      "date": "2019-11-21",
+      "value": 8000.5
+    },
+    {
+      "date": "2020-01-07",
+      "value": 8000.5
+    },
+    {
+      "date": "2020-01-15",
+      "value": 8000.5
+    },
+    {
+      "date": "2020-01-15",
+      "value": 8000.5
+    },
+    {
+      "date": "2020-01-15",
+      "value": 8000.5
+    },
+    {
+      "date": "2020-01-15",
+      "value": 8000.5
+    },
+    {
+      "date": "2020-02-11",
+      "value": 8000.5
+    },
+    {
+      "date": "2020-02-24",
+      "value": 8000.5
+    },
+    {
+      "date": "2020-03-17",
+      "value": 8000.5
+    },
+    {
+      "date": "2020-03-17",
+      "value": 8000.5
+    },
+    {
+      "date": "2020-03-18",
+      "value": 8000.5
+    },
+    {
+      "date": "2020-04-09",
+      "value": 8000.5
+    },
+    {
+      "date": "2020-04-14",
+      "value": 8000.5
+    },
+    {
+      "date": "2020-04-14",
+      "value": 8000.5
+    },
+    {
+      "date": "2020-04-15",
+      "value": 8000.5
+    },
+    {
+      "date": "2020-04-17",
+      "value": 8000.5
+    },
+    {
+      "date": "2020-04-29",
+      "value": 8000.5
+    },
+    {
+      "date": "2020-04-29",
+      "value": 8000.5
+    },
+    {
+      "date": "2020-04-29",
+      "value": 8000.5
+    },
+    {
+      "date": "2020-05-11",
+      "value": 8000.5
+    },
+    {
+      "date": "2020-05-27",
+      "value": 8000.5
+    },
+    {
+      "date": "2020-06-21",
+      "value": 8000.5
+    },
+    {
+      "date": "2020-06-22",
+      "value": 8000.5
+    },
+    {
+      "date": "2020-07-21",
+      "value": 8000.5
+    },
+    {
+      "date": "2020-07-22",
+      "value": 8000.5
+    },
+    {
+      "date": "2020-08-18",
+      "value": 8000.5
+    },
+    {
+      "date": "2020-10-13",
+      "value": 8000.5
+    },
+    {
+      "date": "2020-10-21",
+      "value": 8000.5
+    },
+    {
+      "date": "2020-10-21",
+      "value": 8000.5
+    },
+    {
+      "date": "2020-11-13",
+      "value": 8000.5
+    },
+    {
+      "date": "2020-12-07",
+      "value": 8000.5
+    },
+    {
+      "date": "2020-12-22",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-01-20",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-01-20",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-01-21",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-01-21",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-02-11",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-02-18",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-02-23",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-02-23",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-02-23",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-02-23",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-02-23",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-02-23",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-02-23",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-02-23",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-02-23",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-02-23",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-02-23",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-02-23",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-03-01",
+      "value": 32500.5
+    },
+    {
+      "date": "2022-02-17",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-02-17",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-02-17",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-02-17",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-02-17",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-02-17",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-02-17",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-02-17",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-02-17",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-02-17",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-02-17",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-02-17",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-02-17",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-02-17",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-02-17",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-02-17",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-02-17",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-02-17",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-02-17",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-02-17",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-02-17",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-02-17",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-02-17",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-02-17",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-02-17",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-02-17",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-02-17",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-02-17",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-02-17",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-02-17",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-02-17",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-02-17",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-02-24",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-03-01",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-03-03",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-03-10",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-03-16",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-03-16",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-03-16",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-03-16",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-03-16",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-03-16",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-03-16",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-03-16",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-03-16",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-03-16",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-03-16",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-03-16",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-03-16",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-03-16",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-03-16",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-03-16",
+      "value": 32500.5
+    },
+    {
+      "date": "2022-03-16",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-03-16",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-03-16",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-03-16",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-03-16",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-03-16",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-03-16",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-03-16",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-03-16",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-03-16",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-03-16",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-03-16",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-03-16",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-03-16",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-03-16",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-03-16",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-03-16",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-03-16",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-03-16",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-03-16",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-03-16",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-03-16",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-03-16",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-03-16",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-03-16",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-03-16",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-03-16",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-03-16",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-03-16",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-03-16",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-03-16",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-03-16",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-03-16",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-03-16",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-03-16",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-03-16",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-03-16",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-03-16",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-03-16",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-03-16",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-03-16",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-03-16",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-03-16",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-03-16",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-03-16",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-03-16",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-03-16",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-03-16",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-03-16",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-03-16",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-03-16",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-03-16",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-03-16",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-03-16",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-03-16",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-03-16",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-03-16",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-03-16",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-03-16",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-03-16",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-03-16",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-03-16",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-03-16",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-03-16",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-03-16",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-03-16",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-03-16",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-03-16",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-03-23",
+      "value": 8000.5
+    },
+    {
+      "date": "2023-04-28",
+      "value": 8000.5
+    }
+  ],
+  "measured": null
+}

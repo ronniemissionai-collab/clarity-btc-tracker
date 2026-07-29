@@ -1,0 +1,5480 @@
+{
+  "member": {
+    "bioguideId": "B001325",
+    "name": "Sheri Biggs",
+    "party": "R",
+    "chamber": "house",
+    "state": "SC",
+    "district": "SC-03",
+    "active": true
+  },
+  "positions": [
+    {
+      "memberId": "B001325",
+      "security": {
+        "ticker": "IBIT",
+        "kind": "spot-etf"
+      },
+      "owner": "spouse",
+      "range": {
+        "lo": 200002,
+        "hi": 500000
+      },
+      "status": "holds",
+      "asOf": "2026-03-04",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032149.pdf"
+        },
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034346.pdf"
+        }
+      ]
+    },
+    {
+      "memberId": "B001325",
+      "security": {
+        "ticker": "ICAPITAL",
+        "kind": "other"
+      },
+      "owner": "spouse",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "status": "holds",
+      "asOf": "2025-12-26",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033927.pdf"
+        }
+      ]
+    },
+    {
+      "memberId": "B001325",
+      "security": {
+        "ticker": "KRSOX",
+        "kind": "other"
+      },
+      "owner": "spouse",
+      "range": {
+        "lo": 2002,
+        "hi": 30000
+      },
+      "status": "holds",
+      "asOf": "2026-02-04",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034013.pdf"
+        },
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034195.pdf"
+        }
+      ]
+    }
+  ],
+  "trades": [
+    {
+      "memberId": "B001325",
+      "assetRaw": "Oaktree Strategic Credit Fund Class S [OT]",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-06-30",
+      "filedDate": "2026-07-27",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035007.pdf",
+      "late": false,
+      "provenance": "official"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "KKR Real Estate Select Trust Class U [PS]",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-05-29",
+      "filedDate": "2026-06-09",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034496.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "OAKTREE STRATEGIC CREDIT FUND CLASS S [OT]",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-05-27",
+      "filedDate": "2026-06-09",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034496.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "APOLLO DEBT SOLUTIONS BDC CLASS S [OT]",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-05-01",
+      "filedDate": "2026-06-09",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034496.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "ALPHAKEYS BLACKSTONE LIFE SCIENCES VI LP [HN]",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-04-28",
+      "filedDate": "2026-06-09",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034496.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "Oaktree Strategic Credit Fund Class S [OT]",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-03-30",
+      "filedDate": "2026-04-16",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034346.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "Apollo Debt Solutions BDC Class S [OT]",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-03-27",
+      "filedDate": "2026-04-16",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034346.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "iShares Bitcoin Trust ETF (IBIT) [ST]",
+      "security": {
+        "ticker": "IBIT",
+        "kind": "spot-etf"
+      },
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2026-03-04",
+      "filedDate": "2026-04-16",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034346.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "Apollo Debt Solutions BDC Class S [OT]",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-03-03",
+      "filedDate": "2026-04-16",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034346.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "OAKTREE STRATEGIC CREDIT FUND CLASS S [OT]",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-02-27",
+      "filedDate": "2026-03-21",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034195.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "BARCLAYS BANK PLC TAR-SS INTL BASKET [CS]",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2026-02-19",
+      "filedDate": "2026-03-21",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034195.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "US TSY BOND DUE 02/15/36 [GS]",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2026-02-18",
+      "filedDate": "2026-03-21",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034195.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "US TSY NOTE DUE 02/15/26 [GS]",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2026-02-17",
+      "filedDate": "2026-03-21",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034195.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "US TSY DUE 02/15/26 [GS]",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-02-15",
+      "filedDate": "2026-03-21",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034195.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "OAKTREE STRATEGIC CREDIT FUND CLASS S [OT]",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-02-06",
+      "filedDate": "2026-03-21",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034195.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "APOLLO DEBT SOLUTIONS BDC CLASS S [OT]",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-02-04",
+      "filedDate": "2026-03-21",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034195.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "KKR Real Estate Select Trust Class U (KRSOX) [PS]",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-02-04",
+      "filedDate": "2026-03-21",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034195.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "KKR Real Estate Select Trust Class U (KRSOX) [PS]",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-01-05",
+      "filedDate": "2026-02-17",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034013.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "BANK OF NOVA SCOTIA [CS]",
+      "security": null,
+      "side": "buy",
+      "owner": "joint",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2025-12-31",
+      "filedDate": "2026-02-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033927.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "BNP PARIBAS [CS]",
+      "security": null,
+      "side": "buy",
+      "owner": "joint",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2025-12-31",
+      "filedDate": "2026-02-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033927.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "APOLLO DEBT SOLUTIONS BDC CLASS S [OT]",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-12-30",
+      "filedDate": "2026-02-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033927.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "OAKTREE STRATEGIC CREDIT FUND CLASS S [OT]",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-12-30",
+      "filedDate": "2026-02-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033927.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "COATUE INNOVATION FUND [HN]",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 250001,
+        "hi": 500000
+      },
+      "transactionDate": "2025-12-26",
+      "filedDate": "2026-02-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033927.pdf",
+      "late": false,
+      "provenance": "official"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "SL PARTNERS VII (ICAPITAL), L.P. FUND [HN]",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2025-12-26",
+      "filedDate": "2026-02-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033927.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "X. Professionally managed account. SPCOATUE INNOVATION FUND [HN]",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 250001,
+        "hi": 500000
+      },
+      "transactionDate": "2025-12-26",
+      "filedDate": "2026-02-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033927.pdf",
+      "late": false,
+      "note": "Professionally managed account. CTEK Class S",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "Fannie Mae Note 9/24/26 [GS]",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-12-22",
+      "filedDate": "2026-02-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033927.pdf",
+      "late": false,
+      "note": "partial sale",
+      "provenance": "both"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "US TSY NOTE 02/15/28 [GS]",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-12-22",
+      "filedDate": "2026-02-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033927.pdf",
+      "late": false,
+      "note": "partial sale",
+      "provenance": "both"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "US TSY NOTE 02/15/30 [GS]",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-12-22",
+      "filedDate": "2026-02-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033927.pdf",
+      "late": false,
+      "note": "partial sale",
+      "provenance": "both"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "US TSY NOTE 02/15/31 [GS]",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-12-22",
+      "filedDate": "2026-02-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033927.pdf",
+      "late": false,
+      "note": "partial sale",
+      "provenance": "both"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "US TSY NOTE 02/15/32 [GS]",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-12-22",
+      "filedDate": "2026-02-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033927.pdf",
+      "late": false,
+      "note": "partial sale",
+      "provenance": "both"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "US TSY NOTE 02/15/33 [GS]",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-12-22",
+      "filedDate": "2026-02-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033927.pdf",
+      "late": false,
+      "note": "partial sale",
+      "provenance": "both"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "US TSY NOTE 02/15/34 [GS]",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-12-22",
+      "filedDate": "2026-02-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033927.pdf",
+      "late": false,
+      "note": "partial sale",
+      "provenance": "both"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "US TSY NOTE 02/28/27 [GS]",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-12-22",
+      "filedDate": "2026-02-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033927.pdf",
+      "late": false,
+      "note": "partial sale",
+      "provenance": "both"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "US TSY NOTE 05/15/32 [GS]",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-12-22",
+      "filedDate": "2026-02-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033927.pdf",
+      "late": false,
+      "note": "partial sale",
+      "provenance": "both"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "US TSY NOTE 05/31/30 [GS]",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-12-22",
+      "filedDate": "2026-02-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033927.pdf",
+      "late": false,
+      "note": "partial sale",
+      "provenance": "both"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "US TSY NOTE 08/15/27 [GS]",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-12-22",
+      "filedDate": "2026-02-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033927.pdf",
+      "late": false,
+      "note": "partial sale",
+      "provenance": "both"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "US TSY NOTE 08/15/29 [GS]",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-12-22",
+      "filedDate": "2026-02-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033927.pdf",
+      "late": false,
+      "note": "partial sale",
+      "provenance": "both"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "US TSY NOTE 08/15/31 [GS]",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-12-22",
+      "filedDate": "2026-02-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033927.pdf",
+      "late": false,
+      "note": "partial sale",
+      "provenance": "both"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "US TSY NOTE 08/15/33 [GS]",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-12-22",
+      "filedDate": "2026-02-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033927.pdf",
+      "late": false,
+      "note": "partial sale",
+      "provenance": "both"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "US TSY NOTE 11/15/29 [GS]",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-12-22",
+      "filedDate": "2026-02-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033927.pdf",
+      "late": false,
+      "note": "partial sale",
+      "provenance": "both"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "US TSY NOTE 11/15/31 [GS]",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-12-22",
+      "filedDate": "2026-02-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033927.pdf",
+      "late": false,
+      "note": "partial sale",
+      "provenance": "both"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "US TSY NOTE 11/15/32 [GS]",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-12-22",
+      "filedDate": "2026-02-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033927.pdf",
+      "late": false,
+      "note": "partial sale",
+      "provenance": "both"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "US TSY NOTE 11/15/33 [GS]",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-12-22",
+      "filedDate": "2026-02-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033927.pdf",
+      "late": false,
+      "note": "partial sale",
+      "provenance": "both"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "US TSY NOTE 11/15/34 [GS]",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-12-22",
+      "filedDate": "2026-02-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033927.pdf",
+      "late": false,
+      "note": "partial sale",
+      "provenance": "both"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "US TSY NOTE 11/30/26 [GS]",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-12-22",
+      "filedDate": "2026-02-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033927.pdf",
+      "late": false,
+      "note": "partial sale",
+      "provenance": "both"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "UBS AG [CS]",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2025-12-12",
+      "filedDate": "2026-01-14",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033800.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "Fannie Mae Note 9/24/26 [GS]",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-12-02",
+      "filedDate": "2026-01-14",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033800.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "KKR Real Estate Select Trust Class U [PS]",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-12-02",
+      "filedDate": "2026-01-14",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033800.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "US TSY DUE 05/15/34 [GS]",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-12-02",
+      "filedDate": "2026-01-14",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033800.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "US TSY DUE 11/15/34 [GS]",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-12-02",
+      "filedDate": "2026-01-14",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033800.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "US TSY NOTE 02/15/26 [GS]",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-12-02",
+      "filedDate": "2026-01-14",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033800.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "US TSY NOTE 02/15/32 [GS]",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-12-02",
+      "filedDate": "2026-01-14",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033800.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "US TSY NOTE 02/15/33 [GS]",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-12-02",
+      "filedDate": "2026-01-14",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033800.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "US TSY NOTE 02/15/34 [GS]",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-12-02",
+      "filedDate": "2026-01-14",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033800.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "US TSY NOTE 02/15/35 [GS]",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-12-02",
+      "filedDate": "2026-01-14",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033800.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "US TSY NOTE 05/15/32 [GS]",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-12-02",
+      "filedDate": "2026-01-14",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033800.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "US TSY NOTE 05/15/35 [GS]",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-12-02",
+      "filedDate": "2026-01-14",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033800.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "US TSY NOTE 08/15/31 [GS]",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-12-02",
+      "filedDate": "2026-01-14",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033800.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "US TSY NOTE 08/15/33 [GS]",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-12-02",
+      "filedDate": "2026-01-14",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033800.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "US TSY NOTE 08/31/30 [GS]",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-12-02",
+      "filedDate": "2026-01-14",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033800.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "US TSY NOTE 11/15/31 [GS]",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-12-02",
+      "filedDate": "2026-01-14",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033800.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "US TSY NOTE 11/15/32 [GS]",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-12-02",
+      "filedDate": "2026-01-14",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033800.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "US TSY NOTE 11/15/33 [GS]",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-12-02",
+      "filedDate": "2026-01-14",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033800.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "Apollo Debt Solutions BDC Class S [OT]",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-12-01",
+      "filedDate": "2026-01-14",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033800.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "Oaktree Strategic Credit Fund Class S [OT]",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-11-28",
+      "filedDate": "2025-12-29",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20033694.pdf",
+      "late": false,
+      "note": "Dividend reinvestment in a professionally managed account – Business Development Company.",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "US Treasury Note 11/15/2025 [GS]",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-11-17",
+      "filedDate": "2025-12-29",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20033694.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "KKR Real Estate Select Trust Class U [RS]",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-11-04",
+      "filedDate": "2025-12-29",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20033694.pdf",
+      "late": true,
+      "note": "Dividend reinvestment in a professionally managed account.",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "Oaktree Strategic Credit Fund Class S [OT]",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-10-30",
+      "filedDate": "2025-12-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20033579.pdf",
+      "late": false,
+      "note": "Dividend reinvestment in a professionally managed account – Business Development Company.",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "Apollo Debt Solutions BDC Class S [OT]",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-10-29",
+      "filedDate": "2025-12-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20033579.pdf",
+      "late": false,
+      "note": "Dividend reinvestment in a professionally managed account – Business Development Company.",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "Apollo Debt Solutions BDC Class S [OT]",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-10-01",
+      "filedDate": "2025-10-31",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20033379.pdf",
+      "late": false,
+      "note": "Dividend reinvestment in a professionally managed account – Business Development Company.",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "Oaktree Strategic Credit Fund Class S [OT]",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-09-29",
+      "filedDate": "2025-10-31",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20033379.pdf",
+      "late": false,
+      "note": "Dividend reinvestment in a professionally managed account – Business Development Company.",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "SL Partners VII iCapital LP",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-09-18",
+      "filedDate": "2025-10-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032149.pdf",
+      "late": false,
+      "note": "Managed Account",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "KKR Real Estate Select Trust Class U",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-08-29",
+      "filedDate": "2025-10-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032149.pdf",
+      "late": false,
+      "note": "Reinvestment in Managed Account",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "Oaktree Strategic Credit Fund Class S",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-08-27",
+      "filedDate": "2025-10-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032149.pdf",
+      "late": false,
+      "note": "Dividend reinvestment in a professionally managed account – Business Development Company.",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "US Treasury Note 11/15/2025",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-08-25",
+      "filedDate": "2025-10-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032149.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "US Treasury Note 11/30/2026",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-08-25",
+      "filedDate": "2025-10-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032149.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "US Treasury Note 2/15/2028",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-08-25",
+      "filedDate": "2025-10-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032149.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "US Treasury Note 2/15/2033",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-08-25",
+      "filedDate": "2025-10-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032149.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "US Treasury Note 2/15/2035",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-08-25",
+      "filedDate": "2025-10-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032149.pdf",
+      "late": false,
+      "note": "Professionally managed account",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "US Treasury Note 5/15/2028",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-08-25",
+      "filedDate": "2025-10-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032149.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "US Treasury Note 8/15/2027",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-08-25",
+      "filedDate": "2025-10-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032149.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "US Treasury Note 8/15/2028",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-08-25",
+      "filedDate": "2025-10-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032149.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "US Treasury Note 8/15/2029",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-08-25",
+      "filedDate": "2025-10-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032149.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "US Treasury Note 8/31/2030",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-08-25",
+      "filedDate": "2025-10-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032149.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "SL Partners VII iCapital LP",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-08-18",
+      "filedDate": "2025-10-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032149.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "Apollo Debt Solutions BDC Class S",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-08-01",
+      "filedDate": "2025-10-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032149.pdf",
+      "late": true,
+      "note": "Dividend reinvestment in a professionally managed account – Business Development Company.",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "Apollo Debt Solutions BDC Class S",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-07-31",
+      "filedDate": "2025-10-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032149.pdf",
+      "late": true,
+      "note": "Dividend reinvestment in a professionally managed account – Business Development Company.",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "Oaktree Strategic Credit Fund Class S",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-07-30",
+      "filedDate": "2025-10-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032149.pdf",
+      "late": true,
+      "note": "Dividend reinvestment in a professionally managed account – Business Development Company.",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "iShares Bitcoin Trust ETF - iShares Bitcoin Trust ETF",
+      "security": {
+        "ticker": "IBIT",
+        "kind": "spot-etf"
+      },
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2025-07-09",
+      "filedDate": "2025-10-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032149.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "Oaktree Strategic Credit Fund Class S",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-06-26",
+      "filedDate": "2025-10-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032149.pdf",
+      "late": true,
+      "note": "Dividend reinvestment in a professionally managed account – Business Development Company.",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "US Treasury Note 5/15/2035",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2025-06-17",
+      "filedDate": "2025-10-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032149.pdf",
+      "late": true,
+      "note": "Professionally managed account",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "Icapital-Arctos Sports Partners Fund II Access Fund LP",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2025-06-04",
+      "filedDate": "2025-10-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032149.pdf",
+      "late": true,
+      "note": "Professionally managed account.",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "Apollo Debt Solutions BDC Class S",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-06-02",
+      "filedDate": "2025-10-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032149.pdf",
+      "late": true,
+      "note": "Dividend reinvestment in a professionally managed account – Business Development Company.",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "Fannie Mae Note 9/24/2026",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-05-30",
+      "filedDate": "2025-10-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032149.pdf",
+      "late": true,
+      "note": "Professionally managed account",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "KKR Real Estate Select Trust Class U",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-05-30",
+      "filedDate": "2025-10-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032149.pdf",
+      "late": true,
+      "note": "Dividend reinvestment in a professionally managed account.",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "US Treasury Note 11/15/2025",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-05-30",
+      "filedDate": "2025-10-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032149.pdf",
+      "late": true,
+      "note": "Professionally managed account",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "US Treasury Note 11/15/2029",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-05-30",
+      "filedDate": "2025-10-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032149.pdf",
+      "late": true,
+      "note": "Professionally managed account",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "US Treasury Note 11/15/2032",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-05-30",
+      "filedDate": "2025-10-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032149.pdf",
+      "late": true,
+      "note": "Professionally managed account",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "US Treasury Note 11/15/2033",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-05-30",
+      "filedDate": "2025-10-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032149.pdf",
+      "late": true,
+      "note": "Professionally managed account",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "US Treasury Note 11/15/2034",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-05-30",
+      "filedDate": "2025-10-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032149.pdf",
+      "late": true,
+      "note": "Professionally managed account",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "US Treasury Note 11/15/31",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-05-30",
+      "filedDate": "2025-10-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032149.pdf",
+      "late": true,
+      "note": "Professionally managed account",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "US Treasury Note 11/30/2026",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-05-30",
+      "filedDate": "2025-10-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032149.pdf",
+      "late": true,
+      "note": "Professionally managed account",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "US Treasury Note 2/15/2026",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-05-30",
+      "filedDate": "2025-10-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032149.pdf",
+      "late": true,
+      "note": "Professionally managed account",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "US Treasury Note 2/15/2029",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-05-30",
+      "filedDate": "2025-10-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032149.pdf",
+      "late": true,
+      "note": "Professionally managed account",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "US Treasury Note 2/15/2030",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-05-30",
+      "filedDate": "2025-10-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032149.pdf",
+      "late": true,
+      "note": "Professionally managed account",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "US Treasury Note 2/15/2031",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-05-30",
+      "filedDate": "2025-10-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032149.pdf",
+      "late": true,
+      "note": "Professionally managed account",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "US Treasury Note 2/15/2032",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-05-30",
+      "filedDate": "2025-10-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032149.pdf",
+      "late": true,
+      "note": "Professionally managed account",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "US Treasury Note 2/15/2033",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-05-30",
+      "filedDate": "2025-10-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032149.pdf",
+      "late": true,
+      "note": "Professionally managed account",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "US Treasury Note 2/15/2034",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-05-30",
+      "filedDate": "2025-10-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032149.pdf",
+      "late": true,
+      "note": "Professionally managed account",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "US Treasury Note 2/15/2035",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-05-30",
+      "filedDate": "2025-10-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032149.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "US Treasury Note 2/15/28",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-05-30",
+      "filedDate": "2025-10-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032149.pdf",
+      "late": true,
+      "note": "Professionally managed account",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "US Treasury Note 2/28/2027",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-05-30",
+      "filedDate": "2025-10-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032149.pdf",
+      "late": true,
+      "note": "Professionally managed account",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "US Treasury Note 5/15/2028",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-05-30",
+      "filedDate": "2025-10-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032149.pdf",
+      "late": true,
+      "note": "Professionally managed account",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "US Treasury Note 5/15/2032",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-05-30",
+      "filedDate": "2025-10-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032149.pdf",
+      "late": true,
+      "note": "Professionally managed account",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "US Treasury Note 5/15/2034",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-05-30",
+      "filedDate": "2025-10-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032149.pdf",
+      "late": true,
+      "note": "Professionally managed account.",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "US Treasury Note 5/31/2027",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-05-30",
+      "filedDate": "2025-10-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032149.pdf",
+      "late": true,
+      "note": "Professionally managed account",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "US Treasury Note 5/31/2030",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-05-30",
+      "filedDate": "2025-10-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032149.pdf",
+      "late": true,
+      "note": "Professionally managed account",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "US Treasury Note 6/15/2025",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-05-30",
+      "filedDate": "2025-10-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032149.pdf",
+      "late": true,
+      "note": "Professionally managed account",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "US Treasury Note 8/15/2025",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-05-30",
+      "filedDate": "2025-10-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032149.pdf",
+      "late": true,
+      "note": "Professionally managed account",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "US Treasury Note 8/15/2027",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-05-30",
+      "filedDate": "2025-10-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032149.pdf",
+      "late": true,
+      "note": "Professionally managed account",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "US Treasury Note 8/15/2028",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-05-30",
+      "filedDate": "2025-10-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032149.pdf",
+      "late": true,
+      "note": "Professionally managed account",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "US Treasury Note 8/15/2029",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-05-30",
+      "filedDate": "2025-10-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032149.pdf",
+      "late": true,
+      "note": "Professionally managed account",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "US Treasury Note 8/15/2031",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-05-30",
+      "filedDate": "2025-10-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032149.pdf",
+      "late": true,
+      "note": "Professionally managed account",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "US Treasury Note 8/15/2033",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-05-30",
+      "filedDate": "2025-10-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032149.pdf",
+      "late": true,
+      "note": "Professionally managed account",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "US Treasury Note 8/31/2030",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-05-30",
+      "filedDate": "2025-10-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032149.pdf",
+      "late": true,
+      "note": "Professionally managed account.",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "Oaktree Strategic Credit Fund Class S",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-05-28",
+      "filedDate": "2025-10-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032149.pdf",
+      "late": true,
+      "note": "Dividend reinvestment in a professionally managed account - Business Development Company.",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "Bank of Nova Scotia",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 250001,
+        "hi": 500000
+      },
+      "transactionDate": "2025-05-27",
+      "filedDate": "2025-10-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032149.pdf",
+      "late": true,
+      "note": "Structured investment product based on XLE. Professionally managed account.",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "Apollo Debt Solutions BDC Class S",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-05-01",
+      "filedDate": "2025-10-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032149.pdf",
+      "late": true,
+      "note": "Dividend reinvestment in a professionally managed account – Business Development Company.",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "Oaktree Strategic Credit Fund Class S",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-04-28",
+      "filedDate": "2025-10-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032149.pdf",
+      "late": true,
+      "note": "Dividend reinvestment in a professionally managed account – Business Development Company.",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "SL Partners VII (ICapital) Fund",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-04-22",
+      "filedDate": "2025-10-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032149.pdf",
+      "late": true,
+      "note": "Professionally managed account.",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "JP Morgan Chase Finance",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 250001,
+        "hi": 500000
+      },
+      "transactionDate": "2025-04-15",
+      "filedDate": "2025-10-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032149.pdf",
+      "late": true,
+      "note": "Structured investment product based on INDU, SPX indices. Professionally managed account.",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "Apollo Debt Solutions BDC Class S",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-04-01",
+      "filedDate": "2025-10-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032149.pdf",
+      "late": true,
+      "note": "Dividend reinvestment in a professionally managed account – Business Development Company.",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "KKR Real Estate Select Trust Class U",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-03-31",
+      "filedDate": "2025-10-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032149.pdf",
+      "late": true,
+      "note": "Dividend reinvestment in a professionally managed account.",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "HSBC USA",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 250001,
+        "hi": 500000
+      },
+      "transactionDate": "2025-03-27",
+      "filedDate": "2025-10-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032149.pdf",
+      "late": true,
+      "note": "Structured investment product based on SX5E index. Professionally managed account",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "JP Morgan Chase Finance",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 250001,
+        "hi": 500000
+      },
+      "transactionDate": "2025-03-27",
+      "filedDate": "2025-10-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032149.pdf",
+      "late": true,
+      "note": "Structured investment product based on SX5E, NKY, UKX, SMI, AS51 indices. Professionally managed account",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "Morgan Stanley Finance",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1000001,
+        "hi": 5000000
+      },
+      "transactionDate": "2025-03-27",
+      "filedDate": "2025-10-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032149.pdf",
+      "late": true,
+      "note": "Structured investment product based on SX5E, NKY, UKX, SMI, AS51 indices. Professionally managed account.",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "Oaktree Strategic Credit Fund Class S",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-03-27",
+      "filedDate": "2025-10-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032149.pdf",
+      "late": true,
+      "note": "Dividend reinvestment in a professionally managed account – Business Development Company.",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "Bank of Nova Scotia",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 250001,
+        "hi": 500000
+      },
+      "transactionDate": "2025-03-26",
+      "filedDate": "2025-10-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032149.pdf",
+      "late": true,
+      "note": "Structured investment product based on RTY. Professionally managed account.",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "JP Morgan Chase Finance",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 250001,
+        "hi": 500000
+      },
+      "transactionDate": "2025-03-26",
+      "filedDate": "2025-10-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032149.pdf",
+      "late": true,
+      "note": "Structured investment product based on INDU, SPX indices. Professionally managed account.",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "Morgan Stanley Finance",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 250001,
+        "hi": 500000
+      },
+      "transactionDate": "2025-03-26",
+      "filedDate": "2025-10-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032149.pdf",
+      "late": true,
+      "note": "Structured investment product based on SPX. Professionally managed account",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "Altria Group, Inc.",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-03-19",
+      "filedDate": "2025-10-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032149.pdf",
+      "late": true,
+      "note": "Professionally managed account.",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "Bank of Nova Scotia",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 500001,
+        "hi": 1000000
+      },
+      "transactionDate": "2025-03-19",
+      "filedDate": "2025-10-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032149.pdf",
+      "late": true,
+      "note": "Structured product - linked to shares of S&P 500 index. Professionally managed account.",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "Charles Schwab Corporation",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2025-03-19",
+      "filedDate": "2025-10-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032149.pdf",
+      "late": true,
+      "note": "Professionally managed account.",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "Comcast Corporation - Class A Common Stock",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-03-19",
+      "filedDate": "2025-10-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032149.pdf",
+      "late": true,
+      "note": "Professionally managed account",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "Fannie Mae Note 9/24/26",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-03-19",
+      "filedDate": "2025-10-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032149.pdf",
+      "late": true,
+      "note": "Professionally managed account.",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "Fastenal Company - Common Stock",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2025-03-19",
+      "filedDate": "2025-10-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032149.pdf",
+      "late": true,
+      "note": "Professionally managed account.",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "Fidelity National Information Services, Inc. Common Stock",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2025-03-19",
+      "filedDate": "2025-10-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032149.pdf",
+      "late": true,
+      "note": "Professionally managed account.",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "Johnson & Johnson Common Stock",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2025-03-19",
+      "filedDate": "2025-10-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032149.pdf",
+      "late": true,
+      "note": "Professionally managed account.",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "Lowe's Companies, Inc. Common Stock",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2025-03-19",
+      "filedDate": "2025-10-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032149.pdf",
+      "late": true,
+      "note": "Professionally managed account.",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "Merck & Company, Inc. Common Stock",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2025-03-19",
+      "filedDate": "2025-10-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032149.pdf",
+      "late": true,
+      "note": "Professionally managed account.",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "Microsoft Corporation - Common Stock",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2025-03-19",
+      "filedDate": "2025-10-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032149.pdf",
+      "late": true,
+      "note": "Professionally managed account.",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "NESTLE S.A S/ADR",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-03-19",
+      "filedDate": "2025-10-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032149.pdf",
+      "late": true,
+      "note": "Professionally managed account.",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "Nintendo Co Ltd ADR",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2025-03-19",
+      "filedDate": "2025-10-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032149.pdf",
+      "late": true,
+      "note": "Professionally managed account.",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "Norfolk Southern Corporation Common Stock",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2025-03-19",
+      "filedDate": "2025-10-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032149.pdf",
+      "late": true,
+      "note": "Professionally managed account.",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "Northrop Grumman Corporation Common Stock",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2025-03-19",
+      "filedDate": "2025-10-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032149.pdf",
+      "late": true,
+      "note": "Professionally managed account.",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "Paychex, Inc. - Common Stock",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2025-03-19",
+      "filedDate": "2025-10-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032149.pdf",
+      "late": true,
+      "note": "Professionally managed account.",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "Philip Morris International Inc Common Stock",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2025-03-19",
+      "filedDate": "2025-10-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032149.pdf",
+      "late": true,
+      "note": "Professionally managed account.",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "Progressive Corporation",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2025-03-19",
+      "filedDate": "2025-10-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032149.pdf",
+      "late": true,
+      "note": "Professionally managed account.",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "Starbucks Corporation - Common Stock",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2025-03-19",
+      "filedDate": "2025-10-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032149.pdf",
+      "late": true,
+      "note": "Professionally managed account.",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "TE Connectivity plc Ordinary Shares",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2025-03-19",
+      "filedDate": "2025-10-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032149.pdf",
+      "late": true,
+      "note": "Professionally managed account.",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "Texas Instruments Incorporated - Common Stock",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2025-03-19",
+      "filedDate": "2025-10-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032149.pdf",
+      "late": true,
+      "note": "Professionally managed account.",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "US Treasury Note 11/15/2025",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-03-19",
+      "filedDate": "2025-10-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032149.pdf",
+      "late": true,
+      "note": "Professionally managed account.",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "US Treasury Note 11/15/2029",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-03-19",
+      "filedDate": "2025-10-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032149.pdf",
+      "late": true,
+      "note": "Professionally managed account",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "US Treasury Note 11/15/2031",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-03-19",
+      "filedDate": "2025-10-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032149.pdf",
+      "late": true,
+      "note": "Professionally managed account",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "US Treasury Note 11/15/2032",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-03-19",
+      "filedDate": "2025-10-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032149.pdf",
+      "late": true,
+      "note": "Professionally managed account.",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "US Treasury Note 11/15/2033",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-03-19",
+      "filedDate": "2025-10-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032149.pdf",
+      "late": true,
+      "note": "Professionally managed account.",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "US Treasury Note 11/15/2034",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-03-19",
+      "filedDate": "2025-10-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032149.pdf",
+      "late": true,
+      "note": "Professionally managed account.",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "US Treasury Note 11/30/2026",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-03-19",
+      "filedDate": "2025-10-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032149.pdf",
+      "late": true,
+      "note": "Professionally managed account",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "US Treasury Note 2/15/2026",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-03-19",
+      "filedDate": "2025-10-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032149.pdf",
+      "late": true,
+      "note": "Professionally managed account",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "US Treasury Note 2/15/2028",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-03-19",
+      "filedDate": "2025-10-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032149.pdf",
+      "late": true,
+      "note": "Professionally managed account",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "US Treasury Note 2/15/2029",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-03-19",
+      "filedDate": "2025-10-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032149.pdf",
+      "late": true,
+      "note": "Professionally managed account",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "US Treasury Note 2/15/2030",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-03-19",
+      "filedDate": "2025-10-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032149.pdf",
+      "late": true,
+      "note": "Professionally managed account",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "US Treasury Note 2/15/2031",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-03-19",
+      "filedDate": "2025-10-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032149.pdf",
+      "late": true,
+      "note": "Professionally managed account",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "US Treasury Note 2/15/2032",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-03-19",
+      "filedDate": "2025-10-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032149.pdf",
+      "late": true,
+      "note": "Professionally managed account",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "US Treasury Note 2/15/2033",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-03-19",
+      "filedDate": "2025-10-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032149.pdf",
+      "late": true,
+      "note": "Professionally managed account.",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "US Treasury Note 2/15/2034",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-03-19",
+      "filedDate": "2025-10-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032149.pdf",
+      "late": true,
+      "note": "Professionally managed account.",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "US Treasury Note 2/28/2027",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-03-19",
+      "filedDate": "2025-10-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032149.pdf",
+      "late": true,
+      "note": "Professionally managed account",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "US Treasury Note 4/30/2025",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-03-19",
+      "filedDate": "2025-10-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032149.pdf",
+      "late": true,
+      "note": "Professionally managed account.",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "US Treasury Note 5/15/2028",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-03-19",
+      "filedDate": "2025-10-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032149.pdf",
+      "late": true,
+      "note": "Professionally managed account.",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "US Treasury Note 5/15/2032",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-03-19",
+      "filedDate": "2025-10-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032149.pdf",
+      "late": true,
+      "note": "Professionally managed account.",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "US Treasury Note 5/15/2034",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-03-19",
+      "filedDate": "2025-10-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032149.pdf",
+      "late": true,
+      "note": "Professionally managed account.",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "US Treasury Note 5/31/2027",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-03-19",
+      "filedDate": "2025-10-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032149.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "US Treasury Note 5/31/2030",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-03-19",
+      "filedDate": "2025-10-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032149.pdf",
+      "late": true,
+      "note": "Professionally managed account.",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "US Treasury Note 8/15/2025",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-03-19",
+      "filedDate": "2025-10-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032149.pdf",
+      "late": true,
+      "note": "Professionally managed account",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "US Treasury Note 8/15/2027",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-03-19",
+      "filedDate": "2025-10-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032149.pdf",
+      "late": true,
+      "note": "Professionally managed account",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "US Treasury Note 8/15/2028",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-03-19",
+      "filedDate": "2025-10-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032149.pdf",
+      "late": true,
+      "note": "Professionally managed account.",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "US Treasury Note 8/15/2029",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-03-19",
+      "filedDate": "2025-10-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032149.pdf",
+      "late": true,
+      "note": "Professionally managed account.",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "US Treasury Note 8/15/2031",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-03-19",
+      "filedDate": "2025-10-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032149.pdf",
+      "late": true,
+      "note": "Professionally managed account",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "US Treasury Note 8/15/2033",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-03-19",
+      "filedDate": "2025-10-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032149.pdf",
+      "late": true,
+      "note": "Professionally managed account.",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "US Treasury Note 8/31/2030",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-03-19",
+      "filedDate": "2025-10-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032149.pdf",
+      "late": true,
+      "note": "Professionally managed account.",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "United Parcel Service, Inc. Common Stock",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-03-19",
+      "filedDate": "2025-10-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032149.pdf",
+      "late": true,
+      "note": "Professionally managed account.",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "ASE Technology Holding Co., Ltd. American Depositary Shares",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-03-18",
+      "filedDate": "2025-10-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032149.pdf",
+      "late": true,
+      "note": "Professionally managed account.",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "ASMPT LIMITED UNSP/ADR",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-03-18",
+      "filedDate": "2025-10-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032149.pdf",
+      "late": true,
+      "note": "Professionally managed account.",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "Air Products and Chemicals, Inc. Common Stock",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2025-03-18",
+      "filedDate": "2025-10-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032149.pdf",
+      "late": true,
+      "note": "Professionally managed account.",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "Alibaba Group Holding Limited American Depositary Shares each representing eight Ordinary share",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-03-18",
+      "filedDate": "2025-10-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032149.pdf",
+      "late": true,
+      "note": "Professionally managed account.",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "America Movil, S.A.B. de C.V. American Depositary Shares",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-03-18",
+      "filedDate": "2025-10-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032149.pdf",
+      "late": true,
+      "note": "Professionally managed account.",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "Anhui Conch Cement Unsponsored ADR representing Shares -H-",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-03-18",
+      "filedDate": "2025-10-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032149.pdf",
+      "late": true,
+      "note": "Professionally managed account.",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "Apple Inc. - Common Stock",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2025-03-18",
+      "filedDate": "2025-10-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032149.pdf",
+      "late": true,
+      "note": "Professionally managed account.",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "BB Seguridade Participacoes SA Sponsored ADR",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-03-18",
+      "filedDate": "2025-10-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032149.pdf",
+      "late": true,
+      "note": "Professionally managed account.",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "Banco Do Brasil SA Sponsored ADR",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-03-18",
+      "filedDate": "2025-10-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032149.pdf",
+      "late": true,
+      "note": "Professionally managed account.",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "Berkshire Hathaway Inc. New Common Stock",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2025-03-18",
+      "filedDate": "2025-10-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032149.pdf",
+      "late": true,
+      "note": "Professionally managed account.",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "Bidvest Group Ltd Sponsored ADR New",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-03-18",
+      "filedDate": "2025-10-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032149.pdf",
+      "late": true,
+      "note": "Professionally managed account.",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "BlackRock, Inc. Common Stock",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2025-03-18",
+      "filedDate": "2025-10-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032149.pdf",
+      "late": true,
+      "note": "Professionally managed account.",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "Cemex, S.A.B. de C.V. Sponsored ADR",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-03-18",
+      "filedDate": "2025-10-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032149.pdf",
+      "late": true,
+      "note": "Professionally managed account.",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "Chevron Corporation Common Stock",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2025-03-18",
+      "filedDate": "2025-10-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032149.pdf",
+      "late": true,
+      "note": "Professionally managed account.",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "China Construction Bank Corporation Unsponsored ADR representing H shares",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-03-18",
+      "filedDate": "2025-10-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032149.pdf",
+      "late": true,
+      "note": "Professionally managed account.",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "China Merchants Bank Co Ltd American Depository Receipt",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-03-18",
+      "filedDate": "2025-10-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032149.pdf",
+      "late": true,
+      "note": "Professionally managed account",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "Cincinnati Financial Corporation - Common Stock",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-03-18",
+      "filedDate": "2025-10-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032149.pdf",
+      "late": true,
+      "note": "Professionally managed account.",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "Cisco Systems, Inc. - Common Stock",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2025-03-18",
+      "filedDate": "2025-10-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032149.pdf",
+      "late": true,
+      "note": "Professionally managed account.",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "Crown Castle Inc. Common Stock",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-03-18",
+      "filedDate": "2025-10-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032149.pdf",
+      "late": true,
+      "note": "Professionally managed account.",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "Diageo plc Common Stock",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-03-18",
+      "filedDate": "2025-10-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032149.pdf",
+      "late": true,
+      "note": "Professionally managed account.",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "Dominion Energy, Inc. Common Stock",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2025-03-18",
+      "filedDate": "2025-10-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032149.pdf",
+      "late": true,
+      "note": "Professionally managed account.",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "ENGIE BRASIL ENE SA S/ADR",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-03-18",
+      "filedDate": "2025-10-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032149.pdf",
+      "late": true,
+      "note": "Professionally managed account.",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "Greek Organisation of Football Prognostics SA Unsponsored ADR",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-03-18",
+      "filedDate": "2025-10-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032149.pdf",
+      "late": true,
+      "note": "Professionally managed account.",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "Grupo Financiero Banorte, S.A.B. De C.V Sponsored ADR",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-03-18",
+      "filedDate": "2025-10-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032149.pdf",
+      "late": true,
+      "note": "Professionally managed account.",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "Hengan International Group Company Limited Unsponsored ADR",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-03-18",
+      "filedDate": "2025-10-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032149.pdf",
+      "late": true,
+      "note": "Professionally managed account.",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "Himax Technologies, Inc. - American depositary shares, each of which represents two ordinary shares.",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-03-18",
+      "filedDate": "2025-10-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032149.pdf",
+      "late": true,
+      "note": "Professionally managed account.",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "Infosys Limited American Depositary Shares",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-03-18",
+      "filedDate": "2025-10-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032149.pdf",
+      "late": true,
+      "note": "Professionally managed account",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "JD.com, Inc. - American Depositary Shares",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-03-18",
+      "filedDate": "2025-10-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032149.pdf",
+      "late": true,
+      "note": "Professionally managed account.",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "KASIKORNBANK PCL UNSP/ADR",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-03-18",
+      "filedDate": "2025-10-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032149.pdf",
+      "late": true,
+      "note": "Professionally managed account.",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "KB Financial Group Inc",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-03-18",
+      "filedDate": "2025-10-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032149.pdf",
+      "late": true,
+      "note": "Professionally managed account.",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "KT Corporation Common Stock",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-03-18",
+      "filedDate": "2025-10-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032149.pdf",
+      "late": true,
+      "note": "Professionally managed account",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "Kimberly-Clark De Mexico S A B de C V Sponsored ADR",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-03-18",
+      "filedDate": "2025-10-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032149.pdf",
+      "late": true,
+      "note": "Professionally managed account",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "Lenovo Group Ltd Sponsored ADR",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-03-18",
+      "filedDate": "2025-10-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032149.pdf",
+      "late": true,
+      "note": "Professionally managed account.",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "Life Healthcare Group Holdings Ltd Unsponsored ADR",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-03-18",
+      "filedDate": "2025-10-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032149.pdf",
+      "late": true,
+      "note": "Professionally managed account.",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "Mol Magyar Olay Es Gazipari Rt Sponsored ADR representing Ord Shs Series A",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-03-18",
+      "filedDate": "2025-10-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032149.pdf",
+      "late": true,
+      "note": "Professionally managed account.",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "Nedbank Group Limited Sponsored ADR",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-03-18",
+      "filedDate": "2025-10-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032149.pdf",
+      "late": true,
+      "note": "Professionally managed account.",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "NetEase, Inc. - American Depositary Shares, each representing 5 ordinary shares",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-03-18",
+      "filedDate": "2025-10-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032149.pdf",
+      "late": true,
+      "note": "Professionally managed account.",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "PT Bank Mandiri Persero TBK Unsponsored ADR",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-03-18",
+      "filedDate": "2025-10-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032149.pdf",
+      "late": true,
+      "note": "Professionally managed account.",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "PT Telekomunikasi Indonesia, Tbk",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-03-18",
+      "filedDate": "2025-10-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032149.pdf",
+      "late": true,
+      "note": "Professionally managed account.",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "PT United Tractors Unsponsored ADR",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-03-18",
+      "filedDate": "2025-10-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032149.pdf",
+      "late": true,
+      "note": "Professionally managed account.",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "Petroleo Brasileiro S.A. Petrobras ADS",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-03-18",
+      "filedDate": "2025-10-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032149.pdf",
+      "late": true,
+      "note": "Professionally managed account.",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "Ping An Insurance Co Ltd Shares H",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-03-18",
+      "filedDate": "2025-10-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032149.pdf",
+      "late": true,
+      "note": "Professionally managed account.",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "Pt Astra International TBK Unsponsored ADR",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-03-18",
+      "filedDate": "2025-10-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032149.pdf",
+      "late": true,
+      "note": "Professionally managed account.",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "Sanlam Ltd Sponsored ADR",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-03-18",
+      "filedDate": "2025-10-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032149.pdf",
+      "late": true,
+      "note": "Professionally managed account.",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "Schlumberger N.V. Common Stock",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-03-18",
+      "filedDate": "2025-10-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032149.pdf",
+      "late": true,
+      "note": "Professionally managed account.",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "Shinhan Financial Group Co Ltd American Depositary Shares",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-03-18",
+      "filedDate": "2025-10-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032149.pdf",
+      "late": true,
+      "note": "Professionally managed account.",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "Sinopharm Group Co. Ltd Unsponsored ADR",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-03-18",
+      "filedDate": "2025-10-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032149.pdf",
+      "late": true,
+      "note": "Professionally managed account.",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "Sociedad Quimica y Minera S.A. Common Stock",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-03-18",
+      "filedDate": "2025-10-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032149.pdf",
+      "late": true,
+      "note": "Professionally managed account.",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "Standard Bank Group Limited Sponsored ADR",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-03-18",
+      "filedDate": "2025-10-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032149.pdf",
+      "late": true,
+      "note": "Professionally managed account.",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "TENCENT HLDGS UNSP/ADR",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-03-18",
+      "filedDate": "2025-10-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032149.pdf",
+      "late": true,
+      "note": "Professionally managed account.",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "Taiwan Semiconductor Manufacturing Company Ltd.",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-03-18",
+      "filedDate": "2025-10-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032149.pdf",
+      "late": true,
+      "note": "Professionally managed account.",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "Ternium S.A. Ternium S.A. American Depositary Shares",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-03-18",
+      "filedDate": "2025-10-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032149.pdf",
+      "late": true,
+      "note": "Professionally managed account.",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "Tingyi Cayman Islands Hldgs Cp Sponsored ADR",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-03-18",
+      "filedDate": "2025-10-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032149.pdf",
+      "late": true,
+      "note": "Professionally managed account.",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "Unilever PLC Common Stock",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-03-18",
+      "filedDate": "2025-10-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032149.pdf",
+      "late": true,
+      "note": "Professionally managed account.",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "VALE S.A. American Depositary Shares Each Representing one common share",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-03-18",
+      "filedDate": "2025-10-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032149.pdf",
+      "late": true,
+      "note": "Professionally managed account.",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "VIBRA ENERGIA UNSP/ADR",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-03-18",
+      "filedDate": "2025-10-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032149.pdf",
+      "late": true,
+      "note": "Professionally managed account.",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "VODACOM GROUP LTD S/ADR",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-03-18",
+      "filedDate": "2025-10-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032149.pdf",
+      "late": true,
+      "note": "Professionally managed account.",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "JP Morgan Chase Finance",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 250001,
+        "hi": 500000
+      },
+      "transactionDate": "2025-03-17",
+      "filedDate": "2025-10-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032149.pdf",
+      "late": true,
+      "note": "Structured investment product based on EURO STOXX 50, Nikkei 225, FTSE 100, Swiss Market, and S&P/ASX 200 indices. Professionally managed account.",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "Bank of Nova Scotia Finance",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2025-03-14",
+      "filedDate": "2025-10-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032149.pdf",
+      "late": true,
+      "note": "Structured investment product based on FXI. Professionally managed account.",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "JP Morgan Chase Finance",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 500001,
+        "hi": 1000000
+      },
+      "transactionDate": "2025-03-14",
+      "filedDate": "2025-10-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032149.pdf",
+      "late": true,
+      "note": "Structured Product linked to the performance of the EURO STOXX 50 Index, Nikkei 225 Index, FTSE 100 Index, Swiss Market Index, and S&P/ASX 200 Index. Professionally managed account.",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "Morgan Stanley Finance",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 250001,
+        "hi": 500000
+      },
+      "transactionDate": "2025-03-14",
+      "filedDate": "2025-10-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032149.pdf",
+      "late": true,
+      "note": "Structured investment product based on INDU, SPX indices. Professionally managed account.",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "Oaktree Strategic Credit Fund Class S",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-03-03",
+      "filedDate": "2025-10-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032149.pdf",
+      "late": true,
+      "note": "Dividend reinvestment in a professionally managed account – Business Development Company.",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "iCapital-Arctos Sports Partners Fund II",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-02-27",
+      "filedDate": "2025-10-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032149.pdf",
+      "late": true,
+      "note": "Dividend reinvestment in a professionally managed account.",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "Oaktree Strategic Credit Fund Class S",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-02-26",
+      "filedDate": "2025-10-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032149.pdf",
+      "late": true,
+      "note": "Dividend reinvestment in a professionally managed account – Business Development Company.",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "Apollo Debt Solutions BDC Class S",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-02-03",
+      "filedDate": "2025-10-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032149.pdf",
+      "late": true,
+      "note": "Dividend reinvestment in a professionally managed account – Business Development Company.",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "Oaktree Strategic Credit Fund Class S",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-02-03",
+      "filedDate": "2025-10-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032149.pdf",
+      "late": true,
+      "note": "Dividend reinvestment in a professionally managed account – Business Development Company.",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "Apollo Debt Solutions BDC Class S",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-01-06",
+      "filedDate": "2025-10-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032149.pdf",
+      "late": true,
+      "note": "Dividend reinvestment in a professionally managed account – Business Development Company.",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "SL Partners VII (ICapital) Fund",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2025-01-06",
+      "filedDate": "2025-10-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032149.pdf",
+      "late": true,
+      "note": "Professionally managed account",
+      "provenance": "kadoa"
+    }
+  ],
+  "series": [
+    {
+      "date": "2025-01-06",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-01-06",
+      "value": 32500.5
+    },
+    {
+      "date": "2025-02-03",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-02-03",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-02-26",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-02-27",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-03-03",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-03-14",
+      "value": 175000.5
+    },
+    {
+      "date": "2025-03-14",
+      "value": 750000.5
+    },
+    {
+      "date": "2025-03-14",
+      "value": 375000.5
+    },
+    {
+      "date": "2025-03-17",
+      "value": 375000.5
+    },
+    {
+      "date": "2025-03-18",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-03-18",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-03-18",
+      "value": 32500.5
+    },
+    {
+      "date": "2025-03-18",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-03-18",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-03-18",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-03-18",
+      "value": 32500.5
+    },
+    {
+      "date": "2025-03-18",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-03-18",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-03-18",
+      "value": 32500.5
+    },
+    {
+      "date": "2025-03-18",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-03-18",
+      "value": 32500.5
+    },
+    {
+      "date": "2025-03-18",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-03-18",
+      "value": 32500.5
+    },
+    {
+      "date": "2025-03-18",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-03-18",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-03-18",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-03-18",
+      "value": 32500.5
+    },
+    {
+      "date": "2025-03-18",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-03-18",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-03-18",
+      "value": 32500.5
+    },
+    {
+      "date": "2025-03-18",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-03-18",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-03-18",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-03-18",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-03-18",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-03-18",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-03-18",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-03-18",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-03-18",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-03-18",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-03-18",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-03-18",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-03-18",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-03-18",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-03-18",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-03-18",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-03-18",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-03-18",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-03-18",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-03-18",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-03-18",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-03-18",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-03-18",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-03-18",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-03-18",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-03-18",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-03-18",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-03-18",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-03-18",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-03-18",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-03-18",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-03-18",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-03-18",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-03-18",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-03-18",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-03-18",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-03-19",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-03-19",
+      "value": 750000.5
+    },
+    {
+      "date": "2025-03-19",
+      "value": 32500.5
+    },
+    {
+      "date": "2025-03-19",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-03-19",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-03-19",
+      "value": 32500.5
+    },
+    {
+      "date": "2025-03-19",
+      "value": 32500.5
+    },
+    {
+      "date": "2025-03-19",
+      "value": 32500.5
+    },
+    {
+      "date": "2025-03-19",
+      "value": 32500.5
+    },
+    {
+      "date": "2025-03-19",
+      "value": 32500.5
+    },
+    {
+      "date": "2025-03-19",
+      "value": 32500.5
+    },
+    {
+      "date": "2025-03-19",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-03-19",
+      "value": 32500.5
+    },
+    {
+      "date": "2025-03-19",
+      "value": 32500.5
+    },
+    {
+      "date": "2025-03-19",
+      "value": 32500.5
+    },
+    {
+      "date": "2025-03-19",
+      "value": 32500.5
+    },
+    {
+      "date": "2025-03-19",
+      "value": 32500.5
+    },
+    {
+      "date": "2025-03-19",
+      "value": 32500.5
+    },
+    {
+      "date": "2025-03-19",
+      "value": 32500.5
+    },
+    {
+      "date": "2025-03-19",
+      "value": 32500.5
+    },
+    {
+      "date": "2025-03-19",
+      "value": 32500.5
+    },
+    {
+      "date": "2025-03-19",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-03-19",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-03-19",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-03-19",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-03-19",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-03-19",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-03-19",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-03-19",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-03-19",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-03-19",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-03-19",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-03-19",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-03-19",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-03-19",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-03-19",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-03-19",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-03-19",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-03-19",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-03-19",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-03-19",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-03-19",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-03-19",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-03-19",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-03-19",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-03-19",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-03-19",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-03-19",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-03-19",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-03-19",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-03-19",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-03-26",
+      "value": 375000.5
+    },
+    {
+      "date": "2025-03-26",
+      "value": 375000.5
+    },
+    {
+      "date": "2025-03-26",
+      "value": 375000.5
+    },
+    {
+      "date": "2025-03-27",
+      "value": 375000.5
+    },
+    {
+      "date": "2025-03-27",
+      "value": 375000.5
+    },
+    {
+      "date": "2025-03-27",
+      "value": 3000000.5
+    },
+    {
+      "date": "2025-03-27",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-03-31",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-04-01",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-04-15",
+      "value": 375000.5
+    },
+    {
+      "date": "2025-04-22",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-04-28",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-05-01",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-05-27",
+      "value": 375000.5
+    },
+    {
+      "date": "2025-05-28",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-05-30",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-05-30",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-05-30",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-05-30",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-05-30",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-05-30",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-05-30",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-05-30",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-05-30",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-05-30",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-05-30",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-05-30",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-05-30",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-05-30",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-05-30",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-05-30",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-05-30",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-05-30",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-05-30",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-05-30",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-05-30",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-05-30",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-05-30",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-05-30",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-05-30",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-05-30",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-05-30",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-05-30",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-05-30",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-05-30",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-05-30",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-05-30",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-06-02",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-06-04",
+      "value": 32500.5
+    },
+    {
+      "date": "2025-06-17",
+      "value": 32500.5
+    },
+    {
+      "date": "2025-06-26",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-07-09",
+      "value": 175000.5
+    },
+    {
+      "date": "2025-07-30",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-07-31",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-08-01",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-08-18",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-08-25",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-08-25",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-08-25",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-08-25",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-08-25",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-08-25",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-08-25",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-08-25",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-08-25",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-08-25",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-08-27",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-08-29",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-09-18",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-09-29",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-10-01",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-10-29",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-10-30",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-11-04",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-11-17",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-11-28",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-12-01",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-12-02",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-12-02",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-12-02",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-12-02",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-12-02",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-12-02",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-12-02",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-12-02",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-12-02",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-12-02",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-12-02",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-12-02",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-12-02",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-12-02",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-12-02",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-12-02",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-12-02",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-12-12",
+      "value": 32500.5
+    },
+    {
+      "date": "2025-12-22",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-12-22",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-12-22",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-12-22",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-12-22",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-12-22",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-12-22",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-12-22",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-12-22",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-12-22",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-12-22",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-12-22",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-12-22",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-12-22",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-12-22",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-12-22",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-12-22",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-12-22",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-12-22",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-12-22",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-12-26",
+      "value": 375000.5
+    },
+    {
+      "date": "2025-12-26",
+      "value": 75000.5
+    },
+    {
+      "date": "2025-12-26",
+      "value": 375000.5
+    },
+    {
+      "date": "2025-12-30",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-12-30",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-12-31",
+      "value": 75000.5
+    },
+    {
+      "date": "2025-12-31",
+      "value": 75000.5
+    },
+    {
+      "date": "2026-01-05",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-02-04",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-02-04",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-02-06",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-02-15",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-02-17",
+      "value": 32500.5
+    },
+    {
+      "date": "2026-02-18",
+      "value": 32500.5
+    },
+    {
+      "date": "2026-02-19",
+      "value": 175000.5
+    },
+    {
+      "date": "2026-02-27",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-03-03",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-03-04",
+      "value": 175000.5
+    },
+    {
+      "date": "2026-03-27",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-03-30",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-04-28",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-05-01",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-05-27",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-05-29",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-06-30",
+      "value": 8000.5
+    }
+  ],
+  "measured": null
+}

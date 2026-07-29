@@ -1,0 +1,157 @@
+{
+  "member": {
+    "bioguideId": "V000128",
+    "lisId": "S390",
+    "name": "Chris Van Hollen",
+    "party": "D",
+    "chamber": "senate",
+    "state": "MD",
+    "active": true
+  },
+  "positions": [],
+  "trades": [
+    {
+      "memberId": "V000128",
+      "assetRaw": "AT&T Inc.",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-02-17",
+      "filedDate": "2017-03-13",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/d729aa53-3864-4ec2-8087-62ba351859c7/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "V000128",
+      "assetRaw": "General Electric Company",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2017-02-17",
+      "filedDate": "2017-03-13",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/d729aa53-3864-4ec2-8087-62ba351859c7/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "V000128",
+      "assetRaw": "JNJ-Johnson & Johnson",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-02-17",
+      "filedDate": "2017-03-13",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/d729aa53-3864-4ec2-8087-62ba351859c7/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "V000128",
+      "assetRaw": "Pepsico, Inc.",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2017-02-17",
+      "filedDate": "2017-03-13",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/d729aa53-3864-4ec2-8087-62ba351859c7/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "V000128",
+      "assetRaw": "Verizon Communications Inc.",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-02-17",
+      "filedDate": "2017-03-13",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/d729aa53-3864-4ec2-8087-62ba351859c7/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "V000128",
+      "assetRaw": "Yum China Holdings, Inc.",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-02-17",
+      "filedDate": "2017-03-13",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/d729aa53-3864-4ec2-8087-62ba351859c7/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "V000128",
+      "assetRaw": "Yum! Brands, Inc.",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-02-17",
+      "filedDate": "2017-03-13",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/d729aa53-3864-4ec2-8087-62ba351859c7/",
+      "late": false,
+      "provenance": "kadoa"
+    }
+  ],
+  "series": [
+    {
+      "date": "2017-02-17",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-02-17",
+      "value": 32500.5
+    },
+    {
+      "date": "2017-02-17",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-02-17",
+      "value": 32500.5
+    },
+    {
+      "date": "2017-02-17",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-02-17",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-02-17",
+      "value": 8000.5
+    }
+  ],
+  "measured": null
+}

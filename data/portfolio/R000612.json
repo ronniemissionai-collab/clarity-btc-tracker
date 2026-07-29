@@ -1,0 +1,298 @@
+{
+  "member": {
+    "bioguideId": "R000612",
+    "name": "John W. Rose",
+    "party": "R",
+    "chamber": "house",
+    "state": "TN",
+    "district": "TN-06",
+    "active": true
+  },
+  "positions": [
+    {
+      "memberId": "R000612",
+      "security": {
+        "ticker": "SMCWX",
+        "kind": "other"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 500001,
+        "hi": 1000000
+      },
+      "status": "sold",
+      "asOf": "2025-06-03",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030610.pdf"
+        }
+      ],
+      "note": "sale reported by PTR with no annual baseline in our coverage"
+    }
+  ],
+  "trades": [
+    {
+      "memberId": "R000612",
+      "assetRaw": "FIMM MONEY MARKET PORT FUND INSTL CL M/M",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2025-06-23",
+      "filedDate": "2025-07-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030611.pdf",
+      "late": false,
+      "note": "FIMM MONEY MARKET PORT FUND INSTL CL M/M (FNSXX) JPMORGAN U.S. GOVERNMENT MONEY MARKET FD CAPITAL CL M/M (Symbol: OGVXX) TDL: 006682076|4|N|4812C [OT]",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000612",
+      "assetRaw": "AMERICAN FUNDS CAPITAL WORLD GROWTH & INCOME FD CL A M/F (Symbol: CWGIX)",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 250001,
+        "hi": 500000
+      },
+      "transactionDate": "2025-06-03",
+      "filedDate": "2025-07-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030610.pdf",
+      "late": false,
+      "note": "AMERICAN FUNDS CAPITAL WORLD GROWTH & INCOME FD CL A M/F (Symbol: CWGIX)",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000612",
+      "assetRaw": "AMERICAN FUNDS EUPAC FUND CL A M/F (Symbol: AEPGX)",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 250001,
+        "hi": 500000
+      },
+      "transactionDate": "2025-06-03",
+      "filedDate": "2025-07-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030610.pdf",
+      "late": false,
+      "note": "AMERICAN FUNDS EUPAC FUND CL A M/F (Symbol: AEPGX)",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000612",
+      "assetRaw": "AMERICAN FUNDS GROWTH FUND OF AMERICA FUND CL A M/F (Symbol: AGTHX)",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 500001,
+        "hi": 1000000
+      },
+      "transactionDate": "2025-06-03",
+      "filedDate": "2025-07-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030610.pdf",
+      "late": false,
+      "note": "AMERICAN FUNDS GROWTH FUND OF AMERICA FUND CL A M/F (Symbol: AGTHX)",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000612",
+      "assetRaw": "AMERICAN FUNDS INVESTMENT CO OF AMERICA FD CL A M/F (Symbol: AIVSX)",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 250001,
+        "hi": 500000
+      },
+      "transactionDate": "2025-06-03",
+      "filedDate": "2025-07-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030610.pdf",
+      "late": false,
+      "note": "AMERICAN FUNDS INVESTMENT CO OF AMERICA FD CL A M/F (Symbol: AIVSX)",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000612",
+      "assetRaw": "AMERICAN FUNDS SMALLCAP WORLD FUND CL A M/F (SMCWX)",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 500001,
+        "hi": 1000000
+      },
+      "transactionDate": "2025-06-03",
+      "filedDate": "2025-07-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030610.pdf",
+      "late": false,
+      "note": "AMERICAN FUNDS SMALLCAP WORLD FUND CL A M/F (SMCWX)",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000612",
+      "assetRaw": "AMERICAN FUNDS SMALLCAP WORLD FUND CL A M/F (Symbol: SMCWX)",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 500001,
+        "hi": 1000000
+      },
+      "transactionDate": "2025-06-03",
+      "filedDate": "2025-07-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030610.pdf",
+      "late": false,
+      "note": "AMERICAN FUNDS SMALLCAP WORLD FUND CL A M/F (Symbol: SMCWX)",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000612",
+      "assetRaw": "Alphabet Inc. - Class A Common Stock",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1000001,
+        "hi": 5000000
+      },
+      "transactionDate": "2025-06-03",
+      "filedDate": "2025-07-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030610.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000612",
+      "assetRaw": "Alphabet Inc. - Class C Capital Stock",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 250001,
+        "hi": 500000
+      },
+      "transactionDate": "2025-06-03",
+      "filedDate": "2025-07-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030610.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000612",
+      "assetRaw": "JPMORGAN U.S. GOVERNMENT MONEY MARKET FD CAPITAL CL M/M (Symbol: OGVXX)",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1000001,
+        "hi": 5000000
+      },
+      "transactionDate": "2025-06-03",
+      "filedDate": "2025-07-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030610.pdf",
+      "late": false,
+      "note": "JPMORGAN U.S. GOVERNMENT MONEY MARKET FD CAPITAL CL M/M (Symbol: OGVXX)",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000612",
+      "assetRaw": "Microsoft Corporation - Common Stock",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 250001,
+        "hi": 500000
+      },
+      "transactionDate": "2025-06-03",
+      "filedDate": "2025-07-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030610.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000612",
+      "assetRaw": "Continental Resources, Inc.",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2022-11-29",
+      "filedDate": "2022-12-30",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20022196.pdf",
+      "late": false,
+      "note": "This transaction was a forced sale as the result of a cash tender offer. Gain over the 15+ year holding period exceeded $200 but is not taxable given the status of this account.",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000612",
+      "assetRaw": "Tennessee Farmers Life Insurance Company [PS]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2022-09-28",
+      "filedDate": "2022-10-11",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021831.pdf",
+      "late": false,
+      "note": "Purchase of unregistered shares in a private treaty transaction.",
+      "provenance": "kadoa"
+    }
+  ],
+  "series": [
+    {
+      "date": "2022-09-28",
+      "value": 75000.5
+    },
+    {
+      "date": "2022-11-29",
+      "value": 32500.5
+    },
+    {
+      "date": "2025-06-03",
+      "value": 375000.5
+    },
+    {
+      "date": "2025-06-03",
+      "value": 375000.5
+    },
+    {
+      "date": "2025-06-03",
+      "value": 750000.5
+    },
+    {
+      "date": "2025-06-03",
+      "value": 375000.5
+    },
+    {
+      "date": "2025-06-03",
+      "value": 750000.5
+    },
+    {
+      "date": "2025-06-03",
+      "value": 750000.5
+    },
+    {
+      "date": "2025-06-03",
+      "value": 3000000.5
+    },
+    {
+      "date": "2025-06-03",
+      "value": 375000.5
+    },
+    {
+      "date": "2025-06-03",
+      "value": 3000000.5
+    },
+    {
+      "date": "2025-06-03",
+      "value": 375000.5
+    },
+    {
+      "date": "2025-06-23",
+      "value": 32500.5
+    }
+  ],
+  "measured": null
+}

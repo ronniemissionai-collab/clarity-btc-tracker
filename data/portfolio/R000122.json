@@ -1,0 +1,4890 @@
+{
+  "member": {
+    "bioguideId": "R000122",
+    "lisId": "S259",
+    "name": "Jack Reed",
+    "party": "D",
+    "chamber": "senate",
+    "state": "RI",
+    "active": true
+  },
+  "positions": [
+    {
+      "memberId": "R000122",
+      "security": {
+        "ticker": "NASDAQ",
+        "kind": "other"
+      },
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "stale",
+      "asOf": "2015-07-29",
+      "extraction": "efd-html",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://efdsearch.senate.gov/search/view/ptr/2089ac5e-1cb6-4365-9c64-74fe7ebfa458/"
+        }
+      ]
+    },
+    {
+      "memberId": "R000122",
+      "security": {
+        "ticker": "NASDAQ",
+        "kind": "other"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 4004,
+        "hi": 60000
+      },
+      "status": "sold",
+      "asOf": "2015-06-30",
+      "extraction": "efd-html",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://efdsearch.senate.gov/search/view/ptr/ac8d1529-ac3c-4a8a-ad76-62eef20e7614/"
+        },
+        {
+          "kind": "filing",
+          "url": "https://efdsearch.senate.gov/search/view/ptr/41ffb889-56b3-4aab-bb14-ef28d8568346/"
+        },
+        {
+          "kind": "filing",
+          "url": "https://efdsearch.senate.gov/search/view/ptr/b75cb037-87d1-4373-9f70-3f26109d1df1/"
+        }
+      ]
+    },
+    {
+      "memberId": "R000122",
+      "security": {
+        "ticker": "NYSE",
+        "kind": "other"
+      },
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "stale",
+      "asOf": "2015-06-30",
+      "extraction": "efd-html",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://efdsearch.senate.gov/search/view/ptr/b75cb037-87d1-4373-9f70-3f26109d1df1/"
+        }
+      ]
+    },
+    {
+      "memberId": "R000122",
+      "security": {
+        "ticker": "NYSE",
+        "kind": "other"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "stale",
+      "asOf": "2015-06-30",
+      "extraction": "efd-html",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://efdsearch.senate.gov/search/view/ptr/b75cb037-87d1-4373-9f70-3f26109d1df1/"
+        }
+      ]
+    }
+  ],
+  "trades": [
+    {
+      "memberId": "R000122",
+      "assetRaw": "Analog Devices, Inc.",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2019-02-28",
+      "filedDate": "2019-03-18",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/c68d808d-acc5-4e4b-8d16-6f14a7c255b6/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000122",
+      "assetRaw": "Analog Devices, Inc.",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2019-02-28",
+      "filedDate": "2019-03-18",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/c68d808d-acc5-4e4b-8d16-6f14a7c255b6/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000122",
+      "assetRaw": "Apple Inc.",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2019-02-28",
+      "filedDate": "2019-03-18",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/c68d808d-acc5-4e4b-8d16-6f14a7c255b6/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000122",
+      "assetRaw": "Apple Inc.",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2019-02-28",
+      "filedDate": "2019-03-18",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/c68d808d-acc5-4e4b-8d16-6f14a7c255b6/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000122",
+      "assetRaw": "CVS Health Corporation",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2019-02-28",
+      "filedDate": "2019-03-18",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/c68d808d-acc5-4e4b-8d16-6f14a7c255b6/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000122",
+      "assetRaw": "Celgene Corporation",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2019-02-28",
+      "filedDate": "2019-03-18",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/c68d808d-acc5-4e4b-8d16-6f14a7c255b6/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000122",
+      "assetRaw": "Costco Wholesale Corporation",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2019-02-28",
+      "filedDate": "2019-03-18",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/c68d808d-acc5-4e4b-8d16-6f14a7c255b6/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000122",
+      "assetRaw": "Danaher Corporation",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2019-02-28",
+      "filedDate": "2019-03-18",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/c68d808d-acc5-4e4b-8d16-6f14a7c255b6/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000122",
+      "assetRaw": "FedEx Corporation",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2019-02-28",
+      "filedDate": "2019-03-18",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/c68d808d-acc5-4e4b-8d16-6f14a7c255b6/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000122",
+      "assetRaw": "FedEx Corporation",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2019-02-28",
+      "filedDate": "2019-03-18",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/c68d808d-acc5-4e4b-8d16-6f14a7c255b6/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000122",
+      "assetRaw": "Hologic, Inc.",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2019-02-28",
+      "filedDate": "2019-03-18",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/c68d808d-acc5-4e4b-8d16-6f14a7c255b6/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000122",
+      "assetRaw": "IQVIA Holdings Inc.",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2019-02-28",
+      "filedDate": "2019-03-18",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/c68d808d-acc5-4e4b-8d16-6f14a7c255b6/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000122",
+      "assetRaw": "IQVIA Holdings Inc.",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2019-02-28",
+      "filedDate": "2019-03-18",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/c68d808d-acc5-4e4b-8d16-6f14a7c255b6/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000122",
+      "assetRaw": "Intel Corporation",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2019-02-28",
+      "filedDate": "2019-03-18",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/c68d808d-acc5-4e4b-8d16-6f14a7c255b6/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000122",
+      "assetRaw": "Intuitive Surgical, Inc.",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2019-02-28",
+      "filedDate": "2019-03-18",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/c68d808d-acc5-4e4b-8d16-6f14a7c255b6/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000122",
+      "assetRaw": "Microsoft Corporation",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2019-02-28",
+      "filedDate": "2019-03-18",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/c68d808d-acc5-4e4b-8d16-6f14a7c255b6/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000122",
+      "assetRaw": "PepsiCo, Inc.",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2019-02-28",
+      "filedDate": "2019-03-18",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/c68d808d-acc5-4e4b-8d16-6f14a7c255b6/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000122",
+      "assetRaw": "QUALCOMM Incorporated",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2019-02-28",
+      "filedDate": "2019-03-18",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/c68d808d-acc5-4e4b-8d16-6f14a7c255b6/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000122",
+      "assetRaw": "Schlumberger Limited",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2019-02-28",
+      "filedDate": "2019-03-18",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/c68d808d-acc5-4e4b-8d16-6f14a7c255b6/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000122",
+      "assetRaw": "Stryker Corporation",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2019-02-28",
+      "filedDate": "2019-03-18",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/c68d808d-acc5-4e4b-8d16-6f14a7c255b6/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000122",
+      "assetRaw": "Stryker Corporation",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2019-02-28",
+      "filedDate": "2019-03-18",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/c68d808d-acc5-4e4b-8d16-6f14a7c255b6/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000122",
+      "assetRaw": "Thermo Fisher Scientific Inc.",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2019-02-28",
+      "filedDate": "2019-03-18",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/c68d808d-acc5-4e4b-8d16-6f14a7c255b6/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000122",
+      "assetRaw": "Thermo Fisher Scientific Inc.",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2019-02-28",
+      "filedDate": "2019-03-18",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/c68d808d-acc5-4e4b-8d16-6f14a7c255b6/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000122",
+      "assetRaw": "Xilinx, Inc.",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2019-02-28",
+      "filedDate": "2019-03-18",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/c68d808d-acc5-4e4b-8d16-6f14a7c255b6/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000122",
+      "assetRaw": "Xilinx, Inc.",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2019-02-28",
+      "filedDate": "2019-03-18",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/c68d808d-acc5-4e4b-8d16-6f14a7c255b6/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000122",
+      "assetRaw": "Amgen Inc.",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2019-02-04",
+      "filedDate": "2019-03-01",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/1de2ebb1-01be-46f9-9b02-9e4b7b6c5a09/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000122",
+      "assetRaw": "Apple Inc.",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2019-02-04",
+      "filedDate": "2019-03-01",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/1de2ebb1-01be-46f9-9b02-9e4b7b6c5a09/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000122",
+      "assetRaw": "CVS Health Corporation",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2019-02-04",
+      "filedDate": "2019-03-01",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/1de2ebb1-01be-46f9-9b02-9e4b7b6c5a09/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000122",
+      "assetRaw": "Cisco Systems, Inc.",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2019-02-04",
+      "filedDate": "2019-03-01",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/1de2ebb1-01be-46f9-9b02-9e4b7b6c5a09/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000122",
+      "assetRaw": "Costco Wholesale Corporation",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2019-02-04",
+      "filedDate": "2019-03-01",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/1de2ebb1-01be-46f9-9b02-9e4b7b6c5a09/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000122",
+      "assetRaw": "Danaher Corporation",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2019-02-04",
+      "filedDate": "2019-03-01",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/1de2ebb1-01be-46f9-9b02-9e4b7b6c5a09/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000122",
+      "assetRaw": "FedEx Corporation",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2019-02-04",
+      "filedDate": "2019-03-01",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/1de2ebb1-01be-46f9-9b02-9e4b7b6c5a09/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000122",
+      "assetRaw": "Honeywell International Inc.",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2019-02-04",
+      "filedDate": "2019-03-01",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/1de2ebb1-01be-46f9-9b02-9e4b7b6c5a09/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000122",
+      "assetRaw": "IQVIA Holdings Inc.",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2019-02-04",
+      "filedDate": "2019-03-01",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/1de2ebb1-01be-46f9-9b02-9e4b7b6c5a09/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000122",
+      "assetRaw": "Illinois Tool Works Inc.",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2019-02-04",
+      "filedDate": "2019-03-01",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/1de2ebb1-01be-46f9-9b02-9e4b7b6c5a09/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000122",
+      "assetRaw": "Intel Corporation",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2019-02-04",
+      "filedDate": "2019-03-01",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/1de2ebb1-01be-46f9-9b02-9e4b7b6c5a09/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000122",
+      "assetRaw": "Intuitive Surgical, Inc.",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2019-02-04",
+      "filedDate": "2019-03-01",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/1de2ebb1-01be-46f9-9b02-9e4b7b6c5a09/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000122",
+      "assetRaw": "QUALCOMM Incorporated",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2019-02-04",
+      "filedDate": "2019-03-01",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/1de2ebb1-01be-46f9-9b02-9e4b7b6c5a09/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000122",
+      "assetRaw": "Stryker Corporation",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2019-02-04",
+      "filedDate": "2019-03-01",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/1de2ebb1-01be-46f9-9b02-9e4b7b6c5a09/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000122",
+      "assetRaw": "Vertex Pharmaceuticals Incorporated",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2019-02-04",
+      "filedDate": "2019-03-01",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/1de2ebb1-01be-46f9-9b02-9e4b7b6c5a09/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000122",
+      "assetRaw": "Xilinx, Inc.",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2019-02-04",
+      "filedDate": "2019-03-01",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/1de2ebb1-01be-46f9-9b02-9e4b7b6c5a09/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000122",
+      "assetRaw": "Allergan plc",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2018-11-28",
+      "filedDate": "2018-12-12",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/a8a92287-4029-427b-8566-9bd710d3fff1/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000122",
+      "assetRaw": "Hologic, Inc.",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2018-11-28",
+      "filedDate": "2018-12-12",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/a8a92287-4029-427b-8566-9bd710d3fff1/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000122",
+      "assetRaw": "United Natural Foods, Inc.",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2018-07-27",
+      "filedDate": "2018-08-01",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/0af0f4bd-5898-4660-8754-3b611beab6bd/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000122",
+      "assetRaw": "Danaher Corporation",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2018-07-05",
+      "filedDate": "2018-07-18",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/933ba436-9551-4e92-ac77-dc357267292d/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000122",
+      "assetRaw": "Amgen Inc.",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2018-03-09",
+      "filedDate": "2018-03-12",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/63409db6-5b28-43aa-aa0f-d6594a8f15b4/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000122",
+      "assetRaw": "Analog Devices, Inc.",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2018-03-09",
+      "filedDate": "2018-03-12",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/63409db6-5b28-43aa-aa0f-d6594a8f15b4/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000122",
+      "assetRaw": "Apple Inc.",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2018-03-09",
+      "filedDate": "2018-03-12",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/63409db6-5b28-43aa-aa0f-d6594a8f15b4/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000122",
+      "assetRaw": "CVS Health Corporation",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2018-03-09",
+      "filedDate": "2018-03-12",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/63409db6-5b28-43aa-aa0f-d6594a8f15b4/",
+      "late": false,
+      "note": "Less than $1000",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000122",
+      "assetRaw": "Cisco Systems, Inc.",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2018-03-09",
+      "filedDate": "2018-03-12",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/63409db6-5b28-43aa-aa0f-d6594a8f15b4/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000122",
+      "assetRaw": "Costco Wholesale Corporation",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2018-03-09",
+      "filedDate": "2018-03-12",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/63409db6-5b28-43aa-aa0f-d6594a8f15b4/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000122",
+      "assetRaw": "Danaher Corporation",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2018-03-09",
+      "filedDate": "2018-03-12",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/63409db6-5b28-43aa-aa0f-d6594a8f15b4/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000122",
+      "assetRaw": "FedEx Corporation",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2018-03-09",
+      "filedDate": "2018-03-12",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/63409db6-5b28-43aa-aa0f-d6594a8f15b4/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000122",
+      "assetRaw": "Guggenheim S&P 500 Eq Wt Technology ETF",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2018-03-09",
+      "filedDate": "2018-03-12",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/63409db6-5b28-43aa-aa0f-d6594a8f15b4/",
+      "late": false,
+      "note": "Less than $1000",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000122",
+      "assetRaw": "Honeywell International Inc.",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2018-03-09",
+      "filedDate": "2018-03-12",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/63409db6-5b28-43aa-aa0f-d6594a8f15b4/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000122",
+      "assetRaw": "IQVIA Holdings Inc.",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2018-03-09",
+      "filedDate": "2018-03-12",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/63409db6-5b28-43aa-aa0f-d6594a8f15b4/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000122",
+      "assetRaw": "Illinois Tool Works Inc.",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2018-03-09",
+      "filedDate": "2018-03-12",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/63409db6-5b28-43aa-aa0f-d6594a8f15b4/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000122",
+      "assetRaw": "Intel Corporation",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2018-03-09",
+      "filedDate": "2018-03-12",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/63409db6-5b28-43aa-aa0f-d6594a8f15b4/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000122",
+      "assetRaw": "Intuitive Surgical, Inc.",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2018-03-09",
+      "filedDate": "2018-03-12",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/63409db6-5b28-43aa-aa0f-d6594a8f15b4/",
+      "late": false,
+      "note": "Less than $1000",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000122",
+      "assetRaw": "QUALCOMM Incorporated",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2018-03-09",
+      "filedDate": "2018-03-12",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/63409db6-5b28-43aa-aa0f-d6594a8f15b4/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000122",
+      "assetRaw": "SPDR S&P Biotech ETF",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2018-03-09",
+      "filedDate": "2018-03-12",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/63409db6-5b28-43aa-aa0f-d6594a8f15b4/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000122",
+      "assetRaw": "SPDR S&P Semiconductor ETF",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2018-03-09",
+      "filedDate": "2018-03-12",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/63409db6-5b28-43aa-aa0f-d6594a8f15b4/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000122",
+      "assetRaw": "Stryker Corporation",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2018-03-09",
+      "filedDate": "2018-03-12",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/63409db6-5b28-43aa-aa0f-d6594a8f15b4/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000122",
+      "assetRaw": "Thermo Fisher Scientific Inc.",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2018-03-09",
+      "filedDate": "2018-03-12",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/63409db6-5b28-43aa-aa0f-d6594a8f15b4/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000122",
+      "assetRaw": "Vanguard FTSE Emerging Markets ETF",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2018-03-09",
+      "filedDate": "2018-03-12",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/63409db6-5b28-43aa-aa0f-d6594a8f15b4/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000122",
+      "assetRaw": "Vertex Pharmaceuticals Incorporated",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2018-03-09",
+      "filedDate": "2018-03-12",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/63409db6-5b28-43aa-aa0f-d6594a8f15b4/",
+      "late": false,
+      "note": "Less than $1000",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000122",
+      "assetRaw": "Xilinx, Inc.",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2018-03-09",
+      "filedDate": "2018-03-12",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/63409db6-5b28-43aa-aa0f-d6594a8f15b4/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000122",
+      "assetRaw": "iShares Transportation Average ETF",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2018-03-09",
+      "filedDate": "2018-03-12",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/63409db6-5b28-43aa-aa0f-d6594a8f15b4/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000122",
+      "assetRaw": "Lattice Semiconductor Corporation",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2018-01-16",
+      "filedDate": "2018-01-29",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/47efc72f-6c88-4ca6-b2e1-05765c71cc26/",
+      "late": false,
+      "note": "Less than $1000.",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000122",
+      "assetRaw": "Lattice Semiconductor Corporation",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2018-01-12",
+      "filedDate": "2018-01-16",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/699fadc2-7371-48a5-a348-40d3fc00f538/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000122",
+      "assetRaw": "Celgene Corporation",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2018-01-11",
+      "filedDate": "2018-01-16",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/699fadc2-7371-48a5-a348-40d3fc00f538/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000122",
+      "assetRaw": "ETFMG Prime Cyber Security ETF",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2018-01-11",
+      "filedDate": "2018-01-16",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/699fadc2-7371-48a5-a348-40d3fc00f538/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000122",
+      "assetRaw": "Pepsico, Inc.",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2018-01-11",
+      "filedDate": "2018-01-16",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/699fadc2-7371-48a5-a348-40d3fc00f538/",
+      "late": false,
+      "note": "Transaction was less than $1000.",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000122",
+      "assetRaw": "United Natural Foods, Inc.",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2018-01-11",
+      "filedDate": "2018-01-16",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/699fadc2-7371-48a5-a348-40d3fc00f538/",
+      "late": false,
+      "note": "Transaction was less than $1000",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000122",
+      "assetRaw": "Allergan plc",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-10-23",
+      "filedDate": "2017-10-24",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/03dd1dcd-f724-4af3-800b-93e9d1fb3fd0/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000122",
+      "assetRaw": "Lattice Semiconductor Corporation",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-10-23",
+      "filedDate": "2017-10-24",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/03dd1dcd-f724-4af3-800b-93e9d1fb3fd0/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000122",
+      "assetRaw": "SPDR S&P Semiconductor ETF",
+      "security": null,
+      "side": "buy",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-10-23",
+      "filedDate": "2017-10-24",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/03dd1dcd-f724-4af3-800b-93e9d1fb3fd0/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000122",
+      "assetRaw": "Quintiles IMS Holdings, Inc.",
+      "security": null,
+      "side": "buy",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-09-18",
+      "filedDate": "2017-09-19",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/3119e824-d7fa-44df-8f51-e33693af10bd/",
+      "late": false,
+      "note": "Note: Transaction was less than $1,000.",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000122",
+      "assetRaw": "Quintiles IMS Holdings, Inc.",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-09-18",
+      "filedDate": "2017-09-19",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/3119e824-d7fa-44df-8f51-e33693af10bd/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000122",
+      "assetRaw": "Whole Foods Market, Inc.",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-08-17",
+      "filedDate": "2017-08-28",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/13d06aba-6825-4232-8cd2-f114dabc0938/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000122",
+      "assetRaw": "Quintiles IMS Holdings, Inc.",
+      "security": null,
+      "side": "buy",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-06-22",
+      "filedDate": "2017-06-27",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/c93d6361-2085-406a-a3a3-e75201c6def5/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000122",
+      "assetRaw": "Quintiles IMS Holdings, Inc.",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-06-22",
+      "filedDate": "2017-06-27",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/c93d6361-2085-406a-a3a3-e75201c6def5/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000122",
+      "assetRaw": "Analog Devices, Inc.",
+      "security": null,
+      "side": "buy",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-06-19",
+      "filedDate": "2017-06-20",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/8b7d2849-1062-4bc9-b230-fd1cab165b22/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000122",
+      "assetRaw": "PureFunds ISE Cyber Security ETF",
+      "security": null,
+      "side": "buy",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-06-19",
+      "filedDate": "2017-06-20",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/8b7d2849-1062-4bc9-b230-fd1cab165b22/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000122",
+      "assetRaw": "SPDR S&P Biotech ETF",
+      "security": null,
+      "side": "buy",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-06-19",
+      "filedDate": "2017-06-20",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/8b7d2849-1062-4bc9-b230-fd1cab165b22/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000122",
+      "assetRaw": "Whole Foods Market, Inc.",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-06-19",
+      "filedDate": "2017-06-20",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/8b7d2849-1062-4bc9-b230-fd1cab165b22/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000122",
+      "assetRaw": "iShares Transportation Average",
+      "security": null,
+      "side": "buy",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-06-19",
+      "filedDate": "2017-06-20",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/8b7d2849-1062-4bc9-b230-fd1cab165b22/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000122",
+      "assetRaw": "NXP Semiconductors N.V.",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-05-05",
+      "filedDate": "2017-05-10",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/ca0b6632-94b2-4687-bbb1-5f6796c3e4b5/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000122",
+      "assetRaw": "NXP Semiconductors N.V.",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-05-05",
+      "filedDate": "2017-05-10",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/ca0b6632-94b2-4687-bbb1-5f6796c3e4b5/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000122",
+      "assetRaw": "Agrium Inc.",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-04-04",
+      "filedDate": "2017-04-05",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/b6fff099-21db-484e-9119-a8d70923e256/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000122",
+      "assetRaw": "WisdomTree Investments, Inc.",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-04-04",
+      "filedDate": "2017-04-05",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/b6fff099-21db-484e-9119-a8d70923e256/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000122",
+      "assetRaw": "Express Scripts Holding Company",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-03-15",
+      "filedDate": "2017-03-16",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/a5822498-0b63-4ffc-975b-3038b25e101c/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000122",
+      "assetRaw": "Allergan plc",
+      "security": null,
+      "side": "buy",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-03-06",
+      "filedDate": "2017-03-07",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/92854eb7-296a-4d06-a52d-3cbbf5fafead/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000122",
+      "assetRaw": "Allergan plc",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-03-06",
+      "filedDate": "2017-03-07",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/e8354860-7058-44f0-966f-97e6bf65a178/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000122",
+      "assetRaw": "Analog Devices, Inc.",
+      "security": null,
+      "side": "buy",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-03-06",
+      "filedDate": "2017-03-07",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/92854eb7-296a-4d06-a52d-3cbbf5fafead/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000122",
+      "assetRaw": "Analog Devices, Inc.",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-03-06",
+      "filedDate": "2017-03-07",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/e8354860-7058-44f0-966f-97e6bf65a178/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000122",
+      "assetRaw": "Express Scripts Holding Company",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-03-06",
+      "filedDate": "2017-03-07",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/e8354860-7058-44f0-966f-97e6bf65a178/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000122",
+      "assetRaw": "FedEx Corporation",
+      "security": null,
+      "side": "buy",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-03-06",
+      "filedDate": "2017-03-07",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/92854eb7-296a-4d06-a52d-3cbbf5fafead/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000122",
+      "assetRaw": "FedEx Corporation",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-03-06",
+      "filedDate": "2017-03-07",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/e8354860-7058-44f0-966f-97e6bf65a178/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000122",
+      "assetRaw": "PureFunds ISE Cyber Security ETF",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-03-06",
+      "filedDate": "2017-03-07",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/e8354860-7058-44f0-966f-97e6bf65a178/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000122",
+      "assetRaw": "SPDR S&P Biotech ETF",
+      "security": null,
+      "side": "buy",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-03-06",
+      "filedDate": "2017-03-07",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/92854eb7-296a-4d06-a52d-3cbbf5fafead/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000122",
+      "assetRaw": "SPDR S&P Biotech ETF",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-03-06",
+      "filedDate": "2017-03-07",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/e8354860-7058-44f0-966f-97e6bf65a178/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000122",
+      "assetRaw": "TMO - Thermo Fisher Scientific Inc.",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-03-06",
+      "filedDate": "2017-03-07",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/e8354860-7058-44f0-966f-97e6bf65a178/",
+      "late": false,
+      "note": "Less than $1001.",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000122",
+      "assetRaw": "Thermo Fisher Scientific Inc.",
+      "security": null,
+      "side": "buy",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-03-06",
+      "filedDate": "2017-03-07",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/92854eb7-296a-4d06-a52d-3cbbf5fafead/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000122",
+      "assetRaw": "iShares Transportation Average",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-03-06",
+      "filedDate": "2017-03-07",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/e8354860-7058-44f0-966f-97e6bf65a178/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000122",
+      "assetRaw": "Celgene Corporation",
+      "security": null,
+      "side": "buy",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-02-21",
+      "filedDate": "2017-03-09",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/946caaf3-73c5-4395-9ffc-5001f389e371/",
+      "late": false,
+      "note": "Less than $1001.",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000122",
+      "assetRaw": "Celgene Corporation",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-02-21",
+      "filedDate": "2017-03-09",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/946caaf3-73c5-4395-9ffc-5001f389e371/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000122",
+      "assetRaw": "Pepsico, Inc.",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-01-31",
+      "filedDate": "2017-02-21",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/282d1640-d7cd-441e-845b-00f68a3a449d/",
+      "late": false,
+      "note": "Less than $1001.",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000122",
+      "assetRaw": "Pepsico, Inc.",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-01-31",
+      "filedDate": "2017-02-21",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/282d1640-d7cd-441e-845b-00f68a3a449d/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000122",
+      "assetRaw": "Emerson Electric Co.",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-01-30",
+      "filedDate": "2017-02-21",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/ea5c1111-8f2d-45b3-b34c-5fdd502fc7fb/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000122",
+      "assetRaw": "Honeywell International Inc.",
+      "security": null,
+      "side": "buy",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-01-30",
+      "filedDate": "2017-02-21",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/ea5c1111-8f2d-45b3-b34c-5fdd502fc7fb/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000122",
+      "assetRaw": "NXP Semiconductors N.V.",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-01-18",
+      "filedDate": "2017-02-01",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/de190fdc-f710-411e-bbbe-41aaf566fb1a/",
+      "late": false,
+      "note": "Sale was less than $1000.",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000122",
+      "assetRaw": "NXP Semiconductors N.V.",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-01-18",
+      "filedDate": "2017-02-01",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/de190fdc-f710-411e-bbbe-41aaf566fb1a/",
+      "late": false,
+      "note": "Sale was less than $1000.",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000122",
+      "assetRaw": "QUALCOMM Incorporated",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-01-18",
+      "filedDate": "2017-02-01",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/de190fdc-f710-411e-bbbe-41aaf566fb1a/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000122",
+      "assetRaw": "QUALCOMM Incorporated",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-01-18",
+      "filedDate": "2017-02-01",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/de190fdc-f710-411e-bbbe-41aaf566fb1a/",
+      "late": false,
+      "note": "Sale was less than $1000.",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000122",
+      "assetRaw": "Zimmer Biomet Holdings, Inc.",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2016-12-16",
+      "filedDate": "2017-01-04",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/fbe1a534-1259-442e-b587-37af2ca8ec09/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000122",
+      "assetRaw": "Zimmer Biomet Holdings, Inc.",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2016-12-16",
+      "filedDate": "2017-01-04",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/fbe1a534-1259-442e-b587-37af2ca8ec09/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000122",
+      "assetRaw": "Affiliated Managers Group, Inc.",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2016-12-14",
+      "filedDate": "2016-12-15",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/0fb8d5eb-e20b-4059-96ae-db537df609c8/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000122",
+      "assetRaw": "Affiliated Managers Group, Inc.",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2016-12-14",
+      "filedDate": "2016-12-15",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/0fb8d5eb-e20b-4059-96ae-db537df609c8/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000122",
+      "assetRaw": "Danaher Corporation",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2016-12-14",
+      "filedDate": "2016-12-15",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/0fb8d5eb-e20b-4059-96ae-db537df609c8/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000122",
+      "assetRaw": "Danaher Corporation",
+      "security": null,
+      "side": "buy",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2016-12-14",
+      "filedDate": "2016-12-15",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/0fb8d5eb-e20b-4059-96ae-db537df609c8/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000122",
+      "assetRaw": "Dell Technologies Inc.",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2016-12-14",
+      "filedDate": "2016-12-15",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/0fb8d5eb-e20b-4059-96ae-db537df609c8/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000122",
+      "assetRaw": "Intel Corporation",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2016-12-14",
+      "filedDate": "2016-12-15",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/0fb8d5eb-e20b-4059-96ae-db537df609c8/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000122",
+      "assetRaw": "SPDR S&P Semiconductor ETF",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2016-12-14",
+      "filedDate": "2016-12-15",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/0fb8d5eb-e20b-4059-96ae-db537df609c8/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000122",
+      "assetRaw": "SPDR S&P Semiconductor ETF",
+      "security": null,
+      "side": "buy",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2016-12-14",
+      "filedDate": "2016-12-15",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/0fb8d5eb-e20b-4059-96ae-db537df609c8/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000122",
+      "assetRaw": "WisdomTree Investments, Inc.",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2016-12-14",
+      "filedDate": "2016-12-15",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/0fb8d5eb-e20b-4059-96ae-db537df609c8/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000122",
+      "assetRaw": "iShares US Broker-Dealers & Secs Exchs",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2016-12-14",
+      "filedDate": "2016-12-15",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/0fb8d5eb-e20b-4059-96ae-db537df609c8/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000122",
+      "assetRaw": "FireEye, Inc.",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2016-11-23",
+      "filedDate": "2016-11-28",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/33adc80e-a7e9-443d-95d2-269d4b027478/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000122",
+      "assetRaw": "Intuitive Surgical, Inc.",
+      "security": null,
+      "side": "buy",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2016-11-23",
+      "filedDate": "2016-11-28",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/99a7a983-4c6d-4ee4-aa35-af8253d28f4a/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000122",
+      "assetRaw": "Intuitive Surgical, Inc.",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2016-11-23",
+      "filedDate": "2016-11-28",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/33adc80e-a7e9-443d-95d2-269d4b027478/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000122",
+      "assetRaw": "PureFunds ISE Cyber Security ETF",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2016-11-23",
+      "filedDate": "2016-11-28",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/33adc80e-a7e9-443d-95d2-269d4b027478/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000122",
+      "assetRaw": "SPDR S&P Semiconductor ETF",
+      "security": null,
+      "side": "buy",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2016-11-23",
+      "filedDate": "2016-11-28",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/99a7a983-4c6d-4ee4-aa35-af8253d28f4a/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000122",
+      "assetRaw": "SPDR S&P Semiconductor ETF",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2016-11-23",
+      "filedDate": "2016-11-28",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/33adc80e-a7e9-443d-95d2-269d4b027478/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000122",
+      "assetRaw": "Thermo Fisher Scientific Inc.",
+      "security": null,
+      "side": "buy",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2016-11-23",
+      "filedDate": "2016-11-28",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/99a7a983-4c6d-4ee4-aa35-af8253d28f4a/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000122",
+      "assetRaw": "Thermo Fisher Scientific Inc.",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2016-11-23",
+      "filedDate": "2016-11-28",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/33adc80e-a7e9-443d-95d2-269d4b027478/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000122",
+      "assetRaw": "Vanguard FTSE Emerging Markets ETF",
+      "security": null,
+      "side": "buy",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2016-11-23",
+      "filedDate": "2016-11-28",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/99a7a983-4c6d-4ee4-aa35-af8253d28f4a/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000122",
+      "assetRaw": "WisdomTree Investments, Inc.",
+      "security": null,
+      "side": "buy",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2016-11-23",
+      "filedDate": "2016-11-28",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/99a7a983-4c6d-4ee4-aa35-af8253d28f4a/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000122",
+      "assetRaw": "WisdomTree Investments, Inc.",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2016-11-23",
+      "filedDate": "2016-11-28",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/33adc80e-a7e9-443d-95d2-269d4b027478/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000122",
+      "assetRaw": "iShares MSCI Emerging Markets",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2016-11-23",
+      "filedDate": "2016-11-28",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/99a7a983-4c6d-4ee4-aa35-af8253d28f4a/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000122",
+      "assetRaw": "iShares Transportation Average",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2016-10-06",
+      "filedDate": "2016-10-17",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/0ffa33c9-d952-436d-96fa-f5a05b712512/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000122",
+      "assetRaw": "Danaher Corp.",
+      "security": null,
+      "side": "buy",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2016-09-22",
+      "filedDate": "2016-10-05",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/7f24a3b2-a98b-4a62-8744-ffdfc99bfec5/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000122",
+      "assetRaw": "Danaher Corp.",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2016-09-22",
+      "filedDate": "2016-10-05",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/7f24a3b2-a98b-4a62-8744-ffdfc99bfec5/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000122",
+      "assetRaw": "Thermo Fisher Scientific, Inc.",
+      "security": null,
+      "side": "buy",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2016-09-22",
+      "filedDate": "2016-10-05",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/7f24a3b2-a98b-4a62-8744-ffdfc99bfec5/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000122",
+      "assetRaw": "Thermo Fisher Scientific, Inc.",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2016-09-22",
+      "filedDate": "2016-10-05",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/7f24a3b2-a98b-4a62-8744-ffdfc99bfec5/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000122",
+      "assetRaw": "Danaher Corp.",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2016-09-12",
+      "filedDate": "2016-09-19",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/8186fc3c-f4e6-454d-8126-68d7c0800553/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000122",
+      "assetRaw": "Danaher Corp.",
+      "security": null,
+      "side": "buy",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2016-09-12",
+      "filedDate": "2016-09-19",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/8186fc3c-f4e6-454d-8126-68d7c0800553/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000122",
+      "assetRaw": "Thermo Fisher Scientific, Inc.",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2016-09-12",
+      "filedDate": "2016-09-19",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/8186fc3c-f4e6-454d-8126-68d7c0800553/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000122",
+      "assetRaw": "Thermo Fisher Scientific, Inc.",
+      "security": null,
+      "side": "buy",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2016-09-12",
+      "filedDate": "2016-09-19",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/8186fc3c-f4e6-454d-8126-68d7c0800553/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000122",
+      "assetRaw": "iShares Transportation Average",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2016-09-12",
+      "filedDate": "2016-09-19",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/8186fc3c-f4e6-454d-8126-68d7c0800553/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000122",
+      "assetRaw": "iShares Transportation Average",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2016-09-02",
+      "filedDate": "2016-09-19",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/8186fc3c-f4e6-454d-8126-68d7c0800553/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000122",
+      "assetRaw": "Affiliated Managers Group Inc.",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2016-07-25",
+      "filedDate": "2016-07-27",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/acc35b83-1ed6-4d21-ae5b-7e844646e422/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000122",
+      "assetRaw": "Affiliated Managers Group Inc.",
+      "security": null,
+      "side": "buy",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2016-07-25",
+      "filedDate": "2016-07-27",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/acc35b83-1ed6-4d21-ae5b-7e844646e422/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000122",
+      "assetRaw": "Celgene Corporation",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2016-07-25",
+      "filedDate": "2016-07-27",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/acc35b83-1ed6-4d21-ae5b-7e844646e422/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000122",
+      "assetRaw": "Celgene Corporation",
+      "security": null,
+      "side": "buy",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2016-07-25",
+      "filedDate": "2016-07-27",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/acc35b83-1ed6-4d21-ae5b-7e844646e422/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000122",
+      "assetRaw": "Microsoft Corporation",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2016-07-25",
+      "filedDate": "2016-07-27",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/acc35b83-1ed6-4d21-ae5b-7e844646e422/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000122",
+      "assetRaw": "Pepsico, Inc.",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2016-07-25",
+      "filedDate": "2016-07-27",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/acc35b83-1ed6-4d21-ae5b-7e844646e422/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000122",
+      "assetRaw": "Pepsico, Inc.",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2016-07-25",
+      "filedDate": "2016-07-27",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/acc35b83-1ed6-4d21-ae5b-7e844646e422/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000122",
+      "assetRaw": "Zimmer Biomet Holdings, Inc.",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2016-07-25",
+      "filedDate": "2016-07-27",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/acc35b83-1ed6-4d21-ae5b-7e844646e422/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000122",
+      "assetRaw": "Zimmer Biomet Holdings, Inc.",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2016-07-25",
+      "filedDate": "2016-07-27",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/acc35b83-1ed6-4d21-ae5b-7e844646e422/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000122",
+      "assetRaw": "NCR Corporation",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2016-03-03",
+      "filedDate": "2016-03-14",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/091a5ff3-b35e-4c27-bd88-c1d0858e9a97/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000122",
+      "assetRaw": "FedEx Corporation",
+      "security": null,
+      "side": "buy",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2016-02-29",
+      "filedDate": "2016-03-10",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/18dfab98-8104-46dc-be0f-032d88eaa069/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000122",
+      "assetRaw": "FedEx Corporation",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2016-02-29",
+      "filedDate": "2016-03-10",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/18dfab98-8104-46dc-be0f-032d88eaa069/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000122",
+      "assetRaw": "Celgene Corporation",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2016-02-11",
+      "filedDate": "2016-02-29",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/49a203db-a9ea-4a15-9a86-ec96dfaeb096/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000122",
+      "assetRaw": "Celgene Corporation",
+      "security": null,
+      "side": "buy",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2016-02-11",
+      "filedDate": "2016-02-29",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/49a203db-a9ea-4a15-9a86-ec96dfaeb096/",
+      "late": false,
+      "note": "Purchase was less than $1001.",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000122",
+      "assetRaw": "ProShares Short 20+ Year Treasury",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2016-01-29",
+      "filedDate": "2016-02-09",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/db28ae3b-bec7-4ae3-85f1-08fc226b5ff4/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000122",
+      "assetRaw": "ProShares Short 20+ Year Treasury",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2016-01-29",
+      "filedDate": "2016-02-09",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/db28ae3b-bec7-4ae3-85f1-08fc226b5ff4/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000122",
+      "assetRaw": "Vanguard FTSE Emerging Markets ETF",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2015-12-29",
+      "filedDate": "2016-01-14",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/820f9aa8-b741-4642-b0df-7728f66e1d4a/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000122",
+      "assetRaw": "Affiliated Managers Group AMG",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2015-12-23",
+      "filedDate": "2016-01-07",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/9e79b176-49f2-48cf-a47f-d663413b2000/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000122",
+      "assetRaw": "Claymore Trust 2 Guggenheim Shipping SEA",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2015-12-23",
+      "filedDate": "2016-01-07",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/9e79b176-49f2-48cf-a47f-d663413b2000/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000122",
+      "assetRaw": "FACTORSHARES TR PUREFUNDS ISE CYBER SEC  HACK",
+      "security": null,
+      "side": "buy",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2015-12-23",
+      "filedDate": "2016-01-07",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/46a4afd3-3a39-448a-9c61-31e2164cbc5e/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000122",
+      "assetRaw": "Fireeye Inc FEYE",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2015-12-23",
+      "filedDate": "2016-01-07",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/9e79b176-49f2-48cf-a47f-d663413b2000/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000122",
+      "assetRaw": "GUGGENHEIM S&P RYT",
+      "security": null,
+      "side": "buy",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2015-12-23",
+      "filedDate": "2016-01-07",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/46a4afd3-3a39-448a-9c61-31e2164cbc5e/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000122",
+      "assetRaw": "ISHARES IAI",
+      "security": null,
+      "side": "buy",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2015-12-23",
+      "filedDate": "2016-01-07",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/46a4afd3-3a39-448a-9c61-31e2164cbc5e/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000122",
+      "assetRaw": "NCR Corp New NCR",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2015-12-23",
+      "filedDate": "2016-01-07",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/9e79b176-49f2-48cf-a47f-d663413b2000/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000122",
+      "assetRaw": "Potash Corp of Saskatchewan Inc POT",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2015-12-23",
+      "filedDate": "2016-01-07",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/9e79b176-49f2-48cf-a47f-d663413b2000/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000122",
+      "assetRaw": "FireEye, Inc. (NASDAQ)",
+      "security": null,
+      "side": "buy",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2015-07-29",
+      "filedDate": "2015-08-06",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/2089ac5e-1cb6-4365-9c64-74fe7ebfa458/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000122",
+      "assetRaw": "Affiliated Managers Group Inc. (NYSE)",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2015-06-30",
+      "filedDate": "2015-07-16",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/b75cb037-87d1-4373-9f70-3f26109d1df1/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000122",
+      "assetRaw": "Affiliated Managers Group Inc. (NYSE)",
+      "security": null,
+      "side": "buy",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2015-06-30",
+      "filedDate": "2015-07-16",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/b75cb037-87d1-4373-9f70-3f26109d1df1/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000122",
+      "assetRaw": "Altera Corp. (NASDAQ)",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2015-06-30",
+      "filedDate": "2015-07-16",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/b75cb037-87d1-4373-9f70-3f26109d1df1/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000122",
+      "assetRaw": "Altera Corp. (NASDAQ)",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2015-06-30",
+      "filedDate": "2015-07-16",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/b75cb037-87d1-4373-9f70-3f26109d1df1/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000122",
+      "assetRaw": "Lattice Semiconductor Corporation (NASDAQ)",
+      "security": null,
+      "side": "buy",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2015-06-04",
+      "filedDate": "2015-06-15",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/41ffb889-56b3-4aab-bb14-ef28d8568346/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000122",
+      "assetRaw": "Lattice Semiconductor Corporation (NASDAQ)",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2015-06-04",
+      "filedDate": "2015-06-15",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/41ffb889-56b3-4aab-bb14-ef28d8568346/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000122",
+      "assetRaw": "SPDR Series Trust - SPDR S&P Retail ETF (NYSEArca)",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2015-05-26",
+      "filedDate": "2015-06-04",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/22badbaf-6e93-484f-a336-885432370f1a/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000122",
+      "assetRaw": "Vertex Pharmaceuticals Incorporated (NASDAQ)",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2015-05-13",
+      "filedDate": "2015-05-27",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/b76ec2ca-e1a4-40f5-a2b1-77d3dfbefdca/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000122",
+      "assetRaw": "ProShares Short 20+ Year Treasury (NYSEArca)",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2015-05-04",
+      "filedDate": "2015-05-13",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/e52c1eb3-b5cc-496b-8719-ba27adf517b2/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000122",
+      "assetRaw": "ProShares Short 20+ Year Treasury (NYSEArca)",
+      "security": null,
+      "side": "buy",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2015-05-04",
+      "filedDate": "2015-05-13",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/e52c1eb3-b5cc-496b-8719-ba27adf517b2/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000122",
+      "assetRaw": "EMC Corporation (NYSE)",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2015-04-23",
+      "filedDate": "2015-05-06",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/ac8d1529-ac3c-4a8a-ad76-62eef20e7614/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000122",
+      "assetRaw": "Express Scripts Holding Company (NASDAQ)",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2015-04-23",
+      "filedDate": "2015-05-06",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/ac8d1529-ac3c-4a8a-ad76-62eef20e7614/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000122",
+      "assetRaw": "FireEye, Inc. (NASDAQ)",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2015-04-23",
+      "filedDate": "2015-05-06",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/ac8d1529-ac3c-4a8a-ad76-62eef20e7614/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000122",
+      "assetRaw": "Microsoft Corporation (NASDAQ)",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2015-04-23",
+      "filedDate": "2015-05-06",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/ac8d1529-ac3c-4a8a-ad76-62eef20e7614/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000122",
+      "assetRaw": "Schlumberger Limited (NYSE)",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2015-04-23",
+      "filedDate": "2015-05-06",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/ac8d1529-ac3c-4a8a-ad76-62eef20e7614/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000122",
+      "assetRaw": "Actavis plc (NYSE)",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2015-03-03",
+      "filedDate": "2015-03-04",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/3d422ca8-7dc9-4d3f-9ab7-9f9e7daacf53/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000122",
+      "assetRaw": "Actavis plc (NYSE)",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2015-03-03",
+      "filedDate": "2015-03-04",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/3d422ca8-7dc9-4d3f-9ab7-9f9e7daacf53/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000122",
+      "assetRaw": "Applied Materials, Inc. (NASDAQ)",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2015-03-03",
+      "filedDate": "2015-03-04",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/3d422ca8-7dc9-4d3f-9ab7-9f9e7daacf53/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000122",
+      "assetRaw": "Mylan, Inc. (NASDAQ)",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2015-03-03",
+      "filedDate": "2015-03-04",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/3d422ca8-7dc9-4d3f-9ab7-9f9e7daacf53/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000122",
+      "assetRaw": "Amgen Inc. (NASDAQ)",
+      "security": null,
+      "side": "buy",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2015-02-20",
+      "filedDate": "2015-03-02",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/762e4b6a-5dd2-48ad-adb7-3214e58692ac/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000122",
+      "assetRaw": "Celgene Corporation (NASDAQ)",
+      "security": null,
+      "side": "buy",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2015-02-20",
+      "filedDate": "2015-03-02",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/762e4b6a-5dd2-48ad-adb7-3214e58692ac/",
+      "late": false,
+      "note": "Note: This purchase was less than $1,000.",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000122",
+      "assetRaw": "Mylan, Inc. (NASDAQ)",
+      "security": null,
+      "side": "buy",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2015-02-20",
+      "filedDate": "2015-03-02",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/762e4b6a-5dd2-48ad-adb7-3214e58692ac/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000122",
+      "assetRaw": "iShares Transportation Average (NYSEArca)",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2015-02-20",
+      "filedDate": "2015-03-02",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/762e4b6a-5dd2-48ad-adb7-3214e58692ac/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000122",
+      "assetRaw": "FireEye, Inc. (NASDAQ)",
+      "security": null,
+      "side": "buy",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2014-09-09",
+      "filedDate": "2014-09-17",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/bda7bfcd-3d65-482c-8cf2-aff54ec482b0/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000122",
+      "assetRaw": "FireEye, Inc. (NASDAQ)",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2014-09-09",
+      "filedDate": "2014-09-17",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/bda7bfcd-3d65-482c-8cf2-aff54ec482b0/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000122",
+      "assetRaw": "NXP Semiconductors NV (NASDAQ)",
+      "security": null,
+      "side": "buy",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2014-09-02",
+      "filedDate": "2014-09-11",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/fe0e11a9-38bf-4e60-8ac6-2ae1f7732f83/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000122",
+      "assetRaw": "NXP Semiconductors NV (NASDAQ)",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2014-09-02",
+      "filedDate": "2014-09-11",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/fe0e11a9-38bf-4e60-8ac6-2ae1f7732f83/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000122",
+      "assetRaw": "Celgene Corporation (NASDAQ)",
+      "security": null,
+      "side": "buy",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2014-08-19",
+      "filedDate": "2014-08-27",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/76614a3b-7669-40b3-ab73-5b49c42af0d7/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000122",
+      "assetRaw": "Celgene Corporation (NASDAQ)",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2014-08-19",
+      "filedDate": "2014-08-27",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/76614a3b-7669-40b3-ab73-5b49c42af0d7/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000122",
+      "assetRaw": "Altera Corp. (NASDAQ)",
+      "security": null,
+      "side": "buy",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2014-07-28",
+      "filedDate": "2014-08-07",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/6d829137-deb9-402d-95f8-095480868da9/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000122",
+      "assetRaw": "SPDR S&P Retail ETF",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2014-07-28",
+      "filedDate": "2014-08-07",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/6d829137-deb9-402d-95f8-095480868da9/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000122",
+      "assetRaw": "Vanguard Emerging Markets Stock Idx ETF",
+      "security": null,
+      "side": "buy",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2014-07-28",
+      "filedDate": "2014-08-07",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/6d829137-deb9-402d-95f8-095480868da9/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000122",
+      "assetRaw": "Xilinx Inc. (NASDAQ)",
+      "security": null,
+      "side": "buy",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2014-07-28",
+      "filedDate": "2014-08-07",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/6d829137-deb9-402d-95f8-095480868da9/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000122",
+      "assetRaw": "iShares MSCI Emerging Markets",
+      "security": null,
+      "side": "buy",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2014-07-28",
+      "filedDate": "2014-08-07",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/6d829137-deb9-402d-95f8-095480868da9/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000122",
+      "assetRaw": "Kansas City Southern (NYSE)",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2014-07-25",
+      "filedDate": "2014-08-01",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/ffd3260f-deaa-4a66-b243-378892ec790c/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000122",
+      "assetRaw": "Actavis plc (NYSE)",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2014-07-09",
+      "filedDate": "2014-07-23",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/e7021a39-0803-44ec-8992-837999e21ee4/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000122",
+      "assetRaw": "Actavis plc (NYSE)",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2014-05-22",
+      "filedDate": "2014-06-04",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/6b7a7936-a835-48a3-bc6c-6b04bff617cb/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000122",
+      "assetRaw": "Actavis plc (NYSE)",
+      "security": null,
+      "side": "buy",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2014-05-22",
+      "filedDate": "2014-06-04",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/6b7a7936-a835-48a3-bc6c-6b04bff617cb/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000122",
+      "assetRaw": "The Coca-Cola Company (NYSE)",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2014-04-22",
+      "filedDate": "2014-05-01",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/4a7fff78-549e-4c76-95a0-66da2b7b46c4/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000122",
+      "assetRaw": "Altera Corp. (NASDAQ)",
+      "security": null,
+      "side": "buy",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2014-03-28",
+      "filedDate": "2014-04-09",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/647ef29d-2d05-44c0-8a5f-66183194cb66/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000122",
+      "assetRaw": "Apple Inc. (NASDAQ)",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2014-03-28",
+      "filedDate": "2014-04-09",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/ae491574-c7dc-414f-b601-8b3cea60f4f7/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000122",
+      "assetRaw": "Applied Materials Inc",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2014-03-28",
+      "filedDate": "2014-04-09",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/ae491574-c7dc-414f-b601-8b3cea60f4f7/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000122",
+      "assetRaw": "Express Scripts HLDG Co.",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2014-03-28",
+      "filedDate": "2014-04-09",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/ae491574-c7dc-414f-b601-8b3cea60f4f7/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000122",
+      "assetRaw": "Freeport-McMoRan Copper & Gold Inc. (NYSE)",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2014-03-28",
+      "filedDate": "2014-04-09",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/647ef29d-2d05-44c0-8a5f-66183194cb66/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000122",
+      "assetRaw": "Global X Funds ETF",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2014-03-28",
+      "filedDate": "2014-04-09",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/ae491574-c7dc-414f-b601-8b3cea60f4f7/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000122",
+      "assetRaw": "Microsoft Corporation (NASDAQ)",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2014-03-28",
+      "filedDate": "2014-04-09",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/ae491574-c7dc-414f-b601-8b3cea60f4f7/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000122",
+      "assetRaw": "NCR Corp New",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2014-03-28",
+      "filedDate": "2014-04-09",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/ae491574-c7dc-414f-b601-8b3cea60f4f7/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000122",
+      "assetRaw": "NCR Corp New",
+      "security": null,
+      "side": "buy",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2014-03-28",
+      "filedDate": "2014-04-09",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/647ef29d-2d05-44c0-8a5f-66183194cb66/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000122",
+      "assetRaw": "PROSHARES TRUST ETF",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2014-03-28",
+      "filedDate": "2014-04-09",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/647ef29d-2d05-44c0-8a5f-66183194cb66/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000122",
+      "assetRaw": "Proshares Trust ETF",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2014-03-28",
+      "filedDate": "2014-04-09",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/ae491574-c7dc-414f-b601-8b3cea60f4f7/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000122",
+      "assetRaw": "Qualcomm Inc.",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2014-03-28",
+      "filedDate": "2014-04-09",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/ae491574-c7dc-414f-b601-8b3cea60f4f7/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000122",
+      "assetRaw": "SANOFI ADR",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2014-03-28",
+      "filedDate": "2014-04-09",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/647ef29d-2d05-44c0-8a5f-66183194cb66/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000122",
+      "assetRaw": "SPDR S&P Biotech ETF",
+      "security": null,
+      "side": "buy",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2014-03-28",
+      "filedDate": "2014-04-09",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/647ef29d-2d05-44c0-8a5f-66183194cb66/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000122",
+      "assetRaw": "Sanofi ADR",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2014-03-28",
+      "filedDate": "2014-04-09",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/ae491574-c7dc-414f-b601-8b3cea60f4f7/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000122",
+      "assetRaw": "XILINX Inc.",
+      "security": null,
+      "side": "buy",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2014-03-28",
+      "filedDate": "2014-04-09",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/647ef29d-2d05-44c0-8a5f-66183194cb66/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000122",
+      "assetRaw": "Zimmer Holdings, Inc. (NYSE)",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2014-03-28",
+      "filedDate": "2014-04-09",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/ae491574-c7dc-414f-b601-8b3cea60f4f7/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000122",
+      "assetRaw": "Zimmer Holdings, Inc. (NYSE)",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2014-03-17",
+      "filedDate": "2014-03-27",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/e2110960-61ee-40c1-9b2f-44d8ffa76bc7/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000122",
+      "assetRaw": "Vodafone Group Public Limited Company (NASDAQ)",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2014-02-21",
+      "filedDate": "2014-03-05",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/895379c9-52eb-4882-9eae-761366f59a89/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000122",
+      "assetRaw": "Zimmer Holdings Inc.",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2014-02-03",
+      "filedDate": "2014-02-12",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/d642124a-5dfb-4bea-befa-0fcb41d43d86/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000122",
+      "assetRaw": "Zimmer Holdings, Inc.",
+      "security": null,
+      "side": "buy",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2014-02-03",
+      "filedDate": "2014-02-12",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/d642124a-5dfb-4bea-befa-0fcb41d43d86/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000122",
+      "assetRaw": "CVS Caremark Corporation",
+      "security": null,
+      "side": "buy",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2014-01-21",
+      "filedDate": "2014-01-29",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/76c09e15-7887-45fd-94cb-0cc5060d7864/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000122",
+      "assetRaw": "CVS Caremark Corporation",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2014-01-21",
+      "filedDate": "2014-01-29",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/76c09e15-7887-45fd-94cb-0cc5060d7864/",
+      "late": false,
+      "provenance": "kadoa"
+    }
+  ],
+  "series": [
+    {
+      "date": "2014-01-21",
+      "value": 8000.5
+    },
+    {
+      "date": "2014-01-21",
+      "value": 8000.5
+    },
+    {
+      "date": "2014-02-03",
+      "value": 8000.5
+    },
+    {
+      "date": "2014-02-03",
+      "value": 8000.5
+    },
+    {
+      "date": "2014-02-21",
+      "value": 8000.5
+    },
+    {
+      "date": "2014-03-17",
+      "value": 8000.5
+    },
+    {
+      "date": "2014-03-28",
+      "value": 8000.5
+    },
+    {
+      "date": "2014-03-28",
+      "value": 8000.5
+    },
+    {
+      "date": "2014-03-28",
+      "value": 8000.5
+    },
+    {
+      "date": "2014-03-28",
+      "value": 8000.5
+    },
+    {
+      "date": "2014-03-28",
+      "value": 8000.5
+    },
+    {
+      "date": "2014-03-28",
+      "value": 8000.5
+    },
+    {
+      "date": "2014-03-28",
+      "value": 8000.5
+    },
+    {
+      "date": "2014-03-28",
+      "value": 8000.5
+    },
+    {
+      "date": "2014-03-28",
+      "value": 8000.5
+    },
+    {
+      "date": "2014-03-28",
+      "value": 8000.5
+    },
+    {
+      "date": "2014-03-28",
+      "value": 8000.5
+    },
+    {
+      "date": "2014-03-28",
+      "value": 8000.5
+    },
+    {
+      "date": "2014-03-28",
+      "value": 8000.5
+    },
+    {
+      "date": "2014-03-28",
+      "value": 8000.5
+    },
+    {
+      "date": "2014-03-28",
+      "value": 8000.5
+    },
+    {
+      "date": "2014-03-28",
+      "value": 8000.5
+    },
+    {
+      "date": "2014-03-28",
+      "value": 8000.5
+    },
+    {
+      "date": "2014-04-22",
+      "value": 8000.5
+    },
+    {
+      "date": "2014-05-22",
+      "value": 8000.5
+    },
+    {
+      "date": "2014-05-22",
+      "value": 8000.5
+    },
+    {
+      "date": "2014-07-09",
+      "value": 8000.5
+    },
+    {
+      "date": "2014-07-25",
+      "value": 8000.5
+    },
+    {
+      "date": "2014-07-28",
+      "value": 8000.5
+    },
+    {
+      "date": "2014-07-28",
+      "value": 8000.5
+    },
+    {
+      "date": "2014-07-28",
+      "value": 8000.5
+    },
+    {
+      "date": "2014-07-28",
+      "value": 8000.5
+    },
+    {
+      "date": "2014-07-28",
+      "value": 8000.5
+    },
+    {
+      "date": "2014-08-19",
+      "value": 8000.5
+    },
+    {
+      "date": "2014-08-19",
+      "value": 8000.5
+    },
+    {
+      "date": "2014-09-02",
+      "value": 8000.5
+    },
+    {
+      "date": "2014-09-02",
+      "value": 8000.5
+    },
+    {
+      "date": "2014-09-09",
+      "value": 8000.5
+    },
+    {
+      "date": "2014-09-09",
+      "value": 8000.5
+    },
+    {
+      "date": "2015-02-20",
+      "value": 8000.5
+    },
+    {
+      "date": "2015-02-20",
+      "value": 8000.5
+    },
+    {
+      "date": "2015-02-20",
+      "value": 8000.5
+    },
+    {
+      "date": "2015-02-20",
+      "value": 8000.5
+    },
+    {
+      "date": "2015-03-03",
+      "value": 8000.5
+    },
+    {
+      "date": "2015-03-03",
+      "value": 8000.5
+    },
+    {
+      "date": "2015-03-03",
+      "value": 8000.5
+    },
+    {
+      "date": "2015-03-03",
+      "value": 8000.5
+    },
+    {
+      "date": "2015-04-23",
+      "value": 8000.5
+    },
+    {
+      "date": "2015-04-23",
+      "value": 8000.5
+    },
+    {
+      "date": "2015-04-23",
+      "value": 8000.5
+    },
+    {
+      "date": "2015-04-23",
+      "value": 8000.5
+    },
+    {
+      "date": "2015-04-23",
+      "value": 8000.5
+    },
+    {
+      "date": "2015-05-04",
+      "value": 8000.5
+    },
+    {
+      "date": "2015-05-04",
+      "value": 8000.5
+    },
+    {
+      "date": "2015-05-13",
+      "value": 8000.5
+    },
+    {
+      "date": "2015-05-26",
+      "value": 8000.5
+    },
+    {
+      "date": "2015-06-04",
+      "value": 8000.5
+    },
+    {
+      "date": "2015-06-04",
+      "value": 8000.5
+    },
+    {
+      "date": "2015-06-30",
+      "value": 8000.5
+    },
+    {
+      "date": "2015-06-30",
+      "value": 8000.5
+    },
+    {
+      "date": "2015-06-30",
+      "value": 8000.5
+    },
+    {
+      "date": "2015-06-30",
+      "value": 8000.5
+    },
+    {
+      "date": "2015-07-29",
+      "value": 8000.5
+    },
+    {
+      "date": "2015-12-23",
+      "value": 8000.5
+    },
+    {
+      "date": "2015-12-23",
+      "value": 8000.5
+    },
+    {
+      "date": "2015-12-23",
+      "value": 8000.5
+    },
+    {
+      "date": "2015-12-23",
+      "value": 8000.5
+    },
+    {
+      "date": "2015-12-23",
+      "value": 8000.5
+    },
+    {
+      "date": "2015-12-23",
+      "value": 8000.5
+    },
+    {
+      "date": "2015-12-23",
+      "value": 8000.5
+    },
+    {
+      "date": "2015-12-23",
+      "value": 8000.5
+    },
+    {
+      "date": "2015-12-29",
+      "value": 8000.5
+    },
+    {
+      "date": "2016-01-29",
+      "value": 8000.5
+    },
+    {
+      "date": "2016-01-29",
+      "value": 8000.5
+    },
+    {
+      "date": "2016-02-11",
+      "value": 8000.5
+    },
+    {
+      "date": "2016-02-11",
+      "value": 8000.5
+    },
+    {
+      "date": "2016-02-29",
+      "value": 8000.5
+    },
+    {
+      "date": "2016-02-29",
+      "value": 8000.5
+    },
+    {
+      "date": "2016-03-03",
+      "value": 8000.5
+    },
+    {
+      "date": "2016-07-25",
+      "value": 8000.5
+    },
+    {
+      "date": "2016-07-25",
+      "value": 8000.5
+    },
+    {
+      "date": "2016-07-25",
+      "value": 8000.5
+    },
+    {
+      "date": "2016-07-25",
+      "value": 8000.5
+    },
+    {
+      "date": "2016-07-25",
+      "value": 8000.5
+    },
+    {
+      "date": "2016-07-25",
+      "value": 8000.5
+    },
+    {
+      "date": "2016-07-25",
+      "value": 8000.5
+    },
+    {
+      "date": "2016-07-25",
+      "value": 8000.5
+    },
+    {
+      "date": "2016-07-25",
+      "value": 8000.5
+    },
+    {
+      "date": "2016-09-02",
+      "value": 8000.5
+    },
+    {
+      "date": "2016-09-12",
+      "value": 8000.5
+    },
+    {
+      "date": "2016-09-12",
+      "value": 8000.5
+    },
+    {
+      "date": "2016-09-12",
+      "value": 8000.5
+    },
+    {
+      "date": "2016-09-12",
+      "value": 8000.5
+    },
+    {
+      "date": "2016-09-12",
+      "value": 8000.5
+    },
+    {
+      "date": "2016-09-22",
+      "value": 8000.5
+    },
+    {
+      "date": "2016-09-22",
+      "value": 8000.5
+    },
+    {
+      "date": "2016-09-22",
+      "value": 8000.5
+    },
+    {
+      "date": "2016-09-22",
+      "value": 8000.5
+    },
+    {
+      "date": "2016-10-06",
+      "value": 8000.5
+    },
+    {
+      "date": "2016-11-23",
+      "value": 8000.5
+    },
+    {
+      "date": "2016-11-23",
+      "value": 8000.5
+    },
+    {
+      "date": "2016-11-23",
+      "value": 8000.5
+    },
+    {
+      "date": "2016-11-23",
+      "value": 8000.5
+    },
+    {
+      "date": "2016-11-23",
+      "value": 8000.5
+    },
+    {
+      "date": "2016-11-23",
+      "value": 8000.5
+    },
+    {
+      "date": "2016-11-23",
+      "value": 8000.5
+    },
+    {
+      "date": "2016-11-23",
+      "value": 8000.5
+    },
+    {
+      "date": "2016-11-23",
+      "value": 8000.5
+    },
+    {
+      "date": "2016-11-23",
+      "value": 8000.5
+    },
+    {
+      "date": "2016-11-23",
+      "value": 8000.5
+    },
+    {
+      "date": "2016-11-23",
+      "value": 8000.5
+    },
+    {
+      "date": "2016-12-14",
+      "value": 8000.5
+    },
+    {
+      "date": "2016-12-14",
+      "value": 8000.5
+    },
+    {
+      "date": "2016-12-14",
+      "value": 8000.5
+    },
+    {
+      "date": "2016-12-14",
+      "value": 8000.5
+    },
+    {
+      "date": "2016-12-14",
+      "value": 8000.5
+    },
+    {
+      "date": "2016-12-14",
+      "value": 8000.5
+    },
+    {
+      "date": "2016-12-14",
+      "value": 8000.5
+    },
+    {
+      "date": "2016-12-14",
+      "value": 8000.5
+    },
+    {
+      "date": "2016-12-14",
+      "value": 8000.5
+    },
+    {
+      "date": "2016-12-14",
+      "value": 8000.5
+    },
+    {
+      "date": "2016-12-16",
+      "value": 8000.5
+    },
+    {
+      "date": "2016-12-16",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-01-18",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-01-18",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-01-18",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-01-18",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-01-30",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-01-30",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-01-31",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-01-31",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-02-21",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-02-21",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-03-06",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-03-06",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-03-06",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-03-06",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-03-06",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-03-06",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-03-06",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-03-06",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-03-06",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-03-06",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-03-06",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-03-06",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-03-06",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-03-15",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-04-04",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-04-04",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-05-05",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-05-05",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-06-19",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-06-19",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-06-19",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-06-19",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-06-19",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-06-22",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-06-22",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-08-17",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-09-18",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-09-18",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-10-23",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-10-23",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-10-23",
+      "value": 8000.5
+    },
+    {
+      "date": "2018-01-11",
+      "value": 8000.5
+    },
+    {
+      "date": "2018-01-11",
+      "value": 8000.5
+    },
+    {
+      "date": "2018-01-11",
+      "value": 8000.5
+    },
+    {
+      "date": "2018-01-11",
+      "value": 8000.5
+    },
+    {
+      "date": "2018-01-12",
+      "value": 8000.5
+    },
+    {
+      "date": "2018-01-16",
+      "value": 8000.5
+    },
+    {
+      "date": "2018-03-09",
+      "value": 8000.5
+    },
+    {
+      "date": "2018-03-09",
+      "value": 8000.5
+    },
+    {
+      "date": "2018-03-09",
+      "value": 8000.5
+    },
+    {
+      "date": "2018-03-09",
+      "value": 8000.5
+    },
+    {
+      "date": "2018-03-09",
+      "value": 8000.5
+    },
+    {
+      "date": "2018-03-09",
+      "value": 8000.5
+    },
+    {
+      "date": "2018-03-09",
+      "value": 8000.5
+    },
+    {
+      "date": "2018-03-09",
+      "value": 8000.5
+    },
+    {
+      "date": "2018-03-09",
+      "value": 8000.5
+    },
+    {
+      "date": "2018-03-09",
+      "value": 8000.5
+    },
+    {
+      "date": "2018-03-09",
+      "value": 8000.5
+    },
+    {
+      "date": "2018-03-09",
+      "value": 8000.5
+    },
+    {
+      "date": "2018-03-09",
+      "value": 8000.5
+    },
+    {
+      "date": "2018-03-09",
+      "value": 8000.5
+    },
+    {
+      "date": "2018-03-09",
+      "value": 8000.5
+    },
+    {
+      "date": "2018-03-09",
+      "value": 8000.5
+    },
+    {
+      "date": "2018-03-09",
+      "value": 8000.5
+    },
+    {
+      "date": "2018-03-09",
+      "value": 8000.5
+    },
+    {
+      "date": "2018-03-09",
+      "value": 8000.5
+    },
+    {
+      "date": "2018-03-09",
+      "value": 8000.5
+    },
+    {
+      "date": "2018-03-09",
+      "value": 8000.5
+    },
+    {
+      "date": "2018-03-09",
+      "value": 8000.5
+    },
+    {
+      "date": "2018-03-09",
+      "value": 8000.5
+    },
+    {
+      "date": "2018-07-05",
+      "value": 8000.5
+    },
+    {
+      "date": "2018-07-27",
+      "value": 8000.5
+    },
+    {
+      "date": "2018-11-28",
+      "value": 8000.5
+    },
+    {
+      "date": "2018-11-28",
+      "value": 8000.5
+    },
+    {
+      "date": "2019-02-04",
+      "value": 8000.5
+    },
+    {
+      "date": "2019-02-04",
+      "value": 8000.5
+    },
+    {
+      "date": "2019-02-04",
+      "value": 8000.5
+    },
+    {
+      "date": "2019-02-04",
+      "value": 8000.5
+    },
+    {
+      "date": "2019-02-04",
+      "value": 8000.5
+    },
+    {
+      "date": "2019-02-04",
+      "value": 8000.5
+    },
+    {
+      "date": "2019-02-04",
+      "value": 8000.5
+    },
+    {
+      "date": "2019-02-04",
+      "value": 8000.5
+    },
+    {
+      "date": "2019-02-04",
+      "value": 8000.5
+    },
+    {
+      "date": "2019-02-04",
+      "value": 8000.5
+    },
+    {
+      "date": "2019-02-04",
+      "value": 8000.5
+    },
+    {
+      "date": "2019-02-04",
+      "value": 8000.5
+    },
+    {
+      "date": "2019-02-04",
+      "value": 8000.5
+    },
+    {
+      "date": "2019-02-04",
+      "value": 8000.5
+    },
+    {
+      "date": "2019-02-04",
+      "value": 8000.5
+    },
+    {
+      "date": "2019-02-04",
+      "value": 8000.5
+    },
+    {
+      "date": "2019-02-28",
+      "value": 8000.5
+    },
+    {
+      "date": "2019-02-28",
+      "value": 8000.5
+    },
+    {
+      "date": "2019-02-28",
+      "value": 32500.5
+    },
+    {
+      "date": "2019-02-28",
+      "value": 8000.5
+    },
+    {
+      "date": "2019-02-28",
+      "value": 8000.5
+    },
+    {
+      "date": "2019-02-28",
+      "value": 8000.5
+    },
+    {
+      "date": "2019-02-28",
+      "value": 8000.5
+    },
+    {
+      "date": "2019-02-28",
+      "value": 8000.5
+    },
+    {
+      "date": "2019-02-28",
+      "value": 8000.5
+    },
+    {
+      "date": "2019-02-28",
+      "value": 8000.5
+    },
+    {
+      "date": "2019-02-28",
+      "value": 8000.5
+    },
+    {
+      "date": "2019-02-28",
+      "value": 8000.5
+    },
+    {
+      "date": "2019-02-28",
+      "value": 8000.5
+    },
+    {
+      "date": "2019-02-28",
+      "value": 8000.5
+    },
+    {
+      "date": "2019-02-28",
+      "value": 8000.5
+    },
+    {
+      "date": "2019-02-28",
+      "value": 8000.5
+    },
+    {
+      "date": "2019-02-28",
+      "value": 8000.5
+    },
+    {
+      "date": "2019-02-28",
+      "value": 32500.5
+    },
+    {
+      "date": "2019-02-28",
+      "value": 8000.5
+    },
+    {
+      "date": "2019-02-28",
+      "value": 32500.5
+    },
+    {
+      "date": "2019-02-28",
+      "value": 8000.5
+    },
+    {
+      "date": "2019-02-28",
+      "value": 8000.5
+    },
+    {
+      "date": "2019-02-28",
+      "value": 8000.5
+    },
+    {
+      "date": "2019-02-28",
+      "value": 32500.5
+    },
+    {
+      "date": "2019-02-28",
+      "value": 8000.5
+    }
+  ],
+  "measured": null
+}

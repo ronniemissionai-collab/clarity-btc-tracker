@@ -1,0 +1,419 @@
+{
+  "member": {
+    "bioguideId": "C001055",
+    "name": "Ed Case",
+    "party": "D",
+    "chamber": "house",
+    "state": "HI",
+    "district": "HI-01",
+    "active": true
+  },
+  "positions": [
+    {
+      "memberId": "C001055",
+      "security": {
+        "ticker": "AAPL",
+        "kind": "other"
+      },
+      "owner": "spouse",
+      "range": {
+        "lo": 9009,
+        "hi": 135000
+      },
+      "status": "holds",
+      "asOf": "2026-05-14",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034221.pdf"
+        },
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034176.pdf"
+        },
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034668.pdf"
+        }
+      ]
+    }
+  ],
+  "trades": [
+    {
+      "memberId": "C001055",
+      "assetRaw": "Apple Inc. - Common Stock (AAPL) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-05-14",
+      "filedDate": "2026-05-31",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034668.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "C001055",
+      "assetRaw": "Apple Inc. - Common Stock (AAPL) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-02-12",
+      "filedDate": "2026-03-14",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034176.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "C001055",
+      "assetRaw": "Procter & Gamble Company",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-12-01",
+      "filedDate": "2025-12-24",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20033691.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "C001055",
+      "assetRaw": "Apple Inc. - Common Stock (AAPL) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-11-13",
+      "filedDate": "2026-04-06",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034221.pdf",
+      "late": true,
+      "provenance": "both"
+    },
+    {
+      "memberId": "C001055",
+      "assetRaw": "Apple Inc. - Common Stock (AAPL) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-08-14",
+      "filedDate": "2026-04-06",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034221.pdf",
+      "late": true,
+      "provenance": "both"
+    },
+    {
+      "memberId": "C001055",
+      "assetRaw": "Apple Inc. - Common Stock (AAPL) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-05-15",
+      "filedDate": "2026-04-06",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034221.pdf",
+      "late": true,
+      "provenance": "both"
+    },
+    {
+      "memberId": "C001055",
+      "assetRaw": "Apple Inc. - Common Stock (AAPL) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-02-13",
+      "filedDate": "2026-04-06",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034221.pdf",
+      "late": true,
+      "provenance": "both"
+    },
+    {
+      "memberId": "C001055",
+      "assetRaw": "Apple Inc. - Common Stock (AAPL) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2024-11-14",
+      "filedDate": "2026-04-06",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034221.pdf",
+      "late": true,
+      "provenance": "both"
+    },
+    {
+      "memberId": "C001055",
+      "assetRaw": "Apple Inc. - Common Stock (AAPL) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2024-08-15",
+      "filedDate": "2026-04-06",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034221.pdf",
+      "late": true,
+      "provenance": "both"
+    },
+    {
+      "memberId": "C001055",
+      "assetRaw": "Apple Inc. - Common Stock (AAPL) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2024-05-16",
+      "filedDate": "2026-04-06",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034221.pdf",
+      "late": true,
+      "provenance": "both"
+    },
+    {
+      "memberId": "C001055",
+      "assetRaw": "Fidelity Balanced (FBAlX) [OT]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2021-07-06",
+      "filedDate": "2021-07-25",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019152.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "C001055",
+      "assetRaw": "lOCATION: uS DESCRIPTION: Purchase FIdelity government Cash Reserves",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2021-07-06",
+      "filedDate": "2021-07-25",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019152.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "C001055",
+      "assetRaw": "lOCATION: uS DESCRIPTION: Sale Fidelity government Cash Reserves",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-07-02",
+      "filedDate": "2021-07-25",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019152.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "C001055",
+      "assetRaw": "lOCATION: uS DESCRIPTION: Sale Marin Software Incorporated",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-07-02",
+      "filedDate": "2021-07-25",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019152.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "C001055",
+      "assetRaw": "Altria group, Inc.",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2021-05-03",
+      "filedDate": "2021-05-09",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20018706.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "C001055",
+      "assetRaw": "Fidelity government Cash Reserves [OT]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2021-05-03",
+      "filedDate": "2021-05-09",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20018706.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "C001055",
+      "assetRaw": "Kinder Morgan, Inc.",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-05-03",
+      "filedDate": "2021-05-09",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20018706.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "C001055",
+      "assetRaw": "Microsoft Corporation",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2021-05-03",
+      "filedDate": "2021-05-09",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20018706.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "C001055",
+      "assetRaw": "lOCATION: uS DESCRIPTION: Purchase general Electric Company (gE) [ST]",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-05-03",
+      "filedDate": "2021-05-09",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20018706.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    }
+  ],
+  "series": [
+    {
+      "date": "2021-05-03",
+      "value": 75000.5
+    },
+    {
+      "date": "2021-05-03",
+      "value": 32500.5
+    },
+    {
+      "date": "2021-05-03",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-05-03",
+      "value": 75000.5
+    },
+    {
+      "date": "2021-05-03",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-07-02",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-07-02",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-07-06",
+      "value": 75000.5
+    },
+    {
+      "date": "2021-07-06",
+      "value": 75000.5
+    },
+    {
+      "date": "2024-05-16",
+      "value": 8000.5
+    },
+    {
+      "date": "2024-08-15",
+      "value": 8000.5
+    },
+    {
+      "date": "2024-11-14",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-02-13",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-05-15",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-08-14",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-11-13",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-12-01",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-02-12",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-05-14",
+      "value": 8000.5
+    }
+  ],
+  "measured": null
+}

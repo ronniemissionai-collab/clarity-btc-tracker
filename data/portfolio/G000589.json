@@ -1,0 +1,74 @@
+{
+  "member": {
+    "bioguideId": "G000589",
+    "name": "Lance Gooden",
+    "party": "R",
+    "chamber": "house",
+    "state": "TX",
+    "district": "TX-05",
+    "active": true
+  },
+  "positions": [],
+  "trades": [
+    {
+      "memberId": "G000589",
+      "assetRaw": "Western Alliance Bancorporation Common Stock",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2024-11-15",
+      "filedDate": "2024-12-12",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/20026382.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "G000589",
+      "assetRaw": "Marathon Oil Corporation Common Stock",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2024-07-23",
+      "filedDate": "2024-09-06",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/20025806.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "G000589",
+      "assetRaw": "Sotherly Hotels Inc. - Common Stock",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2024-07-23",
+      "filedDate": "2024-09-06",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/20025806.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    }
+  ],
+  "series": [
+    {
+      "date": "2024-07-23",
+      "value": 8000.5
+    },
+    {
+      "date": "2024-07-23",
+      "value": 8000.5
+    },
+    {
+      "date": "2024-11-15",
+      "value": 75000.5
+    }
+  ],
+  "measured": null
+}

@@ -1,0 +1,115 @@
+{
+  "member": {
+    "bioguideId": "B001300",
+    "name": "Nanette Diaz Barragán",
+    "party": "D",
+    "chamber": "house",
+    "state": "CA",
+    "district": "CA-44",
+    "active": true
+  },
+  "positions": [],
+  "trades": [
+    {
+      "memberId": "B001300",
+      "assetRaw": "U.S. Treasury Bond",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2024-02-20",
+      "filedDate": "2024-04-25",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/20024923.pdf",
+      "late": true,
+      "note": "Filing Status: Amended",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "B001300",
+      "assetRaw": "U.S. Treasury Bond",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2024-02-16",
+      "filedDate": "2024-03-27",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/20024750.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "B001300",
+      "assetRaw": "U.S. Treasury Bond",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2023-11-17",
+      "filedDate": "2024-04-25",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/20024923.pdf",
+      "late": true,
+      "note": "Filing Status: Amended",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "B001300",
+      "assetRaw": "U.S. Treasury Bond",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2023-11-16",
+      "filedDate": "2024-03-27",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/20024750.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "B001300",
+      "assetRaw": "U.S. Treasury Bond",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2023-11-08",
+      "filedDate": "2024-04-25",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/20024923.pdf",
+      "late": true,
+      "note": "Filing Status: New",
+      "provenance": "kadoa"
+    }
+  ],
+  "series": [
+    {
+      "date": "2023-11-08",
+      "value": 32500.5
+    },
+    {
+      "date": "2023-11-16",
+      "value": 8000.5
+    },
+    {
+      "date": "2023-11-17",
+      "value": 8000.5
+    },
+    {
+      "date": "2024-02-16",
+      "value": 8000.5
+    },
+    {
+      "date": "2024-02-20",
+      "value": 8000.5
+    }
+  ],
+  "measured": null
+}

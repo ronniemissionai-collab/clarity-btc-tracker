@@ -1,0 +1,36 @@
+{
+  "member": {
+    "bioguideId": "K000403",
+    "name": "Mike Kennedy",
+    "party": "R",
+    "chamber": "house",
+    "state": "UT",
+    "district": "UT-03",
+    "active": true
+  },
+  "positions": [],
+  "trades": [
+    {
+      "memberId": "K000403",
+      "assetRaw": "Berkshire Hathaway Inc. New Common Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-05-09",
+      "filedDate": "2025-06-20",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030542.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    }
+  ],
+  "series": [
+    {
+      "date": "2025-05-09",
+      "value": 8000.5
+    }
+  ],
+  "measured": null
+}

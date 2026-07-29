@@ -1,0 +1,102 @@
+{
+  "member": {
+    "bioguideId": "C000127",
+    "lisId": "S275",
+    "name": "Maria Cantwell",
+    "party": "D",
+    "chamber": "senate",
+    "state": "WA",
+    "active": true
+  },
+  "positions": [
+    {
+      "memberId": "C000127",
+      "security": {
+        "ticker": "NASDAQ",
+        "kind": "other"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "sold",
+      "asOf": "2014-06-06",
+      "extraction": "efd-html",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://efdsearch.senate.gov/search/view/ptr/81bfd841-b416-4380-8f44-48d9fc730073/"
+        }
+      ],
+      "note": "sale reported by PTR with no annual baseline in our coverage"
+    }
+  ],
+  "trades": [
+    {
+      "memberId": "C000127",
+      "assetRaw": "RealNetworks, Inc. - Common Stock",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2022-12-28",
+      "filedDate": "2023-01-13",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/5d41d5a8-eb5b-4092-aae1-99a26f4932f2/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "C000127",
+      "assetRaw": "RealNetworks Inc.",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2016-04-28",
+      "filedDate": "2016-05-11",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/03ac42db-829c-4c48-8624-fa9dd85f1ad7/",
+      "late": false,
+      "note": "Sale of two blocks",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "C000127",
+      "assetRaw": "RealNetworks Inc. (NASDAQ)",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2014-06-06",
+      "filedDate": "2014-06-27",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/81bfd841-b416-4380-8f44-48d9fc730073/",
+      "late": false,
+      "provenance": "kadoa"
+    }
+  ],
+  "series": [
+    {
+      "date": "2014-06-06",
+      "value": 8000.5
+    },
+    {
+      "date": "2016-04-28",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-12-28",
+      "value": 32500.5
+    }
+  ],
+  "measured": null
+}

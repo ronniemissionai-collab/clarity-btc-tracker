@@ -1,0 +1,242 @@
+{
+  "member": {
+    "bioguideId": "R000605",
+    "lisId": "S381",
+    "name": "Mike Rounds",
+    "party": "R",
+    "chamber": "senate",
+    "state": "SD",
+    "active": true
+  },
+  "positions": [],
+  "trades": [
+    {
+      "memberId": "R000605",
+      "assetRaw": "Aeronics, Inc.",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 1000001,
+        "hi": 5000000
+      },
+      "transactionDate": "2025-10-10",
+      "filedDate": "2026-05-06",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/374c35de-6615-4f76-85b9-7f8922bdcc37/",
+      "late": true,
+      "note": "full sale; Publicly disclosed when information became available.",
+      "provenance": "official"
+    },
+    {
+      "memberId": "R000605",
+      "assetRaw": "Bird Dog Hospitality Fund 1, LLC\n                                        \n                                        \n                                        \n                                            \n                                                \n                                                    Company: Bird Dog Equity Partners\n                                                    \n                                                         (Sioux Falls, SD)\n                                                    \n                                                \n                                            \n\n                                            \n                                                Description: Hospitality",
+      "security": null,
+      "side": "buy",
+      "owner": "joint",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2021-05-01",
+      "filedDate": "2021-05-20",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/31ba15f9-3190-4872-8094-7044810a33c8/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000605",
+      "assetRaw": "Bird Dog Hospitality Fund 2, LLC\n                                        \n                                        \n                                        \n                                            \n                                                \n                                                    Company: Bird Dog Equity Partners\n                                                    \n                                                         (Sioux Falls, SD)\n                                                    \n                                                \n                                            \n\n                                            \n                                                Description: Property Investment",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 250001,
+        "hi": 500000
+      },
+      "transactionDate": "2019-03-31",
+      "filedDate": "2019-04-09",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/52499168-0dec-404b-a9c6-c3f96da3f739/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000605",
+      "assetRaw": "Bird Dog Hospitality, LLC\n                                        \n                                        \n                                        \n                                            \n                                                \n                                                    Company: Bird Dog Hospitality, LLC\n                                                    \n                                                         (Sioux Falls, SD)\n                                                    \n                                                \n                                            \n\n                                            \n                                                Description: Hospitality Investments",
+      "security": null,
+      "side": "buy",
+      "owner": "joint",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2018-08-20",
+      "filedDate": "2018-08-21",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/db61ea4a-79be-4bb5-b6f6-505d717dde9c/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000605",
+      "assetRaw": "Bird Dog Hospitality V, LLC\n                                        \n                                        \n                                        \n                                            \n                                                \n                                                    Company: Bird Dog Hospitality V, LLC\n                                                    \n                                                         (Sioux Falls, SD)\n                                                    \n                                                \n                                            \n\n                                            \n                                                Description: Hospitality Property",
+      "security": null,
+      "side": "buy",
+      "owner": "joint",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2018-04-09",
+      "filedDate": "2018-04-13",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/6fdcc5cc-bcbd-4cd5-8feb-0e94c0f906df/",
+      "late": false,
+      "note": "This is an underlying asset to Bird Dog Hospitality, LLC (Purchased 9/2/16)",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000605",
+      "assetRaw": "Bird Dog Hospitality III, LLC\n                                        \n                                        \n                                        \n                                            \n                                                \n                                                    Company: Bird Dog Hospitality III\n                                                    \n                                                         (Sioux Falls, SD)\n                                                    \n                                                \n                                            \n\n                                            \n                                                Description: This is an LLC which holds an underlying asset of hospitality property.",
+      "security": null,
+      "side": "buy",
+      "owner": "joint",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2017-10-17",
+      "filedDate": "2017-10-30",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/4c47b9b8-1018-4619-bc5d-7afa0a3c3abd/",
+      "late": false,
+      "note": "This is an underlying asset to Bird Dog Hospitality, LLC (Purchased 9/26/16)",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000605",
+      "assetRaw": "Bird Dog Hospitality IV, LLC\n                                        \n                                        \n                                        \n                                            \n                                                \n                                                    Company: Bird Dog Hospitality IV, LLC\n                                                    \n                                                         (Sioux Falls, SD)\n                                                    \n                                                \n                                            \n\n                                            \n                                                Description: Hospitality Property",
+      "security": null,
+      "side": "buy",
+      "owner": "joint",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2017-07-18",
+      "filedDate": "2017-08-13",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/2caaacb0-a481-4259-99f6-82650268df41/",
+      "late": false,
+      "note": "This is an udnerlying asset to Bird Dog Hospitality, LLC (Purchased 9/26/16)",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000605",
+      "assetRaw": "Bird Dog Hospitality II, LLC\n                                        \n                                        \n                                        \n                                            \n                                                \n                                                    Company: Bird Dog Hopitality II, LLC\n                                                    \n                                                         (Sioux Falls, SD)\n                                                    \n                                                \n                                            \n\n                                            \n                                                Description: Hospitality Property",
+      "security": null,
+      "side": "buy",
+      "owner": "joint",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2016-11-07",
+      "filedDate": "2016-11-22",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/4889ab33-0e9c-4fc1-af0f-2b84b36b6047/",
+      "late": false,
+      "note": "This is an underlying asset to Bird Dog Hospitality, LLC (Purchased 9/26/16)",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000605",
+      "assetRaw": "Bird Dog Hospitality, LLC\n                                        \n                                        \n                                        \n                                            \n                                                \n                                                    Company: Bird Dog Hospitality, LLC\n                                                    \n                                                         (Sioux Falls, SD)\n                                                    \n                                                \n                                            \n\n                                            \n                                                Description: Hospitality Investments",
+      "security": null,
+      "side": "buy",
+      "owner": "joint",
+      "range": {
+        "lo": 250001,
+        "hi": 500000
+      },
+      "transactionDate": "2016-09-26",
+      "filedDate": "2016-10-17",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/275ee2fc-a05b-4cee-8f0f-fa07992fc267/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000605",
+      "assetRaw": "Fischer, Rounds & Assoc., Inc (Insurance/Real Estate Agency, Pierre, SD)",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 5000001,
+        "hi": 25000000
+      },
+      "transactionDate": "2015-12-28",
+      "filedDate": "2016-01-12",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/c8f2e5a3-3ea2-40d3-9a38-961dd70a56fc/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000605",
+      "assetRaw": "Bird Dog LLU, LLC\n                                        \n                                        \n                                        \n                                            \n                                                \n                                                    Company: Bird Dog LLU, LLC\n                                                    \n                                                         (Sioux Falls, SD)\n                                                    \n                                                \n                                            \n\n                                            \n                                                Description: Marketing Company",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2015-12-20",
+      "filedDate": "2016-06-30",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/7b874404-594a-4139-8873-2f6a06322e03/",
+      "late": true,
+      "provenance": "kadoa"
+    }
+  ],
+  "series": [
+    {
+      "date": "2015-12-20",
+      "value": 8000.5
+    },
+    {
+      "date": "2015-12-28",
+      "value": 15000000.5
+    },
+    {
+      "date": "2016-09-26",
+      "value": 375000.5
+    },
+    {
+      "date": "2016-11-07",
+      "value": 32500.5
+    },
+    {
+      "date": "2017-07-18",
+      "value": 75000.5
+    },
+    {
+      "date": "2017-10-17",
+      "value": 75000.5
+    },
+    {
+      "date": "2018-04-09",
+      "value": 75000.5
+    },
+    {
+      "date": "2018-08-20",
+      "value": 32500.5
+    },
+    {
+      "date": "2019-03-31",
+      "value": 375000.5
+    },
+    {
+      "date": "2021-05-01",
+      "value": 32500.5
+    },
+    {
+      "date": "2025-10-10",
+      "value": 3000000.5
+    }
+  ],
+  "measured": null
+}

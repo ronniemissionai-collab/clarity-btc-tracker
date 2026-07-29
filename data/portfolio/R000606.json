@@ -1,0 +1,36 @@
+{
+  "member": {
+    "bioguideId": "R000606",
+    "name": "Jamie Raskin",
+    "party": "D",
+    "chamber": "house",
+    "state": "MD",
+    "district": "MD-08",
+    "active": true
+  },
+  "positions": [],
+  "trades": [
+    {
+      "memberId": "R000606",
+      "assetRaw": "I",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2024-07-02",
+      "filedDate": "2024-07-12",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/20025439.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    }
+  ],
+  "series": [
+    {
+      "date": "2024-07-02",
+      "value": 75000.5
+    }
+  ],
+  "measured": null
+}

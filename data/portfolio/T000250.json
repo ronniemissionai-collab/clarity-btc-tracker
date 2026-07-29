@@ -1,0 +1,37 @@
+{
+  "member": {
+    "bioguideId": "T000250",
+    "lisId": "S303",
+    "name": "John Thune",
+    "party": "R",
+    "chamber": "senate",
+    "state": "SD",
+    "active": true
+  },
+  "positions": [],
+  "trades": [
+    {
+      "memberId": "T000250",
+      "assetRaw": "Independence Realty Trust, Inc. Common Stock",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2022-05-05",
+      "filedDate": "2022-05-12",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/de8c4e8a-36e6-4f7d-aec6-e6b5a8732e9a/",
+      "late": false,
+      "provenance": "kadoa"
+    }
+  ],
+  "series": [
+    {
+      "date": "2022-05-05",
+      "value": 32500.5
+    }
+  ],
+  "measured": null
+}

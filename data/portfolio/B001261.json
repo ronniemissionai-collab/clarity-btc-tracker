@@ -1,0 +1,37 @@
+{
+  "member": {
+    "bioguideId": "B001261",
+    "lisId": "S317",
+    "name": "John Barrasso",
+    "party": "R",
+    "chamber": "senate",
+    "state": "WY",
+    "active": true
+  },
+  "positions": [],
+  "trades": [
+    {
+      "memberId": "B001261",
+      "assetRaw": "Undeveloped Land-TOPOL\n                                        \n                                        \n                                        \n                                            \n                                                \n                                                    Company: Wyoming Orthopaedics Institute, LLC\n                                                    \n                                                         (Casper, WY)\n                                                    \n                                                \n                                            \n\n                                            \n                                                Description: Real Estate Partnership",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2018-05-01",
+      "filedDate": "2018-05-24",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/265964e0-3d22-4a52-af4f-37916b56390d/",
+      "late": false,
+      "provenance": "kadoa"
+    }
+  ],
+  "series": [
+    {
+      "date": "2018-05-01",
+      "value": 75000.5
+    }
+  ],
+  "measured": null
+}

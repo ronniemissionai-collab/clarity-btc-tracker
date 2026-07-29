@@ -1,0 +1,36 @@
+{
+  "member": {
+    "bioguideId": "M000317",
+    "name": "Nicole Malliotakis",
+    "party": "R",
+    "chamber": "house",
+    "state": "NY",
+    "district": "NY-11",
+    "active": true
+  },
+  "positions": [],
+  "trades": [
+    {
+      "memberId": "M000317",
+      "assetRaw": "US Treasury Bill",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2026-06-25",
+      "filedDate": "2026-07-14",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116217.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    }
+  ],
+  "series": [
+    {
+      "date": "2026-06-25",
+      "value": 175000.5
+    }
+  ],
+  "measured": null
+}

@@ -1,0 +1,965 @@
+{
+  "member": {
+    "bioguideId": "C001120",
+    "name": "Dan Crenshaw",
+    "party": "R",
+    "chamber": "house",
+    "state": "TX",
+    "district": "TX-02",
+    "active": true
+  },
+  "positions": [
+    {
+      "memberId": "C001120",
+      "security": {
+        "ticker": "AAPL",
+        "kind": "other"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "sold",
+      "asOf": "2026-06-01",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035024.pdf"
+        }
+      ],
+      "note": "sale reported by PTR with no annual baseline in our coverage"
+    },
+    {
+      "memberId": "C001120",
+      "security": {
+        "ticker": "AMZN",
+        "kind": "other"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "sold",
+      "asOf": "2026-06-01",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035024.pdf"
+        }
+      ],
+      "note": "sale reported by PTR with no annual baseline in our coverage"
+    },
+    {
+      "memberId": "C001120",
+      "security": {
+        "ticker": "GOOG",
+        "kind": "other"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "sold",
+      "asOf": "2026-06-01",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035024.pdf"
+        }
+      ],
+      "note": "sale reported by PTR with no annual baseline in our coverage"
+    },
+    {
+      "memberId": "C001120",
+      "security": {
+        "ticker": "META",
+        "kind": "other"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "sold",
+      "asOf": "2026-06-01",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035024.pdf"
+        }
+      ],
+      "note": "sale reported by PTR with no annual baseline in our coverage"
+    },
+    {
+      "memberId": "C001120",
+      "security": {
+        "ticker": "TSLA",
+        "kind": "treasury"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "sold",
+      "asOf": "2021-12-29",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020189.pdf"
+        }
+      ],
+      "note": "sale reported by PTR with no annual baseline in our coverage"
+    },
+    {
+      "memberId": "C001120",
+      "security": {
+        "ticker": "USOU",
+        "kind": "other"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "holds",
+      "asOf": "2026-06-01",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035024.pdf"
+        }
+      ]
+    }
+  ],
+  "trades": [
+    {
+      "memberId": "C001120",
+      "assetRaw": "Alphabet Inc. - Class C Capital Stock (GOOG) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-06-01",
+      "filedDate": "2026-07-16",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035024.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "C001120",
+      "assetRaw": "Amazon.com, Inc. - Common Stock (AMZN) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-06-01",
+      "filedDate": "2026-07-16",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035024.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "C001120",
+      "assetRaw": "Apple Inc. - Common Stock (AAPL) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-06-01",
+      "filedDate": "2026-07-16",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035024.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "C001120",
+      "assetRaw": "FAS [OT]",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-06-01",
+      "filedDate": "2026-07-16",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035024.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "C001120",
+      "assetRaw": "Meta Platforms, Inc. - Class A Common Stock (META) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-06-01",
+      "filedDate": "2026-07-16",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035024.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "C001120",
+      "assetRaw": "United States 3x Oil Fund (USOU) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-06-01",
+      "filedDate": "2026-07-16",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035024.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "C001120",
+      "assetRaw": "Meta Platforms, Inc. - Class A Common Stock (META) [OP]",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-05-05",
+      "filedDate": "2026-07-16",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035024.pdf",
+      "late": true,
+      "provenance": "both"
+    },
+    {
+      "memberId": "C001120",
+      "assetRaw": "Meta Platforms, Inc. - Class A Common Stock (META) [OP]",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-04-28",
+      "filedDate": "2026-07-16",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035024.pdf",
+      "late": true,
+      "provenance": "both"
+    },
+    {
+      "memberId": "C001120",
+      "assetRaw": "DR S&P 500",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2023-03-20",
+      "filedDate": "2023-04-20",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20022770.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "C001120",
+      "assetRaw": "Alphabet Inc. - Class C Capital Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-10-25",
+      "filedDate": "2022-12-01",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021255.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "C001120",
+      "assetRaw": "Amazon.com, Inc.",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-10-25",
+      "filedDate": "2022-12-01",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021255.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "C001120",
+      "assetRaw": "Apple Inc.",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-10-25",
+      "filedDate": "2022-12-01",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021255.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "C001120",
+      "assetRaw": "Direxion Financial Bull 3X Shares",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-10-25",
+      "filedDate": "2022-12-01",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021255.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "C001120",
+      "assetRaw": "Meta Platforms, Inc. - Class A",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-10-25",
+      "filedDate": "2022-12-01",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021255.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "C001120",
+      "assetRaw": "United States Oil Fund",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-10-25",
+      "filedDate": "2022-12-01",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021255.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "C001120",
+      "assetRaw": "Wynn Resorts, Limited",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-10-25",
+      "filedDate": "2022-12-01",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021255.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "C001120",
+      "assetRaw": "DR S&P 500",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-01-26",
+      "filedDate": "2022-02-02",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020310.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "C001120",
+      "assetRaw": "Boeing Company",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-01-20",
+      "filedDate": "2022-02-02",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020310.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "C001120",
+      "assetRaw": "Hertz global Holdings, Inc - Warrant",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-01-20",
+      "filedDate": "2022-02-02",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020310.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "C001120",
+      "assetRaw": "Southwest Airlines Company (luV) [ST]",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-01-20",
+      "filedDate": "2022-02-02",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020310.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "C001120",
+      "assetRaw": "Direxion Financial Bull 3X Shares",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2022-01-10",
+      "filedDate": "2022-01-10",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020197.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "C001120",
+      "assetRaw": "Tesla, Inc. (TSlA) [ST]",
+      "security": {
+        "ticker": "TSLA",
+        "kind": "treasury"
+      },
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-12-29",
+      "filedDate": "2022-01-10",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020189.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "C001120",
+      "assetRaw": "Rivian Automotive, Inc. - Class A",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-12-23",
+      "filedDate": "2022-01-10",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020189.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "C001120",
+      "assetRaw": "Rivian Automotive, Inc. - Class A",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-12-14",
+      "filedDate": "2022-01-10",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020189.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "C001120",
+      "assetRaw": "DR S&P 500",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-12-02",
+      "filedDate": "2021-12-07",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019942.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "C001120",
+      "assetRaw": "Tesla, Inc. (TSlA) [ST]",
+      "security": {
+        "ticker": "TSLA",
+        "kind": "treasury"
+      },
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-11-16",
+      "filedDate": "2021-12-07",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019942.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "C001120",
+      "assetRaw": "Tesla, Inc. (TSlA) [ST]",
+      "security": {
+        "ticker": "TSLA",
+        "kind": "treasury"
+      },
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-11-12",
+      "filedDate": "2021-12-07",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019942.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "C001120",
+      "assetRaw": "Tesla, Inc. (TSlA) [ST]",
+      "security": {
+        "ticker": "TSLA",
+        "kind": "treasury"
+      },
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-11-12",
+      "filedDate": "2021-12-07",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019942.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "C001120",
+      "assetRaw": "Tesla, Inc. (TSlA) [ST]",
+      "security": {
+        "ticker": "TSLA",
+        "kind": "treasury"
+      },
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-11-09",
+      "filedDate": "2021-12-07",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019942.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "C001120",
+      "assetRaw": "Tesla, Inc. (TSlA) [ST]",
+      "security": {
+        "ticker": "TSLA",
+        "kind": "treasury"
+      },
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-11-08",
+      "filedDate": "2021-12-07",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019942.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "C001120",
+      "assetRaw": "Amazon.com, Inc.",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-03-05",
+      "filedDate": "2021-03-24",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20018373.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "C001120",
+      "assetRaw": "Kinder Morgan, Inc.",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-03-05",
+      "filedDate": "2021-03-24",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20018373.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "C001120",
+      "assetRaw": "X Corporation",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2021-03-05",
+      "filedDate": "2021-03-24",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20018373.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "C001120",
+      "assetRaw": "Direxion Financial Bull 3X Shares",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2020-06-11",
+      "filedDate": "2021-03-24",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20018373.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "C001120",
+      "assetRaw": "Boeing Company",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2020-03-27",
+      "filedDate": "2021-03-24",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20018373.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "C001120",
+      "assetRaw": "Hertz global Holdings, Inc",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2020-03-26",
+      "filedDate": "2021-03-24",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20018373.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "C001120",
+      "assetRaw": "Kinder Morgan, Inc.",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2020-03-26",
+      "filedDate": "2021-03-24",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20018373.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "C001120",
+      "assetRaw": "Southwest Airlines Company (luV) [ST]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2020-03-26",
+      "filedDate": "2021-03-24",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20018373.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "C001120",
+      "assetRaw": "Direxion Financial Bull 3X Shares",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2020-03-25",
+      "filedDate": "2021-03-24",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20018373.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "C001120",
+      "assetRaw": "X Corporation",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2020-03-25",
+      "filedDate": "2021-03-24",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20018373.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "C001120",
+      "assetRaw": "Amazon.com, Inc.",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2020-03-12",
+      "filedDate": "2021-03-24",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20018373.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    }
+  ],
+  "series": [
+    {
+      "date": "2020-03-12",
+      "value": 8000.5
+    },
+    {
+      "date": "2020-03-25",
+      "value": 8000.5
+    },
+    {
+      "date": "2020-03-25",
+      "value": 8000.5
+    },
+    {
+      "date": "2020-03-26",
+      "value": 8000.5
+    },
+    {
+      "date": "2020-03-26",
+      "value": 8000.5
+    },
+    {
+      "date": "2020-03-26",
+      "value": 8000.5
+    },
+    {
+      "date": "2020-03-27",
+      "value": 8000.5
+    },
+    {
+      "date": "2020-06-11",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-03-05",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-03-05",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-03-05",
+      "value": 32500.5
+    },
+    {
+      "date": "2021-11-08",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-11-09",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-11-12",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-11-12",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-11-16",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-12-02",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-12-14",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-12-23",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-12-29",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-01-10",
+      "value": 32500.5
+    },
+    {
+      "date": "2022-01-20",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-01-20",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-01-20",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-01-26",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-10-25",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-10-25",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-10-25",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-10-25",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-10-25",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-10-25",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-10-25",
+      "value": 8000.5
+    },
+    {
+      "date": "2023-03-20",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-04-28",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-05-05",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-06-01",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-06-01",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-06-01",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-06-01",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-06-01",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-06-01",
+      "value": 8000.5
+    }
+  ],
+  "measured": null
+}

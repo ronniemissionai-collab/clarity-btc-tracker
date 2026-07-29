@@ -1,0 +1,2799 @@
+{
+  "member": {
+    "bioguideId": "S001190",
+    "name": "Bradley Scott Schneider",
+    "party": "D",
+    "chamber": "house",
+    "state": "IL",
+    "district": "IL-10",
+    "active": true
+  },
+  "positions": [
+    {
+      "memberId": "S001190",
+      "security": {
+        "ticker": "BABA",
+        "kind": "other"
+      },
+      "owner": "spouse",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "status": "stale",
+      "asOf": "2017-11-16",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2017/20008438.pdf"
+        }
+      ]
+    },
+    {
+      "memberId": "S001190",
+      "security": {
+        "ticker": "BYI",
+        "kind": "other"
+      },
+      "owner": "spouse",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "status": "stale",
+      "asOf": "2014-11-25",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2014/20002222.pdf"
+        }
+      ]
+    },
+    {
+      "memberId": "S001190",
+      "security": {
+        "ticker": "CELG",
+        "kind": "other"
+      },
+      "owner": "spouse",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "status": "sold",
+      "asOf": "2017-10-23",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2017/20008293.pdf"
+        }
+      ],
+      "note": "sale reported by PTR with no annual baseline in our coverage"
+    },
+    {
+      "memberId": "S001190",
+      "security": {
+        "ticker": "DAL",
+        "kind": "other"
+      },
+      "owner": "spouse",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "status": "stale",
+      "asOf": "2017-12-12",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2017/20008644.pdf"
+        }
+      ]
+    },
+    {
+      "memberId": "S001190",
+      "security": {
+        "ticker": "ED-T",
+        "kind": "other"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "status": "stale",
+      "asOf": "2017-10-31",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20010046.pdf"
+        }
+      ]
+    },
+    {
+      "memberId": "S001190",
+      "security": {
+        "ticker": "HD",
+        "kind": "other"
+      },
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "stale",
+      "asOf": "2014-12-10",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2015/20002402.pdf"
+        }
+      ]
+    },
+    {
+      "memberId": "S001190",
+      "security": {
+        "ticker": "INTC",
+        "kind": "other"
+      },
+      "owner": "spouse",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "status": "sold",
+      "asOf": "2017-12-29",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2017/20008293.pdf"
+        },
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2017/20008644.pdf"
+        }
+      ]
+    },
+    {
+      "memberId": "S001190",
+      "security": {
+        "ticker": "JPM",
+        "kind": "other"
+      },
+      "owner": "spouse",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "status": "stale",
+      "asOf": "2017-10-23",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2017/20008293.pdf"
+        }
+      ]
+    },
+    {
+      "memberId": "S001190",
+      "security": {
+        "ticker": "LEN",
+        "kind": "other"
+      },
+      "owner": "spouse",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "status": "sold",
+      "asOf": "2017-10-27",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2017/20008293.pdf"
+        }
+      ]
+    },
+    {
+      "memberId": "S001190",
+      "security": {
+        "ticker": "MBFI",
+        "kind": "other"
+      },
+      "owner": "spouse",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "status": "sold",
+      "asOf": "2017-07-17",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2017/20007870.pdf"
+        }
+      ],
+      "note": "sale reported by PTR with no annual baseline in our coverage"
+    },
+    {
+      "memberId": "S001190",
+      "security": {
+        "ticker": "MFH",
+        "kind": "other"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "status": "sold",
+      "asOf": "2022-09-16",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021833.pdf"
+        }
+      ],
+      "note": "sale reported by PTR with no annual baseline in our coverage"
+    },
+    {
+      "memberId": "S001190",
+      "security": {
+        "ticker": "RMD",
+        "kind": "other"
+      },
+      "owner": "spouse",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "status": "stale",
+      "asOf": "2018-03-21",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20009213.pdf"
+        }
+      ]
+    },
+    {
+      "memberId": "S001190",
+      "security": {
+        "ticker": "SAP",
+        "kind": "other"
+      },
+      "owner": "spouse",
+      "range": {
+        "lo": 250001,
+        "hi": 500000
+      },
+      "status": "sold",
+      "asOf": "2018-01-12",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20008985.pdf"
+        }
+      ],
+      "note": "sale reported by PTR with no annual baseline in our coverage"
+    },
+    {
+      "memberId": "S001190",
+      "security": {
+        "ticker": "SU",
+        "kind": "other"
+      },
+      "owner": "spouse",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "status": "sold",
+      "asOf": "2017-11-16",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2017/20008438.pdf"
+        }
+      ],
+      "note": "sale reported by PTR with no annual baseline in our coverage"
+    },
+    {
+      "memberId": "S001190",
+      "security": {
+        "ticker": "TXN",
+        "kind": "other"
+      },
+      "owner": "spouse",
+      "range": {
+        "lo": 150002,
+        "hi": 350000
+      },
+      "status": "stale",
+      "asOf": "2017-09-22",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2017/20008078.pdf"
+        }
+      ]
+    },
+    {
+      "memberId": "S001190",
+      "security": {
+        "ticker": "VMC",
+        "kind": "other"
+      },
+      "owner": "spouse",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "status": "sold",
+      "asOf": "2017-10-11",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2017/20008293.pdf"
+        }
+      ],
+      "note": "sale reported by PTR with no annual baseline in our coverage"
+    },
+    {
+      "memberId": "S001190",
+      "security": {
+        "ticker": "WMT",
+        "kind": "other"
+      },
+      "owner": "spouse",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "status": "sold",
+      "asOf": "2018-02-21",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20009213.pdf"
+        }
+      ],
+      "note": "sale reported by PTR with no annual baseline in our coverage"
+    }
+  ],
+  "trades": [
+    {
+      "memberId": "S001190",
+      "assetRaw": "2000140313Questek International, LLC [PS]",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-06-09",
+      "filedDate": "2025-07-02",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030594.pdf",
+      "late": false,
+      "note": "Redeemed stock with the company",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S001190",
+      "assetRaw": "Alliant Holdings, LP [OL]",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 500001,
+        "hi": 1000000
+      },
+      "transactionDate": "2025-01-24",
+      "filedDate": "2025-03-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20027911.pdf",
+      "late": false,
+      "note": "Partial redemption of stock",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S001190",
+      "assetRaw": "Questek International, LLC [PS]",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2024-06-09",
+      "filedDate": "2025-07-01",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030591.pdf",
+      "late": true,
+      "note": "Redeemed stock with the company",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S001190",
+      "assetRaw": "Banner Fund V [OL]",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2023-06-27",
+      "filedDate": "2023-07-22",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20023178.pdf",
+      "late": false,
+      "note": "Real Estate Investment Fund",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S001190",
+      "assetRaw": "BG One Scottsdale LLC [OL]",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2023-04-14",
+      "filedDate": "2023-05-02",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20022745.pdf",
+      "late": false,
+      "note": "Promissory Note for Company developing 112 unit condominium complex in North Scottsdale, AZ",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S001190",
+      "assetRaw": "MZ Knoxville SFR, LLC [OL]",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2023-04-12",
+      "filedDate": "2023-05-02",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20022745.pdf",
+      "late": false,
+      "note": "LLC that will purchase, develop, manage own and lease out “The Residences at Devanshire”—a 87 unit single family home development in Knoxville, TN",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S001190",
+      "assetRaw": "MZ Capital Mundelein, LLC",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2022-09-20",
+      "filedDate": "2022-10-14",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021833.pdf",
+      "late": false,
+      "note": "Description: Multifamily Development",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S001190",
+      "assetRaw": "MZ Capital Mundelein, LLC",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-09-20",
+      "filedDate": "2022-10-14",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021833.pdf",
+      "late": false,
+      "note": "Description: Multifamily Development",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S001190",
+      "assetRaw": "M Financial Holding (MFH), (Insurance, Portland, OR)",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2022-09-16",
+      "filedDate": "2022-10-14",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021833.pdf",
+      "late": false,
+      "note": "Description: Life insurance distribution company",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S001190",
+      "assetRaw": "Trupanion, Inc.",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2021-12-10",
+      "filedDate": "2022-03-17",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020104.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S001190",
+      "assetRaw": "Trupanion, Inc.",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2021-12-07",
+      "filedDate": "2022-08-13",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021496.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S001190",
+      "assetRaw": "Trupanion, Inc.",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2021-02-08",
+      "filedDate": "2022-08-13",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021496.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S001190",
+      "assetRaw": "Trupanion, Inc.",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2020-12-17",
+      "filedDate": "2020-12-18",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20017877.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S001190",
+      "assetRaw": "Trupanion, Inc.",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2020-12-17",
+      "filedDate": "2020-12-18",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20017879.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S001190",
+      "assetRaw": "Alliant Holdings, LP [PS]",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 500001,
+        "hi": 1000000
+      },
+      "transactionDate": "2020-12-09",
+      "filedDate": "2020-12-18",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20017879.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S001190",
+      "assetRaw": "Alliant Holdings, LP [PS]",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 500001,
+        "hi": 1000000
+      },
+      "transactionDate": "2020-12-09",
+      "filedDate": "2020-12-09",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20017832.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S001190",
+      "assetRaw": "Trupanion, Inc.",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 250001,
+        "hi": 500000
+      },
+      "transactionDate": "2020-08-12",
+      "filedDate": "2020-12-18",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20017878.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S001190",
+      "assetRaw": "Trupanion, Inc.",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 250001,
+        "hi": 500000
+      },
+      "transactionDate": "2020-08-12",
+      "filedDate": "2020-12-18",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20017879.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S001190",
+      "assetRaw": "Trupanion, Inc.",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 250001,
+        "hi": 500000
+      },
+      "transactionDate": "2020-08-12",
+      "filedDate": "2020-12-09",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20017832.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S001190",
+      "assetRaw": "Netflix, Inc.",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2019-11-12",
+      "filedDate": "2019-12-21",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20013807.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S001190",
+      "assetRaw": "Alibaba Group Holding limited American Depositary Shares each representing one Ordinary share",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2019-06-20",
+      "filedDate": "2019-06-21",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20011882.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S001190",
+      "assetRaw": "Alphabet Inc. - Class A (GOOGl) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2019-06-20",
+      "filedDate": "2019-06-21",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20011882.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S001190",
+      "assetRaw": "Amazon.com, Inc.",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 250001,
+        "hi": 500000
+      },
+      "transactionDate": "2019-06-20",
+      "filedDate": "2019-06-21",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20011882.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S001190",
+      "assetRaw": "DexCom, Inc.",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2019-06-20",
+      "filedDate": "2019-06-21",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20011882.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S001190",
+      "assetRaw": "Facebook, Inc. - Class A",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 250001,
+        "hi": 500000
+      },
+      "transactionDate": "2019-06-20",
+      "filedDate": "2019-06-21",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20011882.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S001190",
+      "assetRaw": "Fiserv, Inc.",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2019-06-20",
+      "filedDate": "2019-06-21",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20011882.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S001190",
+      "assetRaw": "Home Depot, Inc.",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 250001,
+        "hi": 500000
+      },
+      "transactionDate": "2019-06-20",
+      "filedDate": "2019-06-21",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20011882.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S001190",
+      "assetRaw": "Mastercard Incorporated",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 500001,
+        "hi": 1000000
+      },
+      "transactionDate": "2019-06-20",
+      "filedDate": "2019-06-21",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20011882.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S001190",
+      "assetRaw": "Microsoft Corporation",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 250001,
+        "hi": 500000
+      },
+      "transactionDate": "2019-06-20",
+      "filedDate": "2019-06-21",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20011882.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S001190",
+      "assetRaw": "Texas Instruments Incorporated",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2019-06-20",
+      "filedDate": "2019-06-21",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20011882.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S001190",
+      "assetRaw": "The Trade Desk, Inc. - Class A",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 250001,
+        "hi": 500000
+      },
+      "transactionDate": "2019-06-20",
+      "filedDate": "2019-06-21",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20011882.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S001190",
+      "assetRaw": "Thermo Fisher Scientific Inc",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 250001,
+        "hi": 500000
+      },
+      "transactionDate": "2019-06-20",
+      "filedDate": "2019-06-21",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20011882.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S001190",
+      "assetRaw": "linde plc Ordinary Share (lIN) [ST]",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2019-06-20",
+      "filedDate": "2019-06-21",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20011882.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S001190",
+      "assetRaw": "Amazon.com, Inc.",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 250001,
+        "hi": 500000
+      },
+      "transactionDate": "2019-06-19",
+      "filedDate": "2019-06-21",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20011882.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S001190",
+      "assetRaw": "Facebook, Inc. - Class A",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 250001,
+        "hi": 500000
+      },
+      "transactionDate": "2019-06-19",
+      "filedDate": "2019-06-21",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20011882.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S001190",
+      "assetRaw": "Fiserv, Inc.",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2019-06-19",
+      "filedDate": "2019-06-21",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20011882.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S001190",
+      "assetRaw": "Home Depot, Inc.",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2019-06-19",
+      "filedDate": "2019-06-21",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20011882.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S001190",
+      "assetRaw": "Mastercard Incorporated",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 500001,
+        "hi": 1000000
+      },
+      "transactionDate": "2019-06-19",
+      "filedDate": "2019-06-21",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20011882.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S001190",
+      "assetRaw": "Microsoft Corporation",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2019-06-19",
+      "filedDate": "2019-06-21",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20011882.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S001190",
+      "assetRaw": "Progressive Corporation",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 250001,
+        "hi": 500000
+      },
+      "transactionDate": "2019-06-19",
+      "filedDate": "2019-06-21",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20011882.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S001190",
+      "assetRaw": "QUAlCOMM Incorporated",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2019-06-19",
+      "filedDate": "2019-06-21",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20011882.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S001190",
+      "assetRaw": "Teladoc Health, Inc.",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 250001,
+        "hi": 500000
+      },
+      "transactionDate": "2019-06-19",
+      "filedDate": "2019-06-21",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20011882.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S001190",
+      "assetRaw": "The Trade Desk, Inc. - Class A",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2019-06-19",
+      "filedDate": "2019-06-21",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20011882.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S001190",
+      "assetRaw": "Coherent, Inc.",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2019-05-24",
+      "filedDate": "2019-06-21",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20011882.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S001190",
+      "assetRaw": "Fiserv, Inc.",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2019-05-24",
+      "filedDate": "2019-06-21",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20011882.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S001190",
+      "assetRaw": "Progressive Corporation",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2019-05-24",
+      "filedDate": "2019-06-21",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20011882.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S001190",
+      "assetRaw": "PTC Inc.",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2019-05-07",
+      "filedDate": "2019-06-21",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20011882.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S001190",
+      "assetRaw": "Teladoc Health, Inc.",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2019-05-07",
+      "filedDate": "2019-06-21",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20011882.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S001190",
+      "assetRaw": "Fiserv, Inc.",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2019-05-03",
+      "filedDate": "2019-06-17",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20011859.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S001190",
+      "assetRaw": "PTC Inc.",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2019-05-03",
+      "filedDate": "2019-06-17",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20011859.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S001190",
+      "assetRaw": "QUAlCOMM Incorporated",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 250001,
+        "hi": 500000
+      },
+      "transactionDate": "2019-04-24",
+      "filedDate": "2019-05-26",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20011720.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S001190",
+      "assetRaw": "The Middleby Corporation",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 250001,
+        "hi": 500000
+      },
+      "transactionDate": "2019-04-24",
+      "filedDate": "2019-05-26",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20011720.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S001190",
+      "assetRaw": "FedEx Corporation",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2019-03-19",
+      "filedDate": "2019-04-06",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20011416.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S001190",
+      "assetRaw": "CDW Corporation",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2019-03-11",
+      "filedDate": "2019-04-06",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20011416.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S001190",
+      "assetRaw": "Progressive Corporation",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2019-03-11",
+      "filedDate": "2019-04-06",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20011416.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S001190",
+      "assetRaw": "AptarGroup, Inc.",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 250001,
+        "hi": 500000
+      },
+      "transactionDate": "2019-03-05",
+      "filedDate": "2019-04-06",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20011416.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S001190",
+      "assetRaw": "The Middleby Corporation",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2019-03-05",
+      "filedDate": "2019-04-06",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20011416.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S001190",
+      "assetRaw": "Alibaba Group Holding limited American Depositary Shares each representing one Ordinary share",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2019-02-19",
+      "filedDate": "2019-04-06",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20011416.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S001190",
+      "assetRaw": "CDW Corporation",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2019-02-19",
+      "filedDate": "2019-04-06",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20011416.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S001190",
+      "assetRaw": "FedEx Corporation",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2019-02-19",
+      "filedDate": "2019-04-06",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20011416.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S001190",
+      "assetRaw": "CDW Corporation",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2019-02-12",
+      "filedDate": "2019-02-17",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20011172.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S001190",
+      "assetRaw": "AptarGroup, Inc.",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 250001,
+        "hi": 500000
+      },
+      "transactionDate": "2019-02-05",
+      "filedDate": "2019-02-17",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20011172.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S001190",
+      "assetRaw": "ResMed Inc.",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 250001,
+        "hi": 500000
+      },
+      "transactionDate": "2019-02-05",
+      "filedDate": "2019-02-17",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20011172.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S001190",
+      "assetRaw": "Netflix, Inc.",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2018-12-24",
+      "filedDate": "2019-01-01",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20010924.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S001190",
+      "assetRaw": "Take-Two Interactive Software, Inc.",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2018-12-18",
+      "filedDate": "2019-01-01",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20010924.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S001190",
+      "assetRaw": "Trupanion, Inc.",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2018-10-30",
+      "filedDate": "2018-11-20",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20010713.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S001190",
+      "assetRaw": "Envestnet, Inc",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2018-10-19",
+      "filedDate": "2018-11-20",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20010713.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S001190",
+      "assetRaw": "Trupanion, Inc.",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2018-10-10",
+      "filedDate": "2018-11-20",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20010713.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S001190",
+      "assetRaw": "PTC Inc.",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2018-09-26",
+      "filedDate": "2018-10-08",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20010443.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S001190",
+      "assetRaw": "Texas Instruments Incorporated",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2018-09-26",
+      "filedDate": "2018-10-08",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20010443.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S001190",
+      "assetRaw": "The Trade Desk, Inc. - Class A",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2018-09-26",
+      "filedDate": "2018-10-08",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20010443.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S001190",
+      "assetRaw": "PTC Inc.",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2018-09-14",
+      "filedDate": "2018-10-08",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20010443.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S001190",
+      "assetRaw": "Take-Two Interactive Software, Inc.",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 250001,
+        "hi": 500000
+      },
+      "transactionDate": "2018-09-05",
+      "filedDate": "2018-10-08",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20010443.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S001190",
+      "assetRaw": "laboratory Corporation of America Holdings (lH) [ST]",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 250001,
+        "hi": 500000
+      },
+      "transactionDate": "2018-09-05",
+      "filedDate": "2018-10-08",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20010443.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S001190",
+      "assetRaw": "Delphi Technologies PlC Ordinary Shares (DlPH) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2018-08-22",
+      "filedDate": "2018-10-08",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20010443.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S001190",
+      "assetRaw": "The Trade Desk, Inc. - Class A",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2018-08-22",
+      "filedDate": "2018-10-08",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20010443.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S001190",
+      "assetRaw": "Ulta Beauty, Inc. (UlTA) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2018-08-22",
+      "filedDate": "2018-10-08",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20010443.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S001190",
+      "assetRaw": "Envestnet, Inc",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2018-07-23",
+      "filedDate": "2018-10-08",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20010443.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S001190",
+      "assetRaw": "Illinois Tool Works Inc.",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2018-07-23",
+      "filedDate": "2018-10-08",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20010443.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S001190",
+      "assetRaw": "Progressive Corporation",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2018-06-20",
+      "filedDate": "2018-07-15",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20009869.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S001190",
+      "assetRaw": "Applied Materials, Inc.",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2018-05-14",
+      "filedDate": "2018-07-15",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20009869.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S001190",
+      "assetRaw": "Delphi Technologies PlC Ordinary Shares (DlPH) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2018-05-14",
+      "filedDate": "2018-07-15",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20009869.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S001190",
+      "assetRaw": "JP Morgan Chase & Co.",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2018-05-04",
+      "filedDate": "2018-06-10",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20009512.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S001190",
+      "assetRaw": "Teladoc, Inc.",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2018-05-04",
+      "filedDate": "2018-06-10",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20009512.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S001190",
+      "assetRaw": "JP Morgan Chase & Co.",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2018-04-17",
+      "filedDate": "2018-06-10",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20009512.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S001190",
+      "assetRaw": "Progressive Corporation",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2018-04-17",
+      "filedDate": "2018-06-10",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20009512.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S001190",
+      "assetRaw": "ResMed Inc. (RMD)",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2018-03-21",
+      "filedDate": "2018-03-31",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20009213.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S001190",
+      "assetRaw": "Walmart Inc. (WMT)",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2018-02-21",
+      "filedDate": "2018-03-31",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20009213.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S001190",
+      "assetRaw": "SAP SE ADS (SAP)",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 250001,
+        "hi": 500000
+      },
+      "transactionDate": "2018-01-12",
+      "filedDate": "2018-02-15",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20008985.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S001190",
+      "assetRaw": "laboratory Corporation of America Holdings (lH)",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 250001,
+        "hi": 500000
+      },
+      "transactionDate": "2018-01-12",
+      "filedDate": "2018-02-15",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20008985.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S001190",
+      "assetRaw": "Intel Corporation (INTC)",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-12-29",
+      "filedDate": "2017-12-31",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2017/20008644.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S001190",
+      "assetRaw": "Delta Air Lines, Inc. (DAL)",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2017-12-12",
+      "filedDate": "2017-12-31",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2017/20008644.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S001190",
+      "assetRaw": "laboratory Corporation of America Holdings (lH)",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2017-11-21",
+      "filedDate": "2017-11-23",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2017/20008438.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S001190",
+      "assetRaw": "lennar Corporation Class A (lEN)",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2017-11-21",
+      "filedDate": "2017-11-23",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2017/20008438.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S001190",
+      "assetRaw": "Alibaba Group Holding limited American Depositary Shares each representing one Ordinary share (BABA)",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2017-11-16",
+      "filedDate": "2017-11-23",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2017/20008438.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S001190",
+      "assetRaw": "Suncor Energy Inc. (SU)",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2017-11-16",
+      "filedDate": "2017-11-23",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2017/20008438.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S001190",
+      "assetRaw": "27 - MSSB BRoKERaGE aCCoUNT (ED-T)",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2017-10-31",
+      "filedDate": "2018-08-09",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20010046.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S001190",
+      "assetRaw": "Intel Corporation (INTC)",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2017-10-27",
+      "filedDate": "2017-10-29",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2017/20008293.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S001190",
+      "assetRaw": "Lennar Corporation Class a (LEN)",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2017-10-27",
+      "filedDate": "2017-10-29",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2017/20008293.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S001190",
+      "assetRaw": "Celgene Corporation (CELG)",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2017-10-23",
+      "filedDate": "2017-10-29",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2017/20008293.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S001190",
+      "assetRaw": "JP Morgan Chase & Co. (JPM)",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2017-10-23",
+      "filedDate": "2017-10-29",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2017/20008293.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S001190",
+      "assetRaw": "Lennar Corporation Class a (LEN)",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2017-10-11",
+      "filedDate": "2017-10-29",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2017/20008293.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S001190",
+      "assetRaw": "Vulcan Materials Company (VMC)",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2017-10-11",
+      "filedDate": "2017-10-29",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2017/20008293.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S001190",
+      "assetRaw": "Delphi Automotive plc Ordinary Shares (DlPH)",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2017-09-22",
+      "filedDate": "2017-09-24",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2017/20008078.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S001190",
+      "assetRaw": "Texas Instruments Incorporated (TXN)",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2017-09-22",
+      "filedDate": "2017-09-24",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2017/20008078.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S001190",
+      "assetRaw": "Texas Instruments Incorporated (TXN)",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2017-09-22",
+      "filedDate": "2017-09-24",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2017/20008078.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S001190",
+      "assetRaw": "United Continental Holdings (UAl)",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2017-09-22",
+      "filedDate": "2017-09-24",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2017/20008078.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S001190",
+      "assetRaw": "SPalliant Insurance Services, Inc.",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2017-07-28",
+      "filedDate": "2017-08-20",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2017/20007634.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S001190",
+      "assetRaw": "Carnival Corporation (CCl)",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2017-07-17",
+      "filedDate": "2017-08-21",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2017/20007870.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S001190",
+      "assetRaw": "MB Financial Inc. (MBFI)",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2017-07-17",
+      "filedDate": "2017-08-21",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2017/20007870.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S001190",
+      "assetRaw": "DexCom, Inc.",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2017-06-20",
+      "filedDate": "2018-07-15",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20009869.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S001190",
+      "assetRaw": "Teladoc, Inc.",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2017-06-04",
+      "filedDate": "2018-07-15",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20009869.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S001190",
+      "assetRaw": "Delphi automotive plc Ordinary Shares (DlPH)",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2017-03-23",
+      "filedDate": "2017-03-25",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2017/20006968.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S001190",
+      "assetRaw": "alibaba group Holding limited american Depositary Shares each representing one Ordinary share (BaBa)",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2017-03-10",
+      "filedDate": "2017-03-25",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2017/20006968.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S001190",
+      "assetRaw": "laboratory Corporation of america Holdings (lH)",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2017-03-10",
+      "filedDate": "2017-03-25",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2017/20006968.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S001190",
+      "assetRaw": "SParizona Health FaCS auth Banner Health Rev Sec-a Rate:N/a/aa 5.00% 1/1/35 [GS]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2017-02-06",
+      "filedDate": "2018-08-09",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20010046.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S001190",
+      "assetRaw": "Pardise for Paws [oL]",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-01-11",
+      "filedDate": "2018-08-09",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20010046.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S001190",
+      "assetRaw": "Home Depot, Inc. (HD)",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2014-12-10",
+      "filedDate": "2015-01-16",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2015/20002402.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S001190",
+      "assetRaw": "Bally Technologies Inc. (BYI)E11/24/201412/1/2014$1,001 - $15,000 FIlINg STaTuS: New SPBeacon Roofing Supply, Inc. (BECN)S11/3/201412/1/2014$1,001 - $15,000 FIlINg STaTuS: New SPChicago Bridge & Iron Company N.V. (CBI) S11/7/201412/1/2014$50,001 - $100,000 FIlINg STaTuS: New SPCIRCoR International, Inc. (CIR)P11/14/201412/1/2014$1,001 - $15,000 FIlINg STaTuS: New SPDTE ENERgY Co SER I :Baa1/BBB- 6.500% DuE:2061-12-01 S11/12/201412/1/2014$1,001 - $15,000 FIlINg STaTuS: New DESCRIPTIoN: Corporate Bond SPEQuITY CoMWlTH SER NT REDEMPTIoN oF CallED SECuRITY RaTE:Baa3/BBB- 7.500% DuE:2019-11-15 E11/17/201412/1/2014$1,001 - $15,000 FIlINg STaTuS: New DESCRIPTIoN: Redeemed Bond  SPgolDMaN SaCHS gRP INC 5.50%-JP11/24/201412/1/2014$1,001 - $15,000 FIlINg STaTuS: New DESCRIPTIoN: Corporate Bond SPHaRTFoRD FINl SVC gRP 7.875% To 4/15/22 FloaTS aFTER (HgH) Ba1/BB+ 7.875% DuE:2042-04- 15 P11/24/201412/1/2014$1,001 - $15,000 FIlINg STaTuS: New DESCRIPTIoN: Corporate Bond SPNEW YoRK ST TWY auTH HWY & BRDg TR FD TR 5% 4/1/2018",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2014-11-25",
+      "filedDate": "2014-12-15",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2014/20002222.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S001190",
+      "assetRaw": "RBS CaP FNDg TRuST V 5.9%P11/18/201412/1/2014$1,001 - $15,000 FIlINg STaTuS: New DESCRIPTIoN: Corporate Bond SPRoYal BK SCoTlaND SER Q 6.75%S11/14/201412/1/2014$1,001 - $15,000 FIlINg STaTuS: New DESCRIPTIoN: Corporate Bond SPVIaCoM INC SR DEB 6.87500% 04/30/2036 P11/7/201412/1/2014$1,001 - $15,000 FIlINg STaTuS: New DESCRIPTIoN: Corporate Bond SPWaSH ST go BDS SER 2006a 5% 7/1/2026",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2014-11-20",
+      "filedDate": "2014-12-15",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2014/20002222.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    }
+  ],
+  "series": [
+    {
+      "date": "2014-11-20",
+      "value": 75000.5
+    },
+    {
+      "date": "2014-11-25",
+      "value": 75000.5
+    },
+    {
+      "date": "2014-12-10",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-01-11",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-02-06",
+      "value": 32500.5
+    },
+    {
+      "date": "2017-03-10",
+      "value": 175000.5
+    },
+    {
+      "date": "2017-03-10",
+      "value": 175000.5
+    },
+    {
+      "date": "2017-03-23",
+      "value": 75000.5
+    },
+    {
+      "date": "2017-06-04",
+      "value": 32500.5
+    },
+    {
+      "date": "2017-06-20",
+      "value": 175000.5
+    },
+    {
+      "date": "2017-07-17",
+      "value": 175000.5
+    },
+    {
+      "date": "2017-07-17",
+      "value": 175000.5
+    },
+    {
+      "date": "2017-07-28",
+      "value": 32500.5
+    },
+    {
+      "date": "2017-09-22",
+      "value": 32500.5
+    },
+    {
+      "date": "2017-09-22",
+      "value": 175000.5
+    },
+    {
+      "date": "2017-09-22",
+      "value": 75000.5
+    },
+    {
+      "date": "2017-09-22",
+      "value": 175000.5
+    },
+    {
+      "date": "2017-10-11",
+      "value": 175000.5
+    },
+    {
+      "date": "2017-10-11",
+      "value": 175000.5
+    },
+    {
+      "date": "2017-10-23",
+      "value": 175000.5
+    },
+    {
+      "date": "2017-10-23",
+      "value": 175000.5
+    },
+    {
+      "date": "2017-10-27",
+      "value": 175000.5
+    },
+    {
+      "date": "2017-10-27",
+      "value": 175000.5
+    },
+    {
+      "date": "2017-10-31",
+      "value": 32500.5
+    },
+    {
+      "date": "2017-11-16",
+      "value": 175000.5
+    },
+    {
+      "date": "2017-11-16",
+      "value": 175000.5
+    },
+    {
+      "date": "2017-11-21",
+      "value": 175000.5
+    },
+    {
+      "date": "2017-11-21",
+      "value": 175000.5
+    },
+    {
+      "date": "2017-12-12",
+      "value": 175000.5
+    },
+    {
+      "date": "2017-12-29",
+      "value": 8000.5
+    },
+    {
+      "date": "2018-01-12",
+      "value": 375000.5
+    },
+    {
+      "date": "2018-01-12",
+      "value": 375000.5
+    },
+    {
+      "date": "2018-02-21",
+      "value": 75000.5
+    },
+    {
+      "date": "2018-03-21",
+      "value": 75000.5
+    },
+    {
+      "date": "2018-04-17",
+      "value": 175000.5
+    },
+    {
+      "date": "2018-04-17",
+      "value": 175000.5
+    },
+    {
+      "date": "2018-05-04",
+      "value": 175000.5
+    },
+    {
+      "date": "2018-05-04",
+      "value": 175000.5
+    },
+    {
+      "date": "2018-05-14",
+      "value": 175000.5
+    },
+    {
+      "date": "2018-05-14",
+      "value": 175000.5
+    },
+    {
+      "date": "2018-06-20",
+      "value": 175000.5
+    },
+    {
+      "date": "2018-07-23",
+      "value": 175000.5
+    },
+    {
+      "date": "2018-07-23",
+      "value": 175000.5
+    },
+    {
+      "date": "2018-08-22",
+      "value": 175000.5
+    },
+    {
+      "date": "2018-08-22",
+      "value": 175000.5
+    },
+    {
+      "date": "2018-08-22",
+      "value": 175000.5
+    },
+    {
+      "date": "2018-09-05",
+      "value": 375000.5
+    },
+    {
+      "date": "2018-09-05",
+      "value": 375000.5
+    },
+    {
+      "date": "2018-09-14",
+      "value": 175000.5
+    },
+    {
+      "date": "2018-09-26",
+      "value": 175000.5
+    },
+    {
+      "date": "2018-09-26",
+      "value": 175000.5
+    },
+    {
+      "date": "2018-09-26",
+      "value": 75000.5
+    },
+    {
+      "date": "2018-10-10",
+      "value": 75000.5
+    },
+    {
+      "date": "2018-10-19",
+      "value": 175000.5
+    },
+    {
+      "date": "2018-10-30",
+      "value": 75000.5
+    },
+    {
+      "date": "2018-12-18",
+      "value": 175000.5
+    },
+    {
+      "date": "2018-12-24",
+      "value": 32500.5
+    },
+    {
+      "date": "2019-02-05",
+      "value": 375000.5
+    },
+    {
+      "date": "2019-02-05",
+      "value": 375000.5
+    },
+    {
+      "date": "2019-02-12",
+      "value": 175000.5
+    },
+    {
+      "date": "2019-02-19",
+      "value": 175000.5
+    },
+    {
+      "date": "2019-02-19",
+      "value": 175000.5
+    },
+    {
+      "date": "2019-02-19",
+      "value": 175000.5
+    },
+    {
+      "date": "2019-03-05",
+      "value": 375000.5
+    },
+    {
+      "date": "2019-03-05",
+      "value": 175000.5
+    },
+    {
+      "date": "2019-03-11",
+      "value": 175000.5
+    },
+    {
+      "date": "2019-03-11",
+      "value": 175000.5
+    },
+    {
+      "date": "2019-03-19",
+      "value": 175000.5
+    },
+    {
+      "date": "2019-04-24",
+      "value": 375000.5
+    },
+    {
+      "date": "2019-04-24",
+      "value": 375000.5
+    },
+    {
+      "date": "2019-05-03",
+      "value": 175000.5
+    },
+    {
+      "date": "2019-05-03",
+      "value": 175000.5
+    },
+    {
+      "date": "2019-05-07",
+      "value": 75000.5
+    },
+    {
+      "date": "2019-05-07",
+      "value": 75000.5
+    },
+    {
+      "date": "2019-05-24",
+      "value": 175000.5
+    },
+    {
+      "date": "2019-05-24",
+      "value": 75000.5
+    },
+    {
+      "date": "2019-05-24",
+      "value": 175000.5
+    },
+    {
+      "date": "2019-06-19",
+      "value": 375000.5
+    },
+    {
+      "date": "2019-06-19",
+      "value": 375000.5
+    },
+    {
+      "date": "2019-06-19",
+      "value": 75000.5
+    },
+    {
+      "date": "2019-06-19",
+      "value": 175000.5
+    },
+    {
+      "date": "2019-06-19",
+      "value": 750000.5
+    },
+    {
+      "date": "2019-06-19",
+      "value": 175000.5
+    },
+    {
+      "date": "2019-06-19",
+      "value": 375000.5
+    },
+    {
+      "date": "2019-06-19",
+      "value": 175000.5
+    },
+    {
+      "date": "2019-06-19",
+      "value": 375000.5
+    },
+    {
+      "date": "2019-06-19",
+      "value": 175000.5
+    },
+    {
+      "date": "2019-06-20",
+      "value": 175000.5
+    },
+    {
+      "date": "2019-06-20",
+      "value": 175000.5
+    },
+    {
+      "date": "2019-06-20",
+      "value": 375000.5
+    },
+    {
+      "date": "2019-06-20",
+      "value": 175000.5
+    },
+    {
+      "date": "2019-06-20",
+      "value": 375000.5
+    },
+    {
+      "date": "2019-06-20",
+      "value": 175000.5
+    },
+    {
+      "date": "2019-06-20",
+      "value": 375000.5
+    },
+    {
+      "date": "2019-06-20",
+      "value": 750000.5
+    },
+    {
+      "date": "2019-06-20",
+      "value": 375000.5
+    },
+    {
+      "date": "2019-06-20",
+      "value": 175000.5
+    },
+    {
+      "date": "2019-06-20",
+      "value": 375000.5
+    },
+    {
+      "date": "2019-06-20",
+      "value": 375000.5
+    },
+    {
+      "date": "2019-06-20",
+      "value": 175000.5
+    },
+    {
+      "date": "2019-11-12",
+      "value": 32500.5
+    },
+    {
+      "date": "2020-08-12",
+      "value": 375000.5
+    },
+    {
+      "date": "2020-08-12",
+      "value": 375000.5
+    },
+    {
+      "date": "2020-08-12",
+      "value": 375000.5
+    },
+    {
+      "date": "2020-12-09",
+      "value": 750000.5
+    },
+    {
+      "date": "2020-12-09",
+      "value": 750000.5
+    },
+    {
+      "date": "2020-12-17",
+      "value": 175000.5
+    },
+    {
+      "date": "2020-12-17",
+      "value": 175000.5
+    },
+    {
+      "date": "2021-02-08",
+      "value": 75000.5
+    },
+    {
+      "date": "2021-12-07",
+      "value": 32500.5
+    },
+    {
+      "date": "2021-12-10",
+      "value": 75000.5
+    },
+    {
+      "date": "2022-09-16",
+      "value": 75000.5
+    },
+    {
+      "date": "2022-09-20",
+      "value": 175000.5
+    },
+    {
+      "date": "2022-09-20",
+      "value": 8000.5
+    },
+    {
+      "date": "2023-04-12",
+      "value": 75000.5
+    },
+    {
+      "date": "2023-04-14",
+      "value": 75000.5
+    },
+    {
+      "date": "2023-06-27",
+      "value": 8000.5
+    },
+    {
+      "date": "2024-06-09",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-01-24",
+      "value": 750000.5
+    },
+    {
+      "date": "2025-06-09",
+      "value": 8000.5
+    }
+  ],
+  "measured": null
+}

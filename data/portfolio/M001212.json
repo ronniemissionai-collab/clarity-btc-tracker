@@ -1,0 +1,171 @@
+{
+  "member": {
+    "bioguideId": "M001212",
+    "name": "Barry Moore",
+    "party": "R",
+    "chamber": "house",
+    "state": "AL",
+    "district": "AL-01",
+    "active": true
+  },
+  "positions": [],
+  "trades": [
+    {
+      "memberId": "M001212",
+      "assetRaw": "Bitcoin [CT]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2024-03-30",
+      "filedDate": "2024-04-18",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/20024836.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001212",
+      "assetRaw": "River Bank and Trust [PS]",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2023-08-31",
+      "filedDate": "2023-09-14",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20023711.pdf",
+      "late": false,
+      "note": "2500 shares of River Bank and Trust Stock",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001212",
+      "assetRaw": "crypto (cardona) [OT]",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-10-23",
+      "filedDate": "2021-10-26",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019695.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001212",
+      "assetRaw": "LOCATION: US DESCRIPTION: Crypto DOgE [OT]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-06-13",
+      "filedDate": "2021-07-02",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20018999.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001212",
+      "assetRaw": "LOCATION: US DESCRIPTION: Crypto ADA [OT]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-05-13",
+      "filedDate": "2021-07-02",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20018999.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001212",
+      "assetRaw": "ADA [OT]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-05-11",
+      "filedDate": "2021-07-02",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20018999.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001212",
+      "assetRaw": "LOCATION: US DESCRIPTION: Crypto ADA [OT]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-05-10",
+      "filedDate": "2021-07-02",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20018999.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001212",
+      "assetRaw": "LOCATION: US DESCRIPTION: Crypto Etherium [OT]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-05-05",
+      "filedDate": "2021-07-02",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20018999.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    }
+  ],
+  "series": [
+    {
+      "date": "2021-05-05",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-05-10",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-05-11",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-05-13",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-06-13",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-10-23",
+      "value": 8000.5
+    },
+    {
+      "date": "2023-08-31",
+      "value": 75000.5
+    },
+    {
+      "date": "2024-03-30",
+      "value": 8000.5
+    }
+  ],
+  "measured": null
+}

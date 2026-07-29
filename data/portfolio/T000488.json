@@ -1,0 +1,846 @@
+{
+  "member": {
+    "bioguideId": "T000488",
+    "name": "Shri Thanedar",
+    "party": "D",
+    "chamber": "house",
+    "state": "MI",
+    "district": "MI-13",
+    "active": true
+  },
+  "positions": [
+    {
+      "memberId": "T000488",
+      "security": {
+        "ticker": "BTC",
+        "kind": "direct"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 250001,
+        "hi": 500000
+      },
+      "status": "sold",
+      "asOf": "2024-02-05",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/20024468.pdf"
+        }
+      ],
+      "note": "sale reported by PTR with no annual baseline in our coverage"
+    },
+    {
+      "memberId": "T000488",
+      "security": {
+        "ticker": "COIN",
+        "kind": "exchange"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "sold",
+      "asOf": "2022-12-20",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20022380.pdf"
+        }
+      ],
+      "note": "sale reported by PTR with no annual baseline in our coverage"
+    },
+    {
+      "memberId": "T000488",
+      "security": {
+        "ticker": "MSTR",
+        "kind": "treasury"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "status": "stale",
+      "asOf": "2024-07-01",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030869.pdf"
+        }
+      ]
+    },
+    {
+      "memberId": "T000488",
+      "security": {
+        "ticker": "TSLA",
+        "kind": "treasury"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "sold",
+      "asOf": "2023-01-23",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20022380.pdf"
+        }
+      ],
+      "note": "sale reported by PTR with no annual baseline in our coverage"
+    }
+  ],
+  "trades": [
+    {
+      "memberId": "T000488",
+      "assetRaw": "MicroStrategy Incorporated - Class A Common Stock",
+      "security": {
+        "ticker": "MSTR",
+        "kind": "treasury"
+      },
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2024-07-01",
+      "filedDate": "2025-08-11",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030869.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "T000488",
+      "assetRaw": "Alphabet Inc. - Class A Common Stock",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2024-04-02",
+      "filedDate": "2024-05-15",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/20024862.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "T000488",
+      "assetRaw": "Alphabet Inc. - Class C Capital Stock",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2024-04-02",
+      "filedDate": "2024-05-15",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/20024862.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "T000488",
+      "assetRaw": "Amazon.com, Inc. - Common Stock",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2024-04-02",
+      "filedDate": "2024-05-15",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/20024862.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "T000488",
+      "assetRaw": "Apple Inc. - Common Stock",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2024-04-02",
+      "filedDate": "2024-05-15",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/20024862.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "T000488",
+      "assetRaw": "Berkshire Hathaway Inc. New Common Stock",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2024-04-02",
+      "filedDate": "2024-05-15",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/20024862.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "T000488",
+      "assetRaw": "Microsoft Corporation - Common Stock",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2024-04-02",
+      "filedDate": "2024-05-15",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/20024862.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "T000488",
+      "assetRaw": "Bitcoin",
+      "security": {
+        "ticker": "BTC",
+        "kind": "direct"
+      },
+      "side": "sell",
+      "range": {
+        "lo": 250001,
+        "hi": 500000
+      },
+      "transactionDate": "2024-02-05",
+      "filedDate": "2024-02-23",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/20024468.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "T000488",
+      "assetRaw": "Ethereum",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2024-02-05",
+      "filedDate": "2024-02-23",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/20024468.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "T000488",
+      "assetRaw": "Litecoin",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2024-02-05",
+      "filedDate": "2024-02-23",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/20024468.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "T000488",
+      "assetRaw": "Alphabet Inc. - Class A Common Stock",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2024-01-25",
+      "filedDate": "2024-02-23",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/20024468.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "T000488",
+      "assetRaw": "Alphabet Inc. - Class C Capital Stock",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2024-01-25",
+      "filedDate": "2024-02-23",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/20024468.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "T000488",
+      "assetRaw": "Amazon.com, Inc. - Common Stock",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2024-01-25",
+      "filedDate": "2024-02-23",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/20024468.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "T000488",
+      "assetRaw": "Apple Inc. - Common Stock",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2024-01-25",
+      "filedDate": "2024-02-23",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/20024468.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "T000488",
+      "assetRaw": "Berkshire Hathaway Inc. New Common Stock",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2024-01-25",
+      "filedDate": "2024-02-23",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/20024468.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "T000488",
+      "assetRaw": "Microsoft Corporation - Common Stock",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2024-01-25",
+      "filedDate": "2024-02-23",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/20024468.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "T000488",
+      "assetRaw": "American Express Company",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2023-01-23",
+      "filedDate": "2023-02-09",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20022380.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "T000488",
+      "assetRaw": "American Express Company",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2023-01-23",
+      "filedDate": "2023-02-09",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20022380.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "T000488",
+      "assetRaw": "Apollo Global Management, Inc.",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2023-01-23",
+      "filedDate": "2023-02-09",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20022380.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "T000488",
+      "assetRaw": "Apollo Global Management, Inc.",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2023-01-23",
+      "filedDate": "2023-02-09",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20022380.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "T000488",
+      "assetRaw": "Biogen Inc.",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2023-01-23",
+      "filedDate": "2023-02-09",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20022380.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "T000488",
+      "assetRaw": "Blackstone Inc.",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2023-01-23",
+      "filedDate": "2023-02-09",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20022380.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "T000488",
+      "assetRaw": "COMPASS Pathways Plc - American Depository Shares",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2023-01-23",
+      "filedDate": "2023-02-09",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20022380.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "T000488",
+      "assetRaw": "Coherus BioSciences, Inc.",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2023-01-23",
+      "filedDate": "2023-02-09",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20022380.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "T000488",
+      "assetRaw": "KKR & Co. Inc.",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2023-01-23",
+      "filedDate": "2023-02-09",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20022380.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "T000488",
+      "assetRaw": "Starbucks Corporation",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2023-01-23",
+      "filedDate": "2023-02-09",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20022380.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "T000488",
+      "assetRaw": "Starbucks Corporation",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2023-01-23",
+      "filedDate": "2023-02-09",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20022380.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "T000488",
+      "assetRaw": "Tesla, Inc.",
+      "security": {
+        "ticker": "TSLA",
+        "kind": "treasury"
+      },
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2023-01-23",
+      "filedDate": "2023-02-09",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20022380.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "T000488",
+      "assetRaw": "The Carlyle Group Inc.",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2023-01-23",
+      "filedDate": "2023-02-09",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20022380.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "T000488",
+      "assetRaw": "The Carlyle Group Inc.",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2023-01-23",
+      "filedDate": "2023-02-09",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20022380.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "T000488",
+      "assetRaw": "The Carlyle Group Inc.",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2023-01-23",
+      "filedDate": "2023-02-09",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20022380.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "T000488",
+      "assetRaw": "Walmart Inc.",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2023-01-23",
+      "filedDate": "2023-02-09",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20022380.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "T000488",
+      "assetRaw": "Coinbase Global, Inc. - Class A",
+      "security": {
+        "ticker": "COIN",
+        "kind": "exchange"
+      },
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-12-20",
+      "filedDate": "2023-02-09",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20022380.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "T000488",
+      "assetRaw": "Tesla, Inc.",
+      "security": {
+        "ticker": "TSLA",
+        "kind": "treasury"
+      },
+      "side": "sell",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2022-08-01",
+      "filedDate": "2023-02-09",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20022380.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "T000488",
+      "assetRaw": "KE Holdings Inc American Depositary Shares",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2022-06-24",
+      "filedDate": "2023-02-09",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20022380.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "T000488",
+      "assetRaw": "JD.com, Inc. - American Depositary Shares",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-04-22",
+      "filedDate": "2023-02-09",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20022380.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "T000488",
+      "assetRaw": "Tencent Holdings Limited Unsponsored ADR Representing B Shares",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-04-22",
+      "filedDate": "2023-02-09",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20022380.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "T000488",
+      "assetRaw": "Tencent Music Entertainment Group American Depositary Shares, each representing two Class A Ordinary Shares",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-04-22",
+      "filedDate": "2023-02-09",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20022380.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    }
+  ],
+  "series": [
+    {
+      "date": "2022-04-22",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-04-22",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-04-22",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-06-24",
+      "value": 32500.5
+    },
+    {
+      "date": "2022-08-01",
+      "value": 75000.5
+    },
+    {
+      "date": "2022-12-20",
+      "value": 8000.5
+    },
+    {
+      "date": "2023-01-23",
+      "value": 8000.5
+    },
+    {
+      "date": "2023-01-23",
+      "value": 75000.5
+    },
+    {
+      "date": "2023-01-23",
+      "value": 8000.5
+    },
+    {
+      "date": "2023-01-23",
+      "value": 175000.5
+    },
+    {
+      "date": "2023-01-23",
+      "value": 32500.5
+    },
+    {
+      "date": "2023-01-23",
+      "value": 75000.5
+    },
+    {
+      "date": "2023-01-23",
+      "value": 8000.5
+    },
+    {
+      "date": "2023-01-23",
+      "value": 32500.5
+    },
+    {
+      "date": "2023-01-23",
+      "value": 32500.5
+    },
+    {
+      "date": "2023-01-23",
+      "value": 8000.5
+    },
+    {
+      "date": "2023-01-23",
+      "value": 32500.5
+    },
+    {
+      "date": "2023-01-23",
+      "value": 8000.5
+    },
+    {
+      "date": "2023-01-23",
+      "value": 8000.5
+    },
+    {
+      "date": "2023-01-23",
+      "value": 32500.5
+    },
+    {
+      "date": "2023-01-23",
+      "value": 32500.5
+    },
+    {
+      "date": "2023-01-23",
+      "value": 8000.5
+    },
+    {
+      "date": "2024-01-25",
+      "value": 8000.5
+    },
+    {
+      "date": "2024-01-25",
+      "value": 8000.5
+    },
+    {
+      "date": "2024-01-25",
+      "value": 8000.5
+    },
+    {
+      "date": "2024-01-25",
+      "value": 32500.5
+    },
+    {
+      "date": "2024-01-25",
+      "value": 8000.5
+    },
+    {
+      "date": "2024-01-25",
+      "value": 8000.5
+    },
+    {
+      "date": "2024-02-05",
+      "value": 375000.5
+    },
+    {
+      "date": "2024-02-05",
+      "value": 175000.5
+    },
+    {
+      "date": "2024-02-05",
+      "value": 32500.5
+    },
+    {
+      "date": "2024-04-02",
+      "value": 8000.5
+    },
+    {
+      "date": "2024-04-02",
+      "value": 8000.5
+    },
+    {
+      "date": "2024-04-02",
+      "value": 8000.5
+    },
+    {
+      "date": "2024-04-02",
+      "value": 32500.5
+    },
+    {
+      "date": "2024-04-02",
+      "value": 8000.5
+    },
+    {
+      "date": "2024-04-02",
+      "value": 8000.5
+    },
+    {
+      "date": "2024-07-01",
+      "value": 32500.5
+    }
+  ],
+  "measured": null
+}

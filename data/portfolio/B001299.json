@@ -1,0 +1,121 @@
+{
+  "member": {
+    "bioguideId": "B001299",
+    "lisId": "S429",
+    "name": "Jim Banks",
+    "party": "R",
+    "chamber": "senate",
+    "state": "IN",
+    "active": true
+  },
+  "positions": [],
+  "trades": [
+    {
+      "memberId": "B001299",
+      "assetRaw": "Peloton Interactive, Inc. - Common Stock",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-06-05",
+      "filedDate": "2026-06-07",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/59c6f909-ad10-429d-8a8c-df81b00cf5fd/",
+      "late": false,
+      "note": "full sale",
+      "provenance": "both"
+    },
+    {
+      "memberId": "B001299",
+      "assetRaw": "Starbucks Corporation - Common Stock",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-04-15",
+      "filedDate": "2026-04-20",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/680da3d8-5f81-43a3-a658-0493c0070378/",
+      "late": false,
+      "note": "full sale",
+      "provenance": "both"
+    },
+    {
+      "memberId": "B001299",
+      "assetRaw": "starbuck",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-08-04",
+      "filedDate": "2025-08-10",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/743c6542-9aec-48ae-8fa6-62645757bc8f/",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "B001299",
+      "assetRaw": "RBLX",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-06-16",
+      "filedDate": "2025-06-26",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/9d380e2e-86d9-4378-a156-353054bb5833/",
+      "late": false,
+      "note": "full sale",
+      "provenance": "both"
+    },
+    {
+      "memberId": "B001299",
+      "assetRaw": "Yum! Brands",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-02-18",
+      "filedDate": "2025-03-10",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/f90fce4f-35b7-4e45-b540-a8f2e2372a63/",
+      "late": false,
+      "note": "full sale",
+      "provenance": "both"
+    }
+  ],
+  "series": [
+    {
+      "date": "2025-02-18",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-06-16",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-08-04",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-04-15",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-06-05",
+      "value": 8000.5
+    }
+  ],
+  "measured": null
+}

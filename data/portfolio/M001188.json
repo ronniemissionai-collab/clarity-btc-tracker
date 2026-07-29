@@ -1,0 +1,359 @@
+{
+  "member": {
+    "bioguideId": "M001188",
+    "name": "Grace Meng",
+    "party": "D",
+    "chamber": "house",
+    "state": "NY",
+    "district": "NY-06",
+    "active": true
+  },
+  "positions": [
+    {
+      "memberId": "M001188",
+      "security": {
+        "ticker": "QCGLIX",
+        "kind": "other"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "stale",
+      "asOf": "2015-12-11",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2016/20005180.pdf"
+        }
+      ]
+    },
+    {
+      "memberId": "M001188",
+      "security": {
+        "ticker": "QCGRIX",
+        "kind": "other"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "stale",
+      "asOf": "2015-12-11",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2016/20005180.pdf"
+        }
+      ]
+    },
+    {
+      "memberId": "M001188",
+      "security": {
+        "ticker": "QREARX",
+        "kind": "other"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "stale",
+      "asOf": "2015-12-11",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2016/20005180.pdf"
+        }
+      ]
+    },
+    {
+      "memberId": "M001188",
+      "security": {
+        "ticker": "TCIEX",
+        "kind": "other"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 2002,
+        "hi": 30000
+      },
+      "status": "stale",
+      "asOf": "2015-12-12",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2016/20005180.pdf"
+        }
+      ]
+    },
+    {
+      "memberId": "M001188",
+      "security": {
+        "ticker": "TILVX",
+        "kind": "other"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 2002,
+        "hi": 30000
+      },
+      "status": "stale",
+      "asOf": "2015-12-11",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2016/20005180.pdf"
+        }
+      ]
+    },
+    {
+      "memberId": "M001188",
+      "security": {
+        "ticker": "TIMVX",
+        "kind": "other"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "stale",
+      "asOf": "2015-12-11",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2016/20005180.pdf"
+        }
+      ]
+    }
+  ],
+  "trades": [
+    {
+      "memberId": "M001188",
+      "assetRaw": "TIAA-CREF International Equity Index Fund -Institutional Class (TCIEX)",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2015-12-12",
+      "filedDate": "2016-05-16",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2016/20005180.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001188",
+      "assetRaw": "CREF Global Equities R3 (QCGLIX)",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2015-12-11",
+      "filedDate": "2016-05-16",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2016/20005180.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001188",
+      "assetRaw": "CREF Growth R3 (QCGRIX)",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2015-12-11",
+      "filedDate": "2016-05-16",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2016/20005180.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001188",
+      "assetRaw": "CREF stock R3 (QCsTIX)",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2015-12-11",
+      "filedDate": "2016-05-16",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2016/20005180.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001188",
+      "assetRaw": "TIAA Real Estate (QREARX)",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2015-12-11",
+      "filedDate": "2016-05-16",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2016/20005180.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001188",
+      "assetRaw": "TIAA-CREF International Equity Index Fund - Institutional Class (TCIEX)",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2015-12-11",
+      "filedDate": "2016-05-16",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2016/20005180.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001188",
+      "assetRaw": "TIAA-CREF Large-Cap Value Index Fund - Institutional Class (TILVX)",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2015-12-11",
+      "filedDate": "2016-05-16",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2016/20005180.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001188",
+      "assetRaw": "TIAA-CREF Large-Cap Value Index Fund-Institutional Class (TILVX)",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2015-12-11",
+      "filedDate": "2016-05-16",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2016/20005180.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001188",
+      "assetRaw": "TIAA-CREF Mid-Cap Value Fund - Institutional Class (TIMVX)",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2015-12-11",
+      "filedDate": "2016-05-16",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2016/20005180.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001188",
+      "assetRaw": "TIAA-CREF small-Cap Blend Index Fund - Institutional Class (TIsBX)",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2015-12-11",
+      "filedDate": "2016-05-16",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2016/20005180.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001188",
+      "assetRaw": "TIAA-CREF small-Cap Blend Index Fund - Institutional Class (TIsBX)",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2015-02-20",
+      "filedDate": "2016-05-16",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2016/20005180.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    }
+  ],
+  "series": [
+    {
+      "date": "2015-02-20",
+      "value": 8000.5
+    },
+    {
+      "date": "2015-12-11",
+      "value": 8000.5
+    },
+    {
+      "date": "2015-12-11",
+      "value": 8000.5
+    },
+    {
+      "date": "2015-12-11",
+      "value": 8000.5
+    },
+    {
+      "date": "2015-12-11",
+      "value": 8000.5
+    },
+    {
+      "date": "2015-12-11",
+      "value": 8000.5
+    },
+    {
+      "date": "2015-12-11",
+      "value": 8000.5
+    },
+    {
+      "date": "2015-12-11",
+      "value": 8000.5
+    },
+    {
+      "date": "2015-12-11",
+      "value": 8000.5
+    },
+    {
+      "date": "2015-12-11",
+      "value": 8000.5
+    },
+    {
+      "date": "2015-12-12",
+      "value": 8000.5
+    }
+  ],
+  "measured": null
+}

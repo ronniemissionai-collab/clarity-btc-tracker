@@ -1,0 +1,63 @@
+{
+  "member": {
+    "bioguideId": "M001184",
+    "name": "Thomas Massie",
+    "party": "R",
+    "chamber": "house",
+    "state": "KY",
+    "district": "KY-04",
+    "active": true
+  },
+  "positions": [
+    {
+      "memberId": "M001184",
+      "security": {
+        "ticker": "TSLA",
+        "kind": "treasury"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "status": "sold",
+      "asOf": "2020-07-14",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20016969.pdf"
+        }
+      ],
+      "note": "sale reported by PTR with no annual baseline in our coverage"
+    }
+  ],
+  "trades": [
+    {
+      "memberId": "M001184",
+      "assetRaw": "Tesla, Inc. (TSlA) [ST]",
+      "security": {
+        "ticker": "TSLA",
+        "kind": "treasury"
+      },
+      "side": "sell",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2020-07-14",
+      "filedDate": "2020-07-16",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20016969.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    }
+  ],
+  "series": [
+    {
+      "date": "2020-07-14",
+      "value": 32500.5
+    }
+  ],
+  "measured": null
+}

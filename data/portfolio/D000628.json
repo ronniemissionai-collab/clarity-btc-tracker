@@ -1,0 +1,2073 @@
+{
+  "member": {
+    "bioguideId": "D000628",
+    "name": "Neal P. Dunn",
+    "party": "R",
+    "chamber": "house",
+    "state": "FL",
+    "district": "FL-02",
+    "active": true
+  },
+  "positions": [
+    {
+      "memberId": "D000628",
+      "security": {
+        "ticker": "MSTR",
+        "kind": "treasury"
+      },
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "status": "stale",
+      "asOf": "2024-12-24",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20027895.pdf"
+        }
+      ]
+    }
+  ],
+  "trades": [
+    {
+      "memberId": "D000628",
+      "assetRaw": "AT&T Inc. Depositary Shares, each representing a 1/1,000th interest in a share of 5.000% Perpetual Preferred Stock, Series A (T$A) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2026-05-11",
+      "filedDate": "2026-06-23",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034815.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "D000628",
+      "assetRaw": "JP Morgan Chase & Co Depositary Shares Preferred Series GG [OT]",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2026-05-11",
+      "filedDate": "2026-06-23",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034815.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "D000628",
+      "assetRaw": "Regions Financial Corporation Depositary Shares, Each Representing a 1/40th Interest in a Share of 4.45% Non-Cumulative Perpetual Preferred Stock, Series E (RF$E) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2026-05-11",
+      "filedDate": "2026-06-23",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034815.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "D000628",
+      "assetRaw": "J P Morgan Chase & Co Depositary Shares, each representing a 1/400th interest in a share of JPMorgan Chase & Co. 4.75% Non-Cumulative Preferred Stock, Series GG (JPM$J) [ST]",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-09-04",
+      "filedDate": "2025-10-01",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032191.pdf",
+      "late": false,
+      "note": "Held at Morgan Stanley",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000628",
+      "assetRaw": "Capital One Financial Corporation Depositary shares each representing a 1/40th interest in a share of Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series I of the Issuer (COF$I) [ST]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-06-02",
+      "filedDate": "2025-08-13",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030735.pdf",
+      "late": true,
+      "note": "Held at Merrill Lynch",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000628",
+      "assetRaw": "Capital One Financial Corporation Depositary shares each representing a 1/40th interest in a share of Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series I of the Issuer (COF$I) [ST]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-03-03",
+      "filedDate": "2025-04-03",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20029068.pdf",
+      "late": false,
+      "note": "Held at Merrill Lynch",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000628",
+      "assetRaw": "MicroStrategy Incorporated - Class A Common Stock",
+      "security": {
+        "ticker": "MSTR",
+        "kind": "treasury"
+      },
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2024-12-24",
+      "filedDate": "2025-03-10",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20027895.pdf",
+      "late": true,
+      "note": "Held at Merrill Lynch",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000628",
+      "assetRaw": "Cadence Bank 5.50% Series A",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2024-11-06",
+      "filedDate": "2024-12-16",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/20026250.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000628",
+      "assetRaw": "Capital One Financial Corporation Depositary shares each representing a 1/40th interest in a share of Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series I of the Issuer",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2024-11-06",
+      "filedDate": "2024-12-16",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/20026250.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000628",
+      "assetRaw": "JP Morgan Chase & Co Depositary Shares Preferred Series GG",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2024-11-06",
+      "filedDate": "2024-12-16",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/20026250.pdf",
+      "late": false,
+      "note": "Publicly traded preferred shares",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000628",
+      "assetRaw": "Regions Financial Corporation Depositary Shares, Each Representing a 1/40th Interest in a Share of 4.45% Non-Cumulative Perpetual Preferred Stock, Series E",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2024-11-06",
+      "filedDate": "2024-12-16",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/20026250.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000628",
+      "assetRaw": "U.S. Bancorp Depositary Shares each representing a 1/1,000th interest in a share of Series K Non-Cumulative Perpetual Preferred Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2024-11-06",
+      "filedDate": "2024-12-16",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/20026250.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000628",
+      "assetRaw": "AT&T Inc. Depositary Shares, each representing a 1/1,000th interest in a share of 5.000% Perpetual Preferred Stock, Series A",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2024-09-27",
+      "filedDate": "2024-11-07",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/20026140.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000628",
+      "assetRaw": "Cadence Bank 5.50% Series A",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2024-09-27",
+      "filedDate": "2024-11-07",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/20026140.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000628",
+      "assetRaw": "Capital One Financial Corporation Depositary shares each representing a 1/40th interest in a share of Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series I of the Issuer",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2024-09-27",
+      "filedDate": "2024-11-07",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/20026140.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000628",
+      "assetRaw": "JP Morgan Chase & Co Depositary Shares Preferred Series GG",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2024-09-27",
+      "filedDate": "2024-11-07",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/20026140.pdf",
+      "late": false,
+      "note": "Publicly traded preferred shares",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000628",
+      "assetRaw": "KeyCorp Depositary Shares each representing a 1/40th ownership interest in a share of Fixed Rate Perpetual Non-Cumulative Preferred Stock, Series F",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2024-09-27",
+      "filedDate": "2024-11-07",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/20026140.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000628",
+      "assetRaw": "Regions Financial Corporation Depositary Shares, Each Representing a 1/40th Interest in a Share of 4.45% Non-Cumulative Perpetual Preferred Stock, Series E",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2024-09-27",
+      "filedDate": "2024-11-07",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/20026140.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000628",
+      "assetRaw": "Truist Financial Corporation Depositary Shares, each representing 1/1,000th interest in a share of Series R Non-Cumulative Perpetual Preferred Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2024-09-27",
+      "filedDate": "2024-11-07",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/20026140.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000628",
+      "assetRaw": "US Bancorp Preferred Series K",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2024-09-27",
+      "filedDate": "2024-11-07",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/20026140.pdf",
+      "late": false,
+      "note": "Publicly traded preferred stock",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000628",
+      "assetRaw": "J P Morgan Chase & Co Depositary Shares, each representing a 1/400th interest in a share of JPMorgan Chase & Co. 4.75% Non-Cumulative Preferred Stock, Series GG",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2024-04-24",
+      "filedDate": "2024-05-22",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/20025104.pdf",
+      "late": false,
+      "note": "Filing Status: New\nSubholding Of: IRA #2",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000628",
+      "assetRaw": "Wells Fargo & Company Depositary Shares, each representing a 1/1,000th interest in a share of Non-Cumulative Perpetual Class A Preferred Stock, Series DD",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2024-04-24",
+      "filedDate": "2024-05-22",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/20025104.pdf",
+      "late": false,
+      "note": "Filing Status: New\nSubholding Of: IRA #2",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000628",
+      "assetRaw": "Cadence Bank 5.50% Series A",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2023-05-05",
+      "filedDate": "2023-05-26",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20023022.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000628",
+      "assetRaw": "Capital One Financial Corporation Depositary shares each representing a 1/40th interest in a share of Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series I of the Issuer",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2023-05-05",
+      "filedDate": "2023-05-26",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20023022.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000628",
+      "assetRaw": "J P Morgan Chase & Co Depositary Shares, each representing a 1/400th interest in a share of JPMorgan Chase & Co. 4.75% Non-Cumulative Preferred Stock, Series GG",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2023-05-05",
+      "filedDate": "2023-05-26",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20023022.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000628",
+      "assetRaw": "J P Morgan Chase & Co Depositary Shares, each representing a 1/400th interest in a share of JPMorgan Chase & Co. 4.75% Non-Cumulative Preferred Stock, Series GG",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2023-05-05",
+      "filedDate": "2023-05-26",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20023022.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000628",
+      "assetRaw": "KeyCorp Depositary Shares each representing a 1/40th ownership interest in a share of Fixed Rate Perpetual Non-Cumulative Preferred Stock, Series F",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2023-05-05",
+      "filedDate": "2023-05-26",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20023022.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000628",
+      "assetRaw": "Regions Financial Corporation Depositary Shares, Each Representing a 1/40th Interest in a Share of 4.45% Non-Cumulative Perpetual Preferred Stock, Series E",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2023-05-05",
+      "filedDate": "2023-05-26",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20023022.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000628",
+      "assetRaw": "Truist Financial Corporation Depositary Shares, each representing 1/1,000th interest in a share of Series R Non-Cumulative Perpetual Preferred Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2023-05-05",
+      "filedDate": "2023-05-26",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20023022.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000628",
+      "assetRaw": "U.S. Bancorp Depositary Shares each representing a 1/1,000th interest in a share of Series K Non-Cumulative Perpetual Preferred Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2023-05-05",
+      "filedDate": "2023-05-26",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20023022.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000628",
+      "assetRaw": "Wells Fargo & Company Depositary Shares, each representing a 1/1,000th interest in a share of Non-Cumulative Perpetual Class A Preferred Stock, Series DD",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2023-05-05",
+      "filedDate": "2023-05-26",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20023022.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000628",
+      "assetRaw": "Wells Fargo & Company Depositary Shares, each representing a 1/1,000th interest in a share of Non-Cumulative Perpetual Class A Preferred Stock, Series DD",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2023-05-05",
+      "filedDate": "2023-05-26",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20023022.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000628",
+      "assetRaw": "Wells Fargo & Company Depositary Shares, each representing a 1/1,000th interest in a share of Non-Cumulative Perpetual Class A Preferred Stock, Series Y",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2023-05-05",
+      "filedDate": "2023-05-26",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20023022.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000628",
+      "assetRaw": "KeyCorp Depositary Shares each representing a 1/40th ownership interest in a share of Fixed Rate Perpetual Non-Cumulative Preferred Stock, Series F",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2023-01-05",
+      "filedDate": "2023-02-17",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20022361.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000628",
+      "assetRaw": "Regions Financial Corporation Depositary Shares Representing 1/40th Perpetual Preferred Series A",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2023-01-05",
+      "filedDate": "2023-02-17",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20022361.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000628",
+      "assetRaw": "Southern Company",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2023-01-05",
+      "filedDate": "2023-02-17",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20022361.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000628",
+      "assetRaw": "Southern Company",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2023-01-05",
+      "filedDate": "2023-02-17",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20022361.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000628",
+      "assetRaw": "AT&T Inc. Depositary Shares, each representing a 1/1,000th interest in a share of 5.000% Perpetual Preferred Stock, Series A",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2022-08-15",
+      "filedDate": "2022-09-09",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021600.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000628",
+      "assetRaw": "Cadence Bank 5.50% Series A",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-08-15",
+      "filedDate": "2022-09-09",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021600.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000628",
+      "assetRaw": "Capital One Financial Corporation Depositary shares each representing a 1/40th interest in a share of Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series I of the Issuer",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2022-08-15",
+      "filedDate": "2022-09-09",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021600.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000628",
+      "assetRaw": "J P Morgan Chase & Co Depositary Shares, each representing a 1/400th interest in a share of JPMorgan Chase & Co. 4.75% Non-Cumulative Preferred Stock, Series GG",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2022-08-15",
+      "filedDate": "2022-09-09",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021600.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000628",
+      "assetRaw": "KeyCorp Depositary Shares each representing a 1/40th ownership interest in a share of Fixed Rate Perpetual Non-Cumulative Preferred Stock, Series F",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2022-08-15",
+      "filedDate": "2022-09-09",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021600.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000628",
+      "assetRaw": "Regions Financial Corporation Depositary Shares, Each Representing a 1/40th Interest in a Share of 4.45% Non-Cumulative Perpetual Preferred Stock, Series E",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2022-08-15",
+      "filedDate": "2022-09-09",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021600.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000628",
+      "assetRaw": "Truist Financial Corporation Depositary Shares, each representing 1/1,000th interest in a share of Series R Non-Cumulative Perpetual Preferred Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2022-08-15",
+      "filedDate": "2022-09-09",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021600.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000628",
+      "assetRaw": "U.S. Bancorp Depositary Shares each representing a 1/1,000th interest in a share of Series K Non-Cumulative Perpetual Preferred Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2022-08-15",
+      "filedDate": "2022-09-09",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021600.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000628",
+      "assetRaw": "Wells Fargo & Company Depositary Shares, each representing a 1/1,000th interest in a share of Non-Cumulative Perpetual Class A Preferred Stock, Series Y",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2022-08-15",
+      "filedDate": "2022-09-09",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021600.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000628",
+      "assetRaw": "Cadence Bank 5.50% Series A",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2022-08-10",
+      "filedDate": "2022-09-09",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021600.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000628",
+      "assetRaw": "Capital One Financial Corporation Depositary shares each representing a 1/40th interest in a share of Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series I of the Issuer",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2022-08-10",
+      "filedDate": "2022-09-09",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021600.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000628",
+      "assetRaw": "J P Morgan Chase & Co Depositary Shares, each representing a 1/400th interest in a share of JPMorgan Chase & Co. 4.75% Non-Cumulative Preferred Stock, Series GG",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2022-08-10",
+      "filedDate": "2022-09-09",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021600.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000628",
+      "assetRaw": "KeyCorp Depositary Shares each representing a 1/40th ownership interest in a share of Fixed Rate Perpetual Non-Cumulative Preferred Stock, Series F",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2022-08-10",
+      "filedDate": "2022-09-09",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021600.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000628",
+      "assetRaw": "KeyCorp Depositary Shares each representing a 1/40th ownership interest in a share of Fixed Rate Perpetual Non-Cumulative Preferred Stock, Series F",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-08-10",
+      "filedDate": "2022-09-09",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021600.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000628",
+      "assetRaw": "Regions Financial Corporation Depositary Shares, Each Representing a 1/40th Interest in a Share of 4.45% Non-Cumulative Perpetual Preferred Stock, Series E",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-08-10",
+      "filedDate": "2022-09-09",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021600.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000628",
+      "assetRaw": "Regions Financial Corporation Depositary Shares, Each Representing a 1/40th Interest in a Share of 4.45% Non-Cumulative Perpetual Preferred Stock, Series E",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2022-08-10",
+      "filedDate": "2022-09-09",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021600.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000628",
+      "assetRaw": "Wells Fargo & Company Depositary Shares, each representing a 1/1,000th interest in a share of Non-Cumulative Perpetual Class A Preferred Stock, Series Y",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2022-08-10",
+      "filedDate": "2022-09-09",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021600.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000628",
+      "assetRaw": "The Neal Patrick Dunn Irrevocable Trust uad 1/19/2012 bancorpSouth bank 5.50% Series A Non-Cumulative Perpetual Preferred Stock (bXS$A) [ST]",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2021-03-11",
+      "filedDate": "2021-03-24",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20018369.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000628",
+      "assetRaw": "bancorpSouth bank 5.50% Series A Non-Cumulative Perpetual Preferred Stock (bXS$A) [ST]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-02-22",
+      "filedDate": "2021-03-24",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20018369.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000628",
+      "assetRaw": "BancorpSouth Bank",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 250001,
+        "hi": 500000
+      },
+      "transactionDate": "2020-12-15",
+      "filedDate": "2021-01-15",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20018007.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000628",
+      "assetRaw": "IRA #1 BancorpSouth Bank",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2020-12-15",
+      "filedDate": "2021-01-15",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20018007.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000628",
+      "assetRaw": "IRA #2 Wells Fargo & Company Depositary Shares, each representing a 1/1,000th interest in a share of Non-Cumulative Perpetual Class A Preferred Stock, Series V (WFC$V) [ST]",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2020-12-15",
+      "filedDate": "2021-01-15",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20018007.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000628",
+      "assetRaw": "The Neal Patrick Dunn Irrevocable Trust uad 1/19/2012 BancorpSouth Bank",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2020-12-15",
+      "filedDate": "2021-01-15",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20018007.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000628",
+      "assetRaw": "IRA #1 J P Morgan Chase & Co Depositary Shares, each representing a 1/400th interest in a share of 6.10% Non-Cumulative Preferred Stock, Series AA (JPM$g) [ST]",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2020-12-07",
+      "filedDate": "2020-12-23",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20017740.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000628",
+      "assetRaw": "IRA #2 BancorpSouth Bank 5.50% Series A Non-Cumulative Perpetual Preferred Stock (BXS$A) [ST]",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2020-12-07",
+      "filedDate": "2020-12-23",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20017740.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000628",
+      "assetRaw": "BancorpSouth Bank 5.50% Series A Non-Cumulative Perpetual Preferred Stock (BXS$A) [ST]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2020-11-20",
+      "filedDate": "2020-12-23",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20017740.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000628",
+      "assetRaw": "The Neal Patrick Dunn Irrevocable Trust uad 1/19/2012 BancorpSouth Bank 5.50% Series A Non-Cumulative Perpetual Preferred Stock (BXS$A) [ST]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2020-11-20",
+      "filedDate": "2020-12-23",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20017740.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000628",
+      "assetRaw": "IRA #1 BancorpSouth Bank 5.50% Series A Non-Cumulative Perpetual Preferred Stock (BXS$A) [ST]",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2020-11-17",
+      "filedDate": "2020-12-23",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20017740.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000628",
+      "assetRaw": "bancorpSouth bank (bXS) [ST]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2020-10-01",
+      "filedDate": "2020-11-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20017498.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000628",
+      "assetRaw": "BancorpSouth Bank 5.50% Series A Non-Cumulative Perpetual Preferred Stock (BXS$A) [ST]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2020-08-20",
+      "filedDate": "2020-09-09",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20017240.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000628",
+      "assetRaw": "IRA #1 BancorpSouth Bank 5.50% Series A Non-Cumulative Perpetual Preferred Stock (BXS$A) [ST]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2020-08-20",
+      "filedDate": "2020-09-09",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20017240.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000628",
+      "assetRaw": "IRA #1 Bank of America Corporation Depositary Shares, each representing a 1/1,000th interest in a share of 5.875% Non- Cumulative Preferred Stock, Series HH (BAC$K) [ST]",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2020-08-07",
+      "filedDate": "2020-09-09",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20017240.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000628",
+      "assetRaw": "The Neal Patrick Dunn Irrevocable Trust uad 1/19/2012 Bank of America Corporation Depositary Shares, each representing a 1/1,000th interest in a share of 5.875% Non- Cumulative Preferred Stock, Series HH (BAC$K) [ST]",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2020-08-07",
+      "filedDate": "2020-09-09",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20017240.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000628",
+      "assetRaw": "bancorpSouth bank (bXS) [ST]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2020-07-01",
+      "filedDate": "2020-07-18",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20016943.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000628",
+      "assetRaw": "The Neal Patrick Dunn Irrevocable Trust uad 1/19/2012 Regions Financial Corporation Depositary Shares Representing 1/40th Perpetual Preferred Series A (RF$A) [ST]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2020-06-22",
+      "filedDate": "2020-07-18",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20016943.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000628",
+      "assetRaw": "The Neal Patrick Dunn Irrevocable Trust uad 1/19/2012 J P Morgan Chase & Co Depositary Shares, each representing a 1/400th interest in a share of 6.10% Non-Cumulative Preferred Stock, Series AA (JPM$g) [ST]",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2020-05-26",
+      "filedDate": "2020-06-23",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20016690.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000628",
+      "assetRaw": "The Neal Patrick Dunn Irrevocable Trust uad 1/19/2012 Wells Fargo & Company Depositary Shares, each representing a 1/1,000th interest in a share of Non-Cumulative Perpetual Class A Preferred Stock, Series V (WFC$V) [ST]",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2020-05-26",
+      "filedDate": "2020-06-23",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20016690.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000628",
+      "assetRaw": "bank of America Corporation Depositary Shares, each representing a 1/1,000th interest in a share of 5.875% Non- Cumulative Preferred Stock, Series HH (bAC$K) [ST]",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2020-05-26",
+      "filedDate": "2020-06-23",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20016690.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000628",
+      "assetRaw": "bancorpSouth bank (bXS) [ST]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2020-04-01",
+      "filedDate": "2020-05-01",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20016504.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000628",
+      "assetRaw": "Bancorpsouth Bank (BXs) [sT]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2020-02-20",
+      "filedDate": "2020-03-19",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20016121.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000628",
+      "assetRaw": "Raymond James IRA #1 bancorpSouth bank (bXS) [ST]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2019-12-30",
+      "filedDate": "2020-01-30",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20014974.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000628",
+      "assetRaw": "The Neal Patrick Dunn Irrevocable Trust uad 1/19/2012 bancorpSouth bank (bXS) [ST]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2019-12-30",
+      "filedDate": "2020-01-30",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20014974.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000628",
+      "assetRaw": "bancorpSouth bank (bXS) [ST]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2019-12-30",
+      "filedDate": "2020-01-30",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20014974.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000628",
+      "assetRaw": "Leah O Dunn IRA bancorpSouth bank (bXS) [ST]",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 250001,
+        "hi": 500000
+      },
+      "transactionDate": "2019-12-12",
+      "filedDate": "2020-01-20",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20014934.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000628",
+      "assetRaw": "Raymond James IRA #1 bancorpSouth bank (bXS) [ST]",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2019-12-12",
+      "filedDate": "2020-01-20",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20014934.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000628",
+      "assetRaw": "The Neal Patrick Dunn Irrevocable Trust uad 1/19/2012 bancorpSouth bank (bXS) [ST]",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2019-12-12",
+      "filedDate": "2020-01-20",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20014934.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000628",
+      "assetRaw": "bancorpSouth bank (bXS) [ST]",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2019-12-12",
+      "filedDate": "2020-01-20",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20014934.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000628",
+      "assetRaw": "The Neal Patrick Dunn Irrevocable Trust uad 1/19/2012 bancorpSouth bank 5.50% Series A Non-Cumulative Perpetual Preferred Stock (bXS$A) [ST]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2019-11-19",
+      "filedDate": "2019-12-11",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20012727.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000628",
+      "assetRaw": "The Neal Patrick Dunn Irrevocable Trust uad 1/19/2012 bancorpSouth bank 5.50% Series A Non-Cumulative Perpetual Preferred Stock (bXS$A) [ST]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2019-11-18",
+      "filedDate": "2019-12-11",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20012727.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000628",
+      "assetRaw": "Raymond James IRA #1 bancorpSouth bank 5.50% Series A Non-Cumulative Perpetual Preferred Stock (bXS$A) [ST]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2019-11-15",
+      "filedDate": "2019-12-11",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20012727.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000628",
+      "assetRaw": "Raymond James IRA #2 SPbancorpSouth bank 5.50% Series A Non-Cumulative Perpetual Preferred Stock (bXS$A) [ST]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2019-11-15",
+      "filedDate": "2019-12-11",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20012727.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000628",
+      "assetRaw": "Raymond James IRA #3 bancorpSouth bank 5.50% Series A Non-Cumulative Perpetual Preferred Stock (bXS$A) [ST]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2019-11-15",
+      "filedDate": "2019-12-11",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20012727.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000628",
+      "assetRaw": "The Neal Patrick Dunn Irrevocable Trust uad 1/19/2012 bancorpSouth bank 5.50% Series A Non-Cumulative Perpetual Preferred Stock (bXS$A) [ST]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2019-11-15",
+      "filedDate": "2019-12-11",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20012727.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000628",
+      "assetRaw": "Raymond James IRA #1 bancorpSouth bank (bXS) [ST]",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2019-11-12",
+      "filedDate": "2019-12-11",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20012727.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000628",
+      "assetRaw": "Raymond James IRA #2 bancorpSouth bank (bXS) [ST]",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 500001,
+        "hi": 1000000
+      },
+      "transactionDate": "2019-11-12",
+      "filedDate": "2019-12-11",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20012727.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000628",
+      "assetRaw": "Raymond James IRA #3 bancorpSouth bank (bXS) [ST]",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2019-11-12",
+      "filedDate": "2019-12-11",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20012727.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000628",
+      "assetRaw": "Raymond James IRA #1 bancorpSouth bank (bXS) [ST]",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2019-11-11",
+      "filedDate": "2019-12-11",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20012727.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000628",
+      "assetRaw": "bancorpSouth bank (bXS) [ST]",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2019-11-11",
+      "filedDate": "2019-12-11",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20012727.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000628",
+      "assetRaw": "bancorpSouth bank (bXS) [ST]",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2019-11-11",
+      "filedDate": "2019-12-11",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20012727.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000628",
+      "assetRaw": "Bank of America Corporation Depositary Shares, each representing a 1/1,000th interest in a share of 5.875% Non- Cumulative Preferred Stock, Series HH (BAC$K) [ST]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2019-01-14",
+      "filedDate": "2019-02-07",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20011082.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000628",
+      "assetRaw": "Raymond James IRA #1 Bank of America Corporation Depositary Shares, each representing a 1/1,000th interest in a share of 5.875% Non- Cumulative Preferred Stock, Series HH (BAC$K) [ST]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2019-01-14",
+      "filedDate": "2019-02-07",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20011082.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000628",
+      "assetRaw": "Raymond James IRA #1 J P Morgan Chase & Co Depositary Shares, each representing a 1/400th interest in a share of 6.10% Non-Cumulative Preferred Stock, Series AA (JPM$G) [ST]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2019-01-14",
+      "filedDate": "2019-02-07",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20011082.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000628",
+      "assetRaw": "Raymond James IRA #1 Wells Fargo & Company Depositary Shares, each representing a 1/1,000th interest in a share of Non-Cumulative Perpetual Class A Preferred Stock, Series V (WFC$V) [ST]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2019-01-14",
+      "filedDate": "2019-02-07",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20011082.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000628",
+      "assetRaw": "Raymond James IRA #4 BB&T Corporation Depositary Shares Representing 1/1000th Perpetual Preferred Series D (BBT$D) [ST]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2019-01-14",
+      "filedDate": "2019-02-07",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20011082.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000628",
+      "assetRaw": "The Neal Patrick Dunn Irrevocable Trust uad 1/19/2012 BB&T Corporation Depositary Shares Representing 1/1000th Perpetual Preferred Series D (BBT$D) [ST]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2019-01-14",
+      "filedDate": "2019-02-07",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20011082.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000628",
+      "assetRaw": "The Neal Patrick Dunn Irrevocable Trust uad 1/19/2012 Bank of America Corporation Depositary Shares, each representing a 1/1,000th interest in a share of 5.875% Non- Cumulative Preferred Stock, Series HH (BAC$K) [ST]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2019-01-14",
+      "filedDate": "2019-02-07",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20011082.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000628",
+      "assetRaw": "The Neal Patrick Dunn Irrevocable Trust uad 1/19/2012 J P Morgan Chase & Co Depositary Shares, each representing a 1/400th interest in a share of 6.10% Non-Cumulative Preferred Stock, Series AA (JPM$G) [ST]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2019-01-14",
+      "filedDate": "2019-02-07",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20011082.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000628",
+      "assetRaw": "summit Bank, Na [Ps]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2017-07-12",
+      "filedDate": "2018-09-11",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20010232.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000628",
+      "assetRaw": "southern Company (sO)",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-06-29",
+      "filedDate": "2017-07-10",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2017/20007599.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    }
+  ],
+  "series": [
+    {
+      "date": "2017-06-29",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-07-12",
+      "value": 75000.5
+    },
+    {
+      "date": "2019-01-14",
+      "value": 8000.5
+    },
+    {
+      "date": "2019-01-14",
+      "value": 8000.5
+    },
+    {
+      "date": "2019-01-14",
+      "value": 8000.5
+    },
+    {
+      "date": "2019-01-14",
+      "value": 8000.5
+    },
+    {
+      "date": "2019-01-14",
+      "value": 8000.5
+    },
+    {
+      "date": "2019-01-14",
+      "value": 8000.5
+    },
+    {
+      "date": "2019-01-14",
+      "value": 8000.5
+    },
+    {
+      "date": "2019-01-14",
+      "value": 8000.5
+    },
+    {
+      "date": "2019-11-11",
+      "value": 175000.5
+    },
+    {
+      "date": "2019-11-11",
+      "value": 75000.5
+    },
+    {
+      "date": "2019-11-11",
+      "value": 175000.5
+    },
+    {
+      "date": "2019-11-12",
+      "value": 75000.5
+    },
+    {
+      "date": "2019-11-12",
+      "value": 750000.5
+    },
+    {
+      "date": "2019-11-12",
+      "value": 175000.5
+    },
+    {
+      "date": "2019-11-15",
+      "value": 32500.5
+    },
+    {
+      "date": "2019-11-15",
+      "value": 32500.5
+    },
+    {
+      "date": "2019-11-15",
+      "value": 75000.5
+    },
+    {
+      "date": "2019-11-15",
+      "value": 32500.5
+    },
+    {
+      "date": "2019-11-18",
+      "value": 32500.5
+    },
+    {
+      "date": "2019-11-19",
+      "value": 75000.5
+    },
+    {
+      "date": "2019-12-12",
+      "value": 375000.5
+    },
+    {
+      "date": "2019-12-12",
+      "value": 75000.5
+    },
+    {
+      "date": "2019-12-12",
+      "value": 75000.5
+    },
+    {
+      "date": "2019-12-12",
+      "value": 75000.5
+    },
+    {
+      "date": "2019-12-30",
+      "value": 8000.5
+    },
+    {
+      "date": "2019-12-30",
+      "value": 8000.5
+    },
+    {
+      "date": "2019-12-30",
+      "value": 8000.5
+    },
+    {
+      "date": "2020-02-20",
+      "value": 8000.5
+    },
+    {
+      "date": "2020-04-01",
+      "value": 8000.5
+    },
+    {
+      "date": "2020-05-26",
+      "value": 8000.5
+    },
+    {
+      "date": "2020-05-26",
+      "value": 8000.5
+    },
+    {
+      "date": "2020-05-26",
+      "value": 8000.5
+    },
+    {
+      "date": "2020-06-22",
+      "value": 75000.5
+    },
+    {
+      "date": "2020-07-01",
+      "value": 8000.5
+    },
+    {
+      "date": "2020-08-07",
+      "value": 8000.5
+    },
+    {
+      "date": "2020-08-07",
+      "value": 32500.5
+    },
+    {
+      "date": "2020-08-20",
+      "value": 8000.5
+    },
+    {
+      "date": "2020-08-20",
+      "value": 8000.5
+    },
+    {
+      "date": "2020-10-01",
+      "value": 8000.5
+    },
+    {
+      "date": "2020-11-17",
+      "value": 75000.5
+    },
+    {
+      "date": "2020-11-20",
+      "value": 8000.5
+    },
+    {
+      "date": "2020-11-20",
+      "value": 8000.5
+    },
+    {
+      "date": "2020-12-07",
+      "value": 8000.5
+    },
+    {
+      "date": "2020-12-07",
+      "value": 175000.5
+    },
+    {
+      "date": "2020-12-15",
+      "value": 375000.5
+    },
+    {
+      "date": "2020-12-15",
+      "value": 75000.5
+    },
+    {
+      "date": "2020-12-15",
+      "value": 32500.5
+    },
+    {
+      "date": "2020-12-15",
+      "value": 75000.5
+    },
+    {
+      "date": "2021-02-22",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-03-11",
+      "value": 175000.5
+    },
+    {
+      "date": "2022-08-10",
+      "value": 32500.5
+    },
+    {
+      "date": "2022-08-10",
+      "value": 32500.5
+    },
+    {
+      "date": "2022-08-10",
+      "value": 32500.5
+    },
+    {
+      "date": "2022-08-10",
+      "value": 32500.5
+    },
+    {
+      "date": "2022-08-10",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-08-10",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-08-10",
+      "value": 32500.5
+    },
+    {
+      "date": "2022-08-10",
+      "value": 32500.5
+    },
+    {
+      "date": "2022-08-15",
+      "value": 32500.5
+    },
+    {
+      "date": "2022-08-15",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-08-15",
+      "value": 32500.5
+    },
+    {
+      "date": "2022-08-15",
+      "value": 32500.5
+    },
+    {
+      "date": "2022-08-15",
+      "value": 32500.5
+    },
+    {
+      "date": "2022-08-15",
+      "value": 32500.5
+    },
+    {
+      "date": "2022-08-15",
+      "value": 32500.5
+    },
+    {
+      "date": "2022-08-15",
+      "value": 32500.5
+    },
+    {
+      "date": "2022-08-15",
+      "value": 32500.5
+    },
+    {
+      "date": "2023-01-05",
+      "value": 8000.5
+    },
+    {
+      "date": "2023-01-05",
+      "value": 8000.5
+    },
+    {
+      "date": "2023-01-05",
+      "value": 32500.5
+    },
+    {
+      "date": "2023-01-05",
+      "value": 32500.5
+    },
+    {
+      "date": "2023-05-05",
+      "value": 8000.5
+    },
+    {
+      "date": "2023-05-05",
+      "value": 8000.5
+    },
+    {
+      "date": "2023-05-05",
+      "value": 8000.5
+    },
+    {
+      "date": "2023-05-05",
+      "value": 8000.5
+    },
+    {
+      "date": "2023-05-05",
+      "value": 8000.5
+    },
+    {
+      "date": "2023-05-05",
+      "value": 8000.5
+    },
+    {
+      "date": "2023-05-05",
+      "value": 8000.5
+    },
+    {
+      "date": "2023-05-05",
+      "value": 8000.5
+    },
+    {
+      "date": "2023-05-05",
+      "value": 8000.5
+    },
+    {
+      "date": "2023-05-05",
+      "value": 8000.5
+    },
+    {
+      "date": "2023-05-05",
+      "value": 8000.5
+    },
+    {
+      "date": "2024-04-24",
+      "value": 8000.5
+    },
+    {
+      "date": "2024-04-24",
+      "value": 8000.5
+    },
+    {
+      "date": "2024-09-27",
+      "value": 8000.5
+    },
+    {
+      "date": "2024-09-27",
+      "value": 8000.5
+    },
+    {
+      "date": "2024-09-27",
+      "value": 8000.5
+    },
+    {
+      "date": "2024-09-27",
+      "value": 8000.5
+    },
+    {
+      "date": "2024-09-27",
+      "value": 8000.5
+    },
+    {
+      "date": "2024-09-27",
+      "value": 8000.5
+    },
+    {
+      "date": "2024-09-27",
+      "value": 8000.5
+    },
+    {
+      "date": "2024-09-27",
+      "value": 8000.5
+    },
+    {
+      "date": "2024-11-06",
+      "value": 8000.5
+    },
+    {
+      "date": "2024-11-06",
+      "value": 8000.5
+    },
+    {
+      "date": "2024-11-06",
+      "value": 8000.5
+    },
+    {
+      "date": "2024-11-06",
+      "value": 8000.5
+    },
+    {
+      "date": "2024-11-06",
+      "value": 8000.5
+    },
+    {
+      "date": "2024-12-24",
+      "value": 32500.5
+    },
+    {
+      "date": "2025-03-03",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-06-02",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-09-04",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-05-11",
+      "value": 32500.5
+    },
+    {
+      "date": "2026-05-11",
+      "value": 75000.5
+    },
+    {
+      "date": "2026-05-11",
+      "value": 75000.5
+    }
+  ],
+  "measured": null
+}

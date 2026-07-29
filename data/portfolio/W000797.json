@@ -1,0 +1,1563 @@
+{
+  "member": {
+    "bioguideId": "W000797",
+    "name": "Debbie Wasserman Schultz",
+    "party": "D",
+    "chamber": "house",
+    "state": "FL",
+    "district": "FL-25",
+    "active": true
+  },
+  "positions": [
+    {
+      "memberId": "W000797",
+      "security": {
+        "ticker": "ASPN",
+        "kind": "other"
+      },
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "sold",
+      "asOf": "2017-11-22",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2017/20008457.pdf"
+        }
+      ],
+      "note": "sale reported by PTR with no annual baseline in our coverage"
+    },
+    {
+      "memberId": "W000797",
+      "security": {
+        "ticker": "FTR",
+        "kind": "other"
+      },
+      "owner": "dependent",
+      "range": {
+        "lo": 2002,
+        "hi": 30000
+      },
+      "status": "stale",
+      "asOf": "2016-12-12",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2016/20006428.pdf"
+        }
+      ]
+    },
+    {
+      "memberId": "W000797",
+      "security": {
+        "ticker": "KERX",
+        "kind": "other"
+      },
+      "owner": "dependent",
+      "range": {
+        "lo": 4004,
+        "hi": 60000
+      },
+      "status": "stale",
+      "asOf": "2017-02-10",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2016/20005420.pdf"
+        },
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2016/20006428.pdf"
+        },
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2017/20007716.pdf"
+        },
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2017/20006753.pdf"
+        }
+      ]
+    },
+    {
+      "memberId": "W000797",
+      "security": {
+        "ticker": "MPW",
+        "kind": "other"
+      },
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "stale",
+      "asOf": "2016-12-12",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2016/20006428.pdf"
+        }
+      ]
+    }
+  ],
+  "trades": [
+    {
+      "memberId": "W000797",
+      "assetRaw": "Ichor Holdings - Ordinary Shares",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-06-17",
+      "filedDate": "2026-07-14",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034999.pdf",
+      "late": false,
+      "note": "Sale from Individual Retirement Account",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000797",
+      "assetRaw": "Stratasys, Ltd. - Common Stock",
+      "security": null,
+      "side": "buy",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-08-15",
+      "filedDate": "2025-08-18",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030929.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000797",
+      "assetRaw": "Ichor Holdings - Ordinary Shares",
+      "security": null,
+      "side": "buy",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-08-05",
+      "filedDate": "2025-08-06",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030839.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000797",
+      "assetRaw": "ViaSat, Inc. - Common Stock",
+      "security": null,
+      "side": "sell",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-07-18",
+      "filedDate": "2025-07-25",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030600.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000797",
+      "assetRaw": "AngioDynamics, Inc. - Common Stock",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-07-16",
+      "filedDate": "2025-07-25",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030600.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000797",
+      "assetRaw": "AngioDynamics, Inc. - Common Stock",
+      "security": null,
+      "side": "buy",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-06-27",
+      "filedDate": "2025-07-25",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030600.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000797",
+      "assetRaw": "Hurco Companies, Inc. - Common Stock",
+      "security": null,
+      "side": "sell",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-02-06",
+      "filedDate": "2025-03-06",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20027912.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000797",
+      "assetRaw": "Baxter International Inc. Common Stock",
+      "security": null,
+      "side": "buy",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2024-11-18",
+      "filedDate": "2024-11-20",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/20026247.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000797",
+      "assetRaw": "New Gold Inc.",
+      "security": null,
+      "side": "sell",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2024-11-18",
+      "filedDate": "2024-11-20",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/20026247.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000797",
+      "assetRaw": "Patterson-UTI Energy, Inc. - Common Stock",
+      "security": null,
+      "side": "buy",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2024-10-23",
+      "filedDate": "2024-11-20",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/20026247.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000797",
+      "assetRaw": "ViaSat, Inc. - Common Stock",
+      "security": null,
+      "side": "buy",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2024-10-23",
+      "filedDate": "2024-11-20",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/20026247.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000797",
+      "assetRaw": "Hecla Mining Company Common Stock",
+      "security": null,
+      "side": "buy",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2024-08-09",
+      "filedDate": "2024-09-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/20025793.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000797",
+      "assetRaw": "Perion Network Ltd - Ordinary Shares",
+      "security": null,
+      "side": "buy",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2024-05-16",
+      "filedDate": "2024-06-10",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/20025179.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000797",
+      "assetRaw": "New Gold Inc.",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2024-02-28",
+      "filedDate": "2025-07-01",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030577.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000797",
+      "assetRaw": "MAG Silver Corporation Ordinary Shares",
+      "security": null,
+      "side": "buy",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2024-01-08",
+      "filedDate": "2024-01-31",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/20024403.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000797",
+      "assetRaw": "MAG Silver Corporation Ordinary Shares",
+      "security": null,
+      "side": "sell",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2024-01-05",
+      "filedDate": "2024-01-31",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/20024403.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000797",
+      "assetRaw": "First Trust MLP and Energy Income Fund Common Shares of Beneficial Interest",
+      "security": null,
+      "side": "sell",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2023-12-18",
+      "filedDate": "2024-07-01",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/20025360.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000797",
+      "assetRaw": "Alamos Gold Inc. Class A Common Shares",
+      "security": null,
+      "side": "sell",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2023-01-24",
+      "filedDate": "2023-02-20",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20022454.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000797",
+      "assetRaw": "Adams Resources & Energy, Inc.",
+      "security": null,
+      "side": "sell",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-10-27",
+      "filedDate": "2023-07-11",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20023283.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000797",
+      "assetRaw": "Adams Resources & Energy, Inc.",
+      "security": null,
+      "side": "sell",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-10-27",
+      "filedDate": "2022-11-10",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021902.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000797",
+      "assetRaw": "Lions Gate Entertainment Corporation Class B Non-Voting Shares",
+      "security": null,
+      "side": "buy",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-09-14",
+      "filedDate": "2022-09-30",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021741.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000797",
+      "assetRaw": "SPDR Select Sector Fund - Energy Select Sector",
+      "security": null,
+      "side": "sell",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-08-19",
+      "filedDate": "2022-08-24",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021585.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000797",
+      "assetRaw": "SPDR Select Sector Fund - Energy Select Sector",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-08-19",
+      "filedDate": "2022-08-24",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021585.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000797",
+      "assetRaw": "Hill International, Inc.",
+      "security": null,
+      "side": "sell",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-08-17",
+      "filedDate": "2022-08-24",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021585.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000797",
+      "assetRaw": "Hill International, Inc.",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-08-17",
+      "filedDate": "2022-08-24",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021585.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000797",
+      "assetRaw": "Alamos Gold Inc. Class A Common Shares",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-06-06",
+      "filedDate": "2022-07-01",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021311.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000797",
+      "assetRaw": "Patterson-UTI Energy, Inc.",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-05-20",
+      "filedDate": "2022-06-01",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021129.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000797",
+      "assetRaw": "Patterson-uTI Energy, Inc.",
+      "security": null,
+      "side": "buy",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-01-20",
+      "filedDate": "2022-01-25",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020290.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000797",
+      "assetRaw": "Quantum Corporation",
+      "security": null,
+      "side": "buy",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-12-23",
+      "filedDate": "2021-12-29",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20020102.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000797",
+      "assetRaw": "EMCORE Corporation",
+      "security": null,
+      "side": "buy",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-04-19",
+      "filedDate": "2022-07-19",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021405.pdf",
+      "late": true,
+      "note": "This was a simple stock transaction. 2000078652DCEMCORE Corporation (EMKR) [ST]",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000797",
+      "assetRaw": "EMCORE Corporation",
+      "security": null,
+      "side": "buy",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-04-19",
+      "filedDate": "2021-04-28",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20018637.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000797",
+      "assetRaw": "- Class A (WSTl) [ST]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2020-10-13",
+      "filedDate": "2021-07-27",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019167.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000797",
+      "assetRaw": "Westell Technologies, Inc. - Class A (WSTl) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2020-10-13",
+      "filedDate": "2021-07-27",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019167.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000797",
+      "assetRaw": "Home BancShares, Inc. - common stock",
+      "security": null,
+      "side": "sell",
+      "owner": "dependent",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2018-09-25",
+      "filedDate": "2019-07-01",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20011896.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000797",
+      "assetRaw": "astroNova, Inc. (aloT)",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2018-01-24",
+      "filedDate": "2018-01-26",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20008805.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000797",
+      "assetRaw": "Richardson Electronics, ltd. (REll)",
+      "security": null,
+      "side": "sell",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-11-22",
+      "filedDate": "2017-11-29",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2017/20008457.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000797",
+      "assetRaw": "Westell Technologies, Inc. - Class A (WSTl)",
+      "security": null,
+      "side": "sell",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-11-22",
+      "filedDate": "2017-11-29",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2017/20008457.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000797",
+      "assetRaw": "en Aerogels, Inc. (ASPN)",
+      "security": null,
+      "side": "sell",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-11-22",
+      "filedDate": "2017-11-29",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2017/20008457.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000797",
+      "assetRaw": "Stonegate Bank (SgBK)",
+      "security": null,
+      "side": "sell",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-03-30",
+      "filedDate": "2017-06-07",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2017/20006999.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000797",
+      "assetRaw": "Stonegate Bank (SgBK)",
+      "security": null,
+      "side": "sell",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-03-30",
+      "filedDate": "2017-03-31",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2017/20006986.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000797",
+      "assetRaw": "Comtech Telecommunications Corp. (CMTl)",
+      "security": null,
+      "side": "sell",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-03-29",
+      "filedDate": "2017-06-07",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2017/20006999.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000797",
+      "assetRaw": "Comtech Telecommunications Corp. (CMTl)",
+      "security": null,
+      "side": "sell",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-03-29",
+      "filedDate": "2017-03-31",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2017/20006986.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000797",
+      "assetRaw": "Comtech Telecommunications Corp. (CMTl)",
+      "security": null,
+      "side": "buy",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-02-10",
+      "filedDate": "2017-03-20",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2017/20006950.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000797",
+      "assetRaw": "Richardson Electronics, ltd. (REll)",
+      "security": null,
+      "side": "buy",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-02-10",
+      "filedDate": "2017-03-20",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2017/20006950.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000797",
+      "assetRaw": "Comtech Telecommunications Corp. (CMTl)",
+      "security": null,
+      "side": "buy",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-02-10",
+      "filedDate": "2017-02-15",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2017/20006753.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000797",
+      "assetRaw": "Keryx Biopharmaceuticals, Inc. (KERX)",
+      "security": null,
+      "side": "buy",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-02-10",
+      "filedDate": "2017-02-15",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2017/20006753.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000797",
+      "assetRaw": "New gold Inc. (NgD)",
+      "security": null,
+      "side": "buy",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-01-17",
+      "filedDate": "2017-01-23",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2017/20006593.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000797",
+      "assetRaw": "apple Inc. (aaPl)",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2016-12-23",
+      "filedDate": "2017-08-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2017/20007716.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000797",
+      "assetRaw": "apple Inc. (aaPl)",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2016-12-23",
+      "filedDate": "2016-12-25",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2016/20006428.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000797",
+      "assetRaw": "Keryx Biopharmaceuticals, Inc. (KERX)",
+      "security": null,
+      "side": "buy",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2016-12-12",
+      "filedDate": "2017-08-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2017/20007716.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000797",
+      "assetRaw": "Frontier Communications Corporation (FTR)",
+      "security": null,
+      "side": "buy",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2016-12-12",
+      "filedDate": "2016-12-25",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2016/20006428.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000797",
+      "assetRaw": "Keryx Biopharmaceuticals, Inc. (KERX)",
+      "security": null,
+      "side": "buy",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2016-12-12",
+      "filedDate": "2016-12-25",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2016/20006428.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000797",
+      "assetRaw": "Medical Properties Trust, Inc. common stock (MPW)",
+      "security": null,
+      "side": "buy",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2016-12-12",
+      "filedDate": "2016-12-25",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2016/20006428.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000797",
+      "assetRaw": "Stonegate Bank (SgBK)",
+      "security": null,
+      "side": "sell",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2016-11-17",
+      "filedDate": "2017-08-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2017/20007716.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000797",
+      "assetRaw": "Frontier Communications Corporation (FTR)",
+      "security": null,
+      "side": "buy",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2016-11-17",
+      "filedDate": "2016-12-25",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2016/20006428.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000797",
+      "assetRaw": "New gold Inc. (NgD)",
+      "security": null,
+      "side": "buy",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2016-11-17",
+      "filedDate": "2016-12-25",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2016/20006428.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000797",
+      "assetRaw": "Stonegate Bank (SgBK)",
+      "security": null,
+      "side": "sell",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2016-11-17",
+      "filedDate": "2016-12-25",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2016/20006428.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000797",
+      "assetRaw": "Comtech Telecommunications Corp. (CMTl)",
+      "security": null,
+      "side": "buy",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2016-09-27",
+      "filedDate": "2016-10-18",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2016/20006076.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000797",
+      "assetRaw": "en aerogels, Inc. (aSPN)",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2016-09-19",
+      "filedDate": "2016-10-18",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2016/20006076.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000797",
+      "assetRaw": "Keryx Biopharmaceuticals, Inc. (KERX)",
+      "security": null,
+      "side": "buy",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2016-04-27",
+      "filedDate": "2016-07-06",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2016/20005420.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000797",
+      "assetRaw": "Richardson Electronics, ltd. (REll)",
+      "security": null,
+      "side": "buy",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2016-04-27",
+      "filedDate": "2016-07-06",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2016/20005420.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000797",
+      "assetRaw": "angioDynamics, Inc. (aNgO)",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2016-04-27",
+      "filedDate": "2016-07-06",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2016/20005420.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000797",
+      "assetRaw": "astroNova, Inc. (alOT)",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2016-04-27",
+      "filedDate": "2016-07-06",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2016/20005420.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000797",
+      "assetRaw": "en aerogels, Inc. (aSPN)",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2016-04-27",
+      "filedDate": "2016-07-06",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2016/20005420.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000797",
+      "assetRaw": "Stonegate Bank (SgBK)",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2016-03-29",
+      "filedDate": "2016-04-18",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2016/20004858.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000797",
+      "assetRaw": "Stonegate Bank (SgBK)",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2015-06-23",
+      "filedDate": "2015-07-15",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2015/20003402.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000797",
+      "assetRaw": "- Class a (googl)",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2015-05-19",
+      "filedDate": "2015-06-12",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2015/20000883.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000797",
+      "assetRaw": "Stonegate Bank (SgBK)",
+      "security": null,
+      "side": "buy",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2015-05-19",
+      "filedDate": "2015-06-12",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2015/20000883.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000797",
+      "assetRaw": "google Inc. - Class a (googl)",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2015-05-19",
+      "filedDate": "2015-06-12",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2015/20000883.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000797",
+      "assetRaw": "Stonegate Bank (SgBK)",
+      "security": null,
+      "side": "buy",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2015-04-27",
+      "filedDate": "2015-06-12",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2015/20000883.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000797",
+      "assetRaw": "Stonegate Bank (SgBK)",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2015-03-24",
+      "filedDate": "2015-06-12",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2015/20000883.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000797",
+      "assetRaw": "Stonegate Bank (SgBK)",
+      "security": null,
+      "side": "buy",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2015-02-17",
+      "filedDate": "2015-06-12",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2015/20000883.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000797",
+      "assetRaw": "apple Inc. (aaPl)",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2014-10-29",
+      "filedDate": "2015-06-12",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2015/20000883.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    }
+  ],
+  "series": [
+    {
+      "date": "2014-10-29",
+      "value": 8000.5
+    },
+    {
+      "date": "2015-02-17",
+      "value": 8000.5
+    },
+    {
+      "date": "2015-03-24",
+      "value": 175000.5
+    },
+    {
+      "date": "2015-04-27",
+      "value": 8000.5
+    },
+    {
+      "date": "2015-05-19",
+      "value": 8000.5
+    },
+    {
+      "date": "2015-05-19",
+      "value": 8000.5
+    },
+    {
+      "date": "2015-05-19",
+      "value": 8000.5
+    },
+    {
+      "date": "2015-06-23",
+      "value": 175000.5
+    },
+    {
+      "date": "2016-03-29",
+      "value": 8000.5
+    },
+    {
+      "date": "2016-04-27",
+      "value": 8000.5
+    },
+    {
+      "date": "2016-04-27",
+      "value": 8000.5
+    },
+    {
+      "date": "2016-04-27",
+      "value": 8000.5
+    },
+    {
+      "date": "2016-04-27",
+      "value": 8000.5
+    },
+    {
+      "date": "2016-04-27",
+      "value": 8000.5
+    },
+    {
+      "date": "2016-09-19",
+      "value": 8000.5
+    },
+    {
+      "date": "2016-09-27",
+      "value": 8000.5
+    },
+    {
+      "date": "2016-11-17",
+      "value": 8000.5
+    },
+    {
+      "date": "2016-11-17",
+      "value": 8000.5
+    },
+    {
+      "date": "2016-11-17",
+      "value": 8000.5
+    },
+    {
+      "date": "2016-11-17",
+      "value": 8000.5
+    },
+    {
+      "date": "2016-12-12",
+      "value": 8000.5
+    },
+    {
+      "date": "2016-12-12",
+      "value": 8000.5
+    },
+    {
+      "date": "2016-12-12",
+      "value": 8000.5
+    },
+    {
+      "date": "2016-12-12",
+      "value": 8000.5
+    },
+    {
+      "date": "2016-12-23",
+      "value": 8000.5
+    },
+    {
+      "date": "2016-12-23",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-01-17",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-02-10",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-02-10",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-02-10",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-02-10",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-03-29",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-03-29",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-03-30",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-03-30",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-11-22",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-11-22",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-11-22",
+      "value": 8000.5
+    },
+    {
+      "date": "2018-01-24",
+      "value": 8000.5
+    },
+    {
+      "date": "2018-09-25",
+      "value": 32500.5
+    },
+    {
+      "date": "2020-10-13",
+      "value": 8000.5
+    },
+    {
+      "date": "2020-10-13",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-04-19",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-04-19",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-12-23",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-01-20",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-05-20",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-06-06",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-08-17",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-08-17",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-08-19",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-08-19",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-09-14",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-10-27",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-10-27",
+      "value": 8000.5
+    },
+    {
+      "date": "2023-01-24",
+      "value": 8000.5
+    },
+    {
+      "date": "2023-12-18",
+      "value": 8000.5
+    },
+    {
+      "date": "2024-01-05",
+      "value": 8000.5
+    },
+    {
+      "date": "2024-01-08",
+      "value": 8000.5
+    },
+    {
+      "date": "2024-02-28",
+      "value": 8000.5
+    },
+    {
+      "date": "2024-05-16",
+      "value": 8000.5
+    },
+    {
+      "date": "2024-08-09",
+      "value": 8000.5
+    },
+    {
+      "date": "2024-10-23",
+      "value": 8000.5
+    },
+    {
+      "date": "2024-10-23",
+      "value": 8000.5
+    },
+    {
+      "date": "2024-11-18",
+      "value": 8000.5
+    },
+    {
+      "date": "2024-11-18",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-02-06",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-06-27",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-07-16",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-07-18",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-08-05",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-08-15",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-06-17",
+      "value": 8000.5
+    }
+  ],
+  "measured": null
+}

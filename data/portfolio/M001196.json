@@ -1,0 +1,485 @@
+{
+  "member": {
+    "bioguideId": "M001196",
+    "name": "Seth Moulton",
+    "party": "D",
+    "chamber": "house",
+    "state": "MA",
+    "district": "MA-06",
+    "active": true
+  },
+  "positions": [
+    {
+      "memberId": "M001196",
+      "security": {
+        "ticker": "PHH",
+        "kind": "other"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "sold",
+      "asOf": "2016-02-29",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2016/20005451.pdf"
+        }
+      ],
+      "note": "sale reported by PTR with no annual baseline in our coverage"
+    },
+    {
+      "memberId": "M001196",
+      "security": {
+        "ticker": "SHOS",
+        "kind": "other"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "sold",
+      "asOf": "2016-02-29",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2016/20005451.pdf"
+        }
+      ],
+      "note": "sale reported by PTR with no annual baseline in our coverage"
+    },
+    {
+      "memberId": "M001196",
+      "security": {
+        "ticker": "SNMX",
+        "kind": "other"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "sold",
+      "asOf": "2016-02-29",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2016/20005451.pdf"
+        }
+      ],
+      "note": "sale reported by PTR with no annual baseline in our coverage"
+    }
+  ],
+  "trades": [
+    {
+      "memberId": "M001196",
+      "assetRaw": "Divergent Technologies, Inc. [PS]",
+      "security": null,
+      "side": "buy",
+      "owner": "joint",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2025-07-15",
+      "filedDate": "2025-08-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030756.pdf",
+      "late": false,
+      "note": "Industrial manufacturing company. Torrance, CA, US",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001196",
+      "assetRaw": "Activision Blizzard, Inc",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 500001,
+        "hi": 1000000
+      },
+      "transactionDate": "2023-08-18",
+      "filedDate": "2023-09-15",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20023624.pdf",
+      "late": false,
+      "note": "Same-day sale exercise of stock options. 9,193 shares expiring 8/19/2023 at strike price of $86.84. 980 shares expiring 8/19/2023 at strike price of $82.58. Est. net proceeds from same-day sale of $30,033.01.",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001196",
+      "assetRaw": "Divergent Technologies, Inc. Series D Preferred Stock [PS]",
+      "security": null,
+      "side": "buy",
+      "owner": "joint",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2023-08-02",
+      "filedDate": "2023-08-26",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20023528.pdf",
+      "late": false,
+      "note": "2,367 shares",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001196",
+      "assetRaw": "Suckerz, Inc. SAFE Preferred Stock [PS]",
+      "security": null,
+      "side": "buy",
+      "owner": "joint",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2023-07-30",
+      "filedDate": "2023-08-26",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20023528.pdf",
+      "late": false,
+      "note": "Purchase of SAFE Note",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001196",
+      "assetRaw": "Activision Blizzard, Inc",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2023-06-13",
+      "filedDate": "2023-07-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20023219.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001196",
+      "assetRaw": "Activision Blizzard, Inc",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2023-03-14",
+      "filedDate": "2023-04-11",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20022611.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001196",
+      "assetRaw": "Iris Investment Holdings, LLC [OI]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2023-01-05",
+      "filedDate": "2023-01-30",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20022343.pdf",
+      "late": false,
+      "note": "Purchase of 25 units in LLC, to be converted to preferred shares in Iris Technology, Inc.",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001196",
+      "assetRaw": "Iris Investment Holdings, LLC [OI]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2023-01-04",
+      "filedDate": "2023-01-30",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20022343.pdf",
+      "late": false,
+      "note": "Purchase of 25 units in LLC, to be converted to preferred shares in Iris Technology, Inc. Iris Investment Holdings, LLC [OI]",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001196",
+      "assetRaw": "Activision Blizzard, Inc",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2022-09-16",
+      "filedDate": "2023-04-12",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20022724.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001196",
+      "assetRaw": "Activision Blizzard, Inc",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2022-09-16",
+      "filedDate": "2023-02-17",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20022451.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001196",
+      "assetRaw": "Activision Blizzard, Inc",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2022-09-16",
+      "filedDate": "2023-01-27",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20022261.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001196",
+      "assetRaw": "Amazon.com, Inc.",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-08-08",
+      "filedDate": "2023-01-27",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20022261.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001196",
+      "assetRaw": "Oura Health OY Series C Preferred Shares [PS]",
+      "security": null,
+      "side": "buy",
+      "owner": "joint",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2021-03-08",
+      "filedDate": "2021-04-11",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20018427.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001196",
+      "assetRaw": "Spencer Stuart SSMC N.V. Class B Restricted stock [PS]",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2021-02-26",
+      "filedDate": "2021-08-09",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019142.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001196",
+      "assetRaw": "1-800 FlOWERS.COM, Inc. - Class a (FlWS)",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2016-02-29",
+      "filedDate": "2016-07-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2016/20005451.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001196",
+      "assetRaw": "NRg Energy, Inc. (NRg)",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2016-02-29",
+      "filedDate": "2016-07-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2016/20005451.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001196",
+      "assetRaw": "PHH Corp (PHH)",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2016-02-29",
+      "filedDate": "2016-07-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2016/20005451.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001196",
+      "assetRaw": "Sears Hometown and Outlet Stores, Inc. (SHOS)",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2016-02-29",
+      "filedDate": "2016-07-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2016/20005451.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001196",
+      "assetRaw": "Senomyx, Inc. (SNMX)",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2016-02-29",
+      "filedDate": "2016-07-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2016/20005451.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001196",
+      "assetRaw": "Vector group ltd. (VgR)",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2016-02-29",
+      "filedDate": "2016-07-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2016/20005451.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    }
+  ],
+  "series": [
+    {
+      "date": "2016-02-29",
+      "value": 8000.5
+    },
+    {
+      "date": "2016-02-29",
+      "value": 8000.5
+    },
+    {
+      "date": "2016-02-29",
+      "value": 8000.5
+    },
+    {
+      "date": "2016-02-29",
+      "value": 8000.5
+    },
+    {
+      "date": "2016-02-29",
+      "value": 8000.5
+    },
+    {
+      "date": "2016-02-29",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-02-26",
+      "value": 175000.5
+    },
+    {
+      "date": "2021-03-08",
+      "value": 175000.5
+    },
+    {
+      "date": "2022-08-08",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-09-16",
+      "value": 75000.5
+    },
+    {
+      "date": "2022-09-16",
+      "value": 75000.5
+    },
+    {
+      "date": "2022-09-16",
+      "value": 75000.5
+    },
+    {
+      "date": "2023-01-04",
+      "value": 32500.5
+    },
+    {
+      "date": "2023-01-05",
+      "value": 32500.5
+    },
+    {
+      "date": "2023-03-14",
+      "value": 75000.5
+    },
+    {
+      "date": "2023-06-13",
+      "value": 175000.5
+    },
+    {
+      "date": "2023-07-30",
+      "value": 32500.5
+    },
+    {
+      "date": "2023-08-02",
+      "value": 75000.5
+    },
+    {
+      "date": "2023-08-18",
+      "value": 750000.5
+    },
+    {
+      "date": "2025-07-15",
+      "value": 32500.5
+    }
+  ],
+  "measured": null
+}

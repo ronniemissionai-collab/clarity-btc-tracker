@@ -1,0 +1,210 @@
+{
+  "member": {
+    "bioguideId": "H001047",
+    "name": "James A. Himes",
+    "party": "D",
+    "chamber": "house",
+    "state": "CT",
+    "district": "CT-04",
+    "active": true
+  },
+  "positions": [
+    {
+      "memberId": "H001047",
+      "security": {
+        "ticker": "BAC",
+        "kind": "other"
+      },
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "sold",
+      "asOf": "2026-07-20",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035047.pdf"
+        }
+      ],
+      "note": "sale reported by PTR with no annual baseline in our coverage"
+    },
+    {
+      "memberId": "H001047",
+      "security": {
+        "ticker": "HD",
+        "kind": "other"
+      },
+      "owner": "joint",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "status": "sold",
+      "asOf": "2026-07-20",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035047.pdf"
+        }
+      ],
+      "note": "sale reported by PTR with no annual baseline in our coverage"
+    },
+    {
+      "memberId": "H001047",
+      "security": {
+        "ticker": "INTC",
+        "kind": "other"
+      },
+      "owner": "joint",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "status": "sold",
+      "asOf": "2017-08-22",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2017/20007922.pdf"
+        }
+      ],
+      "note": "sale reported by PTR with no annual baseline in our coverage"
+    },
+    {
+      "memberId": "H001047",
+      "security": {
+        "ticker": "XOM",
+        "kind": "other"
+      },
+      "owner": "joint",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "status": "sold",
+      "asOf": "2026-07-20",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035047.pdf"
+        }
+      ],
+      "note": "sale reported by PTR with no annual baseline in our coverage"
+    }
+  ],
+  "trades": [
+    {
+      "memberId": "H001047",
+      "assetRaw": "Bank of America Corporation Common Stock (BAC) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-07-20",
+      "filedDate": "2026-07-20",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035047.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "H001047",
+      "assetRaw": "ExxonMobil Holdings Corporation Common Stock (XOM) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2026-07-20",
+      "filedDate": "2026-07-20",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035047.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "H001047",
+      "assetRaw": "Home Depot, Inc. (HD) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2026-07-20",
+      "filedDate": "2026-07-20",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035047.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "H001047",
+      "assetRaw": "Fidelity 2022 Private Equity Multi Strategy [HN]",
+      "security": null,
+      "side": "buy",
+      "owner": "joint",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2023-02-22",
+      "filedDate": "2023-03-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20022515.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001047",
+      "assetRaw": "Intel Corporation (INTC)",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2017-08-22",
+      "filedDate": "2017-09-01",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2017/20007922.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    }
+  ],
+  "series": [
+    {
+      "date": "2017-08-22",
+      "value": 75000.5
+    },
+    {
+      "date": "2023-02-22",
+      "value": 75000.5
+    },
+    {
+      "date": "2026-07-20",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-07-20",
+      "value": 32500.5
+    },
+    {
+      "date": "2026-07-20",
+      "value": 32500.5
+    }
+  ],
+  "measured": null
+}

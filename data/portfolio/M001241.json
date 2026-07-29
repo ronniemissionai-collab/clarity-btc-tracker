@@ -1,0 +1,55 @@
+{
+  "member": {
+    "bioguideId": "M001241",
+    "name": "Dave Min",
+    "party": "D",
+    "chamber": "house",
+    "state": "CA",
+    "district": "CA-47",
+    "active": true
+  },
+  "positions": [],
+  "trades": [
+    {
+      "memberId": "M001241",
+      "assetRaw": "First Solar, Inc. - Common Stock",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-03-19",
+      "filedDate": "2025-04-14",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20029100.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001241",
+      "assetRaw": "Zoom Technologies, Inc.",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-03-19",
+      "filedDate": "2025-04-14",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20029100.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    }
+  ],
+  "series": [
+    {
+      "date": "2025-03-19",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-03-19",
+      "value": 8000.5
+    }
+  ],
+  "measured": null
+}

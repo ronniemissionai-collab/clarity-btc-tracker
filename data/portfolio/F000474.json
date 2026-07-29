@@ -1,0 +1,37 @@
+{
+  "member": {
+    "bioguideId": "F000474",
+    "name": "Mike Flood",
+    "party": "R",
+    "chamber": "house",
+    "state": "NE",
+    "district": "NE-01",
+    "active": true
+  },
+  "positions": [],
+  "trades": [
+    {
+      "memberId": "F000474",
+      "assetRaw": "Midwest Banc Holding Company [PS]",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2023-04-24",
+      "filedDate": "2023-05-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20022861.pdf",
+      "late": false,
+      "note": "sold 1 share of Midwest Banc Holding Company stock",
+      "provenance": "kadoa"
+    }
+  ],
+  "series": [
+    {
+      "date": "2023-04-24",
+      "value": 8000.5
+    }
+  ],
+  "measured": null
+}

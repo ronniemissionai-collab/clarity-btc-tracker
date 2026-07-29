@@ -1,0 +1,136 @@
+{
+  "member": {
+    "bioguideId": "M001163",
+    "name": "Doris O. Matsui",
+    "party": "D",
+    "chamber": "house",
+    "state": "CA",
+    "district": "CA-07",
+    "active": true
+  },
+  "positions": [],
+  "trades": [
+    {
+      "memberId": "M001163",
+      "assetRaw": "U.S. Treasury Note due 05/31/2026 [GS]",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 500001,
+        "hi": 1000000
+      },
+      "transactionDate": "2024-09-03",
+      "filedDate": "2024-09-09",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/20025820.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001163",
+      "assetRaw": "U.S. Treasury Note due 12/15/2024 [GS]",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 500001,
+        "hi": 1000000
+      },
+      "transactionDate": "2024-01-16",
+      "filedDate": "2024-01-26",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/20024369.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001163",
+      "assetRaw": "U.S. Treasury Note due 4/15/2024 [GS]",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 250001,
+        "hi": 500000
+      },
+      "transactionDate": "2023-04-18",
+      "filedDate": "2023-04-25",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20022771.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001163",
+      "assetRaw": "U.S. Treasury Note due 3/31/2024 [GS] P03/30/202304/20/2023Spouse/DC Over $1,000,000 F S: New SPU.S. Treasury Note due 4/15/2023 [GS]",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2023-03-13",
+      "filedDate": "2023-04-25",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20022771.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001163",
+      "assetRaw": "Nu Holdings, Ltd. [PS]",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 500001,
+        "hi": 1000000
+      },
+      "transactionDate": "2021-06-11",
+      "filedDate": "2021-06-22",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20018861.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001163",
+      "assetRaw": "SPu.S. Treasury Note due 2/28/2021 [gS] S01/22/202102/03/2021Spouse/DC Over $1,000,000 gfedc FIlINg STATuS: New SPu.S. Treasury Note due 5/31/2021 [gS] S01/22/202102/03/2021Spouse/DC Over $1,000,000 gfedc FIlINg STATuS: New SPu.S. Treasury Note due 7/15/2021 [gS]",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 250001,
+        "hi": 500000
+      },
+      "transactionDate": "2020-12-28",
+      "filedDate": "2021-02-09",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20018180.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    }
+  ],
+  "series": [
+    {
+      "date": "2020-12-28",
+      "value": 375000.5
+    },
+    {
+      "date": "2021-06-11",
+      "value": 750000.5
+    },
+    {
+      "date": "2023-03-13",
+      "value": 175000.5
+    },
+    {
+      "date": "2023-04-18",
+      "value": 375000.5
+    },
+    {
+      "date": "2024-01-16",
+      "value": 750000.5
+    },
+    {
+      "date": "2024-09-03",
+      "value": 750000.5
+    }
+  ],
+  "measured": null
+}

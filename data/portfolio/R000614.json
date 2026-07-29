@@ -1,0 +1,311 @@
+{
+  "member": {
+    "bioguideId": "R000614",
+    "name": "Chip Roy",
+    "party": "R",
+    "chamber": "house",
+    "state": "TX",
+    "district": "TX-21",
+    "active": true
+  },
+  "positions": [
+    {
+      "memberId": "R000614",
+      "security": {
+        "ticker": "AESI",
+        "kind": "other"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "status": "holds",
+      "asOf": "2026-03-30",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034528.pdf"
+        }
+      ]
+    },
+    {
+      "memberId": "R000614",
+      "security": {
+        "ticker": "AESI",
+        "kind": "other"
+      },
+      "owner": "spouse",
+      "range": {
+        "lo": 4750001,
+        "hi": 24899999
+      },
+      "status": "holds",
+      "asOf": "2026-05-13",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034375.pdf"
+        },
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034762.pdf"
+        }
+      ],
+      "note": "partial sale 2026-05-13"
+    }
+  ],
+  "trades": [
+    {
+      "memberId": "R000614",
+      "assetRaw": "Atlas Energy Solutions Inc. Common Stock (AESI) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2026-05-13",
+      "filedDate": "2026-06-10",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034762.pdf",
+      "late": false,
+      "note": "partial sale",
+      "provenance": "both"
+    },
+    {
+      "memberId": "R000614",
+      "assetRaw": "Atlas Energy Solutions Inc. Common Stock (AESI) [RS]",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 5000001,
+        "hi": 25000000
+      },
+      "transactionDate": "2026-04-30",
+      "filedDate": "2026-05-09",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034375.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "R000614",
+      "assetRaw": "2000159506 SP Atlas Energy Solutions Inc. Common Stock (AESI) [RS]",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2026-03-30",
+      "filedDate": "2026-05-11",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034528.pdf",
+      "late": false,
+      "provenance": "official"
+    },
+    {
+      "memberId": "R000614",
+      "assetRaw": "Atlas Energy Solutions Inc. Common Stock",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2026-03-30",
+      "filedDate": "2026-05-11",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034528.pdf",
+      "late": false,
+      "note": "Spouse awarded RSUs as part of total comp package",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000614",
+      "assetRaw": "Atlas Energy Solutions Inc. Common Stock",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2024-05-20",
+      "filedDate": "2024-06-10",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/20025201.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000614",
+      "assetRaw": "AT&T Inc.",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2024-04-10",
+      "filedDate": "2024-04-11",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/20024848.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000614",
+      "assetRaw": "Chevron Corporation Common Stock",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2024-04-10",
+      "filedDate": "2024-04-11",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/20024848.pdf",
+      "late": false,
+      "note": "Sold entire holding.",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000614",
+      "assetRaw": "Common Stock",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2024-04-10",
+      "filedDate": "2024-04-11",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/20024848.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000614",
+      "assetRaw": "Energy Transfer LP Common Units",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2024-04-10",
+      "filedDate": "2024-04-11",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/20024848.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000614",
+      "assetRaw": "Exxon Mobil Corporation Common Stock",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2024-04-10",
+      "filedDate": "2024-04-11",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/20024848.pdf",
+      "late": false,
+      "note": "Sold entire holding Kinder Morgan, Inc. Common Stock (KMI) [ST]",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000614",
+      "assetRaw": "Nustar Energy L.P. Common Units",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2024-04-10",
+      "filedDate": "2024-04-11",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/20024848.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000614",
+      "assetRaw": "Atlas Energy Solutions Inc. Common Stock",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 250001,
+        "hi": 500000
+      },
+      "transactionDate": "2024-03-12",
+      "filedDate": "2024-04-11",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/20024848.pdf",
+      "late": false,
+      "note": "Sold part of holding.",
+      "provenance": "kadoa"
+    }
+  ],
+  "series": [
+    {
+      "date": "2024-03-12",
+      "value": 375000.5
+    },
+    {
+      "date": "2024-04-10",
+      "value": 8000.5
+    },
+    {
+      "date": "2024-04-10",
+      "value": 32500.5
+    },
+    {
+      "date": "2024-04-10",
+      "value": 8000.5
+    },
+    {
+      "date": "2024-04-10",
+      "value": 8000.5
+    },
+    {
+      "date": "2024-04-10",
+      "value": 32500.5
+    },
+    {
+      "date": "2024-04-10",
+      "value": 8000.5
+    },
+    {
+      "date": "2024-05-20",
+      "value": 175000.5
+    },
+    {
+      "date": "2026-03-30",
+      "value": 175000.5
+    },
+    {
+      "date": "2026-03-30",
+      "value": 175000.5
+    },
+    {
+      "date": "2026-04-30",
+      "value": 15000000.5
+    },
+    {
+      "date": "2026-05-13",
+      "value": 175000.5
+    }
+  ],
+  "measured": null
+}

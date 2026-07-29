@@ -1,0 +1,97 @@
+{
+  "member": {
+    "bioguideId": "G000559",
+    "name": "John Garamendi",
+    "party": "D",
+    "chamber": "house",
+    "state": "CA",
+    "district": "CA-08",
+    "active": true
+  },
+  "positions": [],
+  "trades": [
+    {
+      "memberId": "G000559",
+      "assetRaw": "Block, Inc. Class A Common Stock,",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-01-14",
+      "filedDate": "2022-01-21",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020278.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "G000559",
+      "assetRaw": "Granite Construction Incorporated",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-01-14",
+      "filedDate": "2022-01-21",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020278.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "G000559",
+      "assetRaw": "Meta Platforms, Inc. - Class A",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2022-01-14",
+      "filedDate": "2022-01-21",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020278.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "G000559",
+      "assetRaw": "Twitter, Inc.",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-01-14",
+      "filedDate": "2022-01-21",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020278.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    }
+  ],
+  "series": [
+    {
+      "date": "2022-01-14",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-01-14",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-01-14",
+      "value": 32500.5
+    },
+    {
+      "date": "2022-01-14",
+      "value": 8000.5
+    }
+  ],
+  "measured": null
+}

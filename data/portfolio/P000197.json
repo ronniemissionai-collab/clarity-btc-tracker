@@ -1,0 +1,4114 @@
+{
+  "member": {
+    "bioguideId": "P000197",
+    "name": "Nancy Pelosi",
+    "party": "D",
+    "chamber": "house",
+    "state": "CA",
+    "district": "CA-11",
+    "active": true,
+    "traderRoster": "active",
+    "note": "Holds Block (SQ) only - counting her as a Bitcoin holder is the classic false positive."
+  },
+  "positions": [
+    {
+      "memberId": "P000197",
+      "security": {
+        "ticker": "AAPL",
+        "kind": "other"
+      },
+      "owner": "spouse",
+      "range": {
+        "lo": 250001,
+        "hi": 500000
+      },
+      "status": "sold",
+      "asOf": "2025-12-30",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033725.pdf"
+        }
+      ],
+      "note": "partial sales through 2025-12-30 exhausted the disclosed range"
+    },
+    {
+      "memberId": "P000197",
+      "security": {
+        "ticker": "AB",
+        "kind": "other"
+      },
+      "owner": "spouse",
+      "range": {
+        "lo": 1500003,
+        "hi": 6000000
+      },
+      "status": "holds",
+      "asOf": "2026-01-16",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020515.pdf"
+        },
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020561.pdf"
+        },
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033725.pdf"
+        }
+      ]
+    },
+    {
+      "memberId": "P000197",
+      "security": {
+        "ticker": "AMZN",
+        "kind": "other"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 500001,
+        "hi": 1000000
+      },
+      "status": "stale",
+      "asOf": "2018-07-27",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20009481.pdf"
+        }
+      ]
+    },
+    {
+      "memberId": "P000197",
+      "security": {
+        "ticker": "AMZN",
+        "kind": "other"
+      },
+      "owner": "spouse",
+      "range": {
+        "lo": 600002,
+        "hi": 1250000
+      },
+      "status": "holds",
+      "asOf": "2026-01-16",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033725.pdf"
+        }
+      ]
+    },
+    {
+      "memberId": "P000197",
+      "security": {
+        "ticker": "BRCM",
+        "kind": "other"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "status": "stale",
+      "asOf": "2014-10-24",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2014/20001991.pdf"
+        }
+      ]
+    },
+    {
+      "memberId": "P000197",
+      "security": {
+        "ticker": "CRM",
+        "kind": "other"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 150002,
+        "hi": 350000
+      },
+      "status": "stale",
+      "asOf": "2019-06-18",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20011965.pdf"
+        }
+      ]
+    },
+    {
+      "memberId": "P000197",
+      "security": {
+        "ticker": "DBX",
+        "kind": "other"
+      },
+      "owner": "spouse",
+      "range": {
+        "lo": 250001,
+        "hi": 500000
+      },
+      "status": "stale",
+      "asOf": "2018-03-27",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20009293.pdf"
+        }
+      ]
+    },
+    {
+      "memberId": "P000197",
+      "security": {
+        "ticker": "DIS",
+        "kind": "other"
+      },
+      "owner": "spouse",
+      "range": {
+        "lo": 1000001,
+        "hi": 5000000
+      },
+      "status": "sold",
+      "asOf": "2025-12-30",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033725.pdf"
+        }
+      ],
+      "note": "sale reported by PTR with no annual baseline in our coverage"
+    },
+    {
+      "memberId": "P000197",
+      "security": {
+        "ticker": "FB",
+        "kind": "other"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 400003,
+        "hi": 850000
+      },
+      "status": "stale",
+      "asOf": "2020-01-16",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20009481.pdf"
+        },
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20010631.pdf"
+        },
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20015042.pdf"
+        }
+      ]
+    },
+    {
+      "memberId": "P000197",
+      "security": {
+        "ticker": "GOOGL",
+        "kind": "other"
+      },
+      "owner": "spouse",
+      "range": {
+        "lo": 500001,
+        "hi": 1000000
+      },
+      "status": "holds",
+      "asOf": "2026-01-16",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033725.pdf"
+        }
+      ]
+    },
+    {
+      "memberId": "P000197",
+      "security": {
+        "ticker": "HTZ",
+        "kind": "other"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 415006,
+        "hi": 1000000
+      },
+      "status": "stale",
+      "asOf": "2015-07-16",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2014/20002236.pdf"
+        },
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2015/20003320.pdf"
+        },
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2015/20003475.pdf"
+        }
+      ]
+    },
+    {
+      "memberId": "P000197",
+      "security": {
+        "ticker": "INTC",
+        "kind": "other"
+      },
+      "owner": "spouse",
+      "range": {
+        "lo": 1000001,
+        "hi": 5000000
+      },
+      "status": "holds",
+      "asOf": "2026-05-29",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034836.pdf"
+        }
+      ]
+    },
+    {
+      "memberId": "P000197",
+      "security": {
+        "ticker": "NFLX",
+        "kind": "other"
+      },
+      "owner": "spouse",
+      "range": {
+        "lo": 350002,
+        "hi": 750000
+      },
+      "status": "stale",
+      "asOf": "2019-07-22",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20012127.pdf"
+        }
+      ]
+    },
+    {
+      "memberId": "P000197",
+      "security": {
+        "ticker": "NVDA",
+        "kind": "other"
+      },
+      "owner": "spouse",
+      "range": {
+        "lo": 350002,
+        "hi": 750000
+      },
+      "status": "holds",
+      "asOf": "2026-01-16",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033725.pdf"
+        }
+      ]
+    },
+    {
+      "memberId": "P000197",
+      "security": {
+        "ticker": "PYPL",
+        "kind": "other"
+      },
+      "owner": "spouse",
+      "range": {
+        "lo": 250001,
+        "hi": 500000
+      },
+      "status": "sold",
+      "asOf": "2025-12-30",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033725.pdf"
+        }
+      ],
+      "note": "sale reported by PTR with no annual baseline in our coverage"
+    },
+    {
+      "memberId": "P000197",
+      "security": {
+        "ticker": "T",
+        "kind": "other"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 250001,
+        "hi": 500000
+      },
+      "status": "stale",
+      "asOf": "2018-10-24",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20010631.pdf"
+        }
+      ]
+    },
+    {
+      "memberId": "P000197",
+      "security": {
+        "ticker": "TSLA",
+        "kind": "treasury"
+      },
+      "owner": "spouse",
+      "range": {
+        "lo": 1500002,
+        "hi": 6000000
+      },
+      "status": "sold",
+      "asOf": "2024-06-24",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20018011.pdf"
+        },
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020662.pdf"
+        },
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/20025368.pdf"
+        }
+      ]
+    },
+    {
+      "memberId": "P000197",
+      "security": {
+        "ticker": "UBER",
+        "kind": "other"
+      },
+      "owner": "spouse",
+      "range": {
+        "lo": 500001,
+        "hi": 1000000
+      },
+      "status": "holds",
+      "asOf": "2026-05-29",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034836.pdf"
+        }
+      ]
+    },
+    {
+      "memberId": "P000197",
+      "security": {
+        "ticker": "V",
+        "kind": "other"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "status": "sold",
+      "asOf": "2015-12-30",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2016/20004503.pdf"
+        }
+      ],
+      "note": "sale reported by PTR with no annual baseline in our coverage"
+    },
+    {
+      "memberId": "P000197",
+      "security": {
+        "ticker": "V",
+        "kind": "other"
+      },
+      "owner": "spouse",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "status": "sold",
+      "asOf": "2016-07-21",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2016/20005689.pdf"
+        }
+      ],
+      "note": "sale reported by PTR with no annual baseline in our coverage"
+    },
+    {
+      "memberId": "P000197",
+      "security": {
+        "ticker": "VST",
+        "kind": "other"
+      },
+      "owner": "spouse",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "status": "holds",
+      "asOf": "2026-01-16",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033725.pdf"
+        }
+      ]
+    }
+  ],
+  "trades": [
+    {
+      "memberId": "P000197",
+      "assetRaw": "Intel Corporation - Common Stock (INTC) [OP]",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1000001,
+        "hi": 5000000
+      },
+      "transactionDate": "2026-05-29",
+      "filedDate": "2026-06-23",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034836.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "P000197",
+      "assetRaw": "Uber Technologies, Inc. Common Stock (UBER) [OP]",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 500001,
+        "hi": 1000000
+      },
+      "transactionDate": "2026-05-29",
+      "filedDate": "2026-06-23",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034836.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "P000197",
+      "assetRaw": "AllianceBernstein Holding L.P. Units (AB) [AB]",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1000001,
+        "hi": 5000000
+      },
+      "transactionDate": "2026-01-16",
+      "filedDate": "2026-01-23",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033725.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "P000197",
+      "assetRaw": "Alphabet Inc. - Class A Common Stock (GOOGL) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 500001,
+        "hi": 1000000
+      },
+      "transactionDate": "2026-01-16",
+      "filedDate": "2026-01-23",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033725.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "P000197",
+      "assetRaw": "Amazon.com, Inc. - Common Stock (AMZN) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 500001,
+        "hi": 1000000
+      },
+      "transactionDate": "2026-01-16",
+      "filedDate": "2026-01-23",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033725.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "P000197",
+      "assetRaw": "NVIDIA Corporation - Common Stock (NVDA) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 250001,
+        "hi": 500000
+      },
+      "transactionDate": "2026-01-16",
+      "filedDate": "2026-01-23",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033725.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "P000197",
+      "assetRaw": "Tempus AI, Inc. - Class A Common",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 50001,
+        "hi": 50001
+      },
+      "transactionDate": "2026-01-16",
+      "filedDate": "2026-01-23",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033725.pdf",
+      "late": false,
+      "note": "amount upper bound missing from filing text",
+      "provenance": "both"
+    },
+    {
+      "memberId": "P000197",
+      "assetRaw": "Vistra Corp. Common Stock (VST) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2026-01-16",
+      "filedDate": "2026-01-23",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033725.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "P000197",
+      "assetRaw": "Alphabet Inc. - Class A Common Stock (GOOGL) [OP]",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 250001,
+        "hi": 500000
+      },
+      "transactionDate": "2025-12-30",
+      "filedDate": "2026-01-23",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033725.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "P000197",
+      "assetRaw": "Alphabet Inc. - Class A Common Stock (GOOGL) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1000001,
+        "hi": 5000000
+      },
+      "transactionDate": "2025-12-30",
+      "filedDate": "2026-01-23",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033725.pdf",
+      "late": false,
+      "note": "partial sale",
+      "provenance": "both"
+    },
+    {
+      "memberId": "P000197",
+      "assetRaw": "Amazon.com, Inc. - Common Stock (AMZN) [OP]",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2025-12-30",
+      "filedDate": "2026-01-23",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033725.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "P000197",
+      "assetRaw": "Apple Inc. - Common Stock (AAPL) [OP]",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 250001,
+        "hi": 500000
+      },
+      "transactionDate": "2025-12-30",
+      "filedDate": "2026-01-23",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033725.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "P000197",
+      "assetRaw": "Apple Inc. - Common Stock (AAPL) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 5000001,
+        "hi": 25000000
+      },
+      "transactionDate": "2025-12-30",
+      "filedDate": "2026-01-23",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033725.pdf",
+      "late": false,
+      "note": "partial sale",
+      "provenance": "both"
+    },
+    {
+      "memberId": "P000197",
+      "assetRaw": "NVIDIA Corporation - Common Stock (NVDA) [OP]",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2025-12-30",
+      "filedDate": "2026-01-23",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033725.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "P000197",
+      "assetRaw": "PayPal Holdings, Inc. - Common Stock (PYPL) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 250001,
+        "hi": 500000
+      },
+      "transactionDate": "2025-12-30",
+      "filedDate": "2026-01-23",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033725.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "P000197",
+      "assetRaw": "Walt Disney Company (DIS) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1000001,
+        "hi": 5000000
+      },
+      "transactionDate": "2025-12-30",
+      "filedDate": "2026-01-23",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033725.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "P000197",
+      "assetRaw": "Amazon.com, Inc. - Common Stock (AMZN) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1000001,
+        "hi": 5000000
+      },
+      "transactionDate": "2025-12-24",
+      "filedDate": "2026-01-23",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033725.pdf",
+      "late": false,
+      "note": "partial sale",
+      "provenance": "both"
+    },
+    {
+      "memberId": "P000197",
+      "assetRaw": "Apple Inc. - Common Stock (AAPL) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 5000001,
+        "hi": 25000000
+      },
+      "transactionDate": "2025-12-24",
+      "filedDate": "2026-01-23",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033725.pdf",
+      "late": false,
+      "note": "partial sale",
+      "provenance": "both"
+    },
+    {
+      "memberId": "P000197",
+      "assetRaw": "NVIDIA Corporation - Common Stock (NVDA) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1000001,
+        "hi": 5000000
+      },
+      "transactionDate": "2025-12-24",
+      "filedDate": "2026-01-23",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033725.pdf",
+      "late": false,
+      "note": "partial sale",
+      "provenance": "both"
+    },
+    {
+      "memberId": "P000197",
+      "assetRaw": "Apple Inc. - Common Stock",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2025-10-22",
+      "filedDate": "2025-10-24",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20033337.pdf",
+      "late": false,
+      "note": "Contribution of 382 shares held personally to Trinity University in Washington, DC.",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000197",
+      "assetRaw": "Broadcom Inc. - Common Stock",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1000001,
+        "hi": 5000000
+      },
+      "transactionDate": "2025-06-20",
+      "filedDate": "2025-07-09",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030630.pdf",
+      "late": false,
+      "note": "Exercised 200 call options purchased 6/24/24 (20,000 shares) at a strike price of $80 with an expiration date of 6/20/25.",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000197",
+      "assetRaw": "Matthews International Mutual Fund [OT]",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2025-06-20",
+      "filedDate": "2025-07-09",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030630.pdf",
+      "late": false,
+      "note": "Sale of 2,822 units. C: Loss of $28,948 on sale.",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000197",
+      "assetRaw": "Alphabet Inc. - Class A Common Stock",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 250001,
+        "hi": 500000
+      },
+      "transactionDate": "2025-01-14",
+      "filedDate": "2025-01-17",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20026590.pdf",
+      "late": false,
+      "note": "Purchased 50 call options with a strike price of $150 and an expiration date of 1/16/26.",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000197",
+      "assetRaw": "Amazon.com, Inc. - Common Stock",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 250001,
+        "hi": 500000
+      },
+      "transactionDate": "2025-01-14",
+      "filedDate": "2025-01-17",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20026590.pdf",
+      "late": false,
+      "note": "Purchased 50 call options with a strike price of $150 and an expiration date of 1/16/26.",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000197",
+      "assetRaw": "NVIDIA Corporation - Common Stock",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 250001,
+        "hi": 500000
+      },
+      "transactionDate": "2025-01-14",
+      "filedDate": "2025-01-17",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20026590.pdf",
+      "late": false,
+      "note": "Purchased 50 call options with a strike price of $80 and an expiration date of 1/16/26.",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000197",
+      "assetRaw": "Tempus AI, Inc. - Class A Common Stock",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2025-01-14",
+      "filedDate": "2025-01-17",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20026590.pdf",
+      "late": false,
+      "note": "Purchased 50 call options with a strike price of $20 and an expiration date of 1/16/26.",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000197",
+      "assetRaw": "Vistra Corp. Common Stock",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 500001,
+        "hi": 1000000
+      },
+      "transactionDate": "2025-01-14",
+      "filedDate": "2025-01-17",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20026590.pdf",
+      "late": false,
+      "note": "Purchased 50 call options with a strike price of $50 and an expiration date of 1/16/26.",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000197",
+      "assetRaw": "Apple Inc. - Common Stock",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 5000001,
+        "hi": 25000000
+      },
+      "transactionDate": "2024-12-31",
+      "filedDate": "2025-01-17",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20026590.pdf",
+      "late": false,
+      "note": "Sold 31,600 shares.",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000197",
+      "assetRaw": "NVIDIA Corporation - Common Stock",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1000001,
+        "hi": 5000000
+      },
+      "transactionDate": "2024-12-31",
+      "filedDate": "2025-01-17",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20026590.pdf",
+      "late": false,
+      "note": "Sold 10,000 shares.",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000197",
+      "assetRaw": "NVIDIA Corporation - Common Stock",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 500001,
+        "hi": 1000000
+      },
+      "transactionDate": "2024-12-20",
+      "filedDate": "2025-01-17",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20026590.pdf",
+      "late": false,
+      "note": "Exercised 500 call options purchased 11/22/23 (50,000 shares) at a strike price of $12 with an expiration date of 12/20/24.",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000197",
+      "assetRaw": "Palo Alto Networks, Inc.",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1000001,
+        "hi": 5000000
+      },
+      "transactionDate": "2024-12-20",
+      "filedDate": "2025-01-17",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20026590.pdf",
+      "late": false,
+      "note": "Exercised 140 call options purchased 2/12/24 & 2/21/24 (14,000 shares) at a strike price of $100 with an expiration date of 12/20/24.",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000197",
+      "assetRaw": "REOF XXVI, LLC [AB]",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 250001,
+        "hi": 500000
+      },
+      "transactionDate": "2024-08-13",
+      "filedDate": "2024-09-11",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/20025819.pdf",
+      "late": false,
+      "note": "Investment in LLC which is acquiring and managing a commercial office property at 631 Howard Street in San Francisco, CA.",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000197",
+      "assetRaw": "Microsoft Corporation - Common Stock",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1000001,
+        "hi": 5000000
+      },
+      "transactionDate": "2024-07-26",
+      "filedDate": "2024-07-30",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/20025535.pdf",
+      "late": false,
+      "note": "Sold 5,000 shares.",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000197",
+      "assetRaw": "NVIDIA Corporation - Common Stock",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1000001,
+        "hi": 5000000
+      },
+      "transactionDate": "2024-07-26",
+      "filedDate": "2024-07-30",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/20025535.pdf",
+      "late": false,
+      "note": "Purchased 10,000 shares.",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000197",
+      "assetRaw": "Visa Inc.",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 500001,
+        "hi": 1000000
+      },
+      "transactionDate": "2024-07-01",
+      "filedDate": "2024-07-02",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/20025368.pdf",
+      "late": false,
+      "note": "Sold 2,000 shares.",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000197",
+      "assetRaw": "NVIDIA Corporation - Common Stock",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1000001,
+        "hi": 5000000
+      },
+      "transactionDate": "2024-06-26",
+      "filedDate": "2024-07-02",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/20025368.pdf",
+      "late": false,
+      "note": "Purchased 10,000 shares.",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000197",
+      "assetRaw": "Broadcom Inc. - Common Stock",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1000001,
+        "hi": 5000000
+      },
+      "transactionDate": "2024-06-24",
+      "filedDate": "2024-07-02",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/20025368.pdf",
+      "late": false,
+      "note": "Purchased 20 call options with a strike price of $800 and an expiration date of 6/20/25.",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000197",
+      "assetRaw": "Tesla, Inc. - Common Stock",
+      "security": {
+        "ticker": "TSLA",
+        "kind": "treasury"
+      },
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 250001,
+        "hi": 500000
+      },
+      "transactionDate": "2024-06-24",
+      "filedDate": "2024-07-02",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/20025368.pdf",
+      "late": false,
+      "note": "Sold 2,500 shares.",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000197",
+      "assetRaw": "Forge Investments, LLC [AB]",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1000001,
+        "hi": 5000000
+      },
+      "transactionDate": "2024-03-04",
+      "filedDate": "2024-03-21",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/20024625.pdf",
+      "late": false,
+      "note": "Investment in fund that owns Databricks stock. Databricks is a San Francisco engineering and analytic software company based on AI technology.",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000197",
+      "assetRaw": "Palo Alto Networks, Inc.",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2024-02-21",
+      "filedDate": "2024-02-23",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/20024542.pdf",
+      "late": false,
+      "note": "Purchased 20 call options with a strike price of $200 and an expiration date of 1/17/25.",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000197",
+      "assetRaw": "Palo Alto Networks, Inc.",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 500001,
+        "hi": 1000000
+      },
+      "transactionDate": "2024-02-12",
+      "filedDate": "2024-02-23",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/20024542.pdf",
+      "late": false,
+      "note": "Purchased 50 call options with a strike price of $200 and an expiration date of 1/17/25.",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000197",
+      "assetRaw": "NVIDIA Corporation",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1000001,
+        "hi": 5000000
+      },
+      "transactionDate": "2023-11-22",
+      "filedDate": "2023-12-21",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20024186.pdf",
+      "late": false,
+      "note": "Purchased 50 call options with a strike price of $120 and an expiration date of 12/20/24.",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000197",
+      "assetRaw": "Apple Inc.",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 250001,
+        "hi": 500000
+      },
+      "transactionDate": "2023-06-15",
+      "filedDate": "2023-06-22",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20023192.pdf",
+      "late": false,
+      "note": "Exercised 50 call options purchased 5/24/22 (5,000 shares) at a strike price of $80 with an expiration date of 6/16/23.",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000197",
+      "assetRaw": "Microsoft Corporation",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 500001,
+        "hi": 1000000
+      },
+      "transactionDate": "2023-06-15",
+      "filedDate": "2023-06-22",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20023192.pdf",
+      "late": false,
+      "note": "Exercised 50 call options purchased 5/24/22 (5,000 shares) at a strike price of $180 with an expiration date of 6/16/23.",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000197",
+      "assetRaw": "Apple Inc.",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 500001,
+        "hi": 1000000
+      },
+      "transactionDate": "2023-05-08",
+      "filedDate": "2023-06-06",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20023080.pdf",
+      "late": false,
+      "note": "Contribution of 2,900 shares held personally to Trinity College.",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000197",
+      "assetRaw": "Apple Inc.",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 500001,
+        "hi": 1000000
+      },
+      "transactionDate": "2023-03-17",
+      "filedDate": "2023-04-06",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20022664.pdf",
+      "late": false,
+      "note": "Exercised 100 call options purchased 5/13/22 (10,000 shares) at a strike price of $80 with an expiration date of 3/17/23.",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000197",
+      "assetRaw": "REOF XXV, LLC [AB]",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 500001,
+        "hi": 1000000
+      },
+      "transactionDate": "2023-03-09",
+      "filedDate": "2023-04-06",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20022664.pdf",
+      "late": false,
+      "note": "Investment in LLC which is acquiring and restoring a luxury hotel property in San Francisco, CA.",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000197",
+      "assetRaw": "Netflix, Inc.",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 250001,
+        "hi": 500000
+      },
+      "transactionDate": "2022-12-30",
+      "filedDate": "2023-01-12",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20022260.pdf",
+      "late": false,
+      "note": "Sold 1,000 shares. C: Sold 1,000 shares at an average price of $292.89 for a total loss of $63,535.",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000197",
+      "assetRaw": "Netflix, Inc.",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 250001,
+        "hi": 500000
+      },
+      "transactionDate": "2022-12-29",
+      "filedDate": "2023-01-12",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20022260.pdf",
+      "late": false,
+      "note": "Sold 1,000 shares. C: Sold 1,000 shares at an average price of $290.04 for a total loss of $66,385.",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000197",
+      "assetRaw": "Alliance Bernstein Holding L.P. Units [OL]",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 500001,
+        "hi": 1000000
+      },
+      "transactionDate": "2022-12-28",
+      "filedDate": "2023-01-12",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20022260.pdf",
+      "late": false,
+      "note": "Sold 20,000 shares. C: Sold 20,000 shares at an average price of $32.95 for a total loss of $11,510.",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000197",
+      "assetRaw": "Alphabet Inc. - Class A",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 500001,
+        "hi": 1000000
+      },
+      "transactionDate": "2022-12-28",
+      "filedDate": "2023-01-12",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20022260.pdf",
+      "late": false,
+      "note": "Sold 10,000 shares.",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000197",
+      "assetRaw": "PayPal Holdings, Inc.",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 250001,
+        "hi": 500000
+      },
+      "transactionDate": "2022-12-28",
+      "filedDate": "2023-01-12",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20022260.pdf",
+      "late": false,
+      "note": "Sold 5,000 shares. C: Sold 5,000 shares at an average price of $67.77 for a total loss of $429,938.",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000197",
+      "assetRaw": "Roblox Corporation Class A",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2022-12-28",
+      "filedDate": "2023-01-12",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20022260.pdf",
+      "late": false,
+      "note": "Sold 5,000 shares. C: Sold 5,000 shares at an average price of $26.05 for a total loss of $235,836.",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000197",
+      "assetRaw": "REOF XX, LLC [AB]",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2022-12-27",
+      "filedDate": "2023-01-12",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20022260.pdf",
+      "late": false,
+      "note": "Additional investment in LLC which acquired five Courtyard by Marriott hotels located in Fairfax, VA (one), suburban Baltimore, MD (two) and San Antonio, TX (two).",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000197",
+      "assetRaw": "Alphabet Inc. - Class A",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 500001,
+        "hi": 1000000
+      },
+      "transactionDate": "2022-12-21",
+      "filedDate": "2023-01-12",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20022260.pdf",
+      "late": false,
+      "note": "Sold 10,000 shares.",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000197",
+      "assetRaw": "PayPal Holdings, Inc.",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 250001,
+        "hi": 500000
+      },
+      "transactionDate": "2022-12-21",
+      "filedDate": "2023-01-12",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20022260.pdf",
+      "late": false,
+      "note": "Sold 5,000 shares. C: Sold 5,000 shares at an average price of $69.10 for a total loss of $424,313.",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000197",
+      "assetRaw": "Walt Disney Company",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 500001,
+        "hi": 1000000
+      },
+      "transactionDate": "2022-12-21",
+      "filedDate": "2023-01-12",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20022260.pdf",
+      "late": false,
+      "note": "Sold 10,000 shares. C: Sold 10,000 shares at an average price of $87.58 for a total loss of $114,138. IDOwnerAssetTransaction Type DateNotification Date AmountCap. Gains > $200?",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000197",
+      "assetRaw": "Alphabet Inc. - Class A",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 500001,
+        "hi": 1000000
+      },
+      "transactionDate": "2022-12-20",
+      "filedDate": "2023-01-12",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20022260.pdf",
+      "late": false,
+      "note": "Sold 10,000 shares.",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000197",
+      "assetRaw": "Salesforce, Inc.",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 500001,
+        "hi": 1000000
+      },
+      "transactionDate": "2022-12-20",
+      "filedDate": "2023-01-12",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20022260.pdf",
+      "late": false,
+      "note": "Sold 5,000 shares. C: Sold 5,000 shares at an average price of $140.38 for a total loss of $511,197.",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000197",
+      "assetRaw": "Visa Inc.",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1000001,
+        "hi": 5000000
+      },
+      "transactionDate": "2022-11-08",
+      "filedDate": "2022-11-30",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20022063.pdf",
+      "late": false,
+      "note": "Sold 20,000 shares.",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000197",
+      "assetRaw": "Alphabet Inc. - Class C Capital Stock",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1000001,
+        "hi": 5000000
+      },
+      "transactionDate": "2022-09-16",
+      "filedDate": "2022-10-14",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021837.pdf",
+      "late": false,
+      "note": "Exercised 200 call options purchased 12/17/21 (20,000 shares) at a strike price of $100 with an expiration date of 9/16/22.",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000197",
+      "assetRaw": "Micron Technology, Inc.",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2022-09-16",
+      "filedDate": "2022-10-14",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021837.pdf",
+      "late": false,
+      "note": "Sold 100 call options purchased 12/21/21 with a strike price of $50 and an expiration date of 9/16/22. C: Sold 100 call options purchased 12/21/21 (10,000 shares) at a price of $1.84 per share for a total loss of $392,575.",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000197",
+      "assetRaw": "NVIDIA Corporation",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2022-09-16",
+      "filedDate": "2022-10-14",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021837.pdf",
+      "late": false,
+      "note": "Sold 50 call options purchased 7/23/21 with a strike price of $100 and an expiration date of 9/16/22. C: Sold 50 call options purchased 7/23/21 (5,000 shares) at a price of $26.86 per share for a total loss of $361,476.",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000197",
+      "assetRaw": "REOF XX, LLC [AB]",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2022-08-24",
+      "filedDate": "2022-09-09",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021675.pdf",
+      "late": false,
+      "note": "Additional investment in LLC which acquired five Courtyard by Marriott hotels located in Fairfax, VA (one), suburban Baltimore, MD (two) and San Antonio, TX (two).",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000197",
+      "assetRaw": "NVIDIA Corporation",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1000001,
+        "hi": 5000000
+      },
+      "transactionDate": "2022-07-26",
+      "filedDate": "2022-07-26",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021438.pdf",
+      "late": false,
+      "note": "Sold 25,000 shares. C: Sold 25,000 shares at an average price of $165.05 for a total loss of $341,365.",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000197",
+      "assetRaw": "Visa Inc.",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1000001,
+        "hi": 5000000
+      },
+      "transactionDate": "2022-06-21",
+      "filedDate": "2022-07-14",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021374.pdf",
+      "late": false,
+      "note": "Sold 10,000 shares.",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000197",
+      "assetRaw": "Apple Inc.",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2022-06-17",
+      "filedDate": "2022-07-14",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021374.pdf",
+      "late": false,
+      "note": "Sold 50 call options with a strike price of $100 and an expiration date of 6/17/22.",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000197",
+      "assetRaw": "NVIDIA Corporation",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1000001,
+        "hi": 5000000
+      },
+      "transactionDate": "2022-06-17",
+      "filedDate": "2022-07-14",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021374.pdf",
+      "late": false,
+      "note": "Exercised 200 call options (20,000 shares) expiring 6/17/22 at a strike price of $100.",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000197",
+      "assetRaw": "Apple Inc.",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 250001,
+        "hi": 500000
+      },
+      "transactionDate": "2022-05-24",
+      "filedDate": "2022-06-03",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021142.pdf",
+      "late": false,
+      "note": "Purchased 50 call options with a strike price of $80 and an expiration date of 6/16/23.",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000197",
+      "assetRaw": "Microsoft Corporation",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2022-05-24",
+      "filedDate": "2022-06-03",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021142.pdf",
+      "late": false,
+      "note": "Purchased 10 call options with a strike price of $180 and an expiration date of 6/16/23.",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000197",
+      "assetRaw": "Microsoft Corporation",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 250001,
+        "hi": 500000
+      },
+      "transactionDate": "2022-05-24",
+      "filedDate": "2022-06-03",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021142.pdf",
+      "late": false,
+      "note": "Purchased 40 call options with a strike price of $180 and an expiration date of 6/16/23.",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000197",
+      "assetRaw": "Apple Inc.",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 500001,
+        "hi": 1000000
+      },
+      "transactionDate": "2022-05-13",
+      "filedDate": "2022-06-03",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021142.pdf",
+      "late": false,
+      "note": "Purchased 100 call options with a strike price of $80 and an expiration date of 3/17/23.",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000197",
+      "assetRaw": "Tesla, Inc. (TSlA) [ST]",
+      "security": {
+        "ticker": "TSLA",
+        "kind": "treasury"
+      },
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1000001,
+        "hi": 5000000
+      },
+      "transactionDate": "2022-03-17",
+      "filedDate": "2022-03-21",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020662.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000197",
+      "assetRaw": "AllianceBernstein Holding l.P. units (AB) [Ol]",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 250001,
+        "hi": 500000
+      },
+      "transactionDate": "2022-01-27",
+      "filedDate": "2022-03-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020561.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000197",
+      "assetRaw": "AllianceBernstein Holding l.P. units (AB) [Ol]",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 250001,
+        "hi": 500000
+      },
+      "transactionDate": "2022-01-27",
+      "filedDate": "2022-02-28",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020515.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000197",
+      "assetRaw": "American Express Company",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 250001,
+        "hi": 500000
+      },
+      "transactionDate": "2022-01-21",
+      "filedDate": "2022-03-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020561.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000197",
+      "assetRaw": "Apple Inc. (AAPl) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1000001,
+        "hi": 5000000
+      },
+      "transactionDate": "2022-01-21",
+      "filedDate": "2022-03-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020561.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000197",
+      "assetRaw": "PayPal Holdings, Inc. (PYPl) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 500001,
+        "hi": 1000000
+      },
+      "transactionDate": "2022-01-21",
+      "filedDate": "2022-03-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020561.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000197",
+      "assetRaw": "Walt Disney Company",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1000001,
+        "hi": 5000000
+      },
+      "transactionDate": "2022-01-21",
+      "filedDate": "2022-03-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020561.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000197",
+      "assetRaw": "American Express Company",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 250001,
+        "hi": 500000
+      },
+      "transactionDate": "2022-01-21",
+      "filedDate": "2022-02-28",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020515.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000197",
+      "assetRaw": "Apple Inc. (AAPl) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1000001,
+        "hi": 5000000
+      },
+      "transactionDate": "2022-01-21",
+      "filedDate": "2022-02-28",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020515.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000197",
+      "assetRaw": "PayPal Holdings, Inc. (PYPl) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 500001,
+        "hi": 1000000
+      },
+      "transactionDate": "2022-01-21",
+      "filedDate": "2022-02-28",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020515.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000197",
+      "assetRaw": "Walt Disney Company",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1000001,
+        "hi": 5000000
+      },
+      "transactionDate": "2022-01-21",
+      "filedDate": "2022-02-28",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020515.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000197",
+      "assetRaw": "Apple Inc. (AAPl) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 500001,
+        "hi": 1000000
+      },
+      "transactionDate": "2021-12-30",
+      "filedDate": "2022-01-12",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020208.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000197",
+      "assetRaw": "REOF XX, llC [AB]",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2021-12-22",
+      "filedDate": "2021-12-29",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20020106.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000197",
+      "assetRaw": "Micron Technology, Inc. (Mu) [OP]",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 250001,
+        "hi": 500000
+      },
+      "transactionDate": "2021-12-21",
+      "filedDate": "2021-12-29",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20020106.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000197",
+      "assetRaw": "Roblox Corporation Class A (RBlX) [OP]",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 250001,
+        "hi": 500000
+      },
+      "transactionDate": "2021-12-20",
+      "filedDate": "2021-12-29",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20020106.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000197",
+      "assetRaw": "Salesforce.com Inc",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 500001,
+        "hi": 1000000
+      },
+      "transactionDate": "2021-12-20",
+      "filedDate": "2021-12-29",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20020106.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000197",
+      "assetRaw": "Salesforce.com Inc",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2021-12-20",
+      "filedDate": "2021-12-29",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20020106.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000197",
+      "assetRaw": "Alphabet Inc. - Class C Capital Stock (gOOg) [OP]",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 500001,
+        "hi": 1000000
+      },
+      "transactionDate": "2021-12-17",
+      "filedDate": "2021-12-29",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20020106.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000197",
+      "assetRaw": "Walt Disney Company",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2021-12-17",
+      "filedDate": "2021-12-29",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20020106.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000197",
+      "assetRaw": "NVIDIA Corporation",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 500001,
+        "hi": 1000000
+      },
+      "transactionDate": "2021-07-23",
+      "filedDate": "2021-08-20",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019331.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000197",
+      "assetRaw": "NVIDIA Corporation",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 250001,
+        "hi": 500000
+      },
+      "transactionDate": "2021-07-23",
+      "filedDate": "2021-08-20",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019331.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000197",
+      "assetRaw": "Slack Technologies, Inc. Class A",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 250001,
+        "hi": 500000
+      },
+      "transactionDate": "2021-07-22",
+      "filedDate": "2021-08-20",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019331.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000197",
+      "assetRaw": "REOF XXII, llC [AB]",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 250001,
+        "hi": 500000
+      },
+      "transactionDate": "2021-07-13",
+      "filedDate": "2021-08-20",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019331.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000197",
+      "assetRaw": "Alphabet Inc. - Class A (gOOgl) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1000001,
+        "hi": 5000000
+      },
+      "transactionDate": "2021-06-18",
+      "filedDate": "2021-07-02",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019004.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000197",
+      "assetRaw": "NVIDIA Corporation",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1000001,
+        "hi": 5000000
+      },
+      "transactionDate": "2021-06-03",
+      "filedDate": "2021-07-02",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019004.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000197",
+      "assetRaw": "Amazon.com, Inc.",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 500001,
+        "hi": 1000000
+      },
+      "transactionDate": "2021-05-21",
+      "filedDate": "2021-07-02",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019004.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000197",
+      "assetRaw": "Apple Inc. (AAPl) [OP]",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2021-05-21",
+      "filedDate": "2021-07-02",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019004.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000197",
+      "assetRaw": "Microsoft Corporation",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1000001,
+        "hi": 5000000
+      },
+      "transactionDate": "2021-03-19",
+      "filedDate": "2021-04-09",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20018539.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000197",
+      "assetRaw": "Roblox Corporation [OT]",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 500001,
+        "hi": 1000000
+      },
+      "transactionDate": "2021-03-10",
+      "filedDate": "2021-04-09",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20018539.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000197",
+      "assetRaw": "AllianceBernstein Holding L.P. Units",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 500001,
+        "hi": 1000000
+      },
+      "transactionDate": "2021-02-23",
+      "filedDate": "2021-04-09",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20018539.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000197",
+      "assetRaw": "AllianceBernstein Holding l.P. units",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 500001,
+        "hi": 1000000
+      },
+      "transactionDate": "2021-02-23",
+      "filedDate": "2021-03-09",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20018355.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000197",
+      "assetRaw": "AllianceBernstein Holding L.P. Units",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 500001,
+        "hi": 1000000
+      },
+      "transactionDate": "2021-02-18",
+      "filedDate": "2021-04-09",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20018539.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000197",
+      "assetRaw": "AllianceBernstein Holding l.P. units",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 500001,
+        "hi": 1000000
+      },
+      "transactionDate": "2021-02-18",
+      "filedDate": "2021-03-09",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20018355.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000197",
+      "assetRaw": "AllianceBernstein Holding L.P. Units",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 500001,
+        "hi": 1000000
+      },
+      "transactionDate": "2020-12-22",
+      "filedDate": "2021-04-09",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20018539.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000197",
+      "assetRaw": "AllianceBernstein Holding l.P. units",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 500001,
+        "hi": 1000000
+      },
+      "transactionDate": "2020-12-22",
+      "filedDate": "2021-01-21",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20018011.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000197",
+      "assetRaw": "Apple Inc. (AAPl) [OP]",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 250001,
+        "hi": 500000
+      },
+      "transactionDate": "2020-12-22",
+      "filedDate": "2021-01-21",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20018011.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000197",
+      "assetRaw": "Tesla, Inc. (TSlA) [OP]",
+      "security": {
+        "ticker": "TSLA",
+        "kind": "treasury"
+      },
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 500001,
+        "hi": 1000000
+      },
+      "transactionDate": "2020-12-22",
+      "filedDate": "2021-01-21",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20018011.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000197",
+      "assetRaw": "Walt Disney Company",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 500001,
+        "hi": 1000000
+      },
+      "transactionDate": "2020-12-22",
+      "filedDate": "2021-01-21",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20018011.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000197",
+      "assetRaw": "Apple Inc.",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 500001,
+        "hi": 1000000
+      },
+      "transactionDate": "2020-11-06",
+      "filedDate": "2020-12-10",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20017834.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000197",
+      "assetRaw": "REOF XX, LLC [AB]",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2020-11-05",
+      "filedDate": "2020-12-10",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20017834.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000197",
+      "assetRaw": "CrowdStrike Holdings, Inc. - Class A",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 500001,
+        "hi": 1000000
+      },
+      "transactionDate": "2020-09-03",
+      "filedDate": "2020-10-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20017460.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000197",
+      "assetRaw": "Facebook, Inc. - Class A",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1000001,
+        "hi": 5000000
+      },
+      "transactionDate": "2020-08-07",
+      "filedDate": "2020-09-03",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20017123.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000197",
+      "assetRaw": "American Express Company",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2020-06-24",
+      "filedDate": "2020-07-20",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20016961.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000197",
+      "assetRaw": "PayPal Holdings, Inc. (PYPl) [OP]",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 250001,
+        "hi": 500000
+      },
+      "transactionDate": "2020-06-24",
+      "filedDate": "2020-07-20",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20016961.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000197",
+      "assetRaw": "Apple Inc. (AAPl) [OP]",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1000001,
+        "hi": 5000000
+      },
+      "transactionDate": "2020-06-18",
+      "filedDate": "2020-07-20",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20016961.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000197",
+      "assetRaw": "Netflix, Inc. (NFlX) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1000001,
+        "hi": 5000000
+      },
+      "transactionDate": "2020-06-18",
+      "filedDate": "2020-07-20",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20016961.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000197",
+      "assetRaw": "Salesforce.com Inc",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1000001,
+        "hi": 5000000
+      },
+      "transactionDate": "2020-06-18",
+      "filedDate": "2020-07-20",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20016961.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000197",
+      "assetRaw": "PayPal Holdings, Inc. (PYPl) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 500001,
+        "hi": 1000000
+      },
+      "transactionDate": "2020-06-12",
+      "filedDate": "2020-07-20",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20016961.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000197",
+      "assetRaw": "Facebook, Inc. - Class a",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1000001,
+        "hi": 5000000
+      },
+      "transactionDate": "2020-05-08",
+      "filedDate": "2020-06-09",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20016726.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000197",
+      "assetRaw": "Interactive Brokers group, Inc. - Class a",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2020-05-08",
+      "filedDate": "2020-06-09",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20016726.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000197",
+      "assetRaw": "Morningstar, Inc. (MoRN) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2020-05-08",
+      "filedDate": "2020-06-09",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20016726.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000197",
+      "assetRaw": "Visa Inc.",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 500001,
+        "hi": 1000000
+      },
+      "transactionDate": "2020-05-08",
+      "filedDate": "2020-06-09",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20016726.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000197",
+      "assetRaw": "apple Inc. (aaPl) [ST]",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 500001,
+        "hi": 1000000
+      },
+      "transactionDate": "2020-05-08",
+      "filedDate": "2020-06-09",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20016726.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000197",
+      "assetRaw": "apple Inc. (aaPl) [ST]",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1000001,
+        "hi": 5000000
+      },
+      "transactionDate": "2020-05-08",
+      "filedDate": "2020-06-09",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20016726.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000197",
+      "assetRaw": "REoF XX, llC [aB]",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2020-04-28",
+      "filedDate": "2020-06-09",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20016726.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000197",
+      "assetRaw": "Microsoft Corporation (MsFT) [oP]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2020-02-28",
+      "filedDate": "2020-04-01",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20016340.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000197",
+      "assetRaw": "alphabet Inc. - Class a (googl) [oP]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 500001,
+        "hi": 1000000
+      },
+      "transactionDate": "2020-02-27",
+      "filedDate": "2020-04-01",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20016340.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000197",
+      "assetRaw": "Microsoft Corporation (MsFT) [oP]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 500001,
+        "hi": 1000000
+      },
+      "transactionDate": "2020-02-21",
+      "filedDate": "2020-04-01",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20016340.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000197",
+      "assetRaw": "Microsoft Corporation (MsFT) [oP]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 250001,
+        "hi": 500000
+      },
+      "transactionDate": "2020-02-20",
+      "filedDate": "2020-04-01",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20016340.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000197",
+      "assetRaw": "slack Technologies, Inc. Class a (WoRK) [sT]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 250001,
+        "hi": 500000
+      },
+      "transactionDate": "2020-02-20",
+      "filedDate": "2020-04-01",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20016340.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000197",
+      "assetRaw": "REoF XX, LLC [AB]",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2020-01-21",
+      "filedDate": "2020-03-03",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20016155.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000197",
+      "assetRaw": "Amazon.com, Inc.",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 250001,
+        "hi": 500000
+      },
+      "transactionDate": "2020-01-16",
+      "filedDate": "2020-07-20",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20016961.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000197",
+      "assetRaw": "DEsCRIPTIoN: Exercised 30 call options (3,000 shares) expiring 1/17/20 at a strike price of $140. sPFacebook, Inc. - Class a (FB) [sT]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 250001,
+        "hi": 500000
+      },
+      "transactionDate": "2020-01-16",
+      "filedDate": "2020-02-11",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20015042.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000197",
+      "assetRaw": "amazon.com, Inc. (aMZN) [sT]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1000001,
+        "hi": 5000000
+      },
+      "transactionDate": "2020-01-16",
+      "filedDate": "2020-02-11",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20015042.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000197",
+      "assetRaw": "amazon.com, Inc. (aMZN) [sT]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 250001,
+        "hi": 500000
+      },
+      "transactionDate": "2020-01-16",
+      "filedDate": "2020-02-11",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20015042.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000197",
+      "assetRaw": "REoF XXI, llC [aB]",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 250001,
+        "hi": 500000
+      },
+      "transactionDate": "2019-08-13",
+      "filedDate": "2019-09-18",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20012288.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000197",
+      "assetRaw": "Visa Inc.",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2019-08-07",
+      "filedDate": "2019-09-19",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20012343.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000197",
+      "assetRaw": "Visa Inc.",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2019-08-07",
+      "filedDate": "2019-09-18",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20012288.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000197",
+      "assetRaw": "Amazon.com, Inc. (AMZN) [oP]",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 500001,
+        "hi": 1000000
+      },
+      "transactionDate": "2019-07-22",
+      "filedDate": "2019-08-13",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20012127.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000197",
+      "assetRaw": "Netflix, Inc. (NFLX) [oP]",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2019-07-22",
+      "filedDate": "2019-08-13",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20012127.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000197",
+      "assetRaw": "REoF XX, LLC [AB]",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2019-07-22",
+      "filedDate": "2019-08-13",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20012127.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000197",
+      "assetRaw": "Netflix, Inc. (NFLX) [oP]",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 250001,
+        "hi": 500000
+      },
+      "transactionDate": "2019-07-05",
+      "filedDate": "2019-08-13",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20012127.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000197",
+      "assetRaw": "salesforce.com Inc (CRM) [oP]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2019-06-18",
+      "filedDate": "2019-07-11",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20011965.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000197",
+      "assetRaw": "salesforce.com Inc (CRM) [oP]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2019-06-14",
+      "filedDate": "2019-07-11",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20011965.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000197",
+      "assetRaw": "aT&T Inc. (T) [sT]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 250001,
+        "hi": 500000
+      },
+      "transactionDate": "2018-10-24",
+      "filedDate": "2018-11-08",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20010631.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000197",
+      "assetRaw": "amazon.com, Inc. (aMZN) [sT]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1000001,
+        "hi": 5000000
+      },
+      "transactionDate": "2018-10-12",
+      "filedDate": "2018-11-08",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20010631.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000197",
+      "assetRaw": "DEsCRIPTIoN: Purchased 10,000 shares. sPFacebook, Inc. - Class a (FB) [sT]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2018-10-09",
+      "filedDate": "2018-11-08",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20010631.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000197",
+      "assetRaw": "apple Inc. (aaPl) [sT]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 500001,
+        "hi": 1000000
+      },
+      "transactionDate": "2018-09-20",
+      "filedDate": "2018-10-25",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20010452.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000197",
+      "assetRaw": "apple Inc. (aaPl) [sT]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 500001,
+        "hi": 1000000
+      },
+      "transactionDate": "2018-09-11",
+      "filedDate": "2018-10-25",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20010452.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000197",
+      "assetRaw": "Amazon.com, Inc. (AMZN) [sT]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 500001,
+        "hi": 1000000
+      },
+      "transactionDate": "2018-07-27",
+      "filedDate": "2018-09-06",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20009481.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000197",
+      "assetRaw": "DEsCRIPTIoN: Purchase of 20 call options with a strike price of $1700 and an expiration date of 1/17/20. sPFacebook, Inc. - Class A (FB) [sT]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2018-07-27",
+      "filedDate": "2018-09-06",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20009481.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000197",
+      "assetRaw": "Dropbox, Inc. - Class a (DBX)",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 250001,
+        "hi": 500000
+      },
+      "transactionDate": "2018-03-27",
+      "filedDate": "2018-04-16",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20009293.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000197",
+      "assetRaw": "apple Inc. (aaPl)",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 500001,
+        "hi": 1000000
+      },
+      "transactionDate": "2017-06-15",
+      "filedDate": "2017-07-20",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2017/20007655.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000197",
+      "assetRaw": "(aaPl)s01/20/201701/20/2017$250,001 - $500,000 FIlINg sTaTus: New Class a (sQ)",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2017-01-20",
+      "filedDate": "2017-02-14",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2017/20006735.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000197",
+      "assetRaw": "apple Inc. (aaPl)",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 500001,
+        "hi": 1000000
+      },
+      "transactionDate": "2017-01-19",
+      "filedDate": "2017-02-14",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2017/20006735.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000197",
+      "assetRaw": "JT1600 Atlas Peak Road - Real Estate Investment",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 500001,
+        "hi": 1000000
+      },
+      "transactionDate": "2016-12-30",
+      "filedDate": "2017-02-06",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2017/20006683.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000197",
+      "assetRaw": "Mcgrath RentCorp (MgRC)",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 250001,
+        "hi": 500000
+      },
+      "transactionDate": "2016-07-21",
+      "filedDate": "2016-08-17",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2016/20005689.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000197",
+      "assetRaw": "Visa Inc. (V)",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2016-07-21",
+      "filedDate": "2016-08-17",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2016/20005689.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000197",
+      "assetRaw": "Class a (sQ)",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2016-05-17",
+      "filedDate": "2016-05-24",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2016/20005096.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000197",
+      "assetRaw": "apple Inc. (aaPl)",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2016-05-17",
+      "filedDate": "2016-05-24",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2016/20005096.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000197",
+      "assetRaw": "DEsCRIPTIoN: Purchase of 200 call options with a strike price of $90 and an expiration date of 1/20/17 Walt Disney Company (DIs)",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 500001,
+        "hi": 1000000
+      },
+      "transactionDate": "2016-01-15",
+      "filedDate": "2016-02-17",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2016/20004596.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000197",
+      "assetRaw": "apple Inc. (aaPl)",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 250001,
+        "hi": 500000
+      },
+      "transactionDate": "2016-01-13",
+      "filedDate": "2016-02-17",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2016/20004596.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000197",
+      "assetRaw": "Salesforce.com Inc (CRM)",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2015-12-30",
+      "filedDate": "2016-02-02",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2016/20004503.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000197",
+      "assetRaw": "Visa Inc. (V)",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2015-12-30",
+      "filedDate": "2016-02-02",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2016/20004503.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000197",
+      "assetRaw": "Visa Inc. (V)",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 250001,
+        "hi": 500000
+      },
+      "transactionDate": "2015-12-29",
+      "filedDate": "2016-02-02",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2016/20004503.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000197",
+      "assetRaw": "DEsCRIPTIoN: Purchase of 42 call options with a strike price of $14 and an expiration date of 1/15/16 Hertz global Holdings, Inc (HTZ)",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2015-07-16",
+      "filedDate": "2015-07-28",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2015/20003475.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000197",
+      "assetRaw": "Hertz global Holdings, Inc (HTZ)",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2015-07-15",
+      "filedDate": "2015-07-28",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2015/20003475.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000197",
+      "assetRaw": "DEsCRIPTIoN: Purchase of 100 call options with a strike price of $22 and an expiration date of 1/15/16 2000006116Walt Disney Company (DIs)",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2014-12-10",
+      "filedDate": "2015-07-07",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2015/20003320.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000197",
+      "assetRaw": "Visa Inc. (V)s12/29/201412/29/2014$250,001 - $500,000 FIlINg sTaTus: New (V)",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2014-12-10",
+      "filedDate": "2015-01-12",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2015/20002351.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000197",
+      "assetRaw": "DEsCRIPTIoN: Purchase of 150 call options with a strike price of $22 and an expiration date of 1/15/16 2000005581Hertz global Holdings, Inc (HTZ)",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2014-11-28",
+      "filedDate": "2015-07-07",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2015/20003320.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000197",
+      "assetRaw": "DEsCRIPTIoN: Purchase of 92 call options with a strike price of $90 and an expiration date of 1/15/16 2000005580Walt Disney Company (DIs)",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2014-11-28",
+      "filedDate": "2015-07-07",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2015/20003320.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000197",
+      "assetRaw": "DEsCRIPTION: Purchase of 100 Options Walt Disney Company (DIs)",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2014-11-28",
+      "filedDate": "2014-12-17",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2014/20002236.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000197",
+      "assetRaw": "DEsCRIPTION: Purchase of 200 Options Hertz global Holdings, Inc (HTZ)",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2014-11-28",
+      "filedDate": "2014-12-17",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2014/20002236.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000197",
+      "assetRaw": "DEsCRIPTIoN: Purchase of 50 call options with a strike price of $22 and an expiration date of 1/15/16 2000005579Hertz global Holdings, Inc (HTZ)",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2014-11-25",
+      "filedDate": "2015-07-07",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2015/20003320.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000197",
+      "assetRaw": "DEsCRIPTION: Purchase of 150 Options Hertz global Holdings, Inc (HTZ)",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2014-11-25",
+      "filedDate": "2014-12-17",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2014/20002236.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000197",
+      "assetRaw": "sPalcoa Inc. (aa)s10/23/201410/23/2014$15,001 - $50,000 FIlINg sTaTus: New sPBlucora, Inc. (BCoR)s10/23/201410/23/2014$1,001 - $15,000 FIlINg sTaTus: New sPBroadcom Corporation - Class a (BRCM)s10/23/201410/23/2014$1,001 - $15,000 FIlINg sTaTus: New sPDow Chemical Company (DoW)s10/23/201410/23/2014$15,001 - $50,000 FIlINg sTaTus: New sPEmulex Corporation (ElX)s10/23/201410/23/2014$1,001 - $15,000 FIlINg sTaTus: New sPEntropic Communications, Inc. (ENTR)s10/23/201410/23/2014$1,001 - $15,000 FIlINg sTaTus: New sPMcgrath RentCorp (MgRC)s09/22/201409/22/2014$50,001 - $100,000 FIlINg sTaTus: New DEsCRIPTIoN: Contribution of shares held personally to The Paul & Nancy Pelosi Charitable Foundation via transfer between brokerage accounts. sPRobert Half International Inc. (RHI)s09/22/201409/22/2014$100,001 - $250,000 FIlINg sTaTus: New DEsCRIPTIoN: Contribution of shares held personally to The Paul & Nancy Pelosi Charitable Foundation via transfer between brokerage accounts. sPshutterfly, Inc. (sFlY)s10/23/201410/23/2014$15,001 - $50,000 FIlINg sTaTus: New sPsunEdison, Inc. (suNE)",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2014-10-24",
+      "filedDate": "2014-11-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2014/20001991.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    }
+  ],
+  "series": [
+    {
+      "date": "2014-10-24",
+      "value": 175000.5
+    },
+    {
+      "date": "2014-11-25",
+      "value": 175000.5
+    },
+    {
+      "date": "2014-11-25",
+      "value": 175000.5
+    },
+    {
+      "date": "2014-11-28",
+      "value": 8000.5
+    },
+    {
+      "date": "2014-11-28",
+      "value": 75000.5
+    },
+    {
+      "date": "2014-11-28",
+      "value": 75000.5
+    },
+    {
+      "date": "2014-11-28",
+      "value": 8000.5
+    },
+    {
+      "date": "2014-12-10",
+      "value": 75000.5
+    },
+    {
+      "date": "2014-12-10",
+      "value": 75000.5
+    },
+    {
+      "date": "2015-07-15",
+      "value": 32500.5
+    },
+    {
+      "date": "2015-07-16",
+      "value": 175000.5
+    },
+    {
+      "date": "2015-12-29",
+      "value": 375000.5
+    },
+    {
+      "date": "2015-12-30",
+      "value": 75000.5
+    },
+    {
+      "date": "2015-12-30",
+      "value": 175000.5
+    },
+    {
+      "date": "2016-01-13",
+      "value": 375000.5
+    },
+    {
+      "date": "2016-01-15",
+      "value": 750000.5
+    },
+    {
+      "date": "2016-05-17",
+      "value": 8000.5
+    },
+    {
+      "date": "2016-05-17",
+      "value": 175000.5
+    },
+    {
+      "date": "2016-07-21",
+      "value": 375000.5
+    },
+    {
+      "date": "2016-07-21",
+      "value": 75000.5
+    },
+    {
+      "date": "2016-12-30",
+      "value": 750000.5
+    },
+    {
+      "date": "2017-01-19",
+      "value": 750000.5
+    },
+    {
+      "date": "2017-01-20",
+      "value": 32500.5
+    },
+    {
+      "date": "2017-06-15",
+      "value": 750000.5
+    },
+    {
+      "date": "2018-03-27",
+      "value": 375000.5
+    },
+    {
+      "date": "2018-07-27",
+      "value": 750000.5
+    },
+    {
+      "date": "2018-07-27",
+      "value": 75000.5
+    },
+    {
+      "date": "2018-09-11",
+      "value": 750000.5
+    },
+    {
+      "date": "2018-09-20",
+      "value": 750000.5
+    },
+    {
+      "date": "2018-10-09",
+      "value": 175000.5
+    },
+    {
+      "date": "2018-10-12",
+      "value": 3000000.5
+    },
+    {
+      "date": "2018-10-24",
+      "value": 375000.5
+    },
+    {
+      "date": "2019-06-14",
+      "value": 75000.5
+    },
+    {
+      "date": "2019-06-18",
+      "value": 175000.5
+    },
+    {
+      "date": "2019-07-05",
+      "value": 375000.5
+    },
+    {
+      "date": "2019-07-22",
+      "value": 750000.5
+    },
+    {
+      "date": "2019-07-22",
+      "value": 175000.5
+    },
+    {
+      "date": "2019-07-22",
+      "value": 175000.5
+    },
+    {
+      "date": "2019-08-07",
+      "value": 175000.5
+    },
+    {
+      "date": "2019-08-07",
+      "value": 175000.5
+    },
+    {
+      "date": "2019-08-13",
+      "value": 375000.5
+    },
+    {
+      "date": "2020-01-16",
+      "value": 375000.5
+    },
+    {
+      "date": "2020-01-16",
+      "value": 375000.5
+    },
+    {
+      "date": "2020-01-16",
+      "value": 3000000.5
+    },
+    {
+      "date": "2020-01-16",
+      "value": 375000.5
+    },
+    {
+      "date": "2020-01-21",
+      "value": 75000.5
+    },
+    {
+      "date": "2020-02-20",
+      "value": 375000.5
+    },
+    {
+      "date": "2020-02-20",
+      "value": 375000.5
+    },
+    {
+      "date": "2020-02-21",
+      "value": 750000.5
+    },
+    {
+      "date": "2020-02-27",
+      "value": 750000.5
+    },
+    {
+      "date": "2020-02-28",
+      "value": 175000.5
+    },
+    {
+      "date": "2020-04-28",
+      "value": 32500.5
+    },
+    {
+      "date": "2020-05-08",
+      "value": 3000000.5
+    },
+    {
+      "date": "2020-05-08",
+      "value": 175000.5
+    },
+    {
+      "date": "2020-05-08",
+      "value": 175000.5
+    },
+    {
+      "date": "2020-05-08",
+      "value": 750000.5
+    },
+    {
+      "date": "2020-05-08",
+      "value": 750000.5
+    },
+    {
+      "date": "2020-05-08",
+      "value": 3000000.5
+    },
+    {
+      "date": "2020-06-12",
+      "value": 750000.5
+    },
+    {
+      "date": "2020-06-18",
+      "value": 3000000.5
+    },
+    {
+      "date": "2020-06-18",
+      "value": 3000000.5
+    },
+    {
+      "date": "2020-06-18",
+      "value": 3000000.5
+    },
+    {
+      "date": "2020-06-24",
+      "value": 175000.5
+    },
+    {
+      "date": "2020-06-24",
+      "value": 375000.5
+    },
+    {
+      "date": "2020-08-07",
+      "value": 3000000.5
+    },
+    {
+      "date": "2020-09-03",
+      "value": 750000.5
+    },
+    {
+      "date": "2020-11-05",
+      "value": 32500.5
+    },
+    {
+      "date": "2020-11-06",
+      "value": 750000.5
+    },
+    {
+      "date": "2020-12-22",
+      "value": 750000.5
+    },
+    {
+      "date": "2020-12-22",
+      "value": 750000.5
+    },
+    {
+      "date": "2020-12-22",
+      "value": 375000.5
+    },
+    {
+      "date": "2020-12-22",
+      "value": 750000.5
+    },
+    {
+      "date": "2020-12-22",
+      "value": 750000.5
+    },
+    {
+      "date": "2021-02-18",
+      "value": 750000.5
+    },
+    {
+      "date": "2021-02-18",
+      "value": 750000.5
+    },
+    {
+      "date": "2021-02-23",
+      "value": 750000.5
+    },
+    {
+      "date": "2021-02-23",
+      "value": 750000.5
+    },
+    {
+      "date": "2021-03-10",
+      "value": 750000.5
+    },
+    {
+      "date": "2021-03-19",
+      "value": 3000000.5
+    },
+    {
+      "date": "2021-05-21",
+      "value": 750000.5
+    },
+    {
+      "date": "2021-05-21",
+      "value": 175000.5
+    },
+    {
+      "date": "2021-06-03",
+      "value": 3000000.5
+    },
+    {
+      "date": "2021-06-18",
+      "value": 3000000.5
+    },
+    {
+      "date": "2021-07-13",
+      "value": 375000.5
+    },
+    {
+      "date": "2021-07-22",
+      "value": 375000.5
+    },
+    {
+      "date": "2021-07-23",
+      "value": 750000.5
+    },
+    {
+      "date": "2021-07-23",
+      "value": 375000.5
+    },
+    {
+      "date": "2021-12-17",
+      "value": 750000.5
+    },
+    {
+      "date": "2021-12-17",
+      "value": 175000.5
+    },
+    {
+      "date": "2021-12-20",
+      "value": 375000.5
+    },
+    {
+      "date": "2021-12-20",
+      "value": 750000.5
+    },
+    {
+      "date": "2021-12-20",
+      "value": 175000.5
+    },
+    {
+      "date": "2021-12-21",
+      "value": 375000.5
+    },
+    {
+      "date": "2021-12-22",
+      "value": 75000.5
+    },
+    {
+      "date": "2021-12-30",
+      "value": 750000.5
+    },
+    {
+      "date": "2022-01-21",
+      "value": 375000.5
+    },
+    {
+      "date": "2022-01-21",
+      "value": 375000.5
+    },
+    {
+      "date": "2022-01-21",
+      "value": 3000000.5
+    },
+    {
+      "date": "2022-01-21",
+      "value": 3000000.5
+    },
+    {
+      "date": "2022-01-21",
+      "value": 750000.5
+    },
+    {
+      "date": "2022-01-21",
+      "value": 750000.5
+    },
+    {
+      "date": "2022-01-21",
+      "value": 3000000.5
+    },
+    {
+      "date": "2022-01-21",
+      "value": 3000000.5
+    },
+    {
+      "date": "2022-01-27",
+      "value": 375000.5
+    },
+    {
+      "date": "2022-01-27",
+      "value": 375000.5
+    },
+    {
+      "date": "2022-03-17",
+      "value": 3000000.5
+    },
+    {
+      "date": "2022-05-13",
+      "value": 750000.5
+    },
+    {
+      "date": "2022-05-24",
+      "value": 375000.5
+    },
+    {
+      "date": "2022-05-24",
+      "value": 75000.5
+    },
+    {
+      "date": "2022-05-24",
+      "value": 375000.5
+    },
+    {
+      "date": "2022-06-17",
+      "value": 175000.5
+    },
+    {
+      "date": "2022-06-17",
+      "value": 3000000.5
+    },
+    {
+      "date": "2022-06-21",
+      "value": 3000000.5
+    },
+    {
+      "date": "2022-07-26",
+      "value": 3000000.5
+    },
+    {
+      "date": "2022-08-24",
+      "value": 32500.5
+    },
+    {
+      "date": "2022-09-16",
+      "value": 3000000.5
+    },
+    {
+      "date": "2022-09-16",
+      "value": 32500.5
+    },
+    {
+      "date": "2022-09-16",
+      "value": 175000.5
+    },
+    {
+      "date": "2022-11-08",
+      "value": 3000000.5
+    },
+    {
+      "date": "2022-12-20",
+      "value": 750000.5
+    },
+    {
+      "date": "2022-12-20",
+      "value": 750000.5
+    },
+    {
+      "date": "2022-12-21",
+      "value": 750000.5
+    },
+    {
+      "date": "2022-12-21",
+      "value": 375000.5
+    },
+    {
+      "date": "2022-12-21",
+      "value": 750000.5
+    },
+    {
+      "date": "2022-12-27",
+      "value": 32500.5
+    },
+    {
+      "date": "2022-12-28",
+      "value": 750000.5
+    },
+    {
+      "date": "2022-12-28",
+      "value": 750000.5
+    },
+    {
+      "date": "2022-12-28",
+      "value": 375000.5
+    },
+    {
+      "date": "2022-12-28",
+      "value": 175000.5
+    },
+    {
+      "date": "2022-12-29",
+      "value": 375000.5
+    },
+    {
+      "date": "2022-12-30",
+      "value": 375000.5
+    },
+    {
+      "date": "2023-03-09",
+      "value": 750000.5
+    },
+    {
+      "date": "2023-03-17",
+      "value": 750000.5
+    },
+    {
+      "date": "2023-05-08",
+      "value": 750000.5
+    },
+    {
+      "date": "2023-06-15",
+      "value": 375000.5
+    },
+    {
+      "date": "2023-06-15",
+      "value": 750000.5
+    },
+    {
+      "date": "2023-11-22",
+      "value": 3000000.5
+    },
+    {
+      "date": "2024-02-12",
+      "value": 750000.5
+    },
+    {
+      "date": "2024-02-21",
+      "value": 175000.5
+    },
+    {
+      "date": "2024-03-04",
+      "value": 3000000.5
+    },
+    {
+      "date": "2024-06-24",
+      "value": 3000000.5
+    },
+    {
+      "date": "2024-06-24",
+      "value": 375000.5
+    },
+    {
+      "date": "2024-06-26",
+      "value": 3000000.5
+    },
+    {
+      "date": "2024-07-01",
+      "value": 750000.5
+    },
+    {
+      "date": "2024-07-26",
+      "value": 3000000.5
+    },
+    {
+      "date": "2024-07-26",
+      "value": 3000000.5
+    },
+    {
+      "date": "2024-08-13",
+      "value": 375000.5
+    },
+    {
+      "date": "2024-12-20",
+      "value": 750000.5
+    },
+    {
+      "date": "2024-12-20",
+      "value": 3000000.5
+    },
+    {
+      "date": "2024-12-31",
+      "value": 15000000.5
+    },
+    {
+      "date": "2024-12-31",
+      "value": 3000000.5
+    },
+    {
+      "date": "2025-01-14",
+      "value": 375000.5
+    },
+    {
+      "date": "2025-01-14",
+      "value": 375000.5
+    },
+    {
+      "date": "2025-01-14",
+      "value": 375000.5
+    },
+    {
+      "date": "2025-01-14",
+      "value": 75000.5
+    },
+    {
+      "date": "2025-01-14",
+      "value": 750000.5
+    },
+    {
+      "date": "2025-06-20",
+      "value": 3000000.5
+    },
+    {
+      "date": "2025-06-20",
+      "value": 32500.5
+    },
+    {
+      "date": "2025-10-22",
+      "value": 175000.5
+    },
+    {
+      "date": "2025-12-24",
+      "value": 3000000.5
+    },
+    {
+      "date": "2025-12-24",
+      "value": 15000000.5
+    },
+    {
+      "date": "2025-12-24",
+      "value": 3000000.5
+    },
+    {
+      "date": "2025-12-30",
+      "value": 375000.5
+    },
+    {
+      "date": "2025-12-30",
+      "value": 3000000.5
+    },
+    {
+      "date": "2025-12-30",
+      "value": 175000.5
+    },
+    {
+      "date": "2025-12-30",
+      "value": 375000.5
+    },
+    {
+      "date": "2025-12-30",
+      "value": 15000000.5
+    },
+    {
+      "date": "2025-12-30",
+      "value": 175000.5
+    },
+    {
+      "date": "2025-12-30",
+      "value": 375000.5
+    },
+    {
+      "date": "2025-12-30",
+      "value": 3000000.5
+    },
+    {
+      "date": "2026-01-16",
+      "value": 3000000.5
+    },
+    {
+      "date": "2026-01-16",
+      "value": 750000.5
+    },
+    {
+      "date": "2026-01-16",
+      "value": 750000.5
+    },
+    {
+      "date": "2026-01-16",
+      "value": 375000.5
+    },
+    {
+      "date": "2026-01-16",
+      "value": 50001
+    },
+    {
+      "date": "2026-01-16",
+      "value": 175000.5
+    },
+    {
+      "date": "2026-05-29",
+      "value": 3000000.5
+    },
+    {
+      "date": "2026-05-29",
+      "value": 750000.5
+    }
+  ],
+  "measured": {
+    "return": 158.2,
+    "excess": 71.4,
+    "method": "midpoint",
+    "benchmark": "SPY",
+    "window": "disclosed buys 2014-10-24 to 2026-01-16, since-trade, midpoint-weighted",
+    "asOf": "2026-07-29",
+    "note": "Estimate: position sizes are disclosed-range midpoints, never exact amounts. 50 unpriceable position(s) excluded (options or no resolvable price)."
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "member": {
+    "bioguideId": "H001104",
+    "lisId": "S438",
+    "name": "Jon Husted",
+    "party": "R",
+    "chamber": "senate",
+    "state": "OH",
+    "active": true
+  },
+  "positions": [],
+  "trades": [
+    {
+      "memberId": "H001104",
+      "assetRaw": "Series A-3 preferred stock",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-05-06",
+      "filedDate": "2025-06-03",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/b2cccee8-9ee6-4059-913b-ad68b28b6afb/",
+      "late": false,
+      "provenance": "both"
+    }
+  ],
+  "series": [
+    {
+      "date": "2025-05-06",
+      "value": 8000.5
+    }
+  ],
+  "measured": null
+}

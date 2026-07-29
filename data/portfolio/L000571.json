@@ -1,0 +1,144 @@
+{
+  "member": {
+    "bioguideId": "L000571",
+    "lisId": "S410",
+    "name": "Cynthia Lummis",
+    "party": "R",
+    "chamber": "senate",
+    "state": "WY",
+    "active": true,
+    "note": "Sponsors the Senate BITCOIN Act; ~5 BTC in a blind trust since 2021."
+  },
+  "positions": [
+    {
+      "memberId": "L000571",
+      "security": {
+        "ticker": "BTC",
+        "kind": "direct"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "status": "stale",
+      "asOf": "2021-08-16",
+      "extraction": "efd-html",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://efdsearch.senate.gov/search/view/ptr/1124fac7-7277-4328-8740-fbaceeaac1b5/"
+        }
+      ]
+    }
+  ],
+  "trades": [
+    {
+      "memberId": "L000571",
+      "assetRaw": "Business Entity",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1000001,
+        "hi": 5000000
+      },
+      "transactionDate": "2025-03-01",
+      "filedDate": "2025-04-25",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/ab543971-f3d5-447f-8dcf-ebe81ee1b908/",
+      "late": true,
+      "provenance": "both"
+    },
+    {
+      "memberId": "L000571",
+      "assetRaw": "Business Entity\n                                        \n                                        \n                                        \n                                            \n                                                \n                                                    Company: Lummis Livestock Company LLC\n                                                    \n                                                         (Cheyenne, Wyoming)\n                                                    \n                                                \n                                            \n\n                                            \n                                                Description: Runs steers and sells grass fed cattle.",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1000001,
+        "hi": 5000000
+      },
+      "transactionDate": "2025-03-01",
+      "filedDate": "2025-04-25",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/ab543971-f3d5-447f-8dcf-ebe81ee1b908/",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "L000571",
+      "assetRaw": "Business Entity \n                                        \n                                        \n                                        \n                                            \n                                                \n                                                    Company: Arp & Hammond Hardware Company\n                                                    \n                                                         (Cheyenne, Wyoming)\n                                                    \n                                                \n                                            \n\n                                            \n                                                Description: Real Estate",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1000001,
+        "hi": 5000000
+      },
+      "transactionDate": "2025-03-01",
+      "filedDate": "2025-04-25",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/ab543971-f3d5-447f-8dcf-ebe81ee1b908/",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "L000571",
+      "assetRaw": "Jacobs Engineering Group Inc. Common Stock",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-09-03",
+      "filedDate": "2021-10-07",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/e4053f72-b9ad-4642-a996-f250485f4d33/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "L000571",
+      "assetRaw": "Bitcoin\n                                        \n                                        \n                                            Exchange/Platform: River",
+      "security": {
+        "ticker": "BTC",
+        "kind": "direct"
+      },
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2021-08-16",
+      "filedDate": "2021-10-07",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/1124fac7-7277-4328-8740-fbaceeaac1b5/",
+      "late": true,
+      "provenance": "kadoa"
+    }
+  ],
+  "series": [
+    {
+      "date": "2021-08-16",
+      "value": 75000.5
+    },
+    {
+      "date": "2021-09-03",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-03-01",
+      "value": 3000000.5
+    },
+    {
+      "date": "2025-03-01",
+      "value": 3000000.5
+    },
+    {
+      "date": "2025-03-01",
+      "value": 3000000.5
+    }
+  ],
+  "measured": null
+}

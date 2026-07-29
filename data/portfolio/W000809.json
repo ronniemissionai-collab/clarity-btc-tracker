@@ -1,0 +1,57 @@
+{
+  "member": {
+    "bioguideId": "W000809",
+    "name": "Steve Womack",
+    "party": "R",
+    "chamber": "house",
+    "state": "AR",
+    "district": "AR-03",
+    "active": true
+  },
+  "positions": [],
+  "trades": [
+    {
+      "memberId": "W000809",
+      "assetRaw": "Bentonville Ark School District [GS]",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2022-11-17",
+      "filedDate": "2022-11-29",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20022049.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000809",
+      "assetRaw": "Pulaski Technical College ark [gS]",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2018-06-28",
+      "filedDate": "2018-07-18",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20009915.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    }
+  ],
+  "series": [
+    {
+      "date": "2018-06-28",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-11-17",
+      "value": 32500.5
+    }
+  ],
+  "measured": null
+}

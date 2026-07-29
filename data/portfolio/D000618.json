@@ -1,0 +1,57 @@
+{
+  "member": {
+    "bioguideId": "D000618",
+    "lisId": "S375",
+    "name": "Steve Daines",
+    "party": "R",
+    "chamber": "senate",
+    "state": "MT",
+    "active": true
+  },
+  "positions": [],
+  "trades": [
+    {
+      "memberId": "D000618",
+      "assetRaw": "Bridger Technologies, Inc.",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2017-06-02",
+      "filedDate": "2018-06-15",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/f78374ac-8a55-4e51-bf19-3ccc27a88c4e/",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000618",
+      "assetRaw": "Bridger Technologies, Inc.",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2016-06-02",
+      "filedDate": "2017-06-01",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/dd115181-bd68-40b7-bacc-2eb1269da846/",
+      "late": false,
+      "provenance": "kadoa"
+    }
+  ],
+  "series": [
+    {
+      "date": "2016-06-02",
+      "value": 32500.5
+    },
+    {
+      "date": "2017-06-02",
+      "value": 32500.5
+    }
+  ],
+  "measured": null
+}

@@ -1,0 +1,411 @@
+{
+  "member": {
+    "bioguideId": "J000294",
+    "name": "Hakeem S. Jeffries",
+    "party": "D",
+    "chamber": "house",
+    "state": "NY",
+    "district": "NY-08",
+    "active": true
+  },
+  "positions": [
+    {
+      "memberId": "J000294",
+      "security": {
+        "ticker": "GOVT",
+        "kind": "other"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "stale",
+      "asOf": "2017-08-15",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2017/20007933.pdf"
+        }
+      ]
+    },
+    {
+      "memberId": "J000294",
+      "security": {
+        "ticker": "VEA",
+        "kind": "other"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "stale",
+      "asOf": "2017-08-15",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2017/20007933.pdf"
+        }
+      ]
+    }
+  ],
+  "trades": [
+    {
+      "memberId": "J000294",
+      "assetRaw": "SPblackRock Lifepath Index 2035 K Fund [OT]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-05-17",
+      "filedDate": "2021-05-30",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20018793.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "J000294",
+      "assetRaw": "Millennium Trust Company Traditional IRA [OT]",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-05-04",
+      "filedDate": "2021-05-30",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20018793.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "J000294",
+      "assetRaw": "VEA [OT]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-04-19",
+      "filedDate": "2021-04-25",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20018630.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "J000294",
+      "assetRaw": "SCHD [OT]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2021-04-12",
+      "filedDate": "2021-04-16",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20018596.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "J000294",
+      "assetRaw": "LARCX [OT]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-03-30",
+      "filedDate": "2021-04-10",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20018554.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "J000294",
+      "assetRaw": "REgL [OT]",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-03-15",
+      "filedDate": "2021-04-10",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20018555.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "J000294",
+      "assetRaw": "ap 400 Dividend Aristocrats ETF (REgL) [OT]",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2020-11-25",
+      "filedDate": "2020-12-26",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20017915.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "J000294",
+      "assetRaw": "SPDR S&P Dividend ETF",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2019-02-12",
+      "filedDate": "2019-03-16",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20011302.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "J000294",
+      "assetRaw": "Lord abbett Floating Rate Fund Class C [oT]",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2018-12-24",
+      "filedDate": "2019-01-25",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20011058.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "J000294",
+      "assetRaw": "Lord abbett Floating Rate Fund Class C [oT]",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2018-08-30",
+      "filedDate": "2018-09-29",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20010378.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "J000294",
+      "assetRaw": "ap 400 Dividend aristocrats ETF (REgL) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "joint",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2018-08-23",
+      "filedDate": "2018-09-19",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20010333.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "J000294",
+      "assetRaw": "Vanguard Real Estate ETF",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2018-08-21",
+      "filedDate": "2018-09-19",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20010333.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "J000294",
+      "assetRaw": "Russell Lifepoint Balanced Strategy Fund Class C (Northwestern Mutual) [oT]",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2018-06-15",
+      "filedDate": "2018-07-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20009838.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "J000294",
+      "assetRaw": "ISHARES Core S&P u.S. Growth ETF (IuSG)",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-08-15",
+      "filedDate": "2017-09-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2017/20007933.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "J000294",
+      "assetRaw": "Merrill Edge Guided Investing Traditional IRA ISHARES u.S. Treasury bond ETF (GOVT)",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-08-15",
+      "filedDate": "2017-09-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2017/20007933.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "J000294",
+      "assetRaw": "Merrill Edge Guided Investing Traditional IRA Vanguard FTSE developed Markets ETF (VEA)",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-08-15",
+      "filedDate": "2017-09-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2017/20007933.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "J000294",
+      "assetRaw": "Merrill Edge Guided Investing Traditional IRA lOCATION: uS ISHARES Core S&P u.S. Value ETF (IuSV)",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-08-15",
+      "filedDate": "2017-09-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2017/20007933.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "J000294",
+      "assetRaw": "Merrill Edge Guided Investing Traditional IRA lOCATION: uS ISHARES IbOXX $ Invt Grade Corp bond (lQd)",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-08-15",
+      "filedDate": "2017-09-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2017/20007933.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    }
+  ],
+  "series": [
+    {
+      "date": "2017-08-15",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-08-15",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-08-15",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-08-15",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-08-15",
+      "value": 8000.5
+    },
+    {
+      "date": "2018-06-15",
+      "value": 8000.5
+    },
+    {
+      "date": "2018-08-21",
+      "value": 32500.5
+    },
+    {
+      "date": "2018-08-23",
+      "value": 32500.5
+    },
+    {
+      "date": "2018-08-30",
+      "value": 8000.5
+    },
+    {
+      "date": "2018-12-24",
+      "value": 75000.5
+    },
+    {
+      "date": "2019-02-12",
+      "value": 8000.5
+    },
+    {
+      "date": "2020-11-25",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-03-15",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-03-30",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-04-12",
+      "value": 32500.5
+    },
+    {
+      "date": "2021-04-19",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-05-04",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-05-17",
+      "value": 8000.5
+    }
+  ],
+  "measured": null
+}

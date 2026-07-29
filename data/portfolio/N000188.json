@@ -1,0 +1,37 @@
+{
+  "member": {
+    "bioguideId": "N000188",
+    "name": "Donald Norcross",
+    "party": "D",
+    "chamber": "house",
+    "state": "NJ",
+    "district": "NJ-01",
+    "active": true
+  },
+  "positions": [],
+  "trades": [
+    {
+      "memberId": "N000188",
+      "assetRaw": "Toronto Dominion Bank",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2024-06-04",
+      "filedDate": "2025-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030894.pdf",
+      "late": true,
+      "note": "Sale of stock that was an asset of the Donald W. Norcross IRA account. The proceeds of the sale remain invested in the IRA account.",
+      "provenance": "kadoa"
+    }
+  ],
+  "series": [
+    {
+      "date": "2024-06-04",
+      "value": 32500.5
+    }
+  ],
+  "measured": null
+}

@@ -1,0 +1,55 @@
+{
+  "member": {
+    "bioguideId": "D000616",
+    "name": "Scott DesJarlais",
+    "party": "R",
+    "chamber": "house",
+    "state": "TN",
+    "district": "TN-04",
+    "active": true
+  },
+  "positions": [],
+  "trades": [
+    {
+      "memberId": "D000616",
+      "assetRaw": "Pepsico, Inc.",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-10-28",
+      "filedDate": "2025-11-18",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20033490.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000616",
+      "assetRaw": "United Parcel Service, Inc. Common Stock",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2025-10-28",
+      "filedDate": "2025-11-18",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20033490.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    }
+  ],
+  "series": [
+    {
+      "date": "2025-10-28",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-10-28",
+      "value": 32500.5
+    }
+  ],
+  "measured": null
+}

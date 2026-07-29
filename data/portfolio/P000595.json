@@ -1,0 +1,3503 @@
+{
+  "member": {
+    "bioguideId": "P000595",
+    "lisId": "S380",
+    "name": "Gary C. Peters",
+    "party": "D",
+    "chamber": "senate",
+    "state": "MI",
+    "active": true
+  },
+  "positions": [
+    {
+      "memberId": "P000595",
+      "security": {
+        "ticker": "NASDAQ",
+        "kind": "other"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "sold",
+      "asOf": "2015-04-14",
+      "extraction": "efd-html",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://efdsearch.senate.gov/search/view/ptr/1b750f03-1ac9-47b7-956f-fb0dc85ca537/"
+        }
+      ]
+    },
+    {
+      "memberId": "P000595",
+      "security": {
+        "ticker": "NYSE",
+        "kind": "other"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 11011,
+        "hi": 165000
+      },
+      "status": "stale",
+      "asOf": "2015-09-16",
+      "extraction": "efd-html",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://efdsearch.senate.gov/search/view/ptr/1b750f03-1ac9-47b7-956f-fb0dc85ca537/"
+        },
+        {
+          "kind": "filing",
+          "url": "https://efdsearch.senate.gov/search/view/ptr/e9b7f418-c705-4011-b401-ff5a5c971d64/"
+        },
+        {
+          "kind": "filing",
+          "url": "https://efdsearch.senate.gov/search/view/ptr/4c71b757-583d-4861-91cb-955782db8ea0/"
+        },
+        {
+          "kind": "filing",
+          "url": "https://efdsearch.senate.gov/search/view/ptr/6920d173-4f47-4772-bbe9-60a0dfd24616/"
+        }
+      ]
+    },
+    {
+      "memberId": "P000595",
+      "security": {
+        "ticker": "Q-SBLF",
+        "kind": "other"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 2002,
+        "hi": 30000
+      },
+      "status": "stale",
+      "asOf": "2018-05-23",
+      "extraction": "efd-html",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://efdsearch.senate.gov/search/view/ptr/c1e6a933-cca3-4eec-addb-36e36ef6b4c8/"
+        },
+        {
+          "kind": "filing",
+          "url": "https://efdsearch.senate.gov/search/view/ptr/12127bd4-50d9-49b6-a294-bd79ebe9adac/"
+        }
+      ]
+    }
+  ],
+  "trades": [
+    {
+      "memberId": "P000595",
+      "assetRaw": "AT&T Inc.",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-06-29",
+      "filedDate": "2026-07-02",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/40fbe259-f282-4982-a53f-1c7278d041cd/",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "P000595",
+      "assetRaw": "The Kraft Heinz Company - Common Stock",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-05-21",
+      "filedDate": "2026-06-11",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/be9bb561-8290-4364-85b4-06a59ef0ec01/",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "P000595",
+      "assetRaw": "Corteva, Inc. Common Stock",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2026-04-23",
+      "filedDate": "2026-05-11",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/969f5bc0-89d8-4c76-a55e-944fb03aff0d/",
+      "late": false,
+      "note": "full sale",
+      "provenance": "both"
+    },
+    {
+      "memberId": "P000595",
+      "assetRaw": "PEP - PepsiCo, Inc. - Common Stock",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2026-04-23",
+      "filedDate": "2026-05-11",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/969f5bc0-89d8-4c76-a55e-944fb03aff0d/",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "P000595",
+      "assetRaw": "SJM - The J.M. Smucker Company Common Stock",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-04-23",
+      "filedDate": "2026-05-11",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/969f5bc0-89d8-4c76-a55e-944fb03aff0d/",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "P000595",
+      "assetRaw": "Stanley Black & Decker Inc",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2026-01-12",
+      "filedDate": "2026-01-20",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/5dfd6dd1-5c2f-4398-984b-79c88380fc84/",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "P000595",
+      "assetRaw": "W. P. Carey Inc. REIT",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2026-01-12",
+      "filedDate": "2026-01-20",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/5dfd6dd1-5c2f-4398-984b-79c88380fc84/",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "P000595",
+      "assetRaw": "Intel Corp",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2025-12-12",
+      "filedDate": "2026-01-07",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/0dbb004e-a36f-4554-986d-d8b1a9a4769a/",
+      "late": false,
+      "note": "full sale",
+      "provenance": "both"
+    },
+    {
+      "memberId": "P000595",
+      "assetRaw": "Verizon Communications Inc",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-12-12",
+      "filedDate": "2026-01-07",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/0dbb004e-a36f-4554-986d-d8b1a9a4769a/",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "P000595",
+      "assetRaw": "Conagra Brands Inc",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-11-14",
+      "filedDate": "2025-12-04",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/b9164fd3-7f99-4060-8e86-7ad89350cd03/",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "P000595",
+      "assetRaw": "Organon & Co.",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-07-10",
+      "filedDate": "2025-11-24",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/18a1aea6-282e-4152-b3dd-d773e0302c7e/",
+      "late": true,
+      "note": "full sale",
+      "provenance": "both"
+    },
+    {
+      "memberId": "P000595",
+      "assetRaw": "Lamb Weston Holdings Inc",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2024-10-31",
+      "filedDate": "2024-11-14",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/f107eca1-7edb-4f5a-b81e-f4134df3b21b/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000595",
+      "assetRaw": "Leggett & Platt Inc",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2024-10-31",
+      "filedDate": "2024-11-14",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/f107eca1-7edb-4f5a-b81e-f4134df3b21b/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000595",
+      "assetRaw": "Invesco Ltd Common Stock",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2024-10-17",
+      "filedDate": "2024-11-14",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/f107eca1-7edb-4f5a-b81e-f4134df3b21b/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000595",
+      "assetRaw": "CARR - Carrier Global Corp",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2024-07-17",
+      "filedDate": "2024-08-05",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/af3e4dec-0e1e-4833-9620-4f6c61523cfc/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000595",
+      "assetRaw": "Otis Worldwide Corp",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2024-07-17",
+      "filedDate": "2024-08-05",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/af3e4dec-0e1e-4833-9620-4f6c61523cfc/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000595",
+      "assetRaw": "Carnival Corp",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2024-05-14",
+      "filedDate": "2024-05-23",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/1f48b3e2-dafe-4f0a-ab51-32cb30c9337b/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000595",
+      "assetRaw": "International Flavors & Fragrances",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2024-05-14",
+      "filedDate": "2024-05-23",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/1f48b3e2-dafe-4f0a-ab51-32cb30c9337b/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000595",
+      "assetRaw": "Schlumberger N.V.",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2024-05-14",
+      "filedDate": "2024-05-23",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/1f48b3e2-dafe-4f0a-ab51-32cb30c9337b/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000595",
+      "assetRaw": "Solventum Corporation",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2024-05-14",
+      "filedDate": "2024-05-23",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/1f48b3e2-dafe-4f0a-ab51-32cb30c9337b/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000595",
+      "assetRaw": "Dominion Energy Inc",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2023-12-28",
+      "filedDate": "2024-01-25",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/a801ab6e-6491-4775-8318-3ead166fd778/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000595",
+      "assetRaw": "REGIONAL TRANSN DIST COLO CTFS PARTN COPS 2015 A DUE 06/01/2031 DATED 08/20/2015\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 3.50% Matures: 06/01/2031",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2023-11-30",
+      "filedDate": "2023-12-21",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/a2ae668a-789a-45f3-820b-5a90e82636cc/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000595",
+      "assetRaw": "WILL CNTY ILL GO BDS 2016 DUE 11/15/2029 DATED 08/24/2016 4.00% INTEREST\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 4.00% Matures: 11/15/2029",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2023-11-02",
+      "filedDate": "2023-12-01",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/23092692-9a3b-418e-85b9-3b660a52db8c/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000595",
+      "assetRaw": "COOK CNTY ILL CMNTY UNIT SCH DIST NO 401 ELMWOOD PK GO LTD SCH BDS 2019 A DUE 12/01/2034\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 3.375% Matures: 12/01/2034",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2023-07-28",
+      "filedDate": "2023-08-29",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/c6821127-de2d-4e81-ada0-1b26b047a35d/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000595",
+      "assetRaw": "Internationa Flavors & Fragrances, Inc. Common Sto",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2023-06-06",
+      "filedDate": "2023-06-30",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/f1af8e74-b65e-4886-9361-bc13bd413bc8/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000595",
+      "assetRaw": "COMAL CNTY TEX LTD TAX GO BDS 2017 DUE 02/01/2032\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 3.25% Matures: 02/01/2032",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2023-04-27",
+      "filedDate": "2023-05-10",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/06817610-b151-4531-9e35-0eb27b38ff59/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000595",
+      "assetRaw": "COOK CNTY ILL HIGH SCH DIST NO 212 LEYDEN CMNTY GO DEBT CTFS\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 3.00% Matures: 12/01/2029",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2023-04-14",
+      "filedDate": "2023-05-10",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/06817610-b151-4531-9e35-0eb27b38ff59/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000595",
+      "assetRaw": "Realty Income Corporation Common Stock",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2023-03-14",
+      "filedDate": "2023-04-12",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/c72c43d7-f169-4954-ab54-f2b277f943bb/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000595",
+      "assetRaw": "Truist Financial Corporation Common Stock",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2023-03-14",
+      "filedDate": "2023-04-12",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/c72c43d7-f169-4954-ab54-f2b277f943bb/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000595",
+      "assetRaw": "Nucor Corporation Common Stock",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2023-03-13",
+      "filedDate": "2023-04-12",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/c72c43d7-f169-4954-ab54-f2b277f943bb/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000595",
+      "assetRaw": "EL PASO TEX INDPT SCH DIST FOR ISSUES DTD PRIOR TO 07/02/09\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 3.00% Matures: 08/15/2032",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2023-02-09",
+      "filedDate": "2023-02-16",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/6e55b695-3727-4276-9488-e396c11a1bf1/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000595",
+      "assetRaw": "MILWAUKEE WIS GO CORP PURP BDS 2016 B3 DUE 03/01/2033 \n                                        \n                                        \n                                        \n                                            Rate/Coupon: 3.00% Matures: 03/01/2033",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2023-02-03",
+      "filedDate": "2023-02-16",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/6e55b695-3727-4276-9488-e396c11a1bf1/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000595",
+      "assetRaw": "Warner Bros. Discovery, Inc. - Series A Common Sto",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-12-12",
+      "filedDate": "2023-01-10",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/517e976a-8930-4bce-9037-5d93c4cab488/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000595",
+      "assetRaw": "International Business Machines Corporation Common",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-01-03",
+      "filedDate": "2022-01-08",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/0cb6066b-f95a-4585-86e3-6ef83857bb5e/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000595",
+      "assetRaw": "Huntington Bancshares Incorporated - Common Stock",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-12-07",
+      "filedDate": "2022-01-08",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/0cb6066b-f95a-4585-86e3-6ef83857bb5e/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000595",
+      "assetRaw": "ConAgra Brands, Inc. Common Stock",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-11-29",
+      "filedDate": "2021-12-07",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/6799f5d8-9bc8-427f-a33b-24a59bffe182/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000595",
+      "assetRaw": "Corporate Office Properties Trust Common Stock",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-11-29",
+      "filedDate": "2021-12-07",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/6799f5d8-9bc8-427f-a33b-24a59bffe182/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000595",
+      "assetRaw": "VZ",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-11-09",
+      "filedDate": "2021-12-07",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/6799f5d8-9bc8-427f-a33b-24a59bffe182/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000595",
+      "assetRaw": "FS KKR Capital Corp. Common Stock",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-08-27",
+      "filedDate": "2022-05-16",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/185eedae-ceda-4e66-b427-b8924f408b00/",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000595",
+      "assetRaw": "Realty Income Corporation Common Stock",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2021-07-21",
+      "filedDate": "2021-08-03",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/56ff7a1f-ddf5-42cf-9f9d-892e2c483511/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000595",
+      "assetRaw": "FORD MOTOR CRDT CO LLC 02.550% 072026 DTD070121\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 02.550% Matures: 07/02/2026",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2021-07-07",
+      "filedDate": "2021-08-03",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/56ff7a1f-ddf5-42cf-9f9d-892e2c483511/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000595",
+      "assetRaw": "Juniper Networks, Inc.",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-06-07",
+      "filedDate": "2021-07-06",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/742b5ad0-9b33-4970-9285-b4e9e9521d4a/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000595",
+      "assetRaw": "Simon Property Group, Inc.",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-05-25",
+      "filedDate": "2021-07-06",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/742b5ad0-9b33-4970-9285-b4e9e9521d4a/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000595",
+      "assetRaw": "Vanguard Utilities Index Fund ETF Shares",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-04-15",
+      "filedDate": "2021-04-22",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/084b183f-b04b-4d5d-98d4-3c3768a099ab/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000595",
+      "assetRaw": "American Electric Power Company, Inc.",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-01-15",
+      "filedDate": "2021-02-02",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/cf66f482-baa0-409c-abdd-b9cfcbb5fd4e/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000595",
+      "assetRaw": "STAG Industrial, Inc.",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-01-15",
+      "filedDate": "2021-02-02",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/cf66f482-baa0-409c-abdd-b9cfcbb5fd4e/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000595",
+      "assetRaw": "American Electric Power Company, Inc.",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2020-12-14",
+      "filedDate": "2021-01-05",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/e405f3e2-7f99-4124-a457-14dcb85a9532/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000595",
+      "assetRaw": "ALLY FINL INC NTS B/E 02.200% 021525 DTD022120\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 02.200% Matures: 02/15/2025",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2020-02-18",
+      "filedDate": "2020-03-09",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/b9a9074a-6f64-4ff4-bf4e-bf6541ebc1db/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000595",
+      "assetRaw": "BK OF NOVA SCOTIA NTS 02.500% 012927 DTD012920\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 02.500% Matures: 01/29/2027",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2020-01-27",
+      "filedDate": "2020-02-03",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/f062a213-2d1b-4da4-b00a-291bb6a8c1ed/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000595",
+      "assetRaw": "COCA-COLA CO/THE B/E 02.125% 090629 DTD090619\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 02.125% Matures: 09/06/2029",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2020-01-10",
+      "filedDate": "2020-02-03",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/f062a213-2d1b-4da4-b00a-291bb6a8c1ed/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000595",
+      "assetRaw": "KINGS PARK N Y CENT SCH DIST BDS 2019 NEW YORK ST AID INTERCEPT PROG\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 2.00% Matures: 09/01/2033",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2020-01-10",
+      "filedDate": "2020-02-03",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/f062a213-2d1b-4da4-b00a-291bb6a8c1ed/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000595",
+      "assetRaw": "ALEXANDRIA REAL ESTATE E 02.750% 121529 DTD091219\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 02.750% Matures: 12/15/29",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2019-12-19",
+      "filedDate": "2020-01-18",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/20466568-8119-4ec3-9c04-ce7f217934db/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000595",
+      "assetRaw": "DOW CHEMICAL CO/THE B/E 03.000% 121529 DTD121819\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 03.000% Matures: 12/15/29",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2019-12-19",
+      "filedDate": "2020-01-18",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/20466568-8119-4ec3-9c04-ce7f217934db/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000595",
+      "assetRaw": "SIMON PPTY GROUP LP B/E 02.450% 091329 DTD091319\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 02.450% Matures: 09/13/29",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2019-11-19",
+      "filedDate": "2019-12-18",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/3ade0c4c-6fe4-46cc-b318-c88b913aaab1/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000595",
+      "assetRaw": "GEORGIA POWER CO B/E 02.650% 091529 DTD091019\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 02.650% Matures: 09/15/2029",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2019-11-13",
+      "filedDate": "2019-11-21",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/25c4bc94-c83d-4349-a5f5-6cd34744828c/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000595",
+      "assetRaw": "COOK CNTY ILL SCH DIST NO 157 GO REF BDS 2019\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 2.875% Matures: 05/01/2039",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2019-08-21",
+      "filedDate": "2019-09-03",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/f0f9e5f1-9983-4b0f-b1bb-37a6cee7ed7d/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000595",
+      "assetRaw": "BROOKHAVEN GA DEV AUTH REV BDS CHILDRENS HLTHCARE OF ATLANTA 2019 A\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 3.00% Matures: 07/01/2046",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2019-07-29",
+      "filedDate": "2019-09-03",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/f0f9e5f1-9983-4b0f-b1bb-37a6cee7ed7d/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000595",
+      "assetRaw": "VERIZON COMM INC 03.700% 081529 DTD081717\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 03.700% Matures: 08/15/2029",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2019-07-03",
+      "filedDate": "2019-08-01",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/6f3fbbb9-f091-4aa2-915c-a4fc78645aae/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000595",
+      "assetRaw": "CLEVELAND OHIO GO VAR PURP BDS 2019A DUE 12/01/2043\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 3.00% Matures: 12/01/2043",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2019-06-13",
+      "filedDate": "2019-07-02",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/eb3075d2-0697-4113-a05f-086e3d919399/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000595",
+      "assetRaw": "BRIGHTHOUSE FINL INC NTS 03.700% 062227 DTD 122217\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 03.700% Matures: 06/22/2027",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2019-06-06",
+      "filedDate": "2019-07-02",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/eb3075d2-0697-4113-a05f-086e3d919399/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000595",
+      "assetRaw": "VIRGINIA COMWLTH TRANSN BRD TRANSN REV CAP PROJ REV BDS 2016\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 3.00% Matures: 05/15/2040",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2019-05-02",
+      "filedDate": "2019-05-21",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/8fb44b9a-2425-4e09-a9ed-b77ee31ce026/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000595",
+      "assetRaw": "OAK GROVE CALIF SCH DIST GO BDS C \n                                        \n                                        \n                                        \n                                            Rate/Coupon: 3.00% Matures: 08/01/2040",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2019-04-25",
+      "filedDate": "2019-05-21",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/8fb44b9a-2425-4e09-a9ed-b77ee31ce026/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000595",
+      "assetRaw": "TOTAL S.A.",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2019-04-25",
+      "filedDate": "2019-05-21",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/8fb44b9a-2425-4e09-a9ed-b77ee31ce026/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000595",
+      "assetRaw": "The Sherwin-Williams Company",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2019-04-25",
+      "filedDate": "2019-05-21",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/8fb44b9a-2425-4e09-a9ed-b77ee31ce026/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000595",
+      "assetRaw": "LEGGETT & PLATT INC B/E \n                                        \n                                        \n                                        \n                                            Rate/Coupon: 03.500% Matures: 11/15/2027",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2019-04-24",
+      "filedDate": "2019-05-21",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/8fb44b9a-2425-4e09-a9ed-b77ee31ce026/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000595",
+      "assetRaw": "NEXTERA ENERGY CAPITAL 03.500% 040129 DTD040419\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 03.500% Matures: 04/01/2029",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2019-04-17",
+      "filedDate": "2019-04-25",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/6fb6530c-db51-4751-a1ab-7928aeff396d/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000595",
+      "assetRaw": "SANTA CLARA CALIF UNI SCH DIST GO BDS 2019 DUE 07/01/2042\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 3.00% Matures: 07/01/2042",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2019-03-29",
+      "filedDate": "2019-04-25",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/6fb6530c-db51-4751-a1ab-7928aeff396d/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000595",
+      "assetRaw": "AMERICAN INTL GROUP B/E 03.900% 040126 DTD032216\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 03.900% Matures: 04/01/2026",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2019-02-21",
+      "filedDate": "2019-03-15",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/e5ceb5f5-7fdd-4f72-8e7f-ef951dec3ef6/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000595",
+      "assetRaw": "HONOLULU HAWAII CITY & CNTY GO BDS A DUE 10/01/2041\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 3.00% Matures: 10/01/2041",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2019-02-01",
+      "filedDate": "2019-02-19",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/c8f3ddd3-5ed2-4342-9698-690d7c77a082/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000595",
+      "assetRaw": "ANHEUSER-BUSCH INBEV 04.000% 041328 DTD040418\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 04.000% Matures: 04/13/2028",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2019-01-04",
+      "filedDate": "2019-02-01",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/8f5553d1-ee7f-4b3d-b2b6-b03709386920/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000595",
+      "assetRaw": "NUCOR CORP NTS B/E 03.950% 050128 DTD042618\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 03.950% Matures: 05/01/2028",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2019-01-04",
+      "filedDate": "2019-02-01",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/8f5553d1-ee7f-4b3d-b2b6-b03709386920/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000595",
+      "assetRaw": "NEXTERA ENERGY CAPITAL 03.550% 050127 DTD042817\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 03.550% Matures: 05/01/27",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2018-11-16",
+      "filedDate": "2018-12-30",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/5dad514c-3858-42b4-a0a6-42fac20f2238/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000595",
+      "assetRaw": "General Mills, Inc.",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2018-11-09",
+      "filedDate": "2018-11-16",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/bbd1f7c0-aefc-4f68-b5c1-d7fe1310b2c0/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000595",
+      "assetRaw": "MARSH & MCLENNAN COS INC 03.500% 060324 DTD053014\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 03.500% Matures: 06/03/2024",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2018-11-09",
+      "filedDate": "2018-11-16",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/bbd1f7c0-aefc-4f68-b5c1-d7fe1310b2c0/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000595",
+      "assetRaw": "WARRINGTON TWP PA GO BDS 2014 DUE 12/01/2029\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 3.125% Matures: 12/01/2029",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2018-11-09",
+      "filedDate": "2018-11-16",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/bbd1f7c0-aefc-4f68-b5c1-d7fe1310b2c0/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000595",
+      "assetRaw": "AT&T Inc.",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2018-10-30",
+      "filedDate": "2018-11-16",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/bbd1f7c0-aefc-4f68-b5c1-d7fe1310b2c0/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000595",
+      "assetRaw": "General Electric Company",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2018-10-30",
+      "filedDate": "2018-11-16",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/bbd1f7c0-aefc-4f68-b5c1-d7fe1310b2c0/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000595",
+      "assetRaw": "LEXINGTON-FAYETTE URBAN CNTY GOVT KY GO VAR PURP GO BDS 2018A DUE 10/01/2036\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 3.50% Matures: 10/01/2036",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2018-10-24",
+      "filedDate": "2018-11-16",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/bbd1f7c0-aefc-4f68-b5c1-d7fe1310b2c0/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000595",
+      "assetRaw": "MADISON ALA GO SCH WTS 2018 D DUE 02/01/2034\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 3.625% Matures: 02/01/2034",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2018-10-24",
+      "filedDate": "2018-11-16",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/bbd1f7c0-aefc-4f68-b5c1-d7fe1310b2c0/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000595",
+      "assetRaw": "CAPITAL ONE FINANCIAL CO 04.200% 102925 DTD102915\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 04.200% Matures: 10/29/25",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2018-09-27",
+      "filedDate": "2018-10-09",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/0e3cbf76-35b2-4ecb-8f87-d94a185b04d1/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000595",
+      "assetRaw": "LENAWEE CNTY MICH GO LTD TAX BDS 2018 DUE 05/01/2032\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 3.25% Matures: 05/01/2032",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2018-09-24",
+      "filedDate": "2018-10-09",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/0e3cbf76-35b2-4ecb-8f87-d94a185b04d1/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000595",
+      "assetRaw": "HEALTHCARE REALY TR INC 03.875% 050125 DTD042415\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 03.875% Matures: 05/01/2025",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2018-08-22",
+      "filedDate": "2018-09-07",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/c7464613-3777-4c36-8fae-4e18c9680f37/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000595",
+      "assetRaw": "AMARILLO TEX GO BDS2018\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 3.50% Matures: 02/15/2039",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2018-06-27",
+      "filedDate": "2018-07-03",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/12127bd4-50d9-49b6-a294-bd79ebe9adac/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000595",
+      "assetRaw": "HUMANA INC NTS B/E 03.950% 031527 DTD031617\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 03.950% Matures: 03/15/2027",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2018-06-05",
+      "filedDate": "2018-07-03",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/12127bd4-50d9-49b6-a294-bd79ebe9adac/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000595",
+      "assetRaw": "NORDSTROM INC B/E 04.000% 031527 DTD030917\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 04.000% Matures: 03/15/27",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2018-06-05",
+      "filedDate": "2018-07-03",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/12127bd4-50d9-49b6-a294-bd79ebe9adac/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000595",
+      "assetRaw": "GENERAL ELEC CAP CORP 04.050% 021527 DTD022412\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 04.050% Matures: 02/15/27",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2018-05-23",
+      "filedDate": "2018-07-03",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/12127bd4-50d9-49b6-a294-bd79ebe9adac/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000595",
+      "assetRaw": "MASON MICH PUB SCHS DIST SCH BLDG AND SITE BDS 2018-1 MICHIGAN SCHOOL BOND LOAN FUND (Q-SBLF) DUE 05/01/2038\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 3.375% Matures: 05/01/2038",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2018-05-23",
+      "filedDate": "2018-07-03",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/12127bd4-50d9-49b6-a294-bd79ebe9adac/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000595",
+      "assetRaw": "The Sherwin-Williams Company",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2018-05-21",
+      "filedDate": "2018-07-03",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/12127bd4-50d9-49b6-a294-bd79ebe9adac/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000595",
+      "assetRaw": "MEMPHIS TENN GEN IMPT BDS 2018 \n                                        \n                                        \n                                        \n                                            Rate/Coupon: 3.50% Matures: 06/01/2037",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2018-04-30",
+      "filedDate": "2018-05-10",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/70e0b144-88b5-4d6a-a353-5e2e264a6ad7/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000595",
+      "assetRaw": "MILLTOWN NJ GO BDS 2018 A B C\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 3.00% Matures: 05/01/2028",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2018-04-30",
+      "filedDate": "2018-05-10",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/70e0b144-88b5-4d6a-a353-5e2e264a6ad7/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000595",
+      "assetRaw": "CVS Health Corporation",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2018-04-26",
+      "filedDate": "2018-05-10",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/70e0b144-88b5-4d6a-a353-5e2e264a6ad7/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000595",
+      "assetRaw": "GENL MILLS INC NTS B/E 04.000% 041725 DTD041718\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 4.000% Matures: 04/17/2025",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2018-04-26",
+      "filedDate": "2018-05-10",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/70e0b144-88b5-4d6a-a353-5e2e264a6ad7/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000595",
+      "assetRaw": "WP CAREY INC B/E 04.250% 100126 DTD091216\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 4.250% Matures: 10/01/2026",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2018-04-26",
+      "filedDate": "2018-05-10",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/70e0b144-88b5-4d6a-a353-5e2e264a6ad7/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000595",
+      "assetRaw": "GENL MOTORS FINL CO INC 03.500% 110724 DTD110717\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 3.5% Matures: 11/07/24",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2018-04-20",
+      "filedDate": "2018-04-27",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/ba587b09-a5f3-48cf-b464-9bdeb6692241/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000595",
+      "assetRaw": "MARYLAND ST FOR ISSUES DATED PRIOR TO 08/05/11 SEE 574192 GO ST LOCAL FACS LN BDS 2018 A\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 3.125% Matures: 03/15/2033",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2018-03-21",
+      "filedDate": "2018-04-12",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/8e46586d-e3a0-494b-baa5-4931183a6adc/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000595",
+      "assetRaw": "BANK OF AMER CORP 03.248% 102127 DTD102116\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 03.248% Matures: 10/21/2027",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2018-01-17",
+      "filedDate": "2018-01-31",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/83284e95-9d97-4869-9063-92548f2d9d80/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000595",
+      "assetRaw": "GATX CORP B/E 03.500% 031528 DTD110217\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 03.500% Matures: 03/15/2028",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2018-01-17",
+      "filedDate": "2018-01-31",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/83284e95-9d97-4869-9063-92548f2d9d80/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000595",
+      "assetRaw": "DEARBORN MICH \n                                        \n                                        \n                                        \n                                            Rate/Coupon: 3.00% Matures: 04/01/2036",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2018-01-09",
+      "filedDate": "2018-01-31",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/83284e95-9d97-4869-9063-92548f2d9d80/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000595",
+      "assetRaw": "Corporate Office Properties Trust",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2018-01-05",
+      "filedDate": "2018-01-31",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/83284e95-9d97-4869-9063-92548f2d9d80/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000595",
+      "assetRaw": "MICHIGAN FIN AUTH REV FOR ISSUES DTD PRIOR TO 03/31/15 SEE 59447P HOSP REF BDS TRINITY HLTH CREDIT GROUP 2017 A-MI\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 3.125% Matures: 12/01/2035",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2018-01-05",
+      "filedDate": "2018-01-31",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/83284e95-9d97-4869-9063-92548f2d9d80/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000595",
+      "assetRaw": "PACIFIC GAS & ELEC B/E 02.950% 030126 DTD030116 \n                                        \n                                        \n                                        \n                                            Rate/Coupon: 2.950% Matures: 03/01/2026",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2017-11-15",
+      "filedDate": "2017-12-08",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/efb93782-9a75-4cf1-863d-dcf5bd899c65/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000595",
+      "assetRaw": "Ares Capital Corporation",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-11-13",
+      "filedDate": "2017-12-08",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/efb93782-9a75-4cf1-863d-dcf5bd899c65/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000595",
+      "assetRaw": "Mattel, Inc.",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-11-13",
+      "filedDate": "2017-12-08",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/efb93782-9a75-4cf1-863d-dcf5bd899c65/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000595",
+      "assetRaw": "ANDERSON CNTY S C SCH DIST NO 005 RFDG-SER B SOUTH CAROLINA EDUCATION\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 3.00% Matures: 03/01/2027",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-10-31",
+      "filedDate": "2017-11-14",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/6998c521-4892-4eca-a67e-9b76dd030d9f/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000595",
+      "assetRaw": "DISCOVER FINL SVCS NTS \n                                        \n                                        \n                                        \n                                            Rate/Coupon: 3.050% Matures: 09/15/2023",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-09-11",
+      "filedDate": "2017-09-19",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/984c84fa-c389-49cf-995b-75afcefdc5b1/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000595",
+      "assetRaw": "Brighthouse Financial, Inc.",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-08-23",
+      "filedDate": "2017-09-19",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/984c84fa-c389-49cf-995b-75afcefdc5b1/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000595",
+      "assetRaw": "MULTNOMAH CNTY ORE SCH DIST NO 1J PORTLAND PORTLAND PUB SCHS-SER B OREGON SCHOOL BOND GUARANTEE PROG\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 3.00% Matures: 06/15/2037",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-08-23",
+      "filedDate": "2017-09-19",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/984c84fa-c389-49cf-995b-75afcefdc5b1/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000595",
+      "assetRaw": "Ares Capital Corporation",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-06-27",
+      "filedDate": "2017-07-13",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/4e10ef83-13cb-488a-b24e-bd5a77f7d4d0/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000595",
+      "assetRaw": "Medley Capital Corporation",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-06-27",
+      "filedDate": "2017-07-13",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/4e10ef83-13cb-488a-b24e-bd5a77f7d4d0/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000595",
+      "assetRaw": "Versum Materials, Inc.",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-06-27",
+      "filedDate": "2017-07-13",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/4e10ef83-13cb-488a-b24e-bd5a77f7d4d0/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000595",
+      "assetRaw": "Simon Property Group, Inc.",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-06-05",
+      "filedDate": "2017-06-23",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/3255d218-079d-48fa-8adb-e80312374a77/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000595",
+      "assetRaw": "MIAMI-DADE CNTY FLA SCH DIST\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 3.25% Matures: 03/15/2033",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2017-05-02",
+      "filedDate": "2017-05-03",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/aff8a922-560d-4df4-a6e5-14c5d7751e90/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000595",
+      "assetRaw": "GUILFORD CNTY N C RFDG PUB IMPT-SER B \n                                        \n                                        \n                                        \n                                            Rate/Coupon: 3.125% Matures: 05/01/2035",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-04-26",
+      "filedDate": "2017-05-03",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/aff8a922-560d-4df4-a6e5-14c5d7751e90/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000595",
+      "assetRaw": "TURLOCK CALIF UNI SCH DIST\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 3.50% Matures: 08/01/2039",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2017-04-26",
+      "filedDate": "2017-05-03",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/aff8a922-560d-4df4-a6e5-14c5d7751e90/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000595",
+      "assetRaw": "MASSACHUSETTS ST FOR ISSUES DTD PRIOR TO 11/06/2014 SEE 57582P ETC CONS LN-SER E\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 3.25% Matures: 09/01/2038",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2017-04-19",
+      "filedDate": "2017-04-28",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/945754a0-5c42-494a-bd06-c3870fb4477d/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000595",
+      "assetRaw": "SPOKANE WASH\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 3.00% Matures: 12/01/2032",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-04-13",
+      "filedDate": "2017-04-28",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/945754a0-5c42-494a-bd06-c3870fb4477d/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000595",
+      "assetRaw": "Medical Properties Trust, Inc.",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-02-06",
+      "filedDate": "2017-03-02",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/32aa0827-b7a8-4909-b6a4-5f3e1d0281e0/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000595",
+      "assetRaw": "Simon Property Group, Inc.",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2016-12-30",
+      "filedDate": "2017-01-17",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/94c8e45b-640f-46dc-8cd9-d96edc20e67a/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000595",
+      "assetRaw": "CVS Health Corporation",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2016-11-30",
+      "filedDate": "2016-12-16",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/a1acf60e-03f1-4e23-b9e3-3ac6b7dc1f6f/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000595",
+      "assetRaw": "Maricopa County Ariz INDL DEV\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 3.25 Matures: 01/01/2037",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2016-10-25",
+      "filedDate": "2016-11-08",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/dde3c8b0-e3ec-41a2-8bc3-5da3117bbc0f/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000595",
+      "assetRaw": "Philadelphia PA WTR & WASTEWTR\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 3.125 Matures: 10/01/2035",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2016-10-25",
+      "filedDate": "2016-11-08",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/dde3c8b0-e3ec-41a2-8bc3-5da3117bbc0f/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000595",
+      "assetRaw": "Connecticut St For Issues\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 3.375 Matures: 10/15/2036",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2016-10-20",
+      "filedDate": "2016-11-08",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/dde3c8b0-e3ec-41a2-8bc3-5da3117bbc0f/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000595",
+      "assetRaw": "CVS Health Corporation",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2016-10-17",
+      "filedDate": "2016-11-08",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/dde3c8b0-e3ec-41a2-8bc3-5da3117bbc0f/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000595",
+      "assetRaw": "VICTORIA TX ISD 2016 PERMA OID97.488 BE/R/ \n                                        \n                                        \n                                        \n                                            Rate/Coupon: 3.125 Matures: 02/15/2038",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2016-10-17",
+      "filedDate": "2016-11-08",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/dde3c8b0-e3ec-41a2-8bc3-5da3117bbc0f/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000595",
+      "assetRaw": "Verizon Communications Inc.\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 2.625% Matures: 08/15/26",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2016-09-30",
+      "filedDate": "2016-10-18",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/61c867d8-5ef1-44e9-b5fb-278cac26ed61/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000595",
+      "assetRaw": "Ford Motor Credit Co. LLC\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 3.30% Matures: 09/20/26",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2016-08-29",
+      "filedDate": "2016-09-13",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/cd422bb9-6efe-4eed-80a8-9d620cdf500d/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000595",
+      "assetRaw": "Lloyds TSB BK PLC\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 2.80% Matures: 11/29/2024",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2016-08-24",
+      "filedDate": "2016-09-13",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/cd422bb9-6efe-4eed-80a8-9d620cdf500d/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000595",
+      "assetRaw": "Sunoco Logistics NTS B/E\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 3.450% Matures: 01/15/2023",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2016-08-01",
+      "filedDate": "2016-08-29",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/1b7e3f54-6b1e-45f5-a7b4-a05d6fbe62d6/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000595",
+      "assetRaw": "WEST MIFFLIN PA RFDG\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 2.875% Matures: 10/01/2035",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2016-07-05",
+      "filedDate": "2016-07-08",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/4f9feb8f-ba7b-495e-b5ed-64309635b19f/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000595",
+      "assetRaw": "Columbia Pipeline Group, Inc.",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2016-05-24",
+      "filedDate": "2016-06-22",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/a4c13b4b-da00-4511-bbe7-e4cb9f7e7849/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000595",
+      "assetRaw": "Invesco Ltd.",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2016-05-24",
+      "filedDate": "2016-06-22",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/a4c13b4b-da00-4511-bbe7-e4cb9f7e7849/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000595",
+      "assetRaw": "CHIPPEWA OHIO LOC SCH DIST CLASSROOM FACS & SCH IMPT-SER 1 OHIO ST AID INTERCEPT PROG\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 3.00% Matures: 11/01/2042",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2016-05-03",
+      "filedDate": "2016-05-16",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/066c6308-05de-417b-9f8c-13e743c443e4/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000595",
+      "assetRaw": "GRAND VALLEY MICH ST UNIV REV RFDG-SER A \n                                        \n                                        \n                                        \n                                            Rate/Coupon: 3.00% Matures: 12/01/2031",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2016-04-06",
+      "filedDate": "2016-04-19",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/c1e6a933-cca3-4eec-addb-36e36ef6b4c8/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000595",
+      "assetRaw": "OAKLAND MICH SCHS INTER SCH DIST\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 3.125% Matures: 05/01/2034",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2016-03-22",
+      "filedDate": "2016-04-19",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/c1e6a933-cca3-4eec-addb-36e36ef6b4c8/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000595",
+      "assetRaw": "PARCHMENT MICH SCH DIST RFDG-SER A MICHIGAN SCHOOL BOND LOAN FUND (Q-SBLF)\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 3.25% Matures: 05/01/2034",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2016-03-22",
+      "filedDate": "2016-04-19",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/c1e6a933-cca3-4eec-addb-36e36ef6b4c8/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000595",
+      "assetRaw": "CARMAN-AINSWORTH CMNTY SCH DIST MICH RFDG\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 3.00% Matures: 05/01/2027",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2016-03-02",
+      "filedDate": "2016-03-25",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/2291106e-4f4d-41be-887f-7e2a72d30814/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000595",
+      "assetRaw": "CIGNA CORP B/E\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 3.250% Matures: 04/15/2025",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2016-03-02",
+      "filedDate": "2016-03-25",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/2291106e-4f4d-41be-887f-7e2a72d30814/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000595",
+      "assetRaw": "LINCOLN NATL CORP B/E\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 3.350% Matures: 03/09/2025",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2016-03-02",
+      "filedDate": "2016-03-25",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/2291106e-4f4d-41be-887f-7e2a72d30814/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000595",
+      "assetRaw": "MONSANTO CO B/E\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 3.375% Matures: 07/15/2024",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2016-01-26",
+      "filedDate": "2016-02-12",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/e1c8b2ba-e3eb-4cfc-8e9f-c99fc677a7a7/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000595",
+      "assetRaw": "Nucor Corporation",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2016-01-26",
+      "filedDate": "2016-02-12",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/e1c8b2ba-e3eb-4cfc-8e9f-c99fc677a7a7/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000595",
+      "assetRaw": "W. P. Carey Inc.",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2016-01-26",
+      "filedDate": "2016-02-12",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/e1c8b2ba-e3eb-4cfc-8e9f-c99fc677a7a7/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000595",
+      "assetRaw": "ABBVIE INC NTS B/E\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 2.900% Matures: 11/06/2022",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2016-01-25",
+      "filedDate": "2016-02-12",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/e1c8b2ba-e3eb-4cfc-8e9f-c99fc677a7a7/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000595",
+      "assetRaw": "CELINA TEX INDPT SCH DIST RFDG-SCH BLDG PERMANENT SCHOOL FUND GUARANTY\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 3.00% Matures: 08/15/2037",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2016-01-25",
+      "filedDate": "2016-02-12",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/e1c8b2ba-e3eb-4cfc-8e9f-c99fc677a7a7/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000595",
+      "assetRaw": "WASHOE CNTY NEV SCH DIST RFDG-SCH IMPT-SER A\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 3.125% Matures: 06/01/2036",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2016-01-25",
+      "filedDate": "2016-02-12",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/e1c8b2ba-e3eb-4cfc-8e9f-c99fc677a7a7/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000595",
+      "assetRaw": "BBT - BB&T CORP",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2015-11-25",
+      "filedDate": "2015-12-16",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/d51c1413-b6a5-47b0-94db-9b834316afdc/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000595",
+      "assetRaw": "E I DU PONT DE NEMOURS\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 2.800% Matures: 02/15/2023",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2015-11-25",
+      "filedDate": "2015-12-16",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/d51c1413-b6a5-47b0-94db-9b834316afdc/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000595",
+      "assetRaw": "JWN- NORDSTROM INC",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2015-11-25",
+      "filedDate": "2015-12-16",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/d51c1413-b6a5-47b0-94db-9b834316afdc/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000595",
+      "assetRaw": "UTX - UNTD TECHNOLOGIES CORP",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2015-11-25",
+      "filedDate": "2015-12-16",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/d51c1413-b6a5-47b0-94db-9b834316afdc/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000595",
+      "assetRaw": "BOEING CO B/E\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 1.650% Matures: 10/30/2020",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2015-11-24",
+      "filedDate": "2015-12-16",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/d51c1413-b6a5-47b0-94db-9b834316afdc/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000595",
+      "assetRaw": "PLYMOUTH-CANTON MICH CMNTY SCH DIST SCH BLDG & SITE-SER B\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 3.25% Matures: 05/01/2030",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2015-11-24",
+      "filedDate": "2015-12-16",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/d51c1413-b6a5-47b0-94db-9b834316afdc/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000595",
+      "assetRaw": "TEXAS INSTRUMENTS INC\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 1.750% Matures: 05/01/2020",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2015-11-24",
+      "filedDate": "2015-12-16",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/d51c1413-b6a5-47b0-94db-9b834316afdc/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000595",
+      "assetRaw": "General Motors Company (NYSE)",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2015-09-16",
+      "filedDate": "2015-09-28",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/6920d173-4f47-4772-bbe9-60a0dfd24616/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000595",
+      "assetRaw": "Marsh & McLennan Companies, Inc. (NYSE)",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2015-09-16",
+      "filedDate": "2015-09-28",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/6920d173-4f47-4772-bbe9-60a0dfd24616/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000595",
+      "assetRaw": "Pfizer Inc. (NYSE)",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2015-09-16",
+      "filedDate": "2015-09-28",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/6920d173-4f47-4772-bbe9-60a0dfd24616/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000595",
+      "assetRaw": "Union Pacific Corporation (NYSE)",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2015-09-16",
+      "filedDate": "2015-09-28",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/6920d173-4f47-4772-bbe9-60a0dfd24616/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000595",
+      "assetRaw": "AT&T, Inc. (NYSE)",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2015-09-10",
+      "filedDate": "2015-09-28",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/6920d173-4f47-4772-bbe9-60a0dfd24616/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000595",
+      "assetRaw": "AbbVie Inc. (NYSE)",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2015-09-10",
+      "filedDate": "2015-09-28",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/6920d173-4f47-4772-bbe9-60a0dfd24616/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000595",
+      "assetRaw": "Invesco Ltd. (NYSE)",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2015-09-10",
+      "filedDate": "2015-09-28",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/6920d173-4f47-4772-bbe9-60a0dfd24616/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000595",
+      "assetRaw": "PALL CORP COMMON STOCK",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2015-08-31",
+      "filedDate": "2015-09-28",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/6920d173-4f47-4772-bbe9-60a0dfd24616/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000595",
+      "assetRaw": "Saint Charles MICH CMNTY SCHS SCH BLDG & SITE \n                                        \n                                        \n                                        \n                                            Rate/Coupon: 3.75 Matures: 05/01/2035",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2015-08-13",
+      "filedDate": "2015-09-11",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/1c14b10b-125f-43df-b190-910a13679b12/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000595",
+      "assetRaw": "STAG Industrial, Inc. (NYSE)",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2015-06-16",
+      "filedDate": "2015-06-24",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/4c71b757-583d-4861-91cb-955782db8ea0/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000595",
+      "assetRaw": "SPDR S&P 600 Small Cap ETF (NYSEArca)\n                                        \n                                        \n                                        \n                                            \n\n                                            \n                                                Description: ETF",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2015-05-11",
+      "filedDate": "2015-05-21",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/e9b7f418-c705-4011-b401-ff5a5c971d64/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000595",
+      "assetRaw": "United Technologies Corporation (NYSE)",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2015-05-11",
+      "filedDate": "2015-05-21",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/e9b7f418-c705-4011-b401-ff5a5c971d64/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000595",
+      "assetRaw": "Berkeley Cnty SC SD SR A RV BE/R/\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 3 Matures: 12/01/2028",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2015-04-15",
+      "filedDate": "2015-05-06",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/1b750f03-1ac9-47b7-956f-fb0dc85ca537/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000595",
+      "assetRaw": "Sault Ste. Marie MI Build OID98.749 BE/R/\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 3.00% Matures: 04/01/2031",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2015-04-15",
+      "filedDate": "2015-05-06",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/1b750f03-1ac9-47b7-956f-fb0dc85ca537/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000595",
+      "assetRaw": "Sonoma Valley CA UNI 2015 BE/R/\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 3.125% Matures: 08/01/2033",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2015-04-15",
+      "filedDate": "2015-05-06",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/1b750f03-1ac9-47b7-956f-fb0dc85ca537/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000595",
+      "assetRaw": "DTE Energy Company (NYSE)",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2015-04-14",
+      "filedDate": "2015-05-06",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/1b750f03-1ac9-47b7-956f-fb0dc85ca537/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000595",
+      "assetRaw": "Emerson Electric Co. (NYSE)",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2015-04-14",
+      "filedDate": "2015-05-06",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/1b750f03-1ac9-47b7-956f-fb0dc85ca537/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000595",
+      "assetRaw": "Kraft Foods Group, Inc. (NASDAQ)",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2015-04-14",
+      "filedDate": "2015-05-06",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/1b750f03-1ac9-47b7-956f-fb0dc85ca537/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000595",
+      "assetRaw": "QUALCOMM Incorporated (NASDAQ)",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2015-04-14",
+      "filedDate": "2015-05-06",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/1b750f03-1ac9-47b7-956f-fb0dc85ca537/",
+      "late": false,
+      "provenance": "kadoa"
+    }
+  ],
+  "series": [
+    {
+      "date": "2015-04-14",
+      "value": 8000.5
+    },
+    {
+      "date": "2015-04-14",
+      "value": 8000.5
+    },
+    {
+      "date": "2015-04-14",
+      "value": 8000.5
+    },
+    {
+      "date": "2015-04-14",
+      "value": 8000.5
+    },
+    {
+      "date": "2015-04-15",
+      "value": 8000.5
+    },
+    {
+      "date": "2015-04-15",
+      "value": 8000.5
+    },
+    {
+      "date": "2015-04-15",
+      "value": 8000.5
+    },
+    {
+      "date": "2015-05-11",
+      "value": 8000.5
+    },
+    {
+      "date": "2015-05-11",
+      "value": 8000.5
+    },
+    {
+      "date": "2015-06-16",
+      "value": 8000.5
+    },
+    {
+      "date": "2015-08-13",
+      "value": 32500.5
+    },
+    {
+      "date": "2015-08-31",
+      "value": 32500.5
+    },
+    {
+      "date": "2015-09-10",
+      "value": 8000.5
+    },
+    {
+      "date": "2015-09-10",
+      "value": 8000.5
+    },
+    {
+      "date": "2015-09-10",
+      "value": 8000.5
+    },
+    {
+      "date": "2015-09-16",
+      "value": 8000.5
+    },
+    {
+      "date": "2015-09-16",
+      "value": 8000.5
+    },
+    {
+      "date": "2015-09-16",
+      "value": 8000.5
+    },
+    {
+      "date": "2015-09-16",
+      "value": 8000.5
+    },
+    {
+      "date": "2015-11-24",
+      "value": 8000.5
+    },
+    {
+      "date": "2015-11-24",
+      "value": 32500.5
+    },
+    {
+      "date": "2015-11-24",
+      "value": 8000.5
+    },
+    {
+      "date": "2015-11-25",
+      "value": 8000.5
+    },
+    {
+      "date": "2015-11-25",
+      "value": 8000.5
+    },
+    {
+      "date": "2015-11-25",
+      "value": 8000.5
+    },
+    {
+      "date": "2015-11-25",
+      "value": 8000.5
+    },
+    {
+      "date": "2016-01-25",
+      "value": 32500.5
+    },
+    {
+      "date": "2016-01-25",
+      "value": 8000.5
+    },
+    {
+      "date": "2016-01-25",
+      "value": 8000.5
+    },
+    {
+      "date": "2016-01-26",
+      "value": 8000.5
+    },
+    {
+      "date": "2016-01-26",
+      "value": 8000.5
+    },
+    {
+      "date": "2016-01-26",
+      "value": 8000.5
+    },
+    {
+      "date": "2016-03-02",
+      "value": 8000.5
+    },
+    {
+      "date": "2016-03-02",
+      "value": 8000.5
+    },
+    {
+      "date": "2016-03-02",
+      "value": 8000.5
+    },
+    {
+      "date": "2016-03-22",
+      "value": 8000.5
+    },
+    {
+      "date": "2016-03-22",
+      "value": 8000.5
+    },
+    {
+      "date": "2016-04-06",
+      "value": 8000.5
+    },
+    {
+      "date": "2016-05-03",
+      "value": 8000.5
+    },
+    {
+      "date": "2016-05-24",
+      "value": 8000.5
+    },
+    {
+      "date": "2016-05-24",
+      "value": 8000.5
+    },
+    {
+      "date": "2016-07-05",
+      "value": 8000.5
+    },
+    {
+      "date": "2016-08-01",
+      "value": 8000.5
+    },
+    {
+      "date": "2016-08-24",
+      "value": 8000.5
+    },
+    {
+      "date": "2016-08-29",
+      "value": 32500.5
+    },
+    {
+      "date": "2016-09-30",
+      "value": 8000.5
+    },
+    {
+      "date": "2016-10-17",
+      "value": 8000.5
+    },
+    {
+      "date": "2016-10-17",
+      "value": 32500.5
+    },
+    {
+      "date": "2016-10-20",
+      "value": 8000.5
+    },
+    {
+      "date": "2016-10-25",
+      "value": 8000.5
+    },
+    {
+      "date": "2016-10-25",
+      "value": 8000.5
+    },
+    {
+      "date": "2016-11-30",
+      "value": 8000.5
+    },
+    {
+      "date": "2016-12-30",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-02-06",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-04-13",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-04-19",
+      "value": 32500.5
+    },
+    {
+      "date": "2017-04-26",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-04-26",
+      "value": 32500.5
+    },
+    {
+      "date": "2017-05-02",
+      "value": 32500.5
+    },
+    {
+      "date": "2017-06-05",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-06-27",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-06-27",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-06-27",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-08-23",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-08-23",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-09-11",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-10-31",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-11-13",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-11-13",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-11-15",
+      "value": 32500.5
+    },
+    {
+      "date": "2018-01-05",
+      "value": 8000.5
+    },
+    {
+      "date": "2018-01-05",
+      "value": 8000.5
+    },
+    {
+      "date": "2018-01-09",
+      "value": 8000.5
+    },
+    {
+      "date": "2018-01-17",
+      "value": 8000.5
+    },
+    {
+      "date": "2018-01-17",
+      "value": 32500.5
+    },
+    {
+      "date": "2018-03-21",
+      "value": 8000.5
+    },
+    {
+      "date": "2018-04-20",
+      "value": 8000.5
+    },
+    {
+      "date": "2018-04-26",
+      "value": 8000.5
+    },
+    {
+      "date": "2018-04-26",
+      "value": 8000.5
+    },
+    {
+      "date": "2018-04-26",
+      "value": 8000.5
+    },
+    {
+      "date": "2018-04-30",
+      "value": 8000.5
+    },
+    {
+      "date": "2018-04-30",
+      "value": 32500.5
+    },
+    {
+      "date": "2018-05-21",
+      "value": 8000.5
+    },
+    {
+      "date": "2018-05-23",
+      "value": 8000.5
+    },
+    {
+      "date": "2018-05-23",
+      "value": 8000.5
+    },
+    {
+      "date": "2018-06-05",
+      "value": 8000.5
+    },
+    {
+      "date": "2018-06-05",
+      "value": 8000.5
+    },
+    {
+      "date": "2018-06-27",
+      "value": 8000.5
+    },
+    {
+      "date": "2018-08-22",
+      "value": 8000.5
+    },
+    {
+      "date": "2018-09-24",
+      "value": 8000.5
+    },
+    {
+      "date": "2018-09-27",
+      "value": 32500.5
+    },
+    {
+      "date": "2018-10-24",
+      "value": 8000.5
+    },
+    {
+      "date": "2018-10-24",
+      "value": 8000.5
+    },
+    {
+      "date": "2018-10-30",
+      "value": 8000.5
+    },
+    {
+      "date": "2018-10-30",
+      "value": 8000.5
+    },
+    {
+      "date": "2018-11-09",
+      "value": 8000.5
+    },
+    {
+      "date": "2018-11-09",
+      "value": 8000.5
+    },
+    {
+      "date": "2018-11-09",
+      "value": 8000.5
+    },
+    {
+      "date": "2018-11-16",
+      "value": 8000.5
+    },
+    {
+      "date": "2019-01-04",
+      "value": 8000.5
+    },
+    {
+      "date": "2019-01-04",
+      "value": 8000.5
+    },
+    {
+      "date": "2019-02-01",
+      "value": 8000.5
+    },
+    {
+      "date": "2019-02-21",
+      "value": 8000.5
+    },
+    {
+      "date": "2019-03-29",
+      "value": 8000.5
+    },
+    {
+      "date": "2019-04-17",
+      "value": 32500.5
+    },
+    {
+      "date": "2019-04-24",
+      "value": 32500.5
+    },
+    {
+      "date": "2019-04-25",
+      "value": 8000.5
+    },
+    {
+      "date": "2019-04-25",
+      "value": 32500.5
+    },
+    {
+      "date": "2019-04-25",
+      "value": 8000.5
+    },
+    {
+      "date": "2019-05-02",
+      "value": 32500.5
+    },
+    {
+      "date": "2019-06-06",
+      "value": 8000.5
+    },
+    {
+      "date": "2019-06-13",
+      "value": 8000.5
+    },
+    {
+      "date": "2019-07-03",
+      "value": 8000.5
+    },
+    {
+      "date": "2019-07-29",
+      "value": 8000.5
+    },
+    {
+      "date": "2019-08-21",
+      "value": 8000.5
+    },
+    {
+      "date": "2019-11-13",
+      "value": 8000.5
+    },
+    {
+      "date": "2019-11-19",
+      "value": 8000.5
+    },
+    {
+      "date": "2019-12-19",
+      "value": 32500.5
+    },
+    {
+      "date": "2019-12-19",
+      "value": 32500.5
+    },
+    {
+      "date": "2020-01-10",
+      "value": 8000.5
+    },
+    {
+      "date": "2020-01-10",
+      "value": 8000.5
+    },
+    {
+      "date": "2020-01-27",
+      "value": 8000.5
+    },
+    {
+      "date": "2020-02-18",
+      "value": 8000.5
+    },
+    {
+      "date": "2020-12-14",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-01-15",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-01-15",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-04-15",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-05-25",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-06-07",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-07-07",
+      "value": 32500.5
+    },
+    {
+      "date": "2021-07-21",
+      "value": 32500.5
+    },
+    {
+      "date": "2021-08-27",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-11-09",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-11-29",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-11-29",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-12-07",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-01-03",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-12-12",
+      "value": 8000.5
+    },
+    {
+      "date": "2023-02-03",
+      "value": 8000.5
+    },
+    {
+      "date": "2023-02-09",
+      "value": 32500.5
+    },
+    {
+      "date": "2023-03-13",
+      "value": 75000.5
+    },
+    {
+      "date": "2023-03-14",
+      "value": 32500.5
+    },
+    {
+      "date": "2023-03-14",
+      "value": 8000.5
+    },
+    {
+      "date": "2023-04-14",
+      "value": 32500.5
+    },
+    {
+      "date": "2023-04-27",
+      "value": 32500.5
+    },
+    {
+      "date": "2023-06-06",
+      "value": 8000.5
+    },
+    {
+      "date": "2023-07-28",
+      "value": 8000.5
+    },
+    {
+      "date": "2023-11-02",
+      "value": 32500.5
+    },
+    {
+      "date": "2023-11-30",
+      "value": 32500.5
+    },
+    {
+      "date": "2023-12-28",
+      "value": 8000.5
+    },
+    {
+      "date": "2024-05-14",
+      "value": 8000.5
+    },
+    {
+      "date": "2024-05-14",
+      "value": 32500.5
+    },
+    {
+      "date": "2024-05-14",
+      "value": 8000.5
+    },
+    {
+      "date": "2024-05-14",
+      "value": 8000.5
+    },
+    {
+      "date": "2024-07-17",
+      "value": 8000.5
+    },
+    {
+      "date": "2024-07-17",
+      "value": 8000.5
+    },
+    {
+      "date": "2024-10-17",
+      "value": 8000.5
+    },
+    {
+      "date": "2024-10-31",
+      "value": 8000.5
+    },
+    {
+      "date": "2024-10-31",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-07-10",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-11-14",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-12-12",
+      "value": 32500.5
+    },
+    {
+      "date": "2025-12-12",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-01-12",
+      "value": 32500.5
+    },
+    {
+      "date": "2026-01-12",
+      "value": 32500.5
+    },
+    {
+      "date": "2026-04-23",
+      "value": 32500.5
+    },
+    {
+      "date": "2026-04-23",
+      "value": 32500.5
+    },
+    {
+      "date": "2026-04-23",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-05-21",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-06-29",
+      "value": 8000.5
+    }
+  ],
+  "measured": null
+}

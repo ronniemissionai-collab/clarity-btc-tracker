@@ -1,0 +1,76 @@
+{
+  "member": {
+    "bioguideId": "F000483",
+    "name": "Laura Friedman",
+    "party": "D",
+    "chamber": "house",
+    "state": "CA",
+    "district": "CA-30",
+    "active": true
+  },
+  "positions": [],
+  "trades": [
+    {
+      "memberId": "F000483",
+      "assetRaw": "Hologic, Inc. - Common Stock (HOLX) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-04-08",
+      "filedDate": "2026-05-14",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034563.pdf",
+      "late": false,
+      "note": "partial sale",
+      "provenance": "both"
+    },
+    {
+      "memberId": "F000483",
+      "assetRaw": "Paramount Skydance Corporation - Class B Common Stock",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-09-10",
+      "filedDate": "2025-10-08",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032250.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "F000483",
+      "assetRaw": "Walt Disney Company",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-08-26",
+      "filedDate": "2025-09-09",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032051.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    }
+  ],
+  "series": [
+    {
+      "date": "2025-08-26",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-09-10",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-04-08",
+      "value": 8000.5
+    }
+  ],
+  "measured": null
+}

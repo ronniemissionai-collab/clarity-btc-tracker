@@ -1,0 +1,3756 @@
+{
+  "member": {
+    "bioguideId": "E000296",
+    "name": "Dwight Evans",
+    "party": "D",
+    "chamber": "house",
+    "state": "PA",
+    "district": "PA-03",
+    "active": true
+  },
+  "positions": [
+    {
+      "memberId": "E000296",
+      "security": {
+        "ticker": "AMT",
+        "kind": "other"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "sold",
+      "asOf": "2026-05-11",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034556.pdf"
+        }
+      ],
+      "note": "sale reported by PTR with no annual baseline in our coverage"
+    },
+    {
+      "memberId": "E000296",
+      "security": {
+        "ticker": "AMZN",
+        "kind": "other"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "status": "stale",
+      "asOf": "2016-12-30",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2017/20007301.pdf"
+        }
+      ]
+    },
+    {
+      "memberId": "E000296",
+      "security": {
+        "ticker": "AZN",
+        "kind": "other"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "stale",
+      "asOf": "2016-12-30",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2017/20007301.pdf"
+        }
+      ]
+    },
+    {
+      "memberId": "E000296",
+      "security": {
+        "ticker": "DXC",
+        "kind": "other"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "stale",
+      "asOf": "2016-12-30",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2017/20007301.pdf"
+        }
+      ]
+    },
+    {
+      "memberId": "E000296",
+      "security": {
+        "ticker": "FNI",
+        "kind": "other"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "stale",
+      "asOf": "2017-10-20",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2017/20008321.pdf"
+        }
+      ]
+    },
+    {
+      "memberId": "E000296",
+      "security": {
+        "ticker": "GD",
+        "kind": "other"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "sold",
+      "asOf": "2026-06-10",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034851.pdf"
+        }
+      ],
+      "note": "sale reported by PTR with no annual baseline in our coverage"
+    },
+    {
+      "memberId": "E000296",
+      "security": {
+        "ticker": "HASI",
+        "kind": "other"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "stale",
+      "asOf": "2016-12-30",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2017/20007301.pdf"
+        }
+      ]
+    },
+    {
+      "memberId": "E000296",
+      "security": {
+        "ticker": "HII",
+        "kind": "other"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "status": "stale",
+      "asOf": "2017-10-20",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2017/20008321.pdf"
+        }
+      ]
+    },
+    {
+      "memberId": "E000296",
+      "security": {
+        "ticker": "HPE",
+        "kind": "other"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "stale",
+      "asOf": "2016-12-30",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2017/20007301.pdf"
+        }
+      ]
+    },
+    {
+      "memberId": "E000296",
+      "security": {
+        "ticker": "INTC",
+        "kind": "other"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 0,
+        "hi": 12998
+      },
+      "status": "holds",
+      "asOf": "2026-06-10",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2017/20007301.pdf"
+        },
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034556.pdf"
+        },
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034851.pdf"
+        }
+      ],
+      "note": "partial sale 2026-05-07; partial sale 2026-06-10"
+    },
+    {
+      "memberId": "E000296",
+      "security": {
+        "ticker": "KMI",
+        "kind": "other"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "stale",
+      "asOf": "2017-10-20",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2017/20008321.pdf"
+        }
+      ]
+    },
+    {
+      "memberId": "E000296",
+      "security": {
+        "ticker": "MSFT",
+        "kind": "other"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "stale",
+      "asOf": "2018-08-17",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20010360.pdf"
+        }
+      ]
+    },
+    {
+      "memberId": "E000296",
+      "security": {
+        "ticker": "MU",
+        "kind": "other"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "status": "sold",
+      "asOf": "2026-03-24",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034379.pdf"
+        }
+      ],
+      "note": "sale reported by PTR with no annual baseline in our coverage"
+    },
+    {
+      "memberId": "E000296",
+      "security": {
+        "ticker": "OKE",
+        "kind": "other"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "status": "stale",
+      "asOf": "2017-10-20",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2017/20008321.pdf"
+        }
+      ]
+    },
+    {
+      "memberId": "E000296",
+      "security": {
+        "ticker": "TIS",
+        "kind": "other"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "stale",
+      "asOf": "2016-12-30",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2017/20007301.pdf"
+        }
+      ]
+    },
+    {
+      "memberId": "E000296",
+      "security": {
+        "ticker": "TSLA",
+        "kind": "treasury"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 2002,
+        "hi": 30000
+      },
+      "status": "sold",
+      "asOf": "2024-10-29",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20017404.pdf"
+        },
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20017791.pdf"
+        },
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20029062.pdf"
+        }
+      ]
+    },
+    {
+      "memberId": "E000296",
+      "security": {
+        "ticker": "WTR",
+        "kind": "other"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "stale",
+      "asOf": "2016-12-30",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2017/20007301.pdf"
+        }
+      ]
+    }
+  ],
+  "trades": [
+    {
+      "memberId": "E000296",
+      "assetRaw": "General Dynamics Corporation Common Stock (GD) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-06-10",
+      "filedDate": "2026-06-24",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034851.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "E000296",
+      "assetRaw": "Intel Corporation - Common Stock (INTC) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-06-10",
+      "filedDate": "2026-06-24",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034851.pdf",
+      "late": false,
+      "note": "partial sale",
+      "provenance": "both"
+    },
+    {
+      "memberId": "E000296",
+      "assetRaw": "American Tower Corporation (AMT) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-05-11",
+      "filedDate": "2026-05-15",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034556.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "E000296",
+      "assetRaw": "Intel Corporation - Common Stock (INTC) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-05-07",
+      "filedDate": "2026-05-15",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034556.pdf",
+      "late": false,
+      "note": "partial sale",
+      "provenance": "both"
+    },
+    {
+      "memberId": "E000296",
+      "assetRaw": "Quanta Services, Inc. Common Stock (PWR) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-05-07",
+      "filedDate": "2026-05-15",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034556.pdf",
+      "late": false,
+      "note": "partial sale",
+      "provenance": "both"
+    },
+    {
+      "memberId": "E000296",
+      "assetRaw": "Thermo Fisher Scientific Inc Common Stock (TMO) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-05-07",
+      "filedDate": "2026-05-15",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034556.pdf",
+      "late": false,
+      "note": "partial sale",
+      "provenance": "both"
+    },
+    {
+      "memberId": "E000296",
+      "assetRaw": "Micron Technology, Inc. - Common Stock (MU) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2026-03-24",
+      "filedDate": "2026-04-20",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034379.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "E000296",
+      "assetRaw": "2000152177 CVS Health Corporation Common Stock (CVS) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-11-21",
+      "filedDate": "2026-05-15",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034556.pdf",
+      "late": true,
+      "note": "partial sale",
+      "provenance": "official"
+    },
+    {
+      "memberId": "E000296",
+      "assetRaw": "CVS Health Corporation Common Stock",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-11-21",
+      "filedDate": "2026-05-15",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034556.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "E000296",
+      "assetRaw": "ALIBABA GROUP HOLDING LTD",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-11-21",
+      "filedDate": "2025-12-19",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20033667.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "E000296",
+      "assetRaw": "American Water Works Company, Inc. Common Stock",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-11-21",
+      "filedDate": "2025-12-19",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20033667.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "E000296",
+      "assetRaw": "Apollo Global Management, Inc.",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-11-21",
+      "filedDate": "2025-12-19",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20033667.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "E000296",
+      "assetRaw": "CVS Health Corporation Common Stock",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-11-21",
+      "filedDate": "2025-12-19",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20033667.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "E000296",
+      "assetRaw": "Microsoft Corporation - Common Stock",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-11-21",
+      "filedDate": "2025-12-19",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20033667.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "E000296",
+      "assetRaw": "NVIDIA Corporation - Common Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-11-21",
+      "filedDate": "2025-12-19",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20033667.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "E000296",
+      "assetRaw": "Alphabet Inc. - Class A Common Stock",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2025-10-10",
+      "filedDate": "2025-10-30",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20033370.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "E000296",
+      "assetRaw": "AbbVie Inc. Common Stock",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-04-03",
+      "filedDate": "2025-04-17",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030179.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "E000296",
+      "assetRaw": "Alphabet Inc. - Class A Common Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-04-03",
+      "filedDate": "2025-04-17",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030179.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "E000296",
+      "assetRaw": "Amazon.com, Inc. - Common Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-04-03",
+      "filedDate": "2025-04-17",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030179.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "E000296",
+      "assetRaw": "American Tower Corporation",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-04-03",
+      "filedDate": "2025-04-17",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030179.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "E000296",
+      "assetRaw": "Intel Corporation - Common Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-04-03",
+      "filedDate": "2025-04-17",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030179.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "E000296",
+      "assetRaw": "International Business Machines Corporation Common Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-04-03",
+      "filedDate": "2025-04-17",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030179.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "E000296",
+      "assetRaw": "Kinder Morgan, Inc. Common Stock",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-04-03",
+      "filedDate": "2025-04-17",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030179.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "E000296",
+      "assetRaw": "NVIDIA Corporation - Common Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-04-03",
+      "filedDate": "2025-04-17",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030179.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "E000296",
+      "assetRaw": "NextEra Energy, Inc. Common Stock",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-04-03",
+      "filedDate": "2025-04-17",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030179.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "E000296",
+      "assetRaw": "ONEOK, Inc. Common Stock",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-04-03",
+      "filedDate": "2025-04-17",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030179.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "E000296",
+      "assetRaw": "Quanta Services, Inc. Common Stock",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-04-03",
+      "filedDate": "2025-04-17",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030179.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "E000296",
+      "assetRaw": "ServiceNow, Inc. Common Stock",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-04-03",
+      "filedDate": "2025-04-17",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030179.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "E000296",
+      "assetRaw": "Williams Companies, Inc.",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-04-03",
+      "filedDate": "2025-04-17",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030179.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "E000296",
+      "assetRaw": "Amazon.com, Inc. - Common Stock",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2024-10-29",
+      "filedDate": "2025-04-02",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20029062.pdf",
+      "late": true,
+      "note": "Filing Status: New\nSubholding Of: PERSHING LLC",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "E000296",
+      "assetRaw": "Tesla, Inc. - Common Stock",
+      "security": {
+        "ticker": "TSLA",
+        "kind": "treasury"
+      },
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2024-10-29",
+      "filedDate": "2025-04-02",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20029062.pdf",
+      "late": true,
+      "note": "Filing Status: New\nSubholding Of: PERSHING LLC",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "E000296",
+      "assetRaw": "Hannon Armstrong Sustainable Infrastructure Capital, Inc.",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2023-12-20",
+      "filedDate": "2024-01-17",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/20024324.pdf",
+      "late": false,
+      "note": "Filing Status: New\nSubholding Of: PERSHING LLC",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "E000296",
+      "assetRaw": "Micron Technology, Inc.",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2023-12-20",
+      "filedDate": "2024-01-17",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/20024324.pdf",
+      "late": false,
+      "note": "Filing Status: New\nSubholding Of: PERSHING LLC",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "E000296",
+      "assetRaw": "ServiceNow, Inc.",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2023-12-20",
+      "filedDate": "2024-01-17",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/20024324.pdf",
+      "late": false,
+      "note": "Filing Status: New\nSubholding Of: PERSHING LLC",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "E000296",
+      "assetRaw": "Baidu, Inc. - American Depositary Shares, each representing 8 ordinary share",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2023-06-22",
+      "filedDate": "2023-07-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20023246.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "E000296",
+      "assetRaw": "CVS Health Corporation",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2023-06-22",
+      "filedDate": "2023-07-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20023246.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "E000296",
+      "assetRaw": "Kyndryl Holdings, Inc.",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2023-06-22",
+      "filedDate": "2023-07-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20023246.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "E000296",
+      "assetRaw": "Sempra Energy 6% Mandatory Convertible Preferred Stock, Series A",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2023-06-22",
+      "filedDate": "2023-07-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20023246.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "E000296",
+      "assetRaw": "CSX Corporation",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2023-02-28",
+      "filedDate": "2023-03-09",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20022547.pdf",
+      "late": false,
+      "note": "Filing Status: New\nSubholding Of: PROEQUITIES",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "E000296",
+      "assetRaw": "Salesforce, Inc.",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2023-02-28",
+      "filedDate": "2023-03-09",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20022547.pdf",
+      "late": false,
+      "note": "Filing Status: New\nSubholding Of: PROEQUITIES",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "E000296",
+      "assetRaw": "DBA Sempra",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-11-14",
+      "filedDate": "2022-11-21",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20022027.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "E000296",
+      "assetRaw": "Global X NASDAQ-100 Covered Call ETF",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-11-14",
+      "filedDate": "2022-11-21",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20022027.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "E000296",
+      "assetRaw": "Pacer Data & Infrastructure Real Estate ETF",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-11-14",
+      "filedDate": "2022-11-21",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20022027.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "E000296",
+      "assetRaw": "Principal Healthcare Innovators ETF",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-11-14",
+      "filedDate": "2022-11-21",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20022027.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "E000296",
+      "assetRaw": "Raytheon Technologies Corporation",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-11-14",
+      "filedDate": "2022-11-21",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20022027.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "E000296",
+      "assetRaw": "Roche Holdings AG Basel American Depositary Shares",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-11-14",
+      "filedDate": "2022-11-21",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20022027.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "E000296",
+      "assetRaw": "AbbVie Inc.",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-08-05",
+      "filedDate": "2022-08-19",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021576.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "E000296",
+      "assetRaw": "ONEOK, Inc.",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-08-05",
+      "filedDate": "2022-08-19",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021576.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "E000296",
+      "assetRaw": "PayPal Holdings, Inc. - Common Stock When Issued",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-08-05",
+      "filedDate": "2022-08-19",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021576.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "E000296",
+      "assetRaw": "Southwest Airlines Company",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-08-05",
+      "filedDate": "2022-08-19",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021576.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "E000296",
+      "assetRaw": "ARK Innovation ETF",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-03-30",
+      "filedDate": "2022-04-25",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020865.pdf",
+      "late": false,
+      "note": "Filing Status: New\nSubholding Of: PROEQUITIES",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "E000296",
+      "assetRaw": "Celanese Corporation Celanese Corporation",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-03-30",
+      "filedDate": "2022-04-25",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020865.pdf",
+      "late": false,
+      "note": "Filing Status: New\nSubholding Of: PROEQUITIES",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "E000296",
+      "assetRaw": "General Dynamics Corporation",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-03-30",
+      "filedDate": "2022-04-25",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020865.pdf",
+      "late": false,
+      "note": "Filing Status: New\nSubholding Of: PROEQUITIES",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "E000296",
+      "assetRaw": "Intel Corporation",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-03-30",
+      "filedDate": "2022-04-25",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020865.pdf",
+      "late": false,
+      "note": "Filing Status: New\nSubholding Of: PROEQUITIES",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "E000296",
+      "assetRaw": "Kinder Morgan, Inc.",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-03-30",
+      "filedDate": "2022-04-25",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020865.pdf",
+      "late": false,
+      "note": "Filing Status: New\nSubholding Of: PROEQUITIES",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "E000296",
+      "assetRaw": "NeoGenomics, Inc.",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-03-30",
+      "filedDate": "2022-04-25",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020865.pdf",
+      "late": false,
+      "note": "Filing Status: New\nSubholding Of: PROEQUITIES",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "E000296",
+      "assetRaw": "Twist Bioscience Corporation",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-03-30",
+      "filedDate": "2022-04-25",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020865.pdf",
+      "late": false,
+      "note": "Filing Status: New\nSubholding Of: PROEQUITIES",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "E000296",
+      "assetRaw": "ARK Genomic Revolution ETF",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-03-25",
+      "filedDate": "2022-04-25",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020865.pdf",
+      "late": false,
+      "note": "Filing Status: New\nSubholding Of: PROEQUITIES",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "E000296",
+      "assetRaw": "American Electric Power Company, Inc.",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-11-02",
+      "filedDate": "2021-12-22",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20020081.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "E000296",
+      "assetRaw": "DR blackstone Senior loan ETF (SRlN) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-11-02",
+      "filedDate": "2021-12-22",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20020081.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "E000296",
+      "assetRaw": "PROEQUITIES ARK genomic Revolution ETF (ARKg) [ST]",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-11-02",
+      "filedDate": "2021-12-22",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20020081.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "E000296",
+      "assetRaw": "PROEQUITIES Principal Healthcare Innovators ETF (bTEC) [ST]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-11-02",
+      "filedDate": "2021-12-22",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20020081.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "E000296",
+      "assetRaw": "PROEQUITIES CSX Corporation",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-05-26",
+      "filedDate": "2021-07-09",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019061.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "E000296",
+      "assetRaw": "PROEQUITIES Celanese Corporation Celanese Corporation",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-05-26",
+      "filedDate": "2021-07-09",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019061.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "E000296",
+      "assetRaw": "PROEQUITIES Quanta Services, Inc.",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-05-26",
+      "filedDate": "2021-07-09",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019061.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "E000296",
+      "assetRaw": "PROEQUITIES Southwest Airlines Company (lUV) [ST]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-05-26",
+      "filedDate": "2021-07-09",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019061.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "E000296",
+      "assetRaw": "PROEQUITIES The Carlyle group Inc. (Cg) [ST]",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-05-26",
+      "filedDate": "2021-07-09",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019061.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "E000296",
+      "assetRaw": "PROEQUITIES lockheed Martin Corporation (lMT) [ST]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-05-26",
+      "filedDate": "2021-07-09",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019061.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "E000296",
+      "assetRaw": "Alphabet Inc. - Class A (gOOgl) [ST]",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-05-11",
+      "filedDate": "2021-07-09",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019061.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "E000296",
+      "assetRaw": "Huntington Ingalls Industries, Inc.",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2020-12-30",
+      "filedDate": "2021-02-09",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20018181.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "E000296",
+      "assetRaw": "PROEQUITIES ONEOK, Inc.",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2020-12-30",
+      "filedDate": "2021-02-09",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20018181.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "E000296",
+      "assetRaw": "PROEQUITIES Targa Resources Partners lP Common Units Representing limited Partnership Interests (NglS) [ST]",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2020-12-21",
+      "filedDate": "2021-02-09",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20018181.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "E000296",
+      "assetRaw": "PROEQUITIES ARK genomic Revolution ETF (ARKg) [ST]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2020-10-29",
+      "filedDate": "2020-12-03",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20017791.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "E000296",
+      "assetRaw": "PROEQUITIES AT&T Inc.",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2020-10-29",
+      "filedDate": "2020-12-03",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20017791.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "E000296",
+      "assetRaw": "PROEQUITIES AlPS Sector Dividend Dogs ETF (SDOg) [ST]",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2020-10-29",
+      "filedDate": "2020-12-03",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20017791.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "E000296",
+      "assetRaw": "PROEQUITIES American Electric Power Company, Inc.",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2020-10-29",
+      "filedDate": "2020-12-03",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20017791.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "E000296",
+      "assetRaw": "PROEQUITIES Intel Corporation",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2020-10-29",
+      "filedDate": "2020-12-03",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20017791.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "E000296",
+      "assetRaw": "PROEQUITIES International business Machines Corporation (IbM) [ST]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2020-10-29",
+      "filedDate": "2020-12-03",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20017791.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "E000296",
+      "assetRaw": "PROEQUITIES PayPal Holdings, Inc. (PYPl) [ST]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2020-10-29",
+      "filedDate": "2020-12-03",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20017791.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "E000296",
+      "assetRaw": "PROEQUITIES Salesforce.com Inc",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2020-10-29",
+      "filedDate": "2020-12-03",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20017791.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "E000296",
+      "assetRaw": "PROEQUITIES Tesla, Inc. (TSlA) [ST]",
+      "security": {
+        "ticker": "TSLA",
+        "kind": "treasury"
+      },
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2020-10-29",
+      "filedDate": "2020-12-03",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20017791.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "E000296",
+      "assetRaw": "PROEQUITIES baidu, Inc. - American Depositary Shares, each representing one tenth Class A ordinary share (bIDU) [ST]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2020-10-29",
+      "filedDate": "2020-12-03",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20017791.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "E000296",
+      "assetRaw": "PROEQUITIES global X NASDAQ-100 Covered Call ETF (QYlD) [ST]",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2020-10-29",
+      "filedDate": "2020-12-03",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20017791.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "E000296",
+      "assetRaw": "Alphabet Inc. - Class A (gOOgl) [ST]",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2020-10-21",
+      "filedDate": "2020-12-03",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20017791.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "E000296",
+      "assetRaw": "PROEQUITIES Amazon.com, Inc.",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2020-10-21",
+      "filedDate": "2020-12-03",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20017791.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "E000296",
+      "assetRaw": "PROEQUITIES ARK Innovation ETF",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2020-10-14",
+      "filedDate": "2020-12-03",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20017791.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "E000296",
+      "assetRaw": "PROEQUITIES Hannon Armstrong Sustainable Infrastructure Capital, Inc.",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2020-10-14",
+      "filedDate": "2020-12-03",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20017791.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "E000296",
+      "assetRaw": "PROEQUITIES Microsoft Corporation",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2020-09-04",
+      "filedDate": "2020-09-21",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20017404.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "E000296",
+      "assetRaw": "PROEQUITIES Tesla, Inc. (TSlA) [ST]",
+      "security": {
+        "ticker": "TSLA",
+        "kind": "treasury"
+      },
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2020-09-04",
+      "filedDate": "2020-09-21",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20017404.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "E000296",
+      "assetRaw": "PROEQUITIES The Carlyle group Inc. (Cg) [ST]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2020-09-04",
+      "filedDate": "2020-09-21",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20017404.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "E000296",
+      "assetRaw": "PROEQUITIES AT&T Inc.",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2020-07-28",
+      "filedDate": "2020-09-21",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20017404.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "E000296",
+      "assetRaw": "PROEQUITIES American Tower Corporation",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2020-07-28",
+      "filedDate": "2020-09-21",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20017404.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "E000296",
+      "assetRaw": "PROEQUITIES Williams Companies, Inc. (WMb) [ST]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2020-07-28",
+      "filedDate": "2020-09-21",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20017404.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "E000296",
+      "assetRaw": "Alexandria Real Estate Equities, Inc.",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2020-07-27",
+      "filedDate": "2020-09-21",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20017404.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "E000296",
+      "assetRaw": "PROEQUITIES Diageo plc",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2020-07-27",
+      "filedDate": "2020-09-21",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20017404.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "E000296",
+      "assetRaw": "PROEQUITIES Williams Companies, Inc. (WMb) [ST]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2020-07-27",
+      "filedDate": "2020-09-21",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20017404.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "E000296",
+      "assetRaw": "PROEQUITIES berkshire Hathaway Inc. New (bRK.b) [ST]",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2020-07-27",
+      "filedDate": "2020-09-21",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20017404.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "E000296",
+      "assetRaw": "Transdigm group Incorporated Transdigm group Inc. (TDg) [ST]",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2020-06-08",
+      "filedDate": "2020-07-20",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20016992.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "E000296",
+      "assetRaw": "PROEQUITIES Diageo plc",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2020-03-02",
+      "filedDate": "2020-04-23",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20016466.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "E000296",
+      "assetRaw": "PROEQUITIES Exxon Mobil Corporation",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2020-03-02",
+      "filedDate": "2020-04-23",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20016466.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "E000296",
+      "assetRaw": "PROEQUITIES Intel Corporation",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2020-03-02",
+      "filedDate": "2020-04-23",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20016466.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "E000296",
+      "assetRaw": "PROEQUITIES Neogenomics, Inc.",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2020-03-02",
+      "filedDate": "2020-04-23",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20016466.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "E000296",
+      "assetRaw": "PROEQUITIES Pfizer, Inc.",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2020-03-02",
+      "filedDate": "2020-04-23",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20016466.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "E000296",
+      "assetRaw": "PROEQUITIES Raytheon Company",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2020-03-02",
+      "filedDate": "2020-04-23",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20016466.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "E000296",
+      "assetRaw": "PROEQUITIES Royal Dutch Shell PlC Royal Dutch Shell american Depositary Shares (RDS.a) [ST]",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2020-03-02",
+      "filedDate": "2020-04-23",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20016466.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "E000296",
+      "assetRaw": "PROEQUITIES Suncor Energy Inc.",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2020-03-02",
+      "filedDate": "2020-04-23",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20016466.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "E000296",
+      "assetRaw": "PROEQUITIES The Carlyle group Inc. (Cg) [ST]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2020-03-02",
+      "filedDate": "2020-04-23",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20016466.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "E000296",
+      "assetRaw": "PROEQUITIES Thermo Fisher Scientific Inc",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2020-03-02",
+      "filedDate": "2020-04-23",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20016466.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "E000296",
+      "assetRaw": "PROEQUITIES Twist bioscience Corporation",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2020-03-02",
+      "filedDate": "2020-04-23",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20016466.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "E000296",
+      "assetRaw": "PROEQUITIES United Technologies Corporation",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2020-03-02",
+      "filedDate": "2020-04-23",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20016466.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "E000296",
+      "assetRaw": "PROEQUITIES aT&T Inc.",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2020-03-02",
+      "filedDate": "2020-04-23",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20016466.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "E000296",
+      "assetRaw": "PROEQUITIES american Water Works Company, Inc. (aWK) [ST]",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2020-03-02",
+      "filedDate": "2020-04-23",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20016466.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "E000296",
+      "assetRaw": "PROEQUITIES apollo global Management, Inc. Class a (aPO) [ST]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2020-03-02",
+      "filedDate": "2020-04-23",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20016466.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "E000296",
+      "assetRaw": "PROEQUITIES berkshire Hathaway Inc. New (bRK.b) [ST]",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2020-03-02",
+      "filedDate": "2020-04-23",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20016466.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "E000296",
+      "assetRaw": "american Electric Power Company, Inc. (aEP) [ST]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2020-03-02",
+      "filedDate": "2020-04-23",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20016466.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "E000296",
+      "assetRaw": "PROEQUITIES Diageo plc",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2019-10-15",
+      "filedDate": "2019-11-15",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20012610.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "E000296",
+      "assetRaw": "PROEQUITIES Hannon armstrong Sustainable Infrastructure Capital, Inc. (HaSI) [ST]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2019-10-15",
+      "filedDate": "2019-11-15",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20012610.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "E000296",
+      "assetRaw": "PROEQUITIES Intel Corporation",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2019-10-15",
+      "filedDate": "2019-11-15",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20012610.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "E000296",
+      "assetRaw": "PROEQUITIES Thermo Fisher Scientific Inc",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2019-10-15",
+      "filedDate": "2019-11-15",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20012610.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "E000296",
+      "assetRaw": "PROEQUITIES aT&T Inc.",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2019-10-15",
+      "filedDate": "2019-11-15",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20012610.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "E000296",
+      "assetRaw": "PROEQUITIES alphabet Inc. - Class a (gOOgl) [ST]",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2019-10-15",
+      "filedDate": "2019-11-15",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20012610.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "E000296",
+      "assetRaw": "PROEQUITIES amazon.com, Inc. (aMZN) [ST]",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2019-10-15",
+      "filedDate": "2019-11-15",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20012610.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "E000296",
+      "assetRaw": "PROEQUITIES american Electric Power Company, Inc. (aEP) [ST]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2019-10-15",
+      "filedDate": "2019-11-15",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20012610.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "E000296",
+      "assetRaw": "PROEQUITIES berkshire Hathaway Inc. New (bRK.b) [ST]",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2019-10-15",
+      "filedDate": "2019-11-15",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20012610.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "E000296",
+      "assetRaw": "alibaba group Holding limited american Depositary Shares each representing eight Ordinary share (baba) [ST]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2019-10-15",
+      "filedDate": "2019-11-15",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20012610.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "E000296",
+      "assetRaw": "PROEQUITIES Kinder Morgan, Inc.",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2019-05-14",
+      "filedDate": "2019-05-15",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20011689.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "E000296",
+      "assetRaw": "PROEQUITIES Huntington Ingalls Industries, Inc.",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2019-04-15",
+      "filedDate": "2019-05-15",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20011689.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "E000296",
+      "assetRaw": "PROEQUITIES The Carlyle group l.P. - Common Units (Cg) [ST]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2019-04-15",
+      "filedDate": "2019-05-15",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20011689.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "E000296",
+      "assetRaw": "apollo global Management, llC Class a Common Shares Representing Class a limitied liability Company Interests (aPO) [ST]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2019-04-15",
+      "filedDate": "2019-05-15",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20011689.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "E000296",
+      "assetRaw": "PROEQUITIES alphabet Inc. - Class a (gOOgl) [ST]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2018-08-20",
+      "filedDate": "2018-09-26",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20010360.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "E000296",
+      "assetRaw": "PROEQUITIES Colony Capital, Inc. (ClNY) [ST]",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2018-08-17",
+      "filedDate": "2018-09-26",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20010360.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "E000296",
+      "assetRaw": "PROEQUITIES Hannon armstrong Sustainable Infrastructure Capital, Inc. (HaSI) [ST]",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2018-08-17",
+      "filedDate": "2018-09-26",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20010360.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "E000296",
+      "assetRaw": "PROEQUITIES Intel Corporation",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2018-08-17",
+      "filedDate": "2018-09-26",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20010360.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "E000296",
+      "assetRaw": "PROEQUITIES JP Morgan Chase & Co.",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2018-08-17",
+      "filedDate": "2018-09-26",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20010360.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "E000296",
+      "assetRaw": "PROEQUITIES Macquarie Infrastructure Corporation",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2018-08-17",
+      "filedDate": "2018-09-26",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20010360.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "E000296",
+      "assetRaw": "PROEQUITIES Microsoft Corporation (MSFT)",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2018-08-17",
+      "filedDate": "2018-09-26",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20010360.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "E000296",
+      "assetRaw": "PROEQUITIES Nokia Oy Corp ab a Shs Ordinary Shares (NOKbF) [ST]",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2018-08-17",
+      "filedDate": "2018-09-26",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20010360.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "E000296",
+      "assetRaw": "PROEQUITIES Orchids Paper Products Company",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2018-08-17",
+      "filedDate": "2018-09-26",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20010360.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "E000296",
+      "assetRaw": "PROEQUITIES Pfizer, Inc.",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2018-08-17",
+      "filedDate": "2018-09-26",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20010360.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "E000296",
+      "assetRaw": "PROEQUITIES Royal Dutch Shell PlC Royal Dutch Shell american Depositary Shares (RDS.a) [ST]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2018-08-17",
+      "filedDate": "2018-09-26",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20010360.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "E000296",
+      "assetRaw": "PROEQUITIES Thermo Fisher Scientific Inc",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2018-08-17",
+      "filedDate": "2018-09-26",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20010360.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "E000296",
+      "assetRaw": "PROEQUITIES TravelCenters of america llC 8.25% Senior Notes due 2028 (TaNN) [ST]",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2018-08-17",
+      "filedDate": "2018-09-26",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20010360.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "E000296",
+      "assetRaw": "PROEQUITIES alphabet Inc. - Class a (gOOgl) [ST]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2018-08-17",
+      "filedDate": "2018-09-26",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20010360.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "E000296",
+      "assetRaw": "PROEQUITIES amTrust Financial Services, Inc. Depository Shares Representing",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2018-08-17",
+      "filedDate": "2018-09-26",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20010360.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "E000296",
+      "assetRaw": "PROEQUITIES amazon.com, Inc. (aMZN) [ST]",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2018-08-17",
+      "filedDate": "2018-09-26",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20010360.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "E000296",
+      "assetRaw": "PROEQUITIES american Water Works Company, Inc. (aWK) [ST]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2018-08-17",
+      "filedDate": "2018-09-26",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20010360.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "E000296",
+      "assetRaw": "PROEQUITIES apple Inc. (aaPl) [ST]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2018-08-17",
+      "filedDate": "2018-09-26",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20010360.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "E000296",
+      "assetRaw": "PROEQUITIES berkshire Hathaway Inc. New (bRK.b) [ST]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2018-08-17",
+      "filedDate": "2018-09-26",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20010360.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "E000296",
+      "assetRaw": "PROEQUITIES google Inc. - Class C Capital Stock When Issued (gOOCV) [ST]",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2018-08-17",
+      "filedDate": "2018-09-26",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20010360.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "E000296",
+      "assetRaw": "[ST] gfedc FIlINg STaTUS: New PROEQUITIES NextEra Energy, Inc.",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2018-08-17",
+      "filedDate": "2018-09-26",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20010360.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "E000296",
+      "assetRaw": "alibaba group Holding limited american Depositary Shares each representing one Ordinary share (baba) [ST]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2018-08-17",
+      "filedDate": "2018-09-26",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20010360.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "E000296",
+      "assetRaw": "FRANKLIN INCOME FUND [OT]",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2018-04-10",
+      "filedDate": "2018-05-23",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20009625.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "E000296",
+      "assetRaw": "PROEQUITIES LOCATION: US DESCRIPTION: MUTUAL FUNDS THE OSTERWEIS STRATEgIC INCOME FUND [OT]",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2018-04-10",
+      "filedDate": "2018-05-23",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20009625.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "E000296",
+      "assetRaw": "PROEQUITIES First Trust Chindia ETF (FNI)",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-10-20",
+      "filedDate": "2017-11-02",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2017/20008321.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "E000296",
+      "assetRaw": "PROEQUITIES Huntington Ingalls Industries, Inc. (HII)",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2017-10-20",
+      "filedDate": "2017-11-02",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2017/20008321.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "E000296",
+      "assetRaw": "PROEQUITIES Kinder Morgan, Inc. (KMI)",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-10-20",
+      "filedDate": "2017-11-02",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2017/20008321.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "E000296",
+      "assetRaw": "PROEQUITIES ONEOK, Inc. (OKE)",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2017-10-20",
+      "filedDate": "2017-11-02",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2017/20008321.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "E000296",
+      "assetRaw": "PROEQUITIES Targa Resources Partners lP 9.00% Series a Fixed-to-Floating Rate Cumulative Redeemable Perpetual Preferred Units representing preferred equity interests (NglS$a)",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2017-10-20",
+      "filedDate": "2017-11-02",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2017/20008321.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "E000296",
+      "assetRaw": "PROEQUITIES Transdigm group Incorporated Transdigm group Inc. (TDg)",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2017-10-20",
+      "filedDate": "2017-11-02",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2017/20008321.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "E000296",
+      "assetRaw": "PROEQUITIES Transdigm group Incorporated Transdigm group Inc. (TDg)",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-10-20",
+      "filedDate": "2017-11-02",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2017/20008321.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "E000296",
+      "assetRaw": "blDRS Emerging Markets 50 aDR Index Fund (aDRE)",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-10-20",
+      "filedDate": "2017-11-02",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2017/20008321.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "E000296",
+      "assetRaw": "Colony NorthStar, Inc. 8.75% Series A cumulative redeemable perpetual preferred stock (ClNS$A)",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2017-05-23",
+      "filedDate": "2017-07-07",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2017/20007391.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "E000296",
+      "assetRaw": "onsored American Depositary Shares (NoK)",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-05-23",
+      "filedDate": "2017-07-07",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2017/20007391.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "E000296",
+      "assetRaw": "Alphabet Inc. - Class C Capital Stock (goog)",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2016-12-30",
+      "filedDate": "2017-05-24",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2017/20007301.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "E000296",
+      "assetRaw": "oPPENHEIMER IRA Amazon.com, Inc. (AMZN)",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2016-12-30",
+      "filedDate": "2017-05-24",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2017/20007301.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "E000296",
+      "assetRaw": "oPPENHEIMER IRA Aqua America, Inc. (WTR)",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2016-12-30",
+      "filedDate": "2017-05-24",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2017/20007301.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "E000296",
+      "assetRaw": "oPPENHEIMER IRA Astrazeneca PlC (AZN)",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2016-12-30",
+      "filedDate": "2017-05-24",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2017/20007301.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "E000296",
+      "assetRaw": "oPPENHEIMER IRA DXC Technology Company (DXC)",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2016-12-30",
+      "filedDate": "2017-05-24",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2017/20007301.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "E000296",
+      "assetRaw": "oPPENHEIMER IRA Hannon Armstrong Sustainable Infrastructure Capital, Inc. (HASI)",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2016-12-30",
+      "filedDate": "2017-05-24",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2017/20007301.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "E000296",
+      "assetRaw": "oPPENHEIMER IRA Hewlett Packard Enterprise Company (HPE)",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2016-12-30",
+      "filedDate": "2017-05-24",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2017/20007301.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "E000296",
+      "assetRaw": "oPPENHEIMER IRA Intel Corporation (INTC)",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2016-12-30",
+      "filedDate": "2017-05-24",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2017/20007301.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "E000296",
+      "assetRaw": "oPPENHEIMER IRA Macquarie global Infrastructure Total Return Fund Inc. (Mgu)",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2016-12-30",
+      "filedDate": "2017-05-24",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2017/20007301.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "E000296",
+      "assetRaw": "oPPENHEIMER IRA Thermo Fisher Scientific Inc (TMo)",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2016-12-30",
+      "filedDate": "2017-05-24",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2017/20007301.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "E000296",
+      "assetRaw": "oPPENHEIMER IRA orchids Paper Products Company (TIS)",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2016-12-30",
+      "filedDate": "2017-05-24",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2017/20007301.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    }
+  ],
+  "series": [
+    {
+      "date": "2016-12-30",
+      "value": 32500.5
+    },
+    {
+      "date": "2016-12-30",
+      "value": 32500.5
+    },
+    {
+      "date": "2016-12-30",
+      "value": 8000.5
+    },
+    {
+      "date": "2016-12-30",
+      "value": 8000.5
+    },
+    {
+      "date": "2016-12-30",
+      "value": 8000.5
+    },
+    {
+      "date": "2016-12-30",
+      "value": 8000.5
+    },
+    {
+      "date": "2016-12-30",
+      "value": 8000.5
+    },
+    {
+      "date": "2016-12-30",
+      "value": 8000.5
+    },
+    {
+      "date": "2016-12-30",
+      "value": 32500.5
+    },
+    {
+      "date": "2016-12-30",
+      "value": 32500.5
+    },
+    {
+      "date": "2016-12-30",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-05-23",
+      "value": 32500.5
+    },
+    {
+      "date": "2017-05-23",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-10-20",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-10-20",
+      "value": 32500.5
+    },
+    {
+      "date": "2017-10-20",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-10-20",
+      "value": 32500.5
+    },
+    {
+      "date": "2017-10-20",
+      "value": 32500.5
+    },
+    {
+      "date": "2017-10-20",
+      "value": 32500.5
+    },
+    {
+      "date": "2017-10-20",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-10-20",
+      "value": 8000.5
+    },
+    {
+      "date": "2018-04-10",
+      "value": 8000.5
+    },
+    {
+      "date": "2018-04-10",
+      "value": 32500.5
+    },
+    {
+      "date": "2018-08-17",
+      "value": 32500.5
+    },
+    {
+      "date": "2018-08-17",
+      "value": 8000.5
+    },
+    {
+      "date": "2018-08-17",
+      "value": 8000.5
+    },
+    {
+      "date": "2018-08-17",
+      "value": 8000.5
+    },
+    {
+      "date": "2018-08-17",
+      "value": 8000.5
+    },
+    {
+      "date": "2018-08-17",
+      "value": 8000.5
+    },
+    {
+      "date": "2018-08-17",
+      "value": 8000.5
+    },
+    {
+      "date": "2018-08-17",
+      "value": 8000.5
+    },
+    {
+      "date": "2018-08-17",
+      "value": 8000.5
+    },
+    {
+      "date": "2018-08-17",
+      "value": 8000.5
+    },
+    {
+      "date": "2018-08-17",
+      "value": 8000.5
+    },
+    {
+      "date": "2018-08-17",
+      "value": 32500.5
+    },
+    {
+      "date": "2018-08-17",
+      "value": 32500.5
+    },
+    {
+      "date": "2018-08-17",
+      "value": 32500.5
+    },
+    {
+      "date": "2018-08-17",
+      "value": 32500.5
+    },
+    {
+      "date": "2018-08-17",
+      "value": 8000.5
+    },
+    {
+      "date": "2018-08-17",
+      "value": 8000.5
+    },
+    {
+      "date": "2018-08-17",
+      "value": 8000.5
+    },
+    {
+      "date": "2018-08-17",
+      "value": 32500.5
+    },
+    {
+      "date": "2018-08-17",
+      "value": 8000.5
+    },
+    {
+      "date": "2018-08-17",
+      "value": 8000.5
+    },
+    {
+      "date": "2018-08-20",
+      "value": 8000.5
+    },
+    {
+      "date": "2019-04-15",
+      "value": 8000.5
+    },
+    {
+      "date": "2019-04-15",
+      "value": 8000.5
+    },
+    {
+      "date": "2019-04-15",
+      "value": 8000.5
+    },
+    {
+      "date": "2019-05-14",
+      "value": 8000.5
+    },
+    {
+      "date": "2019-10-15",
+      "value": 8000.5
+    },
+    {
+      "date": "2019-10-15",
+      "value": 8000.5
+    },
+    {
+      "date": "2019-10-15",
+      "value": 8000.5
+    },
+    {
+      "date": "2019-10-15",
+      "value": 8000.5
+    },
+    {
+      "date": "2019-10-15",
+      "value": 8000.5
+    },
+    {
+      "date": "2019-10-15",
+      "value": 8000.5
+    },
+    {
+      "date": "2019-10-15",
+      "value": 8000.5
+    },
+    {
+      "date": "2019-10-15",
+      "value": 8000.5
+    },
+    {
+      "date": "2019-10-15",
+      "value": 8000.5
+    },
+    {
+      "date": "2019-10-15",
+      "value": 8000.5
+    },
+    {
+      "date": "2020-03-02",
+      "value": 8000.5
+    },
+    {
+      "date": "2020-03-02",
+      "value": 8000.5
+    },
+    {
+      "date": "2020-03-02",
+      "value": 8000.5
+    },
+    {
+      "date": "2020-03-02",
+      "value": 8000.5
+    },
+    {
+      "date": "2020-03-02",
+      "value": 8000.5
+    },
+    {
+      "date": "2020-03-02",
+      "value": 8000.5
+    },
+    {
+      "date": "2020-03-02",
+      "value": 8000.5
+    },
+    {
+      "date": "2020-03-02",
+      "value": 8000.5
+    },
+    {
+      "date": "2020-03-02",
+      "value": 8000.5
+    },
+    {
+      "date": "2020-03-02",
+      "value": 8000.5
+    },
+    {
+      "date": "2020-03-02",
+      "value": 8000.5
+    },
+    {
+      "date": "2020-03-02",
+      "value": 8000.5
+    },
+    {
+      "date": "2020-03-02",
+      "value": 8000.5
+    },
+    {
+      "date": "2020-03-02",
+      "value": 8000.5
+    },
+    {
+      "date": "2020-03-02",
+      "value": 8000.5
+    },
+    {
+      "date": "2020-03-02",
+      "value": 8000.5
+    },
+    {
+      "date": "2020-03-02",
+      "value": 8000.5
+    },
+    {
+      "date": "2020-06-08",
+      "value": 75000.5
+    },
+    {
+      "date": "2020-07-27",
+      "value": 8000.5
+    },
+    {
+      "date": "2020-07-27",
+      "value": 8000.5
+    },
+    {
+      "date": "2020-07-27",
+      "value": 8000.5
+    },
+    {
+      "date": "2020-07-27",
+      "value": 8000.5
+    },
+    {
+      "date": "2020-07-28",
+      "value": 8000.5
+    },
+    {
+      "date": "2020-07-28",
+      "value": 8000.5
+    },
+    {
+      "date": "2020-07-28",
+      "value": 8000.5
+    },
+    {
+      "date": "2020-09-04",
+      "value": 8000.5
+    },
+    {
+      "date": "2020-09-04",
+      "value": 8000.5
+    },
+    {
+      "date": "2020-09-04",
+      "value": 8000.5
+    },
+    {
+      "date": "2020-10-14",
+      "value": 8000.5
+    },
+    {
+      "date": "2020-10-14",
+      "value": 8000.5
+    },
+    {
+      "date": "2020-10-21",
+      "value": 8000.5
+    },
+    {
+      "date": "2020-10-21",
+      "value": 8000.5
+    },
+    {
+      "date": "2020-10-29",
+      "value": 8000.5
+    },
+    {
+      "date": "2020-10-29",
+      "value": 8000.5
+    },
+    {
+      "date": "2020-10-29",
+      "value": 8000.5
+    },
+    {
+      "date": "2020-10-29",
+      "value": 8000.5
+    },
+    {
+      "date": "2020-10-29",
+      "value": 8000.5
+    },
+    {
+      "date": "2020-10-29",
+      "value": 8000.5
+    },
+    {
+      "date": "2020-10-29",
+      "value": 8000.5
+    },
+    {
+      "date": "2020-10-29",
+      "value": 8000.5
+    },
+    {
+      "date": "2020-10-29",
+      "value": 8000.5
+    },
+    {
+      "date": "2020-10-29",
+      "value": 8000.5
+    },
+    {
+      "date": "2020-10-29",
+      "value": 8000.5
+    },
+    {
+      "date": "2020-12-21",
+      "value": 32500.5
+    },
+    {
+      "date": "2020-12-30",
+      "value": 8000.5
+    },
+    {
+      "date": "2020-12-30",
+      "value": 32500.5
+    },
+    {
+      "date": "2021-05-11",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-05-26",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-05-26",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-05-26",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-05-26",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-05-26",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-05-26",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-11-02",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-11-02",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-11-02",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-11-02",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-03-25",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-03-30",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-03-30",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-03-30",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-03-30",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-03-30",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-03-30",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-03-30",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-08-05",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-08-05",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-08-05",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-08-05",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-11-14",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-11-14",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-11-14",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-11-14",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-11-14",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-11-14",
+      "value": 8000.5
+    },
+    {
+      "date": "2023-02-28",
+      "value": 8000.5
+    },
+    {
+      "date": "2023-02-28",
+      "value": 8000.5
+    },
+    {
+      "date": "2023-06-22",
+      "value": 8000.5
+    },
+    {
+      "date": "2023-06-22",
+      "value": 8000.5
+    },
+    {
+      "date": "2023-06-22",
+      "value": 8000.5
+    },
+    {
+      "date": "2023-06-22",
+      "value": 8000.5
+    },
+    {
+      "date": "2023-12-20",
+      "value": 8000.5
+    },
+    {
+      "date": "2023-12-20",
+      "value": 8000.5
+    },
+    {
+      "date": "2023-12-20",
+      "value": 8000.5
+    },
+    {
+      "date": "2024-10-29",
+      "value": 32500.5
+    },
+    {
+      "date": "2024-10-29",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-04-03",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-04-03",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-04-03",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-04-03",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-04-03",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-04-03",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-04-03",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-04-03",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-04-03",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-04-03",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-04-03",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-04-03",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-04-03",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-10-10",
+      "value": 32500.5
+    },
+    {
+      "date": "2025-11-21",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-11-21",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-11-21",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-11-21",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-11-21",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-11-21",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-11-21",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-11-21",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-03-24",
+      "value": 32500.5
+    },
+    {
+      "date": "2026-05-07",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-05-07",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-05-07",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-05-11",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-06-10",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-06-10",
+      "value": 8000.5
+    }
+  ],
+  "measured": null
+}

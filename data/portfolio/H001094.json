@@ -1,0 +1,61 @@
+{
+  "member": {
+    "bioguideId": "H001094",
+    "name": "Val T. Hoyle",
+    "party": "D",
+    "chamber": "house",
+    "state": "OR",
+    "district": "OR-04",
+    "active": true
+  },
+  "positions": [
+    {
+      "memberId": "H001094",
+      "security": {
+        "ticker": "LPLA",
+        "kind": "other"
+      },
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "sold",
+      "asOf": "2025-04-02",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034581.pdf"
+        }
+      ],
+      "note": "sale reported by PTR with no annual baseline in our coverage"
+    }
+  ],
+  "trades": [
+    {
+      "memberId": "H001094",
+      "assetRaw": "LPL Financial Holdings Inc. - Common Stock (LPLA) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-04-02",
+      "filedDate": "2026-05-15",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034581.pdf",
+      "late": true,
+      "provenance": "official"
+    }
+  ],
+  "series": [
+    {
+      "date": "2025-04-02",
+      "value": 8000.5
+    }
+  ],
+  "measured": null
+}

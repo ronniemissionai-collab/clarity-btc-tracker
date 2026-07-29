@@ -1,0 +1,38 @@
+{
+  "member": {
+    "bioguideId": "S001150",
+    "lisId": "S427",
+    "name": "Adam B. Schiff",
+    "party": "D",
+    "chamber": "senate",
+    "state": "CA",
+    "active": true
+  },
+  "positions": [],
+  "trades": [
+    {
+      "memberId": "S001150",
+      "assetRaw": "Apple Inc",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2025-09-22",
+      "filedDate": "2025-09-30",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/e8371653-d5d0-4150-abca-15cb5e6f1b2c/",
+      "late": false,
+      "note": "partial sale",
+      "provenance": "both"
+    }
+  ],
+  "series": [
+    {
+      "date": "2025-09-22",
+      "value": 32500.5
+    }
+  ],
+  "measured": null
+}

@@ -1,0 +1,1081 @@
+{
+  "member": {
+    "bioguideId": "M001222",
+    "name": "Max L. Miller",
+    "party": "R",
+    "chamber": "house",
+    "state": "OH",
+    "district": "OH-07",
+    "active": true
+  },
+  "positions": [
+    {
+      "memberId": "M001222",
+      "security": {
+        "ticker": "GLAS",
+        "kind": "other"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 3003,
+        "hi": 45000
+      },
+      "status": "holds",
+      "asOf": "2025-10-15",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030585.pdf"
+        },
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032187.pdf"
+        }
+      ]
+    }
+  ],
+  "trades": [
+    {
+      "memberId": "M001222",
+      "assetRaw": "Riverside Acceleration Capital Opportunity Fund II (GLAS Funds, LP) [HN]",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-07-22",
+      "filedDate": "2026-07-26",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035075.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "M001222",
+      "assetRaw": "Cliffwater Corporate Lending Fund (Ticker: CCLFX) [OT]",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2026-05-29",
+      "filedDate": "2026-07-01",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034869.pdf",
+      "late": false,
+      "note": "partial sale",
+      "provenance": "both"
+    },
+    {
+      "memberId": "M001222",
+      "assetRaw": "Alpine Investors IX, LP (GLAS Funds, LP) [HN]",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-05-15",
+      "filedDate": "2026-05-29",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034651.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "M001222",
+      "assetRaw": "GLAS Funds, LP [HN]",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-05-11",
+      "filedDate": "2026-05-29",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034651.pdf",
+      "late": false,
+      "note": "partial sale",
+      "provenance": "both"
+    },
+    {
+      "memberId": "M001222",
+      "assetRaw": "Alta Park Endurance Fund, LP (GLAS Funds, LP) [HN]",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2026-04-10",
+      "filedDate": "2026-04-28",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034419.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "M001222",
+      "assetRaw": "GLAS Funds, LP [HN]",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2026-04-06",
+      "filedDate": "2026-04-28",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034419.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "M001222",
+      "assetRaw": "Mercato Partners Traverse IV QP, LP (GLAS Funds, LP) [HN]",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-04-02",
+      "filedDate": "2026-04-28",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034419.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "M001222",
+      "assetRaw": "Alpine Investors IX, LP (GLAS Funds, LP) [HN]",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-03-13",
+      "filedDate": "2026-03-30",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034247.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "M001222",
+      "assetRaw": "Riverside Acceleration Capital Opportunity Fund II (GLAS Funds, LP) [HN]",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-03-13",
+      "filedDate": "2026-03-30",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034247.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "M001222",
+      "assetRaw": "Trimer Capital Partners I LP (GLAS Funds LP)",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-03-03",
+      "filedDate": "2026-03-30",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034247.pdf",
+      "late": false,
+      "note": "Capital call of $707.21",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001222",
+      "assetRaw": "Trimer Capital Select I LP (GLAS Funds LP)",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-03-03",
+      "filedDate": "2026-03-30",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034247.pdf",
+      "late": false,
+      "note": "Capital call of $584.22",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001222",
+      "assetRaw": "New Water Capital Partners II, LP (GLAS Funds LP)",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-02-27",
+      "filedDate": "2026-03-30",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034247.pdf",
+      "late": false,
+      "note": "Capital Call of $318.74",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001222",
+      "assetRaw": "New Water Capital Partners II, LP (GLAS Funds, LP) [HN]",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-02-27",
+      "filedDate": "2026-03-30",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034247.pdf",
+      "late": false,
+      "note": "partial sale",
+      "provenance": "both"
+    },
+    {
+      "memberId": "M001222",
+      "assetRaw": ",432.26 GLAS Funds, LP [HN]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-01-07",
+      "filedDate": "2026-01-29",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033881.pdf",
+      "late": false,
+      "note": "Capital Call of $3,100 for fees",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001222",
+      "assetRaw": "Alpine Investors IX, LP (GLAS Funds, LP) [HN]",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-01-07",
+      "filedDate": "2026-01-29",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033881.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "M001222",
+      "assetRaw": "GLAS Funds, LP [HN]",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-01-07",
+      "filedDate": "2026-01-29",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033881.pdf",
+      "late": false,
+      "provenance": "official"
+    },
+    {
+      "memberId": "M001222",
+      "assetRaw": "Mercato Partners Traverse IV QP, LP (GLAS Funds, LP) [HN]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-10-27",
+      "filedDate": "2025-10-28",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032187.pdf",
+      "late": false,
+      "note": "Capital call for $1,256 New Water Capital Partners II, LP (GLAS Funds, LP) [HN]",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001222",
+      "assetRaw": ",011.50 Trimer Capital Partners I LP (GLAS)",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-10-15",
+      "filedDate": "2025-10-28",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032187.pdf",
+      "late": false,
+      "note": "Capital call for $1,823.83 Trimer Capital Partners I LP (GLAS) - Select [HN] P10/15/202510/28/2025$459.77",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001222",
+      "assetRaw": ",951.81) RAC Opportunity Fund II, LP (GLAS Funds, LP) [HN]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-09-23",
+      "filedDate": "2025-10-28",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032187.pdf",
+      "late": false,
+      "note": "Capital call of $6,011.50 Trimer Capital Partners I LP (GLAS) - Core [HN]",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001222",
+      "assetRaw": ",256 New Water Capital Partners II, LP (GLAS Funds, LP) [HN]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-09-17",
+      "filedDate": "2025-10-28",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032187.pdf",
+      "late": false,
+      "note": "Capital call for New Water Capital II ($2,951.81) RAC Opportunity Fund II, LP (GLAS Funds, LP) [HN]",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001222",
+      "assetRaw": "AIX Ventures Fund II, LP (GLAS Funds, LP) [HN]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-08-04",
+      "filedDate": "2025-08-28",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030989.pdf",
+      "late": false,
+      "note": "Capital Call for AIX Ventures Fund II, L.P. (GLAS LP) for $2,749.30",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001222",
+      "assetRaw": "AIX Ventures Fund II, LP (GLAS Funds, LP) [HN] P07/15/202507/27/2025$647.63 , LP (GLAS Funds, LP) GLAS Funds, LP [HN]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2025-07-15",
+      "filedDate": "2025-07-27",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030742.pdf",
+      "late": false,
+      "note": "Transfer of $25,000 to GLAS Funds, LP to fund capital calls for future investments.",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001222",
+      "assetRaw": "Mercato Partners Traverse IV QP, LP (GLAS Funds, LP)",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-06-30",
+      "filedDate": "2025-07-01",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030585.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001222",
+      "assetRaw": "Trimer Capital Partners I LP (GLAS) - Select",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-06-30",
+      "filedDate": "2025-07-01",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030585.pdf",
+      "late": false,
+      "note": "Capital call ($1,231.34) for Trimer Capital Partners I LP (GLAS) - Select",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001222",
+      "assetRaw": "AIX Ventures Fund II, LP (GLAS Funds, LP)",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-06-16",
+      "filedDate": "2025-07-01",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030585.pdf",
+      "late": false,
+      "note": "Capital Call for AIX Ventures Fund II, LP (GLAS Funds LP) for $7,459.87",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001222",
+      "assetRaw": "Trimer Capital Partners I LP (GLAS) - Core",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-06-12",
+      "filedDate": "2025-07-01",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030585.pdf",
+      "late": false,
+      "note": "Capital call for $2,388.63 for Trimer Capital Partners I - Core",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001222",
+      "assetRaw": "AIX Ventures Fund II, LP (GLAS Funds, LP) [HN]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-05-08",
+      "filedDate": "2025-05-22",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030401.pdf",
+      "late": false,
+      "note": "Capital call for AIX Ventures Fund II, LP",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001222",
+      "assetRaw": "Alpine Investors IX, LP (GLAS Funds, LP) [HN]",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-03-10",
+      "filedDate": "2025-03-27",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20029035.pdf",
+      "late": false,
+      "note": "Distribution from Alpine Investors IX LP of $2,202.88",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001222",
+      "assetRaw": ",965 Mercato Partners Travers IV QP, LP (GLAS Funds, LP) [HN]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-02-05",
+      "filedDate": "2025-02-24",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20027838.pdf",
+      "late": false,
+      "note": "Capital call for $7,035",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001222",
+      "assetRaw": "GLAS Funds, LP [HN]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2025-02-05",
+      "filedDate": "2025-02-24",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20027838.pdf",
+      "late": false,
+      "note": "Pre-fund future capital calls of $17,965 Mercato Partners Travers IV QP, LP (GLAS Funds, LP) [HN]",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001222",
+      "assetRaw": "Alpine Investors IX, LP",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-01-29",
+      "filedDate": "2025-01-31",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20026684.pdf",
+      "late": false,
+      "note": "Alpine Investors IX, LP capital call of $1,039.72",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001222",
+      "assetRaw": "RAC Opportunity Fund II, LP (GLAS Funds, LP)",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-01-27",
+      "filedDate": "2025-01-31",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20026684.pdf",
+      "late": false,
+      "note": "Capital call for RAC Opportunity Fund II, LP for $6,277.11",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001222",
+      "assetRaw": "AIX Ventures Fund II, LP (GLAS Funds, LP)",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-01-17",
+      "filedDate": "2025-01-31",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20026684.pdf",
+      "late": false,
+      "note": "Capital call for AIX Ventures Fund II, LP for $3,500",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001222",
+      "assetRaw": "New Water Capital Partners II, LP (GLAS Funds, LP) [HN]",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2024-12-19",
+      "filedDate": "2024-12-29",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/20026480.pdf",
+      "late": false,
+      "note": "Cash distribution of $4,388.99",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001222",
+      "assetRaw": "Trimer Capital Partners I LP",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2024-11-26",
+      "filedDate": "2024-12-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/20026340.pdf",
+      "late": false,
+      "note": "Capital Call for Trimer Capital Partners I LP for $2,743.58",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001222",
+      "assetRaw": "AIX Ventures Fund II, LP (GLAS Funds, LP) [HN]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2024-11-01",
+      "filedDate": "2024-11-15",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/20026231.pdf",
+      "late": false,
+      "note": "Capital call for $4,271",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001222",
+      "assetRaw": "Alpine Investors IX, LP [HN]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2024-10-09",
+      "filedDate": "2024-10-28",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/20026097.pdf",
+      "late": false,
+      "note": "Capital call for Alpine Investors IX, LP ($4,240.78)",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001222",
+      "assetRaw": "New Water Capital Partners II, LP (GLAS Funds, LP) [HN]",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2024-09-29",
+      "filedDate": "2024-10-28",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/20026090.pdf",
+      "late": false,
+      "note": "Redemption of investment $2,228.84; unsure of exact amount until K-1 received.",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001222",
+      "assetRaw": "RAC Opportunity Fund II, LP (GLAS Funds, LP) [HN]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2024-09-10",
+      "filedDate": "2024-09-10",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/20025831.pdf",
+      "late": false,
+      "note": "Capital call for RAC Opportunity Fund II, LP (GLAS) - $2,841.83",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001222",
+      "assetRaw": "AIX Ventures Fund II, LP (GLAS Funds, LP) [HN]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2024-08-22",
+      "filedDate": "2024-08-28",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/20025740.pdf",
+      "late": false,
+      "note": "Capital call for AIX Ventures Fund II, LP (GLAS Funds, LP)",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001222",
+      "assetRaw": "Mercato Partners Traverse IV LP (GLAS Funds, LP) [OT]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2024-06-14",
+      "filedDate": "2024-06-24",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/20025328.pdf",
+      "late": false,
+      "note": "Capital call Mercato Partners Traverse IV LP",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001222",
+      "assetRaw": "Alpine Investors IX, LP [HN]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2024-04-01",
+      "filedDate": "2024-04-01",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/20024772.pdf",
+      "late": false,
+      "note": "GLAS - Alpine Investors IX, LP Capital Call",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001222",
+      "assetRaw": "Elliot Associates, LP (GLAS Funds, LP) [HN]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2024-03-18",
+      "filedDate": "2024-03-18",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/20024705.pdf",
+      "late": false,
+      "note": "Capital Call - Elliott 9th",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001222",
+      "assetRaw": "RAC Opportunity Fund II, LP (GLAS Funds, LP) [HN]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2024-02-16",
+      "filedDate": "2024-02-16",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/20024519.pdf",
+      "late": false,
+      "note": "Capital call for RAC Opportunity Fund II LP",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001222",
+      "assetRaw": "Elliot Associates, LP (GLAS Funds, LP) [HN]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2023-12-20",
+      "filedDate": "2023-12-21",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20024189.pdf",
+      "late": false,
+      "note": "Capital Call for Elliot Associates, LP",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001222",
+      "assetRaw": "AIX Ventures Fund II, LP [HN]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2023-12-19",
+      "filedDate": "2023-12-19",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20024175.pdf",
+      "late": false,
+      "note": "Capital call for AIX Ventures Fund II, LP New Water Capital Partners II, LP (GLAS Funds, LP) [HN] P12/12/202312/19/2023$982.18",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001222",
+      "assetRaw": "AIX Ventures Fund II, LP [OT]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2023-10-30",
+      "filedDate": "2023-10-30",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20023911.pdf",
+      "late": false,
+      "note": "Capital Call - AIX Ventures Fund II, LP (GLAS Funds, LP)",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001222",
+      "assetRaw": "JPMorgan Equity Premium Income ETF",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2023-10-06",
+      "filedDate": "2023-10-08",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20023822.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001222",
+      "assetRaw": "Vanguard Mid-Cap ETF",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2023-10-06",
+      "filedDate": "2023-10-08",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20023822.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001222",
+      "assetRaw": "Vanguard S&P 500 ETF",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2023-10-06",
+      "filedDate": "2023-10-08",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20023822.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001222",
+      "assetRaw": "Elliot Associates, LP (GLAS Funds, LP) [HN]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2023-06-29",
+      "filedDate": "2023-07-12",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20023296.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001222",
+      "assetRaw": "Mercato Partners IV, LP [HN]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2023-02-15",
+      "filedDate": "2024-06-28",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/20025345.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    }
+  ],
+  "series": [
+    {
+      "date": "2023-02-15",
+      "value": 8000.5
+    },
+    {
+      "date": "2023-06-29",
+      "value": 32500.5
+    },
+    {
+      "date": "2023-10-06",
+      "value": 8000.5
+    },
+    {
+      "date": "2023-10-06",
+      "value": 8000.5
+    },
+    {
+      "date": "2023-10-06",
+      "value": 32500.5
+    },
+    {
+      "date": "2023-10-30",
+      "value": 8000.5
+    },
+    {
+      "date": "2023-12-19",
+      "value": 8000.5
+    },
+    {
+      "date": "2023-12-20",
+      "value": 32500.5
+    },
+    {
+      "date": "2024-02-16",
+      "value": 8000.5
+    },
+    {
+      "date": "2024-03-18",
+      "value": 32500.5
+    },
+    {
+      "date": "2024-04-01",
+      "value": 8000.5
+    },
+    {
+      "date": "2024-06-14",
+      "value": 8000.5
+    },
+    {
+      "date": "2024-08-22",
+      "value": 8000.5
+    },
+    {
+      "date": "2024-09-10",
+      "value": 8000.5
+    },
+    {
+      "date": "2024-09-29",
+      "value": 8000.5
+    },
+    {
+      "date": "2024-10-09",
+      "value": 8000.5
+    },
+    {
+      "date": "2024-11-01",
+      "value": 8000.5
+    },
+    {
+      "date": "2024-11-26",
+      "value": 8000.5
+    },
+    {
+      "date": "2024-12-19",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-01-17",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-01-27",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-01-29",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-02-05",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-02-05",
+      "value": 32500.5
+    },
+    {
+      "date": "2025-03-10",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-05-08",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-06-12",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-06-16",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-06-30",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-06-30",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-07-15",
+      "value": 32500.5
+    },
+    {
+      "date": "2025-08-04",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-09-17",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-09-23",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-10-15",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-10-27",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-01-07",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-01-07",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-01-07",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-02-27",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-02-27",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-03-03",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-03-03",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-03-13",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-03-13",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-04-02",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-04-06",
+      "value": 32500.5
+    },
+    {
+      "date": "2026-04-10",
+      "value": 32500.5
+    },
+    {
+      "date": "2026-05-11",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-05-15",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-05-29",
+      "value": 32500.5
+    },
+    {
+      "date": "2026-07-22",
+      "value": 8000.5
+    }
+  ],
+  "measured": null
+}

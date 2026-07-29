@@ -1,0 +1,137 @@
+{
+  "member": {
+    "bioguideId": "S001205",
+    "name": "Mary Gay Scanlon",
+    "party": "D",
+    "chamber": "house",
+    "state": "PA",
+    "district": "PA-05",
+    "active": true
+  },
+  "positions": [],
+  "trades": [
+    {
+      "memberId": "S001205",
+      "assetRaw": "Constellation Energy Corporation",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2023-05-23",
+      "filedDate": "2023-06-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20023019.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S001205",
+      "assetRaw": "Exelon Corporation",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2023-05-23",
+      "filedDate": "2023-06-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20023019.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S001205",
+      "assetRaw": "Corteva, Inc.",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-02-12",
+      "filedDate": "2022-08-12",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20009266.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S001205",
+      "assetRaw": "Dow Inc.",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-02-12",
+      "filedDate": "2022-08-12",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20009266.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S001205",
+      "assetRaw": "International Flavors & Fragrances, Inc.",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-02-12",
+      "filedDate": "2022-08-12",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20009266.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S001205",
+      "assetRaw": "Oracle Corporation",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2021-02-12",
+      "filedDate": "2022-08-12",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20009266.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    }
+  ],
+  "series": [
+    {
+      "date": "2021-02-12",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-02-12",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-02-12",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-02-12",
+      "value": 32500.5
+    },
+    {
+      "date": "2023-05-23",
+      "value": 32500.5
+    },
+    {
+      "date": "2023-05-23",
+      "value": 32500.5
+    }
+  ],
+  "measured": null
+}

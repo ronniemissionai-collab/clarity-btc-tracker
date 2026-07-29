@@ -1,0 +1,4441 @@
+{
+  "member": {
+    "bioguideId": "H001061",
+    "lisId": "S344",
+    "name": "John Hoeven",
+    "party": "R",
+    "chamber": "senate",
+    "state": "ND",
+    "active": true
+  },
+  "positions": [
+    {
+      "memberId": "H001061",
+      "security": {
+        "ticker": "AMEX",
+        "kind": "other"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "status": "sold",
+      "asOf": "2015-12-02",
+      "extraction": "efd-html",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://efdsearch.senate.gov/search/view/ptr/1d31d4e4-ff04-488c-8fb4-b5136d4d078b/"
+        },
+        {
+          "kind": "filing",
+          "url": "https://efdsearch.senate.gov/search/view/ptr/c1067ff0-3436-4043-aa66-ec3ca0852747/"
+        }
+      ]
+    },
+    {
+      "memberId": "H001061",
+      "security": {
+        "ticker": "NASDAQ",
+        "kind": "other"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "status": "sold",
+      "asOf": "2015-12-07",
+      "extraction": "efd-html",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://efdsearch.senate.gov/search/view/ptr/c1067ff0-3436-4043-aa66-ec3ca0852747/"
+        }
+      ],
+      "note": "sale reported by PTR with no annual baseline in our coverage"
+    },
+    {
+      "memberId": "H001061",
+      "security": {
+        "ticker": "NYSE",
+        "kind": "other"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "status": "stale",
+      "asOf": "2016-01-06",
+      "extraction": "efd-html",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://efdsearch.senate.gov/search/view/ptr/c6c0abea-50cf-45ae-b106-e5b9360c1643/"
+        }
+      ]
+    },
+    {
+      "memberId": "H001061",
+      "security": {
+        "ticker": "REIT",
+        "kind": "other"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "status": "stale",
+      "asOf": "2019-03-22",
+      "extraction": "efd-html",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://efdsearch.senate.gov/search/view/ptr/252cb80b-a178-4762-8e33-d1d3776a0656/"
+        }
+      ]
+    }
+  ],
+  "trades": [
+    {
+      "memberId": "H001061",
+      "assetRaw": "Northwest Respiratory Services, LLC\n                                        \n                                        \n                                        \n                                            \n                                                \n                                                    Company: Northwest Respiratory Services, LLC\n                                                    \n                                                         (St. Paul, Minnesota)\n                                                    \n                                                \n                                            \n\n                                            \n                                                Description: Respiratory medical equipment and service provider",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 5000001,
+        "hi": 25000000
+      },
+      "transactionDate": "2021-07-23",
+      "filedDate": "2021-08-11",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/19dc5bc2-296b-459f-89c4-778307ee9556/",
+      "late": false,
+      "note": "Purchase price received on July 23, 2021. \n\nPartial tax distribution received July 23, 2021. Remaining tax distribution to be received within 30 days of July 23, 2021.",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001061",
+      "assetRaw": "Westbrand, Inc.\n                                        \n                                        \n                                        \n                                            \n                                                \n                                                    Company: Westbrand, Inc.\n                                                    \n                                                         (Minot, ND)\n                                                    \n                                                \n                                            \n\n                                            \n                                                Description: Bank holding company of First Western Bank",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2020-04-29",
+      "filedDate": "2020-04-30",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/d68fe6d0-0db6-41c7-b1ed-0a65561c22cf/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001061",
+      "assetRaw": "Westbrand, Inc.\n                                        \n                                        \n                                        \n                                            \n                                                \n                                                    Company: Westbrand, Inc.\n                                                    \n                                                         (Minot, ND)\n                                                    \n                                                \n                                            \n\n                                            \n                                                Description: Bank holding company of First Western Bank",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2020-04-02",
+      "filedDate": "2020-04-03",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/a92c001e-0975-47b5-966e-e8b3a01a7767/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001061",
+      "assetRaw": "BlackRock Health Sciences Trust II",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2020-01-29",
+      "filedDate": "2020-02-24",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/e01a74ce-8d08-42e0-961e-6b275519c2db/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001061",
+      "assetRaw": "Marathon Petroleum Corporation",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2019-12-31",
+      "filedDate": "2020-01-09",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/4a942198-2478-4da7-b598-c98a9fe676da/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001061",
+      "assetRaw": "Schlumberger Limited",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2019-12-31",
+      "filedDate": "2020-01-09",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/4a942198-2478-4da7-b598-c98a9fe676da/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001061",
+      "assetRaw": "Vanguard GNMA Fund Admiral Shares",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2019-12-31",
+      "filedDate": "2020-01-09",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/4a942198-2478-4da7-b598-c98a9fe676da/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001061",
+      "assetRaw": "Vanguard Intermediate-Term Bond Index Fund ETF Sha",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2019-12-31",
+      "filedDate": "2020-01-09",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/4a942198-2478-4da7-b598-c98a9fe676da/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001061",
+      "assetRaw": "Garrett Motion Inc.",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2019-12-23",
+      "filedDate": "2020-01-09",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/4a942198-2478-4da7-b598-c98a9fe676da/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001061",
+      "assetRaw": "Resideo Technologies, Inc.",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2019-12-23",
+      "filedDate": "2020-01-09",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/4a942198-2478-4da7-b598-c98a9fe676da/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001061",
+      "assetRaw": "Templeton Global Bond Fund Advisor Class",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2019-12-23",
+      "filedDate": "2020-01-09",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/4a942198-2478-4da7-b598-c98a9fe676da/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001061",
+      "assetRaw": "The Kraft Heinz Company",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2019-12-23",
+      "filedDate": "2020-01-09",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/4a942198-2478-4da7-b598-c98a9fe676da/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001061",
+      "assetRaw": "BlackRock Science and Technology Trust II",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2019-11-19",
+      "filedDate": "2019-12-12",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/1debb953-82f1-4cd3-a038-ee7c85d975f8/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001061",
+      "assetRaw": "Prudential Financial, Inc.",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2019-11-19",
+      "filedDate": "2019-12-12",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/1debb953-82f1-4cd3-a038-ee7c85d975f8/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001061",
+      "assetRaw": "Exxon Mobil Corporation",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2019-11-05",
+      "filedDate": "2019-11-20",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/efda208f-8afc-48d9-938e-5cb8e6bfc988/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001061",
+      "assetRaw": "Invesco Ltd.",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2019-11-05",
+      "filedDate": "2019-11-20",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/efda208f-8afc-48d9-938e-5cb8e6bfc988/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001061",
+      "assetRaw": "Chevron Corporation",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2019-11-04",
+      "filedDate": "2019-11-20",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/efda208f-8afc-48d9-938e-5cb8e6bfc988/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001061",
+      "assetRaw": "Exelon Corporation",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2019-11-04",
+      "filedDate": "2019-11-20",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/efda208f-8afc-48d9-938e-5cb8e6bfc988/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001061",
+      "assetRaw": "Exxon Mobil Corporation",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2019-11-04",
+      "filedDate": "2019-11-20",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/efda208f-8afc-48d9-938e-5cb8e6bfc988/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001061",
+      "assetRaw": "Two Harbors Investment Corp.",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2019-11-04",
+      "filedDate": "2019-11-20",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/efda208f-8afc-48d9-938e-5cb8e6bfc988/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001061",
+      "assetRaw": "Blackridge Financial, Inc.\n                                        \n                                        \n                                        \n                                            \n                                                \n                                                    Company: Blackridge Financial, Inc.\n                                                    \n                                                         (West Fargo, ND)\n                                                    \n                                                \n                                            \n\n                                            \n                                                Description: Bank holding company of Blackridge bank.",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 5000001,
+        "hi": 25000000
+      },
+      "transactionDate": "2019-10-28",
+      "filedDate": "2019-11-06",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/16a9d121-1b14-4ad9-90a1-e28a477e6df6/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001061",
+      "assetRaw": "International Business Machines Corporation",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2019-10-21",
+      "filedDate": "2019-10-24",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/2d940cf0-3a7b-4b26-bcce-2e94b43c3af6/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001061",
+      "assetRaw": "Westbrand, Inc. stock\n                                        \n                                        \n                                        \n                                            \n                                                \n                                                    Company: Westbrand, Inc.\n                                                    \n                                                         (Minot, ND)\n                                                    \n                                                \n                                            \n\n                                            \n                                                Description: Bank holding company of First Western Bank",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2019-10-03",
+      "filedDate": "2019-10-03",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/6574125b-c104-4e63-8b55-b4f54bacd2d0/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001061",
+      "assetRaw": "Kontoor Brands, Inc.",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2019-09-24",
+      "filedDate": "2019-09-25",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/eefc9098-5599-4d95-9044-f7d0173034ce/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001061",
+      "assetRaw": "Netflix, Inc.",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2019-09-24",
+      "filedDate": "2019-09-25",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/eefc9098-5599-4d95-9044-f7d0173034ce/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001061",
+      "assetRaw": "Dow Inc.",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2019-08-22",
+      "filedDate": "2019-08-23",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/5b5588c0-5433-408a-a8c9-3a1963c4e706/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001061",
+      "assetRaw": "CVS Health Corporation",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2019-07-23",
+      "filedDate": "2019-08-15",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/40116820-a759-432f-a37e-b8a118feae2d/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001061",
+      "assetRaw": "United Parcel Service, Inc.",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2019-07-23",
+      "filedDate": "2019-08-15",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/40116820-a759-432f-a37e-b8a118feae2d/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001061",
+      "assetRaw": "BlackRock Science and Technology Trust II",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2019-06-26",
+      "filedDate": "2019-07-09",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/47efab39-e97d-4131-9ac2-8d68c52b7c62/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001061",
+      "assetRaw": "Celanese Corporation",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2019-05-30",
+      "filedDate": "2019-06-03",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/b661543f-099b-40c5-87fa-bafce0b6eb34/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001061",
+      "assetRaw": "Dow Inc.",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2019-05-30",
+      "filedDate": "2019-06-03",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/b661543f-099b-40c5-87fa-bafce0b6eb34/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001061",
+      "assetRaw": "Keurig Dr Pepper Inc.",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2019-04-25",
+      "filedDate": "2019-04-29",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/6973eebd-1e5e-41a8-8fa6-2baff09adbac/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001061",
+      "assetRaw": "Westbrand, Inc.\n                                        \n                                        \n                                        \n                                            \n                                                \n                                                    Company: Westbrand, Inc.\n                                                    \n                                                         (Minot, North Dakota)\n                                                    \n                                                \n                                            \n\n                                            \n                                                Description: Bank holding company of First Western Bank",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2019-04-09",
+      "filedDate": "2019-04-12",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/514f7dc7-c7bf-47ed-92fe-baa8c553eaec/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001061",
+      "assetRaw": "Crown Castle International Corp. (REIT)",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2019-03-22",
+      "filedDate": "2019-04-09",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/252cb80b-a178-4762-8e33-d1d3776a0656/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001061",
+      "assetRaw": "Fidelity Contrafund",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2019-03-22",
+      "filedDate": "2019-04-09",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/252cb80b-a178-4762-8e33-d1d3776a0656/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001061",
+      "assetRaw": "Invesco Ltd.",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2019-03-22",
+      "filedDate": "2019-04-09",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/252cb80b-a178-4762-8e33-d1d3776a0656/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001061",
+      "assetRaw": "JPMorgan Mid Cap Value L",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2019-03-22",
+      "filedDate": "2019-04-09",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/252cb80b-a178-4762-8e33-d1d3776a0656/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001061",
+      "assetRaw": "Keurig Dr Pepper Inc.",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2019-03-22",
+      "filedDate": "2019-04-09",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/252cb80b-a178-4762-8e33-d1d3776a0656/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001061",
+      "assetRaw": "MetLife, Inc.",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2019-03-22",
+      "filedDate": "2019-04-09",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/252cb80b-a178-4762-8e33-d1d3776a0656/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001061",
+      "assetRaw": "T. Rowe Price New Horizons",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2019-03-22",
+      "filedDate": "2019-04-09",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/252cb80b-a178-4762-8e33-d1d3776a0656/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001061",
+      "assetRaw": "Target Corporation",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2019-03-22",
+      "filedDate": "2019-04-09",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/252cb80b-a178-4762-8e33-d1d3776a0656/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001061",
+      "assetRaw": "Invesco S&P SmallCap Low Volatility ETF",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2019-03-08",
+      "filedDate": "2019-04-09",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/252cb80b-a178-4762-8e33-d1d3776a0656/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001061",
+      "assetRaw": "Invesco S&P SmallCap Low Volatility ETF",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2019-03-08",
+      "filedDate": "2019-03-22",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/14b3fd91-0c0b-4af8-ba20-14290c38208c/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001061",
+      "assetRaw": "LyondellBasell Industries N.V.",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2019-02-27",
+      "filedDate": "2019-03-07",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/8cf56e43-766e-45c7-8ade-75eec000cd12/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001061",
+      "assetRaw": "Weight Watchers International, Inc.",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2019-01-19",
+      "filedDate": "2019-05-08",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/654577b9-4028-4cfa-bb47-c961a41f2b1b/",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001061",
+      "assetRaw": "Apple Inc.",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2019-01-04",
+      "filedDate": "2019-01-11",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/3e92b9d5-1997-481e-b106-55569cd8bd9f/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001061",
+      "assetRaw": "AT&T Inc.",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2018-12-27",
+      "filedDate": "2019-01-11",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/3e92b9d5-1997-481e-b106-55569cd8bd9f/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001061",
+      "assetRaw": "Anheuser-Busch InBev SA/NV",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2018-12-27",
+      "filedDate": "2019-01-11",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/3e92b9d5-1997-481e-b106-55569cd8bd9f/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001061",
+      "assetRaw": "DowDuPont Inc.",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2018-12-27",
+      "filedDate": "2019-01-11",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/3e92b9d5-1997-481e-b106-55569cd8bd9f/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001061",
+      "assetRaw": "FedEx Corporation",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2018-12-27",
+      "filedDate": "2019-01-11",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/3e92b9d5-1997-481e-b106-55569cd8bd9f/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001061",
+      "assetRaw": "Invesco Ltd.",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2018-12-27",
+      "filedDate": "2019-01-11",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/3e92b9d5-1997-481e-b106-55569cd8bd9f/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001061",
+      "assetRaw": "Molson Coors Brewing Company",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2018-12-27",
+      "filedDate": "2019-01-11",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/3e92b9d5-1997-481e-b106-55569cd8bd9f/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001061",
+      "assetRaw": "The Blackstone Group L.P.\n                                        \n                                        \n                                        \n                                            \n                                                \n                                                    Company: The Blackstone Group L.P.\n                                                    \n                                                \n                                            \n\n                                            \n                                                Description: Publicly Traded Partnership",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2018-12-27",
+      "filedDate": "2019-01-11",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/3e92b9d5-1997-481e-b106-55569cd8bd9f/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001061",
+      "assetRaw": "Weight Watchers International, Inc.",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2018-12-27",
+      "filedDate": "2019-01-11",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/3e92b9d5-1997-481e-b106-55569cd8bd9f/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001061",
+      "assetRaw": "Weight Watchers International, Inc.",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2018-11-07",
+      "filedDate": "2019-05-08",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/9b76f720-181f-496f-aed1-9f22805876e8/",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001061",
+      "assetRaw": "Weight Watchers International, Inc.",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2018-11-07",
+      "filedDate": "2019-05-08",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/654577b9-4028-4cfa-bb47-c961a41f2b1b/",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001061",
+      "assetRaw": "Westbrand, Inc.\n                                        \n                                        \n                                        \n                                            \n                                                \n                                                    Company: Westbrand, Inc.\n                                                    \n                                                         (Minot, North Dakota)\n                                                    \n                                                \n                                            \n\n                                            \n                                                Description: Bank holding company of First Western Bank",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2018-10-15",
+      "filedDate": "2018-10-19",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/19aa90af-3557-4b85-aab8-32337e8a93d8/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001061",
+      "assetRaw": "FedEx Corporation",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2018-09-19",
+      "filedDate": "2018-10-03",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/e4377ca1-a983-46da-a31f-ece5f1468ae9/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001061",
+      "assetRaw": "Caterpillar Inc.",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2018-08-03",
+      "filedDate": "2018-08-24",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/6d540b1b-e5a2-4d4b-b270-8297fdf343ca/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001061",
+      "assetRaw": "Weight Watchers International, Inc.",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2018-07-26",
+      "filedDate": "2018-08-03",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/27c02c5d-a76b-4d5d-9f4e-758c6d91b4c5/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001061",
+      "assetRaw": "Westbrand, Inc.\n                                        \n                                        \n                                        \n                                            \n                                                \n                                                    Company: Westbrand, Inc.\n                                                    \n                                                         (Minot, North Dakota)\n                                                    \n                                                \n                                            \n\n                                            \n                                                Description: Bank holding company of First Western Bank",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2018-07-25",
+      "filedDate": "2018-08-03",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/27c02c5d-a76b-4d5d-9f4e-758c6d91b4c5/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001061",
+      "assetRaw": "AT&T Inc.",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2018-06-27",
+      "filedDate": "2018-07-10",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/05cfb9cb-8100-4305-8e0a-fb8396c94586/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001061",
+      "assetRaw": "CVS Health Corporation",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2018-06-07",
+      "filedDate": "2018-06-14",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/cd0cf884-4ff6-4c05-9c6a-6d5e4f9d33e6/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001061",
+      "assetRaw": "MetLife, Inc.",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2018-06-07",
+      "filedDate": "2018-06-14",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/cd0cf884-4ff6-4c05-9c6a-6d5e4f9d33e6/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001061",
+      "assetRaw": "Amazon.com, Inc.",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2018-06-01",
+      "filedDate": "2018-06-14",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/cd0cf884-4ff6-4c05-9c6a-6d5e4f9d33e6/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001061",
+      "assetRaw": "AT&T Inc.",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2018-05-23",
+      "filedDate": "2018-06-04",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/1f0a3c8a-f322-43ac-8c3f-1f972a00d263/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001061",
+      "assetRaw": "General Mills, Inc.",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2018-05-23",
+      "filedDate": "2018-06-04",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/1f0a3c8a-f322-43ac-8c3f-1f972a00d263/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001061",
+      "assetRaw": "International Business Machines Corporation",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2018-04-18",
+      "filedDate": "2018-05-09",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/a6b666c5-01b8-4625-98e1-88dfb7e2b149/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001061",
+      "assetRaw": "DowDuPont Inc.",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2018-03-27",
+      "filedDate": "2018-03-29",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/666e996b-581b-45e6-b0e9-ac1f5db2bcf1/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001061",
+      "assetRaw": "United Parcel Service, Inc.",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2018-03-27",
+      "filedDate": "2018-03-29",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/666e996b-581b-45e6-b0e9-ac1f5db2bcf1/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001061",
+      "assetRaw": "Caterpillar Inc.",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2018-03-05",
+      "filedDate": "2018-03-13",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/e24c90de-42d0-4069-a9bd-95d9e8fc1aac/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001061",
+      "assetRaw": "DowDuPont Inc.",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2018-03-05",
+      "filedDate": "2018-03-13",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/e24c90de-42d0-4069-a9bd-95d9e8fc1aac/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001061",
+      "assetRaw": "Walmart Inc.",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2018-03-05",
+      "filedDate": "2018-03-13",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/e24c90de-42d0-4069-a9bd-95d9e8fc1aac/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001061",
+      "assetRaw": "Walmart Inc.",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2018-02-20",
+      "filedDate": "2018-02-21",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/53c9a191-370c-4efd-a23a-a24a21015c7e/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001061",
+      "assetRaw": "Weight Watchers International, Inc.",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2018-02-20",
+      "filedDate": "2018-02-21",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/53c9a191-370c-4efd-a23a-a24a21015c7e/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001061",
+      "assetRaw": "Weight Watchers International, Inc.",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 250001,
+        "hi": 500000
+      },
+      "transactionDate": "2018-02-05",
+      "filedDate": "2018-02-14",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/24979d6b-a2a6-41c5-b62f-533ca7611c55/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001061",
+      "assetRaw": "US Global Jets ETF",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2018-01-24",
+      "filedDate": "2018-01-31",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/0b5d45bc-919c-42ab-970e-a7b14f080cc5/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001061",
+      "assetRaw": "Weight Watchers International, Inc.",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2018-01-19",
+      "filedDate": "2019-05-08",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/9b76f720-181f-496f-aed1-9f22805876e8/",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001061",
+      "assetRaw": "Amazon.com, Inc.",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2017-12-29",
+      "filedDate": "2018-01-09",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/b1a14265-d278-4c5d-a281-5991b0595bd5/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001061",
+      "assetRaw": "Broadcom Limited",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2017-12-29",
+      "filedDate": "2018-01-09",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/b1a14265-d278-4c5d-a281-5991b0595bd5/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001061",
+      "assetRaw": "Weight Watchers International, Inc.",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-12-21",
+      "filedDate": "2019-05-08",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/9b76f720-181f-496f-aed1-9f22805876e8/",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001061",
+      "assetRaw": "Weight Watchers International, Inc.",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-12-21",
+      "filedDate": "2019-05-08",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/654577b9-4028-4cfa-bb47-c961a41f2b1b/",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001061",
+      "assetRaw": "International Business Machines Corporation",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2017-09-21",
+      "filedDate": "2017-09-27",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/7c1aecfe-f71c-4834-b8c5-cd1780356c17/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001061",
+      "assetRaw": "National Grid plc",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2017-09-21",
+      "filedDate": "2017-09-27",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/7c1aecfe-f71c-4834-b8c5-cd1780356c17/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001061",
+      "assetRaw": "QUALCOMM Incorporated",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2017-09-21",
+      "filedDate": "2017-09-27",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/7c1aecfe-f71c-4834-b8c5-cd1780356c17/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001061",
+      "assetRaw": "Dr Pepper Snapple Group, Inc.",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2017-07-26",
+      "filedDate": "2017-08-07",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/b4c4c270-f5ff-4e95-b282-eda2b77ee0e9/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001061",
+      "assetRaw": "WESTBRAND, INC. STOCK\n                                        \n                                        \n                                        \n                                            \n                                                \n                                                    Company: WESTBRAND, INC.\n                                                    \n                                                         (MINOT, NORTH DAKOTA)\n                                                    \n                                                \n                                            \n\n                                            \n                                                Description: BANK HOLDING COMPANY OF FIRST WESTERN BANK",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 500001,
+        "hi": 1000000
+      },
+      "transactionDate": "2017-07-25",
+      "filedDate": "2017-07-26",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/d9fd43e2-2f3c-46a7-b688-50990f1e430c/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001061",
+      "assetRaw": "WESTBRAND, INC. BANK HOLDING COMPANY STOCK\n                                        \n                                        \n                                        \n                                            \n                                                \n                                                    Company: WESTBRAND, INC.\n                                                    \n                                                         (MINOT, NORTH DAKOTA)\n                                                    \n                                                \n                                            \n\n                                            \n                                                Description: BANK HOLDING COMPANY OF FIRST WESTERN BANK",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2017-07-19",
+      "filedDate": "2017-07-24",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/38e883a6-03e1-43ac-ab63-41a211a5635b/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001061",
+      "assetRaw": "Facebook, Inc.",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2017-05-17",
+      "filedDate": "2017-05-30",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/37b349b7-60a2-4084-852f-268cc4c0a172/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001061",
+      "assetRaw": "LyondellBasell Industries N.V.",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2017-05-17",
+      "filedDate": "2017-05-30",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/37b349b7-60a2-4084-852f-268cc4c0a172/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001061",
+      "assetRaw": "Ford Motor Company",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2017-05-15",
+      "filedDate": "2017-05-30",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/37b349b7-60a2-4084-852f-268cc4c0a172/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001061",
+      "assetRaw": "Weight Watchers International, Inc.",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2017-05-15",
+      "filedDate": "2017-05-30",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/37b349b7-60a2-4084-852f-268cc4c0a172/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001061",
+      "assetRaw": "International Business Machines Corporation",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2017-04-24",
+      "filedDate": "2017-05-03",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/0068462f-ee01-4550-98c9-b4437019d615/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001061",
+      "assetRaw": "Mondelez International, Inc.",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2017-04-24",
+      "filedDate": "2017-05-03",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/0068462f-ee01-4550-98c9-b4437019d615/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001061",
+      "assetRaw": "General Mills, Inc.",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2017-04-21",
+      "filedDate": "2017-05-03",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/0068462f-ee01-4550-98c9-b4437019d615/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001061",
+      "assetRaw": "Starbucks Corporation",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2017-04-21",
+      "filedDate": "2017-05-03",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/0068462f-ee01-4550-98c9-b4437019d615/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001061",
+      "assetRaw": "Kohl's Corporation",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2017-04-20",
+      "filedDate": "2017-05-03",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/0068462f-ee01-4550-98c9-b4437019d615/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001061",
+      "assetRaw": "Simon Property Group, Inc.",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2017-04-20",
+      "filedDate": "2017-05-03",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/0068462f-ee01-4550-98c9-b4437019d615/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001061",
+      "assetRaw": "WESTBRAND, INC. BANK HOLDING COMPANY STOCK\n                                        \n                                        \n                                        \n                                            \n                                                \n                                                    Company: WESTBRAND, INC.\n                                                    \n                                                         (MINOT, NORTH DAKOTA)\n                                                    \n                                                \n                                            \n\n                                            \n                                                Description: BANK HOLDING COMPANY OF FIRST WESTERN BANK",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2017-04-05",
+      "filedDate": "2017-04-19",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/80a82376-fdab-471f-bd31-31bdd33976d9/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001061",
+      "assetRaw": "WESTBRAND, INC. BANK HOLDING COMPANY STOCK\n                                        \n                                        \n                                        \n                                            \n                                                \n                                                    Company: WESTBRAND, INC.\n                                                    \n                                                         (MINOT, NORTH DAKOTA)\n                                                    \n                                                \n                                            \n\n                                            \n                                                Description: BANK HOLDING COMPANY OF FIRST WESTERN BANK",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2017-03-29",
+      "filedDate": "2017-04-19",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/80a82376-fdab-471f-bd31-31bdd33976d9/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001061",
+      "assetRaw": "National Grid plc",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2017-03-02",
+      "filedDate": "2017-03-06",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/a1120829-63f5-43aa-8835-4115cc985df8/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001061",
+      "assetRaw": "QUALCOMM Incorporated",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2017-03-02",
+      "filedDate": "2017-03-06",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/a1120829-63f5-43aa-8835-4115cc985df8/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001061",
+      "assetRaw": "United Parcel Service, Inc.",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2017-03-02",
+      "filedDate": "2017-03-06",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/a1120829-63f5-43aa-8835-4115cc985df8/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001061",
+      "assetRaw": "Crown Castle International Corp.",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2017-02-15",
+      "filedDate": "2017-03-06",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/a1120829-63f5-43aa-8835-4115cc985df8/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001061",
+      "assetRaw": "Kohl's Corporation",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2017-02-15",
+      "filedDate": "2017-03-06",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/a1120829-63f5-43aa-8835-4115cc985df8/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001061",
+      "assetRaw": "Merck & Co., Inc.",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2017-01-25",
+      "filedDate": "2017-01-25",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/8b98c664-7c64-4fe0-a7b9-016b0cc251f3/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001061",
+      "assetRaw": "Weight Watchers International, Inc.",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2017-01-24",
+      "filedDate": "2017-01-25",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/8b98c664-7c64-4fe0-a7b9-016b0cc251f3/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001061",
+      "assetRaw": "V.F. Corporation",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2017-01-23",
+      "filedDate": "2017-01-25",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/8b98c664-7c64-4fe0-a7b9-016b0cc251f3/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001061",
+      "assetRaw": "AT&T Inc.",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2017-01-20",
+      "filedDate": "2017-01-25",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/8b98c664-7c64-4fe0-a7b9-016b0cc251f3/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001061",
+      "assetRaw": "AbbVie Inc.",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2017-01-20",
+      "filedDate": "2017-01-25",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/8b98c664-7c64-4fe0-a7b9-016b0cc251f3/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001061",
+      "assetRaw": "Amgen Inc.",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2017-01-20",
+      "filedDate": "2017-01-25",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/8b98c664-7c64-4fe0-a7b9-016b0cc251f3/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001061",
+      "assetRaw": "Bristol-Myers Squibb Company",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2017-01-20",
+      "filedDate": "2017-01-25",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/8b98c664-7c64-4fe0-a7b9-016b0cc251f3/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001061",
+      "assetRaw": "Cisco Systems, Inc.",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2017-01-20",
+      "filedDate": "2017-01-25",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/8b98c664-7c64-4fe0-a7b9-016b0cc251f3/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001061",
+      "assetRaw": "Intel Corporation",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2017-01-20",
+      "filedDate": "2017-01-25",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/8b98c664-7c64-4fe0-a7b9-016b0cc251f3/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001061",
+      "assetRaw": "Johnson & Johnson",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2017-01-20",
+      "filedDate": "2017-01-25",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/8b98c664-7c64-4fe0-a7b9-016b0cc251f3/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001061",
+      "assetRaw": "Pepsico, Inc.",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2017-01-20",
+      "filedDate": "2017-01-25",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/8b98c664-7c64-4fe0-a7b9-016b0cc251f3/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001061",
+      "assetRaw": "Pfizer Inc.",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2017-01-20",
+      "filedDate": "2017-01-25",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/8b98c664-7c64-4fe0-a7b9-016b0cc251f3/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001061",
+      "assetRaw": "The Coca-Cola Company",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2017-01-20",
+      "filedDate": "2017-01-25",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/8b98c664-7c64-4fe0-a7b9-016b0cc251f3/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001061",
+      "assetRaw": "The Procter & Gamble Company",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2017-01-20",
+      "filedDate": "2017-01-25",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/8b98c664-7c64-4fe0-a7b9-016b0cc251f3/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001061",
+      "assetRaw": "Verizon Communications Inc.",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2017-01-20",
+      "filedDate": "2017-01-25",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/8b98c664-7c64-4fe0-a7b9-016b0cc251f3/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001061",
+      "assetRaw": "THE CAMPBELL FUND TRUST - SERIES A\n                                        \n                                        \n                                        \n                                            \n                                                \n                                                    Company: THE CAMPBELL FUND TRUST - SERIES A\n                                                    \n                                                         (BALTIMORE, MARYLAND)\n                                                    \n                                                \n                                            \n\n                                            \n                                                Description: INVETMENT MANAGEMENT IN FUTURES AND CASH EQUITY STRATEGIES",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2017-01-12",
+      "filedDate": "2017-01-25",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/8b98c664-7c64-4fe0-a7b9-016b0cc251f3/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001061",
+      "assetRaw": "NIKE, Inc.",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2017-01-04",
+      "filedDate": "2017-01-04",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/bd0ea319-82af-4de3-b9e8-b81e1af51cc9/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001061",
+      "assetRaw": "Simon Property Group, Inc.",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2017-01-04",
+      "filedDate": "2017-01-04",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/bd0ea319-82af-4de3-b9e8-b81e1af51cc9/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001061",
+      "assetRaw": "NKE-NKE-NKE-NIKE, Inc.",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2016-12-29",
+      "filedDate": "2017-05-05",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/99e5e5c2-c650-4e77-b625-aaa79a9df6dd/",
+      "late": true,
+      "note": "Changed transaction date from 1/4/17 (Settlement date) to 12/29/16 (Trade date).",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001061",
+      "assetRaw": "SPG-SPG-Simon Property Group, Inc.",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2016-12-29",
+      "filedDate": "2017-05-05",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/99e5e5c2-c650-4e77-b625-aaa79a9df6dd/",
+      "late": true,
+      "note": "Changed transaction date from 1/4/17 (Settlement date) to 12/29/16 (Trade date).",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001061",
+      "assetRaw": "CSX Corporation",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2016-12-28",
+      "filedDate": "2017-05-05",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/99e5e5c2-c650-4e77-b625-aaa79a9df6dd/",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001061",
+      "assetRaw": "Ford Motor Company",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2016-12-28",
+      "filedDate": "2017-05-05",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/99e5e5c2-c650-4e77-b625-aaa79a9df6dd/",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001061",
+      "assetRaw": "CSX Corporation",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2016-12-28",
+      "filedDate": "2017-01-04",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/bd0ea319-82af-4de3-b9e8-b81e1af51cc9/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001061",
+      "assetRaw": "Ford Motor Company",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2016-12-28",
+      "filedDate": "2017-01-04",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/bd0ea319-82af-4de3-b9e8-b81e1af51cc9/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001061",
+      "assetRaw": "Westbrand, Inc. Bank Holding Company\n                                        \n                                        \n                                        \n                                            \n                                                \n                                                    Company: Westbrad, Inc\n                                                    \n                                                         (Minot, North Dakota)\n                                                    \n                                                \n                                            \n\n                                            \n                                                Description: Holding Company of First Western Bank",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 250001,
+        "hi": 500000
+      },
+      "transactionDate": "2016-12-23",
+      "filedDate": "2016-12-27",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/f66b6c26-4eda-49c4-8215-aad78ab1a4aa/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001061",
+      "assetRaw": "International Business Machines Corporation",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2016-12-22",
+      "filedDate": "2016-12-22",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/887f19e5-8a16-4f96-b317-ce70265f2e46/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001061",
+      "assetRaw": "U.S. Bancorp",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2016-12-22",
+      "filedDate": "2016-12-22",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/887f19e5-8a16-4f96-b317-ce70265f2e46/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001061",
+      "assetRaw": "Union Pacific Corporation",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2016-12-22",
+      "filedDate": "2016-12-22",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/887f19e5-8a16-4f96-b317-ce70265f2e46/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001061",
+      "assetRaw": "ViaSat, Inc.",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2016-12-22",
+      "filedDate": "2016-12-22",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/887f19e5-8a16-4f96-b317-ce70265f2e46/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001061",
+      "assetRaw": "Diageo plc",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2016-12-19",
+      "filedDate": "2016-12-20",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/0f3a5882-6a25-446b-8c3d-b71aeb1d63ed/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001061",
+      "assetRaw": "The Blackstone Group L.P.",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2016-12-19",
+      "filedDate": "2016-12-20",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/0f3a5882-6a25-446b-8c3d-b71aeb1d63ed/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001061",
+      "assetRaw": "Caterpillar Inc.",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2016-12-16",
+      "filedDate": "2016-12-20",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/0f3a5882-6a25-446b-8c3d-b71aeb1d63ed/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001061",
+      "assetRaw": "CenturyLink, Inc.",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2016-12-16",
+      "filedDate": "2016-12-20",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/0f3a5882-6a25-446b-8c3d-b71aeb1d63ed/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001061",
+      "assetRaw": "UAA-Under Armour, Inc. Class A Comm",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2016-12-16",
+      "filedDate": "2016-12-20",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/0f3a5882-6a25-446b-8c3d-b71aeb1d63ed/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001061",
+      "assetRaw": "Under Armour, Inc.",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2016-12-16",
+      "filedDate": "2016-12-20",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/0f3a5882-6a25-446b-8c3d-b71aeb1d63ed/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001061",
+      "assetRaw": "Valero Energy Corporation",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2016-12-16",
+      "filedDate": "2016-12-20",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/0f3a5882-6a25-446b-8c3d-b71aeb1d63ed/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001061",
+      "assetRaw": "Pfizer Inc.",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2016-11-25",
+      "filedDate": "2016-12-07",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/33d29259-5947-4ac6-bdb8-940d752466c9/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001061",
+      "assetRaw": "Amgen Inc.",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2016-11-23",
+      "filedDate": "2016-12-07",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/33d29259-5947-4ac6-bdb8-940d752466c9/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001061",
+      "assetRaw": "MDU Resources Group, Inc.",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2016-11-23",
+      "filedDate": "2016-12-07",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/33d29259-5947-4ac6-bdb8-940d752466c9/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001061",
+      "assetRaw": "The TJX Companies, Inc.",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2016-08-23",
+      "filedDate": "2016-08-29",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/49bb4a43-bcf9-4c82-bc9b-0f33fbf9548c/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001061",
+      "assetRaw": "Bristol-Myers Squibb Company",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2016-08-22",
+      "filedDate": "2016-08-29",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/49bb4a43-bcf9-4c82-bc9b-0f33fbf9548c/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001061",
+      "assetRaw": "Hasbro Inc.",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2016-08-22",
+      "filedDate": "2016-08-29",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/49bb4a43-bcf9-4c82-bc9b-0f33fbf9548c/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001061",
+      "assetRaw": "Johnson Controls Inc.",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2016-08-22",
+      "filedDate": "2016-08-29",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/49bb4a43-bcf9-4c82-bc9b-0f33fbf9548c/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001061",
+      "assetRaw": "McDonald's Corp.",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2016-08-22",
+      "filedDate": "2016-08-29",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/49bb4a43-bcf9-4c82-bc9b-0f33fbf9548c/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001061",
+      "assetRaw": "Ralph Lauren Corporation",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2016-08-19",
+      "filedDate": "2016-08-29",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/49bb4a43-bcf9-4c82-bc9b-0f33fbf9548c/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001061",
+      "assetRaw": "Invesco Ltd.",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2016-06-28",
+      "filedDate": "2016-07-12",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/99cf9f1a-d58b-4476-9838-ead38e41edc1/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001061",
+      "assetRaw": "McDonald's Corp.",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2016-06-28",
+      "filedDate": "2016-07-12",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/99cf9f1a-d58b-4476-9838-ead38e41edc1/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001061",
+      "assetRaw": "Prudential Financial, Inc.",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2016-06-28",
+      "filedDate": "2016-07-12",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/99cf9f1a-d58b-4476-9838-ead38e41edc1/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001061",
+      "assetRaw": "Under Armour, Inc. Class C Comm",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2016-06-28",
+      "filedDate": "2016-07-12",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/99cf9f1a-d58b-4476-9838-ead38e41edc1/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001061",
+      "assetRaw": "Investors Real Estate Trust",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2016-04-28",
+      "filedDate": "2016-05-12",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/4fcd4d35-4f84-466c-94c7-d372284bfced/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001061",
+      "assetRaw": "Investors Real Estate Trust",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2016-04-27",
+      "filedDate": "2016-05-12",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/4fcd4d35-4f84-466c-94c7-d372284bfced/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001061",
+      "assetRaw": "McDonald's Corp.",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2016-04-22",
+      "filedDate": "2016-05-12",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/4fcd4d35-4f84-466c-94c7-d372284bfced/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001061",
+      "assetRaw": "Valero Energy Corporation",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2016-04-22",
+      "filedDate": "2016-05-12",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/4fcd4d35-4f84-466c-94c7-d372284bfced/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001061",
+      "assetRaw": "Class C Shares of Under Armour, Inc.",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2016-04-08",
+      "filedDate": "2016-04-22",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/fe0f7e78-70eb-4974-b982-a9c314942e22/",
+      "late": false,
+      "note": "Shares acquired result from a stock dividend by UA - Under Armour Inc.",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001061",
+      "assetRaw": "Alphabet Inc.",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2016-03-07",
+      "filedDate": "2016-03-25",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/661e7458-54f0-40c9-9daf-c95502e3a6e3/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001061",
+      "assetRaw": "Facebook, Inc.",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2016-03-07",
+      "filedDate": "2016-03-25",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/661e7458-54f0-40c9-9daf-c95502e3a6e3/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001061",
+      "assetRaw": "Invesco Ltd.",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2016-03-07",
+      "filedDate": "2016-03-25",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/661e7458-54f0-40c9-9daf-c95502e3a6e3/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001061",
+      "assetRaw": "Prudential Financial, Inc.",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2016-03-07",
+      "filedDate": "2016-03-25",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/661e7458-54f0-40c9-9daf-c95502e3a6e3/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001061",
+      "assetRaw": "Automatic Data Processing, Inc.",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2016-02-09",
+      "filedDate": "2016-03-02",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/dbc6eaea-6f16-421c-82bf-8e2886acb97e/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001061",
+      "assetRaw": "McDonald&apos;s Corp.",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2016-02-03",
+      "filedDate": "2016-02-08",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/21a365ca-4cce-46e3-8e60-aaf5f9b9b090/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001061",
+      "assetRaw": "Apple Inc.",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2016-01-28",
+      "filedDate": "2016-02-08",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/21a365ca-4cce-46e3-8e60-aaf5f9b9b090/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001061",
+      "assetRaw": "Merck &amp; Co. Inc.",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2016-01-28",
+      "filedDate": "2016-02-08",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/21a365ca-4cce-46e3-8e60-aaf5f9b9b090/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001061",
+      "assetRaw": "Under Armour, Inc. (NYSE)",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2016-01-06",
+      "filedDate": "2016-01-12",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/c6c0abea-50cf-45ae-b106-e5b9360c1643/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001061",
+      "assetRaw": "MCD - McDonald's Corp (NYSE)",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2015-12-29",
+      "filedDate": "2016-01-07",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/9ef63ce8-6c08-48fc-a292-f3a43b8cc46e/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001061",
+      "assetRaw": "Wells Fargo & Company",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2015-12-23",
+      "filedDate": "2016-12-22",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/887f19e5-8a16-4f96-b317-ce70265f2e46/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001061",
+      "assetRaw": "ADP - Automatic Data Processing, Inc. (NASDAQ)",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2015-12-07",
+      "filedDate": "2015-12-16",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/c1067ff0-3436-4043-aa66-ec3ca0852747/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001061",
+      "assetRaw": "CMI - Cummins Inc. (NYSE)",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2015-12-07",
+      "filedDate": "2015-12-16",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/c1067ff0-3436-4043-aa66-ec3ca0852747/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001061",
+      "assetRaw": "NOG - Northern Oil & Gas, Inc. (AMEX)",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2015-12-02",
+      "filedDate": "2015-12-16",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/c1067ff0-3436-4043-aa66-ec3ca0852747/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001061",
+      "assetRaw": "KMI - Kinder Morgan Inc (NYSE)",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2015-11-30",
+      "filedDate": "2015-12-21",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/832176d5-2cb0-4878-973d-b69b59a15499/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001061",
+      "assetRaw": "PFE - Pfizer Inc. (NYSE)",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2015-11-25",
+      "filedDate": "2015-12-16",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/c1067ff0-3436-4043-aa66-ec3ca0852747/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001061",
+      "assetRaw": "CG",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2015-11-13",
+      "filedDate": "2015-11-30",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/ba1bbc22-bad7-4ea6-98f6-e557a1b498ad/",
+      "late": false,
+      "note": "CARLYLE GROUP LTD PUBLICLY TRADED PARTNERSHIP",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001061",
+      "assetRaw": "ETP",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2015-11-13",
+      "filedDate": "2015-11-30",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/ba1bbc22-bad7-4ea6-98f6-e557a1b498ad/",
+      "late": false,
+      "note": "ENERGY TRANSFER PARTNERS PUBLICLY TRADED PARTNERSHIP",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001061",
+      "assetRaw": "LGCY",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2015-11-13",
+      "filedDate": "2015-11-30",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/ba1bbc22-bad7-4ea6-98f6-e557a1b498ad/",
+      "late": false,
+      "note": "LEGACY RESERVES LTD PUBLICLY TRADED PARTNERSHIP",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001061",
+      "assetRaw": "LINE",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2015-11-13",
+      "filedDate": "2015-11-30",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/ba1bbc22-bad7-4ea6-98f6-e557a1b498ad/",
+      "late": false,
+      "note": "LINN ENERGY LLC PUBLICLY TRADED PARTNERSHIP",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001061",
+      "assetRaw": "VNR",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2015-11-13",
+      "filedDate": "2015-11-30",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/ba1bbc22-bad7-4ea6-98f6-e557a1b498ad/",
+      "late": false,
+      "note": "VANGUARD NATURAL RESOURCES PUBLICLY TRADED PARTNERSHIP",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001061",
+      "assetRaw": "Johnson Controls Inc. (NYSE)",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2015-08-13",
+      "filedDate": "2015-09-08",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/b4db91d7-1db0-4ceb-bfd4-5ad0b94694cd/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001061",
+      "assetRaw": "Molson Coors Brewing Company (NYSE)",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2015-08-13",
+      "filedDate": "2015-09-08",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/b4db91d7-1db0-4ceb-bfd4-5ad0b94694cd/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001061",
+      "assetRaw": "Ralph Lauren Corporation (NYSE)",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2015-08-13",
+      "filedDate": "2015-09-08",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/b4db91d7-1db0-4ceb-bfd4-5ad0b94694cd/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001061",
+      "assetRaw": "MDU Resources Group Inc. (NYSE)",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2015-03-20",
+      "filedDate": "2016-05-16",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/33773030-9b75-4f65-928f-f9ad31504f55/",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001061",
+      "assetRaw": "MDU Resources Group Inc. (NYSE)",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2015-03-20",
+      "filedDate": "2015-04-06",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/56d10154-dde9-44f8-acf1-484d819c443e/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001061",
+      "assetRaw": "Permanent Portfolio (NASDAQ)",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2015-03-18",
+      "filedDate": "2016-05-16",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/33773030-9b75-4f65-928f-f9ad31504f55/",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001061",
+      "assetRaw": "Permanent Portfolio (NASDAQ)",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2015-03-18",
+      "filedDate": "2015-04-06",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/56d10154-dde9-44f8-acf1-484d819c443e/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001061",
+      "assetRaw": "Caterpillar Inc. (NYSE)",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2015-03-03",
+      "filedDate": "2015-03-09",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/e6816aa7-0422-4cb5-99a4-fd51600c58ef/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001061",
+      "assetRaw": "AbbVie Inc. (NYSE)",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2015-02-25",
+      "filedDate": "2015-03-09",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/e6816aa7-0422-4cb5-99a4-fd51600c58ef/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001061",
+      "assetRaw": "Northern Oil and Gas, Inc. (AMEX)",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2015-01-16",
+      "filedDate": "2015-01-21",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/1d31d4e4-ff04-488c-8fb4-b5136d4d078b/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001061",
+      "assetRaw": "Coach, Inc. (NYSE)",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2015-01-06",
+      "filedDate": "2015-01-20",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/6f9ff667-71b8-4d74-a8b2-e0497b7f2faa/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001061",
+      "assetRaw": "Freeport-McMoRan Inc. (NYSE)",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2015-01-06",
+      "filedDate": "2015-01-20",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/6f9ff667-71b8-4d74-a8b2-e0497b7f2faa/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001061",
+      "assetRaw": "Honeywell International Inc. (NYSE)",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2014-11-06",
+      "filedDate": "2014-11-18",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/89a868a2-cc0c-459f-b87f-4a922f20cf8f/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001061",
+      "assetRaw": "Cisco Systems, Inc. (NASDAQ)",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2014-10-29",
+      "filedDate": "2014-11-18",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/89a868a2-cc0c-459f-b87f-4a922f20cf8f/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001061",
+      "assetRaw": "Arthur J Gallagher & Co. (NYSE)",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2014-10-20",
+      "filedDate": "2014-10-22",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/2bad305c-8d1e-404e-97bd-c6389864832e/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001061",
+      "assetRaw": "Cummins Inc. (NYSE)",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2014-10-20",
+      "filedDate": "2014-10-22",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/2bad305c-8d1e-404e-97bd-c6389864832e/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001061",
+      "assetRaw": "AbbVie Inc. (NYSE)",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2014-09-29",
+      "filedDate": "2014-10-22",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/2bad305c-8d1e-404e-97bd-c6389864832e/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001061",
+      "assetRaw": "Starbucks Corporation (NASDAQ)",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2014-09-29",
+      "filedDate": "2014-10-22",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/2bad305c-8d1e-404e-97bd-c6389864832e/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001061",
+      "assetRaw": "The Boeing Company (NYSE)",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2014-09-29",
+      "filedDate": "2014-10-22",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/2bad305c-8d1e-404e-97bd-c6389864832e/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001061",
+      "assetRaw": "Pepsico, Inc. (NYSE)",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2014-08-26",
+      "filedDate": "2014-09-22",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/921b5d2e-4bab-4241-85c9-66d7be05aa83/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001061",
+      "assetRaw": "The Blackstone Group L.P. (NYSE)",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2014-08-25",
+      "filedDate": "2014-09-22",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/921b5d2e-4bab-4241-85c9-66d7be05aa83/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001061",
+      "assetRaw": "The Est (NYSE)",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2014-08-25",
+      "filedDate": "2014-09-22",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/921b5d2e-4bab-4241-85c9-66d7be05aa83/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001061",
+      "assetRaw": "Yum! Brands, Inc. (NYSE)",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2014-08-25",
+      "filedDate": "2014-09-22",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/921b5d2e-4bab-4241-85c9-66d7be05aa83/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001061",
+      "assetRaw": "MAINSTREAM INVESTORS LLC\n                                        \n                                        \n                                        \n                                            \n                                                \n                                                    Company: MAINSTREAM INVESTORS LLC\n                                                    \n                                                         (MINOT, NORTH DAKOTA)\n                                                    \n                                                \n                                            \n\n                                            \n                                                Description: OIL AND GAS EXPLORATION AND PRODUCTION COMPANY",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 500001,
+        "hi": 1000000
+      },
+      "transactionDate": "2014-05-27",
+      "filedDate": "2015-12-29",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/970e43cc-5b08-42e2-9ce6-1886d729ead2/",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001061",
+      "assetRaw": "AbbVie Inc. (NYSE)",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2014-04-28",
+      "filedDate": "2014-05-08",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/da7d4e7e-8858-4dc1-ba7e-800c7ce82e7f/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001061",
+      "assetRaw": "Anheuser-Busch InBev SA/NV (NYSE)",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2014-04-28",
+      "filedDate": "2014-05-08",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/da7d4e7e-8858-4dc1-ba7e-800c7ce82e7f/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001061",
+      "assetRaw": "Ford Motor Co. (NYSE)",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2014-04-28",
+      "filedDate": "2014-05-08",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/da7d4e7e-8858-4dc1-ba7e-800c7ce82e7f/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001061",
+      "assetRaw": "The Boeing Company (NYSE)",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2014-04-28",
+      "filedDate": "2014-05-08",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/da7d4e7e-8858-4dc1-ba7e-800c7ce82e7f/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001061",
+      "assetRaw": "AbbVie Inc. (NYSE)",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2014-03-31",
+      "filedDate": "2014-04-23",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/baeae9dc-9f34-4204-994c-652b0e4848a2/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001061",
+      "assetRaw": "Anheuser-Busch InBev SA/NV (NYSE)",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2014-03-31",
+      "filedDate": "2014-04-23",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/baeae9dc-9f34-4204-994c-652b0e4848a2/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001061",
+      "assetRaw": "Westbrand Inc Bank Holding Co (Stock)",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2014-02-24",
+      "filedDate": "2014-03-11",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/556ca47a-cf91-4f62-bab5-9105616259f5/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001061",
+      "assetRaw": "Cognizant Technology Solutions Corporation (NASDAQ)",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2014-02-19",
+      "filedDate": "2014-03-11",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/556ca47a-cf91-4f62-bab5-9105616259f5/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001061",
+      "assetRaw": "International Business Machines Corporation (NYSE)",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2014-02-19",
+      "filedDate": "2014-03-11",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/556ca47a-cf91-4f62-bab5-9105616259f5/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001061",
+      "assetRaw": "V.F. Corporation (NYSE)",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2014-02-19",
+      "filedDate": "2014-03-11",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/556ca47a-cf91-4f62-bab5-9105616259f5/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001061",
+      "assetRaw": "Heinz HJ Company",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2013-06-10",
+      "filedDate": "2014-05-08",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/e16f013b-4e88-4777-8001-ac02faf65957/",
+      "late": true,
+      "note": "Berkshire acquired Heinz and paid cash to Heinz shareholders on acquisition.",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001061",
+      "assetRaw": "The Carlyle Group LP (NASDAQ)",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2013-04-29",
+      "filedDate": "2014-05-08",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/e16f013b-4e88-4777-8001-ac02faf65957/",
+      "late": true,
+      "provenance": "kadoa"
+    }
+  ],
+  "series": [
+    {
+      "date": "2013-04-29",
+      "value": 175000.5
+    },
+    {
+      "date": "2013-06-10",
+      "value": 175000.5
+    },
+    {
+      "date": "2014-02-19",
+      "value": 75000.5
+    },
+    {
+      "date": "2014-02-19",
+      "value": 75000.5
+    },
+    {
+      "date": "2014-02-19",
+      "value": 75000.5
+    },
+    {
+      "date": "2014-02-24",
+      "value": 8000.5
+    },
+    {
+      "date": "2014-03-31",
+      "value": 75000.5
+    },
+    {
+      "date": "2014-03-31",
+      "value": 75000.5
+    },
+    {
+      "date": "2014-04-28",
+      "value": 75000.5
+    },
+    {
+      "date": "2014-04-28",
+      "value": 75000.5
+    },
+    {
+      "date": "2014-04-28",
+      "value": 75000.5
+    },
+    {
+      "date": "2014-04-28",
+      "value": 175000.5
+    },
+    {
+      "date": "2014-05-27",
+      "value": 750000.5
+    },
+    {
+      "date": "2014-08-25",
+      "value": 175000.5
+    },
+    {
+      "date": "2014-08-25",
+      "value": 175000.5
+    },
+    {
+      "date": "2014-08-25",
+      "value": 75000.5
+    },
+    {
+      "date": "2014-08-26",
+      "value": 175000.5
+    },
+    {
+      "date": "2014-09-29",
+      "value": 175000.5
+    },
+    {
+      "date": "2014-09-29",
+      "value": 175000.5
+    },
+    {
+      "date": "2014-09-29",
+      "value": 175000.5
+    },
+    {
+      "date": "2014-10-20",
+      "value": 175000.5
+    },
+    {
+      "date": "2014-10-20",
+      "value": 175000.5
+    },
+    {
+      "date": "2014-10-29",
+      "value": 175000.5
+    },
+    {
+      "date": "2014-11-06",
+      "value": 175000.5
+    },
+    {
+      "date": "2015-01-06",
+      "value": 75000.5
+    },
+    {
+      "date": "2015-01-06",
+      "value": 75000.5
+    },
+    {
+      "date": "2015-01-16",
+      "value": 32500.5
+    },
+    {
+      "date": "2015-02-25",
+      "value": 175000.5
+    },
+    {
+      "date": "2015-03-03",
+      "value": 175000.5
+    },
+    {
+      "date": "2015-03-18",
+      "value": 32500.5
+    },
+    {
+      "date": "2015-03-18",
+      "value": 32500.5
+    },
+    {
+      "date": "2015-03-20",
+      "value": 175000.5
+    },
+    {
+      "date": "2015-03-20",
+      "value": 175000.5
+    },
+    {
+      "date": "2015-08-13",
+      "value": 175000.5
+    },
+    {
+      "date": "2015-08-13",
+      "value": 175000.5
+    },
+    {
+      "date": "2015-08-13",
+      "value": 75000.5
+    },
+    {
+      "date": "2015-11-13",
+      "value": 75000.5
+    },
+    {
+      "date": "2015-11-13",
+      "value": 75000.5
+    },
+    {
+      "date": "2015-11-13",
+      "value": 8000.5
+    },
+    {
+      "date": "2015-11-13",
+      "value": 8000.5
+    },
+    {
+      "date": "2015-11-13",
+      "value": 32500.5
+    },
+    {
+      "date": "2015-11-25",
+      "value": 175000.5
+    },
+    {
+      "date": "2015-11-30",
+      "value": 32500.5
+    },
+    {
+      "date": "2015-12-02",
+      "value": 32500.5
+    },
+    {
+      "date": "2015-12-07",
+      "value": 175000.5
+    },
+    {
+      "date": "2015-12-07",
+      "value": 75000.5
+    },
+    {
+      "date": "2015-12-23",
+      "value": 175000.5
+    },
+    {
+      "date": "2015-12-29",
+      "value": 175000.5
+    },
+    {
+      "date": "2016-01-06",
+      "value": 75000.5
+    },
+    {
+      "date": "2016-01-28",
+      "value": 75000.5
+    },
+    {
+      "date": "2016-01-28",
+      "value": 75000.5
+    },
+    {
+      "date": "2016-02-03",
+      "value": 75000.5
+    },
+    {
+      "date": "2016-02-09",
+      "value": 75000.5
+    },
+    {
+      "date": "2016-03-07",
+      "value": 32500.5
+    },
+    {
+      "date": "2016-03-07",
+      "value": 75000.5
+    },
+    {
+      "date": "2016-03-07",
+      "value": 75000.5
+    },
+    {
+      "date": "2016-03-07",
+      "value": 75000.5
+    },
+    {
+      "date": "2016-04-08",
+      "value": 32500.5
+    },
+    {
+      "date": "2016-04-22",
+      "value": 75000.5
+    },
+    {
+      "date": "2016-04-22",
+      "value": 175000.5
+    },
+    {
+      "date": "2016-04-27",
+      "value": 75000.5
+    },
+    {
+      "date": "2016-04-28",
+      "value": 175000.5
+    },
+    {
+      "date": "2016-06-28",
+      "value": 75000.5
+    },
+    {
+      "date": "2016-06-28",
+      "value": 75000.5
+    },
+    {
+      "date": "2016-06-28",
+      "value": 75000.5
+    },
+    {
+      "date": "2016-06-28",
+      "value": 75000.5
+    },
+    {
+      "date": "2016-08-19",
+      "value": 175000.5
+    },
+    {
+      "date": "2016-08-22",
+      "value": 75000.5
+    },
+    {
+      "date": "2016-08-22",
+      "value": 75000.5
+    },
+    {
+      "date": "2016-08-22",
+      "value": 175000.5
+    },
+    {
+      "date": "2016-08-22",
+      "value": 75000.5
+    },
+    {
+      "date": "2016-08-23",
+      "value": 75000.5
+    },
+    {
+      "date": "2016-11-23",
+      "value": 75000.5
+    },
+    {
+      "date": "2016-11-23",
+      "value": 175000.5
+    },
+    {
+      "date": "2016-11-25",
+      "value": 75000.5
+    },
+    {
+      "date": "2016-12-16",
+      "value": 175000.5
+    },
+    {
+      "date": "2016-12-16",
+      "value": 175000.5
+    },
+    {
+      "date": "2016-12-16",
+      "value": 32500.5
+    },
+    {
+      "date": "2016-12-16",
+      "value": 75000.5
+    },
+    {
+      "date": "2016-12-16",
+      "value": 175000.5
+    },
+    {
+      "date": "2016-12-19",
+      "value": 175000.5
+    },
+    {
+      "date": "2016-12-19",
+      "value": 175000.5
+    },
+    {
+      "date": "2016-12-22",
+      "value": 175000.5
+    },
+    {
+      "date": "2016-12-22",
+      "value": 32500.5
+    },
+    {
+      "date": "2016-12-22",
+      "value": 175000.5
+    },
+    {
+      "date": "2016-12-22",
+      "value": 32500.5
+    },
+    {
+      "date": "2016-12-23",
+      "value": 375000.5
+    },
+    {
+      "date": "2016-12-28",
+      "value": 75000.5
+    },
+    {
+      "date": "2016-12-28",
+      "value": 75000.5
+    },
+    {
+      "date": "2016-12-28",
+      "value": 175000.5
+    },
+    {
+      "date": "2016-12-28",
+      "value": 175000.5
+    },
+    {
+      "date": "2016-12-29",
+      "value": 175000.5
+    },
+    {
+      "date": "2016-12-29",
+      "value": 175000.5
+    },
+    {
+      "date": "2017-01-04",
+      "value": 175000.5
+    },
+    {
+      "date": "2017-01-04",
+      "value": 175000.5
+    },
+    {
+      "date": "2017-01-12",
+      "value": 75000.5
+    },
+    {
+      "date": "2017-01-20",
+      "value": 75000.5
+    },
+    {
+      "date": "2017-01-20",
+      "value": 175000.5
+    },
+    {
+      "date": "2017-01-20",
+      "value": 75000.5
+    },
+    {
+      "date": "2017-01-20",
+      "value": 75000.5
+    },
+    {
+      "date": "2017-01-20",
+      "value": 175000.5
+    },
+    {
+      "date": "2017-01-20",
+      "value": 75000.5
+    },
+    {
+      "date": "2017-01-20",
+      "value": 175000.5
+    },
+    {
+      "date": "2017-01-20",
+      "value": 175000.5
+    },
+    {
+      "date": "2017-01-20",
+      "value": 75000.5
+    },
+    {
+      "date": "2017-01-20",
+      "value": 175000.5
+    },
+    {
+      "date": "2017-01-20",
+      "value": 175000.5
+    },
+    {
+      "date": "2017-01-20",
+      "value": 75000.5
+    },
+    {
+      "date": "2017-01-23",
+      "value": 75000.5
+    },
+    {
+      "date": "2017-01-24",
+      "value": 75000.5
+    },
+    {
+      "date": "2017-01-25",
+      "value": 75000.5
+    },
+    {
+      "date": "2017-02-15",
+      "value": 75000.5
+    },
+    {
+      "date": "2017-02-15",
+      "value": 75000.5
+    },
+    {
+      "date": "2017-03-02",
+      "value": 175000.5
+    },
+    {
+      "date": "2017-03-02",
+      "value": 175000.5
+    },
+    {
+      "date": "2017-03-02",
+      "value": 75000.5
+    },
+    {
+      "date": "2017-03-29",
+      "value": 32500.5
+    },
+    {
+      "date": "2017-04-05",
+      "value": 32500.5
+    },
+    {
+      "date": "2017-04-20",
+      "value": 75000.5
+    },
+    {
+      "date": "2017-04-20",
+      "value": 175000.5
+    },
+    {
+      "date": "2017-04-21",
+      "value": 175000.5
+    },
+    {
+      "date": "2017-04-21",
+      "value": 75000.5
+    },
+    {
+      "date": "2017-04-24",
+      "value": 75000.5
+    },
+    {
+      "date": "2017-04-24",
+      "value": 75000.5
+    },
+    {
+      "date": "2017-05-15",
+      "value": 175000.5
+    },
+    {
+      "date": "2017-05-15",
+      "value": 75000.5
+    },
+    {
+      "date": "2017-05-17",
+      "value": 75000.5
+    },
+    {
+      "date": "2017-05-17",
+      "value": 75000.5
+    },
+    {
+      "date": "2017-07-19",
+      "value": 175000.5
+    },
+    {
+      "date": "2017-07-25",
+      "value": 750000.5
+    },
+    {
+      "date": "2017-07-26",
+      "value": 175000.5
+    },
+    {
+      "date": "2017-09-21",
+      "value": 32500.5
+    },
+    {
+      "date": "2017-09-21",
+      "value": 175000.5
+    },
+    {
+      "date": "2017-09-21",
+      "value": 175000.5
+    },
+    {
+      "date": "2017-12-21",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-12-21",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-12-29",
+      "value": 75000.5
+    },
+    {
+      "date": "2017-12-29",
+      "value": 175000.5
+    },
+    {
+      "date": "2018-01-19",
+      "value": 32500.5
+    },
+    {
+      "date": "2018-01-24",
+      "value": 75000.5
+    },
+    {
+      "date": "2018-02-05",
+      "value": 375000.5
+    },
+    {
+      "date": "2018-02-20",
+      "value": 175000.5
+    },
+    {
+      "date": "2018-02-20",
+      "value": 175000.5
+    },
+    {
+      "date": "2018-03-05",
+      "value": 75000.5
+    },
+    {
+      "date": "2018-03-05",
+      "value": 75000.5
+    },
+    {
+      "date": "2018-03-05",
+      "value": 75000.5
+    },
+    {
+      "date": "2018-03-27",
+      "value": 75000.5
+    },
+    {
+      "date": "2018-03-27",
+      "value": 75000.5
+    },
+    {
+      "date": "2018-04-18",
+      "value": 75000.5
+    },
+    {
+      "date": "2018-05-23",
+      "value": 75000.5
+    },
+    {
+      "date": "2018-05-23",
+      "value": 75000.5
+    },
+    {
+      "date": "2018-06-01",
+      "value": 75000.5
+    },
+    {
+      "date": "2018-06-07",
+      "value": 75000.5
+    },
+    {
+      "date": "2018-06-07",
+      "value": 75000.5
+    },
+    {
+      "date": "2018-06-27",
+      "value": 75000.5
+    },
+    {
+      "date": "2018-07-25",
+      "value": 32500.5
+    },
+    {
+      "date": "2018-07-26",
+      "value": 175000.5
+    },
+    {
+      "date": "2018-08-03",
+      "value": 75000.5
+    },
+    {
+      "date": "2018-09-19",
+      "value": 75000.5
+    },
+    {
+      "date": "2018-10-15",
+      "value": 8000.5
+    },
+    {
+      "date": "2018-11-07",
+      "value": 32500.5
+    },
+    {
+      "date": "2018-11-07",
+      "value": 32500.5
+    },
+    {
+      "date": "2018-12-27",
+      "value": 32500.5
+    },
+    {
+      "date": "2018-12-27",
+      "value": 75000.5
+    },
+    {
+      "date": "2018-12-27",
+      "value": 75000.5
+    },
+    {
+      "date": "2018-12-27",
+      "value": 32500.5
+    },
+    {
+      "date": "2018-12-27",
+      "value": 32500.5
+    },
+    {
+      "date": "2018-12-27",
+      "value": 175000.5
+    },
+    {
+      "date": "2018-12-27",
+      "value": 175000.5
+    },
+    {
+      "date": "2018-12-27",
+      "value": 32500.5
+    },
+    {
+      "date": "2019-01-04",
+      "value": 75000.5
+    },
+    {
+      "date": "2019-01-19",
+      "value": 32500.5
+    },
+    {
+      "date": "2019-02-27",
+      "value": 75000.5
+    },
+    {
+      "date": "2019-03-08",
+      "value": 75000.5
+    },
+    {
+      "date": "2019-03-08",
+      "value": 75000.5
+    },
+    {
+      "date": "2019-03-22",
+      "value": 75000.5
+    },
+    {
+      "date": "2019-03-22",
+      "value": 75000.5
+    },
+    {
+      "date": "2019-03-22",
+      "value": 75000.5
+    },
+    {
+      "date": "2019-03-22",
+      "value": 75000.5
+    },
+    {
+      "date": "2019-03-22",
+      "value": 75000.5
+    },
+    {
+      "date": "2019-03-22",
+      "value": 75000.5
+    },
+    {
+      "date": "2019-03-22",
+      "value": 75000.5
+    },
+    {
+      "date": "2019-03-22",
+      "value": 75000.5
+    },
+    {
+      "date": "2019-04-09",
+      "value": 32500.5
+    },
+    {
+      "date": "2019-04-25",
+      "value": 32500.5
+    },
+    {
+      "date": "2019-05-30",
+      "value": 75000.5
+    },
+    {
+      "date": "2019-05-30",
+      "value": 75000.5
+    },
+    {
+      "date": "2019-06-26",
+      "value": 175000.5
+    },
+    {
+      "date": "2019-07-23",
+      "value": 75000.5
+    },
+    {
+      "date": "2019-07-23",
+      "value": 175000.5
+    },
+    {
+      "date": "2019-08-22",
+      "value": 75000.5
+    },
+    {
+      "date": "2019-09-24",
+      "value": 32500.5
+    },
+    {
+      "date": "2019-09-24",
+      "value": 75000.5
+    },
+    {
+      "date": "2019-10-03",
+      "value": 32500.5
+    },
+    {
+      "date": "2019-10-21",
+      "value": 75000.5
+    },
+    {
+      "date": "2019-10-28",
+      "value": 15000000.5
+    },
+    {
+      "date": "2019-11-04",
+      "value": 75000.5
+    },
+    {
+      "date": "2019-11-04",
+      "value": 75000.5
+    },
+    {
+      "date": "2019-11-04",
+      "value": 75000.5
+    },
+    {
+      "date": "2019-11-04",
+      "value": 75000.5
+    },
+    {
+      "date": "2019-11-05",
+      "value": 75000.5
+    },
+    {
+      "date": "2019-11-05",
+      "value": 75000.5
+    },
+    {
+      "date": "2019-11-19",
+      "value": 175000.5
+    },
+    {
+      "date": "2019-11-19",
+      "value": 175000.5
+    },
+    {
+      "date": "2019-12-23",
+      "value": 8000.5
+    },
+    {
+      "date": "2019-12-23",
+      "value": 8000.5
+    },
+    {
+      "date": "2019-12-23",
+      "value": 175000.5
+    },
+    {
+      "date": "2019-12-23",
+      "value": 175000.5
+    },
+    {
+      "date": "2019-12-31",
+      "value": 75000.5
+    },
+    {
+      "date": "2019-12-31",
+      "value": 75000.5
+    },
+    {
+      "date": "2019-12-31",
+      "value": 75000.5
+    },
+    {
+      "date": "2019-12-31",
+      "value": 175000.5
+    },
+    {
+      "date": "2020-01-29",
+      "value": 175000.5
+    },
+    {
+      "date": "2020-04-02",
+      "value": 32500.5
+    },
+    {
+      "date": "2020-04-29",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-07-23",
+      "value": 15000000.5
+    }
+  ],
+  "measured": null
+}

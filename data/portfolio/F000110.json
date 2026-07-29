@@ -1,0 +1,4095 @@
+{
+  "member": {
+    "bioguideId": "F000110",
+    "name": "Cleo Fields",
+    "party": "D",
+    "chamber": "house",
+    "state": "LA",
+    "district": "LA-06",
+    "active": true
+  },
+  "positions": [
+    {
+      "memberId": "F000110",
+      "security": {
+        "ticker": "AAPL",
+        "kind": "other"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 2002,
+        "hi": 30000
+      },
+      "status": "holds",
+      "asOf": "2026-05-14",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034018.pdf"
+        },
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034591.pdf"
+        }
+      ]
+    },
+    {
+      "memberId": "F000110",
+      "security": {
+        "ticker": "AMD",
+        "kind": "other"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "status": "holds",
+      "asOf": "2026-02-03",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034018.pdf"
+        }
+      ]
+    },
+    {
+      "memberId": "F000110",
+      "security": {
+        "ticker": "FIG",
+        "kind": "other"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "status": "sold",
+      "asOf": "2025-12-26",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033732.pdf"
+        }
+      ],
+      "note": "sale reported by PTR with no annual baseline in our coverage"
+    },
+    {
+      "memberId": "F000110",
+      "security": {
+        "ticker": "GOOG",
+        "kind": "other"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 103004,
+        "hi": 295000
+      },
+      "status": "holds",
+      "asOf": "2026-06-15",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033858.pdf"
+        },
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034295.pdf"
+        },
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034800.pdf"
+        }
+      ]
+    },
+    {
+      "memberId": "F000110",
+      "security": {
+        "ticker": "GOOGL",
+        "kind": "other"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 150002,
+        "hi": 350000
+      },
+      "status": "holds",
+      "asOf": "2026-02-03",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033732.pdf"
+        },
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034018.pdf"
+        }
+      ]
+    },
+    {
+      "memberId": "F000110",
+      "security": {
+        "ticker": "IREN",
+        "kind": "other"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "status": "holds",
+      "asOf": "2026-01-20",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033858.pdf"
+        }
+      ]
+    },
+    {
+      "memberId": "F000110",
+      "security": {
+        "ticker": "LRCX",
+        "kind": "other"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "status": "holds",
+      "asOf": "2026-02-03",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034018.pdf"
+        }
+      ]
+    },
+    {
+      "memberId": "F000110",
+      "security": {
+        "ticker": "META",
+        "kind": "other"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 150002,
+        "hi": 350000
+      },
+      "status": "holds",
+      "asOf": "2026-02-03",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033858.pdf"
+        },
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034018.pdf"
+        }
+      ]
+    },
+    {
+      "memberId": "F000110",
+      "security": {
+        "ticker": "MSFT",
+        "kind": "other"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 2002,
+        "hi": 30000
+      },
+      "status": "holds",
+      "asOf": "2026-06-11",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034179.pdf"
+        },
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034800.pdf"
+        }
+      ]
+    },
+    {
+      "memberId": "F000110",
+      "security": {
+        "ticker": "MU",
+        "kind": "other"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "status": "holds",
+      "asOf": "2026-02-03",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034018.pdf"
+        }
+      ]
+    },
+    {
+      "memberId": "F000110",
+      "security": {
+        "ticker": "NFLX",
+        "kind": "other"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "status": "holds",
+      "asOf": "2026-01-20",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033858.pdf"
+        }
+      ]
+    },
+    {
+      "memberId": "F000110",
+      "security": {
+        "ticker": "NVDA",
+        "kind": "other"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "holds",
+      "asOf": "2026-06-26",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034894.pdf"
+        }
+      ]
+    },
+    {
+      "memberId": "F000110",
+      "security": {
+        "ticker": "OPEN",
+        "kind": "other"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "sold",
+      "asOf": "2025-12-26",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033732.pdf"
+        }
+      ],
+      "note": "sale reported by PTR with no annual baseline in our coverage"
+    },
+    {
+      "memberId": "F000110",
+      "security": {
+        "ticker": "QNT",
+        "kind": "other"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "holds",
+      "asOf": "2026-06-04",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034800.pdf"
+        }
+      ]
+    },
+    {
+      "memberId": "F000110",
+      "security": {
+        "ticker": "TSM",
+        "kind": "other"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 2002,
+        "hi": 30000
+      },
+      "status": "holds",
+      "asOf": "2026-04-09",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033858.pdf"
+        },
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034357.pdf"
+        }
+      ]
+    }
+  ],
+  "trades": [
+    {
+      "memberId": "F000110",
+      "assetRaw": "NVIDIA Corporation - Common Stock (NVDA) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-06-26",
+      "filedDate": "2026-07-16",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034894.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "F000110",
+      "assetRaw": "Alphabet Inc. - Class C Capital Stock (GOOG) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-06-15",
+      "filedDate": "2026-06-26",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034800.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "F000110",
+      "assetRaw": "Microsoft Corporation - Common Stock (MSFT) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-06-11",
+      "filedDate": "2026-06-26",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034800.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "F000110",
+      "assetRaw": "Quantinuum Inc. - Class A Common Stock (QNT) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-06-04",
+      "filedDate": "2026-06-26",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034800.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "F000110",
+      "assetRaw": "Apple Inc. - Common Stock (AAPL) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-05-14",
+      "filedDate": "2026-06-03",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034591.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "F000110",
+      "assetRaw": "Taiwan Semiconductor Manufacturing Company Ltd. (TSM) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-04-09",
+      "filedDate": "2026-04-20",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034357.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "F000110",
+      "assetRaw": "Alphabet Inc. - Class C Capital Stock (GOOG) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-03-16",
+      "filedDate": "2026-04-07",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034295.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "F000110",
+      "assetRaw": "Microsoft Corporation - Common Stock (MSFT) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-03-12",
+      "filedDate": "2026-03-17",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034179.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "F000110",
+      "assetRaw": "Apple Inc. - Common Stock (AAPL) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-02-12",
+      "filedDate": "2026-02-24",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034018.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "F000110",
+      "assetRaw": "Advanced Micro Devices, Inc. (AMD) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2026-02-03",
+      "filedDate": "2026-02-24",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034018.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "F000110",
+      "assetRaw": "Alphabet Inc. - Class A Common Stock (GOOGL) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2026-02-03",
+      "filedDate": "2026-02-24",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034018.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "F000110",
+      "assetRaw": "Lam Research Corporation - Common Stock (LRCX) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2026-02-03",
+      "filedDate": "2026-02-24",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034018.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "F000110",
+      "assetRaw": "Meta Platforms, Inc. - Class A Common Stock (META) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2026-02-03",
+      "filedDate": "2026-02-24",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034018.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "F000110",
+      "assetRaw": "Micron Technology, Inc. - Common Stock (MU) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2026-02-03",
+      "filedDate": "2026-02-24",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034018.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "F000110",
+      "assetRaw": "Alphabet Inc. - Class C Capital Stock (GOOG) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2026-01-20",
+      "filedDate": "2026-02-03",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033858.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "F000110",
+      "assetRaw": "IREN Limited - Ordinary Shares (IREN) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2026-01-20",
+      "filedDate": "2026-02-03",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033858.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "F000110",
+      "assetRaw": "Meta Platforms, Inc. - Class A Common Stock (META) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2026-01-20",
+      "filedDate": "2026-02-03",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033858.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "F000110",
+      "assetRaw": "Netflix, Inc. - Common Stock (NFLX) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2026-01-20",
+      "filedDate": "2026-02-03",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033858.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "F000110",
+      "assetRaw": "Alphabet Inc. - Class C Capital Stock (GOOG) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-01-12",
+      "filedDate": "2026-02-03",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033858.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "F000110",
+      "assetRaw": "Taiwan Semiconductor Manufacturing Company Ltd. (TSM) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-01-08",
+      "filedDate": "2026-02-03",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033858.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "F000110",
+      "assetRaw": "Alphabet Inc. - Class A Common Stock (GOOGL) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2025-12-26",
+      "filedDate": "2026-01-16",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033732.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "F000110",
+      "assetRaw": "FIGMA INC CLASS A (FIG) [OT]",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-12-26",
+      "filedDate": "2026-01-16",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033732.pdf",
+      "late": false,
+      "note": "partial sale",
+      "provenance": "both"
+    },
+    {
+      "memberId": "F000110",
+      "assetRaw": "FIGMA INC CLASS A (FIG) [OT]",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2025-12-26",
+      "filedDate": "2026-01-16",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033732.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "F000110",
+      "assetRaw": "IREN Limited - Ordinary Shares (IREN) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2025-12-26",
+      "filedDate": "2026-01-16",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033732.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "F000110",
+      "assetRaw": "Opendoor Technologies Inc - Common Stock (OPEN) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-12-26",
+      "filedDate": "2026-01-16",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033732.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "F000110",
+      "assetRaw": "Alphabet Inc. - Class A Common Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2025-12-15",
+      "filedDate": "2025-12-17",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20033616.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "F000110",
+      "assetRaw": "Alphabet Inc. - Class C Capital Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-12-15",
+      "filedDate": "2025-12-17",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20033616.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "F000110",
+      "assetRaw": "SoundHound AI, Inc. - Class A Common Stock",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-12-15",
+      "filedDate": "2025-12-17",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20033616.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "F000110",
+      "assetRaw": "AT&T Inc.",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2025-12-11",
+      "filedDate": "2025-12-17",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20033616.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "F000110",
+      "assetRaw": "Alphabet Inc. - Class A Common Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2025-12-11",
+      "filedDate": "2025-12-17",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20033616.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "F000110",
+      "assetRaw": "Arm Holdings plc - American Depositary Shares",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2025-12-11",
+      "filedDate": "2025-12-17",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20033616.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "F000110",
+      "assetRaw": "CoreWeave, Inc. - Class A Common Stock",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2025-12-11",
+      "filedDate": "2025-12-17",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20033616.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "F000110",
+      "assetRaw": "Microsoft Corporation - Common Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-12-11",
+      "filedDate": "2025-12-17",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20033616.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "F000110",
+      "assetRaw": "Uber Technologies, Inc. Common Stock",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2025-12-11",
+      "filedDate": "2025-12-17",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20033616.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "F000110",
+      "assetRaw": "Alphabet Inc. - Class A Common Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2025-12-09",
+      "filedDate": "2025-12-17",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20033616.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "F000110",
+      "assetRaw": "IREN Limited - Ordinary Shares",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-12-09",
+      "filedDate": "2025-12-17",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20033616.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "F000110",
+      "assetRaw": "Netflix, Inc. - Common Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-12-03",
+      "filedDate": "2025-12-17",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20033616.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "F000110",
+      "assetRaw": "Alphabet Inc. - Class A Common Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2025-12-01",
+      "filedDate": "2025-12-17",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20033616.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "F000110",
+      "assetRaw": "Netflix, Inc. - Common Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2025-11-20",
+      "filedDate": "2025-12-10",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20033559.pdf",
+      "late": false,
+      "note": "Filing Status: New\nSubholding Of: Morgan Stanley - E*TRADE - Fields Law Firm 2, LLC",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "F000110",
+      "assetRaw": "Apple Inc. - Common Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-11-13",
+      "filedDate": "2025-11-19",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20033493.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "F000110",
+      "assetRaw": "Celestica, Inc. Common Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2025-11-03",
+      "filedDate": "2025-11-19",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20033493.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "F000110",
+      "assetRaw": "Netflix, Inc. - Common Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2025-11-03",
+      "filedDate": "2025-11-19",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20033493.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "F000110",
+      "assetRaw": "Celestica, Inc. Common Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2025-10-31",
+      "filedDate": "2025-11-12",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20033424.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "F000110",
+      "assetRaw": "Netflix, Inc. - Common Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2025-10-31",
+      "filedDate": "2025-11-12",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20033424.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "F000110",
+      "assetRaw": "Apple Inc. - Common Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 250001,
+        "hi": 500000
+      },
+      "transactionDate": "2025-10-30",
+      "filedDate": "2025-11-12",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20033424.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "F000110",
+      "assetRaw": "Chipotle Mexican Grill, Inc. Common Stock",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2025-10-30",
+      "filedDate": "2025-11-12",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20033424.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "F000110",
+      "assetRaw": "NVIDIA Corporation - Common Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2025-10-30",
+      "filedDate": "2025-11-12",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20033424.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "F000110",
+      "assetRaw": "NVIDIA Corporation - Common Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2025-10-30",
+      "filedDate": "2025-11-12",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20033424.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "F000110",
+      "assetRaw": "Alphabet Inc. - Class C Capital Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2025-10-29",
+      "filedDate": "2025-11-12",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20033424.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "F000110",
+      "assetRaw": "Alphabet Inc. - Class A Common Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2025-10-23",
+      "filedDate": "2025-11-12",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20033424.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "F000110",
+      "assetRaw": "Apple Inc. - Common Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2025-10-23",
+      "filedDate": "2025-11-12",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20033424.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "F000110",
+      "assetRaw": "Taiwan Semiconductor Manufacturing Company Ltd.",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2025-10-23",
+      "filedDate": "2025-11-12",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20033424.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "F000110",
+      "assetRaw": "UNITED STATES TREASURY BILL; DUE 01/22/2026",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2025-10-23",
+      "filedDate": "2025-11-12",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20033424.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "F000110",
+      "assetRaw": "Alphabet Inc. - Class A Common Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2025-10-10",
+      "filedDate": "2025-10-30",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20033326.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "F000110",
+      "assetRaw": "Alphabet Inc. - Class C Capital Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2025-10-10",
+      "filedDate": "2025-10-30",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20033326.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "F000110",
+      "assetRaw": "CoreWeave, Inc. - Class A Common Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-10-10",
+      "filedDate": "2025-10-30",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20033326.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "F000110",
+      "assetRaw": "Figma Inc Class A",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-10-10",
+      "filedDate": "2025-10-30",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20033326.pdf",
+      "late": false,
+      "note": "Stock",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "F000110",
+      "assetRaw": "IREN Limited - Ordinary Shares",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-10-10",
+      "filedDate": "2025-10-30",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20033326.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "F000110",
+      "assetRaw": "Palantir Technologies Inc. - Class A Common Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2025-10-10",
+      "filedDate": "2025-10-30",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20033326.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "F000110",
+      "assetRaw": "CoreWeave, Inc. - Class A Common Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-10-09",
+      "filedDate": "2025-10-30",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20033326.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "F000110",
+      "assetRaw": "Oracle Corporation Common Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2025-09-23",
+      "filedDate": "2025-09-30",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032106.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "F000110",
+      "assetRaw": "Opendoor Technologies Inc - Common Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-09-19",
+      "filedDate": "2025-09-30",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032106.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "F000110",
+      "assetRaw": "Oracle Corporation Common Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2025-09-18",
+      "filedDate": "2025-09-30",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032106.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "F000110",
+      "assetRaw": "Alphabet Inc. - Class C Capital Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2025-09-17",
+      "filedDate": "2025-09-30",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032106.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "F000110",
+      "assetRaw": "Alphabet Inc. - Class C Capital Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-09-17",
+      "filedDate": "2025-09-30",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032106.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "F000110",
+      "assetRaw": "Amazon.com, Inc. - Common Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2025-09-17",
+      "filedDate": "2025-09-30",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032106.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "F000110",
+      "assetRaw": "Broadcom Inc. - Common Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2025-09-17",
+      "filedDate": "2025-09-30",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032106.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "F000110",
+      "assetRaw": "Meta Platforms, Inc. - Class A Common Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2025-09-17",
+      "filedDate": "2025-09-30",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032106.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "F000110",
+      "assetRaw": "Oracle Corporation Common Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2025-09-17",
+      "filedDate": "2025-09-30",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032106.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "F000110",
+      "assetRaw": "Amazon.com, Inc. - Common Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2025-09-10",
+      "filedDate": "2025-09-30",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032106.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "F000110",
+      "assetRaw": "Apple Inc. - Common Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2025-09-10",
+      "filedDate": "2025-09-30",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032106.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "F000110",
+      "assetRaw": "Figma Inc. Class A",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-09-10",
+      "filedDate": "2025-09-30",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032106.pdf",
+      "late": false,
+      "note": "Location: US\nDescription: Stock",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "F000110",
+      "assetRaw": "McDonald's Corporation Common Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2025-09-10",
+      "filedDate": "2025-09-30",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032106.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "F000110",
+      "assetRaw": "Meta Platforms, Inc. - Class A Common Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2025-09-10",
+      "filedDate": "2025-09-30",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032106.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "F000110",
+      "assetRaw": "QUALCOMM Incorporated - Common Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2025-09-10",
+      "filedDate": "2025-09-30",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032106.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "F000110",
+      "assetRaw": "Uber Technologies, Inc. Common Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-09-10",
+      "filedDate": "2025-09-30",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032106.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "F000110",
+      "assetRaw": "Alphabet Inc. - Class C Capital Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2025-09-03",
+      "filedDate": "2025-09-30",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032106.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "F000110",
+      "assetRaw": "Amazon.com, Inc. - Common Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2025-09-03",
+      "filedDate": "2025-09-30",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032106.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "F000110",
+      "assetRaw": "Apple Inc. - Common Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2025-09-03",
+      "filedDate": "2025-09-30",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032106.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "F000110",
+      "assetRaw": "NVIDIA Corporation - Common Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2025-09-03",
+      "filedDate": "2025-09-30",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032106.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "F000110",
+      "assetRaw": "NVIDIA Corporation - Common Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2025-08-22",
+      "filedDate": "2025-09-03",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20031017.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "F000110",
+      "assetRaw": "NVIDIA Corporation - Common Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2025-08-20",
+      "filedDate": "2025-09-03",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20031017.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "F000110",
+      "assetRaw": "Advanced Micro Devices, Inc.",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2025-08-15",
+      "filedDate": "2025-09-03",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20031017.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "F000110",
+      "assetRaw": "Amazon.com, Inc. - Common Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2025-08-15",
+      "filedDate": "2025-09-03",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20031017.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "F000110",
+      "assetRaw": "Amazon.com, Inc. - Common Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2025-08-15",
+      "filedDate": "2025-09-03",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20031017.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "F000110",
+      "assetRaw": "Broadcom Inc. - Common Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2025-08-15",
+      "filedDate": "2025-09-03",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20031017.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "F000110",
+      "assetRaw": "NVIDIA Corporation - Common Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2025-08-15",
+      "filedDate": "2025-09-03",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20031017.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "F000110",
+      "assetRaw": "NVIDIA Corporation - Common Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2025-08-15",
+      "filedDate": "2025-09-03",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20031017.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "F000110",
+      "assetRaw": "Taiwan Semiconductor Manufacturing Company Ltd.",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2025-08-15",
+      "filedDate": "2025-09-03",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20031017.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "F000110",
+      "assetRaw": "Apple Inc. - Common Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-08-14",
+      "filedDate": "2025-09-03",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20031017.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "F000110",
+      "assetRaw": "Broadcom Inc. - Common Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2025-08-13",
+      "filedDate": "2025-09-03",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20031017.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "F000110",
+      "assetRaw": "Meta Platforms, Inc. - Class A Common Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2025-08-13",
+      "filedDate": "2025-09-03",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20031017.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "F000110",
+      "assetRaw": "NVIDIA Corporation - Common Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2025-08-13",
+      "filedDate": "2025-09-03",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20031017.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "F000110",
+      "assetRaw": "Palantir Technologies Inc. - Class A Common Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2025-08-13",
+      "filedDate": "2025-09-03",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20031017.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "F000110",
+      "assetRaw": "Taiwan Semiconductor Manufacturing Company Ltd.",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-08-13",
+      "filedDate": "2025-09-03",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20031017.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "F000110",
+      "assetRaw": "Taiwan Semiconductor Manufacturing Company Ltd.",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2025-08-13",
+      "filedDate": "2025-09-03",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20031017.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "F000110",
+      "assetRaw": "Taiwan Semiconductor Manufacturing Company Ltd.",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 250001,
+        "hi": 500000
+      },
+      "transactionDate": "2025-08-13",
+      "filedDate": "2025-09-03",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20031017.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "F000110",
+      "assetRaw": "NVIDIA Corporation - Common Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2025-08-06",
+      "filedDate": "2025-09-03",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20031017.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "F000110",
+      "assetRaw": "Advanced Micro Devices, Inc.",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2025-08-01",
+      "filedDate": "2025-09-03",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20031017.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "F000110",
+      "assetRaw": "Alphabet Inc. - Class C Capital Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2025-08-01",
+      "filedDate": "2025-09-03",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20031017.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "F000110",
+      "assetRaw": "Amazon.com, Inc. - Common Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2025-08-01",
+      "filedDate": "2025-09-03",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20031017.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "F000110",
+      "assetRaw": "Apple Inc. - Common Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2025-08-01",
+      "filedDate": "2025-09-03",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20031017.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "F000110",
+      "assetRaw": "Figma Inc. Class A",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2025-08-01",
+      "filedDate": "2025-09-03",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20031017.pdf",
+      "late": false,
+      "note": "Location: US\nDescription: Stock",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "F000110",
+      "assetRaw": "Figma Inc. Class A",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-08-01",
+      "filedDate": "2025-09-03",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20031017.pdf",
+      "late": false,
+      "note": "Location: US\nDescription: Stock",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "F000110",
+      "assetRaw": "Meta Platforms, Inc. - Class A Common Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2025-08-01",
+      "filedDate": "2025-09-03",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20031017.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "F000110",
+      "assetRaw": "Microsoft Corporation - Common Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2025-08-01",
+      "filedDate": "2025-09-03",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20031017.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "F000110",
+      "assetRaw": "Microsoft Corporation - Common Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2025-08-01",
+      "filedDate": "2025-09-03",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20031017.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "F000110",
+      "assetRaw": "NVIDIA Corporation - Common Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2025-08-01",
+      "filedDate": "2025-09-03",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20031017.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "F000110",
+      "assetRaw": "NVIDIA Corporation - Common Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2025-08-01",
+      "filedDate": "2025-09-03",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20031017.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "F000110",
+      "assetRaw": "Taiwan Semiconductor Manufacturing Company Ltd.",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2025-08-01",
+      "filedDate": "2025-09-03",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20031017.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "F000110",
+      "assetRaw": "Taiwan Semiconductor Manufacturing Company Ltd.",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-08-01",
+      "filedDate": "2025-09-03",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20031017.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "F000110",
+      "assetRaw": "Advanced Micro Devices, Inc.",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2025-07-30",
+      "filedDate": "2025-08-06",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030803.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "F000110",
+      "assetRaw": "Alphabet Inc. - Class C Capital Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2025-07-30",
+      "filedDate": "2025-08-06",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030803.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "F000110",
+      "assetRaw": "Alphabet Inc. - Class C Capital Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2025-07-29",
+      "filedDate": "2025-08-06",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030803.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "F000110",
+      "assetRaw": "Amazon.com, Inc. - Common Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2025-07-29",
+      "filedDate": "2025-08-06",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030803.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "F000110",
+      "assetRaw": "Apple Inc. - Common Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2025-07-29",
+      "filedDate": "2025-08-06",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030803.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "F000110",
+      "assetRaw": "Broadcom Inc. - Common Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2025-07-29",
+      "filedDate": "2025-08-06",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030803.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "F000110",
+      "assetRaw": "McDonald's Corporation Common Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2025-07-29",
+      "filedDate": "2025-08-06",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030803.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "F000110",
+      "assetRaw": "Meta Platforms, Inc. - Class A Common Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2025-07-29",
+      "filedDate": "2025-08-06",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030803.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "F000110",
+      "assetRaw": "Microsoft Corporation - Common Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2025-07-29",
+      "filedDate": "2025-08-06",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030803.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "F000110",
+      "assetRaw": "Microsoft Corporation - Common Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2025-07-29",
+      "filedDate": "2025-08-06",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030803.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "F000110",
+      "assetRaw": "NVIDIA Corporation - Common Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2025-07-29",
+      "filedDate": "2025-08-06",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030803.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "F000110",
+      "assetRaw": "NVIDIA Corporation - Common Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 250001,
+        "hi": 500000
+      },
+      "transactionDate": "2025-07-29",
+      "filedDate": "2025-08-06",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030803.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "F000110",
+      "assetRaw": "BITMINE IMMERSIN TECH INC",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2025-07-28",
+      "filedDate": "2025-08-06",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030803.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "F000110",
+      "assetRaw": "Microsoft Corporation - Common Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2025-07-28",
+      "filedDate": "2025-08-06",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030803.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "F000110",
+      "assetRaw": "Palantir Technologies Inc. - Class A Common Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2025-07-28",
+      "filedDate": "2025-08-06",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030803.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "F000110",
+      "assetRaw": "Opendoor Technologies Inc - Common Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-07-21",
+      "filedDate": "2025-08-06",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030803.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "F000110",
+      "assetRaw": "Robinhood Markets, Inc. - Class A Common Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2025-07-21",
+      "filedDate": "2025-08-06",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030803.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "F000110",
+      "assetRaw": "Broadcom Inc. - Common Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-07-18",
+      "filedDate": "2025-08-06",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030803.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "F000110",
+      "assetRaw": "Palantir Technologies Inc. - Class A Common Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2025-07-18",
+      "filedDate": "2025-08-06",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030803.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "F000110",
+      "assetRaw": "Alphabet Inc. - Class C Capital Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2025-07-17",
+      "filedDate": "2025-08-06",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030803.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "F000110",
+      "assetRaw": "Meta Platforms, Inc. - Class A Common Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2025-07-17",
+      "filedDate": "2025-08-06",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030803.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "F000110",
+      "assetRaw": "NVIDIA Corporation - Common Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2025-07-17",
+      "filedDate": "2025-08-06",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030803.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "F000110",
+      "assetRaw": "NVIDIA Corporation - Common Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2025-07-17",
+      "filedDate": "2025-08-06",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030803.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "F000110",
+      "assetRaw": "Robinhood Markets, Inc. - Class A Common Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2025-07-17",
+      "filedDate": "2025-08-06",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030803.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "F000110",
+      "assetRaw": "Taiwan Semiconductor Manufacturing Company Ltd.",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2025-07-17",
+      "filedDate": "2025-08-06",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030803.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "F000110",
+      "assetRaw": "Amazon.com, Inc. - Common Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2025-07-16",
+      "filedDate": "2025-08-06",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030803.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "F000110",
+      "assetRaw": "Arm Holdings plc - American Depositary Shares",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2025-07-16",
+      "filedDate": "2025-08-06",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030803.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "F000110",
+      "assetRaw": "BITMINE IMMERSIN TECH INC",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-07-16",
+      "filedDate": "2025-08-06",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030803.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "F000110",
+      "assetRaw": "BITMINE IMMERSIN TECH INC",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2025-07-16",
+      "filedDate": "2025-08-06",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030803.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "F000110",
+      "assetRaw": "Meta Platforms, Inc. - Class A Common Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2025-07-16",
+      "filedDate": "2025-08-06",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030803.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "F000110",
+      "assetRaw": "Microsoft Corporation - Common Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2025-07-16",
+      "filedDate": "2025-08-06",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030803.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "F000110",
+      "assetRaw": "Microsoft Corporation - Common Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2025-07-16",
+      "filedDate": "2025-08-06",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030803.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "F000110",
+      "assetRaw": "NVIDIA Corporation - Common Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2025-07-16",
+      "filedDate": "2025-08-06",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030803.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "F000110",
+      "assetRaw": "NVIDIA Corporation - Common Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2025-07-16",
+      "filedDate": "2025-08-06",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030803.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "F000110",
+      "assetRaw": "NVIDIA Corporation - Common Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2025-07-16",
+      "filedDate": "2025-08-06",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030803.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "F000110",
+      "assetRaw": "SoundHound AI, Inc. - Class A Common Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-07-16",
+      "filedDate": "2025-08-06",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030803.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "F000110",
+      "assetRaw": "Alphabet Inc. - Class C Capital Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2025-07-14",
+      "filedDate": "2025-08-06",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030803.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "F000110",
+      "assetRaw": "Amazon.com, Inc. - Common Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-07-14",
+      "filedDate": "2025-08-06",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030803.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "F000110",
+      "assetRaw": "NVIDIA Corporation - Common Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2025-07-14",
+      "filedDate": "2025-08-06",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030803.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "F000110",
+      "assetRaw": "NVIDIA Corporation - Common Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2025-07-14",
+      "filedDate": "2025-08-06",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030803.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "F000110",
+      "assetRaw": "NVIDIA Corporation - Common Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2025-07-14",
+      "filedDate": "2025-08-06",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030803.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "F000110",
+      "assetRaw": "IREN Limited - Ordinary Shares",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2025-07-10",
+      "filedDate": "2025-08-06",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030803.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "F000110",
+      "assetRaw": "NVIDIA Corporation - Common Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2025-07-10",
+      "filedDate": "2025-08-06",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030803.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "F000110",
+      "assetRaw": "Uber Technologies, Inc. Common Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2025-07-10",
+      "filedDate": "2025-08-06",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030803.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "F000110",
+      "assetRaw": "AT&T Inc.",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2025-06-30",
+      "filedDate": "2025-07-01",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030472.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "F000110",
+      "assetRaw": "Amazon.com, Inc. - Common Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2025-06-30",
+      "filedDate": "2025-07-01",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030472.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "F000110",
+      "assetRaw": "Apple Inc. - Common Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2025-06-30",
+      "filedDate": "2025-07-01",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030472.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "F000110",
+      "assetRaw": "Apple Inc. - Common Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2025-06-30",
+      "filedDate": "2025-07-01",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030472.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "F000110",
+      "assetRaw": "Apple Inc. - Common Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2025-06-30",
+      "filedDate": "2025-07-01",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030472.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "F000110",
+      "assetRaw": "Cisco Systems, Inc. - Common Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2025-06-30",
+      "filedDate": "2025-07-01",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030472.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "F000110",
+      "assetRaw": "Intel Corporation - Common Stock",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-06-30",
+      "filedDate": "2025-07-01",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030472.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "F000110",
+      "assetRaw": "JP Morgan Chase & Co. Common Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2025-06-30",
+      "filedDate": "2025-07-01",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030472.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "F000110",
+      "assetRaw": "Meta Platforms, Inc. - Class A Common Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2025-06-30",
+      "filedDate": "2025-07-01",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030472.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "F000110",
+      "assetRaw": "NVIDIA Corporation - Common Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2025-06-30",
+      "filedDate": "2025-07-01",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030472.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "F000110",
+      "assetRaw": "Palantir Technologies Inc. - Class A Common Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2025-06-30",
+      "filedDate": "2025-07-01",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030472.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "F000110",
+      "assetRaw": "NVIDIA Corporation - Common Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1000001,
+        "hi": 5000000
+      },
+      "transactionDate": "2025-06-26",
+      "filedDate": "2025-07-01",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030472.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "F000110",
+      "assetRaw": "Alphabet Inc. - Class C Capital Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2025-06-25",
+      "filedDate": "2025-07-01",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030472.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "F000110",
+      "assetRaw": "Amazon.com, Inc. - Common Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2025-06-25",
+      "filedDate": "2025-07-01",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030472.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "F000110",
+      "assetRaw": "Apple Inc. - Common Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-06-25",
+      "filedDate": "2025-07-01",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030472.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "F000110",
+      "assetRaw": "Apple Inc. - Common Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2025-06-25",
+      "filedDate": "2025-07-01",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030472.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "F000110",
+      "assetRaw": "Apple Inc. - Common Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2025-06-25",
+      "filedDate": "2025-07-01",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030472.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "F000110",
+      "assetRaw": "McDonald's Corporation Common Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2025-06-25",
+      "filedDate": "2025-07-01",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030472.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "F000110",
+      "assetRaw": "Microsoft Corporation - Common Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2025-06-25",
+      "filedDate": "2025-07-01",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030472.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "F000110",
+      "assetRaw": "NVIDIA Corporation - Common Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2025-06-25",
+      "filedDate": "2025-07-01",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030472.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "F000110",
+      "assetRaw": "Palantir Technologies Inc. - Class A Common Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-06-25",
+      "filedDate": "2025-07-01",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030472.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "F000110",
+      "assetRaw": "Taiwan Semiconductor Manufacturing Company Ltd.",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2025-06-25",
+      "filedDate": "2025-07-01",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030472.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "F000110",
+      "assetRaw": "Amazon.com, Inc. - Common Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2025-06-09",
+      "filedDate": "2025-07-01",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030472.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "F000110",
+      "assetRaw": "Amazon.com, Inc. - Common Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2025-06-09",
+      "filedDate": "2025-07-01",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030472.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "F000110",
+      "assetRaw": "Apple Inc. - Common Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-06-09",
+      "filedDate": "2025-07-01",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030472.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "F000110",
+      "assetRaw": "NVIDIA Corporation - Common Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2025-06-09",
+      "filedDate": "2025-07-01",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030472.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "F000110",
+      "assetRaw": "NVIDIA Corporation - Common Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2025-06-09",
+      "filedDate": "2025-07-01",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030472.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "F000110",
+      "assetRaw": "Alphabet Inc. - Class C Capital Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2025-06-05",
+      "filedDate": "2025-07-01",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030472.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "F000110",
+      "assetRaw": "Amazon.com, Inc. - Common Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2025-06-05",
+      "filedDate": "2025-07-01",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030472.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "F000110",
+      "assetRaw": "NVIDIA Corporation - Common Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 250001,
+        "hi": 500000
+      },
+      "transactionDate": "2025-06-05",
+      "filedDate": "2025-07-01",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030472.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "F000110",
+      "assetRaw": "Apple Inc. - Common Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2025-06-03",
+      "filedDate": "2025-07-01",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030472.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "F000110",
+      "assetRaw": "Apple Inc. - Common Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-06-03",
+      "filedDate": "2025-07-01",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030472.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "F000110",
+      "assetRaw": "Chipotle Mexican Grill, Inc. Common Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-06-03",
+      "filedDate": "2025-07-01",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030472.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "F000110",
+      "assetRaw": "Microsoft Corporation - Common Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-06-03",
+      "filedDate": "2025-07-01",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030472.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "F000110",
+      "assetRaw": "Microsoft Corporation - Common Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 250001,
+        "hi": 500000
+      },
+      "transactionDate": "2025-06-03",
+      "filedDate": "2025-07-01",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030472.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "F000110",
+      "assetRaw": "NVIDIA Corporation - Common Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2025-06-03",
+      "filedDate": "2025-07-01",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030472.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "F000110",
+      "assetRaw": "NVIDIA Corporation - Common Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-06-03",
+      "filedDate": "2025-07-01",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030472.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "F000110",
+      "assetRaw": "NVIDIA Corporation - Common Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2025-06-03",
+      "filedDate": "2025-07-01",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030472.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "F000110",
+      "assetRaw": "NVIDIA Corporation - Common Stock",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 500001,
+        "hi": 1000000
+      },
+      "transactionDate": "2025-02-05",
+      "filedDate": "2025-03-14",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20027855.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    }
+  ],
+  "series": [
+    {
+      "date": "2025-02-05",
+      "value": 750000.5
+    },
+    {
+      "date": "2025-06-03",
+      "value": 175000.5
+    },
+    {
+      "date": "2025-06-03",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-06-03",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-06-03",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-06-03",
+      "value": 375000.5
+    },
+    {
+      "date": "2025-06-03",
+      "value": 175000.5
+    },
+    {
+      "date": "2025-06-03",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-06-03",
+      "value": 32500.5
+    },
+    {
+      "date": "2025-06-05",
+      "value": 32500.5
+    },
+    {
+      "date": "2025-06-05",
+      "value": 175000.5
+    },
+    {
+      "date": "2025-06-05",
+      "value": 375000.5
+    },
+    {
+      "date": "2025-06-09",
+      "value": 175000.5
+    },
+    {
+      "date": "2025-06-09",
+      "value": 75000.5
+    },
+    {
+      "date": "2025-06-09",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-06-09",
+      "value": 175000.5
+    },
+    {
+      "date": "2025-06-09",
+      "value": 32500.5
+    },
+    {
+      "date": "2025-06-25",
+      "value": 75000.5
+    },
+    {
+      "date": "2025-06-25",
+      "value": 175000.5
+    },
+    {
+      "date": "2025-06-25",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-06-25",
+      "value": 75000.5
+    },
+    {
+      "date": "2025-06-25",
+      "value": 175000.5
+    },
+    {
+      "date": "2025-06-25",
+      "value": 32500.5
+    },
+    {
+      "date": "2025-06-25",
+      "value": 75000.5
+    },
+    {
+      "date": "2025-06-25",
+      "value": 75000.5
+    },
+    {
+      "date": "2025-06-25",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-06-25",
+      "value": 175000.5
+    },
+    {
+      "date": "2025-06-26",
+      "value": 3000000.5
+    },
+    {
+      "date": "2025-06-30",
+      "value": 32500.5
+    },
+    {
+      "date": "2025-06-30",
+      "value": 175000.5
+    },
+    {
+      "date": "2025-06-30",
+      "value": 75000.5
+    },
+    {
+      "date": "2025-06-30",
+      "value": 175000.5
+    },
+    {
+      "date": "2025-06-30",
+      "value": 32500.5
+    },
+    {
+      "date": "2025-06-30",
+      "value": 75000.5
+    },
+    {
+      "date": "2025-06-30",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-06-30",
+      "value": 32500.5
+    },
+    {
+      "date": "2025-06-30",
+      "value": 75000.5
+    },
+    {
+      "date": "2025-06-30",
+      "value": 175000.5
+    },
+    {
+      "date": "2025-06-30",
+      "value": 75000.5
+    },
+    {
+      "date": "2025-07-10",
+      "value": 32500.5
+    },
+    {
+      "date": "2025-07-10",
+      "value": 175000.5
+    },
+    {
+      "date": "2025-07-10",
+      "value": 32500.5
+    },
+    {
+      "date": "2025-07-14",
+      "value": 175000.5
+    },
+    {
+      "date": "2025-07-14",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-07-14",
+      "value": 75000.5
+    },
+    {
+      "date": "2025-07-14",
+      "value": 175000.5
+    },
+    {
+      "date": "2025-07-14",
+      "value": 32500.5
+    },
+    {
+      "date": "2025-07-16",
+      "value": 175000.5
+    },
+    {
+      "date": "2025-07-16",
+      "value": 75000.5
+    },
+    {
+      "date": "2025-07-16",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-07-16",
+      "value": 32500.5
+    },
+    {
+      "date": "2025-07-16",
+      "value": 75000.5
+    },
+    {
+      "date": "2025-07-16",
+      "value": 32500.5
+    },
+    {
+      "date": "2025-07-16",
+      "value": 75000.5
+    },
+    {
+      "date": "2025-07-16",
+      "value": 75000.5
+    },
+    {
+      "date": "2025-07-16",
+      "value": 175000.5
+    },
+    {
+      "date": "2025-07-16",
+      "value": 32500.5
+    },
+    {
+      "date": "2025-07-16",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-07-17",
+      "value": 175000.5
+    },
+    {
+      "date": "2025-07-17",
+      "value": 75000.5
+    },
+    {
+      "date": "2025-07-17",
+      "value": 175000.5
+    },
+    {
+      "date": "2025-07-17",
+      "value": 75000.5
+    },
+    {
+      "date": "2025-07-17",
+      "value": 32500.5
+    },
+    {
+      "date": "2025-07-17",
+      "value": 175000.5
+    },
+    {
+      "date": "2025-07-18",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-07-18",
+      "value": 175000.5
+    },
+    {
+      "date": "2025-07-21",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-07-21",
+      "value": 32500.5
+    },
+    {
+      "date": "2025-07-28",
+      "value": 75000.5
+    },
+    {
+      "date": "2025-07-28",
+      "value": 175000.5
+    },
+    {
+      "date": "2025-07-28",
+      "value": 75000.5
+    },
+    {
+      "date": "2025-07-29",
+      "value": 75000.5
+    },
+    {
+      "date": "2025-07-29",
+      "value": 175000.5
+    },
+    {
+      "date": "2025-07-29",
+      "value": 175000.5
+    },
+    {
+      "date": "2025-07-29",
+      "value": 32500.5
+    },
+    {
+      "date": "2025-07-29",
+      "value": 32500.5
+    },
+    {
+      "date": "2025-07-29",
+      "value": 75000.5
+    },
+    {
+      "date": "2025-07-29",
+      "value": 175000.5
+    },
+    {
+      "date": "2025-07-29",
+      "value": 75000.5
+    },
+    {
+      "date": "2025-07-29",
+      "value": 75000.5
+    },
+    {
+      "date": "2025-07-29",
+      "value": 375000.5
+    },
+    {
+      "date": "2025-07-30",
+      "value": 32500.5
+    },
+    {
+      "date": "2025-07-30",
+      "value": 175000.5
+    },
+    {
+      "date": "2025-08-01",
+      "value": 32500.5
+    },
+    {
+      "date": "2025-08-01",
+      "value": 175000.5
+    },
+    {
+      "date": "2025-08-01",
+      "value": 175000.5
+    },
+    {
+      "date": "2025-08-01",
+      "value": 32500.5
+    },
+    {
+      "date": "2025-08-01",
+      "value": 32500.5
+    },
+    {
+      "date": "2025-08-01",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-08-01",
+      "value": 175000.5
+    },
+    {
+      "date": "2025-08-01",
+      "value": 175000.5
+    },
+    {
+      "date": "2025-08-01",
+      "value": 75000.5
+    },
+    {
+      "date": "2025-08-01",
+      "value": 75000.5
+    },
+    {
+      "date": "2025-08-01",
+      "value": 175000.5
+    },
+    {
+      "date": "2025-08-01",
+      "value": 175000.5
+    },
+    {
+      "date": "2025-08-01",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-08-06",
+      "value": 75000.5
+    },
+    {
+      "date": "2025-08-13",
+      "value": 75000.5
+    },
+    {
+      "date": "2025-08-13",
+      "value": 175000.5
+    },
+    {
+      "date": "2025-08-13",
+      "value": 175000.5
+    },
+    {
+      "date": "2025-08-13",
+      "value": 75000.5
+    },
+    {
+      "date": "2025-08-13",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-08-13",
+      "value": 75000.5
+    },
+    {
+      "date": "2025-08-13",
+      "value": 375000.5
+    },
+    {
+      "date": "2025-08-14",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-08-15",
+      "value": 32500.5
+    },
+    {
+      "date": "2025-08-15",
+      "value": 75000.5
+    },
+    {
+      "date": "2025-08-15",
+      "value": 32500.5
+    },
+    {
+      "date": "2025-08-15",
+      "value": 32500.5
+    },
+    {
+      "date": "2025-08-15",
+      "value": 175000.5
+    },
+    {
+      "date": "2025-08-15",
+      "value": 32500.5
+    },
+    {
+      "date": "2025-08-15",
+      "value": 32500.5
+    },
+    {
+      "date": "2025-08-20",
+      "value": 32500.5
+    },
+    {
+      "date": "2025-08-22",
+      "value": 32500.5
+    },
+    {
+      "date": "2025-09-03",
+      "value": 175000.5
+    },
+    {
+      "date": "2025-09-03",
+      "value": 175000.5
+    },
+    {
+      "date": "2025-09-03",
+      "value": 175000.5
+    },
+    {
+      "date": "2025-09-03",
+      "value": 75000.5
+    },
+    {
+      "date": "2025-09-10",
+      "value": 75000.5
+    },
+    {
+      "date": "2025-09-10",
+      "value": 75000.5
+    },
+    {
+      "date": "2025-09-10",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-09-10",
+      "value": 32500.5
+    },
+    {
+      "date": "2025-09-10",
+      "value": 75000.5
+    },
+    {
+      "date": "2025-09-10",
+      "value": 32500.5
+    },
+    {
+      "date": "2025-09-10",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-09-17",
+      "value": 32500.5
+    },
+    {
+      "date": "2025-09-17",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-09-17",
+      "value": 32500.5
+    },
+    {
+      "date": "2025-09-17",
+      "value": 32500.5
+    },
+    {
+      "date": "2025-09-17",
+      "value": 32500.5
+    },
+    {
+      "date": "2025-09-17",
+      "value": 75000.5
+    },
+    {
+      "date": "2025-09-18",
+      "value": 32500.5
+    },
+    {
+      "date": "2025-09-19",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-09-23",
+      "value": 32500.5
+    },
+    {
+      "date": "2025-10-09",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-10-10",
+      "value": 32500.5
+    },
+    {
+      "date": "2025-10-10",
+      "value": 32500.5
+    },
+    {
+      "date": "2025-10-10",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-10-10",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-10-10",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-10-10",
+      "value": 32500.5
+    },
+    {
+      "date": "2025-10-23",
+      "value": 175000.5
+    },
+    {
+      "date": "2025-10-23",
+      "value": 175000.5
+    },
+    {
+      "date": "2025-10-23",
+      "value": 175000.5
+    },
+    {
+      "date": "2025-10-23",
+      "value": 75000.5
+    },
+    {
+      "date": "2025-10-29",
+      "value": 75000.5
+    },
+    {
+      "date": "2025-10-30",
+      "value": 375000.5
+    },
+    {
+      "date": "2025-10-30",
+      "value": 32500.5
+    },
+    {
+      "date": "2025-10-30",
+      "value": 175000.5
+    },
+    {
+      "date": "2025-10-30",
+      "value": 32500.5
+    },
+    {
+      "date": "2025-10-31",
+      "value": 32500.5
+    },
+    {
+      "date": "2025-10-31",
+      "value": 175000.5
+    },
+    {
+      "date": "2025-11-03",
+      "value": 32500.5
+    },
+    {
+      "date": "2025-11-03",
+      "value": 175000.5
+    },
+    {
+      "date": "2025-11-13",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-11-20",
+      "value": 175000.5
+    },
+    {
+      "date": "2025-12-01",
+      "value": 75000.5
+    },
+    {
+      "date": "2025-12-03",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-12-09",
+      "value": 75000.5
+    },
+    {
+      "date": "2025-12-09",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-12-11",
+      "value": 32500.5
+    },
+    {
+      "date": "2025-12-11",
+      "value": 175000.5
+    },
+    {
+      "date": "2025-12-11",
+      "value": 75000.5
+    },
+    {
+      "date": "2025-12-11",
+      "value": 32500.5
+    },
+    {
+      "date": "2025-12-11",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-12-11",
+      "value": 75000.5
+    },
+    {
+      "date": "2025-12-15",
+      "value": 32500.5
+    },
+    {
+      "date": "2025-12-15",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-12-15",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-12-26",
+      "value": 75000.5
+    },
+    {
+      "date": "2025-12-26",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-12-26",
+      "value": 32500.5
+    },
+    {
+      "date": "2025-12-26",
+      "value": 75000.5
+    },
+    {
+      "date": "2025-12-26",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-01-08",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-01-12",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-01-20",
+      "value": 175000.5
+    },
+    {
+      "date": "2026-01-20",
+      "value": 75000.5
+    },
+    {
+      "date": "2026-01-20",
+      "value": 75000.5
+    },
+    {
+      "date": "2026-01-20",
+      "value": 75000.5
+    },
+    {
+      "date": "2026-02-03",
+      "value": 75000.5
+    },
+    {
+      "date": "2026-02-03",
+      "value": 175000.5
+    },
+    {
+      "date": "2026-02-03",
+      "value": 32500.5
+    },
+    {
+      "date": "2026-02-03",
+      "value": 175000.5
+    },
+    {
+      "date": "2026-02-03",
+      "value": 175000.5
+    },
+    {
+      "date": "2026-02-12",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-03-12",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-03-16",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-04-09",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-05-14",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-06-04",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-06-11",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-06-15",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-06-26",
+      "value": 8000.5
+    }
+  ],
+  "measured": null
+}

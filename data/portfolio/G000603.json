@@ -1,0 +1,531 @@
+{
+  "member": {
+    "bioguideId": "G000603",
+    "name": "Brandon Gill",
+    "party": "R",
+    "chamber": "house",
+    "state": "TX",
+    "district": "TX-26",
+    "active": true,
+    "note": "Largest direct-BTC position in the House."
+  },
+  "positions": [
+    {
+      "memberId": "G000603",
+      "security": {
+        "ticker": "BTC",
+        "kind": "direct"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 1150008,
+        "hi": 2600000
+      },
+      "status": "holds",
+      "asOf": "2025-10-20",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030417.pdf"
+        },
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030641.pdf"
+        },
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20033476.pdf"
+        }
+      ]
+    },
+    {
+      "memberId": "G000603",
+      "security": {
+        "ticker": "IBIT",
+        "kind": "spot-etf"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 65002,
+        "hi": 150000
+      },
+      "status": "holds",
+      "asOf": "2025-10-29",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030889.pdf"
+        },
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20033476.pdf"
+        }
+      ]
+    }
+  ],
+  "trades": [
+    {
+      "memberId": "G000603",
+      "assetRaw": "iShares Bitcoin Trust ETF",
+      "security": {
+        "ticker": "IBIT",
+        "kind": "spot-etf"
+      },
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2025-10-29",
+      "filedDate": "2025-11-18",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20033476.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "G000603",
+      "assetRaw": "BTC",
+      "security": {
+        "ticker": "BTC",
+        "kind": "direct"
+      },
+      "side": "buy",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2025-10-20",
+      "filedDate": "2025-11-18",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20033476.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "G000603",
+      "assetRaw": "iShares Bitcoin Trust ETF - iShares Bitcoin Trust ETF",
+      "security": {
+        "ticker": "IBIT",
+        "kind": "spot-etf"
+      },
+      "side": "buy",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2025-07-17",
+      "filedDate": "2025-08-12",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030889.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "G000603",
+      "assetRaw": "BTC",
+      "security": {
+        "ticker": "BTC",
+        "kind": "direct"
+      },
+      "side": "buy",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2025-07-08",
+      "filedDate": "2025-07-10",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030641.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "G000603",
+      "assetRaw": "QQQ ETF",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-07-07",
+      "filedDate": "2025-07-10",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030641.pdf",
+      "late": false,
+      "note": "QQQ ETF",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "G000603",
+      "assetRaw": "BTC",
+      "security": {
+        "ticker": "BTC",
+        "kind": "direct"
+      },
+      "side": "buy",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2025-06-23",
+      "filedDate": "2025-07-10",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030641.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "G000603",
+      "assetRaw": "DIA ETF",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-06-23",
+      "filedDate": "2025-07-10",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030641.pdf",
+      "late": false,
+      "note": "DIA ETF",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "G000603",
+      "assetRaw": "QQQ ETF",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-06-23",
+      "filedDate": "2025-07-10",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030641.pdf",
+      "late": false,
+      "note": "QQQ ETF",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "G000603",
+      "assetRaw": "RSP ETF",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-06-23",
+      "filedDate": "2025-07-10",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030641.pdf",
+      "late": false,
+      "note": "RSP ETF",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "G000603",
+      "assetRaw": "TOIXX",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-06-23",
+      "filedDate": "2025-07-10",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030641.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "G000603",
+      "assetRaw": "TTTXX",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2025-06-23",
+      "filedDate": "2025-07-10",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030641.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "G000603",
+      "assetRaw": "BTC",
+      "security": {
+        "ticker": "BTC",
+        "kind": "direct"
+      },
+      "side": "buy",
+      "range": {
+        "lo": 500001,
+        "hi": 1000000
+      },
+      "transactionDate": "2025-06-20",
+      "filedDate": "2025-07-10",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030641.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "G000603",
+      "assetRaw": "DIA ETF",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2025-06-20",
+      "filedDate": "2025-07-10",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030641.pdf",
+      "late": false,
+      "note": "DIA ETF",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "G000603",
+      "assetRaw": "QQQ ETF",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2025-06-20",
+      "filedDate": "2025-07-10",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030641.pdf",
+      "late": false,
+      "note": "QQQ ETF",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "G000603",
+      "assetRaw": "RSP ETF",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2025-06-20",
+      "filedDate": "2025-07-10",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030641.pdf",
+      "late": false,
+      "note": "RSP ETF",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "G000603",
+      "assetRaw": "Bitcoin",
+      "security": {
+        "ticker": "BTC",
+        "kind": "direct"
+      },
+      "side": "buy",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2025-05-18",
+      "filedDate": "2025-05-30",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030417.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "G000603",
+      "assetRaw": "Bitcoin",
+      "security": {
+        "ticker": "BTC",
+        "kind": "direct"
+      },
+      "side": "buy",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2025-05-13",
+      "filedDate": "2025-05-30",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030417.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "G000603",
+      "assetRaw": "TOIXX",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2025-05-12",
+      "filedDate": "2025-05-30",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030417.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "G000603",
+      "assetRaw": "TOIXX",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-04-16",
+      "filedDate": "2025-05-30",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030417.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "G000603",
+      "assetRaw": "Invesco S&P 500 Equal Weight ETF",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-03-28",
+      "filedDate": "2025-05-30",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030417.pdf",
+      "late": true,
+      "note": "S&P 500 ETF",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "G000603",
+      "assetRaw": "Bitcoin",
+      "security": {
+        "ticker": "BTC",
+        "kind": "direct"
+      },
+      "side": "buy",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2025-02-27",
+      "filedDate": "2025-05-30",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030417.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "G000603",
+      "assetRaw": "Bitcoin",
+      "security": {
+        "ticker": "BTC",
+        "kind": "direct"
+      },
+      "side": "buy",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2025-01-29",
+      "filedDate": "2025-05-30",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030417.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    }
+  ],
+  "series": [
+    {
+      "date": "2025-01-29",
+      "value": 175000.5
+    },
+    {
+      "date": "2025-02-27",
+      "value": 175000.5
+    },
+    {
+      "date": "2025-03-28",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-04-16",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-05-12",
+      "value": 32500.5
+    },
+    {
+      "date": "2025-05-13",
+      "value": 175000.5
+    },
+    {
+      "date": "2025-05-18",
+      "value": 75000.5
+    },
+    {
+      "date": "2025-06-20",
+      "value": 750000.5
+    },
+    {
+      "date": "2025-06-20",
+      "value": 175000.5
+    },
+    {
+      "date": "2025-06-20",
+      "value": 175000.5
+    },
+    {
+      "date": "2025-06-20",
+      "value": 175000.5
+    },
+    {
+      "date": "2025-06-23",
+      "value": 175000.5
+    },
+    {
+      "date": "2025-06-23",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-06-23",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-06-23",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-06-23",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-06-23",
+      "value": 32500.5
+    },
+    {
+      "date": "2025-07-07",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-07-08",
+      "value": 175000.5
+    },
+    {
+      "date": "2025-07-17",
+      "value": 75000.5
+    },
+    {
+      "date": "2025-10-20",
+      "value": 175000.5
+    },
+    {
+      "date": "2025-10-29",
+      "value": 32500.5
+    }
+  ],
+  "measured": null
+}

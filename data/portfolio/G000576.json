@@ -1,0 +1,112 @@
+{
+  "member": {
+    "bioguideId": "G000576",
+    "name": "Glenn Grothman",
+    "party": "R",
+    "chamber": "house",
+    "state": "WI",
+    "district": "WI-06",
+    "active": true
+  },
+  "positions": [],
+  "trades": [
+    {
+      "memberId": "G000576",
+      "assetRaw": "US Savings Bond",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2024-03-19",
+      "filedDate": "2024-05-14",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/20025026.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "G000576",
+      "assetRaw": "US Savings Bond",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2023-04-26",
+      "filedDate": "2024-05-14",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/20025026.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "G000576",
+      "assetRaw": "Series I Bond",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2023-01-04",
+      "filedDate": "2024-05-14",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/20025026.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "G000576",
+      "assetRaw": "VINGS BOND [GS]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-04-19",
+      "filedDate": "2023-06-27",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20023104.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "G000576",
+      "assetRaw": "VINGS BOND [GS]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-02-02",
+      "filedDate": "2023-06-27",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20023104.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    }
+  ],
+  "series": [
+    {
+      "date": "2022-02-02",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-04-19",
+      "value": 8000.5
+    },
+    {
+      "date": "2023-01-04",
+      "value": 8000.5
+    },
+    {
+      "date": "2023-04-26",
+      "value": 8000.5
+    },
+    {
+      "date": "2024-03-19",
+      "value": 8000.5
+    }
+  ],
+  "measured": null
+}

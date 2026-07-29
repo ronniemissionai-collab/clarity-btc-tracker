@@ -1,0 +1,142 @@
+{
+  "member": {
+    "bioguideId": "S001185",
+    "name": "Terri A. Sewell",
+    "party": "D",
+    "chamber": "house",
+    "state": "AL",
+    "district": "AL-07",
+    "active": true
+  },
+  "positions": [
+    {
+      "memberId": "S001185",
+      "security": {
+        "ticker": "GEHC",
+        "kind": "other"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "sold",
+      "asOf": "2026-03-25",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034384.pdf"
+        }
+      ],
+      "note": "sale reported by PTR with no annual baseline in our coverage"
+    },
+    {
+      "memberId": "S001185",
+      "security": {
+        "ticker": "TPR",
+        "kind": "other"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "status": "sold",
+      "asOf": "2026-03-25",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034384.pdf"
+        }
+      ],
+      "note": "sale reported by PTR with no annual baseline in our coverage"
+    }
+  ],
+  "trades": [
+    {
+      "memberId": "S001185",
+      "assetRaw": "GE HealthCare Technologies Inc. - Common Stock (GEHC) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-03-25",
+      "filedDate": "2026-04-21",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034384.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "S001185",
+      "assetRaw": "Tapestry, Inc. Common Stock (TPR) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2026-03-25",
+      "filedDate": "2026-04-21",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034384.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "S001185",
+      "assetRaw": "Apple Inc. - Common Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-04-10",
+      "filedDate": "2025-05-12",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030235.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S001185",
+      "assetRaw": "NVIDIA Corporation - Common Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-04-10",
+      "filedDate": "2025-05-12",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030235.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    }
+  ],
+  "series": [
+    {
+      "date": "2025-04-10",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-04-10",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-03-25",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-03-25",
+      "value": 32500.5
+    }
+  ],
+  "measured": null
+}

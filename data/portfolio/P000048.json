@@ -1,0 +1,729 @@
+{
+  "member": {
+    "bioguideId": "P000048",
+    "name": "August Pfluger",
+    "party": "R",
+    "chamber": "house",
+    "state": "TX",
+    "district": "TX-11",
+    "active": true
+  },
+  "positions": [
+    {
+      "memberId": "P000048",
+      "security": {
+        "ticker": "BRK.B",
+        "kind": "other"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "status": "holds",
+      "asOf": "2026-03-13",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034348.pdf"
+        }
+      ]
+    },
+    {
+      "memberId": "P000048",
+      "security": {
+        "ticker": "DMLP",
+        "kind": "other"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "status": "holds",
+      "asOf": "2026-03-13",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034348.pdf"
+        }
+      ]
+    },
+    {
+      "memberId": "P000048",
+      "security": {
+        "ticker": "EPD",
+        "kind": "other"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "status": "holds",
+      "asOf": "2026-03-13",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034348.pdf"
+        }
+      ]
+    },
+    {
+      "memberId": "P000048",
+      "security": {
+        "ticker": "FNF",
+        "kind": "other"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "sold",
+      "asOf": "2026-01-12",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033920.pdf"
+        }
+      ],
+      "note": "sale reported by PTR with no annual baseline in our coverage"
+    },
+    {
+      "memberId": "P000048",
+      "security": {
+        "ticker": "KRP",
+        "kind": "other"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "status": "holds",
+      "asOf": "2026-03-13",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034348.pdf"
+        }
+      ]
+    },
+    {
+      "memberId": "P000048",
+      "security": {
+        "ticker": "SIRI",
+        "kind": "other"
+      },
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "sold",
+      "asOf": "2026-01-13",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033920.pdf"
+        }
+      ],
+      "note": "sale reported by PTR with no annual baseline in our coverage"
+    },
+    {
+      "memberId": "P000048",
+      "security": {
+        "ticker": "UHALB",
+        "kind": "other"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "status": "holds",
+      "asOf": "2026-03-13",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034348.pdf"
+        }
+      ]
+    },
+    {
+      "memberId": "P000048",
+      "security": {
+        "ticker": "VNOM",
+        "kind": "other"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "status": "holds",
+      "asOf": "2026-03-13",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034348.pdf"
+        }
+      ]
+    },
+    {
+      "memberId": "P000048",
+      "security": {
+        "ticker": "WBD",
+        "kind": "other"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "sold",
+      "asOf": "2026-02-10",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034054.pdf"
+        }
+      ],
+      "note": "sale reported by PTR with no annual baseline in our coverage"
+    }
+  ],
+  "trades": [
+    {
+      "memberId": "P000048",
+      "assetRaw": "Amerco - Series N Non-Voting (UHALB) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2026-03-13",
+      "filedDate": "2026-04-15",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034348.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "P000048",
+      "assetRaw": "Berkshire Hathaway Inc. New Common Stock (BRK.B) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2026-03-13",
+      "filedDate": "2026-04-15",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034348.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "P000048",
+      "assetRaw": "Dorchester Minerals, L.P. - Common Units Representing Limited Partnership Interests (DMLP) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2026-03-13",
+      "filedDate": "2026-04-15",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034348.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "P000048",
+      "assetRaw": "Enterprise Products Partners L.P. Common Stock (EPD) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2026-03-13",
+      "filedDate": "2026-04-15",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034348.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "P000048",
+      "assetRaw": "Kimbell Royalty Partners Common Units Representing Limited Partner Interests (KRP) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2026-03-13",
+      "filedDate": "2026-04-15",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034348.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "P000048",
+      "assetRaw": "Viper Energy, Inc. - Class A Common Stock (VNOM) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2026-03-13",
+      "filedDate": "2026-04-15",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034348.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "P000048",
+      "assetRaw": "Warner Bros. Discovery, Inc. - Series A Common Stock (WBD) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-02-10",
+      "filedDate": "2026-03-19",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034054.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "P000048",
+      "assetRaw": "SiriusXM Holdings Inc. - Common Stock (SIRI) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-01-13",
+      "filedDate": "2026-02-11",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033920.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "P000048",
+      "assetRaw": "Fidelity National Financial, Inc. Common Stock (FNF) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-01-12",
+      "filedDate": "2026-02-11",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033920.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "P000048",
+      "assetRaw": "Liberty Media Corporation - Series C Liberty Live Common Stock",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-07-01",
+      "filedDate": "2025-07-23",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030714.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000048",
+      "assetRaw": "SiriusXM Holdings Inc. - Common Stock",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-07-01",
+      "filedDate": "2025-07-23",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030714.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000048",
+      "assetRaw": "Walt Disney Company",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-07-01",
+      "filedDate": "2025-07-23",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030714.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000048",
+      "assetRaw": "Warner Bros. Discovery, Inc. - Series A Common Stock",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-01-13",
+      "filedDate": "2025-02-15",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20021220.pdf",
+      "late": false,
+      "note": "Previously RBC IRA",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000048",
+      "assetRaw": "Liberty Media Corporation - Series C Liberty SiriusXM",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-04-12",
+      "filedDate": "2022-05-25",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021108.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000048",
+      "assetRaw": "Microsoft Corporation",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2022-04-12",
+      "filedDate": "2022-05-25",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021108.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000048",
+      "assetRaw": "Warner Bros. Discovery, Inc. - Series A",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-04-12",
+      "filedDate": "2022-05-25",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021108.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000048",
+      "assetRaw": "Bank of America Corporation",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-03-31",
+      "filedDate": "2021-08-03",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019227.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000048",
+      "assetRaw": "IRA Roth Intercontinental Exchange Inc.",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-03-31",
+      "filedDate": "2021-08-03",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019227.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000048",
+      "assetRaw": "IRA Roth Stellantis N.V. Common Shares",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-03-31",
+      "filedDate": "2021-08-03",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019227.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000048",
+      "assetRaw": "IRA Roth dESCRIPTION: Exchanged Fiat Chrysler for STLA. Wells Fargo & Company",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-03-31",
+      "filedDate": "2021-08-03",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019227.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000048",
+      "assetRaw": "Intercontinental Exchange Inc.",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-03-31",
+      "filedDate": "2021-08-03",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019227.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000048",
+      "assetRaw": "Liberty Media Corporation - Series C Liberty SiriusXM",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-03-31",
+      "filedDate": "2021-08-03",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019227.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000048",
+      "assetRaw": "RBC IRA FNF group of Fidelity National Financial, Inc.",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-03-31",
+      "filedDate": "2021-08-03",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019227.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000048",
+      "assetRaw": "Stellantis N.V. Common Shares",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-03-31",
+      "filedDate": "2021-08-03",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019227.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000048",
+      "assetRaw": "rott Focus Trust, Inc. - Closed End Fund (FuNd) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-03-31",
+      "filedDate": "2021-08-03",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019227.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "P000048",
+      "assetRaw": "rott Focus Trust, Inc. - Closed End Fund (FuNd) [ST]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-03-31",
+      "filedDate": "2021-08-03",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019227.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    }
+  ],
+  "series": [
+    {
+      "date": "2021-03-31",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-03-31",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-03-31",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-03-31",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-03-31",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-03-31",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-03-31",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-03-31",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-03-31",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-03-31",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-04-12",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-04-12",
+      "value": 32500.5
+    },
+    {
+      "date": "2022-04-12",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-01-13",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-07-01",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-07-01",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-07-01",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-01-12",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-01-13",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-02-10",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-03-13",
+      "value": 32500.5
+    },
+    {
+      "date": "2026-03-13",
+      "value": 32500.5
+    },
+    {
+      "date": "2026-03-13",
+      "value": 32500.5
+    },
+    {
+      "date": "2026-03-13",
+      "value": 32500.5
+    },
+    {
+      "date": "2026-03-13",
+      "value": 32500.5
+    },
+    {
+      "date": "2026-03-13",
+      "value": 32500.5
+    }
+  ],
+  "measured": null
+}

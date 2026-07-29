@@ -1,0 +1,5668 @@
+{
+  "member": {
+    "bioguideId": "W000804",
+    "name": "Robert J. Wittman",
+    "party": "R",
+    "chamber": "house",
+    "state": "VA",
+    "district": "VA-01",
+    "active": true
+  },
+  "positions": [
+    {
+      "memberId": "W000804",
+      "security": {
+        "ticker": "CCI",
+        "kind": "other"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "sold",
+      "asOf": "2026-06-30",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034916.pdf"
+        }
+      ],
+      "note": "sale reported by PTR with no annual baseline in our coverage"
+    },
+    {
+      "memberId": "W000804",
+      "security": {
+        "ticker": "CVS",
+        "kind": "other"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "sold",
+      "asOf": "2015-10-26",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2015/20003895.pdf"
+        },
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2015/20004084.pdf"
+        }
+      ]
+    },
+    {
+      "memberId": "W000804",
+      "security": {
+        "ticker": "CVX",
+        "kind": "other"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "stale",
+      "asOf": "2015-09-15",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2015/20003895.pdf"
+        }
+      ]
+    },
+    {
+      "memberId": "W000804",
+      "security": {
+        "ticker": "EMC",
+        "kind": "other"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "stale",
+      "asOf": "2015-09-15",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2015/20003895.pdf"
+        }
+      ]
+    },
+    {
+      "memberId": "W000804",
+      "security": {
+        "ticker": "FIS",
+        "kind": "other"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "stale",
+      "asOf": "2015-09-15",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2015/20003895.pdf"
+        }
+      ]
+    },
+    {
+      "memberId": "W000804",
+      "security": {
+        "ticker": "HON",
+        "kind": "other"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "stale",
+      "asOf": "2015-09-15",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2015/20003895.pdf"
+        }
+      ]
+    },
+    {
+      "memberId": "W000804",
+      "security": {
+        "ticker": "JNJ",
+        "kind": "other"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "stale",
+      "asOf": "2015-09-15",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2015/20003895.pdf"
+        }
+      ]
+    },
+    {
+      "memberId": "W000804",
+      "security": {
+        "ticker": "JPM",
+        "kind": "other"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "stale",
+      "asOf": "2015-09-15",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2015/20003895.pdf"
+        }
+      ]
+    },
+    {
+      "memberId": "W000804",
+      "security": {
+        "ticker": "KMI",
+        "kind": "other"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "stale",
+      "asOf": "2015-09-15",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2015/20003895.pdf"
+        }
+      ]
+    },
+    {
+      "memberId": "W000804",
+      "security": {
+        "ticker": "M",
+        "kind": "other"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "stale",
+      "asOf": "2015-09-15",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2015/20003895.pdf"
+        }
+      ]
+    },
+    {
+      "memberId": "W000804",
+      "security": {
+        "ticker": "MMC",
+        "kind": "other"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "stale",
+      "asOf": "2015-09-15",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2015/20003895.pdf"
+        }
+      ]
+    },
+    {
+      "memberId": "W000804",
+      "security": {
+        "ticker": "MSFT",
+        "kind": "other"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "stale",
+      "asOf": "2015-09-15",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2015/20003895.pdf"
+        }
+      ]
+    },
+    {
+      "memberId": "W000804",
+      "security": {
+        "ticker": "NEE",
+        "kind": "other"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "stale",
+      "asOf": "2015-09-15",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2015/20003895.pdf"
+        }
+      ]
+    },
+    {
+      "memberId": "W000804",
+      "security": {
+        "ticker": "NVO",
+        "kind": "other"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "stale",
+      "asOf": "2015-09-15",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2015/20003895.pdf"
+        }
+      ]
+    },
+    {
+      "memberId": "W000804",
+      "security": {
+        "ticker": "OIH",
+        "kind": "other"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "stale",
+      "asOf": "2015-09-23",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2015/20003895.pdf"
+        }
+      ]
+    },
+    {
+      "memberId": "W000804",
+      "security": {
+        "ticker": "PEP",
+        "kind": "other"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "stale",
+      "asOf": "2015-09-15",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2015/20003895.pdf"
+        }
+      ]
+    },
+    {
+      "memberId": "W000804",
+      "security": {
+        "ticker": "PFE",
+        "kind": "other"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "stale",
+      "asOf": "2015-09-15",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2015/20003895.pdf"
+        }
+      ]
+    },
+    {
+      "memberId": "W000804",
+      "security": {
+        "ticker": "PSX",
+        "kind": "other"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "stale",
+      "asOf": "2015-09-15",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2015/20003895.pdf"
+        }
+      ]
+    },
+    {
+      "memberId": "W000804",
+      "security": {
+        "ticker": "T",
+        "kind": "other"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "stale",
+      "asOf": "2015-09-15",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2015/20003895.pdf"
+        }
+      ]
+    },
+    {
+      "memberId": "W000804",
+      "security": {
+        "ticker": "VFC",
+        "kind": "other"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "stale",
+      "asOf": "2015-09-15",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2015/20003895.pdf"
+        }
+      ]
+    },
+    {
+      "memberId": "W000804",
+      "security": {
+        "ticker": "WEC",
+        "kind": "other"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "stale",
+      "asOf": "2015-09-15",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2015/20003895.pdf"
+        }
+      ]
+    },
+    {
+      "memberId": "W000804",
+      "security": {
+        "ticker": "WFC",
+        "kind": "other"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "stale",
+      "asOf": "2015-09-15",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2015/20003895.pdf"
+        }
+      ]
+    },
+    {
+      "memberId": "W000804",
+      "security": {
+        "ticker": "WHR",
+        "kind": "other"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "stale",
+      "asOf": "2015-09-15",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2015/20003895.pdf"
+        }
+      ]
+    }
+  ],
+  "trades": [
+    {
+      "memberId": "W000804",
+      "assetRaw": "Crown Castle Inc. Common Stock (CCI) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-06-30",
+      "filedDate": "2026-07-10",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034916.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "AbbVie Inc.",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2023-09-28",
+      "filedDate": "2023-10-19",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20023861.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "Alphabet Inc. - Class C Capital Stock",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2023-09-28",
+      "filedDate": "2023-10-19",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20023861.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "Amazon.com, Inc.",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2023-09-28",
+      "filedDate": "2023-10-19",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20023861.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "Apple Inc.",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2023-09-28",
+      "filedDate": "2023-10-19",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20023861.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "Caterpillar, Inc.",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2023-09-28",
+      "filedDate": "2023-10-19",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20023861.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "EOG Resources, Inc.",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2023-09-28",
+      "filedDate": "2023-10-19",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20023861.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "Hartford Financial Services Group, Inc.",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2023-09-28",
+      "filedDate": "2023-10-19",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20023861.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "JP Morgan Chase & Co.",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2023-09-28",
+      "filedDate": "2023-10-19",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20023861.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "Kinder Morgan, Inc.",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2023-09-28",
+      "filedDate": "2023-10-19",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20023861.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "Microsoft Corporation",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2023-09-28",
+      "filedDate": "2023-10-19",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20023861.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "ProLogis, Inc.",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2023-09-28",
+      "filedDate": "2023-10-19",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20023861.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "UnitedHealth Group Incorporated Common Stock",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2023-09-28",
+      "filedDate": "2023-10-19",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20023861.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "Walmart Inc.",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2023-09-28",
+      "filedDate": "2023-10-19",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20023861.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "Fidelity National Information Services, Inc.",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2023-09-15",
+      "filedDate": "2023-10-19",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20023861.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "International Flavors & Fragrances, Inc.",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2023-09-15",
+      "filedDate": "2023-10-19",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20023861.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "American Tower Corporation",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2023-09-07",
+      "filedDate": "2023-10-19",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20023861.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "Phillips 66",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2023-08-17",
+      "filedDate": "2023-09-30",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20023757.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "Kimberly-Clark Corporation",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2023-07-31",
+      "filedDate": "2023-09-30",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20023757.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "Procter & Gamble Company",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2023-07-31",
+      "filedDate": "2023-09-30",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20023757.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "Union Pacific Corporation",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2023-07-27",
+      "filedDate": "2023-09-30",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20023757.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "Dollar General Corporation",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2023-07-21",
+      "filedDate": "2023-09-30",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20023757.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "Zoetis Inc. Class A",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2023-07-21",
+      "filedDate": "2023-09-30",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20023757.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "Broadcom Inc.",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2023-06-13",
+      "filedDate": "2023-09-30",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20023757.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "Chubb Limited",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2023-06-13",
+      "filedDate": "2023-09-30",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20023757.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "S&P Global Inc.",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2023-06-13",
+      "filedDate": "2023-09-30",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20023757.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "JP Morgan Chase & Co.",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2023-05-30",
+      "filedDate": "2023-06-09",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20023110.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "Accenture plc Class A Ordinary Shares",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2023-04-21",
+      "filedDate": "2023-09-30",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20023757.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "Cisco Systems, Inc.",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2023-04-20",
+      "filedDate": "2023-05-07",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20022746.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "Exxon Mobil Corporation",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2023-04-20",
+      "filedDate": "2023-05-07",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20022746.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "Global X MSCI Norway ETF",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2023-02-03",
+      "filedDate": "2023-03-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20022513.pdf",
+      "late": false,
+      "note": "Mutual fund",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "Ishares MSCI Euro Financial",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2023-02-03",
+      "filedDate": "2023-03-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20022513.pdf",
+      "late": false,
+      "note": "Mutual fund",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "Ishares US Pharmaceuticals ETF",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2023-02-03",
+      "filedDate": "2023-03-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20022513.pdf",
+      "late": false,
+      "note": "Mutual fund",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "Ishares US Technology ETF",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2023-02-03",
+      "filedDate": "2023-03-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20022513.pdf",
+      "late": false,
+      "note": "Mutual fund",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "Microsoft Corporation",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2023-02-03",
+      "filedDate": "2023-03-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20022513.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "SPDR Bloomberg Short Term HI",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2023-02-03",
+      "filedDate": "2023-03-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20022513.pdf",
+      "late": false,
+      "note": "Mutual fund",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "Vaneck Morningstar Intl Moat ETF",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2023-02-03",
+      "filedDate": "2023-03-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20022513.pdf",
+      "late": false,
+      "note": "Mutual fund",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "Baxter International Inc.",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2023-01-20",
+      "filedDate": "2023-02-15",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20022437.pdf",
+      "late": false,
+      "note": "Filing Status: New\nSubholding Of: Morgan Stanley",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "Harding Loevner Intl Eqty Inst",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2023-01-20",
+      "filedDate": "2023-02-15",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20022437.pdf",
+      "late": false,
+      "note": "Filing Status: New\nSubholding Of: Morgan Stanley\nLocation: US\nDescription: Mutual fund",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "AB Global Bond Adv",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2023-01-17",
+      "filedDate": "2023-02-15",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20022437.pdf",
+      "late": false,
+      "note": "Filing Status: New\nSubholding Of: Morgan Stanley\nLocation: US\nDescription: Mutual fund",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "Metropolitan West Tot Ret Bd I",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2023-01-17",
+      "filedDate": "2023-02-15",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20022437.pdf",
+      "late": false,
+      "note": "Filing Status: New\nSubholding Of: Morgan Stanley\nLocation: US\nDescription: Mutual fund",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "Vanguard Total Bond Market",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2023-01-17",
+      "filedDate": "2023-02-15",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20022437.pdf",
+      "late": false,
+      "note": "Filing Status: New\nSubholding Of: Morgan Stanley\nLocation: US\nDescription: Mutual fund",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "Vanguard Total Intl Bond ETF",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2023-01-17",
+      "filedDate": "2023-02-15",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20022437.pdf",
+      "late": false,
+      "note": "Filing Status: New\nSubholding Of: Morgan Stanley\nLocation: US\nDescription: Mutual fund",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "Harding Loevner Intl Eqty Inst",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2023-01-04",
+      "filedDate": "2023-02-15",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20022437.pdf",
+      "late": false,
+      "note": "Filing Status: New\nSubholding Of: Morgan Stanley\nLocation: US\nDescription: Mutual fund",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "Ishares Edge MSCI Min Vol USA",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2023-01-04",
+      "filedDate": "2023-02-15",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20022437.pdf",
+      "late": false,
+      "note": "Filing Status: New\nSubholding Of: Morgan Stanley\nLocation: US\nDescription: Mutual fund",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "Virtus Vontobel Foreign Opp",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2023-01-04",
+      "filedDate": "2023-02-15",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20022437.pdf",
+      "late": false,
+      "note": "Filing Status: New\nSubholding Of: Morgan Stanley\nLocation: US\nDescription: Mutual fund",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "Elevance Health, Inc.",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2023-01-03",
+      "filedDate": "2023-02-15",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20022437.pdf",
+      "late": false,
+      "note": "Filing Status: New\nSubholding Of: Morgan Stanley",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "Dollar General Corporation",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-12-21",
+      "filedDate": "2023-01-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20022227.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "McDonald's Corporation",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-12-21",
+      "filedDate": "2023-01-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20022227.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "Vanguard Total Bond Market ETF",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-12-21",
+      "filedDate": "2023-01-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20022227.pdf",
+      "late": false,
+      "note": "Mutual fund",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "Vanguard Total Inl Bond ETF",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-12-21",
+      "filedDate": "2023-01-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20022227.pdf",
+      "late": false,
+      "note": "Mutual fund",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "AB Global Bond Adv",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-12-14",
+      "filedDate": "2023-01-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20022227.pdf",
+      "late": false,
+      "note": "Mutual fund",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "Metropolitan West Tot Ret Bd I",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-12-14",
+      "filedDate": "2023-01-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20022227.pdf",
+      "late": false,
+      "note": "Mutual fund",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "Vanguard Total Bond Market ETF",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-12-14",
+      "filedDate": "2023-01-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20022227.pdf",
+      "late": false,
+      "note": "Mutual fund",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "Vanguard Total Intl Bond ETF",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-12-14",
+      "filedDate": "2023-01-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20022227.pdf",
+      "late": false,
+      "note": "Mutual fund",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "Mastercard Incorporated",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-12-07",
+      "filedDate": "2023-08-13",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20023474.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "Comcast Corporation - Class A",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-12-07",
+      "filedDate": "2023-01-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20022227.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "Mastercard Incorporated",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-12-07",
+      "filedDate": "2023-01-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20022227.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "Amazon.com, Inc.",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-11-18",
+      "filedDate": "2022-12-08",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20022101.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "MSIF Growth I",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-11-18",
+      "filedDate": "2022-12-08",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20022101.pdf",
+      "late": false,
+      "note": "Mutual Fund",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "Apple Inc.",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-11-17",
+      "filedDate": "2022-12-08",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20022101.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "Franklin FTSE Japan ETF",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-11-17",
+      "filedDate": "2022-12-08",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20022101.pdf",
+      "late": false,
+      "note": "Mutual Fund",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "ISHA Curr Hedged MSCI EAFE",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-11-17",
+      "filedDate": "2022-12-08",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20022101.pdf",
+      "late": false,
+      "note": "Mutual Fund",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "Invesco KBW Bank ETF",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-11-17",
+      "filedDate": "2022-12-08",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20022101.pdf",
+      "late": false,
+      "note": "Mutual Fund",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "Invesco QQQ Trust Series 1",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-11-17",
+      "filedDate": "2022-12-08",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20022101.pdf",
+      "late": false,
+      "note": "Mutual Fund",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "Ishares 20+yr Treasu Bond ETF",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-11-17",
+      "filedDate": "2022-12-08",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20022101.pdf",
+      "late": false,
+      "note": "Mutual Fund",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "iShares 10+ Year Investment",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-11-17",
+      "filedDate": "2022-12-08",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20022101.pdf",
+      "late": false,
+      "note": "Mutual Fund",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "iShares Core S&P Small Cap E",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-11-17",
+      "filedDate": "2022-12-08",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20022101.pdf",
+      "late": false,
+      "note": "Mutual Fund",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "iShares MSCI EAFE Val ETF",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-11-17",
+      "filedDate": "2022-12-08",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20022101.pdf",
+      "late": false,
+      "note": "Mutual Fund",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "Ishares US Technology ETF",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-11-11",
+      "filedDate": "2022-12-08",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20022101.pdf",
+      "late": false,
+      "note": "Mutual Fund",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "Accenture plc Class A Ordinary Shares",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-10-08",
+      "filedDate": "2023-08-13",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20023474.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "Energy Sel Sect SPDR FD",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-09-27",
+      "filedDate": "2022-10-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021807.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "Franklin FTSE UK ETF",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-09-27",
+      "filedDate": "2022-10-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021807.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "Ishares 0-5 HY Corp",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-09-27",
+      "filedDate": "2022-10-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021807.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "Ishares Core MSCI EAFE ETF",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-09-27",
+      "filedDate": "2022-10-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021807.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "Ishares US Technology ETF",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-09-27",
+      "filedDate": "2022-10-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021807.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "JPM Nasdaq Equity Premium",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-09-27",
+      "filedDate": "2022-10-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021807.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "Westrock Company",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-09-27",
+      "filedDate": "2022-10-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021807.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "Comcast Corporation - Class A",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-09-15",
+      "filedDate": "2022-10-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021807.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "International Flavors & Fragrances, Inc.",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-09-15",
+      "filedDate": "2022-10-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021807.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "Mastercard Incorporated",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-09-15",
+      "filedDate": "2022-10-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021807.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "SPDR S&P 500 ETF Trust",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-09-15",
+      "filedDate": "2022-10-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021807.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "Virtus Vontobel Foreign Opp",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-08-30",
+      "filedDate": "2022-09-10",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021679.pdf",
+      "late": false,
+      "note": "Mutual Fund",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "Goldman Activebeta US LC ETF",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-08-16",
+      "filedDate": "2022-09-10",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021679.pdf",
+      "late": false,
+      "note": "Mutual Fund",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "iShares US Technology ETF",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-08-16",
+      "filedDate": "2022-09-10",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021679.pdf",
+      "late": false,
+      "note": "Mutual Fund",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "Alphabet Inc. - Class C Capital Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-08-10",
+      "filedDate": "2022-09-10",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021679.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "Amazon.com, Inc.",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-08-10",
+      "filedDate": "2022-09-10",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021679.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "Microsoft Corporation",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-08-10",
+      "filedDate": "2022-09-10",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021679.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "SPDR Blackstone Senior Loan",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-08-10",
+      "filedDate": "2022-09-10",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021679.pdf",
+      "late": false,
+      "note": "Mutual Fund",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "iShares US Technology ETF",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-08-10",
+      "filedDate": "2022-09-10",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021679.pdf",
+      "late": false,
+      "note": "Mutual Fund",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "TJX Companies, Inc.",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-07-15",
+      "filedDate": "2023-08-13",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20023474.pdf",
+      "late": true,
+      "note": "Subholding Of: Morgan Stanley INH IRA",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "Abbott Laboratories",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-07-15",
+      "filedDate": "2022-08-10",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021515.pdf",
+      "late": false,
+      "note": "Filing Status: New\nSubholding Of: Morgan Stanley",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "Baxter International Inc.",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-07-15",
+      "filedDate": "2022-08-10",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021515.pdf",
+      "late": false,
+      "note": "Filing Status: New\nSubholding Of: Morgan Stanley",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "Walmart Inc.",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-07-15",
+      "filedDate": "2022-08-10",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021515.pdf",
+      "late": false,
+      "note": "Filing Status: New\nSubholding Of: Morgan Stanley",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "AbbVie Inc.",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-06-16",
+      "filedDate": "2022-07-08",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021344.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "Abbott Laboratories",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-06-16",
+      "filedDate": "2022-07-08",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021344.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "Amazon.com, Inc.",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-06-16",
+      "filedDate": "2022-07-08",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021344.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "Baxter International Inc.",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-06-16",
+      "filedDate": "2022-07-08",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021344.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "First Trust TCW Opportunistic Fixed Income ETF",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-06-16",
+      "filedDate": "2022-07-08",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021344.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "General Electric Company",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-06-16",
+      "filedDate": "2022-07-08",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021344.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "Global X Funds Global X U.S. Infrastructure Development ETF",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-06-16",
+      "filedDate": "2022-07-08",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021344.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "SPDR S&P 500",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-06-16",
+      "filedDate": "2022-07-08",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021344.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "TJX Companies, Inc.",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-06-16",
+      "filedDate": "2022-07-08",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021344.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "Walmart Inc.",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-06-16",
+      "filedDate": "2022-07-08",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021344.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "Walmart Inc.",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-06-16",
+      "filedDate": "2022-07-08",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021344.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "iShares 0-5 Year High Yield Corporate Bond ETF",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-06-16",
+      "filedDate": "2022-07-08",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021344.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "iShares 10-20 Year Treasury Bond ETF",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-06-16",
+      "filedDate": "2022-07-08",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021344.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "iShares Core S&P 500 ETF",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-06-16",
+      "filedDate": "2022-07-08",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021344.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "iShares Russell 1000 ETF",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-06-16",
+      "filedDate": "2022-07-08",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021344.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "Duke Realty Corporation",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-05-10",
+      "filedDate": "2022-06-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021150.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "ISHA Curr Hedged MSCI EAFE",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-05-10",
+      "filedDate": "2022-06-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021150.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "Ishares 0-5 HY Corp",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-05-10",
+      "filedDate": "2022-06-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021150.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "Ishares Core MSCI EAFE ETF",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-05-10",
+      "filedDate": "2022-06-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021150.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "Ishares Core MSCI Europe",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-05-10",
+      "filedDate": "2022-06-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021150.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "Ishares MSCI EAFE Grwth EF",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-05-10",
+      "filedDate": "2022-06-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021150.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "JPMorgan Betabuilders Canada",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-05-10",
+      "filedDate": "2022-06-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021150.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "JPMorgan Equity Premium Inco",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-05-10",
+      "filedDate": "2022-06-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021150.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "SPDR Blackstone Senior Loan",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-05-10",
+      "filedDate": "2022-06-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021150.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "Starbucks Corporation",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-05-10",
+      "filedDate": "2022-06-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021150.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "Vanguard Total Bond Market",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-05-10",
+      "filedDate": "2022-06-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021150.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "Putnam Ultra Sht Dur Inc A",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-04-26",
+      "filedDate": "2022-05-13",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021015.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "Abbott Laboratories",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-04-19",
+      "filedDate": "2022-05-13",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021015.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "Ishares Russell 1000 ETF",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-04-19",
+      "filedDate": "2022-05-13",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021015.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "SPDR S&P 500 ETF Trust",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-04-19",
+      "filedDate": "2022-05-13",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021015.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "TJX Companies, Inc.",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-04-19",
+      "filedDate": "2022-05-13",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021015.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "Caterpillar, Inc.",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-03-29",
+      "filedDate": "2022-04-09",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020748.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "General Electric Company",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-03-29",
+      "filedDate": "2022-04-09",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020748.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "Hartford Financial Services Group, Inc.",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-03-29",
+      "filedDate": "2022-04-09",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020748.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "Rio Tinto Plc",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-03-29",
+      "filedDate": "2022-04-09",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020748.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "iShares 20+ Year Treasury Bond ETF",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-03-29",
+      "filedDate": "2022-04-09",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020748.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "Abbott Laboratories",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-03-15",
+      "filedDate": "2022-04-09",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020748.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "SPDR S&P 500",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-03-15",
+      "filedDate": "2022-04-09",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020748.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "TJX Companies, Inc.",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-03-15",
+      "filedDate": "2022-04-09",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020748.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "iShares Russell 1000 ETF",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-03-15",
+      "filedDate": "2022-04-09",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020748.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "Kinder Morgan, Inc. Warrants Expiring 2017",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-03-08",
+      "filedDate": "2022-04-09",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020748.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "Vanguard Intermediate Term Cor",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-03-08",
+      "filedDate": "2022-04-09",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020748.pdf",
+      "late": false,
+      "note": "Corporate bond fund",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "Vanguard Total Bond Index Fund",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-03-08",
+      "filedDate": "2022-04-09",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020748.pdf",
+      "late": false,
+      "note": "Corporarte bond index fund",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "iShares 0-5 Year High Yield Corporate Bond ETF",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-03-08",
+      "filedDate": "2022-04-09",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020748.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "Mastercard Incorporated",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-02-28",
+      "filedDate": "2022-03-09",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020586.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "Morgan Stanley Merck & Company, Inc. Common Stock",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-02-28",
+      "filedDate": "2022-03-09",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020586.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "Piedmont Office Realty Trust, Inc. Class A",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-02-27",
+      "filedDate": "2023-08-13",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20023474.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "Apple Inc. (AAPl) [ST]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-01-28",
+      "filedDate": "2022-02-13",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020446.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "Morgan Stanley INH IRA Franklin FTSE united Kingdom ETF (Flgb) [ST]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-01-28",
+      "filedDate": "2022-02-13",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020446.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "Morgan Stanley INH IRA iShares Core MSCI Europe ETF (IEuR) [ST]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-01-28",
+      "filedDate": "2022-02-13",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020446.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "Morgan Stanley INH IRA iShares MSCI EAFE growth ETF (EFg) [ST]",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-01-28",
+      "filedDate": "2022-02-13",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020446.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "Morgan Stanley Invesco S&P 500 High beta ETF (SPHb) [ST]",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-01-28",
+      "filedDate": "2022-02-13",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020446.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "Morgan Stanley Meta Platforms, Inc. - Class A (Fb) [ST]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-01-28",
+      "filedDate": "2022-02-13",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020446.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "dR Select Sector Fund - Energy Select Sector (XlE) [ST]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-01-28",
+      "filedDate": "2022-02-13",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020446.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "Morgan Stanley INH IRA Honeywell International Inc.",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-01-14",
+      "filedDate": "2022-02-13",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020446.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "Morgan Stanley INH IRA SPdR S&P 500",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-01-14",
+      "filedDate": "2022-02-13",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020446.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "Morgan Stanley INH IRA lockheed Martin Corporation (lMT) [ST]",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-01-14",
+      "filedDate": "2022-02-13",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020446.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "Morgan Stanley SPdR S&P 500",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-01-05",
+      "filedDate": "2022-02-13",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020446.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "AT&T Inc.",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-12-16",
+      "filedDate": "2022-01-09",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020184.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "Morgan Stanley EOg Resources, Inc. (EOg) [ST]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-12-16",
+      "filedDate": "2022-01-09",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020184.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "Morgan Stanley INH IRA Starbucks Corporation (SbuX) [ST]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-12-16",
+      "filedDate": "2022-01-09",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020184.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "Morgan Stanley INH IRA Target Corporation (TgT) [ST]",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-12-16",
+      "filedDate": "2022-01-09",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020184.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "Morgan Stanley Northrop grumman Corporation",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-12-16",
+      "filedDate": "2022-01-09",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020184.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "Morgan Stanley Westrock Company Common Stock Ex-distribution When Issued",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-12-16",
+      "filedDate": "2022-01-09",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020184.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "Morgan Stanley boston Scientific Corporation (bSX) [ST]",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-12-16",
+      "filedDate": "2022-01-09",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020184.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "Morgan Stanley INH IRA CME group Inc. - Class A",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-12-14",
+      "filedDate": "2022-01-09",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020184.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "Morgan Stanley INH IRA NextEra Energy, Inc.",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-12-14",
+      "filedDate": "2022-01-09",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020184.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "Morgan Stanley INH IRA Walmart Inc.",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-12-14",
+      "filedDate": "2022-01-09",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020184.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "Morgan Stanley INH IRA AT&T Inc.",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-12-09",
+      "filedDate": "2022-01-09",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020184.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "CyrusOne Inc",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-09-30",
+      "filedDate": "2021-10-18",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019643.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "Global X US INF DEV ETF",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-09-27",
+      "filedDate": "2022-10-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021807.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "Morgan Stanley INH IRA TJX Companies, Inc.",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-09-13",
+      "filedDate": "2021-10-18",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019643.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "Morgan Stanley Johnson & Johnson",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-09-13",
+      "filedDate": "2021-10-18",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019643.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "Morgan Stanley Johnson & Johnson",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-09-10",
+      "filedDate": "2021-10-18",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019643.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "Royal gold, Inc. (RglD) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-09-01",
+      "filedDate": "2021-10-18",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019643.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "Cisco Systems, Inc.",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-08-26",
+      "filedDate": "2021-09-23",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019488.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "Dollar general Corporation (Dg) [ST]",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-05-14",
+      "filedDate": "2021-06-08",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20018870.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "Morgan Stanley INH IRA united Parcel Service, Inc. (uPS) [ST]",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-05-14",
+      "filedDate": "2021-06-08",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20018870.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "om Inc. (AVgO) [ST]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-04-22",
+      "filedDate": "2021-05-12",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20018715.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "Morgan Stanley INH IRA lowe's Companies, Inc. (lOW) [ST]",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-03-31",
+      "filedDate": "2021-04-12",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20018552.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "general Electric Company (gE) [ST]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-03-31",
+      "filedDate": "2021-04-12",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20018552.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "Progressive Corporation (PgR) [ST]",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-02-18",
+      "filedDate": "2021-03-17",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20018392.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "Caterpillar, Inc.",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-01-13",
+      "filedDate": "2021-02-22",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20018193.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "Morgan Stanley INH IRA Visa Inc.",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-01-13",
+      "filedDate": "2021-02-22",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20018193.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "CVS Health Corporation",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2020-12-31",
+      "filedDate": "2021-01-19",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20018035.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "Schwab account People's United Financial, Inc. (PbCT) [ST]",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2020-12-31",
+      "filedDate": "2021-01-19",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20018035.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "Walt Disney Company",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2020-11-20",
+      "filedDate": "2020-12-15",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20017842.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "American Express Company",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2020-10-16",
+      "filedDate": "2020-11-19",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20017711.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "Morgan Stanley Anthem, Inc.",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2020-10-16",
+      "filedDate": "2020-11-19",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20017711.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "Morgan Stanley INH IRA Charles Schwab Corporation",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2020-10-16",
+      "filedDate": "2020-11-19",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20017711.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "Morgan Stanley Internationa Flavors & Fragrances, Inc.",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2020-10-16",
+      "filedDate": "2020-11-19",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20017711.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "Morgan Stanley INH IRA Progressive Corporation (PgR) [ST]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2020-10-02",
+      "filedDate": "2020-11-19",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20017711.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "Morgan Stanley Microsoft Corporation",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2020-10-02",
+      "filedDate": "2020-11-19",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20017711.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "Morgan Stanley boston Scientific Corporation (bSX) [ST]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2020-10-02",
+      "filedDate": "2020-11-19",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20017711.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "Costco Wholesale Corporation",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2020-07-02",
+      "filedDate": "2021-01-26",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20018052.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "Morgan Stanley CVS Health Corporation",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2020-07-02",
+      "filedDate": "2021-01-26",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20018052.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "Morgan Stanley Crown Castle International Corp.",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2020-07-02",
+      "filedDate": "2021-01-26",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20018052.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "Morgan Stanley Home depot, Inc. (Hd) [ST]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2020-07-02",
+      "filedDate": "2021-01-26",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20018052.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "Morgan Stanley Kimberly-Clark Corporation (KMb) [ST]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2020-07-02",
+      "filedDate": "2021-01-26",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20018052.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "Morgan Stanley Royal gold, Inc. (Rgld) [ST]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2020-07-02",
+      "filedDate": "2021-01-26",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20018052.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "Morgan Stanley Visa Inc.",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2020-07-02",
+      "filedDate": "2021-01-26",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20018052.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "Morgan Stanley duke Energy Corporation (duK) [ST]",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2020-07-02",
+      "filedDate": "2021-01-26",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20018052.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "Morgan Stanley PNC Financial Services group, Inc.",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2020-06-22",
+      "filedDate": "2020-07-07",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20016902.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "Motorola Solutions, Inc.",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2020-06-22",
+      "filedDate": "2020-07-07",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20016902.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "becton, Dickinson and Company (bDX) [ST]",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2020-05-22",
+      "filedDate": "2020-06-08",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20016731.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "Morgan Stanley Exxon Mobil Corporation",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2020-05-21",
+      "filedDate": "2020-06-08",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20016731.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "Morgan Stanley INH IRA lowe's Companies, Inc. (lOW) [ST]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2020-05-21",
+      "filedDate": "2020-06-08",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20016731.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "McDonald's Corporation",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2020-04-06",
+      "filedDate": "2020-05-14",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20016570.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "Allergan plc Ordinary Shares (AgN) [ST]",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2020-03-30",
+      "filedDate": "2020-04-13",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20016397.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "Morgan Stanley Merck & Company, Inc. Common Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2020-03-30",
+      "filedDate": "2020-04-13",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20016397.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "Morgan Stanley Target Corporation (TgT) [ST]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2020-03-10",
+      "filedDate": "2020-04-13",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20016397.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "abbVie Inc. (abbV) [ST]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2020-02-27",
+      "filedDate": "2020-03-09",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20016184.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "Charles schwab Corporation (sCHW) [sT]",
+      "security": null,
+      "side": "buy",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2020-01-10",
+      "filedDate": "2020-02-12",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20015044.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "Morgan Stanley Internationa Flavors & Fragrances, Inc.",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2019-11-29",
+      "filedDate": "2019-12-12",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20012746.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "anthem, Inc. (aNTM) [ST]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2019-11-08",
+      "filedDate": "2019-12-12",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20012746.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "Morgan Stanley CVS Health Corporation",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2019-11-05",
+      "filedDate": "2019-12-12",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20012746.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "Dollar general Corporation (Dg) [ST]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2019-09-04",
+      "filedDate": "2019-10-16",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20012457.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "Morgan Stanley INH IRA Prologis, Inc. (PlD) [ST]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2019-09-04",
+      "filedDate": "2019-10-16",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20012457.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "Morgan Stanley INH IRA Starbucks Corporation (SbuX) [ST]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2019-09-04",
+      "filedDate": "2019-10-16",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20012457.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "Morgan Stanley INH IRA united Parcel Service, Inc. (uPS) [ST]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2019-09-04",
+      "filedDate": "2019-10-16",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20012457.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "Morgan Stanley blackRock, Inc. (blK) [ST]",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2019-08-15",
+      "filedDate": "2019-09-18",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20012305.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "american Express Company (aXP) [ST]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2019-08-14",
+      "filedDate": "2019-09-18",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20012305.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "Schlumberger N.V. (Slb) [ST]",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2019-06-10",
+      "filedDate": "2019-07-12",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20011953.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "CVS Health Corporation",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2019-01-22",
+      "filedDate": "2019-02-07",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20011109.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "Morgan Stanley Philip Morris International Inc",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2019-01-22",
+      "filedDate": "2019-02-07",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20011109.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "Morgan Stanley Schlumberger N.V. (Slb) [ST]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2019-01-22",
+      "filedDate": "2019-02-07",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20011109.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "Morgan Stanley Pfizer, Inc.",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2019-01-10",
+      "filedDate": "2019-02-07",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20011109.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "Morgan Stanley PNC Financial Services group, Inc.",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2019-01-08",
+      "filedDate": "2019-02-07",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20011109.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "apple Inc. (aaPl) [ST]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2018-12-31",
+      "filedDate": "2019-01-11",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20010995.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "Morgan Stanley CVS Health Corporation",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2018-12-19",
+      "filedDate": "2019-01-11",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20010995.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "Morgan Stanley Philip Morris International Inc",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2018-12-19",
+      "filedDate": "2019-01-11",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20010995.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "apple Inc. (aaPl) [ST]",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2018-09-11",
+      "filedDate": "2018-10-19",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20010501.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "abbVie Inc. (aBBV) [sT]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2018-04-09",
+      "filedDate": "2018-05-08",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20009477.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "becton, Dickinson and Company (bDX)",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-01-20",
+      "filedDate": "2017-02-17",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2017/20006755.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "boeing Company (ba)",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2016-04-20",
+      "filedDate": "2016-07-06",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2016/20005248.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "bristol-Myers Squibb Company (bMY)",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2016-01-12",
+      "filedDate": "2016-02-24",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2016/20004634.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "CVS Health Corporation (CVS)",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2015-10-26",
+      "filedDate": "2015-11-19",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2015/20004084.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "Morgan Stanley Market Vectors Oil Services ETF (OIH)",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2015-09-23",
+      "filedDate": "2015-10-15",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2015/20003895.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "abbott laboratories (abT)",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2015-09-23",
+      "filedDate": "2015-10-15",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2015/20003895.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "Morgan Stanley CVS Health Corporation (CVS)",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2015-09-15",
+      "filedDate": "2015-10-15",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2015/20003895.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "Morgan Stanley Chevron Corporation (CVX)",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2015-09-15",
+      "filedDate": "2015-10-15",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2015/20003895.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "Morgan Stanley Colgate-Palmolive Company (Cl)",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2015-09-15",
+      "filedDate": "2015-10-15",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2015/20003895.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "Morgan Stanley EMC Corporation (EMC)",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2015-09-15",
+      "filedDate": "2015-10-15",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2015/20003895.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "Morgan Stanley Fidelity National Information Services, Inc. (FIS)",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2015-09-15",
+      "filedDate": "2015-10-15",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2015/20003895.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "Morgan Stanley Honeywell International Inc. (HON)",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2015-09-15",
+      "filedDate": "2015-10-15",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2015/20003895.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "Morgan Stanley JP Morgan Chase & Co. (JPM)",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2015-09-15",
+      "filedDate": "2015-10-15",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2015/20003895.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "Morgan Stanley Johnson & Johnson (JNJ)",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2015-09-15",
+      "filedDate": "2015-10-15",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2015/20003895.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "Morgan Stanley Macy's Inc (M)",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2015-09-15",
+      "filedDate": "2015-10-15",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2015/20003895.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "Morgan Stanley Marsh & Mclennan Companies, Inc. (MMC)",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2015-09-15",
+      "filedDate": "2015-10-15",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2015/20003895.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "Morgan Stanley Medtronic plc. Ordinary Shares (MdT)",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2015-09-15",
+      "filedDate": "2015-10-15",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2015/20003895.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "Morgan Stanley Microsoft Corporation (MSFT)",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2015-09-15",
+      "filedDate": "2015-10-15",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2015/20003895.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "Morgan Stanley NextEra Energy, Inc. (NEE)",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2015-09-15",
+      "filedDate": "2015-10-15",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2015/20003895.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "Morgan Stanley Nielsen N.V. Ordinary Shares (NlSN)",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2015-09-15",
+      "filedDate": "2015-10-15",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2015/20003895.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "Morgan Stanley Novo Nordisk a/S (NVO)",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2015-09-15",
+      "filedDate": "2015-10-15",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2015/20003895.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "Morgan Stanley Pepsico, Inc. (PEP)",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2015-09-15",
+      "filedDate": "2015-10-15",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2015/20003895.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "Morgan Stanley Pfizer, Inc. (PFE)",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2015-09-15",
+      "filedDate": "2015-10-15",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2015/20003895.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "Morgan Stanley Phillips 66 (PSX)",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2015-09-15",
+      "filedDate": "2015-10-15",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2015/20003895.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "Morgan Stanley V.F. Corporation (VFC)",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2015-09-15",
+      "filedDate": "2015-10-15",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2015/20003895.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "Morgan Stanley WEC Energy group, Inc. (WEC)",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2015-09-15",
+      "filedDate": "2015-10-15",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2015/20003895.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "Morgan Stanley Wells Fargo & Company (WFC)",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2015-09-15",
+      "filedDate": "2015-10-15",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2015/20003895.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "Morgan Stanley Whirlpool Corporation (WHR)",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2015-09-15",
+      "filedDate": "2015-10-15",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2015/20003895.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "Morgan Stanley aT&T Inc. (T)",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2015-09-15",
+      "filedDate": "2015-10-15",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2015/20003895.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "Morgan Stanley abbVie Inc. (abbV)",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2015-09-15",
+      "filedDate": "2015-10-15",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2015/20003895.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "Morgan Stanley accenture plc. Class a Ordinary Shares (aCN)",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2015-09-15",
+      "filedDate": "2015-10-15",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2015/20003895.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "Morgan Stanley ace limited (aCE)",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2015-09-15",
+      "filedDate": "2015-10-15",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2015/20003895.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "Morgan Stanley apple Inc. (aaPl)",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2015-09-15",
+      "filedDate": "2015-10-15",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2015/20003895.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "Morgan Stanley boeing Company (ba)",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2015-09-15",
+      "filedDate": "2015-10-15",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2015/20003895.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "Morgan Stanley bristol-Myers Squibb Company (bMY)",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2015-09-15",
+      "filedDate": "2015-10-15",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2015/20003895.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "Morgan Stanley discover Financial Services (dFS)",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2015-09-15",
+      "filedDate": "2015-10-15",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2015/20003895.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "Morgan Stanley general Motors Company (gM)",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2015-09-15",
+      "filedDate": "2015-10-15",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2015/20003895.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "Morgan Stanley lowe's Companies, Inc. (lOW)",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2015-09-15",
+      "filedDate": "2015-10-15",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2015/20003895.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "Morgan Stanley union Pacific Corporation (uNP)",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2015-09-15",
+      "filedDate": "2015-10-15",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2015/20003895.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "Morgan Stanley unitedHealth group Incorporated Common Stock (uNH)",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2015-09-15",
+      "filedDate": "2015-10-15",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2015/20003895.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000804",
+      "assetRaw": "iDownerassettransaction type Datenotification Date amount Morgan Stanley Kinder Morgan, Inc. (KMI)",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2015-09-15",
+      "filedDate": "2015-10-15",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2015/20003895.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    }
+  ],
+  "series": [
+    {
+      "date": "2015-09-15",
+      "value": 8000.5
+    },
+    {
+      "date": "2015-09-15",
+      "value": 8000.5
+    },
+    {
+      "date": "2015-09-15",
+      "value": 8000.5
+    },
+    {
+      "date": "2015-09-15",
+      "value": 8000.5
+    },
+    {
+      "date": "2015-09-15",
+      "value": 8000.5
+    },
+    {
+      "date": "2015-09-15",
+      "value": 8000.5
+    },
+    {
+      "date": "2015-09-15",
+      "value": 8000.5
+    },
+    {
+      "date": "2015-09-15",
+      "value": 8000.5
+    },
+    {
+      "date": "2015-09-15",
+      "value": 8000.5
+    },
+    {
+      "date": "2015-09-15",
+      "value": 8000.5
+    },
+    {
+      "date": "2015-09-15",
+      "value": 8000.5
+    },
+    {
+      "date": "2015-09-15",
+      "value": 8000.5
+    },
+    {
+      "date": "2015-09-15",
+      "value": 8000.5
+    },
+    {
+      "date": "2015-09-15",
+      "value": 8000.5
+    },
+    {
+      "date": "2015-09-15",
+      "value": 8000.5
+    },
+    {
+      "date": "2015-09-15",
+      "value": 8000.5
+    },
+    {
+      "date": "2015-09-15",
+      "value": 8000.5
+    },
+    {
+      "date": "2015-09-15",
+      "value": 8000.5
+    },
+    {
+      "date": "2015-09-15",
+      "value": 8000.5
+    },
+    {
+      "date": "2015-09-15",
+      "value": 8000.5
+    },
+    {
+      "date": "2015-09-15",
+      "value": 8000.5
+    },
+    {
+      "date": "2015-09-15",
+      "value": 8000.5
+    },
+    {
+      "date": "2015-09-15",
+      "value": 8000.5
+    },
+    {
+      "date": "2015-09-15",
+      "value": 8000.5
+    },
+    {
+      "date": "2015-09-15",
+      "value": 8000.5
+    },
+    {
+      "date": "2015-09-15",
+      "value": 8000.5
+    },
+    {
+      "date": "2015-09-15",
+      "value": 8000.5
+    },
+    {
+      "date": "2015-09-15",
+      "value": 8000.5
+    },
+    {
+      "date": "2015-09-15",
+      "value": 8000.5
+    },
+    {
+      "date": "2015-09-15",
+      "value": 8000.5
+    },
+    {
+      "date": "2015-09-15",
+      "value": 8000.5
+    },
+    {
+      "date": "2015-09-15",
+      "value": 8000.5
+    },
+    {
+      "date": "2015-09-15",
+      "value": 8000.5
+    },
+    {
+      "date": "2015-09-15",
+      "value": 8000.5
+    },
+    {
+      "date": "2015-09-15",
+      "value": 8000.5
+    },
+    {
+      "date": "2015-09-23",
+      "value": 8000.5
+    },
+    {
+      "date": "2015-09-23",
+      "value": 8000.5
+    },
+    {
+      "date": "2015-10-26",
+      "value": 8000.5
+    },
+    {
+      "date": "2016-01-12",
+      "value": 8000.5
+    },
+    {
+      "date": "2016-04-20",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-01-20",
+      "value": 8000.5
+    },
+    {
+      "date": "2018-04-09",
+      "value": 8000.5
+    },
+    {
+      "date": "2018-09-11",
+      "value": 8000.5
+    },
+    {
+      "date": "2018-12-19",
+      "value": 8000.5
+    },
+    {
+      "date": "2018-12-19",
+      "value": 8000.5
+    },
+    {
+      "date": "2018-12-31",
+      "value": 32500.5
+    },
+    {
+      "date": "2019-01-08",
+      "value": 8000.5
+    },
+    {
+      "date": "2019-01-10",
+      "value": 8000.5
+    },
+    {
+      "date": "2019-01-22",
+      "value": 8000.5
+    },
+    {
+      "date": "2019-01-22",
+      "value": 8000.5
+    },
+    {
+      "date": "2019-01-22",
+      "value": 8000.5
+    },
+    {
+      "date": "2019-06-10",
+      "value": 8000.5
+    },
+    {
+      "date": "2019-08-14",
+      "value": 8000.5
+    },
+    {
+      "date": "2019-08-15",
+      "value": 8000.5
+    },
+    {
+      "date": "2019-09-04",
+      "value": 8000.5
+    },
+    {
+      "date": "2019-09-04",
+      "value": 8000.5
+    },
+    {
+      "date": "2019-09-04",
+      "value": 8000.5
+    },
+    {
+      "date": "2019-09-04",
+      "value": 8000.5
+    },
+    {
+      "date": "2019-11-05",
+      "value": 8000.5
+    },
+    {
+      "date": "2019-11-08",
+      "value": 8000.5
+    },
+    {
+      "date": "2019-11-29",
+      "value": 8000.5
+    },
+    {
+      "date": "2020-01-10",
+      "value": 8000.5
+    },
+    {
+      "date": "2020-02-27",
+      "value": 8000.5
+    },
+    {
+      "date": "2020-03-10",
+      "value": 8000.5
+    },
+    {
+      "date": "2020-03-30",
+      "value": 8000.5
+    },
+    {
+      "date": "2020-03-30",
+      "value": 8000.5
+    },
+    {
+      "date": "2020-04-06",
+      "value": 8000.5
+    },
+    {
+      "date": "2020-05-21",
+      "value": 8000.5
+    },
+    {
+      "date": "2020-05-21",
+      "value": 8000.5
+    },
+    {
+      "date": "2020-05-22",
+      "value": 8000.5
+    },
+    {
+      "date": "2020-06-22",
+      "value": 8000.5
+    },
+    {
+      "date": "2020-06-22",
+      "value": 8000.5
+    },
+    {
+      "date": "2020-07-02",
+      "value": 8000.5
+    },
+    {
+      "date": "2020-07-02",
+      "value": 8000.5
+    },
+    {
+      "date": "2020-07-02",
+      "value": 8000.5
+    },
+    {
+      "date": "2020-07-02",
+      "value": 8000.5
+    },
+    {
+      "date": "2020-07-02",
+      "value": 8000.5
+    },
+    {
+      "date": "2020-07-02",
+      "value": 8000.5
+    },
+    {
+      "date": "2020-07-02",
+      "value": 8000.5
+    },
+    {
+      "date": "2020-07-02",
+      "value": 8000.5
+    },
+    {
+      "date": "2020-10-02",
+      "value": 8000.5
+    },
+    {
+      "date": "2020-10-02",
+      "value": 8000.5
+    },
+    {
+      "date": "2020-10-02",
+      "value": 8000.5
+    },
+    {
+      "date": "2020-10-16",
+      "value": 8000.5
+    },
+    {
+      "date": "2020-10-16",
+      "value": 8000.5
+    },
+    {
+      "date": "2020-10-16",
+      "value": 8000.5
+    },
+    {
+      "date": "2020-10-16",
+      "value": 8000.5
+    },
+    {
+      "date": "2020-11-20",
+      "value": 8000.5
+    },
+    {
+      "date": "2020-12-31",
+      "value": 8000.5
+    },
+    {
+      "date": "2020-12-31",
+      "value": 32500.5
+    },
+    {
+      "date": "2021-01-13",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-01-13",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-02-18",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-03-31",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-03-31",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-04-22",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-05-14",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-05-14",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-08-26",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-09-01",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-09-10",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-09-13",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-09-13",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-09-27",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-09-30",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-12-09",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-12-14",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-12-14",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-12-14",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-12-16",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-12-16",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-12-16",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-12-16",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-12-16",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-12-16",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-12-16",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-01-05",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-01-14",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-01-14",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-01-14",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-01-28",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-01-28",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-01-28",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-01-28",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-01-28",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-01-28",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-01-28",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-02-27",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-02-28",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-02-28",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-03-08",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-03-08",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-03-08",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-03-08",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-03-15",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-03-15",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-03-15",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-03-15",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-03-29",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-03-29",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-03-29",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-03-29",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-03-29",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-04-19",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-04-19",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-04-19",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-04-19",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-04-26",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-05-10",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-05-10",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-05-10",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-05-10",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-05-10",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-05-10",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-05-10",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-05-10",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-05-10",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-05-10",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-05-10",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-06-16",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-06-16",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-06-16",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-06-16",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-06-16",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-06-16",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-06-16",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-06-16",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-06-16",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-06-16",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-06-16",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-06-16",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-06-16",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-06-16",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-06-16",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-07-15",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-07-15",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-07-15",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-07-15",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-08-10",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-08-10",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-08-10",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-08-10",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-08-10",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-08-16",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-08-16",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-08-30",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-09-15",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-09-15",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-09-15",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-09-15",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-09-27",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-09-27",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-09-27",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-09-27",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-09-27",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-09-27",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-09-27",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-10-08",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-11-11",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-11-17",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-11-17",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-11-17",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-11-17",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-11-17",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-11-17",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-11-17",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-11-17",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-11-17",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-11-18",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-11-18",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-12-07",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-12-07",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-12-07",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-12-14",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-12-14",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-12-14",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-12-14",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-12-21",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-12-21",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-12-21",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-12-21",
+      "value": 8000.5
+    },
+    {
+      "date": "2023-01-03",
+      "value": 8000.5
+    },
+    {
+      "date": "2023-01-04",
+      "value": 32500.5
+    },
+    {
+      "date": "2023-01-04",
+      "value": 8000.5
+    },
+    {
+      "date": "2023-01-04",
+      "value": 32500.5
+    },
+    {
+      "date": "2023-01-17",
+      "value": 32500.5
+    },
+    {
+      "date": "2023-01-17",
+      "value": 32500.5
+    },
+    {
+      "date": "2023-01-17",
+      "value": 32500.5
+    },
+    {
+      "date": "2023-01-17",
+      "value": 32500.5
+    },
+    {
+      "date": "2023-01-20",
+      "value": 8000.5
+    },
+    {
+      "date": "2023-01-20",
+      "value": 8000.5
+    },
+    {
+      "date": "2023-02-03",
+      "value": 8000.5
+    },
+    {
+      "date": "2023-02-03",
+      "value": 8000.5
+    },
+    {
+      "date": "2023-02-03",
+      "value": 8000.5
+    },
+    {
+      "date": "2023-02-03",
+      "value": 8000.5
+    },
+    {
+      "date": "2023-02-03",
+      "value": 8000.5
+    },
+    {
+      "date": "2023-02-03",
+      "value": 8000.5
+    },
+    {
+      "date": "2023-02-03",
+      "value": 8000.5
+    },
+    {
+      "date": "2023-04-20",
+      "value": 8000.5
+    },
+    {
+      "date": "2023-04-20",
+      "value": 8000.5
+    },
+    {
+      "date": "2023-04-21",
+      "value": 8000.5
+    },
+    {
+      "date": "2023-05-30",
+      "value": 8000.5
+    },
+    {
+      "date": "2023-06-13",
+      "value": 8000.5
+    },
+    {
+      "date": "2023-06-13",
+      "value": 8000.5
+    },
+    {
+      "date": "2023-06-13",
+      "value": 8000.5
+    },
+    {
+      "date": "2023-07-21",
+      "value": 8000.5
+    },
+    {
+      "date": "2023-07-21",
+      "value": 8000.5
+    },
+    {
+      "date": "2023-07-27",
+      "value": 8000.5
+    },
+    {
+      "date": "2023-07-31",
+      "value": 8000.5
+    },
+    {
+      "date": "2023-07-31",
+      "value": 8000.5
+    },
+    {
+      "date": "2023-08-17",
+      "value": 8000.5
+    },
+    {
+      "date": "2023-09-07",
+      "value": 8000.5
+    },
+    {
+      "date": "2023-09-15",
+      "value": 8000.5
+    },
+    {
+      "date": "2023-09-15",
+      "value": 8000.5
+    },
+    {
+      "date": "2023-09-28",
+      "value": 8000.5
+    },
+    {
+      "date": "2023-09-28",
+      "value": 8000.5
+    },
+    {
+      "date": "2023-09-28",
+      "value": 8000.5
+    },
+    {
+      "date": "2023-09-28",
+      "value": 8000.5
+    },
+    {
+      "date": "2023-09-28",
+      "value": 8000.5
+    },
+    {
+      "date": "2023-09-28",
+      "value": 8000.5
+    },
+    {
+      "date": "2023-09-28",
+      "value": 8000.5
+    },
+    {
+      "date": "2023-09-28",
+      "value": 8000.5
+    },
+    {
+      "date": "2023-09-28",
+      "value": 8000.5
+    },
+    {
+      "date": "2023-09-28",
+      "value": 8000.5
+    },
+    {
+      "date": "2023-09-28",
+      "value": 8000.5
+    },
+    {
+      "date": "2023-09-28",
+      "value": 8000.5
+    },
+    {
+      "date": "2023-09-28",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-06-30",
+      "value": 8000.5
+    }
+  ],
+  "measured": null
+}

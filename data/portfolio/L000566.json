@@ -1,0 +1,527 @@
+{
+  "member": {
+    "bioguideId": "L000566",
+    "name": "Robert E. Latta",
+    "party": "R",
+    "chamber": "house",
+    "state": "OH",
+    "district": "OH-05",
+    "active": true
+  },
+  "positions": [
+    {
+      "memberId": "L000566",
+      "security": {
+        "ticker": "FMAO",
+        "kind": "other"
+      },
+      "owner": "spouse",
+      "range": {
+        "lo": 18004,
+        "hi": 95000
+      },
+      "status": "holds",
+      "asOf": "2026-07-20",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033857.pdf"
+        },
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034401.pdf"
+        },
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034726.pdf"
+        },
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035065.pdf"
+        }
+      ]
+    }
+  ],
+  "trades": [
+    {
+      "memberId": "L000566",
+      "assetRaw": "Farmers & Merchants Bancorp, Inc. (FMAO) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-07-20",
+      "filedDate": "2026-07-24",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035065.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "L000566",
+      "assetRaw": "Farmers & Merchants Bancorp, Inc. (FMAO) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2026-06-04",
+      "filedDate": "2026-06-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034726.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "L000566",
+      "assetRaw": "Farmers & Merchants Bancorp, Inc. (FMAO) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-04-20",
+      "filedDate": "2026-04-24",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034401.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "L000566",
+      "assetRaw": "Farmers & Merchants Bancorp, Inc. (FMAO) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-01-20",
+      "filedDate": "2026-01-23",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033857.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "L000566",
+      "assetRaw": "Farmers & Merchants Bancorp, Inc.",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-10-20",
+      "filedDate": "2025-10-27",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20033346.pdf",
+      "late": false,
+      "note": "dividend reinvestment C: dividend reinvestment",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "L000566",
+      "assetRaw": "Farmers & Merchants Bancorp, Inc.",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-07-20",
+      "filedDate": "2025-07-25",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030730.pdf",
+      "late": false,
+      "note": "Dividend reinvestment C: Dividend reinvestment",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "L000566",
+      "assetRaw": "Farmers & Merchants Bancorp, Inc.",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2025-06-05",
+      "filedDate": "2025-06-08",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030480.pdf",
+      "late": false,
+      "note": "Compensation",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "L000566",
+      "assetRaw": "Farmers & Merchants Bancorp, Inc.",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-04-20",
+      "filedDate": "2025-04-27",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030234.pdf",
+      "late": false,
+      "note": "Dividend reinvestment C: Dividend reinvestment",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "L000566",
+      "assetRaw": "Farmers & Merchants Bancorp, Inc.",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-01-20",
+      "filedDate": "2025-01-24",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20026650.pdf",
+      "late": false,
+      "note": "Dividend Reinvestment C: Dividend Reinvestment",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "L000566",
+      "assetRaw": "Farmers & Merchants Bancorp, Inc.",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2024-10-20",
+      "filedDate": "2024-11-07",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/20026165.pdf",
+      "late": false,
+      "note": "Dividend reinvestment C: Dividend reinvestment",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "L000566",
+      "assetRaw": "Farmers & Merchants Bancorp, Inc.",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2024-07-20",
+      "filedDate": "2024-07-21",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/20025507.pdf",
+      "late": false,
+      "note": "dividend reinvestment C: dividend reinvestment",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "L000566",
+      "assetRaw": "Farmers & Merchants Bancorp, Inc.",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2024-06-06",
+      "filedDate": "2024-06-09",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/20025238.pdf",
+      "late": false,
+      "note": "Compensation",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "L000566",
+      "assetRaw": "Farmers & Merchants Bancorp, Inc.",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2024-04-20",
+      "filedDate": "2024-04-20",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/20024901.pdf",
+      "late": false,
+      "note": "dividend reinvestment C: dividend reinvestment",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "L000566",
+      "assetRaw": "Farmers & Merchants Bancorp, Inc.",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2024-01-22",
+      "filedDate": "2024-02-14",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/20024505.pdf",
+      "late": false,
+      "note": "dividend reinvestment",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "L000566",
+      "assetRaw": "Farmers & Merchants Bancorp Inc",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2023-10-20",
+      "filedDate": "2023-10-21",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20023887.pdf",
+      "late": false,
+      "note": "dividend reinvestment C: dividend reinvestment",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "L000566",
+      "assetRaw": "Farmers & Merchants Bancorp Inc",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2023-07-20",
+      "filedDate": "2023-08-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20023449.pdf",
+      "late": false,
+      "note": "Dividend reinvestment C: Dividend reinvestment",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "L000566",
+      "assetRaw": "Farmers & Merchants Bancorp, Inc.",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2023-06-01",
+      "filedDate": "2023-06-02",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20023057.pdf",
+      "late": false,
+      "note": "Compensation",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "L000566",
+      "assetRaw": "Farmers & Merchants Bancorp, Inc.",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2023-04-20",
+      "filedDate": "2023-04-30",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20022811.pdf",
+      "late": false,
+      "note": "Dividend reinvestment",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "L000566",
+      "assetRaw": "Farmers & Merchants Bancorp, Inc.",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2023-01-20",
+      "filedDate": "2023-02-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20022370.pdf",
+      "late": false,
+      "note": "Dividend reinvestment",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "L000566",
+      "assetRaw": "Farmers & Merchants Bancorp, Inc.",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-10-20",
+      "filedDate": "2022-11-10",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021968.pdf",
+      "late": false,
+      "note": "Dividend Reinvestment",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "L000566",
+      "assetRaw": "Farmers & Merchants Bancorp, Inc.",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-07-12",
+      "filedDate": "2022-07-21",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021415.pdf",
+      "late": false,
+      "note": "dividend reinvestment",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "L000566",
+      "assetRaw": "Farmers & Merchants Bancorp, Inc. (FMao) [sT]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2020-03-10",
+      "filedDate": "2020-03-17",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20016256.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "L000566",
+      "assetRaw": "Farmers & Merchants Bancorp Inc (FMBa) [sT]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2019-08-30",
+      "filedDate": "2019-09-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20012269.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    }
+  ],
+  "series": [
+    {
+      "date": "2019-08-30",
+      "value": 32500.5
+    },
+    {
+      "date": "2020-03-10",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-07-12",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-10-20",
+      "value": 8000.5
+    },
+    {
+      "date": "2023-01-20",
+      "value": 8000.5
+    },
+    {
+      "date": "2023-04-20",
+      "value": 8000.5
+    },
+    {
+      "date": "2023-06-01",
+      "value": 8000.5
+    },
+    {
+      "date": "2023-07-20",
+      "value": 8000.5
+    },
+    {
+      "date": "2023-10-20",
+      "value": 8000.5
+    },
+    {
+      "date": "2024-01-22",
+      "value": 8000.5
+    },
+    {
+      "date": "2024-04-20",
+      "value": 8000.5
+    },
+    {
+      "date": "2024-06-06",
+      "value": 32500.5
+    },
+    {
+      "date": "2024-07-20",
+      "value": 8000.5
+    },
+    {
+      "date": "2024-10-20",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-01-20",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-04-20",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-06-05",
+      "value": 32500.5
+    },
+    {
+      "date": "2025-07-20",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-10-20",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-01-20",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-04-20",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-06-04",
+      "value": 32500.5
+    },
+    {
+      "date": "2026-07-20",
+      "value": 8000.5
+    }
+  ],
+  "measured": null
+}

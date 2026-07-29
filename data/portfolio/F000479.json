@@ -1,0 +1,1865 @@
+{
+  "member": {
+    "bioguideId": "F000479",
+    "lisId": "S418",
+    "name": "John Fetterman",
+    "party": "D",
+    "chamber": "senate",
+    "state": "PA",
+    "active": true
+  },
+  "positions": [
+    {
+      "memberId": "F000479",
+      "security": {
+        "ticker": "COIN",
+        "kind": "exchange"
+      },
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "holds",
+      "asOf": "2026-05-15",
+      "extraction": "efd-html",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://efdsearch.senate.gov/search/view/annual/8eed05ea-ec2d-4ef5-b458-d410fd76b40e/",
+          "title": "Annual Report for CY 2025"
+        }
+      ],
+      "note": "from Annual Report for CY 2025: Coinbase Global, Inc. - Class A Common Stock Filer comment: Purchase less than $1,000."
+    }
+  ],
+  "trades": [
+    {
+      "memberId": "F000479",
+      "assetRaw": "Cheniere Energy Partners L P Note",
+      "security": null,
+      "side": "sell",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-06-24",
+      "filedDate": "2026-07-09",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/a5fdbba4-9c67-4002-b931-1cd910ce590d/",
+      "late": false,
+      "note": "full sale",
+      "provenance": "both"
+    },
+    {
+      "memberId": "F000479",
+      "assetRaw": "EVERSOURCE ENERGY SER A NOTE",
+      "security": null,
+      "side": "buy",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-06-16",
+      "filedDate": "2026-07-09",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/a5fdbba4-9c67-4002-b931-1cd910ce590d/",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "F000479",
+      "assetRaw": "NISOURCE INC NOTE",
+      "security": null,
+      "side": "buy",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-06-16",
+      "filedDate": "2026-07-09",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/a5fdbba4-9c67-4002-b931-1cd910ce590d/",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "F000479",
+      "assetRaw": "EXPEDIA GROUP INC NOTE",
+      "security": null,
+      "side": "buy",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-05-06",
+      "filedDate": "2026-06-12",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/4b69867f-0376-4526-93f2-cd556b1155c9/",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "F000479",
+      "assetRaw": "BLACKSTONE SECD LENDING FD NOTE",
+      "security": null,
+      "side": "sell",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-04-13",
+      "filedDate": "2026-05-06",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/f34c4d7a-29ba-48fb-beea-d94c1368cc99/",
+      "late": false,
+      "note": "full sale",
+      "provenance": "both"
+    },
+    {
+      "memberId": "F000479",
+      "assetRaw": "ATHENE HOLDING LTD BOND",
+      "security": null,
+      "side": "buy",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-04-10",
+      "filedDate": "2026-05-06",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/f34c4d7a-29ba-48fb-beea-d94c1368cc99/",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "F000479",
+      "assetRaw": "Nationwide Finl Svcs Inc Note",
+      "security": null,
+      "side": "sell",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-04-10",
+      "filedDate": "2026-05-06",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/f34c4d7a-29ba-48fb-beea-d94c1368cc99/",
+      "late": false,
+      "note": "full sale",
+      "provenance": "both"
+    },
+    {
+      "memberId": "F000479",
+      "assetRaw": "Alphabet Inc. - Class C Capital Stock",
+      "security": null,
+      "side": "buy",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-03-30",
+      "filedDate": "2026-04-03",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/8d93e30a-19a8-43a9-93d8-e95d629b1039/",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "F000479",
+      "assetRaw": "Amazon.com, Inc. - Common Stock",
+      "security": null,
+      "side": "buy",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-03-30",
+      "filedDate": "2026-04-03",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/8d93e30a-19a8-43a9-93d8-e95d629b1039/",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "F000479",
+      "assetRaw": "Erie Indemnity Company - Class A Common Stock",
+      "security": null,
+      "side": "buy",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-03-30",
+      "filedDate": "2026-04-03",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/8d93e30a-19a8-43a9-93d8-e95d629b1039/",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "F000479",
+      "assetRaw": "Micron Technology, Inc. - Common Stock",
+      "security": null,
+      "side": "buy",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-03-30",
+      "filedDate": "2026-04-03",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/8d93e30a-19a8-43a9-93d8-e95d629b1039/",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "F000479",
+      "assetRaw": "Microsoft Corporation - Common Stock",
+      "security": null,
+      "side": "buy",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-03-30",
+      "filedDate": "2026-04-03",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/8d93e30a-19a8-43a9-93d8-e95d629b1039/",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "F000479",
+      "assetRaw": "AT&T Inc.",
+      "security": null,
+      "side": "sell",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-03-27",
+      "filedDate": "2026-04-03",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/8d93e30a-19a8-43a9-93d8-e95d629b1039/",
+      "late": false,
+      "note": "full sale",
+      "provenance": "both"
+    },
+    {
+      "memberId": "F000479",
+      "assetRaw": "Erie Indemnity Company - Class A Common Stock",
+      "security": null,
+      "side": "buy",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-03-27",
+      "filedDate": "2026-04-03",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/8d93e30a-19a8-43a9-93d8-e95d629b1039/",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "F000479",
+      "assetRaw": "Microsoft Corporation - Common Stock",
+      "security": null,
+      "side": "buy",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-03-27",
+      "filedDate": "2026-04-03",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/8d93e30a-19a8-43a9-93d8-e95d629b1039/",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "F000479",
+      "assetRaw": "Concentrix Corp Note",
+      "security": null,
+      "side": "sell",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-03-11",
+      "filedDate": "2026-04-03",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/8d93e30a-19a8-43a9-93d8-e95d629b1039/",
+      "late": false,
+      "note": "full sale",
+      "provenance": "both"
+    },
+    {
+      "memberId": "F000479",
+      "assetRaw": "PARAMOUNT GLOBAL BOND",
+      "security": null,
+      "side": "sell",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-02-18",
+      "filedDate": "2026-03-05",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/f7a22ac4-87ea-46e3-9303-c84d8b1ed6e0/",
+      "late": false,
+      "note": "full sale",
+      "provenance": "both"
+    },
+    {
+      "memberId": "F000479",
+      "assetRaw": "Celanese US Hldgs LLC Note",
+      "security": null,
+      "side": "sell",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-02-04",
+      "filedDate": "2026-03-05",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/f7a22ac4-87ea-46e3-9303-c84d8b1ed6e0/",
+      "late": false,
+      "note": "full sale; Original variable interest rate 6.33%",
+      "provenance": "both"
+    },
+    {
+      "memberId": "F000479",
+      "assetRaw": "V F CORP NOTE CALL MAKE WHOLE",
+      "security": null,
+      "side": "sell",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-02-03",
+      "filedDate": "2026-03-05",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/f7a22ac4-87ea-46e3-9303-c84d8b1ed6e0/",
+      "late": false,
+      "note": "full sale",
+      "provenance": "both"
+    },
+    {
+      "memberId": "F000479",
+      "assetRaw": "Steel Dynamics Inc Ser B Note",
+      "security": null,
+      "side": "sell",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-12-22",
+      "filedDate": "2026-01-06",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/3e408f48-f710-420d-ba46-d2269c689a8a/",
+      "late": false,
+      "note": "full sale",
+      "provenance": "both"
+    },
+    {
+      "memberId": "F000479",
+      "assetRaw": "GXO LOGISTICS INCORPORATED",
+      "security": null,
+      "side": "buy",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-11-18",
+      "filedDate": "2025-12-12",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/f18410ed-0a48-4ed1-ace6-a8b90cf88b7f/",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "F000479",
+      "assetRaw": "ELEVANCE HEALTH INC NOTE",
+      "security": null,
+      "side": "sell",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-09-19",
+      "filedDate": "2025-10-07",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/638bfeba-3c29-426a-94f5-a962bf58ee8a/",
+      "late": false,
+      "note": "full sale",
+      "provenance": "both"
+    },
+    {
+      "memberId": "F000479",
+      "assetRaw": "ARES CAPITAL CORP NOTE",
+      "security": null,
+      "side": "buy",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-09-09",
+      "filedDate": "2025-10-07",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/638bfeba-3c29-426a-94f5-a962bf58ee8a/",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "F000479",
+      "assetRaw": "ARES CAPITAL CORP NOTE",
+      "security": null,
+      "side": "sell",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-09-04",
+      "filedDate": "2025-10-07",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/638bfeba-3c29-426a-94f5-a962bf58ee8a/",
+      "late": false,
+      "note": "full sale",
+      "provenance": "both"
+    },
+    {
+      "memberId": "F000479",
+      "assetRaw": "VENUS TEX INDPT SCH DIST",
+      "security": null,
+      "side": "buy",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-08-27",
+      "filedDate": "2025-09-04",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/d55832ea-b5e3-4e39-8587-5005dc48f3d6/",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "F000479",
+      "assetRaw": "Dell Inc Note",
+      "security": null,
+      "side": "sell",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-08-26",
+      "filedDate": "2025-09-04",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/d55832ea-b5e3-4e39-8587-5005dc48f3d6/",
+      "late": false,
+      "note": "full sale",
+      "provenance": "both"
+    },
+    {
+      "memberId": "F000479",
+      "assetRaw": "Leidos Inc Note",
+      "security": null,
+      "side": "sell",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-08-26",
+      "filedDate": "2025-09-04",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/d55832ea-b5e3-4e39-8587-5005dc48f3d6/",
+      "late": false,
+      "note": "full sale",
+      "provenance": "both"
+    },
+    {
+      "memberId": "F000479",
+      "assetRaw": "BAKER HUGHES HLDGS LLC",
+      "security": null,
+      "side": "buy",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-06-25",
+      "filedDate": "2025-07-15",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/d899796b-3221-4c1c-a28a-265fe99303c3/",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "F000479",
+      "assetRaw": "JPMORGAN CHASE & CO",
+      "security": null,
+      "side": "buy",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-06-17",
+      "filedDate": "2026-05-15",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/50e54b67-b398-470e-8baf-e09e3be81d86/",
+      "late": true,
+      "note": "Preferred Stock: 3.65%",
+      "provenance": "both"
+    },
+    {
+      "memberId": "F000479",
+      "assetRaw": "JPMORGAN CHASE & CO",
+      "security": null,
+      "side": "buy",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-06-17",
+      "filedDate": "2025-07-15",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/d899796b-3221-4c1c-a28a-265fe99303c3/",
+      "late": false,
+      "note": "Preferred Stock: 3.65%",
+      "provenance": "both"
+    },
+    {
+      "memberId": "F000479",
+      "assetRaw": "Alphabet Inc. - Class C Capital Stock",
+      "security": null,
+      "side": "buy",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-05-15",
+      "filedDate": "2025-06-09",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/bb28c116-64b8-4088-a93d-8ba9965930ae/",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "F000479",
+      "assetRaw": "HASBRO INC NOTE",
+      "security": null,
+      "side": "buy",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-05-05",
+      "filedDate": "2025-06-09",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/bb28c116-64b8-4088-a93d-8ba9965930ae/",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "F000479",
+      "assetRaw": "BAKER HUGHES HLDGS LLC",
+      "security": null,
+      "side": "buy",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-04-24",
+      "filedDate": "2026-05-15",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/50e54b67-b398-470e-8baf-e09e3be81d86/",
+      "late": true,
+      "provenance": "both"
+    },
+    {
+      "memberId": "F000479",
+      "assetRaw": "FIRST CTZNS BANCSHARES INC N C",
+      "security": null,
+      "side": "buy",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-04-24",
+      "filedDate": "2026-05-15",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/98b63289-518f-44d6-b51c-4efc59acde85/",
+      "late": true,
+      "note": "Full call on 6/15/2025; Transaction inadvertently omitted from 5/15/2025 PTR due to an administrative error. Transactions in this account are not directed or requested by the filer, filer&#x27;s spouse, or filer&#x27;s dependent child.",
+      "provenance": "both"
+    },
+    {
+      "memberId": "F000479",
+      "assetRaw": "Nokia Corp Note",
+      "security": null,
+      "side": "sell",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-04-23",
+      "filedDate": "2025-05-15",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/92a96483-fc17-4654-93e4-19bc866a9218/",
+      "late": false,
+      "note": "full sale",
+      "provenance": "both"
+    },
+    {
+      "memberId": "F000479",
+      "assetRaw": "Florida Pwr & Lt Co Bond",
+      "security": null,
+      "side": "sell",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-04-22",
+      "filedDate": "2025-05-15",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/92a96483-fc17-4654-93e4-19bc866a9218/",
+      "late": false,
+      "note": "full sale",
+      "provenance": "both"
+    },
+    {
+      "memberId": "F000479",
+      "assetRaw": "Kinder Morgan Inc",
+      "security": null,
+      "side": "sell",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-04-22",
+      "filedDate": "2025-05-15",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/92a96483-fc17-4654-93e4-19bc866a9218/",
+      "late": false,
+      "note": "full sale",
+      "provenance": "both"
+    },
+    {
+      "memberId": "F000479",
+      "assetRaw": "Viatris Inc Ser B Note",
+      "security": null,
+      "side": "sell",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-04-22",
+      "filedDate": "2025-05-15",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/92a96483-fc17-4654-93e4-19bc866a9218/",
+      "late": false,
+      "note": "full sale",
+      "provenance": "both"
+    },
+    {
+      "memberId": "F000479",
+      "assetRaw": "ARES CAPITAL CORP NOTE",
+      "security": null,
+      "side": "buy",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-02-18",
+      "filedDate": "2025-03-12",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/d445c200-69d3-4a59-a5a8-4252ef807649/",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "F000479",
+      "assetRaw": "TRANSCANADA TRUST SER 2016-A",
+      "security": null,
+      "side": "buy",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-02-18",
+      "filedDate": "2025-03-12",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/d445c200-69d3-4a59-a5a8-4252ef807649/",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "F000479",
+      "assetRaw": "National Fin Auth N H Fed Lease",
+      "security": null,
+      "side": "sell",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-02-06",
+      "filedDate": "2025-03-12",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/d445c200-69d3-4a59-a5a8-4252ef807649/",
+      "late": false,
+      "note": "full sale",
+      "provenance": "both"
+    },
+    {
+      "memberId": "F000479",
+      "assetRaw": "ENSTAR FINANCE LLC NOTE",
+      "security": null,
+      "side": "sell",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-01-29",
+      "filedDate": "2025-02-07",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/5600cc30-f2c9-4d6b-b681-baae1c70a40a/",
+      "late": false,
+      "note": "full sale",
+      "provenance": "both"
+    },
+    {
+      "memberId": "F000479",
+      "assetRaw": "BANK NEW YORK MELLON CORP BOND",
+      "security": null,
+      "side": "buy",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-01-13",
+      "filedDate": "2025-02-07",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/5600cc30-f2c9-4d6b-b681-baae1c70a40a/",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "F000479",
+      "assetRaw": "CELANESE US HLDGS LLC NOTE",
+      "security": null,
+      "side": "buy",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-01-13",
+      "filedDate": "2025-02-07",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/5600cc30-f2c9-4d6b-b681-baae1c70a40a/",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "F000479",
+      "assetRaw": "ELEVANCE HEALTH INC NOTE",
+      "security": null,
+      "side": "buy",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-01-13",
+      "filedDate": "2025-02-07",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/5600cc30-f2c9-4d6b-b681-baae1c70a40a/",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "F000479",
+      "assetRaw": "PARAMOUNT GLOBAL BOND",
+      "security": null,
+      "side": "buy",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-01-13",
+      "filedDate": "2025-02-07",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/5600cc30-f2c9-4d6b-b681-baae1c70a40a/",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "F000479",
+      "assetRaw": "SEMPRA NOTE",
+      "security": null,
+      "side": "buy",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-01-13",
+      "filedDate": "2025-02-07",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/5600cc30-f2c9-4d6b-b681-baae1c70a40a/",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "F000479",
+      "assetRaw": "IKON OFFICE SOLUTIONS INC BOND\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 6.75% Matures: 12/01/2025",
+      "security": null,
+      "side": "buy",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2024-11-21",
+      "filedDate": "2024-12-03",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/8d18c865-ecbd-4945-aacd-5df646910155/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "F000479",
+      "assetRaw": "Kyndryl Hldgs Inc Ser B Note\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 2.7% Matures: 10/15/2028",
+      "security": null,
+      "side": "sell",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2024-10-25",
+      "filedDate": "2024-11-12",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/04487b72-9a2e-4ba2-815d-bb092850f6a6/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "F000479",
+      "assetRaw": "Kyndryl Hldgs Inc. Ser B Note\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 4.1% Matures: 10/15/2041",
+      "security": null,
+      "side": "buy",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2024-10-25",
+      "filedDate": "2024-11-12",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/04487b72-9a2e-4ba2-815d-bb092850f6a6/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "F000479",
+      "assetRaw": "Kyndryl Holdings Inc. Note\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 6.35% Matures: 02/20/2034",
+      "security": null,
+      "side": "sell",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2024-10-24",
+      "filedDate": "2024-11-12",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/04487b72-9a2e-4ba2-815d-bb092850f6a6/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "F000479",
+      "assetRaw": "V F Corp Note Call Make Whole\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 2.95% Matures: 04/23/2030",
+      "security": null,
+      "side": "buy",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2024-10-24",
+      "filedDate": "2024-11-12",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/04487b72-9a2e-4ba2-815d-bb092850f6a6/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "F000479",
+      "assetRaw": "Autodesk Inc Note\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 2.4% Matures: 12/15/2031",
+      "security": null,
+      "side": "sell",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2024-10-17",
+      "filedDate": "2024-11-12",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/04487b72-9a2e-4ba2-815d-bb092850f6a6/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "F000479",
+      "assetRaw": "Enstar Finance LLC\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 5.5% Matures: 01/15/2042",
+      "security": null,
+      "side": "buy",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2024-10-17",
+      "filedDate": "2024-11-12",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/04487b72-9a2e-4ba2-815d-bb092850f6a6/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "F000479",
+      "assetRaw": "General Motors Company Note\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 6.6% Matures: 04/01/2036",
+      "security": null,
+      "side": "buy",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2024-10-17",
+      "filedDate": "2024-11-12",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/04487b72-9a2e-4ba2-815d-bb092850f6a6/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "F000479",
+      "assetRaw": "Yamana Gold Inc Ser B Note\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 2.63% Matures: 08/15/2031",
+      "security": null,
+      "side": "sell",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2024-10-17",
+      "filedDate": "2024-11-12",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/04487b72-9a2e-4ba2-815d-bb092850f6a6/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "F000479",
+      "assetRaw": "Blackstone Secd Lending FD Note\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 5.35% Matures: 04/13/2028",
+      "security": null,
+      "side": "buy",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2024-10-15",
+      "filedDate": "2024-11-12",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/04487b72-9a2e-4ba2-815d-bb092850f6a6/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "F000479",
+      "assetRaw": "First Horizon Corporation Note\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 4.0% Matures: 05/26/2025",
+      "security": null,
+      "side": "sell",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2024-10-15",
+      "filedDate": "2024-11-12",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/04487b72-9a2e-4ba2-815d-bb092850f6a6/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "F000479",
+      "assetRaw": "CONCENTRIX CORP NOTE\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 6.6% Matures: 08/02/2028",
+      "security": null,
+      "side": "sell",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2024-07-19",
+      "filedDate": "2024-08-15",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/2596f23a-bfab-416a-8971-dab737a46efc/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "F000479",
+      "assetRaw": "CONCENTRIX CORP NOTE\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 6.85% Matures: 08/02/2033",
+      "security": null,
+      "side": "buy",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2024-07-19",
+      "filedDate": "2024-08-15",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/2596f23a-bfab-416a-8971-dab737a46efc/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "F000479",
+      "assetRaw": "Viatris Inc Ser B Note\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 3.850% Matures: 6/22/2040",
+      "security": null,
+      "side": "buy",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2023-11-30",
+      "filedDate": "2024-08-13",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/161ff3c5-a401-48b8-aa82-70272dde4da1/",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "F000479",
+      "assetRaw": "Duke Energy Corp New Bond \n                                        \n                                        \n                                        \n                                            Rate/Coupon: 4.875% Matures: 9/16/2024",
+      "security": null,
+      "side": "sell",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2023-11-27",
+      "filedDate": "2024-08-13",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/161ff3c5-a401-48b8-aa82-70272dde4da1/",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "F000479",
+      "assetRaw": "Autodesk Inc Note\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 2.4% Matures: 12/15/2031",
+      "security": null,
+      "side": "buy",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2023-11-20",
+      "filedDate": "2024-08-13",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/161ff3c5-a401-48b8-aa82-70272dde4da1/",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "F000479",
+      "assetRaw": "First Horizon Corporation Note\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 4.0% Matures: 5/26/2025",
+      "security": null,
+      "side": "buy",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2023-11-20",
+      "filedDate": "2024-08-13",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/161ff3c5-a401-48b8-aa82-70272dde4da1/",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "F000479",
+      "assetRaw": "JPMorgan Chase & Co Bond\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 4.6% Matures: 2/1/2025",
+      "security": null,
+      "side": "buy",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2023-11-20",
+      "filedDate": "2024-08-13",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/161ff3c5-a401-48b8-aa82-70272dde4da1/",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "F000479",
+      "assetRaw": "Wells Fargo & CO Bond\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 5.9% Matures: 6/15/2024",
+      "security": null,
+      "side": "buy",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2023-11-20",
+      "filedDate": "2024-08-13",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/161ff3c5-a401-48b8-aa82-70272dde4da1/",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "F000479",
+      "assetRaw": "Barclays Bank PLC Index-Linked\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 0% Matures: 10/29/2027",
+      "security": null,
+      "side": "buy",
+      "owner": "dependent",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2023-10-26",
+      "filedDate": "2024-08-13",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/161ff3c5-a401-48b8-aa82-70272dde4da1/",
+      "late": true,
+      "note": "Underlying asset of DC 3.",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "F000479",
+      "assetRaw": "Paramount Global Note \n                                        \n                                        \n                                        \n                                            Rate/Coupon: 4.95% Matures: 1/15/2031",
+      "security": null,
+      "side": "buy",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2023-09-27",
+      "filedDate": "2024-08-13",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/161ff3c5-a401-48b8-aa82-70272dde4da1/",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "F000479",
+      "assetRaw": "General Electric Co Bond\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 4.2% Matures: 09/15/2023",
+      "security": null,
+      "side": "sell",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2023-09-15",
+      "filedDate": "2024-08-13",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/161ff3c5-a401-48b8-aa82-70272dde4da1/",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "F000479",
+      "assetRaw": "Concentrix Corp Note\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 6.6% Matures: 8/2/2028",
+      "security": null,
+      "side": "buy",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2023-09-01",
+      "filedDate": "2024-08-13",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/161ff3c5-a401-48b8-aa82-70272dde4da1/",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "F000479",
+      "assetRaw": "Phillips 66 Partners LP Note\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 3.15% Matures: 12/15/2029",
+      "security": null,
+      "side": "buy",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2023-06-22",
+      "filedDate": "2024-08-13",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/161ff3c5-a401-48b8-aa82-70272dde4da1/",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "F000479",
+      "assetRaw": "National Fin Auth N H Fed Lease\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 3.25% Matures: 4/1/2028",
+      "security": null,
+      "side": "buy",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2023-05-30",
+      "filedDate": "2024-08-13",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/161ff3c5-a401-48b8-aa82-70272dde4da1/",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "F000479",
+      "assetRaw": "Bank of America Corp Bond\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 5.875% Matures: 3/15/2028",
+      "security": null,
+      "side": "buy",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2023-05-25",
+      "filedDate": "2024-08-13",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/161ff3c5-a401-48b8-aa82-70272dde4da1/",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "F000479",
+      "assetRaw": "JPMorgan Chase & Co Note\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 0.563% Matures: 02/16/2025",
+      "security": null,
+      "side": "buy",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2023-05-25",
+      "filedDate": "2024-08-13",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/161ff3c5-a401-48b8-aa82-70272dde4da1/",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "F000479",
+      "assetRaw": "Nationwide Finl Svcs Inc Note\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 6.75% Matures: 5/15/2087",
+      "security": null,
+      "side": "buy",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2023-05-25",
+      "filedDate": "2024-08-13",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/161ff3c5-a401-48b8-aa82-70272dde4da1/",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "F000479",
+      "assetRaw": "Verisign Inc Ser B Note\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 4.75% Matures: 7/15/2027",
+      "security": null,
+      "side": "buy",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2023-05-25",
+      "filedDate": "2024-08-13",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/161ff3c5-a401-48b8-aa82-70272dde4da1/",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "F000479",
+      "assetRaw": "Cheniere Energy Partners L P Note\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 4.5% Matures: 10/1/2029",
+      "security": null,
+      "side": "buy",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2023-05-11",
+      "filedDate": "2024-08-13",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/161ff3c5-a401-48b8-aa82-70272dde4da1/",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "F000479",
+      "assetRaw": "General Electric Co Bond\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 4.2% Matures: 09/15/2023",
+      "security": null,
+      "side": "buy",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2023-05-11",
+      "filedDate": "2024-08-13",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/161ff3c5-a401-48b8-aa82-70272dde4da1/",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "F000479",
+      "assetRaw": "Dell Inc Note\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 6.5% Matures: 4/15/2038",
+      "security": null,
+      "side": "buy",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2023-05-10",
+      "filedDate": "2024-08-13",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/161ff3c5-a401-48b8-aa82-70272dde4da1/",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "F000479",
+      "assetRaw": "Florida Pwr & Lt Co Bond\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 3.8% Matures: 12/15/2042",
+      "security": null,
+      "side": "buy",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2023-05-10",
+      "filedDate": "2024-08-13",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/161ff3c5-a401-48b8-aa82-70272dde4da1/",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "F000479",
+      "assetRaw": "Kinder Morgan Inc Del Note\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 5.5% Matures: 6/1/2045",
+      "security": null,
+      "side": "buy",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2023-05-10",
+      "filedDate": "2024-08-13",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/161ff3c5-a401-48b8-aa82-70272dde4da1/",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "F000479",
+      "assetRaw": "Western Digital Corp Bond\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 1.5% Matures: 2/1/2024",
+      "security": null,
+      "side": "buy",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2023-05-10",
+      "filedDate": "2024-08-13",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/161ff3c5-a401-48b8-aa82-70272dde4da1/",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "F000479",
+      "assetRaw": "Duke Energy Corp New Bond\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 4.875% Matures: 9/16/2024",
+      "security": null,
+      "side": "buy",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2023-05-04",
+      "filedDate": "2024-08-13",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/161ff3c5-a401-48b8-aa82-70272dde4da1/",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "F000479",
+      "assetRaw": "Ford Mtr Co DEL Note\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 3.25% Matures: 2/12/2032",
+      "security": null,
+      "side": "buy",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2023-05-04",
+      "filedDate": "2024-08-13",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/161ff3c5-a401-48b8-aa82-70272dde4da1/",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "F000479",
+      "assetRaw": "Kyndryl Hldgs Inc Ser B Note\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 2.7% Matures: 10/15/2028",
+      "security": null,
+      "side": "buy",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2023-05-04",
+      "filedDate": "2024-08-13",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/161ff3c5-a401-48b8-aa82-70272dde4da1/",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "F000479",
+      "assetRaw": "Celanese US Hldgs LLC Note\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 6.33% Matures: 7/15/2029",
+      "security": null,
+      "side": "buy",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2023-05-02",
+      "filedDate": "2024-08-13",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/161ff3c5-a401-48b8-aa82-70272dde4da1/",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "F000479",
+      "assetRaw": "Leidos Inc Note \n                                        \n                                        \n                                        \n                                            Rate/Coupon: 5.75% Matures: 3/15/2033",
+      "security": null,
+      "side": "buy",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2023-05-02",
+      "filedDate": "2024-08-13",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/161ff3c5-a401-48b8-aa82-70272dde4da1/",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "F000479",
+      "assetRaw": "Steel Dynamics Inc Ser B Note\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 5.0% Matures: 12/15/2026",
+      "security": null,
+      "side": "buy",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2023-05-02",
+      "filedDate": "2024-08-13",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/161ff3c5-a401-48b8-aa82-70272dde4da1/",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "F000479",
+      "assetRaw": "Yamana Gold Inc Ser B Note\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 2.63% Matures: 8/15/2031",
+      "security": null,
+      "side": "buy",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2023-05-02",
+      "filedDate": "2024-08-13",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/161ff3c5-a401-48b8-aa82-70272dde4da1/",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "F000479",
+      "assetRaw": "Marathon Oil Corp",
+      "security": null,
+      "side": "sell",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2023-01-24",
+      "filedDate": "2024-08-13",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/161ff3c5-a401-48b8-aa82-70272dde4da1/",
+      "late": true,
+      "provenance": "kadoa"
+    }
+  ],
+  "series": [
+    {
+      "date": "2023-01-24",
+      "value": 8000.5
+    },
+    {
+      "date": "2023-05-02",
+      "value": 8000.5
+    },
+    {
+      "date": "2023-05-02",
+      "value": 8000.5
+    },
+    {
+      "date": "2023-05-02",
+      "value": 8000.5
+    },
+    {
+      "date": "2023-05-02",
+      "value": 8000.5
+    },
+    {
+      "date": "2023-05-04",
+      "value": 8000.5
+    },
+    {
+      "date": "2023-05-04",
+      "value": 8000.5
+    },
+    {
+      "date": "2023-05-04",
+      "value": 8000.5
+    },
+    {
+      "date": "2023-05-10",
+      "value": 8000.5
+    },
+    {
+      "date": "2023-05-10",
+      "value": 8000.5
+    },
+    {
+      "date": "2023-05-10",
+      "value": 8000.5
+    },
+    {
+      "date": "2023-05-10",
+      "value": 8000.5
+    },
+    {
+      "date": "2023-05-11",
+      "value": 8000.5
+    },
+    {
+      "date": "2023-05-11",
+      "value": 8000.5
+    },
+    {
+      "date": "2023-05-25",
+      "value": 8000.5
+    },
+    {
+      "date": "2023-05-25",
+      "value": 8000.5
+    },
+    {
+      "date": "2023-05-25",
+      "value": 8000.5
+    },
+    {
+      "date": "2023-05-25",
+      "value": 8000.5
+    },
+    {
+      "date": "2023-05-30",
+      "value": 8000.5
+    },
+    {
+      "date": "2023-06-22",
+      "value": 8000.5
+    },
+    {
+      "date": "2023-09-01",
+      "value": 8000.5
+    },
+    {
+      "date": "2023-09-15",
+      "value": 8000.5
+    },
+    {
+      "date": "2023-09-27",
+      "value": 8000.5
+    },
+    {
+      "date": "2023-10-26",
+      "value": 32500.5
+    },
+    {
+      "date": "2023-11-20",
+      "value": 8000.5
+    },
+    {
+      "date": "2023-11-20",
+      "value": 8000.5
+    },
+    {
+      "date": "2023-11-20",
+      "value": 8000.5
+    },
+    {
+      "date": "2023-11-20",
+      "value": 8000.5
+    },
+    {
+      "date": "2023-11-27",
+      "value": 8000.5
+    },
+    {
+      "date": "2023-11-30",
+      "value": 8000.5
+    },
+    {
+      "date": "2024-07-19",
+      "value": 8000.5
+    },
+    {
+      "date": "2024-07-19",
+      "value": 8000.5
+    },
+    {
+      "date": "2024-10-15",
+      "value": 8000.5
+    },
+    {
+      "date": "2024-10-15",
+      "value": 8000.5
+    },
+    {
+      "date": "2024-10-17",
+      "value": 8000.5
+    },
+    {
+      "date": "2024-10-17",
+      "value": 8000.5
+    },
+    {
+      "date": "2024-10-17",
+      "value": 8000.5
+    },
+    {
+      "date": "2024-10-17",
+      "value": 8000.5
+    },
+    {
+      "date": "2024-10-24",
+      "value": 8000.5
+    },
+    {
+      "date": "2024-10-24",
+      "value": 8000.5
+    },
+    {
+      "date": "2024-10-25",
+      "value": 8000.5
+    },
+    {
+      "date": "2024-10-25",
+      "value": 8000.5
+    },
+    {
+      "date": "2024-11-21",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-01-13",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-01-13",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-01-13",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-01-13",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-01-13",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-01-29",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-02-06",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-02-18",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-02-18",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-04-22",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-04-22",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-04-22",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-04-23",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-04-24",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-04-24",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-05-05",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-05-15",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-06-17",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-06-17",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-06-25",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-08-26",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-08-26",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-08-27",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-09-04",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-09-09",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-09-19",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-11-18",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-12-22",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-02-03",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-02-04",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-02-18",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-03-11",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-03-27",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-03-27",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-03-27",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-03-30",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-03-30",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-03-30",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-03-30",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-03-30",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-04-10",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-04-10",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-04-13",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-05-06",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-06-16",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-06-16",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-06-24",
+      "value": 8000.5
+    }
+  ],
+  "measured": null
+}

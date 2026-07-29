@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-29T11:40:08.378Z",
+  "generatedAt": "2026-07-29T22:36:53.293Z",
   "asOf": {
     "bill": "2026-07-29",
     "members": "2026-07-29",
@@ -11,16 +11,16 @@
   "run": {
     "ok": true,
     "stats": {
-      "houseNewPtrs": 2,
-      "houseTrades": 2,
+      "houseNewPtrs": 0,
+      "houseTrades": 0,
       "houseOcrFlagged": 0,
       "houseUnmatchedFilings": 0,
       "houseIssues": 0,
-      "senateNewFilings": 2,
-      "senateTrades": 14,
+      "senateNewFilings": 1,
+      "senateTrades": 0,
       "senateAnnualHoldings": 0,
       "senatePaperStubs": 0,
-      "senateSkipped": 0,
+      "senateSkipped": 1,
       "officialTradeLedger": 4416,
       "annualBaselineRows": 8,
       "kadoaNormalized": 37318,
@@ -46,6 +46,10 @@
       "tradersMeasured": 12,
       "tradersClaimsNotSupported": 1,
       "unpriceableBuys": 1490,
+      "portfolioFiles": 229,
+      "portfolioPositions": 2045,
+      "portfolioRejects": 33652,
+      "slimmedTrades": 255,
       "tier1Holders": 10,
       "validationFailures": 0,
       "dryRun": 0

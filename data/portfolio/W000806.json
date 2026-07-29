@@ -1,0 +1,118 @@
+{
+  "member": {
+    "bioguideId": "W000806",
+    "name": "Daniel Webster",
+    "party": "R",
+    "chamber": "house",
+    "state": "FL",
+    "district": "FL-11",
+    "active": true
+  },
+  "positions": [
+    {
+      "memberId": "W000806",
+      "security": {
+        "ticker": "REXR",
+        "kind": "other"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "status": "sold",
+      "asOf": "2025-02-26",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034562.pdf"
+        }
+      ],
+      "note": "sale reported by PTR with no annual baseline in our coverage"
+    }
+  ],
+  "trades": [
+    {
+      "memberId": "W000806",
+      "assetRaw": "Rexford Industrial Realty, Inc. Common Stock (REXR) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2025-02-26",
+      "filedDate": "2026-06-01",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034562.pdf",
+      "late": true,
+      "provenance": "both"
+    },
+    {
+      "memberId": "W000806",
+      "assetRaw": "U.S. Treasury I Bond [GS]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2023-03-08",
+      "filedDate": "2024-06-10",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/20025243.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000806",
+      "assetRaw": "Fundrise [oT]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2019-10-08",
+      "filedDate": "2019-10-09",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20012454.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000806",
+      "assetRaw": "Fundrise [oT]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2019-09-26",
+      "filedDate": "2019-09-30",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20012392.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    }
+  ],
+  "series": [
+    {
+      "date": "2019-09-26",
+      "value": 8000.5
+    },
+    {
+      "date": "2019-10-08",
+      "value": 8000.5
+    },
+    {
+      "date": "2023-03-08",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-02-26",
+      "value": 32500.5
+    }
+  ],
+  "measured": null
+}

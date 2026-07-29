@@ -1,0 +1,77 @@
+{
+  "member": {
+    "bioguideId": "L000596",
+    "name": "Anna Paulina Luna",
+    "party": "R",
+    "chamber": "house",
+    "state": "FL",
+    "district": "FL-13",
+    "active": true
+  },
+  "positions": [],
+  "trades": [
+    {
+      "memberId": "L000596",
+      "assetRaw": "America First Natural Resources LLC",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2024-05-20",
+      "filedDate": "2024-05-20",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/20025103.pdf",
+      "late": false,
+      "note": "America First Natural Resources LLC is engaged in energy production.",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "L000596",
+      "assetRaw": "America First Natural Resources LLC",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2024-05-20",
+      "filedDate": "2024-05-20",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/20025103.pdf",
+      "late": false,
+      "note": "America First Natural Resources LLC is engaged in energy production.",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "L000596",
+      "assetRaw": "America First Natural Resources LLC",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2024-04-23",
+      "filedDate": "2024-05-20",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/20025103.pdf",
+      "late": false,
+      "note": "America First Natural Resources LLC is engaged in energy production.",
+      "provenance": "kadoa"
+    }
+  ],
+  "series": [
+    {
+      "date": "2024-04-23",
+      "value": 75000.5
+    },
+    {
+      "date": "2024-05-20",
+      "value": 175000.5
+    },
+    {
+      "date": "2024-05-20",
+      "value": 75000.5
+    }
+  ],
+  "measured": null
+}

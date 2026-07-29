@@ -1,0 +1,36 @@
+{
+  "member": {
+    "bioguideId": "F000469",
+    "name": "Russ Fulcher",
+    "party": "R",
+    "chamber": "house",
+    "state": "ID",
+    "district": "ID-01",
+    "active": true
+  },
+  "positions": [],
+  "trades": [
+    {
+      "memberId": "F000469",
+      "assetRaw": "Banc of California, Inc. Depositary Shares Each Representing a 1/40th Interest in a Share of 7.000% Non- Cumulative Perpetual Preferred Stock, Series E (BANC$E) [ST]",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-03-15",
+      "filedDate": "2023-05-12",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20022919.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    }
+  ],
+  "series": [
+    {
+      "date": "2022-03-15",
+      "value": 8000.5
+    }
+  ],
+  "measured": null
+}

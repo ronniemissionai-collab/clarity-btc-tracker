@@ -1,0 +1,657 @@
+{
+  "member": {
+    "bioguideId": "S001199",
+    "name": "Lloyd Smucker",
+    "party": "R",
+    "chamber": "house",
+    "state": "PA",
+    "district": "PA-11",
+    "active": true
+  },
+  "positions": [
+    {
+      "memberId": "S001199",
+      "security": {
+        "ticker": "ENBP",
+        "kind": "other"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "sold",
+      "asOf": "2026-04-23",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20019182.pdf"
+        }
+      ],
+      "note": "sale reported by PTR with no annual baseline in our coverage"
+    },
+    {
+      "memberId": "S001199",
+      "security": {
+        "ticker": "FULT",
+        "kind": "other"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "status": "sold",
+      "asOf": "2026-04-23",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20019182.pdf"
+        }
+      ],
+      "note": "sale reported by PTR with no annual baseline in our coverage"
+    },
+    {
+      "memberId": "S001199",
+      "security": {
+        "ticker": "PRU",
+        "kind": "other"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "sold",
+      "asOf": "2026-04-23",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20019182.pdf"
+        }
+      ],
+      "note": "sale reported by PTR with no annual baseline in our coverage"
+    },
+    {
+      "memberId": "S001199",
+      "security": {
+        "ticker": "TFC",
+        "kind": "other"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "sold",
+      "asOf": "2026-04-17",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20019182.pdf"
+        }
+      ],
+      "note": "sale reported by PTR with no annual baseline in our coverage"
+    },
+    {
+      "memberId": "S001199",
+      "security": {
+        "ticker": "VZ",
+        "kind": "other"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "sold",
+      "asOf": "2026-04-23",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20019182.pdf"
+        }
+      ],
+      "note": "sale reported by PTR with no annual baseline in our coverage"
+    },
+    {
+      "memberId": "S001199",
+      "security": {
+        "ticker": "WFC",
+        "kind": "other"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "status": "sold",
+      "asOf": "2026-04-23",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20019182.pdf"
+        }
+      ],
+      "note": "sale reported by PTR with no annual baseline in our coverage"
+    }
+  ],
+  "trades": [
+    {
+      "memberId": "S001199",
+      "assetRaw": "ENB FINANCIAL CORP PA (ENBP) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-04-23",
+      "filedDate": "2026-04-30",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20019182.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "S001199",
+      "assetRaw": "Fulton Financial Corporation - Common Stock (FULT) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2026-04-23",
+      "filedDate": "2026-04-30",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20019182.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "S001199",
+      "assetRaw": "Prudential Financial, Inc. Common Stock (PRU) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-04-23",
+      "filedDate": "2026-04-30",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20019182.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "S001199",
+      "assetRaw": "Verizon Communications Inc. Common Stock (VZ) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-04-23",
+      "filedDate": "2026-04-30",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20019182.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "S001199",
+      "assetRaw": "Wells Fargo & Company Common Stock (WFC) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2026-04-23",
+      "filedDate": "2026-04-30",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20019182.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "S001199",
+      "assetRaw": "Fulton Financial Corporation - Common Stock (FULT) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2026-04-17",
+      "filedDate": "2026-04-30",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20019182.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "S001199",
+      "assetRaw": "Truist Financial Corporation Common Stock (TFC) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-04-17",
+      "filedDate": "2026-04-30",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20019182.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "S001199",
+      "assetRaw": "TDAMERITRADE IRA Apple Inc.",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2020-10-09",
+      "filedDate": "2020-11-09",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20017042.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S001199",
+      "assetRaw": "Apple Inc.",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2020-07-22",
+      "filedDate": "2020-11-09",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20017042.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S001199",
+      "assetRaw": "TDAMERITRADE IRA Activision blizzard, Inc",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2020-01-21",
+      "filedDate": "2020-01-24",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20014943.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S001199",
+      "assetRaw": "TDAMERITRADE IRA unitedHealth group Incorporated Common Stock (uNH) [ST]",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2020-01-02",
+      "filedDate": "2020-01-24",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20014943.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S001199",
+      "assetRaw": "Activision blizzard, Inc",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2019-12-03",
+      "filedDate": "2020-01-24",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20014943.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S001199",
+      "assetRaw": "TDAMERITRADE IRA Apple Inc.",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2019-12-02",
+      "filedDate": "2020-01-24",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20014943.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S001199",
+      "assetRaw": "TDAMERITRADE IRA Apple Inc.",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2019-10-31",
+      "filedDate": "2020-01-24",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20014943.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S001199",
+      "assetRaw": "TDAMERITRADE IRA Apple Inc.",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2019-10-14",
+      "filedDate": "2020-01-24",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20014943.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S001199",
+      "assetRaw": "TDAMERITRADE IRA Apple Inc.",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2019-09-03",
+      "filedDate": "2020-01-24",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20014943.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S001199",
+      "assetRaw": "TDAMERITRADE IRA Apple Inc.",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2019-07-31",
+      "filedDate": "2020-01-24",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20014943.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S001199",
+      "assetRaw": "TDAMERITRADE IRA Apple Inc.",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2019-07-02",
+      "filedDate": "2019-07-09",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20011948.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S001199",
+      "assetRaw": "Apple Inc.",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2019-06-03",
+      "filedDate": "2019-07-09",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20011948.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S001199",
+      "assetRaw": "TDAMERITRADE IRA Apple Inc.",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2019-05-01",
+      "filedDate": "2019-05-13",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20011664.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S001199",
+      "assetRaw": "Apple Inc.",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2019-04-05",
+      "filedDate": "2019-04-11",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20011440.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S001199",
+      "assetRaw": "TDAMERITRADE IRA Apple Inc.",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2019-03-18",
+      "filedDate": "2019-04-11",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20011440.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S001199",
+      "assetRaw": "TDAMERITRADE IRA unitedHealth group Incorporated Common Stock (uNH) [ST]",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2019-02-05",
+      "filedDate": "2019-05-13",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20011664.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S001199",
+      "assetRaw": "TDAMERITRADE IRA unitedHealth group Incorporated Common Stock (uNH) [ST]",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2019-02-04",
+      "filedDate": "2019-05-13",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20011664.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S001199",
+      "assetRaw": "TDAMERITRADE IRA unitedHealth group Incorporated Common Stock (uNH) [ST]",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2018-11-09",
+      "filedDate": "2019-05-13",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20011664.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S001199",
+      "assetRaw": "Activision blizzard, Inc",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2018-09-06",
+      "filedDate": "2019-05-13",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20011664.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    }
+  ],
+  "series": [
+    {
+      "date": "2018-09-06",
+      "value": 8000.5
+    },
+    {
+      "date": "2018-11-09",
+      "value": 8000.5
+    },
+    {
+      "date": "2019-02-04",
+      "value": 8000.5
+    },
+    {
+      "date": "2019-02-05",
+      "value": 8000.5
+    },
+    {
+      "date": "2019-03-18",
+      "value": 8000.5
+    },
+    {
+      "date": "2019-04-05",
+      "value": 8000.5
+    },
+    {
+      "date": "2019-05-01",
+      "value": 8000.5
+    },
+    {
+      "date": "2019-06-03",
+      "value": 32500.5
+    },
+    {
+      "date": "2019-07-02",
+      "value": 32500.5
+    },
+    {
+      "date": "2019-07-31",
+      "value": 32500.5
+    },
+    {
+      "date": "2019-09-03",
+      "value": 8000.5
+    },
+    {
+      "date": "2019-10-14",
+      "value": 32500.5
+    },
+    {
+      "date": "2019-10-31",
+      "value": 32500.5
+    },
+    {
+      "date": "2019-12-02",
+      "value": 8000.5
+    },
+    {
+      "date": "2019-12-03",
+      "value": 32500.5
+    },
+    {
+      "date": "2020-01-02",
+      "value": 32500.5
+    },
+    {
+      "date": "2020-01-21",
+      "value": 32500.5
+    },
+    {
+      "date": "2020-07-22",
+      "value": 8000.5
+    },
+    {
+      "date": "2020-10-09",
+      "value": 32500.5
+    },
+    {
+      "date": "2026-04-17",
+      "value": 175000.5
+    },
+    {
+      "date": "2026-04-17",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-04-23",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-04-23",
+      "value": 75000.5
+    },
+    {
+      "date": "2026-04-23",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-04-23",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-04-23",
+      "value": 32500.5
+    }
+  ],
+  "measured": null
+}

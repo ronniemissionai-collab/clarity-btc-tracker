@@ -1,0 +1,56 @@
+{
+  "member": {
+    "bioguideId": "R000395",
+    "name": "Harold Rogers",
+    "party": "R",
+    "chamber": "house",
+    "state": "KY",
+    "district": "KY-05",
+    "active": true
+  },
+  "positions": [],
+  "trades": [
+    {
+      "memberId": "R000395",
+      "assetRaw": "Redeemed New York St Rev Rfdg Ser 2016A 5 000 Due 6/15/33 Full Call",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2026-06-15",
+      "filedDate": "2026-07-14",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116218.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000395",
+      "assetRaw": "Buy St Str Spdr ETF @ 74.93",
+      "security": null,
+      "side": "buy",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-03-31",
+      "filedDate": "2026-05-08",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9115808.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    }
+  ],
+  "series": [
+    {
+      "date": "2026-03-31",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-06-15",
+      "value": 32500.5
+    }
+  ],
+  "measured": null
+}

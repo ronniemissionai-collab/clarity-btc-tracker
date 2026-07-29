@@ -1,0 +1,306 @@
+{
+  "member": {
+    "bioguideId": "S001156",
+    "name": "Linda T. Sánchez",
+    "party": "D",
+    "chamber": "house",
+    "state": "CA",
+    "district": "CA-38",
+    "active": true
+  },
+  "positions": [
+    {
+      "memberId": "S001156",
+      "security": {
+        "ticker": "CSCO",
+        "kind": "other"
+      },
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "sold",
+      "asOf": "2025-10-28",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033755.pdf"
+        }
+      ],
+      "note": "sale reported by PTR with no annual baseline in our coverage"
+    },
+    {
+      "memberId": "S001156",
+      "security": {
+        "ticker": "F",
+        "kind": "other"
+      },
+      "owner": "spouse",
+      "range": {
+        "lo": 2002,
+        "hi": 30000
+      },
+      "status": "stale",
+      "asOf": "2017-05-17",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2016/20004462.pdf"
+        },
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2017/20007424.pdf"
+        }
+      ]
+    },
+    {
+      "memberId": "S001156",
+      "security": {
+        "ticker": "SE",
+        "kind": "other"
+      },
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "stale",
+      "asOf": "2016-01-19",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2016/20004462.pdf"
+        }
+      ]
+    }
+  ],
+  "trades": [
+    {
+      "memberId": "S001156",
+      "assetRaw": "Cisco Systems, Inc. - Common Stock (CSCO) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-10-28",
+      "filedDate": "2026-01-09",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033755.pdf",
+      "late": true,
+      "provenance": "both"
+    },
+    {
+      "memberId": "S001156",
+      "assetRaw": "Charles Schwab - Bank of America [OT]",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2019-02-22",
+      "filedDate": "2020-09-13",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20017356.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S001156",
+      "assetRaw": "Charles Schwab - Enbridge [OT]",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2019-02-22",
+      "filedDate": "2020-09-13",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20017356.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S001156",
+      "assetRaw": "Charles Schwab - Ford Motor Co [OT]",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2019-02-22",
+      "filedDate": "2020-09-13",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20017356.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S001156",
+      "assetRaw": "Charles Schwab - Root 9 B Technologies Inc [OT] S02/22/201909/12/2020$.25 gfedc FILINg STATUS: New LOCATION: US DESCRIPTION: withdrew money from fund SPCharles Schwab - UBS group Ag [OT]",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2019-02-22",
+      "filedDate": "2020-09-13",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20017356.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S001156",
+      "assetRaw": "Ford Motor Company (F)",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-05-17",
+      "filedDate": "2017-06-07",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2017/20007424.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S001156",
+      "assetRaw": "Ford Motor Company (F)",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2016-01-19",
+      "filedDate": "2016-02-18",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2016/20004462.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S001156",
+      "assetRaw": "Spectra Energy Corp (SE)",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2016-01-19",
+      "filedDate": "2016-02-18",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2016/20004462.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S001156",
+      "assetRaw": "bank of America Corporation (bAC)",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2016-01-19",
+      "filedDate": "2016-02-18",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2016/20004462.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S001156",
+      "assetRaw": "ubS group Ag Registered Ordinary Shares (ubS)",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2016-01-19",
+      "filedDate": "2016-02-18",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2016/20004462.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S001156",
+      "assetRaw": "root9b Techologies Inc. (RTNb)",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2015-04-21",
+      "filedDate": "2015-05-17",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2015/20003115.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    }
+  ],
+  "series": [
+    {
+      "date": "2015-04-21",
+      "value": 8000.5
+    },
+    {
+      "date": "2016-01-19",
+      "value": 8000.5
+    },
+    {
+      "date": "2016-01-19",
+      "value": 8000.5
+    },
+    {
+      "date": "2016-01-19",
+      "value": 8000.5
+    },
+    {
+      "date": "2016-01-19",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-05-17",
+      "value": 8000.5
+    },
+    {
+      "date": "2019-02-22",
+      "value": 8000.5
+    },
+    {
+      "date": "2019-02-22",
+      "value": 8000.5
+    },
+    {
+      "date": "2019-02-22",
+      "value": 8000.5
+    },
+    {
+      "date": "2019-02-22",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-10-28",
+      "value": 8000.5
+    }
+  ],
+  "measured": null
+}

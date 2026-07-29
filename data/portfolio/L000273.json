@@ -1,0 +1,37 @@
+{
+  "member": {
+    "bioguideId": "L000273",
+    "name": "Teresa Leger Fernandez",
+    "party": "D",
+    "chamber": "house",
+    "state": "NM",
+    "district": "NM-03",
+    "active": true
+  },
+  "positions": [],
+  "trades": [
+    {
+      "memberId": "L000273",
+      "assetRaw": "Golub Capital BDC, Inc.",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2021-01-20",
+      "filedDate": "2022-12-07",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20011775.pdf",
+      "late": true,
+      "note": "GDBDC Global Capital sold - amount stayed in retirement account",
+      "provenance": "kadoa"
+    }
+  ],
+  "series": [
+    {
+      "date": "2021-01-20",
+      "value": 32500.5
+    }
+  ],
+  "measured": null
+}

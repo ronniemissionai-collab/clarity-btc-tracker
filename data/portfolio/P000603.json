@@ -1,0 +1,37 @@
+{
+  "member": {
+    "bioguideId": "P000603",
+    "lisId": "S348",
+    "name": "Rand Paul",
+    "party": "R",
+    "chamber": "senate",
+    "state": "KY",
+    "active": true
+  },
+  "positions": [],
+  "trades": [
+    {
+      "memberId": "P000603",
+      "assetRaw": "GILD",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2020-02-26",
+      "filedDate": "2021-08-11",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/5407f18e-8faa-4f1e-a8bf-6cf7a2ffe5bd/",
+      "late": true,
+      "provenance": "kadoa"
+    }
+  ],
+  "series": [
+    {
+      "date": "2020-02-26",
+      "value": 8000.5
+    }
+  ],
+  "measured": null
+}

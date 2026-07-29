@@ -1,0 +1,159 @@
+{
+  "member": {
+    "bioguideId": "B000668",
+    "name": "Cliff Bentz",
+    "party": "R",
+    "chamber": "house",
+    "state": "OR",
+    "district": "OR-02",
+    "active": true
+  },
+  "positions": [
+    {
+      "memberId": "B000668",
+      "security": {
+        "ticker": "INTC",
+        "kind": "other"
+      },
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "sold",
+      "asOf": "2026-04-09",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034524.pdf"
+        }
+      ],
+      "note": "sale reported by PTR with no annual baseline in our coverage"
+    }
+  ],
+  "trades": [
+    {
+      "memberId": "B000668",
+      "assetRaw": "Intel Corporation - Common Stock (INTC) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-04-09",
+      "filedDate": "2026-05-09",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034524.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "B000668",
+      "assetRaw": "Amgen Inc. - Common Stock",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-06-06",
+      "filedDate": "2025-07-09",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030646.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "B000668",
+      "assetRaw": "Procter & Gamble Company",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-06-06",
+      "filedDate": "2025-07-09",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030646.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "B000668",
+      "assetRaw": "US Treasury Note 1.25% - Jan 15, 2024 [GS]",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2024-01-16",
+      "filedDate": "2024-02-13",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/20024492.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "B000668",
+      "assetRaw": "US Treasury NT .0125% Note Due 1/15/24 [GS]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2023-04-03",
+      "filedDate": "2023-05-03",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20022850.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "B000668",
+      "assetRaw": "iShares Core US Aggregate Bond ETF [CS]",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 250001,
+        "hi": 500000
+      },
+      "transactionDate": "2022-11-21",
+      "filedDate": "2022-12-07",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20022097.pdf",
+      "late": false,
+      "note": "Sale - IShares Core US Aggregate Bond Fund",
+      "provenance": "kadoa"
+    }
+  ],
+  "series": [
+    {
+      "date": "2022-11-21",
+      "value": 375000.5
+    },
+    {
+      "date": "2023-04-03",
+      "value": 8000.5
+    },
+    {
+      "date": "2024-01-16",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-06-06",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-06-06",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-04-09",
+      "value": 8000.5
+    }
+  ],
+  "measured": null
+}

@@ -1,0 +1,63 @@
+{
+  "member": {
+    "bioguideId": "C001098",
+    "lisId": "S355",
+    "name": "Ted Cruz",
+    "party": "R",
+    "chamber": "senate",
+    "state": "TX",
+    "active": true
+  },
+  "positions": [
+    {
+      "memberId": "C001098",
+      "security": {
+        "ticker": "BTC",
+        "kind": "direct"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "status": "holds",
+      "asOf": "2025-08-13",
+      "extraction": "efd-html",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://efdsearch.senate.gov/search/view/annual/8b455ae7-a24e-462a-95b8-78f7067c0d22/",
+          "title": "Annual Report for CY 2024"
+        }
+      ],
+      "note": "from Annual Report for CY 2024: Bitcoin Exchange/Platform : River Financial Inc"
+    }
+  ],
+  "trades": [
+    {
+      "memberId": "C001098",
+      "assetRaw": "Goldman Sachs Group",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2025-11-11",
+      "filedDate": "2025-11-12",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/4290febc-6042-4538-a193-08a9f941647c/",
+      "late": false,
+      "note": "partial sale",
+      "provenance": "official"
+    }
+  ],
+  "series": [
+    {
+      "date": "2025-11-11",
+      "value": 175000.5
+    }
+  ],
+  "measured": null
+}

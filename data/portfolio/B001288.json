@@ -1,0 +1,304 @@
+{
+  "member": {
+    "bioguideId": "B001288",
+    "lisId": "S370",
+    "name": "Cory A. Booker",
+    "party": "D",
+    "chamber": "senate",
+    "state": "NJ",
+    "active": true
+  },
+  "positions": [
+    {
+      "memberId": "B001288",
+      "security": {
+        "ticker": "NASDAQ",
+        "kind": "other"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "sold",
+      "asOf": "2014-08-08",
+      "extraction": "efd-html",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://efdsearch.senate.gov/search/view/ptr/7abb2400-6528-4f7f-9739-248dfedc3ca2/"
+        }
+      ],
+      "note": "sale reported by PTR with no annual baseline in our coverage"
+    },
+    {
+      "memberId": "B001288",
+      "security": {
+        "ticker": "NYSE",
+        "kind": "other"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "sold",
+      "asOf": "2014-08-08",
+      "extraction": "efd-html",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://efdsearch.senate.gov/search/view/ptr/7abb2400-6528-4f7f-9739-248dfedc3ca2/"
+        }
+      ],
+      "note": "sale reported by PTR with no annual baseline in our coverage"
+    }
+  ],
+  "trades": [
+    {
+      "memberId": "B001288",
+      "assetRaw": "Amazon.com Inc. (NASDAQ)",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2014-08-08",
+      "filedDate": "2014-09-07",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/7abb2400-6528-4f7f-9739-248dfedc3ca2/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "B001288",
+      "assetRaw": "American Tower Corporation (NYSE)",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2014-08-08",
+      "filedDate": "2014-09-07",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/7abb2400-6528-4f7f-9739-248dfedc3ca2/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "B001288",
+      "assetRaw": "Apple Inc. (NASDAQ)",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2014-08-08",
+      "filedDate": "2014-09-07",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/7abb2400-6528-4f7f-9739-248dfedc3ca2/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "B001288",
+      "assetRaw": "Dish Network Corp. (NASDAQ)",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2014-08-08",
+      "filedDate": "2014-09-07",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/7abb2400-6528-4f7f-9739-248dfedc3ca2/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "B001288",
+      "assetRaw": "Facebook, Inc. (NASDAQ)",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2014-08-08",
+      "filedDate": "2014-09-07",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/7abb2400-6528-4f7f-9739-248dfedc3ca2/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "B001288",
+      "assetRaw": "International Business Machines Corporation (NYSE)",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2014-08-08",
+      "filedDate": "2014-09-07",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/7abb2400-6528-4f7f-9739-248dfedc3ca2/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "B001288",
+      "assetRaw": "Iron Mountain Inc. (NYSE)",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2014-08-08",
+      "filedDate": "2014-09-07",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/7abb2400-6528-4f7f-9739-248dfedc3ca2/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "B001288",
+      "assetRaw": "Netflix, Inc. (NASDAQ)",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2014-08-08",
+      "filedDate": "2014-09-07",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/7abb2400-6528-4f7f-9739-248dfedc3ca2/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "B001288",
+      "assetRaw": "Nike, Inc. (NYSE)",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2014-08-08",
+      "filedDate": "2014-09-07",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/7abb2400-6528-4f7f-9739-248dfedc3ca2/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "B001288",
+      "assetRaw": "eBay Inc. (NASDAQ)",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2014-08-08",
+      "filedDate": "2014-09-07",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/7abb2400-6528-4f7f-9739-248dfedc3ca2/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "B001288",
+      "assetRaw": "American Tower Corporation (NYSE)",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2014-04-08",
+      "filedDate": "2014-05-09",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/29d797a6-e3ff-4d76-9ee9-2e3840adb15b/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "B001288",
+      "assetRaw": "Netflix, Inc. (NASDAQ)",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2014-04-08",
+      "filedDate": "2014-05-09",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/29d797a6-e3ff-4d76-9ee9-2e3840adb15b/",
+      "late": false,
+      "provenance": "kadoa"
+    }
+  ],
+  "series": [
+    {
+      "date": "2014-04-08",
+      "value": 32500.5
+    },
+    {
+      "date": "2014-04-08",
+      "value": 32500.5
+    },
+    {
+      "date": "2014-08-08",
+      "value": 8000.5
+    },
+    {
+      "date": "2014-08-08",
+      "value": 75000.5
+    },
+    {
+      "date": "2014-08-08",
+      "value": 8000.5
+    },
+    {
+      "date": "2014-08-08",
+      "value": 8000.5
+    },
+    {
+      "date": "2014-08-08",
+      "value": 8000.5
+    },
+    {
+      "date": "2014-08-08",
+      "value": 8000.5
+    },
+    {
+      "date": "2014-08-08",
+      "value": 8000.5
+    },
+    {
+      "date": "2014-08-08",
+      "value": 32500.5
+    },
+    {
+      "date": "2014-08-08",
+      "value": 8000.5
+    },
+    {
+      "date": "2014-08-08",
+      "value": 8000.5
+    }
+  ],
+  "measured": null
+}

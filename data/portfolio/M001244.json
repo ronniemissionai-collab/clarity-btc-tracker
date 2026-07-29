@@ -1,0 +1,1138 @@
+{
+  "member": {
+    "bioguideId": "M001244",
+    "lisId": "S439",
+    "name": "Ashley Moody",
+    "party": "R",
+    "chamber": "senate",
+    "state": "FL",
+    "active": true
+  },
+  "positions": [
+    {
+      "memberId": "M001244",
+      "security": {
+        "ticker": "TSLA",
+        "kind": "treasury"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "stale",
+      "asOf": "2025-05-21",
+      "extraction": "efd-html",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://efdsearch.senate.gov/search/view/annual/2a8e3a84-ea4e-41c8-8653-1dc74abeade9/",
+          "title": "New Filer Report for 01/21/2025"
+        }
+      ],
+      "note": "from New Filer Report for 01/21/2025: Tesla Inc"
+    }
+  ],
+  "trades": [
+    {
+      "memberId": "M001244",
+      "assetRaw": "ARCC",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2025-04-04",
+      "filedDate": "2025-05-13",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/bc4381fc-d714-45da-be6f-1fa87f2212ba/",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "M001244",
+      "assetRaw": "ET",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2025-04-04",
+      "filedDate": "2025-05-13",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/bc4381fc-d714-45da-be6f-1fa87f2212ba/",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "M001244",
+      "assetRaw": "HWM",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2025-04-04",
+      "filedDate": "2025-05-13",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/bc4381fc-d714-45da-be6f-1fa87f2212ba/",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "M001244",
+      "assetRaw": "JPM",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2025-04-04",
+      "filedDate": "2025-05-13",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/bc4381fc-d714-45da-be6f-1fa87f2212ba/",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "M001244",
+      "assetRaw": "NVDA CALL",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-03-25",
+      "filedDate": "2025-04-20",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/19100e4c-0acb-45fb-9eb3-34ec9460d5e9/",
+      "late": false,
+      "note": "full sale",
+      "provenance": "both"
+    },
+    {
+      "memberId": "M001244",
+      "assetRaw": "SMCI",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2025-03-25",
+      "filedDate": "2025-04-20",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/19100e4c-0acb-45fb-9eb3-34ec9460d5e9/",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "M001244",
+      "assetRaw": "SMCI CALL",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-03-25",
+      "filedDate": "2025-04-20",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/19100e4c-0acb-45fb-9eb3-34ec9460d5e9/",
+      "late": false,
+      "note": "full sale",
+      "provenance": "both"
+    },
+    {
+      "memberId": "M001244",
+      "assetRaw": "SMCI CALL",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-03-25",
+      "filedDate": "2025-04-20",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/19100e4c-0acb-45fb-9eb3-34ec9460d5e9/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001244",
+      "assetRaw": "SMCI PUT",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-03-25",
+      "filedDate": "2025-04-20",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/19100e4c-0acb-45fb-9eb3-34ec9460d5e9/",
+      "late": false,
+      "note": "full sale",
+      "provenance": "both"
+    },
+    {
+      "memberId": "M001244",
+      "assetRaw": "SMCI",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2025-03-24",
+      "filedDate": "2025-04-20",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/19100e4c-0acb-45fb-9eb3-34ec9460d5e9/",
+      "late": false,
+      "note": "partial sale",
+      "provenance": "both"
+    },
+    {
+      "memberId": "M001244",
+      "assetRaw": "NVDA",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2025-03-21",
+      "filedDate": "2025-04-20",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/19100e4c-0acb-45fb-9eb3-34ec9460d5e9/",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "M001244",
+      "assetRaw": "NVDA",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2025-03-20",
+      "filedDate": "2025-04-20",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/19100e4c-0acb-45fb-9eb3-34ec9460d5e9/",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "M001244",
+      "assetRaw": "LLY",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2025-03-06",
+      "filedDate": "2025-03-22",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/376521e5-ad5e-44ec-8bd4-63847da2e049/",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "M001244",
+      "assetRaw": "AMAT CALL",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-02-24",
+      "filedDate": "2025-03-22",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/376521e5-ad5e-44ec-8bd4-63847da2e049/",
+      "late": false,
+      "note": "full sale",
+      "provenance": "both"
+    },
+    {
+      "memberId": "M001244",
+      "assetRaw": "AMD",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2025-02-24",
+      "filedDate": "2025-03-22",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/376521e5-ad5e-44ec-8bd4-63847da2e049/",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "M001244",
+      "assetRaw": "ARDX CALL",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-02-24",
+      "filedDate": "2025-03-22",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/376521e5-ad5e-44ec-8bd4-63847da2e049/",
+      "late": false,
+      "note": "full sale",
+      "provenance": "both"
+    },
+    {
+      "memberId": "M001244",
+      "assetRaw": "ASML",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2025-02-24",
+      "filedDate": "2025-03-22",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/376521e5-ad5e-44ec-8bd4-63847da2e049/",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "M001244",
+      "assetRaw": "ASML CALL",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-02-24",
+      "filedDate": "2025-03-22",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/376521e5-ad5e-44ec-8bd4-63847da2e049/",
+      "late": false,
+      "note": "full sale",
+      "provenance": "both"
+    },
+    {
+      "memberId": "M001244",
+      "assetRaw": "CCL PUT",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-02-24",
+      "filedDate": "2025-03-22",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/376521e5-ad5e-44ec-8bd4-63847da2e049/",
+      "late": false,
+      "note": "full sale",
+      "provenance": "both"
+    },
+    {
+      "memberId": "M001244",
+      "assetRaw": "CRSP CALL",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-02-24",
+      "filedDate": "2025-03-22",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/376521e5-ad5e-44ec-8bd4-63847da2e049/",
+      "late": false,
+      "note": "full sale",
+      "provenance": "both"
+    },
+    {
+      "memberId": "M001244",
+      "assetRaw": "CRWD PUT",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-02-24",
+      "filedDate": "2025-03-22",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/376521e5-ad5e-44ec-8bd4-63847da2e049/",
+      "late": false,
+      "note": "full sale",
+      "provenance": "both"
+    },
+    {
+      "memberId": "M001244",
+      "assetRaw": "GENI",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-02-24",
+      "filedDate": "2025-03-22",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/376521e5-ad5e-44ec-8bd4-63847da2e049/",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "M001244",
+      "assetRaw": "HWM",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2025-02-24",
+      "filedDate": "2025-03-22",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/376521e5-ad5e-44ec-8bd4-63847da2e049/",
+      "late": false,
+      "note": "full sale",
+      "provenance": "both"
+    },
+    {
+      "memberId": "M001244",
+      "assetRaw": "NCLH CALL",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-02-24",
+      "filedDate": "2025-03-22",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/376521e5-ad5e-44ec-8bd4-63847da2e049/",
+      "late": false,
+      "note": "full sale",
+      "provenance": "both"
+    },
+    {
+      "memberId": "M001244",
+      "assetRaw": "OKTA PUT",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-02-24",
+      "filedDate": "2025-03-22",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/376521e5-ad5e-44ec-8bd4-63847da2e049/",
+      "late": false,
+      "note": "full sale",
+      "provenance": "both"
+    },
+    {
+      "memberId": "M001244",
+      "assetRaw": "QQQ M CALL",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-02-24",
+      "filedDate": "2025-03-22",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/376521e5-ad5e-44ec-8bd4-63847da2e049/",
+      "late": false,
+      "note": "full sale",
+      "provenance": "both"
+    },
+    {
+      "memberId": "M001244",
+      "assetRaw": "SMCI",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2025-02-24",
+      "filedDate": "2025-03-22",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/376521e5-ad5e-44ec-8bd4-63847da2e049/",
+      "late": false,
+      "note": "partial sale",
+      "provenance": "both"
+    },
+    {
+      "memberId": "M001244",
+      "assetRaw": "SMCI",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2025-02-24",
+      "filedDate": "2025-03-22",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/376521e5-ad5e-44ec-8bd4-63847da2e049/",
+      "late": false,
+      "note": "partial sale",
+      "provenance": "both"
+    },
+    {
+      "memberId": "M001244",
+      "assetRaw": "SYM CALL",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-02-24",
+      "filedDate": "2025-03-22",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/376521e5-ad5e-44ec-8bd4-63847da2e049/",
+      "late": false,
+      "note": "full sale",
+      "provenance": "both"
+    },
+    {
+      "memberId": "M001244",
+      "assetRaw": "TFC CALL",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-02-24",
+      "filedDate": "2025-03-22",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/376521e5-ad5e-44ec-8bd4-63847da2e049/",
+      "late": false,
+      "note": "full sale",
+      "provenance": "both"
+    },
+    {
+      "memberId": "M001244",
+      "assetRaw": "WYNN CALL",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-02-24",
+      "filedDate": "2025-03-22",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/376521e5-ad5e-44ec-8bd4-63847da2e049/",
+      "late": false,
+      "note": "full sale",
+      "provenance": "both"
+    },
+    {
+      "memberId": "M001244",
+      "assetRaw": "ADCT",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-02-20",
+      "filedDate": "2025-03-22",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/376521e5-ad5e-44ec-8bd4-63847da2e049/",
+      "late": false,
+      "note": "full sale",
+      "provenance": "both"
+    },
+    {
+      "memberId": "M001244",
+      "assetRaw": "DM",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-02-20",
+      "filedDate": "2025-03-22",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/376521e5-ad5e-44ec-8bd4-63847da2e049/",
+      "late": false,
+      "note": "full sale",
+      "provenance": "both"
+    },
+    {
+      "memberId": "M001244",
+      "assetRaw": "KPTI",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-02-20",
+      "filedDate": "2025-03-22",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/376521e5-ad5e-44ec-8bd4-63847da2e049/",
+      "late": false,
+      "note": "full sale",
+      "provenance": "both"
+    },
+    {
+      "memberId": "M001244",
+      "assetRaw": "AMAT",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2025-01-27",
+      "filedDate": "2025-02-21",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/5e2160d6-9770-4c7b-b65e-9b7794043d25/",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "M001244",
+      "assetRaw": "AMAT CALL",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-01-27",
+      "filedDate": "2025-02-21",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/5e2160d6-9770-4c7b-b65e-9b7794043d25/",
+      "late": false,
+      "note": "full sale",
+      "provenance": "both"
+    },
+    {
+      "memberId": "M001244",
+      "assetRaw": "AMAT PUT",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-01-27",
+      "filedDate": "2025-02-21",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/5e2160d6-9770-4c7b-b65e-9b7794043d25/",
+      "late": false,
+      "note": "full sale",
+      "provenance": "both"
+    },
+    {
+      "memberId": "M001244",
+      "assetRaw": "NCLH CALL",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-01-27",
+      "filedDate": "2025-02-21",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/5e2160d6-9770-4c7b-b65e-9b7794043d25/",
+      "late": false,
+      "note": "full sale",
+      "provenance": "both"
+    },
+    {
+      "memberId": "M001244",
+      "assetRaw": "NVDA PUT",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-01-27",
+      "filedDate": "2025-02-21",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/5e2160d6-9770-4c7b-b65e-9b7794043d25/",
+      "late": false,
+      "note": "full sale",
+      "provenance": "both"
+    },
+    {
+      "memberId": "M001244",
+      "assetRaw": "DELL CALL",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-01-23",
+      "filedDate": "2025-02-21",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/5e2160d6-9770-4c7b-b65e-9b7794043d25/",
+      "late": false,
+      "note": "full sale",
+      "provenance": "both"
+    },
+    {
+      "memberId": "M001244",
+      "assetRaw": "AMAT CALL",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-01-22",
+      "filedDate": "2025-02-21",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/5e2160d6-9770-4c7b-b65e-9b7794043d25/",
+      "late": false,
+      "note": "full sale",
+      "provenance": "both"
+    },
+    {
+      "memberId": "M001244",
+      "assetRaw": "AMD CALL",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-01-22",
+      "filedDate": "2025-02-21",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/5e2160d6-9770-4c7b-b65e-9b7794043d25/",
+      "late": false,
+      "note": "full sale",
+      "provenance": "both"
+    },
+    {
+      "memberId": "M001244",
+      "assetRaw": "Applied Materials",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2025-01-22",
+      "filedDate": "2025-02-21",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/5e2160d6-9770-4c7b-b65e-9b7794043d25/",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "M001244",
+      "assetRaw": "CCL CALL",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-01-22",
+      "filedDate": "2025-02-21",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/5e2160d6-9770-4c7b-b65e-9b7794043d25/",
+      "late": false,
+      "note": "full sale",
+      "provenance": "both"
+    },
+    {
+      "memberId": "M001244",
+      "assetRaw": "HWM CALL",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-01-22",
+      "filedDate": "2025-02-21",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/5e2160d6-9770-4c7b-b65e-9b7794043d25/",
+      "late": false,
+      "note": "full sale",
+      "provenance": "both"
+    },
+    {
+      "memberId": "M001244",
+      "assetRaw": "Howmet Aerospace Inc",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2025-01-22",
+      "filedDate": "2025-02-21",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/5e2160d6-9770-4c7b-b65e-9b7794043d25/",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "M001244",
+      "assetRaw": "MU CALL",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-01-22",
+      "filedDate": "2025-02-21",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/5e2160d6-9770-4c7b-b65e-9b7794043d25/",
+      "late": false,
+      "note": "full sale",
+      "provenance": "both"
+    },
+    {
+      "memberId": "M001244",
+      "assetRaw": "Micron Technology",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2025-01-22",
+      "filedDate": "2025-02-21",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/5e2160d6-9770-4c7b-b65e-9b7794043d25/",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "M001244",
+      "assetRaw": "NVDA PUT",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-01-22",
+      "filedDate": "2025-02-21",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/5e2160d6-9770-4c7b-b65e-9b7794043d25/",
+      "late": false,
+      "note": "full sale",
+      "provenance": "both"
+    },
+    {
+      "memberId": "M001244",
+      "assetRaw": "SMCI CALL",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-01-22",
+      "filedDate": "2025-02-21",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/5e2160d6-9770-4c7b-b65e-9b7794043d25/",
+      "late": false,
+      "note": "full sale",
+      "provenance": "both"
+    },
+    {
+      "memberId": "M001244",
+      "assetRaw": "SMCI PUT",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-01-22",
+      "filedDate": "2025-02-21",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/5e2160d6-9770-4c7b-b65e-9b7794043d25/",
+      "late": false,
+      "note": "full sale",
+      "provenance": "both"
+    },
+    {
+      "memberId": "M001244",
+      "assetRaw": "AMAT",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2025-01-21",
+      "filedDate": "2025-02-21",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/5e2160d6-9770-4c7b-b65e-9b7794043d25/",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "M001244",
+      "assetRaw": "Okta Inc Cl A",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2025-01-21",
+      "filedDate": "2025-02-21",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/5e2160d6-9770-4c7b-b65e-9b7794043d25/",
+      "late": false,
+      "note": "full sale",
+      "provenance": "both"
+    }
+  ],
+  "series": [
+    {
+      "date": "2025-01-21",
+      "value": 175000.5
+    },
+    {
+      "date": "2025-01-21",
+      "value": 75000.5
+    },
+    {
+      "date": "2025-01-22",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-01-22",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-01-22",
+      "value": 175000.5
+    },
+    {
+      "date": "2025-01-22",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-01-22",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-01-22",
+      "value": 75000.5
+    },
+    {
+      "date": "2025-01-22",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-01-22",
+      "value": 75000.5
+    },
+    {
+      "date": "2025-01-22",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-01-22",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-01-22",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-01-23",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-01-27",
+      "value": 175000.5
+    },
+    {
+      "date": "2025-01-27",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-01-27",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-01-27",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-01-27",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-02-20",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-02-20",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-02-20",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-02-24",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-02-24",
+      "value": 175000.5
+    },
+    {
+      "date": "2025-02-24",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-02-24",
+      "value": 75000.5
+    },
+    {
+      "date": "2025-02-24",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-02-24",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-02-24",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-02-24",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-02-24",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-02-24",
+      "value": 75000.5
+    },
+    {
+      "date": "2025-02-24",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-02-24",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-02-24",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-02-24",
+      "value": 32500.5
+    },
+    {
+      "date": "2025-02-24",
+      "value": 75000.5
+    },
+    {
+      "date": "2025-02-24",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-02-24",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-02-24",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-03-06",
+      "value": 175000.5
+    },
+    {
+      "date": "2025-03-20",
+      "value": 175000.5
+    },
+    {
+      "date": "2025-03-21",
+      "value": 32500.5
+    },
+    {
+      "date": "2025-03-24",
+      "value": 32500.5
+    },
+    {
+      "date": "2025-03-25",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-03-25",
+      "value": 175000.5
+    },
+    {
+      "date": "2025-03-25",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-03-25",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-03-25",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-04-04",
+      "value": 32500.5
+    },
+    {
+      "date": "2025-04-04",
+      "value": 32500.5
+    },
+    {
+      "date": "2025-04-04",
+      "value": 32500.5
+    },
+    {
+      "date": "2025-04-04",
+      "value": 32500.5
+    }
+  ],
+  "measured": null
+}

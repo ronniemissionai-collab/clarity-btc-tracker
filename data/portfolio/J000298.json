@@ -1,0 +1,61 @@
+{
+  "member": {
+    "bioguideId": "J000298",
+    "name": "Pramila Jayapal",
+    "party": "D",
+    "chamber": "house",
+    "state": "WA",
+    "district": "WA-07",
+    "active": true
+  },
+  "positions": [
+    {
+      "memberId": "J000298",
+      "security": {
+        "ticker": "NWL",
+        "kind": "other"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "sold",
+      "asOf": "2023-10-31",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034160.pdf"
+        }
+      ],
+      "note": "sale reported by PTR with no annual baseline in our coverage"
+    }
+  ],
+  "trades": [
+    {
+      "memberId": "J000298",
+      "assetRaw": "Newell Brands Inc. (NWL) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2023-10-31",
+      "filedDate": "2026-03-15",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034160.pdf",
+      "late": true,
+      "provenance": "both"
+    }
+  ],
+  "series": [
+    {
+      "date": "2023-10-31",
+      "value": 8000.5
+    }
+  ],
+  "measured": null
+}

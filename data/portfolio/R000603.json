@@ -1,0 +1,405 @@
+{
+  "member": {
+    "bioguideId": "R000603",
+    "name": "David Rouzer",
+    "party": "R",
+    "chamber": "house",
+    "state": "NC",
+    "district": "NC-07",
+    "active": true
+  },
+  "positions": [
+    {
+      "memberId": "R000603",
+      "security": {
+        "ticker": "BA",
+        "kind": "other"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "sold",
+      "asOf": "2025-12-09",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033758.pdf"
+        }
+      ],
+      "note": "sale reported by PTR with no annual baseline in our coverage"
+    }
+  ],
+  "trades": [
+    {
+      "memberId": "R000603",
+      "assetRaw": "2000152831 Boeing Company (BA) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-12-09",
+      "filedDate": "2026-01-07",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033759.pdf",
+      "late": false,
+      "provenance": "official"
+    },
+    {
+      "memberId": "R000603",
+      "assetRaw": "2000152831Boeing Company",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-12-09",
+      "filedDate": "2026-01-07",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033759.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000603",
+      "assetRaw": "Boeing Company (BA) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-12-09",
+      "filedDate": "2026-01-07",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033758.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "R000603",
+      "assetRaw": "Pinterest, Inc. Class A",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-01-14",
+      "filedDate": "2022-01-17",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020237.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000603",
+      "assetRaw": "Avantax Investment Services Main Street Capital Corporation",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2021-11-15",
+      "filedDate": "2021-12-13",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20020006.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000603",
+      "assetRaw": "Avantax Investment Services berkshire Hathaway Inc. New (bRK.b) [ST]",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-11-15",
+      "filedDate": "2021-12-13",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20020006.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000603",
+      "assetRaw": "berkshire Hathaway Inc. New (bRK.b) [ST]",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-11-15",
+      "filedDate": "2021-12-13",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20020006.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000603",
+      "assetRaw": "Altria Group, Inc.",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-08-19",
+      "filedDate": "2021-08-30",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019395.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000603",
+      "assetRaw": "NVIDIA Corporation",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-07-20",
+      "filedDate": "2021-08-12",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019312.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000603",
+      "assetRaw": "DR Select Sector Fund - Financial",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2020-09-02",
+      "filedDate": "2020-09-28",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20017436.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000603",
+      "assetRaw": "Altria Group, Inc.",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2020-08-27",
+      "filedDate": "2020-09-28",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20017436.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000603",
+      "assetRaw": "Pinterest, Inc. Class A",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2020-04-22",
+      "filedDate": "2020-05-13",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20016593.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000603",
+      "assetRaw": "TD WATERHOUSE CLEARING U.S. Global Jets ETF",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2020-04-14",
+      "filedDate": "2020-05-13",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20016593.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000603",
+      "assetRaw": "TD WATERHOUSE CLEARING NVIDIA Corporation",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2020-02-21",
+      "filedDate": "2020-02-27",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20016128.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000603",
+      "assetRaw": "Amazon.com, Inc.",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2020-01-31",
+      "filedDate": "2020-02-27",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20016128.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000603",
+      "assetRaw": "1ST GLOBAL RESEARCH & CONSULTING DESCRIPTION: American Funds portfolio sold (Rollover IRA) Eaton Vance Tax-Managed Global Diversified Equity Income Fund Eaton Vance Tax-Managed Global Diversified Equity Income Fund Common Shares of Beneficial Interest",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2019-02-28",
+      "filedDate": "2019-07-26",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20012062.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000603",
+      "assetRaw": "1ST GLOBAL RESEARCH & CONSULTING DESCRIPTION: American Funds portfolio sold (Rollover IRA) Main Street Capital Corporation",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2019-02-28",
+      "filedDate": "2019-07-26",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20012062.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000603",
+      "assetRaw": "1ST GLOBAL RESEARCH & CONSULTING DESCRIPTION: American Funds portfolio sold (Rollover IRA) Eaton Vance Tax-Managed Global Diversified Equity Income Fund Eaton Vance Tax-Managed Global Diversified Equity Income Fund Common Shares of Beneficial Interest",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2019-01-14",
+      "filedDate": "2019-07-26",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20012062.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000603",
+      "assetRaw": "Berkshire Hathaway Inc. New",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2019-01-04",
+      "filedDate": "2019-07-26",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20012062.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    }
+  ],
+  "series": [
+    {
+      "date": "2019-01-04",
+      "value": 8000.5
+    },
+    {
+      "date": "2019-01-14",
+      "value": 8000.5
+    },
+    {
+      "date": "2019-02-28",
+      "value": 8000.5
+    },
+    {
+      "date": "2019-02-28",
+      "value": 8000.5
+    },
+    {
+      "date": "2020-01-31",
+      "value": 8000.5
+    },
+    {
+      "date": "2020-02-21",
+      "value": 8000.5
+    },
+    {
+      "date": "2020-04-14",
+      "value": 8000.5
+    },
+    {
+      "date": "2020-04-22",
+      "value": 8000.5
+    },
+    {
+      "date": "2020-08-27",
+      "value": 8000.5
+    },
+    {
+      "date": "2020-09-02",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-07-20",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-08-19",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-11-15",
+      "value": 32500.5
+    },
+    {
+      "date": "2021-11-15",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-11-15",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-01-14",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-12-09",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-12-09",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-12-09",
+      "value": 8000.5
+    }
+  ],
+  "measured": null
+}

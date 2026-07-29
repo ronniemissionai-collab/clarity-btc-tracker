@@ -1,0 +1,2552 @@
+{
+  "member": {
+    "bioguideId": "K000383",
+    "lisId": "S363",
+    "name": "Angus S. King, Jr.",
+    "party": "I",
+    "chamber": "senate",
+    "state": "ME",
+    "active": true
+  },
+  "positions": [
+    {
+      "memberId": "K000383",
+      "security": {
+        "ticker": "NASDAQ",
+        "kind": "other"
+      },
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "sold",
+      "asOf": "2014-04-28",
+      "extraction": "efd-html",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://efdsearch.senate.gov/search/view/ptr/f1c4bb82-2e7a-481f-afbd-9ac932f02844/"
+        }
+      ],
+      "note": "sale reported by PTR with no annual baseline in our coverage"
+    },
+    {
+      "memberId": "K000383",
+      "security": {
+        "ticker": "NYSE",
+        "kind": "other"
+      },
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "sold",
+      "asOf": "2014-11-10",
+      "extraction": "efd-html",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://efdsearch.senate.gov/search/view/ptr/c57b3fd9-3bbd-4f31-8904-9a517aaf43d9/"
+        }
+      ],
+      "note": "sale reported by PTR with no annual baseline in our coverage"
+    }
+  ],
+  "trades": [
+    {
+      "memberId": "K000383",
+      "assetRaw": "Autodesk, Inc. - Common Stock",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-02-13",
+      "filedDate": "2026-03-24",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/09b9c1ed-1d73-4f17-b6f8-7b2d92021c5b/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000383",
+      "assetRaw": "Blackstone Inc. Common Stock",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-02-13",
+      "filedDate": "2026-03-24",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/09b9c1ed-1d73-4f17-b6f8-7b2d92021c5b/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000383",
+      "assetRaw": "Eli Lilly and Company Common Stock",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-02-13",
+      "filedDate": "2026-03-24",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/09b9c1ed-1d73-4f17-b6f8-7b2d92021c5b/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000383",
+      "assetRaw": "Meta Platforms, Inc. - Class A Common Stock",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-02-13",
+      "filedDate": "2026-03-24",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/09b9c1ed-1d73-4f17-b6f8-7b2d92021c5b/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000383",
+      "assetRaw": "Microsoft Corporation - Common Stock",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-02-13",
+      "filedDate": "2026-03-24",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/09b9c1ed-1d73-4f17-b6f8-7b2d92021c5b/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000383",
+      "assetRaw": "Netflix, Inc. - Common Stock",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-02-13",
+      "filedDate": "2026-03-24",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/09b9c1ed-1d73-4f17-b6f8-7b2d92021c5b/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000383",
+      "assetRaw": "On Holding AG Class A Ordinary Shares",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-02-13",
+      "filedDate": "2026-03-24",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/09b9c1ed-1d73-4f17-b6f8-7b2d92021c5b/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000383",
+      "assetRaw": "PayPal Holdings, Inc. - Common Stock",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-02-13",
+      "filedDate": "2026-03-24",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/09b9c1ed-1d73-4f17-b6f8-7b2d92021c5b/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000383",
+      "assetRaw": "Uber Technologies, Inc. Common Stock",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-02-13",
+      "filedDate": "2026-03-24",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/09b9c1ed-1d73-4f17-b6f8-7b2d92021c5b/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000383",
+      "assetRaw": "Comcast Corp A",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-12-29",
+      "filedDate": "2026-01-26",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/d7cae837-f73c-4eb1-b9fb-e510f53d65de/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000383",
+      "assetRaw": "Eli Lilly and Company",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-12-29",
+      "filedDate": "2026-01-26",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/d7cae837-f73c-4eb1-b9fb-e510f53d65de/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000383",
+      "assetRaw": "Honeywell International Inc",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-12-29",
+      "filedDate": "2026-01-26",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/d7cae837-f73c-4eb1-b9fb-e510f53d65de/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000383",
+      "assetRaw": "Advanced Micro Devices, Inc. - Common Stock",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-07-21",
+      "filedDate": "2025-08-18",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/218c16a3-d408-4cc0-aa89-08730d05dfc3/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000383",
+      "assetRaw": "Alphabet Inc. - Class A Common Stock",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-07-21",
+      "filedDate": "2025-08-18",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/218c16a3-d408-4cc0-aa89-08730d05dfc3/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000383",
+      "assetRaw": "Applied Materials, Inc. - Common Stock",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-07-21",
+      "filedDate": "2025-08-18",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/218c16a3-d408-4cc0-aa89-08730d05dfc3/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000383",
+      "assetRaw": "Arista Networks Inc",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-07-21",
+      "filedDate": "2025-08-18",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/218c16a3-d408-4cc0-aa89-08730d05dfc3/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000383",
+      "assetRaw": "Autodesk Inc",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-07-21",
+      "filedDate": "2025-08-18",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/218c16a3-d408-4cc0-aa89-08730d05dfc3/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000383",
+      "assetRaw": "Bank of America Corp",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-07-21",
+      "filedDate": "2025-08-18",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/218c16a3-d408-4cc0-aa89-08730d05dfc3/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000383",
+      "assetRaw": "Blackstone Inc",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-07-21",
+      "filedDate": "2025-08-18",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/218c16a3-d408-4cc0-aa89-08730d05dfc3/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000383",
+      "assetRaw": "Exxon Mobil Corp",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-07-21",
+      "filedDate": "2025-08-18",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/218c16a3-d408-4cc0-aa89-08730d05dfc3/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000383",
+      "assetRaw": "JP Morgan Chase & Company",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-07-21",
+      "filedDate": "2025-08-18",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/218c16a3-d408-4cc0-aa89-08730d05dfc3/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000383",
+      "assetRaw": "Kirby Corp",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-07-21",
+      "filedDate": "2025-08-18",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/218c16a3-d408-4cc0-aa89-08730d05dfc3/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000383",
+      "assetRaw": "Lowe's Companies, Inc. Common Stock",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-07-21",
+      "filedDate": "2025-08-18",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/218c16a3-d408-4cc0-aa89-08730d05dfc3/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000383",
+      "assetRaw": "Marvell Technology Inc",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-07-21",
+      "filedDate": "2025-08-18",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/218c16a3-d408-4cc0-aa89-08730d05dfc3/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000383",
+      "assetRaw": "Meta Platforms Inc",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-07-21",
+      "filedDate": "2025-08-18",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/218c16a3-d408-4cc0-aa89-08730d05dfc3/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000383",
+      "assetRaw": "Microsoft Corp",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-07-21",
+      "filedDate": "2025-08-18",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/218c16a3-d408-4cc0-aa89-08730d05dfc3/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000383",
+      "assetRaw": "Netflix Inc",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-07-21",
+      "filedDate": "2025-08-18",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/218c16a3-d408-4cc0-aa89-08730d05dfc3/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000383",
+      "assetRaw": "Nvidia Corp",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-07-21",
+      "filedDate": "2025-08-18",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/218c16a3-d408-4cc0-aa89-08730d05dfc3/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000383",
+      "assetRaw": "On Holding AG Class A Ordinary Shares",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-07-21",
+      "filedDate": "2025-08-18",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/218c16a3-d408-4cc0-aa89-08730d05dfc3/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000383",
+      "assetRaw": "PayPal Holdings, Inc. - Common Stock",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-07-21",
+      "filedDate": "2025-08-18",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/218c16a3-d408-4cc0-aa89-08730d05dfc3/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000383",
+      "assetRaw": "Quanta Services, Inc. Common Stock",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-07-21",
+      "filedDate": "2025-08-18",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/218c16a3-d408-4cc0-aa89-08730d05dfc3/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000383",
+      "assetRaw": "Thermo Fisher Scientific Inc",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-07-21",
+      "filedDate": "2025-08-18",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/218c16a3-d408-4cc0-aa89-08730d05dfc3/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000383",
+      "assetRaw": "Uber Technologies Inc",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-07-21",
+      "filedDate": "2025-08-18",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/218c16a3-d408-4cc0-aa89-08730d05dfc3/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000383",
+      "assetRaw": "Vertiv Holdings, LLC Class A Common Stock",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-07-21",
+      "filedDate": "2025-08-18",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/218c16a3-d408-4cc0-aa89-08730d05dfc3/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000383",
+      "assetRaw": "Unitedhealth Group Inc",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-07-15",
+      "filedDate": "2025-08-18",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/218c16a3-d408-4cc0-aa89-08730d05dfc3/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000383",
+      "assetRaw": "MAINE ST TURNPIKE AUTH RE REV BOND\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 4.00 Matures: 07/01/2031",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2025-07-14",
+      "filedDate": "2025-08-18",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/218c16a3-d408-4cc0-aa89-08730d05dfc3/",
+      "late": false,
+      "note": "PRE-REFUNDED / CALLED",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000383",
+      "assetRaw": "MAINE ST TURNPIKE AUTH SP BOND\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 3.00 Matures: 07/01/2026",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2025-07-14",
+      "filedDate": "2025-08-18",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/218c16a3-d408-4cc0-aa89-08730d05dfc3/",
+      "late": false,
+      "note": "PRE-REFUNDED/CALLED",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000383",
+      "assetRaw": "Verizon Communications Inc",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2024-03-07",
+      "filedDate": "2024-04-17",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/6b0c6fa8-5f02-4b79-92da-1cb309377091/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000383",
+      "assetRaw": "Electronic Arts Inc",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2023-12-27",
+      "filedDate": "2024-01-16",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/750f4fe2-9632-4d95-b6e2-2248e29983d8/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000383",
+      "assetRaw": "Verizon Communications Inc",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2023-12-27",
+      "filedDate": "2024-01-16",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/750f4fe2-9632-4d95-b6e2-2248e29983d8/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000383",
+      "assetRaw": "MAINE STATE HSG AUTH REV\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 1.95% Matures: 11/15/2023",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2023-11-10",
+      "filedDate": "2024-01-02",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/02954bb2-1254-4cb1-b369-7a9f82a41dd0/",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000383",
+      "assetRaw": "MUNI BOND ORONO ME\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 3.00% Matures: 11/1/2024",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2023-11-01",
+      "filedDate": "2024-01-02",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/02954bb2-1254-4cb1-b369-7a9f82a41dd0/",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000383",
+      "assetRaw": "MAINE ST TPK AUTH RE REV BOND\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 4.0% Matures: 07/01/2031",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2023-10-23",
+      "filedDate": "2023-11-28",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/1243bbc1-0185-4ede-a8e9-c15ab2b709ac/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000383",
+      "assetRaw": "3M Company Common Stock",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2023-05-19",
+      "filedDate": "2023-06-20",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/0165d493-3c0e-4404-a4f0-dd99c1f95160/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000383",
+      "assetRaw": "U.S. Bancorp Common Stock",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2023-03-20",
+      "filedDate": "2023-04-13",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/39cfdfe3-cf60-434e-ade7-953741614120/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000383",
+      "assetRaw": "Electronic Arts Inc. - Common Stock",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-12-21",
+      "filedDate": "2023-01-18",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/c858ddd7-3c52-4ecb-9d0f-27ae2899d9dd/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000383",
+      "assetRaw": "Adobe Inc. - Common Stock",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-12-19",
+      "filedDate": "2023-01-18",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/c858ddd7-3c52-4ecb-9d0f-27ae2899d9dd/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000383",
+      "assetRaw": "Adobe Inc.",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-06-24",
+      "filedDate": "2021-07-28",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/ebdeed3c-9789-4bae-acc4-298448c28344/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000383",
+      "assetRaw": "Thermo Fisher Scientific Inc.",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-06-24",
+      "filedDate": "2021-07-28",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/ebdeed3c-9789-4bae-acc4-298448c28344/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000383",
+      "assetRaw": "MAINE ST HSG AUTH REV BOND\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 1.70% Matures: 11/15/2021",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2021-06-10",
+      "filedDate": "2021-07-28",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/ebdeed3c-9789-4bae-acc4-298448c28344/",
+      "late": true,
+      "note": "REDEMPTION \"CALLED\"",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000383",
+      "assetRaw": "MAINE STATE HSG AUTH REV\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 2.60% Matures: 11/15/2022",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2020-09-28",
+      "filedDate": "2020-10-07",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/9054bb2c-2d54-4ea8-adef-f982a54ecd7a/",
+      "late": false,
+      "note": "REDEMPTION \"CALLED\"",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000383",
+      "assetRaw": "ConocoPhillips",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2020-08-18",
+      "filedDate": "2020-09-16",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/1de8728d-7085-4ddc-8275-d10d2684ff60/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000383",
+      "assetRaw": "Exxon Mobil Corporation",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2020-08-18",
+      "filedDate": "2020-09-16",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/1de8728d-7085-4ddc-8275-d10d2684ff60/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000383",
+      "assetRaw": "Schlumberger Limited",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2020-08-18",
+      "filedDate": "2020-09-16",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/1de8728d-7085-4ddc-8275-d10d2684ff60/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000383",
+      "assetRaw": "Verizon Communications Inc.",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2020-08-18",
+      "filedDate": "2020-09-16",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/1de8728d-7085-4ddc-8275-d10d2684ff60/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000383",
+      "assetRaw": "Essential Utilities, Inc.",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2020-03-05",
+      "filedDate": "2020-04-22",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/c4cd5932-d6d6-49b1-a149-f3d0ec8333ef/",
+      "late": true,
+      "note": "WTR-Aqua America, Inc name change to WTRG-Essential Utilities, Inc on 2/3/2020.",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000383",
+      "assetRaw": "ME Muni Bond Waterville ME GO\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 2.0% Matures: 10/01/2023",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2019-09-10",
+      "filedDate": "2019-10-21",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/aae3bfc5-4f9c-4f5d-abf9-2128847ebcab/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000383",
+      "assetRaw": "Comcast Corporation",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2019-07-23",
+      "filedDate": "2019-08-26",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/585f17d0-8851-4a92-8e8f-8ccf71dc7b1c/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000383",
+      "assetRaw": "Waters Corporation",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2019-07-23",
+      "filedDate": "2019-08-26",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/585f17d0-8851-4a92-8e8f-8ccf71dc7b1c/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000383",
+      "assetRaw": "MAINE ST HSG AUTH REV BOND\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 1.70% Matures: 11/15/2021",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2019-05-16",
+      "filedDate": "2019-06-17",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/8b901467-872e-4963-96fa-a5cef2760fa2/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000383",
+      "assetRaw": "Amazon.com, Inc.",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2019-01-31",
+      "filedDate": "2019-02-26",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/90e20076-4d79-4ee1-a5dd-eaec71eae17a/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000383",
+      "assetRaw": "American Express Company",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2019-01-10",
+      "filedDate": "2019-02-26",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/90e20076-4d79-4ee1-a5dd-eaec71eae17a/",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000383",
+      "assetRaw": "McCormick & Company, Incorporated",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2019-01-10",
+      "filedDate": "2019-02-26",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/90e20076-4d79-4ee1-a5dd-eaec71eae17a/",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000383",
+      "assetRaw": "United Technologies Corporation",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2019-01-10",
+      "filedDate": "2019-02-26",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/90e20076-4d79-4ee1-a5dd-eaec71eae17a/",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000383",
+      "assetRaw": "Schlumberger Limited",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2018-10-17",
+      "filedDate": "2018-11-26",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/a31f4ed9-2215-4833-9a19-1a30db5a65c5/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000383",
+      "assetRaw": "Chubb Limited",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2018-08-28",
+      "filedDate": "2018-09-14",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/c2322abd-2a34-4d51-afb5-d40c60b79262/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000383",
+      "assetRaw": "NIKE, Inc.",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2018-08-28",
+      "filedDate": "2018-09-14",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/c2322abd-2a34-4d51-afb5-d40c60b79262/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000383",
+      "assetRaw": "Gilead Sciences, Inc.",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2018-04-23",
+      "filedDate": "2018-05-22",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/01cec9aa-793e-407f-9186-4c48160e5278/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000383",
+      "assetRaw": "MAINE ST HSG AUTH BOND\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 4.0% Matures: 11/15/2028",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2018-03-12",
+      "filedDate": "2018-04-16",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/5c15668a-97a0-4959-896a-3d4b5baf7954/",
+      "late": false,
+      "note": "REDEMPTION \"CALLED\"",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000383",
+      "assetRaw": "MAINE STATE HSG AUTH\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 2.25% Matures: 11/15/2024",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2017-12-05",
+      "filedDate": "2018-01-22",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/6b243106-441e-4811-bdb5-067dfee76697/",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000383",
+      "assetRaw": "MAINE STATE HSG AUTH\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 2.45% Matures: 11/15/2025",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2017-12-05",
+      "filedDate": "2018-01-22",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/6b243106-441e-4811-bdb5-067dfee76697/",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000383",
+      "assetRaw": "ConocoPhillips",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-11-28",
+      "filedDate": "2017-12-20",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/8c37c970-7a72-4821-b02d-bbaef57875dd/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000383",
+      "assetRaw": "Schlumberger Limited",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-11-28",
+      "filedDate": "2017-12-20",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/8c37c970-7a72-4821-b02d-bbaef57875dd/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000383",
+      "assetRaw": "The Procter & Gamble Company",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-11-17",
+      "filedDate": "2017-12-20",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/8c37c970-7a72-4821-b02d-bbaef57875dd/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000383",
+      "assetRaw": "Novartis AG",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-11-10",
+      "filedDate": "2017-12-20",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/8c37c970-7a72-4821-b02d-bbaef57875dd/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000383",
+      "assetRaw": "Cisco Systems, Inc.",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-10-19",
+      "filedDate": "2017-11-13",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/32bf0111-becd-47e8-bc3d-74caf0bd364a/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000383",
+      "assetRaw": "International Business Machines Corporation",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-07-20",
+      "filedDate": "2017-08-28",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/249f20cb-fc6c-4cff-a7ba-5d32e5c2f945/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000383",
+      "assetRaw": "MAINE HEALTH & HIGH BOND\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 4.50% Matures: 07/01/2022",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-07-07",
+      "filedDate": "2017-08-28",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/249f20cb-fc6c-4cff-a7ba-5d32e5c2f945/",
+      "late": true,
+      "note": "CALLED",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000383",
+      "assetRaw": "MAINE HEALTH & HIGH BOND\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 4.50% Matures: 07/01/2022",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-07-01",
+      "filedDate": "2017-08-28",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/249f20cb-fc6c-4cff-a7ba-5d32e5c2f945/",
+      "late": true,
+      "note": "PARTIAL CALL",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000383",
+      "assetRaw": "ANANIA & ASSOCIATES INVESTMENT CO CLASS B MEMBERSHIP SHARES\n                                        \n                                        \n                                        \n                                            \n                                                \n                                                    Company: ANANIA & ASSOCIATES INVESTMENT CO LLC\n                                                    \n                                                         (PORTLAND, ME)\n                                                    \n                                                \n                                            \n\n                                            \n                                                Description: VENTURE CAPITAL CORPORATION",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2017-06-15",
+      "filedDate": "2017-07-20",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/a7674ea9-d5dd-4d57-85a8-c2f943222216/",
+      "late": false,
+      "note": "FULL SALE OF .46 NON-VOTING CLASS B MEMBERSHIP INTEREST, INCLUDING ALL SUB-ASSETS",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000383",
+      "assetRaw": "SUB-ASSET: ANANIA EUROPE UG\n                                        \n                                        \n                                        \n                                            \n                                                \n                                                    Company: ANANIA EUROPE UG\n                                                    \n                                                         (SANDHAUSEN, GERMANY)\n                                                    \n                                                \n                                            \n\n                                            \n                                                Description: STRATEGIC MARKETING",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-06-15",
+      "filedDate": "2017-07-20",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/a7674ea9-d5dd-4d57-85a8-c2f943222216/",
+      "late": false,
+      "note": "THIS IS A SUB-ASSET HOLDING OF ANANIA & ASSOCIATES INVESTMENT CO LLC",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000383",
+      "assetRaw": "SUB-ASSET: ELMET TECHNOLOGIES\n                                        \n                                        \n                                        \n                                            \n                                                \n                                                    Company: ELMET TECHNOLOGIES\n                                                    \n                                                         (LEWISTON, ME)\n                                                    \n                                                \n                                            \n\n                                            \n                                                Description: SPECIALIZED METALS MANUFACTURING",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2017-06-15",
+      "filedDate": "2017-07-20",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/a7674ea9-d5dd-4d57-85a8-c2f943222216/",
+      "late": false,
+      "note": "THIS IS A SUB-ASSET HOLDING OF ANANIA & ASSOCIATES INVESTMENT CO LLC",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000383",
+      "assetRaw": "SUB-ASSET: GROW-TECH LLC\n                                        \n                                        \n                                        \n                                            \n                                                \n                                                    Company: GROW-TECH LLC\n                                                    \n                                                         (PORTLAND, ME)\n                                                    \n                                                \n                                            \n\n                                            \n                                                Description: HORTICULTURAL TECHNOLOGY",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-06-15",
+      "filedDate": "2017-07-20",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/a7674ea9-d5dd-4d57-85a8-c2f943222216/",
+      "late": false,
+      "note": "THIS IS A SUB-ASSET HOLDING OF ANANIA & ASSOCIATES INVESTMENT CO LLC",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000383",
+      "assetRaw": "SUB-ASSET: MCL REALTY LLC\n                                        \n                                        \n                                        \n                                            \n                                                \n                                                    Company: MCL REALTY LLC\n                                                    \n                                                         (WINDHAM, ME)\n                                                    \n                                                \n                                            \n\n                                            \n                                                Description: INDUSTRIAL REAL ESTATE HOLDING",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-06-15",
+      "filedDate": "2017-07-20",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/a7674ea9-d5dd-4d57-85a8-c2f943222216/",
+      "late": false,
+      "note": "THIS IS A SUB-ASSET HOLDING OF ANANIA & ASSOCIATES INVESTMENT CO LLC",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000383",
+      "assetRaw": "SUB-ASSET: MEGA INDUSTRIES LLC\n                                        \n                                        \n                                        \n                                            \n                                                \n                                                    Company: MEGA INDUSTRIES LLC\n                                                    \n                                                         (GORHAM, ME)\n                                                    \n                                                \n                                            \n\n                                            \n                                                Description: MICROWAVE TECHNOLOGY",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2017-06-15",
+      "filedDate": "2017-07-20",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/a7674ea9-d5dd-4d57-85a8-c2f943222216/",
+      "late": false,
+      "note": "THIS IS A SUB-ASSET HOLDING OF ANANIA & ASSOCIATES INVESTMENT CO LLC",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000383",
+      "assetRaw": "SUB-ASSET: SYNERGISTIC SOFTWARE SOLUTIONS LLC\n                                        \n                                        \n                                        \n                                            \n                                                \n                                                    Company: SYNERGISTIC SOFTWARE SOLUTIONS LLC\n                                                    \n                                                         (EDINA, MN)\n                                                    \n                                                \n                                            \n\n                                            \n                                                Description: MANUFACTURING SOFTWARE DEVELOPER",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-06-15",
+      "filedDate": "2017-07-20",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/a7674ea9-d5dd-4d57-85a8-c2f943222216/",
+      "late": false,
+      "note": "THIS IS A SUB-ASSET HOLDING OF ANANIA & ASSOCIATES INVESTMENT CO LLC",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000383",
+      "assetRaw": "SUB-ASSET: TRAK TEC LLC\n                                        \n                                        \n                                        \n                                            \n                                                \n                                                    Company: TRAK TEC LLC\n                                                    \n                                                         (WINDHAM, ME)\n                                                    \n                                                \n                                            \n\n                                            \n                                                Description: PRESSURE SENSITIVE LABEL MANUFACTURER",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-06-15",
+      "filedDate": "2017-07-20",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/a7674ea9-d5dd-4d57-85a8-c2f943222216/",
+      "late": false,
+      "note": "THIS IS A SUB-ASSET HOLDING OF ANANIA & ASSOCIATES INVESTMENT CO LLC",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000383",
+      "assetRaw": "SUB-ASSET: mWAVE INDUSTRIES LLC\n                                        \n                                        \n                                        \n                                            \n                                                \n                                                    Company: mWAVE INDUSTRIES LLC\n                                                    \n                                                         (GORHAM, ME)\n                                                    \n                                                \n                                            \n\n                                            \n                                                Description: MICROWAVE ANTENNA MANUFACTURER",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-06-15",
+      "filedDate": "2017-07-20",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/a7674ea9-d5dd-4d57-85a8-c2f943222216/",
+      "late": false,
+      "note": "THIS IS A SUB-ASSET HOLDING OF ANANIA & ASSOCIATES INVESTMENT CO LLC",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000383",
+      "assetRaw": "SUB-ASSET:LIGHTHOUSE IMAGING LLC\n                                        \n                                        \n                                        \n                                            \n                                                \n                                                    Company: LIGHTHOUSE IMAGING LLC\n                                                    \n                                                         (PORTLAND, ME)\n                                                    \n                                                \n                                            \n\n                                            \n                                                Description: MEDICAL OPTICS ENGINEERING",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-06-15",
+      "filedDate": "2017-07-20",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/a7674ea9-d5dd-4d57-85a8-c2f943222216/",
+      "late": false,
+      "note": "THIS IS A SUB-ASSET HOLDING OF ANANIA & ASSOCIATES INVESTMENT CO LLC",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000383",
+      "assetRaw": "Target Corporation",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-05-03",
+      "filedDate": "2017-06-26",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/de110889-435b-4838-94d6-872fed00db5e/",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000383",
+      "assetRaw": "The Walt Disney Company",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-05-03",
+      "filedDate": "2017-06-26",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/de110889-435b-4838-94d6-872fed00db5e/",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000383",
+      "assetRaw": "MUNI BOND AUGUSTA ME GO\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 2.25% Matures: 10/01/2026",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2017-04-27",
+      "filedDate": "2017-05-26",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/0cf9047d-6e04-49d6-8bd6-a1044edddd0e/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000383",
+      "assetRaw": "Maine School Admin GO Bond\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 3.00 % Matures: 11/01/2028",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2017-03-16",
+      "filedDate": "2017-04-18",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/4e7bb61b-4909-40ed-ac1b-b60fc553558f/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000383",
+      "assetRaw": "Muni Bond Biddeford ME\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 3.00 % Matures: 10/01/2028",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2017-02-07",
+      "filedDate": "2017-03-13",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/2368ffd1-ae27-4cea-bed8-f64f86ce78ca/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000383",
+      "assetRaw": "MAINE STATE HSG AUTHORITY\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 4.00% Matures: 11/15/2028",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2016-11-15",
+      "filedDate": "2016-12-21",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/3d61dcac-c059-494f-9d46-cb7f2a1b0b85/",
+      "late": false,
+      "note": "PARTIAL CALL REDEMPTION",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000383",
+      "assetRaw": "General Electric Company",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2016-10-19",
+      "filedDate": "2016-11-10",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/7dd32f76-2862-421d-b105-84ff6a5e01cd/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000383",
+      "assetRaw": "Teva Pharmaceutical Industries Limited",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2016-10-19",
+      "filedDate": "2016-11-10",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/7dd32f76-2862-421d-b105-84ff6a5e01cd/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000383",
+      "assetRaw": "EMC Corporation",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2016-07-14",
+      "filedDate": "2016-08-16",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/feb2697b-73f7-44da-a138-170a71ca0512/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000383",
+      "assetRaw": "MAINE STATE HSG AUTHORITY\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 3.90% Matures: 11/15/2021",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2016-06-10",
+      "filedDate": "2016-07-25",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/573bea07-5080-4442-a6c5-d3fedff265da/",
+      "late": false,
+      "note": "\"CALLED\" REDEMPTION",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000383",
+      "assetRaw": "MAINE ST HSG AUTH M\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 3.45% Matures: 11/15/2017",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2016-02-22",
+      "filedDate": "2016-03-21",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/8113f11a-dcc1-43cf-b7d1-3bb5d1f49cbe/",
+      "late": false,
+      "note": "\"CALLED\" REDEMPTION",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000383",
+      "assetRaw": "MAINE STATE HSG AUTH REV\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 1.95% Matures: 11/15/2023",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2016-02-11",
+      "filedDate": "2016-03-21",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/8113f11a-dcc1-43cf-b7d1-3bb5d1f49cbe/",
+      "late": false,
+      "note": "SETTLE: 3/21/16",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000383",
+      "assetRaw": "Maine St Hsg Auth Bond\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 4.20% Matures: 11/15/2020",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2015-12-28",
+      "filedDate": "2016-01-19",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/5cae926b-a941-4bc9-9a06-df2a6452da46/",
+      "late": false,
+      "note": "\"Called\" Redemption",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000383",
+      "assetRaw": "Kinder Morgan, Inc.",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2015-12-16",
+      "filedDate": "2016-01-19",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/5cae926b-a941-4bc9-9a06-df2a6452da46/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000383",
+      "assetRaw": "Maine Muni Bond Bank\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 4.25% Matures: 11/01/2017",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2015-12-03",
+      "filedDate": "2016-01-19",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/5cae926b-a941-4bc9-9a06-df2a6452da46/",
+      "late": true,
+      "note": "\"Called\" Redemption",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000383",
+      "assetRaw": "SIAL - Sigma Aldrich Corp",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2015-11-18",
+      "filedDate": "2015-12-14",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/2da30c4c-254e-4482-83af-afbf6ddbd96e/",
+      "late": false,
+      "note": "Mandatory Cash Merger",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000383",
+      "assetRaw": "QCOM - Qualcomm Inc",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2015-11-05",
+      "filedDate": "2015-12-14",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/2da30c4c-254e-4482-83af-afbf6ddbd96e/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000383",
+      "assetRaw": "Regional School Unit No 5 ME\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 2.50% Matures: 11/01/2026",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2015-10-15",
+      "filedDate": "2015-11-16",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/f0eee818-0996-410e-ad06-762e8956db67/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000383",
+      "assetRaw": "Maine Health & Higher Ed Rev Bond\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 3.25% Matures: 07/01/2027",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2015-07-16",
+      "filedDate": "2015-08-24",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/d8acedb9-0db9-4f5e-a07d-4d017b52611f/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000383",
+      "assetRaw": "Maine State Hsg Authority Bond\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 2.60% Matures: 11/15/2022",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2015-06-17",
+      "filedDate": "2015-07-10",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/e1501d00-a4ee-456d-9cf8-1fdb52e3390b/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000383",
+      "assetRaw": "Maine Health & Higher Ed Bond\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 3.25% Matures: 07/01/2027",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2015-06-10",
+      "filedDate": "2015-07-10",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/e1501d00-a4ee-456d-9cf8-1fdb52e3390b/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000383",
+      "assetRaw": "A Woman, A Part LLC - 1/5 of 1 Share \n                                        \n                                        \n                                        \n                                            \n                                                \n                                                    Company: A Woman, A Part LLC\n                                                    \n                                                         (Ulster Park, NY)\n                                                    \n                                                \n                                            \n\n                                            \n                                                Description: Movie Production Company",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2015-05-08",
+      "filedDate": "2015-06-12",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/747d3ab6-0b72-4dad-b2ae-e76d3cff5976/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000383",
+      "assetRaw": "Muni Bond Ellsworth ME GO\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 2.25% Matures: 12/01/2024",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2015-05-05",
+      "filedDate": "2015-06-12",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/747d3ab6-0b72-4dad-b2ae-e76d3cff5976/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000383",
+      "assetRaw": "Muni Bond Cape Elizabeth ME\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 3.75% Matures: 04/01/2016",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2015-04-01",
+      "filedDate": "2015-05-20",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/f3195f71-6d23-460d-89d0-9acf5862ebf5/",
+      "late": true,
+      "note": "Redemption \"Called\"",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000383",
+      "assetRaw": "Augusta ME 12/01/2016 4.00%\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 4.00% Matures: 12/01/2016",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2015-03-02",
+      "filedDate": "2015-04-09",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/d506f19f-5919-44ea-940c-a9b440b82495/",
+      "late": false,
+      "note": "\"Called\" Redemption",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000383",
+      "assetRaw": "Maine St Hsg Auth 11/15/2017 4.4%\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 4.40 % Matures: 11/15/2017",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2015-02-18",
+      "filedDate": "2015-03-12",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/9f5e5cdf-3dbe-4d19-b7ab-405682118d2f/",
+      "late": false,
+      "note": "\"Called\" Redemption",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000383",
+      "assetRaw": "Me Muni Bond Bk Rev 3% 09/01/2026",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2014-11-14",
+      "filedDate": "2014-12-12",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/c57b3fd9-3bbd-4f31-8904-9a517aaf43d9/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000383",
+      "assetRaw": "Rayonier Inc. (NYSE)",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2014-11-10",
+      "filedDate": "2014-12-12",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/c57b3fd9-3bbd-4f31-8904-9a517aaf43d9/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000383",
+      "assetRaw": "Maine Turnpike Authority Bond 3.00% 07/01/2026",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2014-07-28",
+      "filedDate": "2014-08-25",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/f40d9641-54e9-4ec3-960f-2071ed4d08bf/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000383",
+      "assetRaw": "Rayonier Advanced Materials Inc. (NYSE)",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2014-07-25",
+      "filedDate": "2014-08-25",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/f40d9641-54e9-4ec3-960f-2071ed4d08bf/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000383",
+      "assetRaw": "Maine Muni Bond - Town of Orono ME GO 3% 11/01/2024",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2014-06-26",
+      "filedDate": "2014-07-15",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/f11dbaed-1e04-4841-bd82-38059ef8b55b/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000383",
+      "assetRaw": "DENTSPLY International Inc. (NASDAQ)",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2014-04-28",
+      "filedDate": "2014-05-13",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/f1c4bb82-2e7a-481f-afbd-9ac932f02844/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000383",
+      "assetRaw": "Sempra Energy (NYSE)",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2014-04-28",
+      "filedDate": "2014-05-13",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/f1c4bb82-2e7a-481f-afbd-9ac932f02844/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000383",
+      "assetRaw": "UnitedHealth Group Incorporated (NYSE)",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2014-04-28",
+      "filedDate": "2014-05-13",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/f1c4bb82-2e7a-481f-afbd-9ac932f02844/",
+      "late": false,
+      "provenance": "kadoa"
+    }
+  ],
+  "series": [
+    {
+      "date": "2014-04-28",
+      "value": 8000.5
+    },
+    {
+      "date": "2014-04-28",
+      "value": 8000.5
+    },
+    {
+      "date": "2014-04-28",
+      "value": 8000.5
+    },
+    {
+      "date": "2014-06-26",
+      "value": 32500.5
+    },
+    {
+      "date": "2014-07-25",
+      "value": 8000.5
+    },
+    {
+      "date": "2014-07-28",
+      "value": 32500.5
+    },
+    {
+      "date": "2014-11-10",
+      "value": 8000.5
+    },
+    {
+      "date": "2014-11-14",
+      "value": 32500.5
+    },
+    {
+      "date": "2015-02-18",
+      "value": 32500.5
+    },
+    {
+      "date": "2015-03-02",
+      "value": 32500.5
+    },
+    {
+      "date": "2015-04-01",
+      "value": 32500.5
+    },
+    {
+      "date": "2015-05-05",
+      "value": 32500.5
+    },
+    {
+      "date": "2015-05-08",
+      "value": 8000.5
+    },
+    {
+      "date": "2015-06-10",
+      "value": 32500.5
+    },
+    {
+      "date": "2015-06-17",
+      "value": 32500.5
+    },
+    {
+      "date": "2015-07-16",
+      "value": 32500.5
+    },
+    {
+      "date": "2015-10-15",
+      "value": 32500.5
+    },
+    {
+      "date": "2015-11-05",
+      "value": 8000.5
+    },
+    {
+      "date": "2015-11-18",
+      "value": 32500.5
+    },
+    {
+      "date": "2015-12-03",
+      "value": 32500.5
+    },
+    {
+      "date": "2015-12-16",
+      "value": 8000.5
+    },
+    {
+      "date": "2015-12-28",
+      "value": 8000.5
+    },
+    {
+      "date": "2016-02-11",
+      "value": 8000.5
+    },
+    {
+      "date": "2016-02-22",
+      "value": 8000.5
+    },
+    {
+      "date": "2016-06-10",
+      "value": 8000.5
+    },
+    {
+      "date": "2016-07-14",
+      "value": 8000.5
+    },
+    {
+      "date": "2016-10-19",
+      "value": 8000.5
+    },
+    {
+      "date": "2016-10-19",
+      "value": 8000.5
+    },
+    {
+      "date": "2016-11-15",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-02-07",
+      "value": 32500.5
+    },
+    {
+      "date": "2017-03-16",
+      "value": 32500.5
+    },
+    {
+      "date": "2017-04-27",
+      "value": 32500.5
+    },
+    {
+      "date": "2017-05-03",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-05-03",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-06-15",
+      "value": 75000.5
+    },
+    {
+      "date": "2017-06-15",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-06-15",
+      "value": 32500.5
+    },
+    {
+      "date": "2017-06-15",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-06-15",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-06-15",
+      "value": 32500.5
+    },
+    {
+      "date": "2017-06-15",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-06-15",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-06-15",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-06-15",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-07-01",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-07-07",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-07-20",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-10-19",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-11-10",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-11-17",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-11-28",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-11-28",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-12-05",
+      "value": 32500.5
+    },
+    {
+      "date": "2017-12-05",
+      "value": 32500.5
+    },
+    {
+      "date": "2018-03-12",
+      "value": 32500.5
+    },
+    {
+      "date": "2018-04-23",
+      "value": 8000.5
+    },
+    {
+      "date": "2018-08-28",
+      "value": 8000.5
+    },
+    {
+      "date": "2018-08-28",
+      "value": 8000.5
+    },
+    {
+      "date": "2018-10-17",
+      "value": 8000.5
+    },
+    {
+      "date": "2019-01-10",
+      "value": 8000.5
+    },
+    {
+      "date": "2019-01-10",
+      "value": 8000.5
+    },
+    {
+      "date": "2019-01-10",
+      "value": 8000.5
+    },
+    {
+      "date": "2019-01-31",
+      "value": 8000.5
+    },
+    {
+      "date": "2019-05-16",
+      "value": 32500.5
+    },
+    {
+      "date": "2019-07-23",
+      "value": 8000.5
+    },
+    {
+      "date": "2019-07-23",
+      "value": 8000.5
+    },
+    {
+      "date": "2019-09-10",
+      "value": 32500.5
+    },
+    {
+      "date": "2020-03-05",
+      "value": 8000.5
+    },
+    {
+      "date": "2020-08-18",
+      "value": 8000.5
+    },
+    {
+      "date": "2020-08-18",
+      "value": 8000.5
+    },
+    {
+      "date": "2020-08-18",
+      "value": 8000.5
+    },
+    {
+      "date": "2020-08-18",
+      "value": 8000.5
+    },
+    {
+      "date": "2020-09-28",
+      "value": 32500.5
+    },
+    {
+      "date": "2021-06-10",
+      "value": 32500.5
+    },
+    {
+      "date": "2021-06-24",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-06-24",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-12-19",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-12-21",
+      "value": 8000.5
+    },
+    {
+      "date": "2023-03-20",
+      "value": 8000.5
+    },
+    {
+      "date": "2023-05-19",
+      "value": 8000.5
+    },
+    {
+      "date": "2023-10-23",
+      "value": 32500.5
+    },
+    {
+      "date": "2023-11-01",
+      "value": 32500.5
+    },
+    {
+      "date": "2023-11-10",
+      "value": 8000.5
+    },
+    {
+      "date": "2023-12-27",
+      "value": 8000.5
+    },
+    {
+      "date": "2023-12-27",
+      "value": 8000.5
+    },
+    {
+      "date": "2024-03-07",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-07-14",
+      "value": 32500.5
+    },
+    {
+      "date": "2025-07-14",
+      "value": 32500.5
+    },
+    {
+      "date": "2025-07-15",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-07-21",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-07-21",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-07-21",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-07-21",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-07-21",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-07-21",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-07-21",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-07-21",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-07-21",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-07-21",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-07-21",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-07-21",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-07-21",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-07-21",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-07-21",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-07-21",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-07-21",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-07-21",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-07-21",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-07-21",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-07-21",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-07-21",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-12-29",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-12-29",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-12-29",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-02-13",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-02-13",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-02-13",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-02-13",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-02-13",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-02-13",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-02-13",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-02-13",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-02-13",
+      "value": 8000.5
+    }
+  ],
+  "measured": null
+}

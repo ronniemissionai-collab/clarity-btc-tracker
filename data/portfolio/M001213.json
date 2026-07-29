@@ -1,0 +1,2617 @@
+{
+  "member": {
+    "bioguideId": "M001213",
+    "name": "Blake D. Moore",
+    "party": "R",
+    "chamber": "house",
+    "state": "UT",
+    "district": "UT-01",
+    "active": true
+  },
+  "positions": [
+    {
+      "memberId": "M001213",
+      "security": {
+        "ticker": "BAC",
+        "kind": "other"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "sold",
+      "asOf": "2024-01-19",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/20024354.pdf"
+        }
+      ],
+      "note": "sale reported by PTR with no annual baseline in our coverage"
+    },
+    {
+      "memberId": "M001213",
+      "security": {
+        "ticker": "BM",
+        "kind": "other"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "sold",
+      "asOf": "2024-01-19",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/20024354.pdf"
+        }
+      ],
+      "note": "sale reported by PTR with no annual baseline in our coverage"
+    },
+    {
+      "memberId": "M001213",
+      "security": {
+        "ticker": "TSLA",
+        "kind": "treasury"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "sold",
+      "asOf": "2021-08-18",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019457.pdf"
+        }
+      ]
+    }
+  ],
+  "trades": [
+    {
+      "memberId": "M001213",
+      "assetRaw": "Alibaba Group Holding Limited American Depositary Shares each representing eight Ordinary share",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2024-01-19",
+      "filedDate": "2024-01-24",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/20024354.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001213",
+      "assetRaw": "Alphabet Inc. - Class C Capital Stock",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2024-01-19",
+      "filedDate": "2024-01-24",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/20024354.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001213",
+      "assetRaw": "Alphabet Inc. - Class C Capital Stock",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2024-01-19",
+      "filedDate": "2024-01-24",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/20024354.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001213",
+      "assetRaw": "Amazon.com, Inc.",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2024-01-19",
+      "filedDate": "2024-01-24",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/20024354.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001213",
+      "assetRaw": "Amazon.com, Inc.",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2024-01-19",
+      "filedDate": "2024-01-24",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/20024354.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001213",
+      "assetRaw": "American Express Company",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2024-01-19",
+      "filedDate": "2024-01-24",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/20024354.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001213",
+      "assetRaw": "American Express Company",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2024-01-19",
+      "filedDate": "2024-01-24",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/20024354.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001213",
+      "assetRaw": "Apple Inc.",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2024-01-19",
+      "filedDate": "2024-01-24",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/20024354.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001213",
+      "assetRaw": "Apple Inc.",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2024-01-19",
+      "filedDate": "2024-01-24",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/20024354.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001213",
+      "assetRaw": "Bank of America Corporation",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2024-01-19",
+      "filedDate": "2024-01-24",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/20024354.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001213",
+      "assetRaw": "Bank of America Corporation (BAC)",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2024-01-19",
+      "filedDate": "2024-01-24",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/20024354.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001213",
+      "assetRaw": "Berkshire Hathaway Inc. New",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2024-01-19",
+      "filedDate": "2024-01-24",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/20024354.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001213",
+      "assetRaw": "Berkshire Hathaway Inc. New",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2024-01-19",
+      "filedDate": "2024-01-24",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/20024354.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001213",
+      "assetRaw": "DR S&P 500",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2024-01-19",
+      "filedDate": "2024-01-24",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/20024354.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001213",
+      "assetRaw": "DR S&P 500",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2024-01-19",
+      "filedDate": "2024-01-24",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/20024354.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001213",
+      "assetRaw": "HealthEquity, Inc.",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2024-01-19",
+      "filedDate": "2024-01-24",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/20024354.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001213",
+      "assetRaw": "Johnson & Johnson",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2024-01-19",
+      "filedDate": "2024-01-24",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/20024354.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001213",
+      "assetRaw": "Meta Platforms, Inc. - Class A",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2024-01-19",
+      "filedDate": "2024-01-24",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/20024354.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001213",
+      "assetRaw": "Meta Platforms, Inc. - Class A",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2024-01-19",
+      "filedDate": "2024-01-24",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/20024354.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001213",
+      "assetRaw": "Microsoft Corporation",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2024-01-19",
+      "filedDate": "2024-01-24",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/20024354.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001213",
+      "assetRaw": "Microsoft Corporation",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2024-01-19",
+      "filedDate": "2024-01-24",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/20024354.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001213",
+      "assetRaw": "RTX Corporation",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2024-01-19",
+      "filedDate": "2024-01-24",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/20024354.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001213",
+      "assetRaw": "S O: Iron Gate GA Brokerage Portfolio > IGGA IRA (BM) Meta Platforms, Inc. - Class A",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2024-01-19",
+      "filedDate": "2024-01-24",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/20024354.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001213",
+      "assetRaw": "Vanguard Growth ETF",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2024-01-19",
+      "filedDate": "2024-01-24",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/20024354.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001213",
+      "assetRaw": "Vanguard Growth ETF",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2024-01-19",
+      "filedDate": "2024-01-24",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/20024354.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001213",
+      "assetRaw": "Walt Disney Company",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2024-01-19",
+      "filedDate": "2024-01-24",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/20024354.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001213",
+      "assetRaw": "[ST] Berkshire Hathaway Inc. New",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2024-01-19",
+      "filedDate": "2024-01-24",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/20024354.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001213",
+      "assetRaw": "Boeing Company",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2024-01-09",
+      "filedDate": "2024-01-24",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/20024354.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001213",
+      "assetRaw": "Apple Inc.",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2023-12-22",
+      "filedDate": "2024-01-24",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/20024354.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001213",
+      "assetRaw": "Apple Inc.",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-01-21",
+      "filedDate": "2022-02-03",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020344.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001213",
+      "assetRaw": "Iron Gate GA Brokerage Portfolio Wynn Resorts, Limited",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2021-12-20",
+      "filedDate": "2022-01-08",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020135.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001213",
+      "assetRaw": "Wynn Resorts, Limited",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2021-12-20",
+      "filedDate": "2022-01-08",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020135.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001213",
+      "assetRaw": "Alibaba Group Holding Limited American Depositary Shares each representing eight Ordinary share",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-11-19",
+      "filedDate": "2021-12-03",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019923.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001213",
+      "assetRaw": "Iron Gate GA Brokerage Portfolio DESCRIPTION: WYNN Dec 17 21 100.0 PUT Not part of a compensation package or held as an ESOP Wynn Resorts, Limited",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-10-13",
+      "filedDate": "2021-10-15",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019637.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001213",
+      "assetRaw": "Iron Gate GA Brokerage Portfolio DESCRIPTION: WYNN Dec 17 21 105.0 PUT Not part of a compensation package or held as an ESOP Wynn Resorts, Limited",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-10-13",
+      "filedDate": "2021-10-15",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019637.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001213",
+      "assetRaw": "Iron Gate GA Brokerage Portfolio DESCRIPTION: WYNN Oct 15 21 100.0 PUT Not part of a compensation package or held as an ESOP Wynn Resorts, Limited",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-10-13",
+      "filedDate": "2021-10-15",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019637.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001213",
+      "assetRaw": "Wynn Resorts, Limited",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-10-13",
+      "filedDate": "2021-10-15",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019637.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001213",
+      "assetRaw": "Iron Gate GA Brokerage Portfolio DESCRIPTION: PUT TSLA Oct 15 21 500.0 P Not part of a compensation package or ESOP Wynn Resorts, Limited",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-09-07",
+      "filedDate": "2021-09-24",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019457.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001213",
+      "assetRaw": "Iron Gate GA Brokerage Portfolio DESCRIPTION: PUT WYNN Oct 15 21 100.0 P Not part of a compensation package or ESOP Wynn Resorts, Limited",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-09-07",
+      "filedDate": "2021-09-24",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019457.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001213",
+      "assetRaw": "Iron Gate GA Brokerage Portfolio DESCRIPTION: PUT WYNN Oct 15 21 105.0 P Not part of a compensation package or ESOP Wynn Resorts, Limited",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-09-07",
+      "filedDate": "2021-09-24",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019457.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001213",
+      "assetRaw": "Iron Gate GA Brokerage Portfolio DESCRIPTION: PUT WYNN Sep 17 21 105.0 P Not part of a compensation package or ESOP Wynn Resorts, Limited",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-09-07",
+      "filedDate": "2021-09-24",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019457.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001213",
+      "assetRaw": "Iron Gate GA Brokerage Portfolio DESCRIPTION: WYNN Oct 15 21 100.0 P Not part of a compensation package or ESOP Wynn Resorts, Limited",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-09-07",
+      "filedDate": "2021-09-24",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019457.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001213",
+      "assetRaw": "Alibaba Group Holding Limited American Depositary Shares each representing eight Ordinary share",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-08-27",
+      "filedDate": "2021-09-24",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019457.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001213",
+      "assetRaw": "Iron Gate GA Brokerage Portfolio DESCRIPTION: PUT BABA Nov 19 21 155.0 P Alibaba Group Holding Limited American Depositary Shares each representing eight Ordinary share",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-08-27",
+      "filedDate": "2021-09-24",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019457.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001213",
+      "assetRaw": "Iron Gate GA Brokerage Portfolio DESCRIPTION: PUT BABA Oct 15 21 160.0 P Not part of a compensation package or ESOP Berkshire Hathaway Inc. New",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-08-25",
+      "filedDate": "2021-09-24",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019457.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001213",
+      "assetRaw": "Iron Gate GA Brokerage Portfolio DESCRIPTION: PUT TSLA Oct 15 21 510.0 P Not part of a compensation package or ESOP Tesla, Inc.",
+      "security": {
+        "ticker": "TSLA",
+        "kind": "treasury"
+      },
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-08-18",
+      "filedDate": "2021-09-24",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019457.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001213",
+      "assetRaw": "Iron Gate GA Brokerage Portfolio Tesla, Inc.",
+      "security": {
+        "ticker": "TSLA",
+        "kind": "treasury"
+      },
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-08-18",
+      "filedDate": "2021-09-24",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019457.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001213",
+      "assetRaw": "Iron Gate GA Brokerage Portfolio DESCRIPTION: PUT BABA Oct 15 21 160.0 P Not part of a compensation package or ESOP Alibaba Group Holding Limited American Depositary Shares each representing eight Ordinary share",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-08-17",
+      "filedDate": "2021-09-24",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019457.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001213",
+      "assetRaw": "Iron Gate GA Brokerage Portfolio DESCRIPTION: Put - WYNN Aug 20 21 100.0 P Not part of a compensation package or ESOP Wynn Resorts, Limited",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-08-04",
+      "filedDate": "2021-08-13",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019307.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001213",
+      "assetRaw": "Iron Gate GA Brokerage Portfolio DESCRIPTION: Put - WYNN Aug 20 21 100.0 P Not part of a compensation package or ESOP Wynn Resorts, Limited",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-08-04",
+      "filedDate": "2021-08-13",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019307.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001213",
+      "assetRaw": "Iron Gate GA Brokerage Portfolio DESCRIPTION: Put - WYNN Aug 20 21 105.0 P Not part of a compensation package or ESOP Wynn Resorts, Limited",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-08-04",
+      "filedDate": "2021-08-13",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019307.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001213",
+      "assetRaw": "Iron Gate GA Brokerage Portfolio DESCRIPTION: Put - WYNN Sep 17 21 100.0 P Not part of a compensation package or ESOP Wynn Resorts, Limited",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-08-04",
+      "filedDate": "2021-08-13",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019307.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001213",
+      "assetRaw": "Iron Gate GA Brokerage Portfolio DESCRIPTION: Put - WYNN Sep 17 21 105.0 P Not part of a compensation package or ESOP Wynn Resorts, Limited",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-08-04",
+      "filedDate": "2021-08-13",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019307.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001213",
+      "assetRaw": "Iron Gate GA Brokerage Portfolio Wynn Resorts, Limited",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-08-04",
+      "filedDate": "2021-08-13",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019307.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001213",
+      "assetRaw": "Bank of America Corporation",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-07-19",
+      "filedDate": "2021-08-13",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019307.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001213",
+      "assetRaw": "Iron Gate GA Brokerage Portfolio Berkshire Hathaway Inc. New",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-07-19",
+      "filedDate": "2021-08-13",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019307.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001213",
+      "assetRaw": "Iron Gate GA Brokerage Portfolio Boeing Company",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-07-19",
+      "filedDate": "2021-08-13",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019307.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001213",
+      "assetRaw": "Iron Gate GA Brokerage Portfolio DESCRIPTION: NVDA Sep 17 21 580.0 P Walt Disney Company",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-07-19",
+      "filedDate": "2021-08-13",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019307.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001213",
+      "assetRaw": "Iron Gate GA Brokerage Portfolio DESCRIPTION: NVDA Sep 17 21 585.0 P NVIDIA Corporation",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-07-16",
+      "filedDate": "2021-08-13",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019307.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001213",
+      "assetRaw": "Iron Gate GA Brokerage Portfolio NVIDIA Corporation",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-07-16",
+      "filedDate": "2021-08-13",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019307.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001213",
+      "assetRaw": "Mastercard Incorporated",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-06-03",
+      "filedDate": "2021-07-17",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019092.pdf",
+      "late": false,
+      "note": "MA Jul 16 21 325.0 Put Not part of a compensation package or held as an ESOP",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001213",
+      "assetRaw": "Mastercard Incorporated",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-06-03",
+      "filedDate": "2021-07-17",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019092.pdf",
+      "late": false,
+      "note": "MA Jul 16 21 320.0 Put Not part of a compensation package or held as an ESOP",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001213",
+      "assetRaw": "BlackRock Ultra Short-Term Bond ETF",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-05-12",
+      "filedDate": "2021-07-17",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019092.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001213",
+      "assetRaw": "HealthEquity, Inc.",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-05-12",
+      "filedDate": "2021-07-17",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019092.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001213",
+      "assetRaw": "Microsoft Corporation",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-05-12",
+      "filedDate": "2021-07-17",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019092.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001213",
+      "assetRaw": "Vanguard S&P 500 ETF",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-05-12",
+      "filedDate": "2021-07-17",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019092.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001213",
+      "assetRaw": "Alibaba Group Holding Limited American Depositary Shares each representing eight Ordinary share",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-05-11",
+      "filedDate": "2021-07-17",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019092.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001213",
+      "assetRaw": "Apple Inc.",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-05-11",
+      "filedDate": "2021-07-17",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019092.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001213",
+      "assetRaw": "Bank of America Corporation",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-05-11",
+      "filedDate": "2021-07-17",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019092.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001213",
+      "assetRaw": "Berkshire Hathaway Inc. New",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-05-11",
+      "filedDate": "2021-07-17",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019092.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001213",
+      "assetRaw": "HealthEquity, Inc.",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-05-11",
+      "filedDate": "2021-07-17",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019092.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001213",
+      "assetRaw": "Raytheon Technologies Corporation",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-05-11",
+      "filedDate": "2021-07-17",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019092.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001213",
+      "assetRaw": "Amazon.com, Inc.",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-05-03",
+      "filedDate": "2021-07-17",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019092.pdf",
+      "late": true,
+      "note": "AMZN Jun 18 21 3060.0 Put Not part of a compensation package or held as an ESOP",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001213",
+      "assetRaw": "Amazon.com, Inc.",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-05-03",
+      "filedDate": "2021-07-17",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019092.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001213",
+      "assetRaw": "American Express Company",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-04-30",
+      "filedDate": "2021-07-17",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019092.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001213",
+      "assetRaw": "Apple Inc.",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-04-30",
+      "filedDate": "2021-07-17",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019092.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001213",
+      "assetRaw": "Bank of America Corporation",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-04-30",
+      "filedDate": "2021-07-17",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019092.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001213",
+      "assetRaw": "Berkshire Hathaway Inc. New",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-04-30",
+      "filedDate": "2021-07-17",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019092.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001213",
+      "assetRaw": "HealthEquity, Inc.",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-04-30",
+      "filedDate": "2021-07-17",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019092.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001213",
+      "assetRaw": "Johnson & Johnson",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-04-30",
+      "filedDate": "2021-07-17",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019092.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001213",
+      "assetRaw": "Microsoft Corporation",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-04-30",
+      "filedDate": "2021-07-17",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019092.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001213",
+      "assetRaw": "Raytheon Technologies Corporation",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-04-30",
+      "filedDate": "2021-07-17",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019092.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001213",
+      "assetRaw": "Alibaba Group Holding Limited American Depositary Shares each representing eight Ordinary share",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-03-26",
+      "filedDate": "2021-07-17",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019092.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001213",
+      "assetRaw": "Amazon.com, Inc.",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-03-26",
+      "filedDate": "2021-07-17",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019092.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001213",
+      "assetRaw": "American Express Company",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-03-26",
+      "filedDate": "2021-07-17",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019092.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001213",
+      "assetRaw": "Apple Inc.",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-03-26",
+      "filedDate": "2021-07-17",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019092.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001213",
+      "assetRaw": "Bank of America Corporation",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-03-26",
+      "filedDate": "2021-07-17",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019092.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001213",
+      "assetRaw": "Berkshire Hathaway Inc. New",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-03-26",
+      "filedDate": "2021-07-17",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019092.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001213",
+      "assetRaw": "HealthEquity, Inc.",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-03-26",
+      "filedDate": "2021-07-17",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019092.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001213",
+      "assetRaw": "Johnson & Johnson",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-03-26",
+      "filedDate": "2021-07-17",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019092.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001213",
+      "assetRaw": "Microsoft Corporation",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-03-26",
+      "filedDate": "2021-07-17",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019092.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001213",
+      "assetRaw": "Raytheon Technologies Corporation",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-03-26",
+      "filedDate": "2021-07-17",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019092.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001213",
+      "assetRaw": "Dollar General Corporation",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-03-18",
+      "filedDate": "2021-07-17",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019092.pdf",
+      "late": true,
+      "note": "DG Mar 19 21 180.0 Put Not part of a compensation package or held as an ESOP",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001213",
+      "assetRaw": "Alibaba Group Holding Limited American Depositary Shares each representing eight Ordinary share",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-03-04",
+      "filedDate": "2021-07-17",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019092.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001213",
+      "assetRaw": "Alphabet Inc. - Class C Capital Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-03-04",
+      "filedDate": "2021-07-17",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019092.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001213",
+      "assetRaw": "Amazon.com, Inc.",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-03-04",
+      "filedDate": "2021-07-17",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019092.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001213",
+      "assetRaw": "American Express Company",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-03-04",
+      "filedDate": "2021-07-17",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019092.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001213",
+      "assetRaw": "Apple Inc.",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-03-04",
+      "filedDate": "2021-07-17",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019092.pdf",
+      "late": true,
+      "note": "AAPL Mar 17 23 105.0 Call Not part of a compensation package or held as an ESOP",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001213",
+      "assetRaw": "Bank of America Corporation",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-03-04",
+      "filedDate": "2021-07-17",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019092.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001213",
+      "assetRaw": "Berkshire Hathaway Inc. New",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-03-04",
+      "filedDate": "2021-07-17",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019092.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001213",
+      "assetRaw": "Facebook, Inc. - Class A",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-03-04",
+      "filedDate": "2021-07-17",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019092.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001213",
+      "assetRaw": "Johnson & Johnson",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-03-04",
+      "filedDate": "2021-07-17",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019092.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001213",
+      "assetRaw": "Microsoft Corporation",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-03-04",
+      "filedDate": "2021-07-17",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019092.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001213",
+      "assetRaw": "Alibaba Group Holding Limited American Depositary Shares each representing eight Ordinary share",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-02-25",
+      "filedDate": "2021-07-17",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019092.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001213",
+      "assetRaw": "Alphabet Inc. - Class C Capital Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-02-25",
+      "filedDate": "2021-07-17",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019092.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001213",
+      "assetRaw": "Amazon.com, Inc.",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-02-25",
+      "filedDate": "2021-07-17",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019092.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001213",
+      "assetRaw": "American Express Company",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-02-25",
+      "filedDate": "2021-07-17",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019092.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001213",
+      "assetRaw": "Apple Inc.",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-02-25",
+      "filedDate": "2021-07-17",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019092.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001213",
+      "assetRaw": "Bank of America Corporation",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-02-25",
+      "filedDate": "2021-07-17",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019092.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001213",
+      "assetRaw": "Berkshire Hathaway Inc. New",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-02-25",
+      "filedDate": "2021-07-17",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019092.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001213",
+      "assetRaw": "Facebook, Inc. - Class A",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-02-25",
+      "filedDate": "2021-07-17",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019092.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001213",
+      "assetRaw": "Johnson & Johnson",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-02-25",
+      "filedDate": "2021-07-17",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019092.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001213",
+      "assetRaw": "Microsoft Corporation",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-02-25",
+      "filedDate": "2021-07-17",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019092.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001213",
+      "assetRaw": "NVIDIA Corporation",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-02-25",
+      "filedDate": "2021-07-17",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019092.pdf",
+      "late": true,
+      "note": "NVDA Apr 16 21 405.0 Put Not part of a compensation package or held as an ESOP",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001213",
+      "assetRaw": "NVIDIA Corporation",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-02-25",
+      "filedDate": "2021-07-17",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019092.pdf",
+      "late": true,
+      "note": "NVDA Apr 16 21 400.0 Put Not part of a compensation package or held as an ESOP",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001213",
+      "assetRaw": "Alibaba Group Holding Limited American Depositary Shares each representing eight Ordinary share",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-02-24",
+      "filedDate": "2021-07-17",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019092.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001213",
+      "assetRaw": "Amazon.com, Inc.",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-02-24",
+      "filedDate": "2021-07-17",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019092.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001213",
+      "assetRaw": "American Express Company",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-02-24",
+      "filedDate": "2021-07-17",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019092.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001213",
+      "assetRaw": "Apple Inc.",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-02-24",
+      "filedDate": "2021-07-17",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019092.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001213",
+      "assetRaw": "Bank of America Corporation",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-02-24",
+      "filedDate": "2021-07-17",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019092.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001213",
+      "assetRaw": "Berkshire Hathaway Inc. New",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-02-24",
+      "filedDate": "2021-07-17",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019092.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001213",
+      "assetRaw": "Facebook, Inc. - Class A",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-02-24",
+      "filedDate": "2021-07-17",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019092.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001213",
+      "assetRaw": "Johnson & Johnson",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-02-24",
+      "filedDate": "2021-07-17",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019092.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001213",
+      "assetRaw": "Raytheon Technologies Corporation",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-02-24",
+      "filedDate": "2021-07-17",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019092.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001213",
+      "assetRaw": "Alibaba Group Holding Limited American Depositary Shares each representing eight Ordinary share",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-02-22",
+      "filedDate": "2021-07-17",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019092.pdf",
+      "late": true,
+      "note": "BABA Apr 16 21 215.0 Put Not part of a compensation package or held as an ESOP",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001213",
+      "assetRaw": "Alibaba Group Holding Limited American Depositary Shares each representing eight Ordinary share",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-02-22",
+      "filedDate": "2021-07-17",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019092.pdf",
+      "late": true,
+      "note": "BABA Apr 16 21 210.0 Put Not part of a compensation package or held as an ESOP",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001213",
+      "assetRaw": "Dollar General Corporation",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-01-27",
+      "filedDate": "2021-07-17",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019092.pdf",
+      "late": true,
+      "note": "DG Mar 19 21 180.0 Put Not part of a compensation package or held as an ESOP",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001213",
+      "assetRaw": "Dollar General Corporation",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-01-27",
+      "filedDate": "2021-07-17",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019092.pdf",
+      "late": true,
+      "note": "DG Mar 19 21 175.0 Put Not part of a compensation package or held as an ESOP",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001213",
+      "assetRaw": "Facebook, Inc. - Class A",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-01-20",
+      "filedDate": "2021-07-17",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019092.pdf",
+      "late": true,
+      "note": "Mar 19 21 220.0 Put Not part of a compensation package or held as an ESOP",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001213",
+      "assetRaw": "Facebook, Inc. - Class A",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-01-20",
+      "filedDate": "2021-07-17",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019092.pdf",
+      "late": true,
+      "note": "FB Mar 19 21 215.0 Put Not part of a compensation package or held as an ESOP",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001213",
+      "assetRaw": "NVIDIA Corporation",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-01-20",
+      "filedDate": "2021-07-17",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019092.pdf",
+      "late": true,
+      "note": "Mar 19 21 425.0 Put Not part of a compensation package or held as an ESOP",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001213",
+      "assetRaw": "NVIDIA Corporation",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-01-20",
+      "filedDate": "2021-07-17",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019092.pdf",
+      "late": true,
+      "note": "Mar 19 21 420.0 Put Not part of a compensation package or held as an ESOP",
+      "provenance": "kadoa"
+    }
+  ],
+  "series": [
+    {
+      "date": "2021-01-20",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-01-20",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-01-20",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-01-20",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-01-27",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-01-27",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-02-22",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-02-22",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-02-24",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-02-24",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-02-24",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-02-24",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-02-24",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-02-24",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-02-24",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-02-24",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-02-24",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-02-25",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-02-25",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-02-25",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-02-25",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-02-25",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-02-25",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-02-25",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-02-25",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-02-25",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-02-25",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-02-25",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-02-25",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-03-04",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-03-04",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-03-04",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-03-04",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-03-04",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-03-04",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-03-04",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-03-04",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-03-04",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-03-04",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-03-18",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-03-26",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-03-26",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-03-26",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-03-26",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-03-26",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-03-26",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-03-26",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-03-26",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-03-26",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-03-26",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-04-30",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-04-30",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-04-30",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-04-30",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-04-30",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-04-30",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-04-30",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-04-30",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-05-03",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-05-03",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-05-11",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-05-11",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-05-11",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-05-11",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-05-11",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-05-11",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-05-12",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-05-12",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-05-12",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-05-12",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-06-03",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-06-03",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-07-16",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-07-16",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-07-19",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-07-19",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-07-19",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-07-19",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-08-04",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-08-04",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-08-04",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-08-04",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-08-04",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-08-04",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-08-17",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-08-18",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-08-18",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-08-25",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-08-27",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-08-27",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-09-07",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-09-07",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-09-07",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-09-07",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-09-07",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-10-13",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-10-13",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-10-13",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-10-13",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-11-19",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-12-20",
+      "value": 75000.5
+    },
+    {
+      "date": "2021-12-20",
+      "value": 75000.5
+    },
+    {
+      "date": "2022-01-21",
+      "value": 8000.5
+    },
+    {
+      "date": "2023-12-22",
+      "value": 8000.5
+    },
+    {
+      "date": "2024-01-09",
+      "value": 8000.5
+    },
+    {
+      "date": "2024-01-19",
+      "value": 8000.5
+    },
+    {
+      "date": "2024-01-19",
+      "value": 8000.5
+    },
+    {
+      "date": "2024-01-19",
+      "value": 32500.5
+    },
+    {
+      "date": "2024-01-19",
+      "value": 32500.5
+    },
+    {
+      "date": "2024-01-19",
+      "value": 8000.5
+    },
+    {
+      "date": "2024-01-19",
+      "value": 8000.5
+    },
+    {
+      "date": "2024-01-19",
+      "value": 32500.5
+    },
+    {
+      "date": "2024-01-19",
+      "value": 32500.5
+    },
+    {
+      "date": "2024-01-19",
+      "value": 8000.5
+    },
+    {
+      "date": "2024-01-19",
+      "value": 8000.5
+    },
+    {
+      "date": "2024-01-19",
+      "value": 8000.5
+    },
+    {
+      "date": "2024-01-19",
+      "value": 8000.5
+    },
+    {
+      "date": "2024-01-19",
+      "value": 32500.5
+    },
+    {
+      "date": "2024-01-19",
+      "value": 175000.5
+    },
+    {
+      "date": "2024-01-19",
+      "value": 32500.5
+    },
+    {
+      "date": "2024-01-19",
+      "value": 8000.5
+    },
+    {
+      "date": "2024-01-19",
+      "value": 8000.5
+    },
+    {
+      "date": "2024-01-19",
+      "value": 32500.5
+    },
+    {
+      "date": "2024-01-19",
+      "value": 8000.5
+    },
+    {
+      "date": "2024-01-19",
+      "value": 8000.5
+    },
+    {
+      "date": "2024-01-19",
+      "value": 32500.5
+    },
+    {
+      "date": "2024-01-19",
+      "value": 8000.5
+    },
+    {
+      "date": "2024-01-19",
+      "value": 8000.5
+    },
+    {
+      "date": "2024-01-19",
+      "value": 8000.5
+    },
+    {
+      "date": "2024-01-19",
+      "value": 175000.5
+    },
+    {
+      "date": "2024-01-19",
+      "value": 8000.5
+    },
+    {
+      "date": "2024-01-19",
+      "value": 8000.5
+    }
+  ],
+  "measured": null
+}

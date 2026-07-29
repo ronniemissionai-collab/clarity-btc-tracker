@@ -1,0 +1,2545 @@
+{
+  "member": {
+    "bioguideId": "H000273",
+    "lisId": "S408",
+    "name": "John W. Hickenlooper",
+    "party": "D",
+    "chamber": "senate",
+    "state": "CO",
+    "active": true
+  },
+  "positions": [
+    {
+      "memberId": "H000273",
+      "security": {
+        "ticker": "REIT",
+        "kind": "other"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "status": "sold",
+      "asOf": "2023-05-10",
+      "extraction": "efd-html",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://efdsearch.senate.gov/search/view/ptr/fca2d837-22ec-457d-914a-45debad43294/"
+        }
+      ],
+      "note": "sale reported by PTR with no annual baseline in our coverage"
+    }
+  ],
+  "trades": [
+    {
+      "memberId": "H000273",
+      "assetRaw": "SiriusXM Holdings Inc. - Common Stock",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2026-02-05",
+      "filedDate": "2026-03-04",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/31980453-e298-4f21-9134-5d0b1a0e6491/",
+      "late": false,
+      "note": "partial sale",
+      "provenance": "both"
+    },
+    {
+      "memberId": "H000273",
+      "assetRaw": "Eaton Corporation, PLC Ordinary Shares",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2026-01-14",
+      "filedDate": "2026-02-06",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/83722654-25b1-499e-8ad5-4a1349d993a6/",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "H000273",
+      "assetRaw": "Lowe&#x27;s Companies, Inc. Common Stock",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2026-01-14",
+      "filedDate": "2026-02-06",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/83722654-25b1-499e-8ad5-4a1349d993a6/",
+      "late": false,
+      "note": "partial sale",
+      "provenance": "official"
+    },
+    {
+      "memberId": "H000273",
+      "assetRaw": "Lowe's Companies, Inc. Common Stock",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2026-01-14",
+      "filedDate": "2026-02-06",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/83722654-25b1-499e-8ad5-4a1349d993a6/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H000273",
+      "assetRaw": "TJX Companies, Inc. (The) Common Stock",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2026-01-14",
+      "filedDate": "2026-02-06",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/83722654-25b1-499e-8ad5-4a1349d993a6/",
+      "late": false,
+      "note": "partial sale",
+      "provenance": "both"
+    },
+    {
+      "memberId": "H000273",
+      "assetRaw": "Uber Technologies, Inc. Common Stock",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2026-01-14",
+      "filedDate": "2026-02-06",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/83722654-25b1-499e-8ad5-4a1349d993a6/",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "H000273",
+      "assetRaw": "Liberty Media Formula One Sr C",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2025-12-10",
+      "filedDate": "2026-01-06",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/abe1d99a-f229-49cd-af07-301511ecf0d1/",
+      "late": false,
+      "note": "partial sale",
+      "provenance": "both"
+    },
+    {
+      "memberId": "H000273",
+      "assetRaw": "Liberty Media Formula One Sr C",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2025-12-10",
+      "filedDate": "2026-01-06",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/abe1d99a-f229-49cd-af07-301511ecf0d1/",
+      "late": false,
+      "note": "partial sale",
+      "provenance": "both"
+    },
+    {
+      "memberId": "H000273",
+      "assetRaw": "Intuit Inc. - Common Stock",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2025-09-02",
+      "filedDate": "2025-10-06",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/8a808088-5410-434a-a082-cf86637ba3d7/",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "H000273",
+      "assetRaw": "Palo Alto Networks, Inc. Common Stock",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2025-09-02",
+      "filedDate": "2025-10-06",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/8a808088-5410-434a-a082-cf86637ba3d7/",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "H000273",
+      "assetRaw": "PepsiCo, Inc. - Common Stock",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2025-09-02",
+      "filedDate": "2025-10-06",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/8a808088-5410-434a-a082-cf86637ba3d7/",
+      "late": false,
+      "note": "full sale",
+      "provenance": "both"
+    },
+    {
+      "memberId": "H000273",
+      "assetRaw": "Chipotle Mexican Grill",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2025-06-12",
+      "filedDate": "2025-07-07",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/8bbbda05-9155-43c0-a273-352b87c5273f/",
+      "late": false,
+      "note": "partial sale",
+      "provenance": "both"
+    },
+    {
+      "memberId": "H000273",
+      "assetRaw": "Palantir Technologies Inc. - Class A Common Stock",
+      "security": null,
+      "side": "sell",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-06-03",
+      "filedDate": "2026-05-05",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/8036348f-2470-41f7-be97-d822d0b17e7c/",
+      "late": true,
+      "note": "full sale",
+      "provenance": "both"
+    },
+    {
+      "memberId": "H000273",
+      "assetRaw": "Liberty Broadband Corporation - Class C Common Stock",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 500001,
+        "hi": 1000000
+      },
+      "transactionDate": "2025-05-19",
+      "filedDate": "2026-05-05",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/8036348f-2470-41f7-be97-d822d0b17e7c/",
+      "late": true,
+      "note": "full sale; Sale of exercised stock option; strike price $77.68; expires 12/13/2030. This was a cashless sale that occurred on the same day the shares were exercised. The sale was part of the same 5/19/25 exercise transaction that was reported on the PTR filed on 6/13/25.",
+      "provenance": "both"
+    },
+    {
+      "memberId": "H000273",
+      "assetRaw": "Liberty Broadband Corporation - Class C Common Sto",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 250001,
+        "hi": 500000
+      },
+      "transactionDate": "2025-05-19",
+      "filedDate": "2025-06-13",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/36d82d69-0816-44bb-9d4d-5ce3cb68872b/",
+      "late": false,
+      "note": "Exercised stock options; Strike price $77.68; Expires 12/13/2030",
+      "provenance": "both"
+    },
+    {
+      "memberId": "H000273",
+      "assetRaw": "Liberty Broadband Corporation - Class C Common Sto",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2025-05-09",
+      "filedDate": "2025-05-26",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/f4eeafe8-a4a5-4d85-bf3b-04ad0b4aca18/",
+      "late": false,
+      "note": "Exercised stock option; Strike price $76.45; Expires 12/11/2030",
+      "provenance": "both"
+    },
+    {
+      "memberId": "H000273",
+      "assetRaw": "Liberty Broadband Corporation - Class C Common Sto",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2025-05-09",
+      "filedDate": "2025-05-26",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/f4eeafe8-a4a5-4d85-bf3b-04ad0b4aca18/",
+      "late": false,
+      "note": "full sale; Sale of exercised stock option; Strike price $76.45; Expires 12/11/2030",
+      "provenance": "both"
+    },
+    {
+      "memberId": "H000273",
+      "assetRaw": "Liberty Broadband Corporation - Class C Common Sto",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 250001,
+        "hi": 500000
+      },
+      "transactionDate": "2025-05-09",
+      "filedDate": "2025-05-26",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/f4eeafe8-a4a5-4d85-bf3b-04ad0b4aca18/",
+      "late": false,
+      "note": "Exercised stock option; Strike price $77.68; Expires 12/13/2030",
+      "provenance": "both"
+    },
+    {
+      "memberId": "H000273",
+      "assetRaw": "Liberty Broadband Corporation - Class C Common Sto",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 250001,
+        "hi": 500000
+      },
+      "transactionDate": "2025-05-09",
+      "filedDate": "2025-05-26",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/f4eeafe8-a4a5-4d85-bf3b-04ad0b4aca18/",
+      "late": false,
+      "note": "full sale; Sale of exercised stock option; Strike price $77.68; Expires 12/13/2030",
+      "provenance": "both"
+    },
+    {
+      "memberId": "H000273",
+      "assetRaw": "Liberty Media Formula One Sr C",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2025-05-09",
+      "filedDate": "2025-05-26",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/f4eeafe8-a4a5-4d85-bf3b-04ad0b4aca18/",
+      "late": false,
+      "note": "Exercised stock option; Strike price $62.90; Expires 12/08/2030",
+      "provenance": "both"
+    },
+    {
+      "memberId": "H000273",
+      "assetRaw": "Liberty Media Formula One Sr C",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 250001,
+        "hi": 500000
+      },
+      "transactionDate": "2025-05-09",
+      "filedDate": "2025-05-26",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/f4eeafe8-a4a5-4d85-bf3b-04ad0b4aca18/",
+      "late": false,
+      "note": "full sale; Sale of exercised stock option; Strike price $62.90; Expires 12/08/2030",
+      "provenance": "both"
+    },
+    {
+      "memberId": "H000273",
+      "assetRaw": "Liberty Media Formula One Sr C",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2025-05-09",
+      "filedDate": "2025-05-26",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/f4eeafe8-a4a5-4d85-bf3b-04ad0b4aca18/",
+      "late": false,
+      "note": "partial sale",
+      "provenance": "both"
+    },
+    {
+      "memberId": "H000273",
+      "assetRaw": "SiriusXM Holdings Inc. - Common Stock",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2025-04-25",
+      "filedDate": "2025-05-26",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/f4eeafe8-a4a5-4d85-bf3b-04ad0b4aca18/",
+      "late": false,
+      "note": "partial sale",
+      "provenance": "both"
+    },
+    {
+      "memberId": "H000273",
+      "assetRaw": "Palantir Technologies Inc. - Class A Common Stock",
+      "security": null,
+      "side": "sell",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-04-16",
+      "filedDate": "2026-05-05",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/8036348f-2470-41f7-be97-d822d0b17e7c/",
+      "late": true,
+      "note": "partial sale",
+      "provenance": "both"
+    },
+    {
+      "memberId": "H000273",
+      "assetRaw": "Liberty Media Formula One Sr C",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2025-03-18",
+      "filedDate": "2025-04-21",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/7ad9acc6-7b6d-4bc3-b753-e2ad4af8278d/",
+      "late": false,
+      "note": "partial sale",
+      "provenance": "both"
+    },
+    {
+      "memberId": "H000273",
+      "assetRaw": "Chipotle Mexican Grill",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2024-09-12",
+      "filedDate": "2024-10-15",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/7d47ef37-89f5-4649-ac7d-739741be9148/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H000273",
+      "assetRaw": "Liberty Media Corporation - Series C Liberty Siriu",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2024-09-06",
+      "filedDate": "2024-10-15",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/7d47ef37-89f5-4649-ac7d-739741be9148/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H000273",
+      "assetRaw": "Liberty Media Corporation - Series C Liberty Brave",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2024-08-30",
+      "filedDate": "2024-09-19",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/80c3b3f6-f466-440a-bbdc-dc4e6b5b52ca/",
+      "late": false,
+      "note": "Vested RSUs",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H000273",
+      "assetRaw": "Liberty Media Corporation - Series C Liberty Brave",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 250001,
+        "hi": 500000
+      },
+      "transactionDate": "2024-08-28",
+      "filedDate": "2024-09-19",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/80c3b3f6-f466-440a-bbdc-dc4e6b5b52ca/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H000273",
+      "assetRaw": "Liberty Media Corporation - Series C Liberty Brave",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2024-08-28",
+      "filedDate": "2024-09-19",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/80c3b3f6-f466-440a-bbdc-dc4e6b5b52ca/",
+      "late": false,
+      "note": "Exercised stock option; Strike price $26.36; Expires 12/10/2027",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H000273",
+      "assetRaw": "Lineage, Inc. - Common Stock",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2024-07-25",
+      "filedDate": "2024-09-05",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/ba223914-1e58-468f-882a-e10694f6c14a/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H000273",
+      "assetRaw": "Liberty Media Formula One Sr C",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2024-06-03",
+      "filedDate": "2024-06-10",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/115febfe-55cb-4f57-8452-71748371578b/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H000273",
+      "assetRaw": "Liberty Media Formula One Sr C",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2024-06-03",
+      "filedDate": "2024-06-10",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/115febfe-55cb-4f57-8452-71748371578b/",
+      "late": false,
+      "note": "Exercised stock option",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H000273",
+      "assetRaw": "Liberty Media Formula One Sr C",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 250001,
+        "hi": 500000
+      },
+      "transactionDate": "2024-05-20",
+      "filedDate": "2024-06-10",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/115febfe-55cb-4f57-8452-71748371578b/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H000273",
+      "assetRaw": "Liberty Media Formula One Sr C",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2024-05-20",
+      "filedDate": "2024-06-10",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/115febfe-55cb-4f57-8452-71748371578b/",
+      "late": false,
+      "note": "Exercised stock option",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H000273",
+      "assetRaw": "FWONK - Formula One Group",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2024-03-12",
+      "filedDate": "2024-04-11",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/2f506d44-7547-4211-a8ac-26698fb8f3c4/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H000273",
+      "assetRaw": "Liberty Media Corporation - Series C Liberty Siriu",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2024-03-12",
+      "filedDate": "2024-04-11",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/2f506d44-7547-4211-a8ac-26698fb8f3c4/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H000273",
+      "assetRaw": "SDZNY - Sandoz Group AG",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2024-01-09",
+      "filedDate": "2025-05-15",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/0ce898d6-4a82-4d78-a5b8-74df5b307720/",
+      "late": true,
+      "note": "full sale",
+      "provenance": "both"
+    },
+    {
+      "memberId": "H000273",
+      "assetRaw": "Chipotle Mexican Grill",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2023-12-13",
+      "filedDate": "2024-01-11",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/0fb62423-2e23-4ec0-ba06-c07646b316d4/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H000273",
+      "assetRaw": "Sirius XM Holdings Inc. - Common Stock",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2023-06-09",
+      "filedDate": "2023-06-15",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/fca2d837-22ec-457d-914a-45debad43294/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H000273",
+      "assetRaw": "Chipotle Mexican Grill, Inc. Common Stock",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2023-05-26",
+      "filedDate": "2023-06-15",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/fca2d837-22ec-457d-914a-45debad43294/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H000273",
+      "assetRaw": "American Tower Corporation (REIT) Common Stock",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2023-05-10",
+      "filedDate": "2023-06-15",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/fca2d837-22ec-457d-914a-45debad43294/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H000273",
+      "assetRaw": "Intel Corporation - Common Stock",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2023-05-10",
+      "filedDate": "2023-06-15",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/fca2d837-22ec-457d-914a-45debad43294/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H000273",
+      "assetRaw": "Verizon Communications Inc. Common Stock",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2023-05-10",
+      "filedDate": "2023-06-15",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/fca2d837-22ec-457d-914a-45debad43294/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H000273",
+      "assetRaw": "Chipotle Mexican Grill, Inc. Common Stock",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2023-05-01",
+      "filedDate": "2023-05-15",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/1fd6d368-0262-4c40-bc47-1fff0f8a3ae6/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H000273",
+      "assetRaw": "Alibaba Group Holding Limited American Depositary",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2023-04-28",
+      "filedDate": "2023-05-15",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/1fd6d368-0262-4c40-bc47-1fff0f8a3ae6/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H000273",
+      "assetRaw": "Amazon.com, Inc. - Common Stock",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2023-04-28",
+      "filedDate": "2023-05-15",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/1fd6d368-0262-4c40-bc47-1fff0f8a3ae6/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H000273",
+      "assetRaw": "CCC Intelligent Solutions Holdings Inc. Common Sto",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2023-04-28",
+      "filedDate": "2023-05-15",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/1fd6d368-0262-4c40-bc47-1fff0f8a3ae6/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H000273",
+      "assetRaw": "Comcast Corporation - Class A Common Stock",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2023-04-28",
+      "filedDate": "2023-05-15",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/1fd6d368-0262-4c40-bc47-1fff0f8a3ae6/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H000273",
+      "assetRaw": "Peloton Interactive, Inc. - Common Stock",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2023-04-28",
+      "filedDate": "2023-05-15",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/1fd6d368-0262-4c40-bc47-1fff0f8a3ae6/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H000273",
+      "assetRaw": "Pinterest, Inc. Class A Common Stock",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2023-04-28",
+      "filedDate": "2023-05-15",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/1fd6d368-0262-4c40-bc47-1fff0f8a3ae6/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H000273",
+      "assetRaw": "Snap Inc. Class A Common Stock",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2023-04-28",
+      "filedDate": "2023-05-15",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/1fd6d368-0262-4c40-bc47-1fff0f8a3ae6/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H000273",
+      "assetRaw": "The Trade Desk, Inc. - Class A Common Stock",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2023-04-28",
+      "filedDate": "2023-05-15",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/1fd6d368-0262-4c40-bc47-1fff0f8a3ae6/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H000273",
+      "assetRaw": "Walt Disney Company (The) Common Stock",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2023-04-28",
+      "filedDate": "2023-05-15",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/1fd6d368-0262-4c40-bc47-1fff0f8a3ae6/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H000273",
+      "assetRaw": "Best Buy Co., Inc. Common Stock",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2023-04-12",
+      "filedDate": "2023-05-15",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/1fd6d368-0262-4c40-bc47-1fff0f8a3ae6/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H000273",
+      "assetRaw": "CarGurus, Inc. - Class A Common Stock",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2023-04-12",
+      "filedDate": "2023-05-15",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/1fd6d368-0262-4c40-bc47-1fff0f8a3ae6/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H000273",
+      "assetRaw": "Liberty Broadband Corporation - Class C Common Sto",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2023-03-20",
+      "filedDate": "2023-04-13",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/4b312925-a9a6-48e1-baab-80010d8e2800/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H000273",
+      "assetRaw": "Liberty Media Corporation - Series C Liberty Brave",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2023-03-20",
+      "filedDate": "2023-04-13",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/4b312925-a9a6-48e1-baab-80010d8e2800/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H000273",
+      "assetRaw": "Liberty Media Corporation - Series C Liberty Formu",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2023-03-20",
+      "filedDate": "2023-04-13",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/4b312925-a9a6-48e1-baab-80010d8e2800/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H000273",
+      "assetRaw": "Liberty Media Corporation - Series C Liberty Siriu",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2023-03-20",
+      "filedDate": "2023-04-13",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/4b312925-a9a6-48e1-baab-80010d8e2800/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H000273",
+      "assetRaw": "Liberty TripAdvisor Holdings, Inc. - Series A Comm",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2023-03-20",
+      "filedDate": "2023-04-13",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/4b312925-a9a6-48e1-baab-80010d8e2800/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H000273",
+      "assetRaw": "Nokia Corporation Sponsored American Depositary Sh",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2023-03-15",
+      "filedDate": "2023-04-13",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/4b312925-a9a6-48e1-baab-80010d8e2800/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H000273",
+      "assetRaw": "Liberty Media Corporation - Series C Liberty Formu",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 500001,
+        "hi": 1000000
+      },
+      "transactionDate": "2023-03-08",
+      "filedDate": "2023-04-13",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/4b312925-a9a6-48e1-baab-80010d8e2800/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H000273",
+      "assetRaw": "Liberty Media Corporation - Series C Liberty Formu",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 250001,
+        "hi": 500000
+      },
+      "transactionDate": "2023-03-08",
+      "filedDate": "2023-04-13",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/4b312925-a9a6-48e1-baab-80010d8e2800/",
+      "late": false,
+      "note": "Exercised stock option",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H000273",
+      "assetRaw": "Liberty Media Corporation - Series C Liberty Formu",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2022-12-14",
+      "filedDate": "2022-12-22",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/0acee755-ed8e-4a93-8785-9946d8c49e03/",
+      "late": false,
+      "note": "Exercised stock option",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H000273",
+      "assetRaw": "Liberty Media Corporation - Series C Liberty Siriu",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 250001,
+        "hi": 500000
+      },
+      "transactionDate": "2022-12-05",
+      "filedDate": "2022-12-22",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/0acee755-ed8e-4a93-8785-9946d8c49e03/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H000273",
+      "assetRaw": "Liberty Media Corporation - Series C Liberty Siriu",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2022-12-05",
+      "filedDate": "2022-12-22",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/0acee755-ed8e-4a93-8785-9946d8c49e03/",
+      "late": false,
+      "note": "Exercised stock option",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H000273",
+      "assetRaw": "Liberty Broadband Corporation - Class C Common Sto",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2022-11-29",
+      "filedDate": "2022-12-22",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/0acee755-ed8e-4a93-8785-9946d8c49e03/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H000273",
+      "assetRaw": "Liberty Broadband Corporation - Class C Common Sto",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2022-11-29",
+      "filedDate": "2022-12-22",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/0acee755-ed8e-4a93-8785-9946d8c49e03/",
+      "late": false,
+      "note": "Exercised stock option",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H000273",
+      "assetRaw": "Liberty Media Corporation - Series C Liberty Brave",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2022-11-23",
+      "filedDate": "2022-11-29",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/ee5452a8-5c24-4044-8ffa-250971a8394c/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H000273",
+      "assetRaw": "Liberty Media Corporation - Series C Liberty Brave",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2022-11-23",
+      "filedDate": "2022-11-29",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/ee5452a8-5c24-4044-8ffa-250971a8394c/",
+      "late": false,
+      "note": "Exercised stock option",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H000273",
+      "assetRaw": "Liberty Media Corporation - Series A Liberty Brave",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2022-11-21",
+      "filedDate": "2022-11-29",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/ee5452a8-5c24-4044-8ffa-250971a8394c/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H000273",
+      "assetRaw": "Liberty Media Corporation - Series A Liberty Brave",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-11-21",
+      "filedDate": "2022-11-29",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/ee5452a8-5c24-4044-8ffa-250971a8394c/",
+      "late": false,
+      "note": "Exercised stock option",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H000273",
+      "assetRaw": "Liberty Media Corporation - Series C Liberty Brave",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2022-11-21",
+      "filedDate": "2022-11-29",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/ee5452a8-5c24-4044-8ffa-250971a8394c/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H000273",
+      "assetRaw": "Liberty Media Corporation - Series C Liberty Brave",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-11-21",
+      "filedDate": "2022-11-29",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/ee5452a8-5c24-4044-8ffa-250971a8394c/",
+      "late": false,
+      "note": "Exercised stock option",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H000273",
+      "assetRaw": "Liberty Broadband Corporation - Class A Common Sto",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2022-11-14",
+      "filedDate": "2022-11-29",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/ee5452a8-5c24-4044-8ffa-250971a8394c/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H000273",
+      "assetRaw": "Liberty Broadband Corporation - Class A Common Sto",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2022-11-14",
+      "filedDate": "2022-11-29",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/ee5452a8-5c24-4044-8ffa-250971a8394c/",
+      "late": false,
+      "note": "Exercised stock option",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H000273",
+      "assetRaw": "Liberty Media Corporation - Series C Liberty Formu",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2022-08-11",
+      "filedDate": "2022-08-19",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/64bae1ca-56a7-46cb-b6b1-19c49af27fc3/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H000273",
+      "assetRaw": "Liberty Media Corporation - Series C Liberty Formu",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2022-08-09",
+      "filedDate": "2022-08-19",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/64bae1ca-56a7-46cb-b6b1-19c49af27fc3/",
+      "late": false,
+      "note": "Exercised stock option.",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H000273",
+      "assetRaw": "Chipotle Mexican Grill, Inc. Common Stock",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2022-05-19",
+      "filedDate": "2022-06-13",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/f86c5e38-2281-4197-9c09-1aa5bef13c16/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H000273",
+      "assetRaw": "Liberty Broadband Corporation - Class A Common Sto",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-05-13",
+      "filedDate": "2022-06-13",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/f86c5e38-2281-4197-9c09-1aa5bef13c16/",
+      "late": false,
+      "note": "Exercised stock option.",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H000273",
+      "assetRaw": "Liberty Broadband Corporation - Class A Common Sto",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2022-05-13",
+      "filedDate": "2022-06-13",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/f86c5e38-2281-4197-9c09-1aa5bef13c16/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H000273",
+      "assetRaw": "Liberty Broadband Corporation - Class C Common Sto",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2022-05-13",
+      "filedDate": "2022-06-13",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/f86c5e38-2281-4197-9c09-1aa5bef13c16/",
+      "late": false,
+      "note": "Exercised stock option.",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H000273",
+      "assetRaw": "Liberty Broadband Corporation - Class C Common Sto",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2022-05-13",
+      "filedDate": "2022-06-13",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/f86c5e38-2281-4197-9c09-1aa5bef13c16/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H000273",
+      "assetRaw": "Liberty Media Corporation - Series A Liberty Formu",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-05-13",
+      "filedDate": "2022-06-13",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/f86c5e38-2281-4197-9c09-1aa5bef13c16/",
+      "late": false,
+      "note": "Exercised stock option.",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H000273",
+      "assetRaw": "Liberty Media Corporation - Series A Liberty Formu",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2022-05-13",
+      "filedDate": "2022-06-13",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/f86c5e38-2281-4197-9c09-1aa5bef13c16/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H000273",
+      "assetRaw": "Liberty Media Corporation - Series C Liberty Formu",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2022-05-13",
+      "filedDate": "2022-06-13",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/f86c5e38-2281-4197-9c09-1aa5bef13c16/",
+      "late": false,
+      "note": "Exercised stock option.",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H000273",
+      "assetRaw": "Liberty Media Corporation - Series C Liberty Formu",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2022-05-13",
+      "filedDate": "2022-06-13",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/f86c5e38-2281-4197-9c09-1aa5bef13c16/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H000273",
+      "assetRaw": "Liberty Broadband Corporation - Class C Common Sto",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2022-03-16",
+      "filedDate": "2022-06-13",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/f86c5e38-2281-4197-9c09-1aa5bef13c16/",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H000273",
+      "assetRaw": "Liberty Media Corporation - Series C Liberty Formu",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2022-03-16",
+      "filedDate": "2022-06-13",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/f86c5e38-2281-4197-9c09-1aa5bef13c16/",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H000273",
+      "assetRaw": "Liberty Media Corporation - Series C Liberty Siriu",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2022-03-16",
+      "filedDate": "2022-06-13",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/f86c5e38-2281-4197-9c09-1aa5bef13c16/",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H000273",
+      "assetRaw": "Liberty Media Corporation - Series C Liberty Brave",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-03-14",
+      "filedDate": "2022-06-13",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/f86c5e38-2281-4197-9c09-1aa5bef13c16/",
+      "late": true,
+      "note": "Exercised stock option.",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H000273",
+      "assetRaw": "Liberty Media Corporation - Series C Liberty Brave",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2022-03-14",
+      "filedDate": "2022-06-13",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/f86c5e38-2281-4197-9c09-1aa5bef13c16/",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H000273",
+      "assetRaw": "Liberty Media Corporation - Series C Liberty Siriu",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2021-11-12",
+      "filedDate": "2022-06-13",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/f86c5e38-2281-4197-9c09-1aa5bef13c16/",
+      "late": true,
+      "note": "Exercised stock option.",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H000273",
+      "assetRaw": "Liberty Media Corporation - Series C Liberty Siriu",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 250001,
+        "hi": 500000
+      },
+      "transactionDate": "2021-11-12",
+      "filedDate": "2022-05-16",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/9b809dc9-35a0-441f-a513-c3317ecedd55/",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H000273",
+      "assetRaw": "The Trade Desk, Inc. - Class A Common Stock",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2021-11-08",
+      "filedDate": "2021-12-10",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/3ca89f70-6cd2-4b06-a15d-44fd54fc58fa/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H000273",
+      "assetRaw": "Alphabet Inc. - Class A Common Stock",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 250001,
+        "hi": 500000
+      },
+      "transactionDate": "2021-11-01",
+      "filedDate": "2021-12-10",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/3ca89f70-6cd2-4b06-a15d-44fd54fc58fa/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H000273",
+      "assetRaw": "Microsoft Corporation - Common Stock",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 250001,
+        "hi": 500000
+      },
+      "transactionDate": "2021-11-01",
+      "filedDate": "2021-12-10",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/3ca89f70-6cd2-4b06-a15d-44fd54fc58fa/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H000273",
+      "assetRaw": "NVIDIA Corporation - Common Stock",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 500001,
+        "hi": 1000000
+      },
+      "transactionDate": "2021-11-01",
+      "filedDate": "2021-12-10",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/3ca89f70-6cd2-4b06-a15d-44fd54fc58fa/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H000273",
+      "assetRaw": "PayPal Holdings, Inc. - Common Stock",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 250001,
+        "hi": 500000
+      },
+      "transactionDate": "2021-11-01",
+      "filedDate": "2021-12-10",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/3ca89f70-6cd2-4b06-a15d-44fd54fc58fa/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H000273",
+      "assetRaw": "Amazon.com, Inc. - Common Stock",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 250001,
+        "hi": 500000
+      },
+      "transactionDate": "2021-10-29",
+      "filedDate": "2021-12-10",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/3ca89f70-6cd2-4b06-a15d-44fd54fc58fa/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H000273",
+      "assetRaw": "Apple Inc. - Common Stock",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 250001,
+        "hi": 500000
+      },
+      "transactionDate": "2021-10-29",
+      "filedDate": "2021-12-10",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/3ca89f70-6cd2-4b06-a15d-44fd54fc58fa/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H000273",
+      "assetRaw": "Chevron Corporation Common Stock",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2021-10-28",
+      "filedDate": "2021-11-19",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/3b5e5f56-1328-473b-85bb-cf831243c8da/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H000273",
+      "assetRaw": "Facebook, Inc. - Class A Common Stock",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 250001,
+        "hi": 500000
+      },
+      "transactionDate": "2021-10-27",
+      "filedDate": "2021-12-10",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/3ca89f70-6cd2-4b06-a15d-44fd54fc58fa/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H000273",
+      "assetRaw": "Liberty Broadband Corporation - Class C Common Sto",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2021-09-01",
+      "filedDate": "2022-06-13",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/f86c5e38-2281-4197-9c09-1aa5bef13c16/",
+      "late": true,
+      "note": "Exercised stock option.",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H000273",
+      "assetRaw": "Liberty Broadband Corporation - Class C Common Sto",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2021-09-01",
+      "filedDate": "2022-05-16",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/9b809dc9-35a0-441f-a513-c3317ecedd55/",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H000273",
+      "assetRaw": "Pinterest, Inc. Class A Common Stock",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2021-07-30",
+      "filedDate": "2021-08-09",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/f0c49765-8045-4aa6-a699-2fc462b00526/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H000273",
+      "assetRaw": "Snap Inc. Class A Common Stock",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2021-07-27",
+      "filedDate": "2021-08-09",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/f0c49765-8045-4aa6-a699-2fc462b00526/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H000273",
+      "assetRaw": "Organon & Co.",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-06-28",
+      "filedDate": "2021-07-09",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/4fc6484d-a9d0-4646-a418-beab49148783/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H000273",
+      "assetRaw": "Nokia Corporation",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-06-03",
+      "filedDate": "2021-07-09",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/4fc6484d-a9d0-4646-a418-beab49148783/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H000273",
+      "assetRaw": "Chipotle Mexican Grill, Inc.",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2021-05-19",
+      "filedDate": "2021-06-03",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/8fc9bf25-8952-42b4-a7c9-ed80f599b450/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H000273",
+      "assetRaw": "Skylark Lounge Holdings LLC\n                                        \n                                        \n                                        \n                                            \n                                                \n                                                    Company: Skylark Lounge Holdings LLC\n                                                    \n                                                         (Denver, CO)\n                                                    \n                                                \n                                            \n\n                                            \n                                                Description: Neighborhood bar and music lounge",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2021-05-11",
+      "filedDate": "2022-05-16",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/9b809dc9-35a0-441f-a513-c3317ecedd55/",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H000273",
+      "assetRaw": "Qurate Retail, Inc. - Series A Common Stock",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 250001,
+        "hi": 500000
+      },
+      "transactionDate": "2021-05-10",
+      "filedDate": "2022-06-13",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/f86c5e38-2281-4197-9c09-1aa5bef13c16/",
+      "late": true,
+      "note": "Exercised stock option.",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H000273",
+      "assetRaw": "Qurate Retail, Inc.",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2021-05-10",
+      "filedDate": "2021-06-03",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/8fc9bf25-8952-42b4-a7c9-ed80f599b450/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H000273",
+      "assetRaw": "The Trade Desk, Inc.",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2021-05-10",
+      "filedDate": "2021-06-03",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/8fc9bf25-8952-42b4-a7c9-ed80f599b450/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H000273",
+      "assetRaw": "Peloton Interactive, Inc.",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-05-04",
+      "filedDate": "2021-06-03",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/8fc9bf25-8952-42b4-a7c9-ed80f599b450/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H000273",
+      "assetRaw": "Liberty Broadband Corporation - Class C Common Sto",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2021-03-15",
+      "filedDate": "2022-06-13",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/f86c5e38-2281-4197-9c09-1aa5bef13c16/",
+      "late": true,
+      "note": "Exercised stock option.",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H000273",
+      "assetRaw": "Liberty Media Corporation - Series C Liberty Siriu",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2021-03-15",
+      "filedDate": "2022-06-13",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/f86c5e38-2281-4197-9c09-1aa5bef13c16/",
+      "late": true,
+      "note": "Exercised stock option.",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H000273",
+      "assetRaw": "Liberty Broadband Corporation - Class C Common Sto",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2021-03-15",
+      "filedDate": "2022-05-16",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/9b809dc9-35a0-441f-a513-c3317ecedd55/",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H000273",
+      "assetRaw": "Liberty Media Corporation - Series C Liberty Siriu",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2021-03-15",
+      "filedDate": "2022-05-16",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/9b809dc9-35a0-441f-a513-c3317ecedd55/",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H000273",
+      "assetRaw": "Dragoneer Growth Opportunities Corp.",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-02-18",
+      "filedDate": "2021-04-01",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/e3f4d9c3-2ada-4fad-9e67-3941095a8f0c/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H000273",
+      "assetRaw": "CarGurus, Inc.",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-02-12",
+      "filedDate": "2021-04-01",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/e3f4d9c3-2ada-4fad-9e67-3941095a8f0c/",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H000273",
+      "assetRaw": "Liberty Media Acquisition Corporation",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2021-01-22",
+      "filedDate": "2021-02-19",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/f8e43fad-614c-4bc7-b13c-8e075c40869d/",
+      "late": false,
+      "provenance": "kadoa"
+    }
+  ],
+  "series": [
+    {
+      "date": "2021-01-22",
+      "value": 75000.5
+    },
+    {
+      "date": "2021-02-12",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-02-18",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-03-15",
+      "value": 75000.5
+    },
+    {
+      "date": "2021-03-15",
+      "value": 175000.5
+    },
+    {
+      "date": "2021-03-15",
+      "value": 175000.5
+    },
+    {
+      "date": "2021-03-15",
+      "value": 175000.5
+    },
+    {
+      "date": "2021-05-04",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-05-10",
+      "value": 175000.5
+    },
+    {
+      "date": "2021-05-10",
+      "value": 375000.5
+    },
+    {
+      "date": "2021-05-10",
+      "value": 32500.5
+    },
+    {
+      "date": "2021-05-11",
+      "value": 32500.5
+    },
+    {
+      "date": "2021-05-19",
+      "value": 175000.5
+    },
+    {
+      "date": "2021-06-03",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-06-28",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-07-27",
+      "value": 32500.5
+    },
+    {
+      "date": "2021-07-30",
+      "value": 32500.5
+    },
+    {
+      "date": "2021-09-01",
+      "value": 32500.5
+    },
+    {
+      "date": "2021-09-01",
+      "value": 175000.5
+    },
+    {
+      "date": "2021-10-27",
+      "value": 375000.5
+    },
+    {
+      "date": "2021-10-28",
+      "value": 175000.5
+    },
+    {
+      "date": "2021-10-29",
+      "value": 375000.5
+    },
+    {
+      "date": "2021-10-29",
+      "value": 375000.5
+    },
+    {
+      "date": "2021-11-01",
+      "value": 375000.5
+    },
+    {
+      "date": "2021-11-01",
+      "value": 375000.5
+    },
+    {
+      "date": "2021-11-01",
+      "value": 750000.5
+    },
+    {
+      "date": "2021-11-01",
+      "value": 375000.5
+    },
+    {
+      "date": "2021-11-08",
+      "value": 32500.5
+    },
+    {
+      "date": "2021-11-12",
+      "value": 175000.5
+    },
+    {
+      "date": "2021-11-12",
+      "value": 375000.5
+    },
+    {
+      "date": "2022-03-14",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-03-14",
+      "value": 32500.5
+    },
+    {
+      "date": "2022-03-16",
+      "value": 75000.5
+    },
+    {
+      "date": "2022-03-16",
+      "value": 75000.5
+    },
+    {
+      "date": "2022-03-16",
+      "value": 32500.5
+    },
+    {
+      "date": "2022-05-13",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-05-13",
+      "value": 32500.5
+    },
+    {
+      "date": "2022-05-13",
+      "value": 32500.5
+    },
+    {
+      "date": "2022-05-13",
+      "value": 32500.5
+    },
+    {
+      "date": "2022-05-13",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-05-13",
+      "value": 75000.5
+    },
+    {
+      "date": "2022-05-13",
+      "value": 32500.5
+    },
+    {
+      "date": "2022-05-13",
+      "value": 75000.5
+    },
+    {
+      "date": "2022-05-19",
+      "value": 75000.5
+    },
+    {
+      "date": "2022-08-09",
+      "value": 32500.5
+    },
+    {
+      "date": "2022-08-11",
+      "value": 75000.5
+    },
+    {
+      "date": "2022-11-14",
+      "value": 75000.5
+    },
+    {
+      "date": "2022-11-14",
+      "value": 32500.5
+    },
+    {
+      "date": "2022-11-21",
+      "value": 32500.5
+    },
+    {
+      "date": "2022-11-21",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-11-21",
+      "value": 32500.5
+    },
+    {
+      "date": "2022-11-21",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-11-23",
+      "value": 175000.5
+    },
+    {
+      "date": "2022-11-23",
+      "value": 75000.5
+    },
+    {
+      "date": "2022-11-29",
+      "value": 75000.5
+    },
+    {
+      "date": "2022-11-29",
+      "value": 75000.5
+    },
+    {
+      "date": "2022-12-05",
+      "value": 375000.5
+    },
+    {
+      "date": "2022-12-05",
+      "value": 175000.5
+    },
+    {
+      "date": "2022-12-14",
+      "value": 75000.5
+    },
+    {
+      "date": "2023-03-08",
+      "value": 750000.5
+    },
+    {
+      "date": "2023-03-08",
+      "value": 375000.5
+    },
+    {
+      "date": "2023-03-15",
+      "value": 8000.5
+    },
+    {
+      "date": "2023-03-20",
+      "value": 32500.5
+    },
+    {
+      "date": "2023-03-20",
+      "value": 32500.5
+    },
+    {
+      "date": "2023-03-20",
+      "value": 75000.5
+    },
+    {
+      "date": "2023-03-20",
+      "value": 32500.5
+    },
+    {
+      "date": "2023-03-20",
+      "value": 8000.5
+    },
+    {
+      "date": "2023-04-12",
+      "value": 8000.5
+    },
+    {
+      "date": "2023-04-12",
+      "value": 8000.5
+    },
+    {
+      "date": "2023-04-28",
+      "value": 8000.5
+    },
+    {
+      "date": "2023-04-28",
+      "value": 32500.5
+    },
+    {
+      "date": "2023-04-28",
+      "value": 32500.5
+    },
+    {
+      "date": "2023-04-28",
+      "value": 32500.5
+    },
+    {
+      "date": "2023-04-28",
+      "value": 8000.5
+    },
+    {
+      "date": "2023-04-28",
+      "value": 8000.5
+    },
+    {
+      "date": "2023-04-28",
+      "value": 8000.5
+    },
+    {
+      "date": "2023-04-28",
+      "value": 32500.5
+    },
+    {
+      "date": "2023-04-28",
+      "value": 32500.5
+    },
+    {
+      "date": "2023-05-01",
+      "value": 175000.5
+    },
+    {
+      "date": "2023-05-10",
+      "value": 175000.5
+    },
+    {
+      "date": "2023-05-10",
+      "value": 175000.5
+    },
+    {
+      "date": "2023-05-10",
+      "value": 175000.5
+    },
+    {
+      "date": "2023-05-26",
+      "value": 175000.5
+    },
+    {
+      "date": "2023-06-09",
+      "value": 32500.5
+    },
+    {
+      "date": "2023-12-13",
+      "value": 175000.5
+    },
+    {
+      "date": "2024-01-09",
+      "value": 8000.5
+    },
+    {
+      "date": "2024-03-12",
+      "value": 75000.5
+    },
+    {
+      "date": "2024-03-12",
+      "value": 32500.5
+    },
+    {
+      "date": "2024-05-20",
+      "value": 375000.5
+    },
+    {
+      "date": "2024-05-20",
+      "value": 175000.5
+    },
+    {
+      "date": "2024-06-03",
+      "value": 175000.5
+    },
+    {
+      "date": "2024-06-03",
+      "value": 175000.5
+    },
+    {
+      "date": "2024-07-25",
+      "value": 75000.5
+    },
+    {
+      "date": "2024-08-28",
+      "value": 375000.5
+    },
+    {
+      "date": "2024-08-28",
+      "value": 175000.5
+    },
+    {
+      "date": "2024-08-30",
+      "value": 75000.5
+    },
+    {
+      "date": "2024-09-06",
+      "value": 175000.5
+    },
+    {
+      "date": "2024-09-12",
+      "value": 175000.5
+    },
+    {
+      "date": "2025-03-18",
+      "value": 75000.5
+    },
+    {
+      "date": "2025-04-16",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-04-25",
+      "value": 75000.5
+    },
+    {
+      "date": "2025-05-09",
+      "value": 175000.5
+    },
+    {
+      "date": "2025-05-09",
+      "value": 175000.5
+    },
+    {
+      "date": "2025-05-09",
+      "value": 375000.5
+    },
+    {
+      "date": "2025-05-09",
+      "value": 375000.5
+    },
+    {
+      "date": "2025-05-09",
+      "value": 175000.5
+    },
+    {
+      "date": "2025-05-09",
+      "value": 375000.5
+    },
+    {
+      "date": "2025-05-09",
+      "value": 32500.5
+    },
+    {
+      "date": "2025-05-19",
+      "value": 375000.5
+    },
+    {
+      "date": "2025-05-19",
+      "value": 750000.5
+    },
+    {
+      "date": "2025-06-03",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-06-12",
+      "value": 175000.5
+    },
+    {
+      "date": "2025-09-02",
+      "value": 175000.5
+    },
+    {
+      "date": "2025-09-02",
+      "value": 175000.5
+    },
+    {
+      "date": "2025-09-02",
+      "value": 175000.5
+    },
+    {
+      "date": "2025-12-10",
+      "value": 75000.5
+    },
+    {
+      "date": "2025-12-10",
+      "value": 32500.5
+    },
+    {
+      "date": "2026-01-14",
+      "value": 75000.5
+    },
+    {
+      "date": "2026-01-14",
+      "value": 75000.5
+    },
+    {
+      "date": "2026-01-14",
+      "value": 75000.5
+    },
+    {
+      "date": "2026-01-14",
+      "value": 75000.5
+    },
+    {
+      "date": "2026-01-14",
+      "value": 175000.5
+    },
+    {
+      "date": "2026-02-05",
+      "value": 75000.5
+    }
+  ],
+  "measured": null
+}

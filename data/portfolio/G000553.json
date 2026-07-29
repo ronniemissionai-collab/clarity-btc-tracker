@@ -1,0 +1,36 @@
+{
+  "member": {
+    "bioguideId": "G000553",
+    "name": "Al Green",
+    "party": "D",
+    "chamber": "house",
+    "state": "TX",
+    "district": "TX-09",
+    "active": true
+  },
+  "positions": [],
+  "trades": [
+    {
+      "memberId": "G000553",
+      "assetRaw": "NATIONWIDE FIXED ACCOUNT, 100% Interest",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2016-12-30",
+      "filedDate": "2017-01-19",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2017/20006575.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    }
+  ],
+  "series": [
+    {
+      "date": "2016-12-30",
+      "value": 175000.5
+    }
+  ],
+  "measured": null
+}

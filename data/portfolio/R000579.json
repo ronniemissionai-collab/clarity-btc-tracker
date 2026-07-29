@@ -1,0 +1,37 @@
+{
+  "member": {
+    "bioguideId": "R000579",
+    "name": "Patrick Ryan",
+    "party": "D",
+    "chamber": "house",
+    "state": "NY",
+    "district": "NY-18",
+    "active": true
+  },
+  "positions": [],
+  "trades": [
+    {
+      "memberId": "R000579",
+      "assetRaw": "OnSolve LLC Shares [PS]",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2024-07-31",
+      "filedDate": "2025-10-10",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030800.pdf",
+      "late": true,
+      "note": "AI technology company",
+      "provenance": "kadoa"
+    }
+  ],
+  "series": [
+    {
+      "date": "2024-07-31",
+      "value": 32500.5
+    }
+  ],
+  "measured": null
+}

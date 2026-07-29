@@ -1,0 +1,405 @@
+{
+  "member": {
+    "bioguideId": "S000510",
+    "name": "Adam Smith",
+    "party": "D",
+    "chamber": "house",
+    "state": "WA",
+    "district": "WA-09",
+    "active": true
+  },
+  "positions": [
+    {
+      "memberId": "S000510",
+      "security": {
+        "ticker": "TSLA",
+        "kind": "treasury"
+      },
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "sold",
+      "asOf": "2025-08-08",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030868.pdf"
+        }
+      ],
+      "note": "sale reported by PTR with no annual baseline in our coverage"
+    }
+  ],
+  "trades": [
+    {
+      "memberId": "S000510",
+      "assetRaw": "ABB LTD SPONS ADR",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-08-08",
+      "filedDate": "2025-08-08",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030868.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S000510",
+      "assetRaw": "Alaska Air Group, Inc. Common Stock",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-08-08",
+      "filedDate": "2025-08-08",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030868.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S000510",
+      "assetRaw": "Alphabet Inc. - Class C Capital Stock",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-08-08",
+      "filedDate": "2025-08-08",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030868.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S000510",
+      "assetRaw": "Apple Inc. - Common Stock",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-08-08",
+      "filedDate": "2025-08-08",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030868.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S000510",
+      "assetRaw": "Berkshire Hathaway Inc. New Common Stock",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-08-08",
+      "filedDate": "2025-08-08",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030868.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S000510",
+      "assetRaw": "CVS Health Corporation Common Stock",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-08-08",
+      "filedDate": "2025-08-08",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030868.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S000510",
+      "assetRaw": "Citigroup, Inc. Common Stock",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-08-08",
+      "filedDate": "2025-08-08",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030868.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S000510",
+      "assetRaw": "Deere & Company Common Stock",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-08-08",
+      "filedDate": "2025-08-08",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030868.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S000510",
+      "assetRaw": "Microsoft Corporation - Common Stock",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-08-08",
+      "filedDate": "2025-08-08",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030868.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S000510",
+      "assetRaw": "Newmont Corporation",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-08-08",
+      "filedDate": "2025-08-08",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030868.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S000510",
+      "assetRaw": "PACCAR Inc. - Common Stock",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-08-08",
+      "filedDate": "2025-08-08",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030868.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S000510",
+      "assetRaw": "Procter & Gamble Company",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-08-08",
+      "filedDate": "2025-08-08",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030868.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S000510",
+      "assetRaw": "Republic Services, Inc. Common Stock",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-08-08",
+      "filedDate": "2025-08-08",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030868.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S000510",
+      "assetRaw": "Tesla, Inc. - Common Stock",
+      "security": {
+        "ticker": "TSLA",
+        "kind": "treasury"
+      },
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-08-08",
+      "filedDate": "2025-08-08",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030868.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S000510",
+      "assetRaw": "Union Pacific Corporation Common Stock",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-08-08",
+      "filedDate": "2025-08-08",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030868.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S000510",
+      "assetRaw": "United Parcel Service, Inc. Common Stock",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-08-08",
+      "filedDate": "2025-08-08",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030868.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S000510",
+      "assetRaw": "Walt Disney Company",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-08-08",
+      "filedDate": "2025-08-08",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030868.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S000510",
+      "assetRaw": "Weyerhaeuser Company Common Stock",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-08-08",
+      "filedDate": "2025-08-08",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030868.pdf",
+      "late": false,
+      "note": "Beneficiary IRA C These stocks were part of the Inherited Beneficiary IRA spouse received upon the death of her father in 2021. Spouse has chosen to divest of all the stocks contained within this IRA. As this is an Inherited Beneficiary IRA, there are no capital gains on the sale of securities contained within this IRA.",
+      "provenance": "kadoa"
+    }
+  ],
+  "series": [
+    {
+      "date": "2025-08-08",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-08-08",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-08-08",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-08-08",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-08-08",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-08-08",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-08-08",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-08-08",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-08-08",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-08-08",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-08-08",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-08-08",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-08-08",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-08-08",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-08-08",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-08-08",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-08-08",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-08-08",
+      "value": 8000.5
+    }
+  ],
+  "measured": null
+}

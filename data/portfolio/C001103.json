@@ -1,0 +1,686 @@
+{
+  "member": {
+    "bioguideId": "C001103",
+    "name": "Earl L. \"Buddy\" Carter",
+    "party": "R",
+    "chamber": "house",
+    "state": "GA",
+    "district": "GA-01",
+    "active": true
+  },
+  "positions": [],
+  "trades": [
+    {
+      "memberId": "C001103",
+      "assetRaw": "US Treasury Bill [GS]",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1000001,
+        "hi": 5000000
+      },
+      "transactionDate": "2026-05-07",
+      "filedDate": "2026-05-08",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034502.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "C001103",
+      "assetRaw": "US Treasury Bill [GS]",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1000001,
+        "hi": 5000000
+      },
+      "transactionDate": "2025-06-17",
+      "filedDate": "2025-07-08",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030632.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "C001103",
+      "assetRaw": "US Treasury Bill [GS]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1000001,
+        "hi": 5000000
+      },
+      "transactionDate": "2025-04-15",
+      "filedDate": "2025-04-23",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030215.pdf",
+      "late": false,
+      "note": "Due 6/17/25",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "C001103",
+      "assetRaw": "US TREASURY BILL [GS]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 500001,
+        "hi": 1000000
+      },
+      "transactionDate": "2025-02-28",
+      "filedDate": "2025-03-06",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20027913.pdf",
+      "late": false,
+      "note": "Due 04/15/25",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "C001103",
+      "assetRaw": "Ameris Bancorp - Common Stock",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2024-07-23",
+      "filedDate": "2024-07-24",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/20025499.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "C001103",
+      "assetRaw": "Ameris Bancorp - Common Stock",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2024-07-19",
+      "filedDate": "2024-07-24",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/20025499.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "C001103",
+      "assetRaw": "Ameris Bancorp - Common Stock",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2024-07-18",
+      "filedDate": "2024-07-24",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/20025499.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "C001103",
+      "assetRaw": "Atlanta GA Dev Auth Stdnt HSG [GS]",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2023-09-01",
+      "filedDate": "2024-06-28",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/20025349.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "C001103",
+      "assetRaw": "2000105211Winslow Large Cap Growth [HN]",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2023-05-01",
+      "filedDate": "2024-06-12",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/20025257.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "C001103",
+      "assetRaw": "Eaton Vance Large Value [HN]",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2023-05-01",
+      "filedDate": "2023-05-09",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20022894.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "C001103",
+      "assetRaw": "Eaton Vance Large Value [HN]",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 250001,
+        "hi": 500000
+      },
+      "transactionDate": "2021-12-28",
+      "filedDate": "2022-02-09",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020422.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "C001103",
+      "assetRaw": "Morgan Stanley Unified Management Account Kayne Anderson Sm Quality Val [HN]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2021-12-28",
+      "filedDate": "2022-02-09",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020422.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "C001103",
+      "assetRaw": "Morgan Stanley Unified Management Account LOCATION: US dESCRIPTION: REIT Winslow Large Cap growth [HN]",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 250001,
+        "hi": 500000
+      },
+      "transactionDate": "2021-12-28",
+      "filedDate": "2022-02-09",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020422.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "C001103",
+      "assetRaw": "Morgan Stanley Unified Management Account Neuberger berman Intl AdR [HN]",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2021-12-28",
+      "filedDate": "2022-02-09",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020422.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "C001103",
+      "assetRaw": "Morgan Stanley Unified Management Account Sterling Capital Mgt Mid Val [HN]",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2021-12-28",
+      "filedDate": "2022-02-09",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020422.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "C001103",
+      "assetRaw": "Morgan Stanley Unified Management Account Uniplan Investment Equity REIT [OT]",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 250001,
+        "hi": 500000
+      },
+      "transactionDate": "2021-12-28",
+      "filedDate": "2022-02-09",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020422.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "C001103",
+      "assetRaw": "First Trust Stifel best Picks Jan 21 [OT]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2021-02-09",
+      "filedDate": "2021-05-10",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20018712.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "C001103",
+      "assetRaw": "AUgUSTA gA WTR & SWR RFDg & IMPT 2ND RESOLUTN [gS]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2020-08-28",
+      "filedDate": "2020-09-09",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20017327.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "C001103",
+      "assetRaw": "Alternative Investment Partners Absolute Return Fund [HN]",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 250001,
+        "hi": 500000
+      },
+      "transactionDate": "2020-07-30",
+      "filedDate": "2021-05-12",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20018726.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "C001103",
+      "assetRaw": "bULLOCH CNTY gA DEV STDNT HSDg REV RFDg gA STHRN UNIV [gS]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2020-07-30",
+      "filedDate": "2020-08-13",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20017188.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "C001103",
+      "assetRaw": "Stifel FULTON CNTY gA WTR & SWR REV [gS]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2020-06-25",
+      "filedDate": "2020-08-13",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20017188.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "C001103",
+      "assetRaw": "SU STDNT HSg [gS]",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2020-05-13",
+      "filedDate": "2020-06-11",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20016752.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "C001103",
+      "assetRaw": "VANNAH CLLg ART & DSgN [gS]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2020-05-13",
+      "filedDate": "2020-06-11",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20016752.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "C001103",
+      "assetRaw": "MILToN ga PUb bLDgS FaCS aUTH REV b/E (12/01/37) [gS]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2019-10-23",
+      "filedDate": "2019-11-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20012553.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "C001103",
+      "assetRaw": "gEoRgIa ST RFDg SER b/E (Due 7/01/20) [gS]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2019-08-30",
+      "filedDate": "2019-09-18",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20012340.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "C001103",
+      "assetRaw": "Stifel LaWRENCEVILLE ga bLDg aUTH REV PERFoRMINg aRTS CMPLX (Due 10/01/37) [gS]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2019-08-02",
+      "filedDate": "2019-08-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20012110.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "C001103",
+      "assetRaw": "bULLoCH CNTY ga DEV RFDg ga STHRN UNIV HSg FNDTN (Due 08/01/25) [gS]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2019-08-02",
+      "filedDate": "2019-08-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20012110.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "C001103",
+      "assetRaw": "Metropolitan atlanta Rapid Tran Sales Tax Rev [gS]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2019-07-02",
+      "filedDate": "2019-07-19",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20012028.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "C001103",
+      "assetRaw": "Metro atlanta Rapid auth (07/01/36) [gS]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2019-05-09",
+      "filedDate": "2019-06-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20011796.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "C001103",
+      "assetRaw": "Stifel Metropolitan atlanta Rapid Tran auth (07/01/28) [gS]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2019-05-09",
+      "filedDate": "2019-06-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20011796.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "C001103",
+      "assetRaw": "Cobb CNTY ga WTR & S REV IMPT b/E [gS]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2018-08-22",
+      "filedDate": "2018-09-12",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20010274.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "C001103",
+      "assetRaw": "Sterne agee Savannah ga Econ Dev auth Rev Rfdg armstrong Ctr (Due 12/01/27)",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2015-09-10",
+      "filedDate": "2015-09-10",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2015/20003749.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "C001103",
+      "assetRaw": "Sterne agee 000% Lawrenceville ga bld auth Rev Lawrenceville (Due 04/01/27)",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2015-08-25",
+      "filedDate": "2015-09-10",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2015/20003749.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "C001103",
+      "assetRaw": "agL Resources, Inc. (gaS)",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2015-08-14",
+      "filedDate": "2015-09-10",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2015/20003749.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "C001103",
+      "assetRaw": "aLBaNY DOugHTERY auTH ga INNER CITY REV BOND",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2015-03-11",
+      "filedDate": "2015-05-22",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2015/20003169.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    }
+  ],
+  "series": [
+    {
+      "date": "2015-03-11",
+      "value": 32500.5
+    },
+    {
+      "date": "2015-08-14",
+      "value": 32500.5
+    },
+    {
+      "date": "2015-08-25",
+      "value": 32500.5
+    },
+    {
+      "date": "2015-09-10",
+      "value": 32500.5
+    },
+    {
+      "date": "2018-08-22",
+      "value": 75000.5
+    },
+    {
+      "date": "2019-05-09",
+      "value": 32500.5
+    },
+    {
+      "date": "2019-05-09",
+      "value": 8000.5
+    },
+    {
+      "date": "2019-07-02",
+      "value": 32500.5
+    },
+    {
+      "date": "2019-08-02",
+      "value": 32500.5
+    },
+    {
+      "date": "2019-08-02",
+      "value": 32500.5
+    },
+    {
+      "date": "2019-08-30",
+      "value": 32500.5
+    },
+    {
+      "date": "2019-10-23",
+      "value": 32500.5
+    },
+    {
+      "date": "2020-05-13",
+      "value": 32500.5
+    },
+    {
+      "date": "2020-05-13",
+      "value": 32500.5
+    },
+    {
+      "date": "2020-06-25",
+      "value": 32500.5
+    },
+    {
+      "date": "2020-07-30",
+      "value": 375000.5
+    },
+    {
+      "date": "2020-07-30",
+      "value": 32500.5
+    },
+    {
+      "date": "2020-08-28",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-02-09",
+      "value": 32500.5
+    },
+    {
+      "date": "2021-12-28",
+      "value": 375000.5
+    },
+    {
+      "date": "2021-12-28",
+      "value": 32500.5
+    },
+    {
+      "date": "2021-12-28",
+      "value": 375000.5
+    },
+    {
+      "date": "2021-12-28",
+      "value": 75000.5
+    },
+    {
+      "date": "2021-12-28",
+      "value": 175000.5
+    },
+    {
+      "date": "2021-12-28",
+      "value": 375000.5
+    },
+    {
+      "date": "2023-05-01",
+      "value": 175000.5
+    },
+    {
+      "date": "2023-05-01",
+      "value": 175000.5
+    },
+    {
+      "date": "2023-09-01",
+      "value": 32500.5
+    },
+    {
+      "date": "2024-07-18",
+      "value": 175000.5
+    },
+    {
+      "date": "2024-07-19",
+      "value": 175000.5
+    },
+    {
+      "date": "2024-07-23",
+      "value": 175000.5
+    },
+    {
+      "date": "2025-02-28",
+      "value": 750000.5
+    },
+    {
+      "date": "2025-04-15",
+      "value": 3000000.5
+    },
+    {
+      "date": "2025-06-17",
+      "value": 3000000.5
+    },
+    {
+      "date": "2026-05-07",
+      "value": 3000000.5
+    }
+  ],
+  "measured": null
+}

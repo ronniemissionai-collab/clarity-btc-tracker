@@ -1,0 +1,38 @@
+{
+  "member": {
+    "bioguideId": "M001223",
+    "name": "Seth Magaziner",
+    "party": "D",
+    "chamber": "house",
+    "state": "RI",
+    "district": "RI-02",
+    "active": true
+  },
+  "positions": [],
+  "trades": [
+    {
+      "memberId": "M001223",
+      "assetRaw": "Galileo, Inc. [PS]",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2024-05-31",
+      "filedDate": "2024-07-02",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/20025372.pdf",
+      "late": false,
+      "note": "Exercised stock option",
+      "provenance": "kadoa"
+    }
+  ],
+  "series": [
+    {
+      "date": "2024-05-31",
+      "value": 32500.5
+    }
+  ],
+  "measured": null
+}

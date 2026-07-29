@@ -1,0 +1,77 @@
+{
+  "member": {
+    "bioguideId": "S001181",
+    "lisId": "S324",
+    "name": "Jeanne Shaheen",
+    "party": "D",
+    "chamber": "senate",
+    "state": "NH",
+    "active": true
+  },
+  "positions": [],
+  "trades": [
+    {
+      "memberId": "S001181",
+      "assetRaw": "Vera Roasting Corporation\n                                        \n                                        \n                                        \n                                            \n                                                \n                                                    Company: Vera Roasting Corporation\n                                                    \n                                                         (Dover, NH)\n                                                    \n                                                \n                                            \n\n                                            \n                                                Description: Coffee Company",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2018-11-07",
+      "filedDate": "2020-08-10",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/2e2d60b5-7f9d-43a8-8343-ddc2558d087c/",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S001181",
+      "assetRaw": "Diogenes, LLC\n                                        \n                                        \n                                        \n                                            \n                                                \n                                                    Company: Diogenes, LLC\n                                                    \n                                                         (Manchester, NH)\n                                                    \n                                                \n                                            \n\n                                            \n                                                Description: Owns commercial rental real property (80 Merrimack Street)",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-03-17",
+      "filedDate": "2017-06-21",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/9e63eb2b-5a2a-4cd6-9d86-1ea6157208c1/",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S001181",
+      "assetRaw": "The Salon LLC\n                                        \n                                        \n                                        \n                                            \n                                                \n                                                    Company: The Salon LLC\n                                                    \n                                                         (Dover, NH )\n                                                    \n                                                \n                                            \n\n                                            \n                                                Description: Hair salon",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2015-12-01",
+      "filedDate": "2016-05-23",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/ae015c97-8a29-422d-8089-2e90bbfb125b/",
+      "late": true,
+      "provenance": "kadoa"
+    }
+  ],
+  "series": [
+    {
+      "date": "2015-12-01",
+      "value": 32500.5
+    },
+    {
+      "date": "2017-03-17",
+      "value": 8000.5
+    },
+    {
+      "date": "2018-11-07",
+      "value": 175000.5
+    }
+  ],
+  "measured": null
+}

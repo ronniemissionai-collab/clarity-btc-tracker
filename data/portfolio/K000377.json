@@ -1,0 +1,38 @@
+{
+  "member": {
+    "bioguideId": "K000377",
+    "lisId": "S406",
+    "name": "Mark Kelly",
+    "party": "D",
+    "chamber": "senate",
+    "state": "AZ",
+    "active": true
+  },
+  "positions": [],
+  "trades": [
+    {
+      "memberId": "K000377",
+      "assetRaw": "Boom Technology, Inc.\n                                        \n                                        \n                                        \n                                            \n                                                \n                                                    Company: Boom Technology, Inc.\n                                                    \n                                                         (Denver, CO)\n                                                    \n                                                \n                                            \n\n                                            \n                                                Description: Aerospace Company",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-04-13",
+      "filedDate": "2021-08-16",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/4430ac89-7784-4f2f-8417-2f0072874995/",
+      "late": true,
+      "note": "Previously reported as Boom Aerospace. Exercised stock option.",
+      "provenance": "kadoa"
+    }
+  ],
+  "series": [
+    {
+      "date": "2021-04-13",
+      "value": 8000.5
+    }
+  ],
+  "measured": null
+}

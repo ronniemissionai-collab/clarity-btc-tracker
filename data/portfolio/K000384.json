@@ -1,0 +1,37 @@
+{
+  "member": {
+    "bioguideId": "K000384",
+    "lisId": "S362",
+    "name": "Tim Kaine",
+    "party": "D",
+    "chamber": "senate",
+    "state": "VA",
+    "active": true
+  },
+  "positions": [],
+  "trades": [
+    {
+      "memberId": "K000384",
+      "assetRaw": "General Electric Company",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2019-05-16",
+      "filedDate": "2020-08-13",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/d2635397-12c0-4dcb-8e6b-acf0d9d86ee6/",
+      "late": true,
+      "provenance": "kadoa"
+    }
+  ],
+  "series": [
+    {
+      "date": "2019-05-16",
+      "value": 8000.5
+    }
+  ],
+  "measured": null
+}

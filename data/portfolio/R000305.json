@@ -1,0 +1,576 @@
+{
+  "member": {
+    "bioguideId": "R000305",
+    "name": "Deborah K. Ross",
+    "party": "D",
+    "chamber": "house",
+    "state": "NC",
+    "district": "NC-02",
+    "active": true
+  },
+  "positions": [
+    {
+      "memberId": "R000305",
+      "security": {
+        "ticker": "IRA",
+        "kind": "other"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "stale",
+      "asOf": "2021-12-31",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020182.pdf"
+        }
+      ]
+    }
+  ],
+  "trades": [
+    {
+      "memberId": "R000305",
+      "assetRaw": "Microsoft Corporation - Common Stock",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2024-04-17",
+      "filedDate": "2024-05-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/20024986.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000305",
+      "assetRaw": "Microsoft Corporation",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2023-04-10",
+      "filedDate": "2023-04-14",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20022738.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000305",
+      "assetRaw": "Microsoft Corporation",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2023-02-01",
+      "filedDate": "2023-02-13",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20022421.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000305",
+      "assetRaw": "Microsoft Corporation",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2023-01-30",
+      "filedDate": "2023-02-13",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20022421.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000305",
+      "assetRaw": "Microsoft Corporation",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-01-27",
+      "filedDate": "2022-02-19",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020492.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000305",
+      "assetRaw": "Microsoft Corporation",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-01-21",
+      "filedDate": "2022-02-19",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020492.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000305",
+      "assetRaw": "Microsoft Corporation",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-01-04",
+      "filedDate": "2022-01-08",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020182.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000305",
+      "assetRaw": "IAB Brokerage Account (IRA) DESCRIPTION: gM 20JAN23 50 Calls Not part of Compensation or ESOP SPironSource Ltd. Class A Ordinary Shares",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-12-31",
+      "filedDate": "2022-01-08",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020182.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000305",
+      "assetRaw": "Apple Inc.",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2021-12-30",
+      "filedDate": "2022-01-08",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020182.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000305",
+      "assetRaw": "Meta Platforms, Inc. - Class A",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2021-12-30",
+      "filedDate": "2022-01-08",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020182.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000305",
+      "assetRaw": "Neogenomics, Inc.",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2021-12-30",
+      "filedDate": "2022-01-08",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020182.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000305",
+      "assetRaw": "general Motors Company (gM) [OP]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-12-30",
+      "filedDate": "2022-01-08",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020182.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000305",
+      "assetRaw": "Albemarle Corporation",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2021-12-28",
+      "filedDate": "2022-01-08",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020182.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000305",
+      "assetRaw": "Walt Disney Company",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2021-12-28",
+      "filedDate": "2022-01-08",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020182.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000305",
+      "assetRaw": "Microsoft Corporation",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-12-09",
+      "filedDate": "2022-01-08",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020182.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000305",
+      "assetRaw": "Advanced Micro Devices, Inc.",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2021-04-27",
+      "filedDate": "2021-04-30",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20018659.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000305",
+      "assetRaw": "Alphabet Inc. - Class A (gOOgl) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2021-04-27",
+      "filedDate": "2021-04-30",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20018659.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000305",
+      "assetRaw": "Applied Materials, Inc.",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-04-27",
+      "filedDate": "2021-04-30",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20018659.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000305",
+      "assetRaw": "Cleveland-Cliffs Inc. (ClF) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2021-04-27",
+      "filedDate": "2021-04-30",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20018659.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000305",
+      "assetRaw": "CrowdStrike Holdings, Inc. - Class A",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2021-04-27",
+      "filedDate": "2021-04-30",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20018659.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000305",
+      "assetRaw": "Freeport-McMoRan, Inc.",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2021-04-27",
+      "filedDate": "2021-04-30",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20018659.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000305",
+      "assetRaw": "lam Research Corporation (lRCX) [ST]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2021-04-27",
+      "filedDate": "2021-04-30",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20018659.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000305",
+      "assetRaw": "berkshire Hathaway Inc. New (bRK.b) [ST]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2021-04-01",
+      "filedDate": "2021-04-30",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20018659.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000305",
+      "assetRaw": "DR (Xlb) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2021-01-04",
+      "filedDate": "2021-01-24",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20018072.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000305",
+      "assetRaw": "DR Select Sector Fund - Financial (XlF) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2021-01-04",
+      "filedDate": "2021-01-24",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20018072.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000305",
+      "assetRaw": "Oracle Corporation (ORCl) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2021-01-04",
+      "filedDate": "2021-01-24",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20018072.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000305",
+      "assetRaw": "SPDR S&P 500",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2021-01-04",
+      "filedDate": "2021-01-24",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20018072.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    }
+  ],
+  "series": [
+    {
+      "date": "2021-01-04",
+      "value": 32500.5
+    },
+    {
+      "date": "2021-01-04",
+      "value": 32500.5
+    },
+    {
+      "date": "2021-01-04",
+      "value": 32500.5
+    },
+    {
+      "date": "2021-01-04",
+      "value": 75000.5
+    },
+    {
+      "date": "2021-04-01",
+      "value": 32500.5
+    },
+    {
+      "date": "2021-04-27",
+      "value": 32500.5
+    },
+    {
+      "date": "2021-04-27",
+      "value": 32500.5
+    },
+    {
+      "date": "2021-04-27",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-04-27",
+      "value": 32500.5
+    },
+    {
+      "date": "2021-04-27",
+      "value": 32500.5
+    },
+    {
+      "date": "2021-04-27",
+      "value": 32500.5
+    },
+    {
+      "date": "2021-04-27",
+      "value": 32500.5
+    },
+    {
+      "date": "2021-12-09",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-12-28",
+      "value": 32500.5
+    },
+    {
+      "date": "2021-12-28",
+      "value": 32500.5
+    },
+    {
+      "date": "2021-12-30",
+      "value": 32500.5
+    },
+    {
+      "date": "2021-12-30",
+      "value": 32500.5
+    },
+    {
+      "date": "2021-12-30",
+      "value": 32500.5
+    },
+    {
+      "date": "2021-12-30",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-12-31",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-01-04",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-01-21",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-01-27",
+      "value": 8000.5
+    },
+    {
+      "date": "2023-01-30",
+      "value": 8000.5
+    },
+    {
+      "date": "2023-02-01",
+      "value": 8000.5
+    },
+    {
+      "date": "2023-04-10",
+      "value": 8000.5
+    },
+    {
+      "date": "2024-04-17",
+      "value": 8000.5
+    }
+  ],
+  "measured": null
+}

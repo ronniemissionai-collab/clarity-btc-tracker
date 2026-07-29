@@ -1,0 +1,36 @@
+{
+  "member": {
+    "bioguideId": "V000131",
+    "name": "Marc A. Veasey",
+    "party": "D",
+    "chamber": "house",
+    "state": "TX",
+    "district": "TX-33",
+    "active": true
+  },
+  "positions": [],
+  "trades": [
+    {
+      "memberId": "V000131",
+      "assetRaw": "banco bilbao Vizcaya Argentaria S.A. (bbVA)",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2015-07-27",
+      "filedDate": "2016-07-13",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2016/20005313.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    }
+  ],
+  "series": [
+    {
+      "date": "2015-07-27",
+      "value": 8000.5
+    }
+  ],
+  "measured": null
+}

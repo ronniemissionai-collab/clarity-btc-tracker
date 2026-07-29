@@ -1,0 +1,77 @@
+{
+  "member": {
+    "bioguideId": "K000405",
+    "name": "Brad Knott",
+    "party": "R",
+    "chamber": "house",
+    "state": "NC",
+    "district": "NC-13",
+    "active": true
+  },
+  "positions": [],
+  "trades": [
+    {
+      "memberId": "K000405",
+      "assetRaw": "CompoSecure, Inc. - Class A Common Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-01-14",
+      "filedDate": "2025-02-25",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20027846.pdf",
+      "late": false,
+      "note": "Filing Status: New\nSubholding Of: Charles Schwab Brokerage Account 1",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000405",
+      "assetRaw": "CompoSecure, Inc. - Class A Common Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-01-10",
+      "filedDate": "2025-02-25",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20027846.pdf",
+      "late": true,
+      "note": "Filing Status: New\nSubholding Of: Charles Schwab Brokerage Account 1",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000405",
+      "assetRaw": "Oramed Pharmaceuticals Inc. - Common Stock",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2025-01-10",
+      "filedDate": "2025-02-25",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20027846.pdf",
+      "late": true,
+      "note": "Filing Status: New\nSubholding Of: Charles Schwab Brokerage Account 1",
+      "provenance": "kadoa"
+    }
+  ],
+  "series": [
+    {
+      "date": "2025-01-10",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-01-10",
+      "value": 32500.5
+    },
+    {
+      "date": "2025-01-14",
+      "value": 8000.5
+    }
+  ],
+  "measured": null
+}

@@ -1,0 +1,4957 @@
+{
+  "member": {
+    "bioguideId": "M001236",
+    "name": "Tim Moore",
+    "party": "R",
+    "chamber": "house",
+    "state": "NC",
+    "district": "NC-14",
+    "active": true,
+    "traderRoster": "active"
+  },
+  "positions": [
+    {
+      "memberId": "M001236",
+      "security": {
+        "ticker": "CBRL",
+        "kind": "other"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "status": "sold",
+      "asOf": "2026-04-01",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034217.pdf"
+        },
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034424.pdf"
+        }
+      ]
+    },
+    {
+      "memberId": "M001236",
+      "security": {
+        "ticker": "COIN",
+        "kind": "exchange"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "status": "sold",
+      "asOf": "2026-02-18",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032256.pdf"
+        },
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034034.pdf"
+        }
+      ]
+    },
+    {
+      "memberId": "M001236",
+      "security": {
+        "ticker": "DASH",
+        "kind": "other"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "sold",
+      "asOf": "2026-06-09",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034952.pdf"
+        }
+      ],
+      "note": "sale reported by PTR with no annual baseline in our coverage"
+    },
+    {
+      "memberId": "M001236",
+      "security": {
+        "ticker": "DNUT",
+        "kind": "other"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "sold",
+      "asOf": "2026-03-17",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034034.pdf"
+        },
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034217.pdf"
+        }
+      ]
+    },
+    {
+      "memberId": "M001236",
+      "security": {
+        "ticker": "GNPX",
+        "kind": "other"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 2002,
+        "hi": 30000
+      },
+      "status": "holds",
+      "asOf": "2026-02-05",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033746.pdf"
+        },
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034034.pdf"
+        }
+      ]
+    },
+    {
+      "memberId": "M001236",
+      "security": {
+        "ticker": "HOG",
+        "kind": "other"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 45003,
+        "hi": 150000
+      },
+      "status": "sold",
+      "asOf": "2026-04-07",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033746.pdf"
+        },
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034034.pdf"
+        },
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034217.pdf"
+        },
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034424.pdf"
+        }
+      ]
+    },
+    {
+      "memberId": "M001236",
+      "security": {
+        "ticker": "HY",
+        "kind": "other"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "status": "sold",
+      "asOf": "2026-01-05",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033856.pdf"
+        }
+      ]
+    },
+    {
+      "memberId": "M001236",
+      "security": {
+        "ticker": "IHG",
+        "kind": "other"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "holds",
+      "asOf": "2026-05-07",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034587.pdf"
+        }
+      ]
+    },
+    {
+      "memberId": "M001236",
+      "security": {
+        "ticker": "LGIH",
+        "kind": "other"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 95004,
+        "hi": 250000
+      },
+      "status": "sold",
+      "asOf": "2026-03-26",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034217.pdf"
+        },
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034424.pdf"
+        }
+      ]
+    },
+    {
+      "memberId": "M001236",
+      "security": {
+        "ticker": "NVDA",
+        "kind": "other"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "status": "sold",
+      "asOf": "2026-03-24",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034424.pdf"
+        }
+      ],
+      "note": "sale reported by PTR with no annual baseline in our coverage"
+    },
+    {
+      "memberId": "M001236",
+      "security": {
+        "ticker": "RYCEY",
+        "kind": "other"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "holds",
+      "asOf": "2026-05-07",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034587.pdf"
+        }
+      ]
+    },
+    {
+      "memberId": "M001236",
+      "security": {
+        "ticker": "SMPL",
+        "kind": "other"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 31003,
+        "hi": 115000
+      },
+      "status": "holds",
+      "asOf": "2026-03-13",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034034.pdf"
+        },
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034217.pdf"
+        }
+      ]
+    },
+    {
+      "memberId": "M001236",
+      "security": {
+        "ticker": "T",
+        "kind": "other"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "status": "holds",
+      "asOf": "2026-06-04",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034721.pdf"
+        }
+      ]
+    }
+  ],
+  "trades": [
+    {
+      "memberId": "M001236",
+      "assetRaw": "DoorDash, Inc. - Common Stock (DASH) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-06-09",
+      "filedDate": "2026-07-09",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034952.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "M001236",
+      "assetRaw": "AT&T Inc. (T) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2026-06-04",
+      "filedDate": "2026-06-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034721.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "M001236",
+      "assetRaw": "AT&T Inc. (T) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2026-05-21",
+      "filedDate": "2026-06-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034721.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "M001236",
+      "assetRaw": "AT&T Inc. (T) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2026-05-18",
+      "filedDate": "2026-05-19",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034587.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "M001236",
+      "assetRaw": "Intercontinental Hotels Group American Depositary Shares (IHG) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-05-07",
+      "filedDate": "2026-05-19",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034587.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "M001236",
+      "assetRaw": "ROLLS ROYCE HLDGS S/ADR (RYCEY) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-05-07",
+      "filedDate": "2026-05-19",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034587.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "M001236",
+      "assetRaw": "Harley-Davidson, Inc. Common Stock (HOG) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2026-04-07",
+      "filedDate": "2026-04-28",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034424.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "M001236",
+      "assetRaw": "Cracker Barrel Old Country Store, Inc. - Common Stock (CBRL) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2026-04-01",
+      "filedDate": "2026-04-28",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034424.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "M001236",
+      "assetRaw": "LGI Homes, Inc. - Common Stock (LGIH) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2026-03-26",
+      "filedDate": "2026-04-28",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034424.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "M001236",
+      "assetRaw": "NVIDIA Corporation - Common Stock (NVDA) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2026-03-24",
+      "filedDate": "2026-04-28",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034424.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "M001236",
+      "assetRaw": "Cracker Barrel Old Country Store, Inc. - Common Stock (CBRL) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2026-03-23",
+      "filedDate": "2026-03-24",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034217.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "M001236",
+      "assetRaw": "LGI Homes, Inc. - Common Stock (LGIH) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2026-03-20",
+      "filedDate": "2026-03-24",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034217.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "M001236",
+      "assetRaw": "LGI Homes, Inc. - Common Stock (LGIH) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2026-03-19",
+      "filedDate": "2026-03-24",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034217.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "M001236",
+      "assetRaw": "LGI Homes, Inc. - Common Stock (LGIH) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2026-03-18",
+      "filedDate": "2026-03-24",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034217.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "M001236",
+      "assetRaw": "Krispy Kreme, Inc. - Common Stock (DNUT) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2026-03-17",
+      "filedDate": "2026-03-24",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034217.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "M001236",
+      "assetRaw": "The Simply Good Foods Company - Common Stock (SMPL) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-03-13",
+      "filedDate": "2026-03-24",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034217.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "M001236",
+      "assetRaw": "Harley-Davidson, Inc. Common Stock (HOG) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2026-03-12",
+      "filedDate": "2026-03-24",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034217.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "M001236",
+      "assetRaw": "LGI Homes, Inc. - Common Stock (LGIH) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2026-03-12",
+      "filedDate": "2026-03-24",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034217.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "M001236",
+      "assetRaw": "The Simply Good Foods Company -",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-03-12",
+      "filedDate": "2026-03-24",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034217.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "M001236",
+      "assetRaw": "Coinbase Global, Inc. - 3Class A Common Stock (COIN) [ST]",
+      "security": {
+        "ticker": "COIN",
+        "kind": "exchange"
+      },
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-02-18",
+      "filedDate": "2026-02-20",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034034.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "M001236",
+      "assetRaw": "Krispy Kreme, Inc. - Common Stock (DNUT) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-02-12",
+      "filedDate": "2026-02-20",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034034.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "M001236",
+      "assetRaw": "The Simply Good Foods Company - Common Stock (SMPL) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2026-02-11",
+      "filedDate": "2026-02-20",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034034.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "M001236",
+      "assetRaw": "Genprex, Inc. - Common Stock (GNPX) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-02-05",
+      "filedDate": "2026-02-20",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034034.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "M001236",
+      "assetRaw": "The Simply Good Foods Company - Common Stock (SMPL) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2026-02-03",
+      "filedDate": "2026-02-20",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034034.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "M001236",
+      "assetRaw": "AT&T Inc. (T) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2026-01-30",
+      "filedDate": "2026-02-20",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034034.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "M001236",
+      "assetRaw": "Verizon Communications Inc.",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 15001,
+        "hi": 15001
+      },
+      "transactionDate": "2026-01-30",
+      "filedDate": "2026-02-20",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034034.pdf",
+      "late": false,
+      "note": "amount upper bound missing from filing text",
+      "provenance": "both"
+    },
+    {
+      "memberId": "M001236",
+      "assetRaw": "Harley-Davidson, Inc. Common Stock (HOG) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2026-01-23",
+      "filedDate": "2026-02-20",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034034.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "M001236",
+      "assetRaw": "AT&T Inc. (T) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2026-01-09",
+      "filedDate": "2026-01-24",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033856.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "M001236",
+      "assetRaw": "Cracker Barrel Old Country Store, Inc. - Common Stock (CBRL) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2026-01-05",
+      "filedDate": "2026-01-24",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033856.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "M001236",
+      "assetRaw": "Hyster-Yale, Inc. Class A common stock (HY) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2026-01-05",
+      "filedDate": "2026-01-24",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033856.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "M001236",
+      "assetRaw": "Hyster-Yale, Inc. Class A common stock (HY) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2025-12-31",
+      "filedDate": "2026-01-24",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033856.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "M001236",
+      "assetRaw": "Cracker Barrel Old Country Store, Inc. - Common Stock (CBRL) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2025-12-31",
+      "filedDate": "2026-01-07",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033746.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "M001236",
+      "assetRaw": "Genprex, Inc. - Common Stock (GNPX) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-12-18",
+      "filedDate": "2026-01-07",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033746.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "M001236",
+      "assetRaw": "Harley-Davidson, Inc. Common Stock (HOG) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2025-12-18",
+      "filedDate": "2026-01-07",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033746.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "M001236",
+      "assetRaw": "Cracker Barrel Old Country Store, Inc. - Common Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2025-12-16",
+      "filedDate": "2025-12-19",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20033670.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001236",
+      "assetRaw": "Cracker Barrel Old Country Store, Inc. - Common Stock",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2025-12-10",
+      "filedDate": "2025-12-19",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20033670.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001236",
+      "assetRaw": "Verizon Communications Inc. Common Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2025-12-10",
+      "filedDate": "2025-12-19",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20033670.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001236",
+      "assetRaw": "Cracker Barrel Old Country Store, Inc. - Common Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2025-12-09",
+      "filedDate": "2025-12-19",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20033670.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001236",
+      "assetRaw": "Harley-Davidson, Inc. Common Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2025-12-09",
+      "filedDate": "2025-12-19",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20033670.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001236",
+      "assetRaw": "Hyster-Yale, Inc. Class A common stock",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2025-12-03",
+      "filedDate": "2025-12-19",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20033670.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001236",
+      "assetRaw": "Cracker Barrel Old Country Store, Inc. - Common Stock",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2025-11-28",
+      "filedDate": "2025-12-02",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20033564.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001236",
+      "assetRaw": "Harley-Davidson, Inc. Common Stock",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2025-11-28",
+      "filedDate": "2025-12-02",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20033564.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001236",
+      "assetRaw": "Harley-Davidson, Inc. Common Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2025-11-21",
+      "filedDate": "2025-12-02",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20033564.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001236",
+      "assetRaw": "Cracker Barrel Old Country Store, Inc. - Common Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2025-11-20",
+      "filedDate": "2025-12-02",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20033564.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001236",
+      "assetRaw": "Hyster-Yale, Inc. Class A common stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2025-11-20",
+      "filedDate": "2025-12-02",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20033564.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001236",
+      "assetRaw": "Verizon Communications Inc. Common Stock",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2025-11-19",
+      "filedDate": "2025-12-02",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20033564.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001236",
+      "assetRaw": "Hyster-Yale, Inc. Class A common stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2025-11-14",
+      "filedDate": "2025-12-02",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20033564.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001236",
+      "assetRaw": "Hyster-Yale, Inc. Class A common stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2025-11-12",
+      "filedDate": "2025-12-02",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20033564.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001236",
+      "assetRaw": "Genprex, Inc. - Common Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-11-07",
+      "filedDate": "2025-12-02",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20033564.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001236",
+      "assetRaw": "Hyster-Yale, Inc. Class A common stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2025-11-05",
+      "filedDate": "2025-12-02",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20033564.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001236",
+      "assetRaw": "LGI Homes, Inc. - Common Stock",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2025-11-05",
+      "filedDate": "2025-12-02",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20033564.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001236",
+      "assetRaw": "Verizon Communications Inc. Common Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2025-11-05",
+      "filedDate": "2025-12-02",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20033564.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001236",
+      "assetRaw": "LGI Homes, Inc. - Common Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2025-11-04",
+      "filedDate": "2025-12-02",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20033564.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001236",
+      "assetRaw": "Hyster-Yale, Inc. Class A common stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2025-11-03",
+      "filedDate": "2025-12-02",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20033564.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001236",
+      "assetRaw": "Verizon Communications Inc. Common Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2025-10-31",
+      "filedDate": "2025-11-12",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20033413.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001236",
+      "assetRaw": "LGI Homes, Inc. - Common Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2025-10-30",
+      "filedDate": "2025-11-12",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20033413.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001236",
+      "assetRaw": "Genprex, Inc. - Common Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2025-10-29",
+      "filedDate": "2025-11-12",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20033413.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001236",
+      "assetRaw": "Hyster-Yale, Inc. Class A common stock",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2025-10-24",
+      "filedDate": "2025-11-12",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20033413.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001236",
+      "assetRaw": "Krispy Kreme, Inc. - Common Stock",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2025-10-22",
+      "filedDate": "2025-11-12",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20033413.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001236",
+      "assetRaw": "Hyster-Yale, Inc. Class A common stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2025-10-14",
+      "filedDate": "2025-11-12",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20033413.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001236",
+      "assetRaw": "Hyster-Yale, Inc. Class A common stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2025-10-10",
+      "filedDate": "2025-11-12",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20033413.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001236",
+      "assetRaw": "Verizon Communications Inc. Common Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2025-10-10",
+      "filedDate": "2025-11-12",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20033413.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001236",
+      "assetRaw": "Hyster-Yale, Inc. Class A common stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2025-10-08",
+      "filedDate": "2025-11-12",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20033413.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001236",
+      "assetRaw": "Verizon Communications Inc. Common Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2025-10-07",
+      "filedDate": "2025-11-12",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20033413.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001236",
+      "assetRaw": "Hyster-Yale, Inc. Class A common stock",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2025-09-19",
+      "filedDate": "2025-10-10",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032256.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001236",
+      "assetRaw": "Coinbase Global, Inc. - Class A Common Stock",
+      "security": {
+        "ticker": "COIN",
+        "kind": "exchange"
+      },
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2025-09-11",
+      "filedDate": "2025-10-10",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032256.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001236",
+      "assetRaw": "Hyster-Yale, Inc. Class A common stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2025-09-11",
+      "filedDate": "2025-10-10",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032256.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001236",
+      "assetRaw": "Colgate-Palmolive Company Common Stock",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-09-10",
+      "filedDate": "2025-10-10",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032256.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001236",
+      "assetRaw": "Procter & Gamble Company",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-09-10",
+      "filedDate": "2025-10-10",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032256.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001236",
+      "assetRaw": "Yieldmax Smci Optn Inc Strg ETF - SMCY",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2025-08-29",
+      "filedDate": "2025-09-03",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20031020.pdf",
+      "late": false,
+      "note": "Location: US\nDescription: EFT",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001236",
+      "assetRaw": "Direxion Daily Small Cap Bear 3X ETF",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2025-08-28",
+      "filedDate": "2025-09-03",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20031020.pdf",
+      "late": false,
+      "note": "Location: US\nDescription: ETF",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001236",
+      "assetRaw": "Direxion Daily Small Cap Bear 3X ETF",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2025-08-25",
+      "filedDate": "2025-09-03",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20031020.pdf",
+      "late": false,
+      "note": "Location: US\nDescription: ETF",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001236",
+      "assetRaw": "Yieldmax Smci Optn Inc Strg ETF - SMCY",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2025-08-21",
+      "filedDate": "2025-09-03",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20031020.pdf",
+      "late": false,
+      "note": "Location: US\nDescription: ETF",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001236",
+      "assetRaw": "Yieldmax MSTR Opt Incm Strtgy ETF",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2025-08-20",
+      "filedDate": "2025-09-03",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20031020.pdf",
+      "late": false,
+      "note": "Location: US\nDescription: ETF",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001236",
+      "assetRaw": "Yieldmax Smci Optn Inc Strg ETF - SMCY",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2025-08-20",
+      "filedDate": "2025-09-03",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20031020.pdf",
+      "late": false,
+      "note": "Location: US\nDescription: ETF",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001236",
+      "assetRaw": "Centene Corporation Common Stock",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2025-08-18",
+      "filedDate": "2025-09-03",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20031020.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001236",
+      "assetRaw": "UnitedHealth Group Incorporated Common Stock",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2025-08-15",
+      "filedDate": "2025-09-03",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20031020.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001236",
+      "assetRaw": "Direxion Daily Small Cap Bear 3X ETF",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2025-08-14",
+      "filedDate": "2025-09-03",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20031020.pdf",
+      "late": false,
+      "note": "Location: US\nDescription: ETF",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001236",
+      "assetRaw": "Direxion Daily Small Cap Bear 3X ETF",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-08-13",
+      "filedDate": "2025-09-03",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20031020.pdf",
+      "late": false,
+      "note": "Location: US\nDescription: ETF",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001236",
+      "assetRaw": "Hyster-Yale, Inc. Class A common stock",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2025-08-13",
+      "filedDate": "2025-09-03",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20031020.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001236",
+      "assetRaw": "Intel Corporation - Common Stock",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2025-08-13",
+      "filedDate": "2025-09-03",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20031020.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001236",
+      "assetRaw": "Hyster-Yale, Inc. Class A common stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2025-08-12",
+      "filedDate": "2025-09-03",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20031020.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001236",
+      "assetRaw": "Intel Corporation - Common Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2025-08-11",
+      "filedDate": "2025-09-03",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20031020.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001236",
+      "assetRaw": "Yieldmax MSTR Opt Incm Strtgy ETF",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2025-08-11",
+      "filedDate": "2025-09-03",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20031020.pdf",
+      "late": false,
+      "note": "Location: US\nDescription: ETF",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001236",
+      "assetRaw": "Centene Corporation Common Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-08-08",
+      "filedDate": "2025-09-03",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20031020.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001236",
+      "assetRaw": "Intel Corporation - Common Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2025-08-08",
+      "filedDate": "2025-09-03",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20031020.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001236",
+      "assetRaw": "UnitedHealth Group Incorporated Common Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2025-08-08",
+      "filedDate": "2025-09-03",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20031020.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001236",
+      "assetRaw": "Centene Corporation Common Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2025-08-07",
+      "filedDate": "2025-09-03",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20031020.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001236",
+      "assetRaw": "Hyster-Yale, Inc. Class A common stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2025-08-07",
+      "filedDate": "2025-09-03",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20031020.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001236",
+      "assetRaw": "Yieldmax Smci Optn Inc Strg ETF - SMCY",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2025-08-07",
+      "filedDate": "2025-09-03",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20031020.pdf",
+      "late": false,
+      "note": "Location: US\nDescription: ETF",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001236",
+      "assetRaw": "Yieldmax Smci Optn Inc Strg ETF - SMCY",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2025-08-06",
+      "filedDate": "2025-09-03",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20031020.pdf",
+      "late": false,
+      "note": "Location: US\nDescription: ETF",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001236",
+      "assetRaw": "Krispy Kreme, Inc. - Common Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-08-04",
+      "filedDate": "2025-09-03",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20031020.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001236",
+      "assetRaw": "Intel Corporation - Common Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2025-08-01",
+      "filedDate": "2025-09-03",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20031020.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001236",
+      "assetRaw": "Krispy Kreme, Inc. - Common Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-08-01",
+      "filedDate": "2025-09-03",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20031020.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001236",
+      "assetRaw": "UnitedHealth Group Incorporated Common Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-08-01",
+      "filedDate": "2025-09-03",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20031020.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001236",
+      "assetRaw": "Verizon Communications Inc. Common Stock",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2025-08-01",
+      "filedDate": "2025-09-03",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20031020.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001236",
+      "assetRaw": "Centene Corporation Common Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2025-07-30",
+      "filedDate": "2025-08-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030824.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001236",
+      "assetRaw": "Harley-Davidson, Inc. Common Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2025-07-30",
+      "filedDate": "2025-08-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030824.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001236",
+      "assetRaw": "Krispy Kreme, Inc. - Common Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2025-07-30",
+      "filedDate": "2025-08-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030824.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001236",
+      "assetRaw": "Centene Corporation Common Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2025-07-29",
+      "filedDate": "2025-08-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030824.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001236",
+      "assetRaw": "Intel Corporation - Common Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2025-07-29",
+      "filedDate": "2025-08-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030824.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001236",
+      "assetRaw": "Krispy Kreme, Inc. - Common Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-07-29",
+      "filedDate": "2025-08-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030824.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001236",
+      "assetRaw": "Verizon Communications Inc. Common Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2025-07-29",
+      "filedDate": "2025-08-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030824.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001236",
+      "assetRaw": "Direxion Daily Small Cap Bull 3X ETF - TZA",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2025-07-24",
+      "filedDate": "2025-08-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030824.pdf",
+      "late": false,
+      "note": "Location: US\nDescription: ETF",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001236",
+      "assetRaw": "Centene Corporation Common Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-07-22",
+      "filedDate": "2025-08-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030824.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001236",
+      "assetRaw": "Centene Corporation Common Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2025-07-21",
+      "filedDate": "2025-08-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030824.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001236",
+      "assetRaw": "Direxion Daily Small Cap Bull 3X ETF - TZA",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2025-07-21",
+      "filedDate": "2025-08-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030824.pdf",
+      "late": false,
+      "note": "Location: US\nDescription: ETF",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001236",
+      "assetRaw": "UnitedHealth Group Incorporated Common Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-07-21",
+      "filedDate": "2025-08-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030824.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001236",
+      "assetRaw": "Centene Corporation Common Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2025-07-18",
+      "filedDate": "2025-08-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030824.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001236",
+      "assetRaw": "Direxion Daily Small Cap Bull 3X ETF - TZA",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2025-07-18",
+      "filedDate": "2025-08-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030824.pdf",
+      "late": false,
+      "note": "Location: US\nDescription: EFT",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001236",
+      "assetRaw": "Direxion Daily Small Cap Bull 3X ETF - TZA",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2025-07-16",
+      "filedDate": "2025-08-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030824.pdf",
+      "late": false,
+      "note": "Location: US\nDescription: ETF",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001236",
+      "assetRaw": "UnitedHealth Group Incorporated Common Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2025-07-16",
+      "filedDate": "2025-08-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030824.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001236",
+      "assetRaw": "Centene Corporation Common Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2025-07-14",
+      "filedDate": "2025-08-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030824.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001236",
+      "assetRaw": "Direxion Daily Small Cap Bull 3X ETF - TZA",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2025-07-11",
+      "filedDate": "2025-08-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030824.pdf",
+      "late": false,
+      "note": "Location: US\nDescription: EFT",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001236",
+      "assetRaw": "Direxion Daily Small Cap Bull 3X ETF - TZA",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2025-07-10",
+      "filedDate": "2025-08-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030824.pdf",
+      "late": false,
+      "note": "Location: US\nDescription: ETF",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001236",
+      "assetRaw": "Direxion Daily Small Cap Bull 3X ETF - TZA",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2025-07-09",
+      "filedDate": "2025-08-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030824.pdf",
+      "late": false,
+      "note": "Location: US\nDescription: ETF",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001236",
+      "assetRaw": "Direxion Daily Small Cap Bull 3X ETF - TZA",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2025-07-03",
+      "filedDate": "2025-08-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030824.pdf",
+      "late": false,
+      "note": "Location: US\nDescription: ETF",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001236",
+      "assetRaw": "Direxion Daily Small Cap Bear 3X ETF",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-06-30",
+      "filedDate": "2025-07-09",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030637.pdf",
+      "late": false,
+      "note": "ETF",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001236",
+      "assetRaw": "Direxion Daily Small Cap Bear 3X ETF",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-06-27",
+      "filedDate": "2025-07-09",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030637.pdf",
+      "late": false,
+      "note": "ETF",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001236",
+      "assetRaw": "American Airlines Group, Inc. - Common Stock",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2025-06-17",
+      "filedDate": "2025-07-09",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030637.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001236",
+      "assetRaw": "Yieldmax SMCI Optn Inc Strg ETF",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2025-06-17",
+      "filedDate": "2025-07-09",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030637.pdf",
+      "late": false,
+      "note": "ETF",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001236",
+      "assetRaw": "American Airlines Group, Inc. - Common Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2025-06-16",
+      "filedDate": "2025-07-09",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030637.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001236",
+      "assetRaw": "American Airlines Group, Inc. - Common Stock",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2025-06-16",
+      "filedDate": "2025-07-09",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030637.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001236",
+      "assetRaw": "Yieldmax SMCI Optn Inc Strg ETF",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2025-06-16",
+      "filedDate": "2025-07-09",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030637.pdf",
+      "late": false,
+      "note": "ETF",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001236",
+      "assetRaw": "Direxion Daily Small Cap Bull 3X ETF",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 500001,
+        "hi": 1000000
+      },
+      "transactionDate": "2025-06-09",
+      "filedDate": "2025-07-09",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030637.pdf",
+      "late": false,
+      "note": "ETF",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001236",
+      "assetRaw": "Apple Inc. - Common Stock",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2025-06-02",
+      "filedDate": "2025-07-09",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030637.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001236",
+      "assetRaw": "Apple Inc. - Common Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2025-06-02",
+      "filedDate": "2025-07-09",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030637.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001236",
+      "assetRaw": "Direxion Daily Small Cap Bull 3X ETF",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2025-05-27",
+      "filedDate": "2025-06-13",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030516.pdf",
+      "late": false,
+      "note": "ETF",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001236",
+      "assetRaw": "Direxion Daily Small Cap Bull 3X ETF",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2025-05-22",
+      "filedDate": "2025-06-13",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030516.pdf",
+      "late": false,
+      "note": "ETF",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001236",
+      "assetRaw": "Yieldmax MSCI Optn Inc Strg ETF",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2025-05-15",
+      "filedDate": "2025-06-13",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030516.pdf",
+      "late": false,
+      "note": "ETF",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001236",
+      "assetRaw": "Harley-Davidson, Inc. Common Stock",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2025-05-14",
+      "filedDate": "2025-06-13",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030516.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001236",
+      "assetRaw": "Yieldmax MSCI Optn Inc Strg ETF",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2025-05-09",
+      "filedDate": "2025-06-13",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030516.pdf",
+      "late": false,
+      "note": "ETF",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001236",
+      "assetRaw": "American Airlines Group, Inc. - Common Stock",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 250001,
+        "hi": 500000
+      },
+      "transactionDate": "2025-05-02",
+      "filedDate": "2025-06-13",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030516.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001236",
+      "assetRaw": "Global X Nasdaq 100 Covered Call ETF",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2025-05-02",
+      "filedDate": "2025-06-13",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030516.pdf",
+      "late": false,
+      "note": "ETF",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001236",
+      "assetRaw": "Super Micro Computer, Inc. - Common Stock",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2025-05-02",
+      "filedDate": "2025-06-13",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030516.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001236",
+      "assetRaw": "Harley-Davidson, Inc. Common Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2025-05-01",
+      "filedDate": "2025-06-13",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030516.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001236",
+      "assetRaw": "Super Micro Computer, Inc. - Common Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2025-04-30",
+      "filedDate": "2025-06-13",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030522.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001236",
+      "assetRaw": "Proshares Ultrapro QQQ ETF",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2025-04-23",
+      "filedDate": "2025-06-13",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030522.pdf",
+      "late": true,
+      "note": "ETF",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001236",
+      "assetRaw": "American Airlines Group, Inc. - Common Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2025-04-22",
+      "filedDate": "2025-06-13",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030522.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001236",
+      "assetRaw": "Proshares Ultrapro QQQ ETF",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2025-04-22",
+      "filedDate": "2025-06-13",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030522.pdf",
+      "late": true,
+      "note": "ETF",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001236",
+      "assetRaw": "Yieldmax Smci Optn Inc Strg ETF - SMCY",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2025-04-22",
+      "filedDate": "2025-06-13",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030522.pdf",
+      "late": true,
+      "note": "ETF",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001236",
+      "assetRaw": "American Airlines Group, Inc. - Common Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2025-04-18",
+      "filedDate": "2025-06-13",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030522.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001236",
+      "assetRaw": "Proshares Ultrapro QQQ ETF",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2025-04-17",
+      "filedDate": "2025-06-13",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030522.pdf",
+      "late": true,
+      "note": "ETF",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001236",
+      "assetRaw": "Yieldmax MSCI Optn Inc Strg ETF",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2025-04-17",
+      "filedDate": "2025-06-13",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030522.pdf",
+      "late": true,
+      "note": "ETF",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001236",
+      "assetRaw": "Ford Motor Company Common Stock",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2025-04-15",
+      "filedDate": "2025-06-13",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030522.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001236",
+      "assetRaw": "Ford Motor Company Common Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2025-04-10",
+      "filedDate": "2025-06-13",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030522.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001236",
+      "assetRaw": "Ford Motor Company Common Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2025-04-09",
+      "filedDate": "2025-06-13",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030522.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001236",
+      "assetRaw": "Direxion Daily Small Cap Bull 3X ETF",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2025-04-08",
+      "filedDate": "2025-06-13",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030522.pdf",
+      "late": true,
+      "note": "ETF",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001236",
+      "assetRaw": "Ford Motor Company Common Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2025-04-08",
+      "filedDate": "2025-06-13",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030522.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001236",
+      "assetRaw": "American Airlines Group, Inc. - Common Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2025-04-07",
+      "filedDate": "2025-06-13",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030522.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001236",
+      "assetRaw": "Ford Motor Company Common Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2025-04-07",
+      "filedDate": "2025-06-13",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030522.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001236",
+      "assetRaw": "Global X NASDAQ 100 Covered ETF",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2025-04-07",
+      "filedDate": "2025-06-13",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030522.pdf",
+      "late": true,
+      "note": "ETF",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001236",
+      "assetRaw": "American Airlines Group, Inc. - Common Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2025-04-04",
+      "filedDate": "2025-06-13",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030522.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001236",
+      "assetRaw": "Direxion Daily Small Cap Bull 3X ETF",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2025-04-04",
+      "filedDate": "2025-06-13",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030522.pdf",
+      "late": true,
+      "note": "ETF",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001236",
+      "assetRaw": "Harley-Davidson, Inc. Common Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2025-04-04",
+      "filedDate": "2025-06-13",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030522.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001236",
+      "assetRaw": "Direxion Daily Small Cap Bull 3X ETF",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2025-04-03",
+      "filedDate": "2025-06-13",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030522.pdf",
+      "late": true,
+      "note": "ETF",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001236",
+      "assetRaw": "American Airlines Group, Inc. - Common Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2025-04-02",
+      "filedDate": "2025-06-13",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030522.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001236",
+      "assetRaw": "American Airlines Group, Inc. - Common Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2025-04-01",
+      "filedDate": "2025-06-13",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030522.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001236",
+      "assetRaw": "Direxion Daily Small Cap Bull 3X ETF",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2025-04-01",
+      "filedDate": "2025-06-13",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030522.pdf",
+      "late": true,
+      "note": "ETF",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001236",
+      "assetRaw": "Yieldmax MSCI Optn Inc Strg ETF",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2025-04-01",
+      "filedDate": "2025-06-13",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030522.pdf",
+      "late": true,
+      "note": "ETF",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001236",
+      "assetRaw": "American Airlines Group, Inc. - Common Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2025-03-31",
+      "filedDate": "2025-04-14",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20029134.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001236",
+      "assetRaw": "Direxion Daily Small Cap Bull 3X ETF",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2025-03-31",
+      "filedDate": "2025-04-14",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20029134.pdf",
+      "late": false,
+      "note": "ETF",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001236",
+      "assetRaw": "Ford Motor Company Common Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2025-03-31",
+      "filedDate": "2025-04-14",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20029134.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001236",
+      "assetRaw": "Yieldmax SMCI Optn Inc Strg ETF",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2025-03-31",
+      "filedDate": "2025-04-14",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20029134.pdf",
+      "late": false,
+      "note": "ETF",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001236",
+      "assetRaw": "Yieldmax MSCI Optn Inc Strg ETF",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2025-03-28",
+      "filedDate": "2025-04-14",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20029134.pdf",
+      "late": false,
+      "note": "ETF",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001236",
+      "assetRaw": "Yieldmax SMCI Optn Inc Strg ETRF",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2025-03-27",
+      "filedDate": "2025-04-14",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20029134.pdf",
+      "late": false,
+      "note": "ETF",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001236",
+      "assetRaw": "Harley-Davidson, Inc. Common Stock",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2025-03-25",
+      "filedDate": "2025-04-14",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20029134.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001236",
+      "assetRaw": "American Airlines Group, Inc. - Common Stock",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2025-03-20",
+      "filedDate": "2025-04-14",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20029134.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001236",
+      "assetRaw": "American Airlines Group, Inc. - Common Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2025-03-14",
+      "filedDate": "2025-04-14",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20029134.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001236",
+      "assetRaw": "Harley-Davidson, Inc. Common Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2025-03-14",
+      "filedDate": "2025-04-14",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20029134.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001236",
+      "assetRaw": "American Airlines Group, Inc. - Common Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2025-03-13",
+      "filedDate": "2025-04-14",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20029134.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001236",
+      "assetRaw": "American Airlines Group, Inc. - Common Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2025-03-12",
+      "filedDate": "2025-04-14",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20029134.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001236",
+      "assetRaw": "Direxion Daily Small Cap Bull 3X ETF",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2025-03-12",
+      "filedDate": "2025-04-14",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20029134.pdf",
+      "late": false,
+      "note": "ETF",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001236",
+      "assetRaw": "Direxion Daily Small Cap Bull 3X ETF",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2025-03-11",
+      "filedDate": "2025-04-14",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20029134.pdf",
+      "late": false,
+      "note": "ETF",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001236",
+      "assetRaw": "Direxion Daily Small Cap Bull 3X ETF",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2025-03-10",
+      "filedDate": "2025-04-14",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20029134.pdf",
+      "late": false,
+      "note": "ETF",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001236",
+      "assetRaw": "Ford Motor Company Common Stock",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2025-03-10",
+      "filedDate": "2025-04-14",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20029134.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001236",
+      "assetRaw": "Harley-Davidson, Inc. Common Stock",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2025-03-10",
+      "filedDate": "2025-04-14",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20029134.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001236",
+      "assetRaw": "Direxion Daily Small Cap Bull 3X ETF",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2025-03-07",
+      "filedDate": "2025-04-14",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20029134.pdf",
+      "late": false,
+      "note": "ETF",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001236",
+      "assetRaw": "Harley-Davidson, Inc. Common Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2025-03-07",
+      "filedDate": "2025-04-14",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20029134.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001236",
+      "assetRaw": "Direxion Daily Small Cap Bull 3X ETF",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2025-03-06",
+      "filedDate": "2025-04-14",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20029134.pdf",
+      "late": false,
+      "note": "ETF",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001236",
+      "assetRaw": "Harley-Davidson, Inc. Common Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2025-03-06",
+      "filedDate": "2025-04-14",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20029134.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001236",
+      "assetRaw": "Ford Motor Company Common Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2025-03-05",
+      "filedDate": "2025-04-14",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20029134.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001236",
+      "assetRaw": "Baker Hughes Company - Common Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2025-03-04",
+      "filedDate": "2025-04-14",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20029134.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001236",
+      "assetRaw": "BlackRock, Inc. Common Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2025-03-04",
+      "filedDate": "2025-04-14",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20029134.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001236",
+      "assetRaw": "Direxion Daily Small Cap Bull 3X ETF -",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2025-03-04",
+      "filedDate": "2025-04-14",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20029134.pdf",
+      "late": false,
+      "note": "ETF",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001236",
+      "assetRaw": "DoorDash, Inc. - Common Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2025-03-04",
+      "filedDate": "2025-04-14",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20029134.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001236",
+      "assetRaw": "Harley-Davidson, Inc. Common Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2025-03-04",
+      "filedDate": "2025-04-14",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20029134.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001236",
+      "assetRaw": "US Foods Holding Corp. Common Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2025-03-04",
+      "filedDate": "2025-04-14",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20029134.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001236",
+      "assetRaw": "Direxion Daily Small Cap Bull 3X ETF -",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2025-03-03",
+      "filedDate": "2025-04-14",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20029134.pdf",
+      "late": false,
+      "note": "ETF",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001236",
+      "assetRaw": "Ford Motor Company Common Stock",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2025-03-03",
+      "filedDate": "2025-04-14",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20029134.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001236",
+      "assetRaw": "Direxion Daily Small Cap Bull 3X ETF",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2025-02-28",
+      "filedDate": "2025-03-11",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20027944.pdf",
+      "late": false,
+      "note": "Description: EFT",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001236",
+      "assetRaw": "Direxion Daily Small Cap Bull 3X ETF",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2025-02-26",
+      "filedDate": "2025-03-11",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20027944.pdf",
+      "late": false,
+      "note": "Description: EFT",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001236",
+      "assetRaw": "Direxion Daily Small Cap Bull 3X ETF",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2025-02-25",
+      "filedDate": "2025-03-11",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20027944.pdf",
+      "late": false,
+      "note": "Description: EFT",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001236",
+      "assetRaw": "Direxion Daily Small Cap Bull 3X ETF",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2025-02-24",
+      "filedDate": "2025-03-11",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20027944.pdf",
+      "late": false,
+      "note": "Description: EFT",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001236",
+      "assetRaw": "Rockwell Automation, Inc. Common Stock",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2025-02-21",
+      "filedDate": "2025-03-11",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20027944.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001236",
+      "assetRaw": "General Dynamics Corporation Common Stock",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-02-20",
+      "filedDate": "2025-03-11",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20027944.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001236",
+      "assetRaw": "Ford Motor Company Common Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2025-02-13",
+      "filedDate": "2025-03-11",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20027944.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001236",
+      "assetRaw": "Harley-Davidson, Inc. Common Stock",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2025-02-12",
+      "filedDate": "2025-03-11",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20027944.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001236",
+      "assetRaw": "Harley-Davidson, Inc. Common Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2025-02-12",
+      "filedDate": "2025-03-11",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20027944.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001236",
+      "assetRaw": "Ford Motor Company Common Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2025-02-10",
+      "filedDate": "2025-03-11",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20027944.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001236",
+      "assetRaw": "Harley-Davidson, Inc. Common Stock",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2025-02-10",
+      "filedDate": "2025-03-11",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20027944.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001236",
+      "assetRaw": "Ford Motor Company Common Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2025-02-07",
+      "filedDate": "2025-03-11",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20027944.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001236",
+      "assetRaw": "Ford Motor Company Common Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2025-02-06",
+      "filedDate": "2025-03-11",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20027944.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001236",
+      "assetRaw": "Harley-Davidson, Inc. Common Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2025-02-06",
+      "filedDate": "2025-03-11",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20027944.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001236",
+      "assetRaw": "SIMCORP A/S UN/ADR",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2025-02-06",
+      "filedDate": "2025-03-11",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20027944.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001236",
+      "assetRaw": "Yieldmax Smci Optn Inc Strg ETF - SMCY",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2025-02-06",
+      "filedDate": "2025-03-11",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20027944.pdf",
+      "late": false,
+      "note": "Description: EFT",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001236",
+      "assetRaw": "Ford Motor Company Common Stock",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2025-02-05",
+      "filedDate": "2025-03-11",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20027944.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001236",
+      "assetRaw": "Harley-Davidson, Inc. Common Stock",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2025-02-05",
+      "filedDate": "2025-03-11",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20027944.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001236",
+      "assetRaw": "Ford Motor Company Common Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2025-02-04",
+      "filedDate": "2025-03-11",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20027944.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001236",
+      "assetRaw": "Harley-Davidson, Inc. Common Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2025-02-04",
+      "filedDate": "2025-03-11",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20027944.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001236",
+      "assetRaw": "SIMCORP A/S UN/ADR",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2025-02-04",
+      "filedDate": "2025-03-11",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20027944.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001236",
+      "assetRaw": "Yieldmax Smci Optn Inc Strg ETF - SMCY",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2025-02-04",
+      "filedDate": "2025-03-11",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20027944.pdf",
+      "late": false,
+      "note": "Description: EFT",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001236",
+      "assetRaw": "Harley-Davidson, Inc. Common Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2025-01-30",
+      "filedDate": "2025-02-15",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20026796.pdf",
+      "late": false,
+      "note": "Filing Status: New",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001236",
+      "assetRaw": "Harley-Davidson, Inc. Common Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2025-01-29",
+      "filedDate": "2025-02-15",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20026796.pdf",
+      "late": false,
+      "note": "Filing Status: New",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001236",
+      "assetRaw": "Yieldmax Smci Optn Inc Strg ETF",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2025-01-28",
+      "filedDate": "2025-02-15",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20026796.pdf",
+      "late": false,
+      "note": "Filing Status: New\nLocation: US\nDescription: EFT",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001236",
+      "assetRaw": "Harley-Davidson, Inc. Common Stock",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2025-01-24",
+      "filedDate": "2025-02-15",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20026796.pdf",
+      "late": false,
+      "note": "Filing Status: New",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001236",
+      "assetRaw": "Harley-Davidson, Inc. Common Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2025-01-24",
+      "filedDate": "2025-02-15",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20026796.pdf",
+      "late": false,
+      "note": "Filing Status: New",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001236",
+      "assetRaw": "Ford Motor Company Common Stock",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2025-01-21",
+      "filedDate": "2025-02-15",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20026796.pdf",
+      "late": false,
+      "note": "Filing Status: New",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001236",
+      "assetRaw": "Yieldmax Smci Optn Inc Strg ETF",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2025-01-17",
+      "filedDate": "2025-02-15",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20026796.pdf",
+      "late": false,
+      "note": "Filing Status: New\nLocation: US\nDescription: ETF",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001236",
+      "assetRaw": "Harley-Davidson, Inc. Common Stock",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2025-01-16",
+      "filedDate": "2025-02-15",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20026796.pdf",
+      "late": false,
+      "note": "Filing Status: New",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001236",
+      "assetRaw": "Direxion Daily Small Cap Bull 3X ETF",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 250001,
+        "hi": 500000
+      },
+      "transactionDate": "2025-01-15",
+      "filedDate": "2025-02-15",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20026796.pdf",
+      "late": false,
+      "note": "Filing Status: New\nLocation: US\nDescription: ETF",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001236",
+      "assetRaw": "Yieldmax Smci Optn Inc Strg ETF",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2025-01-15",
+      "filedDate": "2025-02-15",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20026796.pdf",
+      "late": false,
+      "note": "Filing Status: New\nLocation: US\nDescription: ETF",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001236",
+      "assetRaw": "Direxion Daily Small Cap Bull 3X ETF",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2025-01-14",
+      "filedDate": "2025-02-15",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20026796.pdf",
+      "late": false,
+      "note": "Filing Status: New\nLocation: US\nDescription: ETF",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001236",
+      "assetRaw": "Direxion Daily Small Cap Bull 3X ETF",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 250001,
+        "hi": 500000
+      },
+      "transactionDate": "2025-01-13",
+      "filedDate": "2025-02-15",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20026796.pdf",
+      "late": false,
+      "note": "Filing Status: New\nLocation: US\nDescription: ETF",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001236",
+      "assetRaw": "Ford Motor Company Common Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2025-01-13",
+      "filedDate": "2025-02-15",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20026796.pdf",
+      "late": false,
+      "note": "Filing Status: New",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001236",
+      "assetRaw": "Harley-Davidson, Inc. Common Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2025-01-13",
+      "filedDate": "2025-02-15",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20026796.pdf",
+      "late": false,
+      "note": "Filing Status: New",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001236",
+      "assetRaw": "Harley-Davidson, Inc. Common Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2025-01-09",
+      "filedDate": "2025-02-15",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20026796.pdf",
+      "late": false,
+      "note": "Filing Status: New",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001236",
+      "assetRaw": "Ford Motor Company Common Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2025-01-08",
+      "filedDate": "2025-02-15",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20026796.pdf",
+      "late": false,
+      "note": "Filing Status: New",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001236",
+      "assetRaw": "Ford Motor Company Common Stock",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2025-01-07",
+      "filedDate": "2025-02-15",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20026796.pdf",
+      "late": false,
+      "note": "Filing Status: New",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001236",
+      "assetRaw": "Harley-Davidson, Inc. Common Stock",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 250001,
+        "hi": 500000
+      },
+      "transactionDate": "2025-01-07",
+      "filedDate": "2025-02-15",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20026796.pdf",
+      "late": false,
+      "note": "Filing Status: New",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001236",
+      "assetRaw": "Direxion Daily Small Cap Bull 3X ETF",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2025-01-06",
+      "filedDate": "2025-02-15",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20026796.pdf",
+      "late": false,
+      "note": "Filing Status: New\nLocation: US\nDescription: ETF",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001236",
+      "assetRaw": "Ford Motor Company Common Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2025-01-06",
+      "filedDate": "2025-02-15",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20026796.pdf",
+      "late": false,
+      "note": "Filing Status: New",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001236",
+      "assetRaw": "Direxion Daily Small Cap Bull 3X ETF",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2025-01-03",
+      "filedDate": "2025-02-15",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20026796.pdf",
+      "late": false,
+      "note": "Filing Status: New\nLocation: US\nDescription: ETF",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001236",
+      "assetRaw": "Ford Motor Company Common Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2025-01-03",
+      "filedDate": "2025-02-15",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20026796.pdf",
+      "late": false,
+      "note": "Filing Status: New",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001236",
+      "assetRaw": "Harley-Davidson, Inc. Common Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2025-01-03",
+      "filedDate": "2025-02-15",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20026796.pdf",
+      "late": false,
+      "note": "Filing Status: New",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001236",
+      "assetRaw": "Direxion Daily Small Cap Bull 3X ETF",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2025-01-02",
+      "filedDate": "2025-02-15",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20026796.pdf",
+      "late": false,
+      "note": "Filing Status: New\nLocation: US\nDescription: ETF",
+      "provenance": "kadoa"
+    }
+  ],
+  "series": [
+    {
+      "date": "2025-01-02",
+      "value": 175000.5
+    },
+    {
+      "date": "2025-01-03",
+      "value": 75000.5
+    },
+    {
+      "date": "2025-01-03",
+      "value": 75000.5
+    },
+    {
+      "date": "2025-01-03",
+      "value": 75000.5
+    },
+    {
+      "date": "2025-01-06",
+      "value": 75000.5
+    },
+    {
+      "date": "2025-01-06",
+      "value": 32500.5
+    },
+    {
+      "date": "2025-01-07",
+      "value": 175000.5
+    },
+    {
+      "date": "2025-01-07",
+      "value": 375000.5
+    },
+    {
+      "date": "2025-01-08",
+      "value": 32500.5
+    },
+    {
+      "date": "2025-01-09",
+      "value": 32500.5
+    },
+    {
+      "date": "2025-01-13",
+      "value": 375000.5
+    },
+    {
+      "date": "2025-01-13",
+      "value": 32500.5
+    },
+    {
+      "date": "2025-01-13",
+      "value": 75000.5
+    },
+    {
+      "date": "2025-01-14",
+      "value": 32500.5
+    },
+    {
+      "date": "2025-01-15",
+      "value": 375000.5
+    },
+    {
+      "date": "2025-01-15",
+      "value": 75000.5
+    },
+    {
+      "date": "2025-01-16",
+      "value": 175000.5
+    },
+    {
+      "date": "2025-01-17",
+      "value": 32500.5
+    },
+    {
+      "date": "2025-01-21",
+      "value": 75000.5
+    },
+    {
+      "date": "2025-01-24",
+      "value": 32500.5
+    },
+    {
+      "date": "2025-01-24",
+      "value": 32500.5
+    },
+    {
+      "date": "2025-01-28",
+      "value": 175000.5
+    },
+    {
+      "date": "2025-01-29",
+      "value": 75000.5
+    },
+    {
+      "date": "2025-01-30",
+      "value": 32500.5
+    },
+    {
+      "date": "2025-02-04",
+      "value": 75000.5
+    },
+    {
+      "date": "2025-02-04",
+      "value": 75000.5
+    },
+    {
+      "date": "2025-02-04",
+      "value": 32500.5
+    },
+    {
+      "date": "2025-02-04",
+      "value": 32500.5
+    },
+    {
+      "date": "2025-02-05",
+      "value": 75000.5
+    },
+    {
+      "date": "2025-02-05",
+      "value": 175000.5
+    },
+    {
+      "date": "2025-02-06",
+      "value": 32500.5
+    },
+    {
+      "date": "2025-02-06",
+      "value": 175000.5
+    },
+    {
+      "date": "2025-02-06",
+      "value": 175000.5
+    },
+    {
+      "date": "2025-02-06",
+      "value": 175000.5
+    },
+    {
+      "date": "2025-02-07",
+      "value": 75000.5
+    },
+    {
+      "date": "2025-02-10",
+      "value": 32500.5
+    },
+    {
+      "date": "2025-02-10",
+      "value": 175000.5
+    },
+    {
+      "date": "2025-02-12",
+      "value": 75000.5
+    },
+    {
+      "date": "2025-02-12",
+      "value": 75000.5
+    },
+    {
+      "date": "2025-02-13",
+      "value": 32500.5
+    },
+    {
+      "date": "2025-02-20",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-02-21",
+      "value": 32500.5
+    },
+    {
+      "date": "2025-02-24",
+      "value": 75000.5
+    },
+    {
+      "date": "2025-02-25",
+      "value": 32500.5
+    },
+    {
+      "date": "2025-02-26",
+      "value": 75000.5
+    },
+    {
+      "date": "2025-02-28",
+      "value": 32500.5
+    },
+    {
+      "date": "2025-03-03",
+      "value": 32500.5
+    },
+    {
+      "date": "2025-03-03",
+      "value": 175000.5
+    },
+    {
+      "date": "2025-03-04",
+      "value": 32500.5
+    },
+    {
+      "date": "2025-03-04",
+      "value": 32500.5
+    },
+    {
+      "date": "2025-03-04",
+      "value": 175000.5
+    },
+    {
+      "date": "2025-03-04",
+      "value": 32500.5
+    },
+    {
+      "date": "2025-03-04",
+      "value": 75000.5
+    },
+    {
+      "date": "2025-03-04",
+      "value": 32500.5
+    },
+    {
+      "date": "2025-03-05",
+      "value": 75000.5
+    },
+    {
+      "date": "2025-03-06",
+      "value": 75000.5
+    },
+    {
+      "date": "2025-03-06",
+      "value": 32500.5
+    },
+    {
+      "date": "2025-03-07",
+      "value": 75000.5
+    },
+    {
+      "date": "2025-03-07",
+      "value": 32500.5
+    },
+    {
+      "date": "2025-03-10",
+      "value": 75000.5
+    },
+    {
+      "date": "2025-03-10",
+      "value": 75000.5
+    },
+    {
+      "date": "2025-03-10",
+      "value": 175000.5
+    },
+    {
+      "date": "2025-03-11",
+      "value": 32500.5
+    },
+    {
+      "date": "2025-03-12",
+      "value": 75000.5
+    },
+    {
+      "date": "2025-03-12",
+      "value": 32500.5
+    },
+    {
+      "date": "2025-03-13",
+      "value": 75000.5
+    },
+    {
+      "date": "2025-03-14",
+      "value": 32500.5
+    },
+    {
+      "date": "2025-03-14",
+      "value": 32500.5
+    },
+    {
+      "date": "2025-03-20",
+      "value": 175000.5
+    },
+    {
+      "date": "2025-03-25",
+      "value": 32500.5
+    },
+    {
+      "date": "2025-03-27",
+      "value": 75000.5
+    },
+    {
+      "date": "2025-03-28",
+      "value": 75000.5
+    },
+    {
+      "date": "2025-03-31",
+      "value": 32500.5
+    },
+    {
+      "date": "2025-03-31",
+      "value": 32500.5
+    },
+    {
+      "date": "2025-03-31",
+      "value": 32500.5
+    },
+    {
+      "date": "2025-03-31",
+      "value": 32500.5
+    },
+    {
+      "date": "2025-04-01",
+      "value": 32500.5
+    },
+    {
+      "date": "2025-04-01",
+      "value": 32500.5
+    },
+    {
+      "date": "2025-04-01",
+      "value": 32500.5
+    },
+    {
+      "date": "2025-04-02",
+      "value": 32500.5
+    },
+    {
+      "date": "2025-04-03",
+      "value": 75000.5
+    },
+    {
+      "date": "2025-04-04",
+      "value": 32500.5
+    },
+    {
+      "date": "2025-04-04",
+      "value": 75000.5
+    },
+    {
+      "date": "2025-04-04",
+      "value": 32500.5
+    },
+    {
+      "date": "2025-04-07",
+      "value": 32500.5
+    },
+    {
+      "date": "2025-04-07",
+      "value": 32500.5
+    },
+    {
+      "date": "2025-04-07",
+      "value": 32500.5
+    },
+    {
+      "date": "2025-04-08",
+      "value": 32500.5
+    },
+    {
+      "date": "2025-04-08",
+      "value": 32500.5
+    },
+    {
+      "date": "2025-04-09",
+      "value": 32500.5
+    },
+    {
+      "date": "2025-04-10",
+      "value": 75000.5
+    },
+    {
+      "date": "2025-04-15",
+      "value": 175000.5
+    },
+    {
+      "date": "2025-04-17",
+      "value": 32500.5
+    },
+    {
+      "date": "2025-04-17",
+      "value": 32500.5
+    },
+    {
+      "date": "2025-04-18",
+      "value": 32500.5
+    },
+    {
+      "date": "2025-04-22",
+      "value": 32500.5
+    },
+    {
+      "date": "2025-04-22",
+      "value": 32500.5
+    },
+    {
+      "date": "2025-04-22",
+      "value": 75000.5
+    },
+    {
+      "date": "2025-04-23",
+      "value": 75000.5
+    },
+    {
+      "date": "2025-04-30",
+      "value": 32500.5
+    },
+    {
+      "date": "2025-05-01",
+      "value": 32500.5
+    },
+    {
+      "date": "2025-05-02",
+      "value": 375000.5
+    },
+    {
+      "date": "2025-05-02",
+      "value": 32500.5
+    },
+    {
+      "date": "2025-05-02",
+      "value": 32500.5
+    },
+    {
+      "date": "2025-05-09",
+      "value": 32500.5
+    },
+    {
+      "date": "2025-05-14",
+      "value": 75000.5
+    },
+    {
+      "date": "2025-05-15",
+      "value": 175000.5
+    },
+    {
+      "date": "2025-05-22",
+      "value": 32500.5
+    },
+    {
+      "date": "2025-05-27",
+      "value": 32500.5
+    },
+    {
+      "date": "2025-06-02",
+      "value": 175000.5
+    },
+    {
+      "date": "2025-06-02",
+      "value": 75000.5
+    },
+    {
+      "date": "2025-06-09",
+      "value": 750000.5
+    },
+    {
+      "date": "2025-06-16",
+      "value": 175000.5
+    },
+    {
+      "date": "2025-06-16",
+      "value": 75000.5
+    },
+    {
+      "date": "2025-06-16",
+      "value": 32500.5
+    },
+    {
+      "date": "2025-06-17",
+      "value": 75000.5
+    },
+    {
+      "date": "2025-06-17",
+      "value": 32500.5
+    },
+    {
+      "date": "2025-06-27",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-06-30",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-07-03",
+      "value": 32500.5
+    },
+    {
+      "date": "2025-07-09",
+      "value": 32500.5
+    },
+    {
+      "date": "2025-07-10",
+      "value": 32500.5
+    },
+    {
+      "date": "2025-07-11",
+      "value": 32500.5
+    },
+    {
+      "date": "2025-07-14",
+      "value": 32500.5
+    },
+    {
+      "date": "2025-07-16",
+      "value": 175000.5
+    },
+    {
+      "date": "2025-07-16",
+      "value": 32500.5
+    },
+    {
+      "date": "2025-07-18",
+      "value": 32500.5
+    },
+    {
+      "date": "2025-07-18",
+      "value": 32500.5
+    },
+    {
+      "date": "2025-07-21",
+      "value": 32500.5
+    },
+    {
+      "date": "2025-07-21",
+      "value": 32500.5
+    },
+    {
+      "date": "2025-07-21",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-07-22",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-07-24",
+      "value": 32500.5
+    },
+    {
+      "date": "2025-07-29",
+      "value": 32500.5
+    },
+    {
+      "date": "2025-07-29",
+      "value": 32500.5
+    },
+    {
+      "date": "2025-07-29",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-07-29",
+      "value": 32500.5
+    },
+    {
+      "date": "2025-07-30",
+      "value": 32500.5
+    },
+    {
+      "date": "2025-07-30",
+      "value": 32500.5
+    },
+    {
+      "date": "2025-07-30",
+      "value": 32500.5
+    },
+    {
+      "date": "2025-08-01",
+      "value": 32500.5
+    },
+    {
+      "date": "2025-08-01",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-08-01",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-08-01",
+      "value": 32500.5
+    },
+    {
+      "date": "2025-08-04",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-08-06",
+      "value": 32500.5
+    },
+    {
+      "date": "2025-08-07",
+      "value": 32500.5
+    },
+    {
+      "date": "2025-08-07",
+      "value": 32500.5
+    },
+    {
+      "date": "2025-08-07",
+      "value": 175000.5
+    },
+    {
+      "date": "2025-08-08",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-08-08",
+      "value": 32500.5
+    },
+    {
+      "date": "2025-08-08",
+      "value": 32500.5
+    },
+    {
+      "date": "2025-08-11",
+      "value": 32500.5
+    },
+    {
+      "date": "2025-08-11",
+      "value": 75000.5
+    },
+    {
+      "date": "2025-08-12",
+      "value": 32500.5
+    },
+    {
+      "date": "2025-08-13",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-08-13",
+      "value": 75000.5
+    },
+    {
+      "date": "2025-08-13",
+      "value": 175000.5
+    },
+    {
+      "date": "2025-08-14",
+      "value": 32500.5
+    },
+    {
+      "date": "2025-08-15",
+      "value": 75000.5
+    },
+    {
+      "date": "2025-08-18",
+      "value": 175000.5
+    },
+    {
+      "date": "2025-08-20",
+      "value": 32500.5
+    },
+    {
+      "date": "2025-08-20",
+      "value": 32500.5
+    },
+    {
+      "date": "2025-08-21",
+      "value": 32500.5
+    },
+    {
+      "date": "2025-08-25",
+      "value": 75000.5
+    },
+    {
+      "date": "2025-08-28",
+      "value": 32500.5
+    },
+    {
+      "date": "2025-08-29",
+      "value": 32500.5
+    },
+    {
+      "date": "2025-09-10",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-09-10",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-09-11",
+      "value": 32500.5
+    },
+    {
+      "date": "2025-09-11",
+      "value": 75000.5
+    },
+    {
+      "date": "2025-09-19",
+      "value": 75000.5
+    },
+    {
+      "date": "2025-10-07",
+      "value": 75000.5
+    },
+    {
+      "date": "2025-10-08",
+      "value": 75000.5
+    },
+    {
+      "date": "2025-10-10",
+      "value": 32500.5
+    },
+    {
+      "date": "2025-10-10",
+      "value": 32500.5
+    },
+    {
+      "date": "2025-10-14",
+      "value": 32500.5
+    },
+    {
+      "date": "2025-10-22",
+      "value": 75000.5
+    },
+    {
+      "date": "2025-10-24",
+      "value": 175000.5
+    },
+    {
+      "date": "2025-10-29",
+      "value": 32500.5
+    },
+    {
+      "date": "2025-10-30",
+      "value": 32500.5
+    },
+    {
+      "date": "2025-10-31",
+      "value": 32500.5
+    },
+    {
+      "date": "2025-11-03",
+      "value": 75000.5
+    },
+    {
+      "date": "2025-11-04",
+      "value": 32500.5
+    },
+    {
+      "date": "2025-11-05",
+      "value": 32500.5
+    },
+    {
+      "date": "2025-11-05",
+      "value": 75000.5
+    },
+    {
+      "date": "2025-11-05",
+      "value": 32500.5
+    },
+    {
+      "date": "2025-11-07",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-11-12",
+      "value": 75000.5
+    },
+    {
+      "date": "2025-11-14",
+      "value": 32500.5
+    },
+    {
+      "date": "2025-11-19",
+      "value": 175000.5
+    },
+    {
+      "date": "2025-11-20",
+      "value": 32500.5
+    },
+    {
+      "date": "2025-11-20",
+      "value": 32500.5
+    },
+    {
+      "date": "2025-11-21",
+      "value": 32500.5
+    },
+    {
+      "date": "2025-11-28",
+      "value": 32500.5
+    },
+    {
+      "date": "2025-11-28",
+      "value": 32500.5
+    },
+    {
+      "date": "2025-12-03",
+      "value": 175000.5
+    },
+    {
+      "date": "2025-12-09",
+      "value": 75000.5
+    },
+    {
+      "date": "2025-12-09",
+      "value": 32500.5
+    },
+    {
+      "date": "2025-12-10",
+      "value": 75000.5
+    },
+    {
+      "date": "2025-12-10",
+      "value": 32500.5
+    },
+    {
+      "date": "2025-12-16",
+      "value": 32500.5
+    },
+    {
+      "date": "2025-12-18",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-12-18",
+      "value": 32500.5
+    },
+    {
+      "date": "2025-12-31",
+      "value": 32500.5
+    },
+    {
+      "date": "2025-12-31",
+      "value": 32500.5
+    },
+    {
+      "date": "2026-01-05",
+      "value": 75000.5
+    },
+    {
+      "date": "2026-01-05",
+      "value": 32500.5
+    },
+    {
+      "date": "2026-01-09",
+      "value": 32500.5
+    },
+    {
+      "date": "2026-01-23",
+      "value": 32500.5
+    },
+    {
+      "date": "2026-01-30",
+      "value": 32500.5
+    },
+    {
+      "date": "2026-01-30",
+      "value": 15001
+    },
+    {
+      "date": "2026-02-03",
+      "value": 32500.5
+    },
+    {
+      "date": "2026-02-05",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-02-11",
+      "value": 32500.5
+    },
+    {
+      "date": "2026-02-12",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-02-18",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-03-12",
+      "value": 32500.5
+    },
+    {
+      "date": "2026-03-12",
+      "value": 32500.5
+    },
+    {
+      "date": "2026-03-12",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-03-13",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-03-17",
+      "value": 32500.5
+    },
+    {
+      "date": "2026-03-18",
+      "value": 32500.5
+    },
+    {
+      "date": "2026-03-19",
+      "value": 75000.5
+    },
+    {
+      "date": "2026-03-20",
+      "value": 32500.5
+    },
+    {
+      "date": "2026-03-23",
+      "value": 32500.5
+    },
+    {
+      "date": "2026-03-24",
+      "value": 32500.5
+    },
+    {
+      "date": "2026-03-26",
+      "value": 175000.5
+    },
+    {
+      "date": "2026-04-01",
+      "value": 32500.5
+    },
+    {
+      "date": "2026-04-07",
+      "value": 75000.5
+    },
+    {
+      "date": "2026-05-07",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-05-07",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-05-18",
+      "value": 32500.5
+    },
+    {
+      "date": "2026-05-21",
+      "value": 32500.5
+    },
+    {
+      "date": "2026-06-04",
+      "value": 75000.5
+    },
+    {
+      "date": "2026-06-09",
+      "value": 8000.5
+    }
+  ],
+  "measured": {
+    "return": 52.7,
+    "excess": 29.6,
+    "method": "midpoint",
+    "benchmark": "SPY",
+    "window": "disclosed buys 2025-01-03 to 2026-06-04, since-trade, midpoint-weighted",
+    "asOf": "2026-07-29",
+    "note": "Estimate: position sizes are disclosed-range midpoints, never exact amounts. 19 unpriceable position(s) excluded (options or no resolvable price)."
+  }
+}

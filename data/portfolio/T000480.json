@@ -1,0 +1,448 @@
+{
+  "member": {
+    "bioguideId": "T000480",
+    "name": "William R. Timmons IV",
+    "party": "R",
+    "chamber": "house",
+    "state": "SC",
+    "district": "SC-04",
+    "active": true
+  },
+  "positions": [
+    {
+      "memberId": "T000480",
+      "security": {
+        "ticker": "SPCX",
+        "kind": "treasury"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 100002,
+        "hi": 200000
+      },
+      "status": "holds",
+      "asOf": "2026-06-15",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035042.pdf"
+        },
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20022577.pdf"
+        }
+      ]
+    }
+  ],
+  "trades": [
+    {
+      "memberId": "T000480",
+      "assetRaw": "2000164887 SpaceX (SPCX) [OT]",
+      "security": {
+        "ticker": "SPCX",
+        "kind": "treasury"
+      },
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2026-06-15",
+      "filedDate": "2026-07-19",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035042.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "T000480",
+      "assetRaw": "SpaceX (SPCX) [OT]",
+      "security": {
+        "ticker": "SPCX",
+        "kind": "treasury"
+      },
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2026-06-15",
+      "filedDate": "2026-07-19",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20022577.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "T000480",
+      "assetRaw": "AbbVie Inc. (AbbV) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2020-06-29",
+      "filedDate": "2020-08-07",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20017111.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "T000480",
+      "assetRaw": "Amazon.com, Inc.",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2020-06-29",
+      "filedDate": "2020-08-07",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20017111.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "T000480",
+      "assetRaw": "Apple Inc. (AAPl) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2020-06-29",
+      "filedDate": "2020-08-07",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20017111.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "T000480",
+      "assetRaw": "Chevron Corporation",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2020-06-29",
+      "filedDate": "2020-08-07",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20017111.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "T000480",
+      "assetRaw": "Facebook, Inc. - Class A (Fb) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2020-06-29",
+      "filedDate": "2020-08-07",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20017111.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "T000480",
+      "assetRaw": "Johnson & Johnson",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2020-06-29",
+      "filedDate": "2020-08-07",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20017111.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "T000480",
+      "assetRaw": "Microsoft Corporation",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2020-06-29",
+      "filedDate": "2020-08-07",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20017111.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "T000480",
+      "assetRaw": "Nike, Inc.",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2020-06-29",
+      "filedDate": "2020-08-07",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20017111.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "T000480",
+      "assetRaw": "Salesforce.com Inc",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2020-06-29",
+      "filedDate": "2020-08-07",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20017111.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "T000480",
+      "assetRaw": "Southern First bancshares, Inc.",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2020-06-29",
+      "filedDate": "2020-08-07",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20017111.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "T000480",
+      "assetRaw": "Walmart Inc.",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2020-06-29",
+      "filedDate": "2020-08-07",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20017111.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "T000480",
+      "assetRaw": "bank of America Corporation (bAC) [ST]",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2020-06-29",
+      "filedDate": "2020-08-07",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20017111.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "T000480",
+      "assetRaw": "gilead Sciences, Inc. (gIld) [ST]",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2020-06-29",
+      "filedDate": "2020-08-07",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20017111.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "T000480",
+      "assetRaw": "Amazon.com, Inc.",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2020-05-28",
+      "filedDate": "2020-08-07",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20017111.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "T000480",
+      "assetRaw": "Johnson & Johnson",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2020-05-28",
+      "filedDate": "2020-08-07",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20017111.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "T000480",
+      "assetRaw": "Salesforce.com Inc",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2020-05-28",
+      "filedDate": "2020-08-07",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20017111.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "T000480",
+      "assetRaw": "Starbucks Corporation (SbuX) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2020-05-28",
+      "filedDate": "2020-08-07",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20017111.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "T000480",
+      "assetRaw": "Walmart Inc.",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2020-05-28",
+      "filedDate": "2020-08-07",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20017111.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    }
+  ],
+  "series": [
+    {
+      "date": "2020-05-28",
+      "value": 8000.5
+    },
+    {
+      "date": "2020-05-28",
+      "value": 8000.5
+    },
+    {
+      "date": "2020-05-28",
+      "value": 8000.5
+    },
+    {
+      "date": "2020-05-28",
+      "value": 8000.5
+    },
+    {
+      "date": "2020-05-28",
+      "value": 8000.5
+    },
+    {
+      "date": "2020-06-29",
+      "value": 8000.5
+    },
+    {
+      "date": "2020-06-29",
+      "value": 8000.5
+    },
+    {
+      "date": "2020-06-29",
+      "value": 8000.5
+    },
+    {
+      "date": "2020-06-29",
+      "value": 8000.5
+    },
+    {
+      "date": "2020-06-29",
+      "value": 8000.5
+    },
+    {
+      "date": "2020-06-29",
+      "value": 8000.5
+    },
+    {
+      "date": "2020-06-29",
+      "value": 8000.5
+    },
+    {
+      "date": "2020-06-29",
+      "value": 8000.5
+    },
+    {
+      "date": "2020-06-29",
+      "value": 8000.5
+    },
+    {
+      "date": "2020-06-29",
+      "value": 8000.5
+    },
+    {
+      "date": "2020-06-29",
+      "value": 8000.5
+    },
+    {
+      "date": "2020-06-29",
+      "value": 8000.5
+    },
+    {
+      "date": "2020-06-29",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-06-15",
+      "value": 75000.5
+    },
+    {
+      "date": "2026-06-15",
+      "value": 75000.5
+    }
+  ],
+  "measured": null
+}

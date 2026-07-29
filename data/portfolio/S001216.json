@@ -1,0 +1,894 @@
+{
+  "member": {
+    "bioguideId": "S001216",
+    "name": "Kim Schrier",
+    "party": "D",
+    "chamber": "house",
+    "state": "WA",
+    "district": "WA-08",
+    "active": true
+  },
+  "positions": [
+    {
+      "memberId": "S001216",
+      "security": {
+        "ticker": "TSLA",
+        "kind": "treasury"
+      },
+      "owner": "joint",
+      "range": {
+        "lo": 250001,
+        "hi": 500000
+      },
+      "status": "sold",
+      "asOf": "2022-03-22",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020712.pdf"
+        }
+      ],
+      "note": "sale reported by PTR with no annual baseline in our coverage"
+    },
+    {
+      "memberId": "S001216",
+      "security": {
+        "ticker": "TSLA",
+        "kind": "treasury"
+      },
+      "owner": "spouse",
+      "range": {
+        "lo": 250001,
+        "hi": 500000
+      },
+      "status": "sold",
+      "asOf": "2022-03-22",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020712.pdf"
+        }
+      ],
+      "note": "sale reported by PTR with no annual baseline in our coverage"
+    }
+  ],
+  "trades": [
+    {
+      "memberId": "S001216",
+      "assetRaw": "Apple Inc.",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 250001,
+        "hi": 500000
+      },
+      "transactionDate": "2022-03-22",
+      "filedDate": "2022-04-21",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020712.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S001216",
+      "assetRaw": "Apple Inc.",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 500001,
+        "hi": 1000000
+      },
+      "transactionDate": "2022-03-22",
+      "filedDate": "2022-04-21",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020712.pdf",
+      "late": false,
+      "note": "Background Information: The holdings of Gowing Family Trust Secondary account were consolidated into the Primary account in December, 2021. As a result, the Primary account held AAPL stock since that time in December until this reported sale. (i.e., Prior to that, the AAPL stock was in the Secondary account.)",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S001216",
+      "assetRaw": "Tesla, Inc.",
+      "security": {
+        "ticker": "TSLA",
+        "kind": "treasury"
+      },
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 250001,
+        "hi": 500000
+      },
+      "transactionDate": "2022-03-22",
+      "filedDate": "2022-04-21",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020712.pdf",
+      "late": false,
+      "note": "Background Information: The holdings of Gowing Family Trust Secondary account were consolidated into the Primary account in December, 2021. As a result, the Primary account held Tesla stock since that time in December until this reported sale. (i.e., Prior to that, the TSLA stock was in the Secondary account.)",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S001216",
+      "assetRaw": "Tesla, Inc.",
+      "security": {
+        "ticker": "TSLA",
+        "kind": "treasury"
+      },
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 250001,
+        "hi": 500000
+      },
+      "transactionDate": "2022-03-22",
+      "filedDate": "2022-04-21",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020712.pdf",
+      "late": false,
+      "note": "Kimberly Schrier Gowing and David Noble Gowing Trustees Inherited IRA (Owner: JT) D: Inherited in October, 2021.",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S001216",
+      "assetRaw": "Apple Inc. (AAPl) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 250001,
+        "hi": 500000
+      },
+      "transactionDate": "2021-11-15",
+      "filedDate": "2021-12-07",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019965.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S001216",
+      "assetRaw": "Abbott laboratories (AbT) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-10-28",
+      "filedDate": "2021-11-18",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019850.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S001216",
+      "assetRaw": "Alphabet Inc. - Class A (gOOgl) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2021-10-28",
+      "filedDate": "2021-11-18",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019850.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S001216",
+      "assetRaw": "Apple Inc. (AAPl) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "joint",
+      "range": {
+        "lo": 250001,
+        "hi": 500000
+      },
+      "transactionDate": "2021-10-28",
+      "filedDate": "2021-11-18",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019850.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S001216",
+      "assetRaw": "CVS Health Corporation",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2021-10-28",
+      "filedDate": "2021-11-18",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019850.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S001216",
+      "assetRaw": "Cisco Systems, Inc.",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2021-10-28",
+      "filedDate": "2021-11-18",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019850.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S001216",
+      "assetRaw": "Cleveland-Cliffs Inc. (ClF) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2021-10-28",
+      "filedDate": "2021-11-18",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019850.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S001216",
+      "assetRaw": "Costco Wholesale Corporation",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2021-10-28",
+      "filedDate": "2021-11-18",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019850.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S001216",
+      "assetRaw": "Donaldson Company, Inc.",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-10-28",
+      "filedDate": "2021-11-18",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019850.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S001216",
+      "assetRaw": "East West bancorp, Inc. (EWbC) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2021-10-28",
+      "filedDate": "2021-11-18",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019850.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S001216",
+      "assetRaw": "Eaton Corporation, PlC Ordinary Shares",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2021-10-28",
+      "filedDate": "2021-11-18",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019850.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S001216",
+      "assetRaw": "Honeywell International Inc.",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-10-28",
+      "filedDate": "2021-11-18",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019850.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S001216",
+      "assetRaw": "International business Machines Corporation (IbM) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-10-28",
+      "filedDate": "2021-11-18",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019850.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S001216",
+      "assetRaw": "JP Morgan Chase & Co.",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2021-10-28",
+      "filedDate": "2021-11-18",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019850.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S001216",
+      "assetRaw": "Jacobs Engineering group Inc.",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2021-10-28",
+      "filedDate": "2021-11-18",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019850.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S001216",
+      "assetRaw": "Mesabi Trust (MSb) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-10-28",
+      "filedDate": "2021-11-18",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019850.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S001216",
+      "assetRaw": "PayPal Holdings, Inc. (PYPl) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-10-28",
+      "filedDate": "2021-11-18",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019850.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S001216",
+      "assetRaw": "Vmware, Inc. Common stock, Class A",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-10-28",
+      "filedDate": "2021-11-18",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019850.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S001216",
+      "assetRaw": "becton, Dickinson and Company (bDX) [ST]",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-10-28",
+      "filedDate": "2021-11-18",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019850.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S001216",
+      "assetRaw": "bristol-Myers Squibb Company (bMY) [ST]",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-10-28",
+      "filedDate": "2021-11-18",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019850.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S001216",
+      "assetRaw": "brookfield Renewable Partners l.P. (bEP) [ST]",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-10-28",
+      "filedDate": "2021-11-18",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019850.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S001216",
+      "assetRaw": "lowe's Companies, Inc. (lOW) [ST]",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2021-10-28",
+      "filedDate": "2021-11-18",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019850.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S001216",
+      "assetRaw": "lumen Technologies, Inc. (luMN) [ST]",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-10-28",
+      "filedDate": "2021-11-18",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019850.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S001216",
+      "assetRaw": "Apple Inc. (AAPl) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "joint",
+      "range": {
+        "lo": 500001,
+        "hi": 1000000
+      },
+      "transactionDate": "2021-07-27",
+      "filedDate": "2021-11-12",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019808.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S001216",
+      "assetRaw": "Apple Inc. (AAPl) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 250001,
+        "hi": 500000
+      },
+      "transactionDate": "2020-03-03",
+      "filedDate": "2020-03-08",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20016189.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S001216",
+      "assetRaw": "Apple Inc. (AAPl) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 1000001,
+        "hi": 5000000
+      },
+      "transactionDate": "2020-03-03",
+      "filedDate": "2020-03-08",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20016189.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S001216",
+      "assetRaw": "Apple Inc. (AAPl) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 250001,
+        "hi": 500000
+      },
+      "transactionDate": "2020-03-03",
+      "filedDate": "2020-03-08",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20016189.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S001216",
+      "assetRaw": "Tesla, Inc. (TSlA) [ST]",
+      "security": {
+        "ticker": "TSLA",
+        "kind": "treasury"
+      },
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2020-03-03",
+      "filedDate": "2020-03-08",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20016189.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S001216",
+      "assetRaw": "Tesla, Inc. (TSlA) [ST]",
+      "security": {
+        "ticker": "TSLA",
+        "kind": "treasury"
+      },
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2020-03-03",
+      "filedDate": "2020-03-08",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20016189.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S001216",
+      "assetRaw": "Apple Inc. (AAPl) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 1000001,
+        "hi": 5000000
+      },
+      "transactionDate": "2020-03-02",
+      "filedDate": "2020-03-08",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20016189.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S001216",
+      "assetRaw": "Apple Inc. (AAPl) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 250001,
+        "hi": 500000
+      },
+      "transactionDate": "2020-03-02",
+      "filedDate": "2020-03-08",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20016189.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S001216",
+      "assetRaw": "Apple Inc. (AAPl) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 250001,
+        "hi": 500000
+      },
+      "transactionDate": "2020-02-28",
+      "filedDate": "2020-03-08",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20016189.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S001216",
+      "assetRaw": "Apple Inc. (AAPl) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2020-02-28",
+      "filedDate": "2020-03-08",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20016189.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S001216",
+      "assetRaw": "Apple Inc. (AAPl) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2020-01-29",
+      "filedDate": "2020-01-29",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20014972.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S001216",
+      "assetRaw": "Apple Inc. (AAPl) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2019-10-21",
+      "filedDate": "2019-10-21",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20012496.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S001216",
+      "assetRaw": "Apple Inc. (AAPl) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2019-09-12",
+      "filedDate": "2019-10-02",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20012404.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S001216",
+      "assetRaw": "Apple Inc. (AAPl) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2019-03-22",
+      "filedDate": "2019-04-30",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20007920.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    }
+  ],
+  "series": [
+    {
+      "date": "2019-03-22",
+      "value": 75000.5
+    },
+    {
+      "date": "2019-09-12",
+      "value": 75000.5
+    },
+    {
+      "date": "2019-10-21",
+      "value": 75000.5
+    },
+    {
+      "date": "2020-01-29",
+      "value": 75000.5
+    },
+    {
+      "date": "2020-02-28",
+      "value": 375000.5
+    },
+    {
+      "date": "2020-02-28",
+      "value": 175000.5
+    },
+    {
+      "date": "2020-03-02",
+      "value": 3000000.5
+    },
+    {
+      "date": "2020-03-02",
+      "value": 375000.5
+    },
+    {
+      "date": "2020-03-03",
+      "value": 375000.5
+    },
+    {
+      "date": "2020-03-03",
+      "value": 3000000.5
+    },
+    {
+      "date": "2020-03-03",
+      "value": 375000.5
+    },
+    {
+      "date": "2020-03-03",
+      "value": 175000.5
+    },
+    {
+      "date": "2020-03-03",
+      "value": 175000.5
+    },
+    {
+      "date": "2021-07-27",
+      "value": 750000.5
+    },
+    {
+      "date": "2021-10-28",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-10-28",
+      "value": 32500.5
+    },
+    {
+      "date": "2021-10-28",
+      "value": 375000.5
+    },
+    {
+      "date": "2021-10-28",
+      "value": 32500.5
+    },
+    {
+      "date": "2021-10-28",
+      "value": 32500.5
+    },
+    {
+      "date": "2021-10-28",
+      "value": 32500.5
+    },
+    {
+      "date": "2021-10-28",
+      "value": 32500.5
+    },
+    {
+      "date": "2021-10-28",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-10-28",
+      "value": 32500.5
+    },
+    {
+      "date": "2021-10-28",
+      "value": 32500.5
+    },
+    {
+      "date": "2021-10-28",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-10-28",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-10-28",
+      "value": 32500.5
+    },
+    {
+      "date": "2021-10-28",
+      "value": 32500.5
+    },
+    {
+      "date": "2021-10-28",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-10-28",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-10-28",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-10-28",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-10-28",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-10-28",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-10-28",
+      "value": 32500.5
+    },
+    {
+      "date": "2021-10-28",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-11-15",
+      "value": 375000.5
+    },
+    {
+      "date": "2022-03-22",
+      "value": 375000.5
+    },
+    {
+      "date": "2022-03-22",
+      "value": 750000.5
+    },
+    {
+      "date": "2022-03-22",
+      "value": 375000.5
+    },
+    {
+      "date": "2022-03-22",
+      "value": 375000.5
+    }
+  ],
+  "measured": null
+}

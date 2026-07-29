@@ -1,0 +1,248 @@
+{
+  "member": {
+    "bioguideId": "M001245",
+    "name": "Christian D. Menefee",
+    "party": "D",
+    "chamber": "house",
+    "state": "TX",
+    "district": "TX-18",
+    "active": true
+  },
+  "positions": [
+    {
+      "memberId": "M001245",
+      "security": {
+        "ticker": "BRK.B",
+        "kind": "other"
+      },
+      "owner": "joint",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "status": "sold",
+      "asOf": "2026-02-10",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034099.pdf"
+        }
+      ],
+      "note": "sale reported by PTR with no annual baseline in our coverage"
+    },
+    {
+      "memberId": "M001245",
+      "security": {
+        "ticker": "BRK.B",
+        "kind": "other"
+      },
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "status": "sold",
+      "asOf": "2026-02-10",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034099.pdf"
+        }
+      ],
+      "note": "sale reported by PTR with no annual baseline in our coverage"
+    },
+    {
+      "memberId": "M001245",
+      "security": {
+        "ticker": "PINS",
+        "kind": "other"
+      },
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "status": "sold",
+      "asOf": "2026-06-11",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034099.pdf"
+        }
+      ],
+      "note": "sale reported by PTR with no annual baseline in our coverage"
+    }
+  ],
+  "trades": [
+    {
+      "memberId": "M001245",
+      "assetRaw": "Pinterest, Inc. Class A Common Stock (PINS) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2026-06-11",
+      "filedDate": "2026-06-01",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034099.pdf",
+      "late": false,
+      "provenance": "official"
+    },
+    {
+      "memberId": "M001245",
+      "assetRaw": "Pinterest, Inc. Class A Common Stock (PINS) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2026-05-28",
+      "filedDate": "2026-06-01",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034099.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "M001245",
+      "assetRaw": "Pinterest, Inc. Class A Common Stock (PINS) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2026-02-23",
+      "filedDate": "2026-06-01",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034099.pdf",
+      "late": true,
+      "provenance": "both"
+    },
+    {
+      "memberId": "M001245",
+      "assetRaw": "Pinterest, Inc. Class A Common Stock (PINS) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-02-17",
+      "filedDate": "2026-06-01",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034099.pdf",
+      "late": true,
+      "provenance": "both"
+    },
+    {
+      "memberId": "M001245",
+      "assetRaw": "Berkshire Hathaway Inc. New Common Stock (BRK.B) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-02-10",
+      "filedDate": "2026-06-01",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034099.pdf",
+      "late": true,
+      "provenance": "both"
+    },
+    {
+      "memberId": "M001245",
+      "assetRaw": "Berkshire Hathaway Inc. New Common Stock (BRK.B) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2026-02-10",
+      "filedDate": "2026-06-01",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034099.pdf",
+      "late": true,
+      "provenance": "both"
+    },
+    {
+      "memberId": "M001245",
+      "assetRaw": "Berkshire Hathaway Inc. New Common Stock (BRK.B) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2026-02-10",
+      "filedDate": "2026-06-01",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034099.pdf",
+      "late": true,
+      "provenance": "both"
+    },
+    {
+      "memberId": "M001245",
+      "assetRaw": "Pinterest, Inc. Class A Common Stock",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2025-06-11",
+      "filedDate": "2026-06-01",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034099.pdf",
+      "late": true,
+      "note": "Spouse received restricted stock units (RSUs) as part of compensation as employee of Pinterest. The RSUs vest quarterly and can only be sold during predetermined trading windows that the company schedules after quarterly earnings calls to prevent insider trading.",
+      "provenance": "kadoa"
+    }
+  ],
+  "series": [
+    {
+      "date": "2025-06-11",
+      "value": 32500.5
+    },
+    {
+      "date": "2026-02-10",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-02-10",
+      "value": 32500.5
+    },
+    {
+      "date": "2026-02-10",
+      "value": 32500.5
+    },
+    {
+      "date": "2026-02-17",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-02-23",
+      "value": 32500.5
+    },
+    {
+      "date": "2026-05-28",
+      "value": 32500.5
+    },
+    {
+      "date": "2026-06-11",
+      "value": 32500.5
+    }
+  ],
+  "measured": null
+}

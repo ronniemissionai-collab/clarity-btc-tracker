@@ -1,0 +1,57 @@
+{
+  "member": {
+    "bioguideId": "M001198",
+    "lisId": "S411",
+    "name": "Roger Marshall",
+    "party": "R",
+    "chamber": "senate",
+    "state": "KS",
+    "active": true
+  },
+  "positions": [],
+  "trades": [
+    {
+      "memberId": "M001198",
+      "assetRaw": "Shares of Stock\n                                        \n                                        \n                                        \n                                            \n                                                \n                                                    Company: Farmers Enterprises, Inc.\n                                                    \n                                                         (Great Bend, KS)\n                                                    \n                                                \n                                            \n\n                                            \n                                                Description: Bank",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2023-08-29",
+      "filedDate": "2023-09-06",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/129f391b-9bb5-4ed3-a1ce-6b4e3e2a34c9/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001198",
+      "assetRaw": "20% Interest, Quivira Ranch, Inc.\n                                        \n                                        \n                                        \n                                            \n                                                \n                                                    Company: Quivira Ranch, Inc.\n                                                    \n                                                         (Stafford County, KS)\n                                                    \n                                                \n                                            \n\n                                            \n                                                Description: Ranch; land, fencing, and equipment rental; oil royalties.",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 250001,
+        "hi": 500000
+      },
+      "transactionDate": "2021-03-01",
+      "filedDate": "2021-08-13",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/e3c66cc8-ca84-4899-b3dd-21a0a400ffc6/",
+      "late": true,
+      "provenance": "kadoa"
+    }
+  ],
+  "series": [
+    {
+      "date": "2021-03-01",
+      "value": 375000.5
+    },
+    {
+      "date": "2023-08-29",
+      "value": 175000.5
+    }
+  ],
+  "measured": null
+}

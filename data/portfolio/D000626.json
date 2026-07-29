@@ -1,0 +1,175 @@
+{
+  "member": {
+    "bioguideId": "D000626",
+    "name": "Warren Davidson",
+    "party": "R",
+    "chamber": "house",
+    "state": "OH",
+    "district": "OH-08",
+    "active": true
+  },
+  "positions": [
+    {
+      "memberId": "D000626",
+      "security": {
+        "ticker": "GEHC",
+        "kind": "other"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "sold",
+      "asOf": "2026-03-23",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034223.pdf"
+        }
+      ],
+      "note": "sale reported by PTR with no annual baseline in our coverage"
+    }
+  ],
+  "trades": [
+    {
+      "memberId": "D000626",
+      "assetRaw": "GE HealthCare Technologies Inc. - Common Stock (GEHC) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-03-23",
+      "filedDate": "2026-03-25",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034223.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "D000626",
+      "assetRaw": "Cleveland-Cliffs Inc. (ClF) [ST]",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2020-09-21",
+      "filedDate": "2021-03-25",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20017743.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000626",
+      "assetRaw": "Workhorse group, Inc.",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2020-09-21",
+      "filedDate": "2021-03-25",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20017743.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000626",
+      "assetRaw": "Workhorse group, Inc.",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2020-08-28",
+      "filedDate": "2021-03-25",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20017743.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000626",
+      "assetRaw": "Exxon Mobil Corporation",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2018-05-17",
+      "filedDate": "2021-03-25",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20017743.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000626",
+      "assetRaw": "94 Workhorse group, Inc. (WKHs) [sT]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2018-02-06",
+      "filedDate": "2018-10-10",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20010466.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000626",
+      "assetRaw": "general Electric Company (gE) [sT]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2018-02-06",
+      "filedDate": "2018-10-10",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/20010466.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    }
+  ],
+  "series": [
+    {
+      "date": "2018-02-06",
+      "value": 8000.5
+    },
+    {
+      "date": "2018-02-06",
+      "value": 32500.5
+    },
+    {
+      "date": "2018-05-17",
+      "value": 32500.5
+    },
+    {
+      "date": "2020-08-28",
+      "value": 75000.5
+    },
+    {
+      "date": "2020-09-21",
+      "value": 32500.5
+    },
+    {
+      "date": "2020-09-21",
+      "value": 32500.5
+    },
+    {
+      "date": "2026-03-23",
+      "value": 8000.5
+    }
+  ],
+  "measured": null
+}

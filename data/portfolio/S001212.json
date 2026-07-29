@@ -1,0 +1,36 @@
+{
+  "member": {
+    "bioguideId": "S001212",
+    "name": "Pete Stauber",
+    "party": "R",
+    "chamber": "house",
+    "state": "MN",
+    "district": "MN-08",
+    "active": true
+  },
+  "positions": [],
+  "trades": [
+    {
+      "memberId": "S001212",
+      "assetRaw": "Newell Brands Inc.",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2025-10-27",
+      "filedDate": "2025-11-21",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20033488.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    }
+  ],
+  "series": [
+    {
+      "date": "2025-10-27",
+      "value": 32500.5
+    }
+  ],
+  "measured": null
+}

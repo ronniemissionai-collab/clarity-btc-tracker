@@ -1,0 +1,37 @@
+{
+  "member": {
+    "bioguideId": "D000600",
+    "name": "Mario Diaz-Balart",
+    "party": "R",
+    "chamber": "house",
+    "state": "FL",
+    "district": "FL-26",
+    "active": true
+  },
+  "positions": [],
+  "trades": [
+    {
+      "memberId": "D000600",
+      "assetRaw": "MDLIVE,INC. [PS]",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2021-04-22",
+      "filedDate": "2021-05-18",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20018764.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    }
+  ],
+  "series": [
+    {
+      "date": "2021-04-22",
+      "value": 75000.5
+    }
+  ],
+  "measured": null
+}

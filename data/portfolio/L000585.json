@@ -1,0 +1,36 @@
+{
+  "member": {
+    "bioguideId": "L000585",
+    "name": "Darin LaHood",
+    "party": "R",
+    "chamber": "house",
+    "state": "IL",
+    "district": "IL-16",
+    "active": true
+  },
+  "positions": [],
+  "trades": [
+    {
+      "memberId": "L000585",
+      "assetRaw": "West Suburban Bancorp, Inc.",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-11-17",
+      "filedDate": "2024-09-27",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/20025916.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    }
+  ],
+  "series": [
+    {
+      "date": "2022-11-17",
+      "value": 8000.5
+    }
+  ],
+  "measured": null
+}

@@ -1,0 +1,3343 @@
+{
+  "member": {
+    "bioguideId": "J000295",
+    "name": "David P. Joyce",
+    "party": "R",
+    "chamber": "house",
+    "state": "OH",
+    "district": "OH-14",
+    "active": true
+  },
+  "positions": [
+    {
+      "memberId": "J000295",
+      "security": {
+        "ticker": "AMZN",
+        "kind": "other"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "stale",
+      "asOf": "2017-06-28",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2017/20005383.pdf"
+        }
+      ]
+    },
+    {
+      "memberId": "J000295",
+      "security": {
+        "ticker": "DVMT",
+        "kind": "other"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "sold",
+      "asOf": "2017-06-28",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2017/20005383.pdf"
+        }
+      ],
+      "note": "sale reported by PTR with no annual baseline in our coverage"
+    },
+    {
+      "memberId": "J000295",
+      "security": {
+        "ticker": "EFA",
+        "kind": "other"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "status": "sold",
+      "asOf": "2017-05-18",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2017/20005383.pdf"
+        }
+      ],
+      "note": "sale reported by PTR with no annual baseline in our coverage"
+    },
+    {
+      "memberId": "J000295",
+      "security": {
+        "ticker": "IWF",
+        "kind": "other"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 115002,
+        "hi": 300000
+      },
+      "status": "stale",
+      "asOf": "2017-01-30",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2017/20005383.pdf"
+        }
+      ]
+    },
+    {
+      "memberId": "J000295",
+      "security": {
+        "ticker": "IWM",
+        "kind": "other"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "status": "stale",
+      "asOf": "2016-12-21",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2017/20005383.pdf"
+        }
+      ]
+    },
+    {
+      "memberId": "J000295",
+      "security": {
+        "ticker": "KMI",
+        "kind": "other"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "stale",
+      "asOf": "2017-06-28",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2017/20005383.pdf"
+        }
+      ]
+    },
+    {
+      "memberId": "J000295",
+      "security": {
+        "ticker": "MET",
+        "kind": "other"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "status": "sold",
+      "asOf": "2017-06-28",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2017/20005383.pdf"
+        }
+      ],
+      "note": "sale reported by PTR with no annual baseline in our coverage"
+    },
+    {
+      "memberId": "J000295",
+      "security": {
+        "ticker": "MLPI",
+        "kind": "other"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 2002,
+        "hi": 30000
+      },
+      "status": "stale",
+      "asOf": "2017-03-17",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2017/20005383.pdf"
+        }
+      ]
+    },
+    {
+      "memberId": "J000295",
+      "security": {
+        "ticker": "NKE",
+        "kind": "other"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "stale",
+      "asOf": "2017-06-28",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2017/20005383.pdf"
+        }
+      ]
+    },
+    {
+      "memberId": "J000295",
+      "security": {
+        "ticker": "NRE",
+        "kind": "other"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "sold",
+      "asOf": "2016-05-23",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2017/20005383.pdf"
+        }
+      ],
+      "note": "sale reported by PTR with no annual baseline in our coverage"
+    },
+    {
+      "memberId": "J000295",
+      "security": {
+        "ticker": "NRF",
+        "kind": "other"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "sold",
+      "asOf": "2016-05-23",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2017/20005383.pdf"
+        }
+      ],
+      "note": "sale reported by PTR with no annual baseline in our coverage"
+    },
+    {
+      "memberId": "J000295",
+      "security": {
+        "ticker": "QQQ",
+        "kind": "other"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "sold",
+      "asOf": "2017-03-13",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2017/20005383.pdf"
+        }
+      ],
+      "note": "sale reported by PTR with no annual baseline in our coverage"
+    },
+    {
+      "memberId": "J000295",
+      "security": {
+        "ticker": "RYH",
+        "kind": "other"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "sold",
+      "asOf": "2017-03-17",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2017/20005383.pdf"
+        }
+      ],
+      "note": "sale reported by PTR with no annual baseline in our coverage"
+    },
+    {
+      "memberId": "J000295",
+      "security": {
+        "ticker": "SPY",
+        "kind": "other"
+      },
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "stale",
+      "asOf": "2017-03-17",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2017/20005383.pdf"
+        }
+      ]
+    },
+    {
+      "memberId": "J000295",
+      "security": {
+        "ticker": "UPS",
+        "kind": "other"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "stale",
+      "asOf": "2017-06-28",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2017/20005383.pdf"
+        }
+      ]
+    },
+    {
+      "memberId": "J000295",
+      "security": {
+        "ticker": "VEA",
+        "kind": "other"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "status": "stale",
+      "asOf": "2017-05-18",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2017/20005383.pdf"
+        }
+      ]
+    },
+    {
+      "memberId": "J000295",
+      "security": {
+        "ticker": "WLL",
+        "kind": "other"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "sold",
+      "asOf": "2017-06-28",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2017/20005383.pdf"
+        }
+      ],
+      "note": "sale reported by PTR with no annual baseline in our coverage"
+    }
+  ],
+  "trades": [
+    {
+      "memberId": "J000295",
+      "assetRaw": "MAI Managed [PS]",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2025-01-10",
+      "filedDate": "2025-02-07",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20026736.pdf",
+      "late": false,
+      "note": "MAI Managed funds",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "J000295",
+      "assetRaw": "MAI Managed Income Fund [HN]",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2024-11-19",
+      "filedDate": "2024-12-18",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/20026440.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "J000295",
+      "assetRaw": "BlackRock, Inc.",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2023-06-30",
+      "filedDate": "2024-08-06",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/20021523.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "J000295",
+      "assetRaw": "Golub Capital BDC, Inc. - Closed End Fund",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2023-06-30",
+      "filedDate": "2024-08-06",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/20021523.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "J000295",
+      "assetRaw": "SPDR Series Trust SPDR S&P Biotech ETF",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2023-06-30",
+      "filedDate": "2024-08-06",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/20021523.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "J000295",
+      "assetRaw": "TC Energy Corporation",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2023-06-23",
+      "filedDate": "2024-08-06",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/20021523.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "J000295",
+      "assetRaw": "Citigroup, Inc.",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2023-06-22",
+      "filedDate": "2024-08-06",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/20021523.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "J000295",
+      "assetRaw": "Boeing Company",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2023-06-19",
+      "filedDate": "2024-08-06",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/20021523.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "J000295",
+      "assetRaw": "Golub Capital BDC, Inc. - Closed End Fund",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2023-06-19",
+      "filedDate": "2024-08-06",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/20021523.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "J000295",
+      "assetRaw": "iShares Russell 1000 Growth ETF",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2023-06-19",
+      "filedDate": "2024-08-06",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/20021523.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "J000295",
+      "assetRaw": "Golub Capital BDC, Inc.",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2022-07-14",
+      "filedDate": "2024-08-06",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/20021523.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "J000295",
+      "assetRaw": "Vanguard Short-Term Corporate Bond ETF",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2022-07-14",
+      "filedDate": "2024-08-06",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/20021523.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "J000295",
+      "assetRaw": "Golub Capital BDC, Inc.",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2022-07-12",
+      "filedDate": "2024-08-06",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/20021523.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "J000295",
+      "assetRaw": "Global X Funds Global X U.S. Infrastructure Development ETF",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-05-19",
+      "filedDate": "2022-06-09",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021183.pdf",
+      "late": false,
+      "note": "Filing Status: New\nSubholding Of: DPJ & KAJ joint account",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "J000295",
+      "assetRaw": "Invesco Aerospace & Defense ETF",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-05-19",
+      "filedDate": "2022-06-09",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021183.pdf",
+      "late": false,
+      "note": "Filing Status: New\nSubholding Of: DPJ & KAJ joint account",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "J000295",
+      "assetRaw": "Vanguard Short-Term Corporate Bond ETF",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2022-05-17",
+      "filedDate": "2022-06-09",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021184.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "J000295",
+      "assetRaw": "DR MidCap Trust Series I",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-09-14",
+      "filedDate": "2021-09-30",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019546.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "J000295",
+      "assetRaw": "JPMorgan Chase Capital XVI JP Morgan Alerian MLP ETN",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2021-09-14",
+      "filedDate": "2021-09-30",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019546.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "J000295",
+      "assetRaw": "DPJ & KAJ joint account global X Funds global X U.S. Infrastructure Development ETF",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2020-12-11",
+      "filedDate": "2021-07-27",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20018692.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "J000295",
+      "assetRaw": "David P. Joyce QSST Trust global X Funds global X U.S. Infrastructure Development ETF",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2020-12-09",
+      "filedDate": "2021-07-27",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20018692.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "J000295",
+      "assetRaw": "David P. Joyce QSST Trust iShares Russell 2000 ETF",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2020-12-09",
+      "filedDate": "2021-07-27",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20018692.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "J000295",
+      "assetRaw": "David P. Joyce QSST Trust iShares Russell 2000 ETF",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2020-12-02",
+      "filedDate": "2021-07-27",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20018692.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "J000295",
+      "assetRaw": "David P. Joyce QSST Trust LOCATION: US DESCRIPTION: MUTUAL FUND FIDELITY LIMITED TERM MUNI INCOME FUND [gS]",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2020-07-02",
+      "filedDate": "2021-07-27",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20018692.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "J000295",
+      "assetRaw": "DPJ & KAJ joint account iShares Russell 2000 ETF",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2020-06-26",
+      "filedDate": "2021-07-27",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20018692.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "J000295",
+      "assetRaw": "David P. Joyce QSST Trust iShares Core MSCI EAFE ETF",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2020-06-26",
+      "filedDate": "2021-07-27",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20018692.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "J000295",
+      "assetRaw": "David P. Joyce QSST Trust iShares Core S&P 500 ETF",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2020-06-26",
+      "filedDate": "2021-07-27",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20018692.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "J000295",
+      "assetRaw": "DR S&P 500",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2020-06-08",
+      "filedDate": "2021-07-27",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20018692.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "J000295",
+      "assetRaw": "DR S&P bank ETF (KbE) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2020-06-08",
+      "filedDate": "2021-07-27",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20018692.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "J000295",
+      "assetRaw": "Vanguard Russell 1000 ETF",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2020-03-26",
+      "filedDate": "2021-07-27",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20018692.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "J000295",
+      "assetRaw": "DR S&P 500",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2020-03-11",
+      "filedDate": "2021-07-27",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20018692.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "J000295",
+      "assetRaw": "DPJ & KAJ joint account golub Capital bDC, Inc. (gbDC) [ST]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2020-02-25",
+      "filedDate": "2021-07-27",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20018692.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "J000295",
+      "assetRaw": "David P. Joyce QSST Trust LOCATION: US DESCRIPTION: Mutual fund FIDELITY LIMITED TERM MUNI INCOME FUND [OT]",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2020-01-15",
+      "filedDate": "2021-07-27",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20018692.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "J000295",
+      "assetRaw": "Fidelity Advisor Real Eastate Income Z FIKMX [OT]",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2020-01-15",
+      "filedDate": "2021-07-27",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20018692.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "J000295",
+      "assetRaw": "David P. Joyce Trust Fidelity Advisor Real Estate Income Z (fikmx) [Ab]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2019-12-31",
+      "filedDate": "2020-07-30",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20014973.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "J000295",
+      "assetRaw": "David P. Joyce Trust iShares Russell 2000 Value ETF",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2019-12-31",
+      "filedDate": "2020-07-30",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20014973.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "J000295",
+      "assetRaw": "Rita M. Joyce IRA iShares S&P 500 Value ETF",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2019-12-31",
+      "filedDate": "2020-07-30",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20014973.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "J000295",
+      "assetRaw": "David P. Joyce Trust 00% due 12/1/22 Fidelity Advisor Real Estate Income Z (fikmx) [Ab]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2019-09-30",
+      "filedDate": "2020-07-30",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20014973.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "J000295",
+      "assetRaw": "David P. Joyce Trust Fidelity Advisor Real Estate income Z (fikmx) [Ab]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2019-09-30",
+      "filedDate": "2020-07-30",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20014973.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "J000295",
+      "assetRaw": "DR MidCap Trust Series I",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2019-09-20",
+      "filedDate": "2020-07-30",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20014973.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "J000295",
+      "assetRaw": "David P. Joyce QSST Trust iShares Core S&P 500 ETF",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2019-07-24",
+      "filedDate": "2020-07-30",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20014973.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "J000295",
+      "assetRaw": "David P. Joyce Trust iShares Core S&P Mid-Cap ETF",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2019-07-24",
+      "filedDate": "2020-07-30",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20014973.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "J000295",
+      "assetRaw": "David P. Joyce Trust iShares Core S&P Small-Cap ETF",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2019-07-24",
+      "filedDate": "2020-07-30",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20014973.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "J000295",
+      "assetRaw": "JPMorgan Chase Capital XVI JP Morgan Alerian MLP ETN",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2019-07-08",
+      "filedDate": "2020-07-30",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20014973.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "J000295",
+      "assetRaw": "DPJ & KAJ joint account Vanguard FTSE Developed Markets ETF",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2019-06-21",
+      "filedDate": "2020-07-30",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20014973.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "J000295",
+      "assetRaw": "DR S&P 500",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2019-06-21",
+      "filedDate": "2020-07-30",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20014973.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "J000295",
+      "assetRaw": "David P. Joyce QSST Trust Fidelity FL High Income (ffrhx) [Ab]",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2019-05-30",
+      "filedDate": "2020-07-30",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20014973.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "J000295",
+      "assetRaw": "David P. Joyce QSST Trust golub Capital bDC, Inc. (gbDC) [ST]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2019-05-30",
+      "filedDate": "2020-07-30",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20014973.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "J000295",
+      "assetRaw": "David P. Joyce Trust DESCRIPTION: Term bond 4.0% due 11/1/30 buckeye OH Cent Loc Sch Dist. [CS]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2019-04-03",
+      "filedDate": "2020-07-30",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20014973.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "J000295",
+      "assetRaw": "bessemer AL gO bd. [CS]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2019-04-02",
+      "filedDate": "2020-07-30",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20014973.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "J000295",
+      "assetRaw": "David P. Joyce Trust DESCRIPTION: Term bond 4.0% due 12/1/25 Delaware OH Cry Sch Dist. [CS]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2019-03-28",
+      "filedDate": "2020-07-30",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20014973.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "J000295",
+      "assetRaw": "David P. Joyce Trust DESCRIPTION: Term bond 3.125% due 2/1/24 brookville OH Loc Sch Dist [CS]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2019-03-27",
+      "filedDate": "2020-07-30",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20014973.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "J000295",
+      "assetRaw": "David P. Joyce Trust DESCRIPTION: Term bond 4.5% due 12/1/29 East Muskingum OH Loc Sch Dist. [CS]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2019-03-25",
+      "filedDate": "2020-07-30",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20014973.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "J000295",
+      "assetRaw": "DPJ & KAJ joint account Vanguard Short-Term Corporate bond ETF",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2019-03-22",
+      "filedDate": "2020-07-30",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20014973.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "J000295",
+      "assetRaw": "David P. Joyce Trust Fidelity Limited Term Municipal Inc. (fstfx) [Ab]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2019-03-22",
+      "filedDate": "2020-07-30",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20014973.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "J000295",
+      "assetRaw": "Rita M. Joyce IRA Fidelity FL Rt High Income (ffhrx) [Ab]",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2019-03-22",
+      "filedDate": "2020-07-30",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20014973.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "J000295",
+      "assetRaw": "David P. Joyce QSST Trust iShares Core S&P 500 ETF",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2019-03-04",
+      "filedDate": "2020-07-30",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20014973.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "J000295",
+      "assetRaw": "David P. Joyce QSST Trust iShares Core S&P Mid-Cap ETF",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2019-03-04",
+      "filedDate": "2020-07-30",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20014973.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "J000295",
+      "assetRaw": "David P. Joyce Trust iShares Core S&P Small-Cap ETF",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2019-03-04",
+      "filedDate": "2020-07-30",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20014973.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "J000295",
+      "assetRaw": "iShares Core MSCI EAFE ETF",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2019-03-04",
+      "filedDate": "2020-07-30",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20014973.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "J000295",
+      "assetRaw": "DPJ & KAJ joint account Invesco QQQ Trust, Series 1",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2019-01-10",
+      "filedDate": "2020-07-30",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20014973.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "J000295",
+      "assetRaw": "DPJ & KAJ joint account Vanguard Information Tech ETF (VgT) [ST]",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2019-01-10",
+      "filedDate": "2020-07-30",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20014973.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "J000295",
+      "assetRaw": "Rita M. Joyce IRA Invesco QQQ Trust, Series 1",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2019-01-10",
+      "filedDate": "2020-07-30",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20014973.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "J000295",
+      "assetRaw": "Aston/Fairpointe Mid Cap 1 fund",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2018-12-21",
+      "filedDate": "2019-05-08",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20008517.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "J000295",
+      "assetRaw": "Golub Capital BDC, Inc.",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2018-12-21",
+      "filedDate": "2019-05-08",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20008517.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "J000295",
+      "assetRaw": "iShares Russell 2000 ETF",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2018-12-21",
+      "filedDate": "2019-05-08",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20008517.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "J000295",
+      "assetRaw": "Vanguard/Windsor II Admiral (vwnax)",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2018-12-18",
+      "filedDate": "2019-05-08",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20008517.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "J000295",
+      "assetRaw": "MAI Managed Volatility Fund (maipx)",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2018-12-14",
+      "filedDate": "2019-05-08",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20008517.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "J000295",
+      "assetRaw": "Fidelity High Income Fund",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2018-12-11",
+      "filedDate": "2019-05-08",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20008517.pdf",
+      "late": true,
+      "note": "Mutual fund",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "J000295",
+      "assetRaw": "Fidelity Limited Term Municipal (fstfx)",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2018-12-11",
+      "filedDate": "2019-05-08",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20008517.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "J000295",
+      "assetRaw": "Fidelity Limited Term Municipal Inc (fstfx)",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2018-12-11",
+      "filedDate": "2019-05-08",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20008517.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "J000295",
+      "assetRaw": "Harbor International (hainx)",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2018-12-11",
+      "filedDate": "2019-05-08",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20008517.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "J000295",
+      "assetRaw": "Harbor International HAINX",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2018-12-11",
+      "filedDate": "2019-05-08",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20008517.pdf",
+      "late": true,
+      "note": "Mutual funds",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "J000295",
+      "assetRaw": "Invesco Dynamic Building & Construction ETF",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2018-12-11",
+      "filedDate": "2019-05-08",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20008517.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "J000295",
+      "assetRaw": "Invesco Emerging Markets Sovereign Debt ETF",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2018-12-11",
+      "filedDate": "2019-05-08",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20008517.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "J000295",
+      "assetRaw": "Invesco QQQ Trust, Series 1",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2018-12-11",
+      "filedDate": "2019-05-08",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20008517.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "J000295",
+      "assetRaw": "MAI Managed Volatility Fund (maipx)",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2018-12-11",
+      "filedDate": "2019-05-08",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20008517.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "J000295",
+      "assetRaw": "MAI Managed Volatility Fund (maipx)",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2018-12-11",
+      "filedDate": "2019-05-08",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20008517.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "J000295",
+      "assetRaw": "SPDR Bloomberg Barclays High Yield Bond ETF",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2018-12-11",
+      "filedDate": "2019-05-08",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20008517.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "J000295",
+      "assetRaw": "Templeton Global Bond",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2018-12-11",
+      "filedDate": "2019-05-08",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20008517.pdf",
+      "late": true,
+      "note": "global bond fund",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "J000295",
+      "assetRaw": "Vanguard Short-Term Corporate Bond ETF",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2018-12-11",
+      "filedDate": "2019-05-08",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20008517.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "J000295",
+      "assetRaw": "Vanguard Short-Term Corporate Bond ETF",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2018-12-11",
+      "filedDate": "2019-05-08",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20008517.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "J000295",
+      "assetRaw": "iShares Russell 2000 Growth ETF",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2018-12-11",
+      "filedDate": "2019-05-08",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20008517.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "J000295",
+      "assetRaw": "SPDR S&P 500",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2018-10-26",
+      "filedDate": "2019-05-08",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20008517.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "J000295",
+      "assetRaw": "SPDR MidCap Trust Series I",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2018-09-05",
+      "filedDate": "2019-05-08",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20008517.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "J000295",
+      "assetRaw": "Stone Ridge Reinsurance Fund",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2018-08-17",
+      "filedDate": "2019-05-08",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20008517.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "J000295",
+      "assetRaw": "Vanguard/Windsor II Admiral (vwnax)",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2018-06-15",
+      "filedDate": "2019-05-08",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20008517.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "J000295",
+      "assetRaw": "SPDR Bloomberg Barclays High Yield Bond ETF",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2018-06-06",
+      "filedDate": "2019-05-08",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20008517.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "J000295",
+      "assetRaw": "BlackRock, Inc.",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2018-03-29",
+      "filedDate": "2019-05-08",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20008517.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "J000295",
+      "assetRaw": "Discovery, Inc. - Series A",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2018-03-29",
+      "filedDate": "2019-05-08",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20008517.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "J000295",
+      "assetRaw": "Invesco Dynamic Building & Construction ETF",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2018-03-29",
+      "filedDate": "2019-05-08",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20008517.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "J000295",
+      "assetRaw": "Invesco QQQ Trust, Series 1",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2018-03-29",
+      "filedDate": "2019-05-08",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20008517.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "J000295",
+      "assetRaw": "Invesco QQQ Trust, Series 1",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2018-03-29",
+      "filedDate": "2019-05-08",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20008517.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "J000295",
+      "assetRaw": "Invesco QQQ Trust, Series 1",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2018-03-29",
+      "filedDate": "2019-05-08",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20008517.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "J000295",
+      "assetRaw": "JPMorgan Chase Capital XVI JP Morgan Alerian MLP ETN",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2018-03-29",
+      "filedDate": "2019-05-08",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20008517.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "J000295",
+      "assetRaw": "MAI MANAGED VOLATILITY (maipx)",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2018-03-29",
+      "filedDate": "2019-05-08",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20008517.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "J000295",
+      "assetRaw": "MAI Managed Volatilty Fund MAIPX",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2018-03-29",
+      "filedDate": "2019-05-08",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20008517.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "J000295",
+      "assetRaw": "Merck & Company, Inc. Common Stock",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2018-03-29",
+      "filedDate": "2019-05-08",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20008517.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "J000295",
+      "assetRaw": "Nike, Inc.",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2018-03-29",
+      "filedDate": "2019-05-08",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20008517.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "J000295",
+      "assetRaw": "Oppenheimer Developing Markets (odvyx)",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2018-03-29",
+      "filedDate": "2019-05-08",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20008517.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "J000295",
+      "assetRaw": "SPDR S&P Bank ETF",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2018-03-29",
+      "filedDate": "2019-05-08",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20008517.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "J000295",
+      "assetRaw": "UnitedHealth Group Incorporated Common Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2018-03-29",
+      "filedDate": "2019-05-08",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20008517.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "J000295",
+      "assetRaw": "iShares MSCI EAFE ETF",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2018-03-29",
+      "filedDate": "2019-05-08",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20008517.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "J000295",
+      "assetRaw": "iShares Russell 2000 ETF",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2018-03-29",
+      "filedDate": "2019-05-08",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20008517.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "J000295",
+      "assetRaw": "GS S&P 500 Buffered Equity fund",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2018-03-23",
+      "filedDate": "2019-05-08",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20008517.pdf",
+      "late": true,
+      "note": "Mutual fund",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "J000295",
+      "assetRaw": "Vanguard FTSE Developed Markets ETF",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2018-01-16",
+      "filedDate": "2019-05-08",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20008517.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "J000295",
+      "assetRaw": "SPDR MidCap Trust Series I",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-07-12",
+      "filedDate": "2019-05-08",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20008517.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "J000295",
+      "assetRaw": "SPDR S&P 500",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-07-12",
+      "filedDate": "2019-05-08",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20008517.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "J000295",
+      "assetRaw": "Amazon.com, Inc.",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-07-03",
+      "filedDate": "2019-05-08",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20008517.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "J000295",
+      "assetRaw": "Dell Technologies Inc. Class V",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-07-03",
+      "filedDate": "2019-05-08",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20008517.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "J000295",
+      "assetRaw": "General Electric Company",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2017-07-03",
+      "filedDate": "2019-05-08",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20008517.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "J000295",
+      "assetRaw": "Kinder Morgan, Inc.",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-07-03",
+      "filedDate": "2019-05-08",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20008517.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "J000295",
+      "assetRaw": "MetLife, Inc.",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2017-07-03",
+      "filedDate": "2019-05-08",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20008517.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "J000295",
+      "assetRaw": "Nike, Inc.",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-07-03",
+      "filedDate": "2019-05-08",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20008517.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "J000295",
+      "assetRaw": "Occidental Petroleum Corporation",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-07-03",
+      "filedDate": "2019-05-08",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20008517.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "J000295",
+      "assetRaw": "United Parcel Service, Inc.",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-07-03",
+      "filedDate": "2019-05-08",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20008517.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "J000295",
+      "assetRaw": "WHITiNg PETE",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-07-03",
+      "filedDate": "2019-05-08",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20008517.pdf",
+      "late": true,
+      "note": "WHITINg PETE",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "J000295",
+      "assetRaw": "DPJ & KAJ joint account Kinder Morgan, Inc. (KMI)",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-06-28",
+      "filedDate": "2017-07-26",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2017/20005383.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "J000295",
+      "assetRaw": "DPJ & KAJ joint account PowerShares Dynamic build & Construction (PKb)",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2017-06-28",
+      "filedDate": "2017-07-26",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2017/20005383.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "J000295",
+      "assetRaw": "DPJ & KAJ joint account United Parcel Service, Inc. (UPS)",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-06-28",
+      "filedDate": "2017-07-26",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2017/20005383.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "J000295",
+      "assetRaw": "DPJ & KAJ joint account Whiting Petroleum Corporation (WLL)",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-06-28",
+      "filedDate": "2017-07-26",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2017/20005383.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "J000295",
+      "assetRaw": "DPJ & KAJ joint account general Electric Company (gE)",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2017-06-28",
+      "filedDate": "2017-07-26",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2017/20005383.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "J000295",
+      "assetRaw": "DR S&P bank ETF (KbE)",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2017-06-28",
+      "filedDate": "2017-07-26",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2017/20005383.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "J000295",
+      "assetRaw": "David P. Joyce Trust 0% 9/25/18 Amazon.com, Inc. (AMZN)",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-06-28",
+      "filedDate": "2017-07-26",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2017/20005383.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "J000295",
+      "assetRaw": "David P. Joyce Trust LoCATIoN: US Joyce QSST Trust LoCATIoN: US Joyce QSST Trust LoCATIoN: US Joyce Trust LoCATIoN: US Class V (DVMT)",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-06-28",
+      "filedDate": "2017-07-26",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2017/20005383.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "J000295",
+      "assetRaw": "David P. Joyce Trust PowerShares Dynamic build & Construction (PKb)",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2017-06-28",
+      "filedDate": "2017-07-26",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2017/20005383.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "J000295",
+      "assetRaw": "Rollover MetLife, Inc. (MET)",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2017-06-28",
+      "filedDate": "2017-07-26",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2017/20005383.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "J000295",
+      "assetRaw": "Rollover Nike, Inc. (NKE)",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-06-28",
+      "filedDate": "2017-07-26",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2017/20005383.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "J000295",
+      "assetRaw": "occidental Petroleum Corporation (oXY)",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-06-28",
+      "filedDate": "2017-07-26",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2017/20005383.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "J000295",
+      "assetRaw": "Vanguard FTSE Developed Markets ETF",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2017-05-18",
+      "filedDate": "2019-05-08",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20008517.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "J000295",
+      "assetRaw": "iShares MSCI EAFE ETF",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2017-05-18",
+      "filedDate": "2019-05-08",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20008517.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "J000295",
+      "assetRaw": "DPJ & KAJ joint account iShares MSCI EAFE ETF (EFA)",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2017-05-18",
+      "filedDate": "2017-07-26",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2017/20005383.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "J000295",
+      "assetRaw": "Rollover Vanguard FTSE Developed Markets ETF (VEA)",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2017-05-18",
+      "filedDate": "2017-07-26",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2017/20005383.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "J000295",
+      "assetRaw": "PowerShares QQQ Trust, Series 1",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-03-17",
+      "filedDate": "2019-05-08",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20008517.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "J000295",
+      "assetRaw": "SPDR S&P Bank ETF",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-03-17",
+      "filedDate": "2019-05-08",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20008517.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "J000295",
+      "assetRaw": "UBS AG ETN",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-03-17",
+      "filedDate": "2019-05-08",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20008517.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "J000295",
+      "assetRaw": "DPJ & KAJ joint account PowerShares Dynamic build & Construction (PKb)",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-03-17",
+      "filedDate": "2017-07-26",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2017/20005383.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "J000295",
+      "assetRaw": "DR S&P 500 (SPY)",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-03-17",
+      "filedDate": "2017-07-26",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2017/20005383.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "J000295",
+      "assetRaw": "Rita M. Joyce IRA LoCATIoN: US DESCRIPTIoN: Ticker symbol CISgX UbS Ag ETN (MLPI)",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-03-17",
+      "filedDate": "2017-07-26",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2017/20005383.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "J000295",
+      "assetRaw": "Rollover guggenheim S&P 500 Equal Weight Healthcare ETF (RYH)",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-03-17",
+      "filedDate": "2017-07-26",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2017/20005383.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "J000295",
+      "assetRaw": "DPJ & KAJ joint account UbS Ag ETN (MLPI)",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-03-13",
+      "filedDate": "2017-07-26",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2017/20005383.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "J000295",
+      "assetRaw": "David P. Joyce QSST Trust PowerShares QQQ Trust, Series 1 (QQQ)",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-03-13",
+      "filedDate": "2017-07-26",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2017/20005383.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "J000295",
+      "assetRaw": "SPDR Series Trust SPDR S&P Biotech ETF",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-02-23",
+      "filedDate": "2019-05-08",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20008517.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "J000295",
+      "assetRaw": "iShares Nasdaq Biotechnology Index Fund",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-02-23",
+      "filedDate": "2019-05-08",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20008517.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "J000295",
+      "assetRaw": "DPJ & KAJ joint account iShares Nasdaq biotechnology Index Fund (Ibb)",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-02-17",
+      "filedDate": "2017-07-26",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2017/20005383.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "J000295",
+      "assetRaw": "DR S&P biotech ETF (XbI)",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-02-17",
+      "filedDate": "2017-07-26",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2017/20005383.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "J000295",
+      "assetRaw": "David P. Joyce QSST Trust iShares Russell 1000 growth ETF (IWF)",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2017-01-30",
+      "filedDate": "2017-07-26",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2017/20005383.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "J000295",
+      "assetRaw": "Rollover iShares Russell 1000 growth ETF (IWF)",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2017-01-26",
+      "filedDate": "2017-07-26",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2017/20005383.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "J000295",
+      "assetRaw": "Xtrackers MSCI EAFE Hedged Equity ETF",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-01-05",
+      "filedDate": "2019-05-08",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20008517.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "J000295",
+      "assetRaw": "iShares MSCI EAFE ETF",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2017-01-05",
+      "filedDate": "2019-05-08",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/20008517.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "J000295",
+      "assetRaw": "DPJ & KAJ joint account iShares Russell 2000 ETF (IWM)",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2016-12-21",
+      "filedDate": "2017-07-26",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2017/20005383.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "J000295",
+      "assetRaw": "David P. Joyce QSST Trust iShares Russell 2000 ETF (IWM)",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2016-10-19",
+      "filedDate": "2017-07-26",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2017/20005383.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "J000295",
+      "assetRaw": "Rollover PowerShares Dynamic build & Construction (PKb)",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2016-10-19",
+      "filedDate": "2017-07-26",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2017/20005383.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "J000295",
+      "assetRaw": "NorthStar Realty Finance Corp. Common Stock (NRF)",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2016-05-23",
+      "filedDate": "2017-07-26",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2017/20005383.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "J000295",
+      "assetRaw": "Rollover NorthStar Realty Europe Corp. (NRE)",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2016-05-23",
+      "filedDate": "2017-07-26",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2017/20005383.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    }
+  ],
+  "series": [
+    {
+      "date": "2016-05-23",
+      "value": 8000.5
+    },
+    {
+      "date": "2016-05-23",
+      "value": 8000.5
+    },
+    {
+      "date": "2016-10-19",
+      "value": 8000.5
+    },
+    {
+      "date": "2016-10-19",
+      "value": 8000.5
+    },
+    {
+      "date": "2016-12-21",
+      "value": 32500.5
+    },
+    {
+      "date": "2017-01-05",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-01-05",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-01-26",
+      "value": 32500.5
+    },
+    {
+      "date": "2017-01-30",
+      "value": 175000.5
+    },
+    {
+      "date": "2017-02-17",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-02-17",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-02-23",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-02-23",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-03-13",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-03-13",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-03-17",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-03-17",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-03-17",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-03-17",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-03-17",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-03-17",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-03-17",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-05-18",
+      "value": 32500.5
+    },
+    {
+      "date": "2017-05-18",
+      "value": 32500.5
+    },
+    {
+      "date": "2017-05-18",
+      "value": 32500.5
+    },
+    {
+      "date": "2017-05-18",
+      "value": 32500.5
+    },
+    {
+      "date": "2017-06-28",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-06-28",
+      "value": 32500.5
+    },
+    {
+      "date": "2017-06-28",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-06-28",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-06-28",
+      "value": 32500.5
+    },
+    {
+      "date": "2017-06-28",
+      "value": 32500.5
+    },
+    {
+      "date": "2017-06-28",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-06-28",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-06-28",
+      "value": 32500.5
+    },
+    {
+      "date": "2017-06-28",
+      "value": 32500.5
+    },
+    {
+      "date": "2017-06-28",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-06-28",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-07-03",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-07-03",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-07-03",
+      "value": 32500.5
+    },
+    {
+      "date": "2017-07-03",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-07-03",
+      "value": 32500.5
+    },
+    {
+      "date": "2017-07-03",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-07-03",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-07-03",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-07-03",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-07-12",
+      "value": 8000.5
+    },
+    {
+      "date": "2017-07-12",
+      "value": 8000.5
+    },
+    {
+      "date": "2018-01-16",
+      "value": 8000.5
+    },
+    {
+      "date": "2018-03-23",
+      "value": 75000.5
+    },
+    {
+      "date": "2018-03-29",
+      "value": 32500.5
+    },
+    {
+      "date": "2018-03-29",
+      "value": 8000.5
+    },
+    {
+      "date": "2018-03-29",
+      "value": 8000.5
+    },
+    {
+      "date": "2018-03-29",
+      "value": 8000.5
+    },
+    {
+      "date": "2018-03-29",
+      "value": 75000.5
+    },
+    {
+      "date": "2018-03-29",
+      "value": 32500.5
+    },
+    {
+      "date": "2018-03-29",
+      "value": 8000.5
+    },
+    {
+      "date": "2018-03-29",
+      "value": 75000.5
+    },
+    {
+      "date": "2018-03-29",
+      "value": 175000.5
+    },
+    {
+      "date": "2018-03-29",
+      "value": 8000.5
+    },
+    {
+      "date": "2018-03-29",
+      "value": 8000.5
+    },
+    {
+      "date": "2018-03-29",
+      "value": 32500.5
+    },
+    {
+      "date": "2018-03-29",
+      "value": 8000.5
+    },
+    {
+      "date": "2018-03-29",
+      "value": 8000.5
+    },
+    {
+      "date": "2018-03-29",
+      "value": 8000.5
+    },
+    {
+      "date": "2018-03-29",
+      "value": 75000.5
+    },
+    {
+      "date": "2018-06-06",
+      "value": 32500.5
+    },
+    {
+      "date": "2018-06-15",
+      "value": 8000.5
+    },
+    {
+      "date": "2018-08-17",
+      "value": 32500.5
+    },
+    {
+      "date": "2018-09-05",
+      "value": 32500.5
+    },
+    {
+      "date": "2018-10-26",
+      "value": 32500.5
+    },
+    {
+      "date": "2018-12-11",
+      "value": 75000.5
+    },
+    {
+      "date": "2018-12-11",
+      "value": 175000.5
+    },
+    {
+      "date": "2018-12-11",
+      "value": 175000.5
+    },
+    {
+      "date": "2018-12-11",
+      "value": 32500.5
+    },
+    {
+      "date": "2018-12-11",
+      "value": 175000.5
+    },
+    {
+      "date": "2018-12-11",
+      "value": 32500.5
+    },
+    {
+      "date": "2018-12-11",
+      "value": 32500.5
+    },
+    {
+      "date": "2018-12-11",
+      "value": 75000.5
+    },
+    {
+      "date": "2018-12-11",
+      "value": 75000.5
+    },
+    {
+      "date": "2018-12-11",
+      "value": 175000.5
+    },
+    {
+      "date": "2018-12-11",
+      "value": 75000.5
+    },
+    {
+      "date": "2018-12-11",
+      "value": 75000.5
+    },
+    {
+      "date": "2018-12-11",
+      "value": 175000.5
+    },
+    {
+      "date": "2018-12-11",
+      "value": 32500.5
+    },
+    {
+      "date": "2018-12-11",
+      "value": 32500.5
+    },
+    {
+      "date": "2018-12-14",
+      "value": 8000.5
+    },
+    {
+      "date": "2018-12-18",
+      "value": 8000.5
+    },
+    {
+      "date": "2018-12-21",
+      "value": 175000.5
+    },
+    {
+      "date": "2018-12-21",
+      "value": 32500.5
+    },
+    {
+      "date": "2018-12-21",
+      "value": 175000.5
+    },
+    {
+      "date": "2019-01-10",
+      "value": 8000.5
+    },
+    {
+      "date": "2019-01-10",
+      "value": 8000.5
+    },
+    {
+      "date": "2019-01-10",
+      "value": 8000.5
+    },
+    {
+      "date": "2019-03-04",
+      "value": 8000.5
+    },
+    {
+      "date": "2019-03-04",
+      "value": 32500.5
+    },
+    {
+      "date": "2019-03-04",
+      "value": 32500.5
+    },
+    {
+      "date": "2019-03-04",
+      "value": 32500.5
+    },
+    {
+      "date": "2019-03-22",
+      "value": 32500.5
+    },
+    {
+      "date": "2019-03-22",
+      "value": 32500.5
+    },
+    {
+      "date": "2019-03-22",
+      "value": 175000.5
+    },
+    {
+      "date": "2019-03-25",
+      "value": 75000.5
+    },
+    {
+      "date": "2019-03-27",
+      "value": 75000.5
+    },
+    {
+      "date": "2019-03-28",
+      "value": 75000.5
+    },
+    {
+      "date": "2019-04-02",
+      "value": 75000.5
+    },
+    {
+      "date": "2019-04-03",
+      "value": 75000.5
+    },
+    {
+      "date": "2019-05-30",
+      "value": 32500.5
+    },
+    {
+      "date": "2019-05-30",
+      "value": 32500.5
+    },
+    {
+      "date": "2019-06-21",
+      "value": 8000.5
+    },
+    {
+      "date": "2019-06-21",
+      "value": 8000.5
+    },
+    {
+      "date": "2019-07-08",
+      "value": 8000.5
+    },
+    {
+      "date": "2019-07-24",
+      "value": 32500.5
+    },
+    {
+      "date": "2019-07-24",
+      "value": 8000.5
+    },
+    {
+      "date": "2019-07-24",
+      "value": 8000.5
+    },
+    {
+      "date": "2019-09-20",
+      "value": 8000.5
+    },
+    {
+      "date": "2019-09-30",
+      "value": 32500.5
+    },
+    {
+      "date": "2019-09-30",
+      "value": 32500.5
+    },
+    {
+      "date": "2019-12-31",
+      "value": 8000.5
+    },
+    {
+      "date": "2019-12-31",
+      "value": 8000.5
+    },
+    {
+      "date": "2019-12-31",
+      "value": 8000.5
+    },
+    {
+      "date": "2020-01-15",
+      "value": 8000.5
+    },
+    {
+      "date": "2020-01-15",
+      "value": 32500.5
+    },
+    {
+      "date": "2020-02-25",
+      "value": 8000.5
+    },
+    {
+      "date": "2020-03-11",
+      "value": 8000.5
+    },
+    {
+      "date": "2020-03-26",
+      "value": 75000.5
+    },
+    {
+      "date": "2020-06-08",
+      "value": 8000.5
+    },
+    {
+      "date": "2020-06-08",
+      "value": 8000.5
+    },
+    {
+      "date": "2020-06-26",
+      "value": 32500.5
+    },
+    {
+      "date": "2020-06-26",
+      "value": 32500.5
+    },
+    {
+      "date": "2020-06-26",
+      "value": 32500.5
+    },
+    {
+      "date": "2020-07-02",
+      "value": 32500.5
+    },
+    {
+      "date": "2020-12-02",
+      "value": 8000.5
+    },
+    {
+      "date": "2020-12-09",
+      "value": 8000.5
+    },
+    {
+      "date": "2020-12-09",
+      "value": 8000.5
+    },
+    {
+      "date": "2020-12-11",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-09-14",
+      "value": 8000.5
+    },
+    {
+      "date": "2021-09-14",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-05-17",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-05-19",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-05-19",
+      "value": 8000.5
+    },
+    {
+      "date": "2022-07-12",
+      "value": 32500.5
+    },
+    {
+      "date": "2022-07-14",
+      "value": 32500.5
+    },
+    {
+      "date": "2022-07-14",
+      "value": 32500.5
+    },
+    {
+      "date": "2023-06-19",
+      "value": 32500.5
+    },
+    {
+      "date": "2023-06-19",
+      "value": 32500.5
+    },
+    {
+      "date": "2023-06-19",
+      "value": 32500.5
+    },
+    {
+      "date": "2023-06-22",
+      "value": 8000.5
+    },
+    {
+      "date": "2023-06-23",
+      "value": 8000.5
+    },
+    {
+      "date": "2023-06-30",
+      "value": 32500.5
+    },
+    {
+      "date": "2023-06-30",
+      "value": 8000.5
+    },
+    {
+      "date": "2023-06-30",
+      "value": 32500.5
+    },
+    {
+      "date": "2024-11-19",
+      "value": 75000.5
+    },
+    {
+      "date": "2025-01-10",
+      "value": 75000.5
+    }
+  ],
+  "measured": null
+}
