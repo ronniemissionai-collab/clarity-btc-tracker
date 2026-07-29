@@ -1,12 +1,14 @@
 /**
  * @clarity-btc/ingest - daily pipeline steps, in run order.
  * house/ (ticket 02), senate/ (03), kadoa/ (04), holdings/ (05), bill/ (06),
- * review/ (07), returns/ (08), and the pipeline orchestrator + CLI (11).
+ * review/ (07), returns/ (08), portfolio/ (v1.1, ticket 14), and the
+ * pipeline orchestrator + CLI (11).
  */
 export {
   carryForwardVerification,
   DATA_FILES,
   FAILURE_REPORT_FILE,
+  PORTFOLIO_DIR,
   runPipeline,
   type PipelineFailure,
   type PipelineIO,
@@ -48,10 +50,14 @@ export {
 export {
   buildUniverseIndex,
   deriveHoldings,
+  derivePortfolioPositions,
   loadExpectations,
   validateHoldings,
+  type AllTickerTrade,
   type DeriveHoldingsOptions,
   type DeriveHoldingsResult,
+  type DerivePortfolioPositionsOptions,
+  type DerivePortfolioPositionsResult,
   type HoldingReject,
   type UniverseIndex,
   type ValidateHoldingsOptions,
@@ -105,3 +111,13 @@ export {
   type YahooClient,
   type YahooClientOptions,
 } from "./returns/index.js";
+export {
+  attachTraderSeries,
+  buildPortfolios,
+  resolveAllTickerTrades,
+  slimTrades,
+  tradeSeries,
+  type BuildPortfoliosOptions,
+  type BuildPortfoliosResult,
+  type ResolveAllTickerTradesResult,
+} from "./portfolio/index.js";

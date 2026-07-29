@@ -5,7 +5,13 @@
  * (isX), and parse helpers (parseX / parseXs) that throw on invalid input.
  */
 import { z } from "zod";
-import type { SecurityRefSchema, SenateLisMemberVoteSchema } from "./schemas.js";
+import type {
+  PortfolioSecurityKindSchema,
+  PortfolioSecurityRefSchema,
+  SecurityRefSchema,
+  SenateLisMemberVoteSchema,
+  SeriesPointSchema,
+} from "./schemas.js";
 import {
   BillSchema,
   ExpectationsSchema,
@@ -13,6 +19,9 @@ import {
   MemberSchema,
   MetaSchema,
   NewsItemSchema,
+  PortfolioFileSchema,
+  PortfolioIndexEntrySchema,
+  PortfolioPositionSchema,
   SecuritySchema,
   TradeSchema,
   TraderSchema,
@@ -40,6 +49,13 @@ export type UniverseConfig = z.infer<typeof UniverseConfigSchema>;
 export type TradersConfig = z.infer<typeof TradersConfigSchema>;
 export type Expectations = z.infer<typeof ExpectationsSchema>;
 
+export type SeriesPoint = z.infer<typeof SeriesPointSchema>;
+export type PortfolioSecurityKind = z.infer<typeof PortfolioSecurityKindSchema>;
+export type PortfolioSecurityRef = z.infer<typeof PortfolioSecurityRefSchema>;
+export type PortfolioPosition = z.infer<typeof PortfolioPositionSchema>;
+export type PortfolioIndexEntry = z.infer<typeof PortfolioIndexEntrySchema>;
+export type PortfolioFile = z.infer<typeof PortfolioFileSchema>;
+
 export type Party = Member["party"];
 export type Chamber = Member["chamber"];
 export type SecurityKind = Security["kind"];
@@ -49,10 +65,13 @@ export type ValueRange = Holding["range"];
 // Security key helper (key = ticker + kind; disambiguates the two "BTC"s)
 // ---------------------------------------------------------------------------
 
-export type SecurityKey = `${string}:${SecurityKind}`;
+export type SecurityKey = `${string}:${PortfolioSecurityKind}`;
 
-/** Composite key for a security: "BTC:direct" vs "BTC:spot-etf" are distinct. */
-export function securityKey(ref: SecurityRef): SecurityKey {
+/**
+ * Composite key for a security: "BTC:direct" vs "BTC:spot-etf" are distinct.
+ * Accepts portfolio refs too (non-universe securities key as "AAPL:other").
+ */
+export function securityKey(ref: SecurityRef | PortfolioSecurityRef): SecurityKey {
   return `${ref.ticker}:${ref.kind}`;
 }
 
@@ -89,3 +108,9 @@ export const parseMeta = (v: unknown): Meta => MetaSchema.parse(v);
 export const parseUniverseConfig = (v: unknown): UniverseConfig => UniverseConfigSchema.parse(v);
 export const parseTradersConfig = (v: unknown): TradersConfig => TradersConfigSchema.parse(v);
 export const parseExpectations = (v: unknown): Expectations => ExpectationsSchema.parse(v);
+
+export const parsePortfolioPosition = (v: unknown): PortfolioPosition =>
+  PortfolioPositionSchema.parse(v);
+export const parsePortfolioIndex = (v: unknown): PortfolioIndexEntry[] =>
+  z.array(PortfolioIndexEntrySchema).parse(v);
+export const parsePortfolioFile = (v: unknown): PortfolioFile => PortfolioFileSchema.parse(v);

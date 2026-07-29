@@ -3,10 +3,12 @@
  * workflow runs, exercised directly. Zero network - every step gets the
  * fixture-backed IO from src/dryrun.ts.
  *
- * Covers: all eight steps execute; the seven outputs round-trip through the
- * shared parsers; atomic-write semantics (no temp litter); a validation-gate
- * failure leaves data/ untouched and writes a machine-readable failure
- * report; a bill-source outage keeps the last-good bill.json.
+ * Covers: all eight steps execute; the seven core outputs round-trip through
+ * the shared parsers; v1.1 portfolio emission (index + per-member files,
+ * slimmed trades.json, precomputed trader series); atomic-write semantics
+ * (no temp litter); a validation-gate failure leaves data/ untouched and
+ * writes a machine-readable failure report; a bill-source outage keeps the
+ * last-good bill.json.
  */
 import { cp, mkdtemp, readdir, readFile, writeFile } from "node:fs/promises";
 import { tmpdir } from "node:os";
@@ -19,10 +21,12 @@ import {
   parseMembers,
   parseMeta,
   parseNews,
+  parsePortfolioFile,
+  parsePortfolioIndex,
   parseTraders,
   parseTrades,
 } from "@clarity-btc/shared";
-import { runPipeline, DATA_FILES, FAILURE_REPORT_FILE } from "../../src/pipeline.js";
+import { runPipeline, DATA_FILES, FAILURE_REPORT_FILE, PORTFOLIO_DIR } from "../../src/pipeline.js";
 import type { PipelineIO, RunPipelineOptions } from "../../src/pipeline.js";
 import { createDryRunIO, DRY_RUN_EXPECTATIONS_PATH, seedDryRunState } from "../../src/dryrun.js";
 
@@ -74,13 +78,15 @@ const readJson = async (file: string): Promise<unknown> =>
   JSON.parse(await readFile(file, "utf8")) as unknown;
 
 describe("runPipeline dry-run e2e (fixtures, zero network)", () => {
-  it("executes all eight steps and atomically writes seven contract-valid files", async () => {
+  it("executes all steps and atomically writes the contract-valid outputs", async () => {
     const ws = await makeWorkspace();
     const result = await runPipeline(ws.options);
 
     expect(result.failure).toBeUndefined();
     expect(result.ok).toBe(true);
-    expect(result.wroteFiles).toHaveLength(7);
+    // Seven core files + portfolio/index.json + one file per indexed member.
+    expect(result.stats["portfolioFiles"]).toBeGreaterThan(0);
+    expect(result.wroteFiles).toHaveLength(7 + 1 + result.stats["portfolioFiles"]!);
 
     // Every step left its fingerprint in the stats.
     expect(result.stats["houseTrades"]).toBe(8); // Biggs e-filed PTR
@@ -103,9 +109,9 @@ describe("runPipeline dry-run e2e (fixtures, zero network)", () => {
         result.stats["tradesProvenanceKadoa"]!,
     ).toBe(result.stats["tradesMerged"]);
 
-    // Atomic semantics: exactly the seven files, no temp litter.
+    // Atomic semantics: the seven files + the portfolio dir, no temp litter.
     const names = (await readdir(ws.dataDir)).sort();
-    expect(names).toEqual([...DATA_FILES].sort());
+    expect(names).toEqual([...DATA_FILES, PORTFOLIO_DIR].sort());
 
     // Schema round-trip of every emitted file through the shared parsers.
     const bill = parseBill(await readJson(path.join(ws.dataDir, "bill.json")));
@@ -119,8 +125,64 @@ describe("runPipeline dry-run e2e (fixtures, zero network)", () => {
     // Integration fields promoted in this ticket are wired through.
     expect(bill.requiresHouseRepassage).toBe(false); // no Senate passage in fixtures
     expect(members.length).toBeGreaterThan(0);
-    expect(trades.length).toBe(result.stats["tradesMerged"]);
     expect(traders).toHaveLength(15);
+
+    // v1.1: trades.json is SLIM - universe-resolved rows only.
+    expect(trades.length).toBe(result.stats["slimmedTrades"]);
+    expect(trades.length).toBeLessThan(result.stats["tradesMerged"]!);
+    expect(trades.every((t) => t.security !== null)).toBe(true);
+
+    // v1.1: every traders.json row carries its precomputed sparkline series.
+    expect(traders.every((t) => Array.isArray(t.series))).toBe(true);
+    const richest = traders.find((t) => (t.series?.length ?? 0) > 0);
+    expect(richest).toBeDefined();
+    for (const point of richest!.series!) {
+      expect(point.date).toMatch(/^\d{4}-\d{2}-\d{2}$/);
+      expect(point.value).toBeGreaterThan(0);
+    }
+
+    // v1.1: the portfolio directory mirrors index.json exactly (pipeline
+    // invariant: index count == files written), and every file + the index
+    // round-trip through the shared parsers.
+    const portfolioDir = path.join(ws.dataDir, PORTFOLIO_DIR);
+    const portfolioIndex = parsePortfolioIndex(
+      await readJson(path.join(portfolioDir, "index.json")),
+    );
+    expect(portfolioIndex).toHaveLength(result.stats["portfolioFiles"]!);
+    const onDisk = (await readdir(portfolioDir)).sort();
+    expect(onDisk).toEqual(
+      ["index.json", ...portfolioIndex.map((e) => `${e.memberId}.json`)].sort(),
+    );
+    let positionsSeen = 0;
+    for (const entry of portfolioIndex) {
+      expect(entry.tradeCount).toBeGreaterThanOrEqual(1);
+      const file = parsePortfolioFile(
+        await readJson(path.join(portfolioDir, `${entry.memberId}.json`)),
+      );
+      expect(file.member.bioguideId).toBe(entry.memberId);
+      expect(file.trades).toHaveLength(entry.tradeCount);
+      expect(file.series).toHaveLength(entry.tradeCount);
+      // Full history, newest first; index carries the latest transaction date.
+      for (let i = 1; i < file.trades.length; i++) {
+        expect(file.trades[i - 1]!.transactionDate >= file.trades[i]!.transactionDate).toBe(true);
+      }
+      expect(file.trades[0]!.transactionDate).toBe(entry.lastTradeDate);
+      // Positions keep holdings.json epistemics: official filing mandatory.
+      for (const position of file.positions) {
+        expect(position.sources.some((s) => s.kind === "filing")).toBe(true);
+      }
+      positionsSeen += file.positions.length;
+    }
+    expect(positionsSeen).toBe(result.stats["portfolioPositions"]);
+    // Roster members are flagged in the directory and carry measured returns.
+    const rosterRows = portfolioIndex.filter((e) => e.rosterMember);
+    expect(rosterRows.length).toBeGreaterThan(0);
+    const measuredTrader = traders.find((t) => t.measured !== null);
+    expect(measuredTrader).toBeDefined();
+    const measuredFile = parsePortfolioFile(
+      await readJson(path.join(portfolioDir, `${measuredTrader!.memberId}.json`)),
+    );
+    expect(measuredFile.measured).toEqual(measuredTrader!.measured);
 
     // Raw rows keep their provenance stamp (the parser tolerates + strips it).
     const rawTrades = (await readJson(path.join(ws.dataDir, "trades.json"))) as Array<

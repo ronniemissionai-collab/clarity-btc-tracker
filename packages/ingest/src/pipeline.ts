@@ -8,18 +8,23 @@
  *   5. Exa review + news strip       packages/ingest/src/review   (skippable)
  *   6. Bill refresh                  packages/ingest/src/bill     (null-tolerant)
  *   7. Returns computation           packages/ingest/src/returns
+ *   7b. Portfolio emission (v1.1)    packages/ingest/src/portfolio
  *   8. Validation gate               packages/ingest/src/holdings/validate
  *
- * then writes the seven data/*.json outputs atomically (write temps, validate
- * every payload through the shared parsers, rename together). On a validation
- * gate failure or any fatal step error data/ is left untouched - the last
- * good data keeps serving - and a machine-readable failure report is written
- * to the state directory for the Action to upload / open an issue from.
+ * then writes the seven core data/*.json outputs PLUS data/portfolio/
+ * (index.json + one {memberId}.json per member with >= 1 merged trade)
+ * atomically (write temps, validate every payload through the shared
+ * parsers, rename together). v1.1: data/trades.json is slimmed to
+ * universe-resolved rows - the full history lives in the portfolio files.
+ * On a validation gate failure or any fatal step error data/ is left
+ * untouched - the last good data keeps serving - and a machine-readable
+ * failure report is written to the state directory for the Action to
+ * upload / open an issue from.
  *
  * All network access is injectable through PipelineIO so tests and the CI
  * --dry-run mode run fixture-backed with zero network (see dryrun.ts).
  */
-import { mkdir, readFile, rename, rm, writeFile } from "node:fs/promises";
+import { mkdir, readdir, readFile, rename, rm, writeFile } from "node:fs/promises";
 import path from "node:path";
 import {
   parseBill,
@@ -28,6 +33,8 @@ import {
   parseMembers,
   parseMeta,
   parseNews,
+  parsePortfolioFile,
+  parsePortfolioIndex,
   parseTraders,
   parseTrades,
   parseTradersConfig,
@@ -53,6 +60,7 @@ import { reviewWithExa } from "./review/index.js";
 import { refreshBillDetailed, type FetchText } from "./bill/index.js";
 import { computeReturns } from "./returns/index.js";
 import type { YahooFetchFn } from "./returns/yahoo.js";
+import { attachTraderSeries, buildPortfolios, slimTrades } from "./portfolio/index.js";
 
 // ---------------------------------------------------------------------------
 // Options / result types
@@ -115,7 +123,10 @@ export interface PipelineResult {
   ok: boolean;
   stats: Record<string, number>;
   warnings: string[];
-  /** Absolute paths written (all seven on success, none on failure). */
+  /**
+   * Absolute paths written: on success the seven core files plus
+   * portfolio/index.json and every portfolio/{memberId}.json; none on failure.
+   */
   wroteFiles: string[];
   validation?: ValidationReport;
   failure?: PipelineFailure;
@@ -132,6 +143,9 @@ export const DATA_FILES = [
   "news.json",
   "meta.json",
 ] as const;
+
+/** v1.1: per-member portfolios live under data/portfolio/. */
+export const PORTFOLIO_DIR = "portfolio";
 
 export const FAILURE_REPORT_FILE = "failure-report.json";
 
@@ -268,7 +282,8 @@ export function carryForwardVerification(
 // ---------------------------------------------------------------------------
 
 interface OutputFile {
-  name: (typeof DATA_FILES)[number];
+  /** Path relative to dataDir, e.g. "trades.json" or "portfolio/P000197.json". */
+  name: string;
   /** Payload to serialize (may carry extra fields, e.g. trade provenance). */
   payload: unknown;
   /** Shared-contract parser the serialized payload must round-trip through. */
@@ -282,15 +297,22 @@ interface OutputFile {
  */
 async function writeOutputsAtomically(dataDir: string, files: OutputFile[]): Promise<string[]> {
   await mkdir(dataDir, { recursive: true });
+  const madeDirs = new Set<string>([dataDir]);
   const temps: Array<{ tmp: string; final: string }> = [];
   try {
     for (const file of files) {
       const body = toJson(file.payload);
       // Round-trip validation: what lands on disk must satisfy the contract.
       file.validate(JSON.parse(body));
-      const tmp = path.join(dataDir, `.${file.name}.tmp`);
+      const final = path.join(dataDir, file.name);
+      const dir = path.dirname(final);
+      if (!madeDirs.has(dir)) {
+        await mkdir(dir, { recursive: true });
+        madeDirs.add(dir);
+      }
+      const tmp = path.join(dir, `.${path.basename(file.name)}.tmp`);
       await writeFile(tmp, body, "utf8");
-      temps.push({ tmp, final: path.join(dataDir, file.name) });
+      temps.push({ tmp, final });
     }
   } catch (err) {
     await Promise.allSettled(temps.map(({ tmp }) => rm(tmp, { force: true })));
@@ -300,6 +322,25 @@ async function writeOutputsAtomically(dataDir: string, files: OutputFile[]): Pro
     await rename(tmp, final);
   }
   return temps.map(({ final }) => final);
+}
+
+/**
+ * Remove stale portfolio files a previous run wrote for members that no
+ * longer ship one - the on-disk directory must mirror index.json exactly.
+ */
+async function pruneStalePortfolioFiles(portfolioDir: string, keep: Set<string>): Promise<void> {
+  let names: string[];
+  try {
+    names = await readdir(portfolioDir);
+  } catch (err) {
+    if ((err as NodeJS.ErrnoException).code === "ENOENT") return;
+    throw err;
+  }
+  await Promise.all(
+    names
+      .filter((name) => name.endsWith(".json") && !keep.has(name))
+      .map((name) => rm(path.join(portfolioDir, name), { force: true })),
+  );
 }
 
 // ---------------------------------------------------------------------------
@@ -598,13 +639,38 @@ export async function runPipeline(options: RunPipelineOptions): Promise<Pipeline
         },
       }),
     );
-    const traders: Trader[] = returns.traders;
+    // v1.1: trader-card sparkline series precomputed from the per-trade
+    // return points so the site never needs the full trade set for cards.
+    const traders: Trader[] = attachTraderSeries(returns.traders, returns.computations);
     stats["tradersRanked"] = traders.length;
     stats["tradersMeasured"] = traders.filter((t) => t.measured !== null).length;
     stats["tradersClaimsNotSupported"] = traders.filter((t) => t.claimsSupported === false).length;
     stats["unpriceableBuys"] = returns.computations.reduce((n, c) => n + c.unpriceable.length, 0);
     warnings.push(...returns.warnings.map((w) => `returns: ${w}`));
     log(`returns: measured ${stats["tradersMeasured"]}/${traders.length} roster members`);
+
+    // -- Step 7b: per-member portfolio emission (v1.1) -----------------------
+    const portfolio = await step("portfolio", () =>
+      buildPortfolios({
+        members,
+        trades: merged,
+        baseline: annualBaseline,
+        rosterIds: new Set(tradersConfig.active.map((e) => e.id)),
+        measuredById: new Map(traders.map((t) => [t.memberId, t.measured])),
+        now,
+      }),
+    );
+    warnings.push(...portfolio.warnings);
+    stats["portfolioFiles"] = portfolio.files.length;
+    stats["portfolioPositions"] = portfolio.positionCount;
+    stats["portfolioRejects"] = portfolio.rejects.length;
+    // v1.1: the core trades.json ships universe-resolved rows only; the full
+    // all-ticker history lives in the per-member portfolio files.
+    const slimmedTrades = slimTrades(merged);
+    stats["slimmedTrades"] = slimmedTrades.length;
+    log(
+      `portfolio: ${portfolio.files.length} member files, ${portfolio.positionCount} positions; trades.json slimmed ${merged.length} -> ${slimmedTrades.length}`,
+    );
 
     // -- Step 8: validation gate --------------------------------------------
     const validation = await step("validation-gate", () =>
@@ -622,7 +688,7 @@ export async function runPipeline(options: RunPipelineOptions): Promise<Pipeline
       });
     }
 
-    // -- Write the seven outputs atomically ---------------------------------
+    // -- Write the outputs atomically ----------------------------------------
     stats["dryRun"] = options.dryRun === true ? 1 : 0;
     const meta: Meta = {
       generatedAt: new Date().toISOString(),
@@ -636,6 +702,18 @@ export async function runPipeline(options: RunPipelineOptions): Promise<Pipeline
       },
       run: { ok: true, stats, errors: [], warnings },
     };
+    // v1.1 pipeline invariant (not a gate rule): the portfolio index must
+    // name exactly the member files about to be written.
+    const indexedIds = new Set(portfolio.index.map((e) => e.memberId));
+    if (
+      indexedIds.size !== portfolio.files.length ||
+      portfolio.files.some((f) => !indexedIds.has(f.memberId))
+    ) {
+      throw new StepError(
+        "portfolio",
+        `index/file mismatch: ${indexedIds.size} indexed member(s) vs ${portfolio.files.length} file(s)`,
+      );
+    }
     const wroteFiles = await step("write-outputs", () =>
       writeOutputsAtomically(options.dataDir, [
         { name: "bill.json", payload: bill, validate: parseBill },
@@ -643,11 +721,29 @@ export async function runPipeline(options: RunPipelineOptions): Promise<Pipeline
         { name: "holdings.json", payload: holdings, validate: parseHoldings },
         // Merged rows keep their provenance stamp; the shared parser tolerates
         // (and strips) unknown keys, so the contract still holds on read.
-        { name: "trades.json", payload: merged, validate: parseTrades },
+        { name: "trades.json", payload: slimmedTrades, validate: parseTrades },
         { name: "traders.json", payload: traders, validate: parseTraders },
         { name: "news.json", payload: news, validate: parseNews },
         { name: "meta.json", payload: meta, validate: parseMeta },
+        {
+          name: path.join(PORTFOLIO_DIR, "index.json"),
+          payload: portfolio.index,
+          validate: parsePortfolioIndex,
+        },
+        ...portfolio.files.map(({ memberId, file }) => ({
+          name: path.join(PORTFOLIO_DIR, `${memberId}.json`),
+          payload: file,
+          validate: parsePortfolioFile,
+        })),
       ]),
+    );
+    // Members can only ever gain trades, but a scratch/replayed data dir may
+    // hold files this run no longer emits - the directory mirrors the index.
+    await step("write-outputs", () =>
+      pruneStalePortfolioFiles(
+        path.join(options.dataDir, PORTFOLIO_DIR),
+        new Set(["index.json", ...portfolio.files.map((f) => `${f.memberId}.json`)]),
+      ),
     );
 
     // A successful run supersedes any stale failure report.

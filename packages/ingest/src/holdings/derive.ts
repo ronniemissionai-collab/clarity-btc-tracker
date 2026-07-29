@@ -20,15 +20,21 @@
  * Every output Holding carries asOf, extraction, verification "unverified"
  * (the Exa review step upgrades later), and a mandatory official filing
  * source URL - a row that would ship without one goes to `rejects` instead.
+ *
+ * v1.1: the same machinery also derives per-member ALL-TICKER portfolio
+ * positions (derivePortfolioPositions) - no universe filter, security kinds
+ * widened by "other" for non-universe tickers, identical epistemics.
  */
+import type { ZodError } from "zod";
 import type {
   Holding,
+  PortfolioPosition,
+  PortfolioSecurityRef,
   Security,
-  SecurityRef,
   Trade,
   UniverseConfig,
 } from "@clarity-btc/shared";
-import { HoldingSchema, securityKey } from "@clarity-btc/shared";
+import { HoldingSchema, PortfolioPositionSchema, securityKey } from "@clarity-btc/shared";
 import { buildUniverseIndex } from "./universe.js";
 
 type Owner = Holding["owner"];
@@ -39,10 +45,19 @@ type SourceRef = Holding["sources"][number];
 // Public types
 // ---------------------------------------------------------------------------
 
+/**
+ * A Trade whose security ref may point outside the universe (kind "other") -
+ * the input shape of the all-ticker portfolio derivation. Every plain Trade
+ * is assignable to it.
+ */
+export type AllTickerTrade = Omit<Trade, "security"> & {
+  security: PortfolioSecurityRef | null;
+};
+
 /** A row that could not be shipped, with the reason it was dropped. */
 export interface HoldingReject {
   memberId: string;
-  security: SecurityRef | null;
+  security: PortfolioSecurityRef | null;
   owner: Owner | null;
   reason: string;
 }
@@ -75,6 +90,23 @@ export interface DeriveHoldingsResult {
   rejects: HoldingReject[];
 }
 
+/** v1.1: all-ticker portfolio derivation - same knobs, no universe. */
+export interface DerivePortfolioPositionsOptions {
+  /** Annual-report holdings baseline (see DeriveHoldingsOptions.baseline). */
+  baseline?: Holding[];
+  /** Chronological merged trades with (possibly synthesized) security refs. */
+  trades?: AllTickerTrade[];
+  /** "Today" for stale marking (ISO date). Default: current UTC date. */
+  now?: string;
+  /** See DeriveHoldingsOptions.staleAfterDays. Default: 365. */
+  staleAfterDays?: number;
+}
+
+export interface DerivePortfolioPositionsResult {
+  positions: PortfolioPosition[];
+  rejects: HoldingReject[];
+}
+
 // ---------------------------------------------------------------------------
 // Internals
 // ---------------------------------------------------------------------------
@@ -91,7 +123,7 @@ function worstExtraction(a: Extraction, b: Extraction): Extraction {
 }
 
 /** Trades carry no extraction field; infer it from the filing channel. */
-function tradeExtraction(trade: Trade): Extraction {
+function tradeExtraction(trade: AllTickerTrade): Extraction {
   return trade.docUrl.includes("efdsearch.senate.gov") ? "efd-html" : "pdf-text";
 }
 
@@ -106,13 +138,13 @@ function maxIso(a: string, b: string): string {
 }
 
 /** House PTR partial sales carry a "partial sale" note; detect via note text. */
-function isPartialSale(trade: Trade): boolean {
+function isPartialSale(trade: AllTickerTrade): boolean {
   return /partial/i.test(trade.note ?? "");
 }
 
 interface Position {
   memberId: string;
-  security: SecurityRef;
+  security: PortfolioSecurityRef;
   owner: Owner;
   lo: number;
   hi: number;
@@ -125,7 +157,7 @@ interface Position {
   baselineAsOf: string | null;
 }
 
-function positionKey(memberId: string, ref: SecurityRef, owner: Owner): string {
+function positionKey(memberId: string, ref: PortfolioSecurityRef, owner: Owner): string {
   return `${memberId}|${securityKey(ref)}|${owner}`;
 }
 
@@ -140,7 +172,7 @@ function addNote(position: Position, note: string): void {
 }
 
 /** Chronological order: transaction date, buys before same-day sells, filed date. */
-function compareTrades(a: Trade, b: Trade): number {
+function compareTrades(a: AllTickerTrade, b: AllTickerTrade): number {
   if (a.transactionDate !== b.transactionDate) {
     return a.transactionDate < b.transactionDate ? -1 : 1;
   }
@@ -155,11 +187,11 @@ function compareTrades(a: Trade, b: Trade): number {
 
 function intakeBaseline(
   baseline: Holding[],
-  universe: ReturnType<typeof buildUniverseIndex>,
+  keep: (ref: PortfolioSecurityRef) => boolean,
   positions: Map<string, Position>,
   rejects: HoldingReject[],
 ): void {
-  // Validate + universe-filter, then group by member+security+owner.
+  // Validate + scope-filter, then group by member+security+owner.
   const grouped = new Map<string, Holding[]>();
   for (const row of baseline) {
     const parsed = HoldingSchema.safeParse(row);
@@ -176,7 +208,7 @@ function intakeBaseline(
       continue;
     }
     const holding = parsed.data;
-    if (!universe.has(holding.security)) continue; // holdings view is universe-only
+    if (!keep(holding.security)) continue; // e.g. holdings view is universe-only
     const key = positionKey(holding.memberId, holding.security, holding.owner);
     const list = grouped.get(key);
     if (list === undefined) grouped.set(key, [holding]);
@@ -220,7 +252,7 @@ function intakeBaseline(
 // ---------------------------------------------------------------------------
 
 function applyTrade(
-  trade: Trade,
+  trade: AllTickerTrade,
   positions: Map<string, Position>,
   rejects: HoldingReject[],
 ): void {
@@ -323,25 +355,40 @@ function applyTrade(
 }
 
 // ---------------------------------------------------------------------------
-// Entry point
+// Core derivation (shared by the universe and all-ticker paths)
 // ---------------------------------------------------------------------------
 
-export function deriveHoldings(options: DeriveHoldingsOptions): DeriveHoldingsResult {
-  const universe = buildUniverseIndex(options.universe);
-  const now = options.now ?? new Date().toISOString().slice(0, 10);
-  const staleAfterDays = options.staleAfterDays ?? 365;
+/** Minimal safeParse surface so the core can validate against either contract. */
+interface CandidateSchema<T> {
+  safeParse(v: unknown): { success: true; data: T } | { success: false; error: ZodError };
+}
 
+interface DeriveCoreOptions<T> {
+  baseline: Holding[];
+  trades: AllTickerTrade[];
+  /** Scope filter: universe membership for holdings.json, all-pass for portfolios. */
+  keep: (ref: PortfolioSecurityRef) => boolean;
+  /** Contract every derived row must satisfy before it ships. */
+  schema: CandidateSchema<T>;
+  contractName: string;
+  now: string;
+  staleAfterDays: number;
+}
+
+function deriveCore<T extends { memberId: string; owner: string; security: PortfolioSecurityRef }>(
+  options: DeriveCoreOptions<T>,
+): { rows: T[]; rejects: HoldingReject[] } {
   const positions = new Map<string, Position>();
   const rejects: HoldingReject[] = [];
 
-  intakeBaseline(options.baseline ?? [], universe, positions, rejects);
+  intakeBaseline(options.baseline, options.keep, positions, rejects);
 
-  const trades = (options.trades ?? [])
-    .filter((t) => t.security !== null && universe.has(t.security))
+  const trades = options.trades
+    .filter((t) => t.security !== null && options.keep(t.security))
     .sort(compareTrades);
   for (const trade of trades) applyTrade(trade, positions, rejects);
 
-  const holdings: Holding[] = [];
+  const rows: T[] = [];
   for (const position of positions.values()) {
     if (!position.sources.some((s) => s.kind === "filing")) {
       rejects.push({
@@ -353,7 +400,7 @@ export function deriveHoldings(options: DeriveHoldingsOptions): DeriveHoldingsRe
       continue;
     }
     const status =
-      position.status === "holds" && daysBetween(position.asOf, now) > staleAfterDays
+      position.status === "holds" && daysBetween(position.asOf, options.now) > options.staleAfterDays
         ? "stale"
         : position.status;
     const candidate = {
@@ -368,22 +415,22 @@ export function deriveHoldings(options: DeriveHoldingsOptions): DeriveHoldingsRe
       sources: position.sources,
       ...(position.notes.length > 0 ? { note: position.notes.join("; ") } : {}),
     };
-    const parsed = HoldingSchema.safeParse(candidate);
+    const parsed = options.schema.safeParse(candidate);
     if (!parsed.success) {
       rejects.push({
         memberId: position.memberId,
         security: position.security,
         owner: position.owner,
-        reason: `derived row failed the Holding contract: ${parsed.error.issues
+        reason: `derived row failed the ${options.contractName} contract: ${parsed.error.issues
           .map((i) => `${i.path.join(".")}: ${i.message}`)
           .join("; ")}`,
       });
       continue;
     }
-    holdings.push(parsed.data);
+    rows.push(parsed.data);
   }
 
-  holdings.sort((a, b) => {
+  rows.sort((a, b) => {
     if (a.memberId !== b.memberId) return a.memberId < b.memberId ? -1 : 1;
     const ak = securityKey(a.security);
     const bk = securityKey(b.security);
@@ -391,5 +438,44 @@ export function deriveHoldings(options: DeriveHoldingsOptions): DeriveHoldingsRe
     return a.owner < b.owner ? -1 : a.owner > b.owner ? 1 : 0;
   });
 
-  return { holdings, rejects };
+  return { rows, rejects };
+}
+
+// ---------------------------------------------------------------------------
+// Entry points
+// ---------------------------------------------------------------------------
+
+export function deriveHoldings(options: DeriveHoldingsOptions): DeriveHoldingsResult {
+  const universe = buildUniverseIndex(options.universe);
+  const { rows, rejects } = deriveCore<Holding>({
+    baseline: options.baseline ?? [],
+    trades: options.trades ?? [],
+    keep: (ref) => universe.has(ref),
+    schema: HoldingSchema,
+    contractName: "Holding",
+    now: options.now ?? new Date().toISOString().slice(0, 10),
+    staleAfterDays: options.staleAfterDays ?? 365,
+  });
+  return { holdings: rows, rejects };
+}
+
+/**
+ * v1.1 portfolio positions: the exact holdings machinery with the universe
+ * filter removed - every trade with a resolved (or synthesized "other") ref
+ * can form a position, and rows validate against the portfolio contract
+ * (identical epistemics, security kind widened by "other").
+ */
+export function derivePortfolioPositions(
+  options: DerivePortfolioPositionsOptions,
+): DerivePortfolioPositionsResult {
+  const { rows, rejects } = deriveCore<PortfolioPosition>({
+    baseline: options.baseline ?? [],
+    trades: options.trades ?? [],
+    keep: () => true,
+    schema: PortfolioPositionSchema,
+    contractName: "PortfolioPosition",
+    now: options.now ?? new Date().toISOString().slice(0, 10),
+    staleAfterDays: options.staleAfterDays ?? 365,
+  });
+  return { positions: rows, rejects };
 }

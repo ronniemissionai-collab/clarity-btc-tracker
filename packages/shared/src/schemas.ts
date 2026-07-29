@@ -275,12 +275,27 @@ export const MeasuredPerformanceSchema = z.object({
   note: z.string().optional(),
 });
 
+/**
+ * One sparkline point: a disclosed-range midpoint (USD) on a trade date.
+ * Midpoints are ESTIMATES - filings disclose value bands, never amounts.
+ */
+export const SeriesPointSchema = z.object({
+  date: IsoDateSchema,
+  value: z.number(),
+});
+
 export const TraderSchema = z.object({
   memberId: z.string().regex(/^[A-Z]\d{6}$/),
   tradeCount: z.number().int().nonnegative(),
   claims: z.array(ClaimSchema),
   /** Null until the returns step has priced the member's disclosed buys. */
   measured: MeasuredPerformanceSchema.nullable(),
+  /**
+   * v1.1: precomputed trader-card sparkline - range-midpoint points from the
+   * returns computations, ascending by trade date. Optional: pre-v1.1
+   * rows/fixtures omit it (the site then falls back to trades.json).
+   */
+  series: z.array(SeriesPointSchema).optional(),
   /** Whose trades these are: "self", "spouse (Paul Pelosi)", "family trusts", ... */
   attribution: z.string().min(1),
   /**
@@ -292,6 +307,61 @@ export const TraderSchema = z.object({
    */
   claimsSupported: z.boolean().optional(),
   note: z.string().optional(),
+});
+
+// ---------------------------------------------------------------------------
+// v1.1 per-member portfolios (data/portfolio/) - spec "v1.1 - Full portfolios"
+// ---------------------------------------------------------------------------
+
+/**
+ * Portfolios cover EVERY disclosed ticker, not just the BTC universe. A
+ * security outside config/universe.json carries kind "other"; the core
+ * SecurityKindSchema stays untouched, so holdings.json remains universe-only.
+ */
+export const PortfolioSecurityKindSchema = z.union([SecurityKindSchema, z.literal("other")]);
+
+export const PortfolioSecurityRefSchema = z.object({
+  ticker: z.string().min(1),
+  kind: PortfolioSecurityKindSchema,
+});
+
+/**
+ * A portfolio position: same epistemics/schema as a holdings.json row
+ * (owner, band range, status, extraction, verification, mandatory official
+ * filing source), with the security kind widened for non-universe tickers.
+ */
+export const PortfolioPositionSchema = HoldingSchema.extend({
+  security: PortfolioSecurityRefSchema,
+});
+
+/** One directory row of data/portfolio/index.json. */
+export const PortfolioIndexEntrySchema = z.object({
+  memberId: z.string().regex(/^[A-Z]\d{6}$/),
+  name: z.string().min(1),
+  party: PartySchema,
+  chamber: ChamberSchema,
+  /** Two-letter state code. */
+  state: z.string().length(2),
+  active: z.boolean(),
+  /** A member ships a portfolio file only with >= 1 merged trade. */
+  tradeCount: z.number().int().positive(),
+  /** Most recent transaction date across the member's merged trades. */
+  lastTradeDate: IsoDateSchema,
+  /** Membership in the config/traders.json ACTIVE roster (has a traders.json row). */
+  rosterMember: z.boolean(),
+});
+
+/** data/portfolio/{memberId}.json - fetched lazily by the member detail view. */
+export const PortfolioFileSchema = z.object({
+  member: MemberSchema,
+  /** All-ticker positions - unfiltered derivation, holdings.json epistemics. */
+  positions: z.array(PortfolioPositionSchema),
+  /** Full merged trade history, newest first. */
+  trades: z.array(TradeSchema),
+  /** Range-midpoint sparkline points, ascending by trade date. */
+  series: z.array(SeriesPointSchema),
+  /** Trader.measured shape for active-roster members; null otherwise. */
+  measured: MeasuredPerformanceSchema.nullable(),
 });
 
 // ---------------------------------------------------------------------------
