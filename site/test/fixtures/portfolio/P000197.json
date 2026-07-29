@@ -1,0 +1,119 @@
+{
+  "member": {
+    "bioguideId": "P000197",
+    "name": "Nancy Pelosi",
+    "party": "D",
+    "chamber": "house",
+    "state": "CA",
+    "district": "CA-11",
+    "active": true,
+    "traderRoster": "active"
+  },
+  "positions": [
+    {
+      "memberId": "P000197",
+      "security": { "ticker": "MARA", "kind": "miner" },
+      "owner": "spouse",
+      "range": { "lo": 1000001, "hi": 5000000 },
+      "status": "holds",
+      "asOf": "2026-06-30",
+      "extraction": "pdf-text",
+      "verification": "corroborated",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20031001.pdf",
+          "title": "House Clerk PTR filed 2026-06-30 (MARA, owner SP)"
+        }
+      ],
+      "note": "Held by Paul Pelosi."
+    },
+    {
+      "memberId": "P000197",
+      "security": { "ticker": "COIN", "kind": "exchange" },
+      "owner": "spouse",
+      "range": { "lo": 250001, "hi": 500000 },
+      "status": "stale",
+      "asOf": "2025-05-16",
+      "extraction": "pdf-ocr",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10063412.pdf",
+          "title": "Annual FD 2024 (scanned), COIN"
+        }
+      ]
+    },
+    {
+      "memberId": "P000197",
+      "security": { "ticker": "IBIT", "kind": "spot-etf" },
+      "owner": "spouse",
+      "range": { "lo": 500001, "hi": 1000000 },
+      "status": "sold",
+      "asOf": "2026-01-14",
+      "extraction": "pdf-text",
+      "verification": "corroborated",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20030222.pdf",
+          "title": "House Clerk PTR filed 2026-01-14 (IBIT sale, owner SP)"
+        }
+      ]
+    }
+  ],
+  "trades": [
+    {
+      "memberId": "P000197",
+      "assetRaw": "NVIDIA Corporation (NVDA) call options, $80 strike",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": { "lo": 1000001, "hi": 5000000 },
+      "transactionDate": "2026-06-20",
+      "filedDate": "2026-06-30",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20031001.pdf",
+      "late": false,
+      "note": "Options leg - excluded from measured returns."
+    },
+    {
+      "memberId": "P000197",
+      "assetRaw": "iShares Bitcoin Trust (IBIT)",
+      "security": { "ticker": "IBIT", "kind": "spot-etf" },
+      "side": "sell",
+      "owner": "spouse",
+      "range": { "lo": 500001, "hi": 1000000 },
+      "transactionDate": "2026-01-02",
+      "filedDate": "2026-03-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20030222.pdf",
+      "late": true
+    },
+    {
+      "memberId": "P000197",
+      "assetRaw": "Coinbase Global Inc (COIN)",
+      "security": { "ticker": "COIN", "kind": "exchange" },
+      "side": "buy",
+      "owner": "spouse",
+      "range": { "lo": 250001, "hi": 500000 },
+      "transactionDate": "2025-05-02",
+      "filedDate": "2025-05-16",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10063412.pdf",
+      "late": false
+    }
+  ],
+  "series": [
+    { "date": "2025-05-02", "value": 375000.5 },
+    { "date": "2026-01-02", "value": 750000.5 },
+    { "date": "2026-06-20", "value": 3000000.5 }
+  ],
+  "measured": {
+    "return": 41.2,
+    "excess": 25.1,
+    "method": "midpoint",
+    "benchmark": "SPY",
+    "window": "2025-26 buys, mean since-trade",
+    "asOf": "2026-07-24",
+    "note": "Options legs that cannot be priced from equity closes are excluded."
+  }
+}

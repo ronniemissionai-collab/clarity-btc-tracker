@@ -1,0 +1,28 @@
+{
+  "member": {
+    "bioguideId": "L000571",
+    "lisId": "S402",
+    "name": "Cynthia Lummis",
+    "party": "R",
+    "chamber": "senate",
+    "state": "WY",
+    "active": true
+  },
+  "positions": [],
+  "trades": [
+    {
+      "memberId": "L000571",
+      "assetRaw": "Bitcoin (BTC)",
+      "security": { "ticker": "BTC", "kind": "direct" },
+      "side": "buy",
+      "owner": "self",
+      "range": { "lo": 50001, "hi": 100000 },
+      "transactionDate": "2021-08-16",
+      "filedDate": "2021-10-07",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/1124fac7-7277-4328-8740-fbaceeaac1b5/",
+      "late": true
+    }
+  ],
+  "series": [{ "date": "2021-08-16", "value": 75000.5 }],
+  "measured": null
+}

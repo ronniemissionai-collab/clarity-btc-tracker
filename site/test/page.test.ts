@@ -9,7 +9,6 @@ import { parseDataset } from "../src/data";
 import billFx from "./fixtures/bill.json";
 import membersFx from "./fixtures/members.json";
 import holdingsFx from "./fixtures/holdings.json";
-import tradesFx from "./fixtures/trades.json";
 import tradersFx from "./fixtures/traders.json";
 import newsFx from "./fixtures/news.json";
 import metaFx from "./fixtures/meta.json";
@@ -23,7 +22,6 @@ const data = parseDataset({
   bill: billFx,
   members: membersFx,
   holdings: holdingsFx,
-  trades: tradesFx,
   traders: tradersFx,
   news: newsFx,
   meta: metaFx,
@@ -50,6 +48,15 @@ describe("model derived from fixtures", () => {
     const counts = model.rankedTraders.map((r) => r.trader.tradeCount);
     expect(counts).toEqual([...counts].sort((a, b) => b - a));
     expect(model.rankedTraders[0]?.member?.name).toBe("Gil Cisneros");
+  });
+
+  it("reads sparkline series from the traders.json series field, not trades.json", () => {
+    // Cisneros ships a precomputed series in the fixture; the others don't.
+    expect(data.traderSeries.get("C001123")).toHaveLength(4);
+    expect(model.rankedTraders[0]?.series.map((p) => p.value)).toEqual([
+      8000.5, 32500.5, 8000.5, 57500.5,
+    ]);
+    expect(model.rankedTraders[1]?.series).toEqual([]);
   });
 });
 
@@ -86,6 +93,16 @@ describe("rendered views", () => {
     for (const link of links) {
       expect(filingHosts.some((host) => link.href.includes(host))).toBe(true);
     }
+  });
+
+  it("draws a sparkline only for traders with a precomputed series", () => {
+    const view = renderPortfolioView(model, data.meta);
+    const cards = [...view.querySelectorAll(".trader")];
+    const withSpark = cards.filter((c) => c.querySelector("svg.spark"));
+    const withEmpty = cards.filter((c) => c.querySelector(".spark-empty"));
+    expect(withSpark).toHaveLength(1); // Cisneros, from the series field
+    expect(withSpark[0]?.textContent).toContain("Gil Cisneros");
+    expect(withEmpty).toHaveLength(cards.length - 1); // honest empty state
   });
 
   it("portfolio view quotes claims and colors measured returns by sign", () => {

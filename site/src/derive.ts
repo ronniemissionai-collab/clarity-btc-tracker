@@ -10,7 +10,6 @@ import {
   type Member,
   type Party,
   type Security,
-  type Trade,
   type Trader,
   type ValueRange,
 } from "@clarity-btc/shared";
@@ -47,7 +46,12 @@ export interface RankedTrader {
   rank: number;
   trader: Trader;
   member: Member | undefined;
-  /** Real per-trade points (range midpoints over transaction dates) from trades.json. */
+  /**
+   * Real per-trade points (range midpoints over transaction dates),
+   * precomputed by the pipeline into the trader row's `series` field.
+   * Empty until the pipeline emits it — the sparkline shows an honest
+   * empty state instead of a fake curve.
+   */
   series: SparkPoint[];
 }
 
@@ -76,14 +80,6 @@ const isCurrent = (h: Holding): boolean => h.status !== "sold";
 
 export function midpoint(r: ValueRange): number {
   return (r.lo + r.hi) / 2;
-}
-
-/** Per-trade points for a member's sparkline: disclosed range midpoints over time. */
-export function tradeSeries(trades: Trade[], memberId: string): SparkPoint[] {
-  return trades
-    .filter((t) => t.memberId === memberId)
-    .sort((a, b) => a.transactionDate.localeCompare(b.transactionDate))
-    .map((t) => ({ date: t.transactionDate, value: midpoint(t.range) }));
 }
 
 export function buildModel(data: AppData): Model {
@@ -177,7 +173,7 @@ export function buildModel(data: AppData): Model {
       rank: i + 1,
       trader,
       member: memberById.get(trader.memberId),
-      series: tradeSeries(data.trades, trader.memberId),
+      series: data.traderSeries.get(trader.memberId) ?? [],
     }));
 
   return {
