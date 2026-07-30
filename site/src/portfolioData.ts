@@ -1,22 +1,24 @@
 /**
- * Lazy-loaded v1.1 portfolio data (spec §v1.1 — Full portfolios):
+ * Lazy-loaded v1.1/v1.2 portfolio data (spec §v1.1 — Full portfolios,
+ * §v1.2 — Common holdings):
  *
  *   /data/portfolio/index.json       — the member directory
  *   /data/portfolio/{memberId}.json  — one member's full portfolio
+ *   /data/common.json                — securities held by ≥ 2 members
  *
  * These files are fetched on demand (never bundled — the full trade set is
- * ~16MB) and validated before rendering: nested Member/Holding/Trade rows go
- * through the shared-contract schemas; the wrapper shapes are validated by
- * hand here until @clarity-btc/shared ships them (pipeline ticket 14 owns
- * the emission side of this contract).
+ * ~16MB) and validated before rendering: nested Member/Holding/Trade rows and
+ * the common-holdings rows go through the shared-contract schemas; the v1.1
+ * wrapper shapes are validated by hand here until @clarity-btc/shared ships
+ * them (pipeline ticket 14 owns the emission side of this contract).
  */
 import { parsePortfolioPosition, type PortfolioPosition,
   MeasuredPerformanceSchema,
-  parseHoldings,
+  parseCommonHoldings,
   parseMember,
   parseTrades,
   type Chamber,
-  type Holding,
+  type CommonHolding,
   type Member,
   type Party,
   type Trade,
@@ -146,6 +148,19 @@ export async function fetchDirectory(): Promise<DirectoryEntry[]> {
     directoryCache = parseDirectory(await fetchJson("/data/portfolio/index.json"));
   }
   return directoryCache;
+}
+
+let commonCache: CommonHolding[] | null = null;
+
+/**
+ * Lazy /data/common.json fetch — cached after the first successful load.
+ * Validated through the shared CommonHolding contract before rendering.
+ */
+export async function fetchCommonHoldings(): Promise<CommonHolding[]> {
+  if (commonCache === null) {
+    commonCache = parseCommonHoldings(await fetchJson("/data/common.json"));
+  }
+  return commonCache;
 }
 
 /** Lazy member-portfolio fetch — cached per member after the first load. */

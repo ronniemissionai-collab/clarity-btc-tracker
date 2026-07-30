@@ -11,11 +11,13 @@
  *   7b. Portfolio emission (v1.1)    packages/ingest/src/portfolio
  *   8. Validation gate               packages/ingest/src/holdings/validate
  *
- * then writes the seven core data/*.json outputs PLUS data/portfolio/
+ * then writes the eight core data/*.json outputs PLUS data/portfolio/
  * (index.json + one {memberId}.json per member with >= 1 merged trade)
  * atomically (write temps, validate every payload through the shared
  * parsers, rename together). v1.1: data/trades.json is slimmed to
  * universe-resolved rows - the full history lives in the portfolio files.
+ * v1.2: data/common.json aggregates securities held by >= 2 members from
+ * the same derived positions/trades the portfolio files ship.
  * On a validation gate failure or any fatal step error data/ is left
  * untouched - the last good data keeps serving - and a machine-readable
  * failure report is written to the state directory for the Action to
@@ -28,6 +30,7 @@ import { mkdir, readdir, readFile, rename, rm, writeFile } from "node:fs/promise
 import path from "node:path";
 import {
   parseBill,
+  parseCommonHoldings,
   parseExpectations,
   parseHoldings,
   parseMembers,
@@ -89,7 +92,7 @@ export interface PipelineIO {
 }
 
 export interface RunPipelineOptions {
-  /** Directory holding the seven output *.json files (the repo's data/). */
+  /** Directory holding the core output *.json files (the repo's data/). */
   dataDir: string;
   /** Disk-cache root for the kadoa/Yahoo fetch layers. */
   cacheDir: string;
@@ -124,7 +127,7 @@ export interface PipelineResult {
   stats: Record<string, number>;
   warnings: string[];
   /**
-   * Absolute paths written: on success the seven core files plus
+   * Absolute paths written: on success the eight core files plus
    * portfolio/index.json and every portfolio/{memberId}.json; none on failure.
    */
   wroteFiles: string[];
@@ -140,6 +143,7 @@ export const DATA_FILES = [
   "holdings.json",
   "trades.json",
   "traders.json",
+  "common.json",
   "news.json",
   "meta.json",
 ] as const;
@@ -657,6 +661,7 @@ export async function runPipeline(options: RunPipelineOptions): Promise<Pipeline
         baseline: annualBaseline,
         rosterIds: new Set(tradersConfig.active.map((e) => e.id)),
         measuredById: new Map(traders.map((t) => [t.memberId, t.measured])),
+        universe: universe.universe,
         now,
       }),
     );
@@ -664,12 +669,15 @@ export async function runPipeline(options: RunPipelineOptions): Promise<Pipeline
     stats["portfolioFiles"] = portfolio.files.length;
     stats["portfolioPositions"] = portfolio.positionCount;
     stats["portfolioRejects"] = portfolio.rejects.length;
+    // v1.2: securities held by >= 2 members (data/common.json), aggregated
+    // from the same derived positions/trades the portfolio files ship.
+    stats["commonSecurities"] = portfolio.common.length;
     // v1.1: the core trades.json ships universe-resolved rows only; the full
     // all-ticker history lives in the per-member portfolio files.
     const slimmedTrades = slimTrades(merged);
     stats["slimmedTrades"] = slimmedTrades.length;
     log(
-      `portfolio: ${portfolio.files.length} member files, ${portfolio.positionCount} positions; trades.json slimmed ${merged.length} -> ${slimmedTrades.length}`,
+      `portfolio: ${portfolio.files.length} member files, ${portfolio.positionCount} positions, ${portfolio.common.length} common securities; trades.json slimmed ${merged.length} -> ${slimmedTrades.length}`,
     );
 
     // -- Step 8: validation gate --------------------------------------------
@@ -723,6 +731,7 @@ export async function runPipeline(options: RunPipelineOptions): Promise<Pipeline
         // (and strips) unknown keys, so the contract still holds on read.
         { name: "trades.json", payload: slimmedTrades, validate: parseTrades },
         { name: "traders.json", payload: traders, validate: parseTraders },
+        { name: "common.json", payload: portfolio.common, validate: parseCommonHoldings },
         { name: "news.json", payload: news, validate: parseNews },
         { name: "meta.json", payload: meta, validate: parseMeta },
         {

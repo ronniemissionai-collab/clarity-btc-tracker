@@ -1,7 +1,7 @@
 // @vitest-environment happy-dom
 /**
  * Hash-routing smoke test over the real entry point (and the real data/
- * files): home renders three tabs, #member/{id} swaps to the lazily fetched
+ * files): home renders four tabs, #member/{id} swaps to the lazily fetched
  * member view, and navigating back to #directory restores the home page with
  * the "All traders" tab selected.
  */
@@ -35,9 +35,14 @@ beforeAll(async () => {
 });
 
 describe("hash routing", () => {
-  it("renders the home page with three tabs and no eager portfolio fetch", () => {
+  it("renders the home page with four tabs and no eager portfolio fetch", () => {
     const tabs = [...document.querySelectorAll('[role="tab"]')].map((t) => t.textContent);
-    expect(tabs).toEqual(["Bitcoin holdings", "Portfolio tracker", "All traders"]);
+    expect(tabs).toEqual([
+      "Bitcoin holdings",
+      "Portfolio tracker",
+      "All traders",
+      "Common holdings",
+    ]);
     expect(document.querySelector("h1")?.textContent).toContain("hold Bitcoin");
     expect(fetchMock).not.toHaveBeenCalled();
   });

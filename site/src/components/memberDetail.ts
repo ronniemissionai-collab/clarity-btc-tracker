@@ -6,7 +6,7 @@
  * on every row), and the full trades timeline — windowed at 50 rows per
  * "Show more" so 3,000-trade members stay fast.
  */
-import type { Holding, Member, PortfolioPosition, Trade, Trader } from "@clarity-btc/shared";
+import type { Member, PortfolioPosition, Trade, Trader } from "@clarity-btc/shared";
 import { el, replaceChildren } from "../dom";
 import { fmtDate, fmtRange, fmtSignedPct, fmtSignedPp } from "../format";
 import { fetchPortfolio, type MemberPortfolio } from "../portfolioData";

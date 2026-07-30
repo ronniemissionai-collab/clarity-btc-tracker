@@ -1,5 +1,5 @@
 /** Display labels for securities (ticker + kind, disambiguating the two "BTC"s). */
-import type { SecurityKind, SecurityRef } from "@clarity-btc/shared";
+import type { SecurityKind } from "@clarity-btc/shared";
 import { el } from "../dom";
 import type { HoldingRow } from "../derive";
 
