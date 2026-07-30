@@ -365,6 +365,72 @@ export const PortfolioFileSchema = z.object({
 });
 
 // ---------------------------------------------------------------------------
+// v1.2 common holdings (data/common.json) - spec "v1.2 - common holdings view"
+// ---------------------------------------------------------------------------
+
+/** One member's stake in a commonly held security. */
+export const CommonHoldingOwnerSchema = z.object({
+  memberId: z.string().regex(/^[A-Z]\d{6}$/),
+  name: z.string().min(1),
+  party: PartySchema,
+  chamber: ChamberSchema,
+  /** Two-letter state code. */
+  state: z.string().length(2),
+  /** Still serving (roster corrections applied) - false renders a chip. */
+  active: z.boolean(),
+  /**
+   * Transaction dates of the member's disclosed BUY trades in this security,
+   * newest first, capped at 10. Empty when the position came from an annual
+   * report only (no PTR buys in our coverage window).
+   */
+  buyDates: z.array(IsoDateSchema).max(10),
+  /**
+   * Aggregate disclosed range of the member's current positions in this
+   * security (band lo/hi summed across owner attributions); for a fully
+   * exited member, the aggregate range of the sold positions.
+   */
+  latestRange: ValueRangeSchema,
+  /** holds/stale = counted in ownersCount; sold = exited (SOLD chip). */
+  status: HoldingStatusSchema,
+});
+
+/**
+ * One data/common.json row: a security currently held by >= 2 members,
+ * aggregated across ALL member portfolios (all tickers - non-universe
+ * securities carry kind "other"). Derived from the SAME positions/trades the
+ * per-member portfolio files ship. Sorted ownersCount desc, then ticker.
+ */
+export const CommonHoldingSchema = z
+  .object({
+    /** Composite security key parts (ticker + kind). */
+    security: PortfolioSecurityRefSchema,
+    /** Resolved display name when known (universe securities). */
+    name: z.string().min(1).optional(),
+    /** Distinct members with a CURRENT (non-sold) position - the headline count. */
+    ownersCount: z.number().int().min(2),
+    /** Current owners by party; R + D + I always equals ownersCount. */
+    partySplit: z.object({
+      R: z.number().int().nonnegative(),
+      D: z.number().int().nonnegative(),
+      I: z.number().int().nonnegative(),
+    }),
+    /** Most recent disclosed buy date across all listed owners; null when the
+     *  positions came from annual reports only. */
+    latestBuyDate: IsoDateSchema.nullable(),
+    /**
+     * Every member with a derived position in this security - current owners
+     * AND fully exited members (status "sold", excluded from ownersCount).
+     */
+    owners: z.array(CommonHoldingOwnerSchema).min(2),
+  })
+  .refine((c) => c.partySplit.R + c.partySplit.D + c.partySplit.I === c.ownersCount, {
+    message: "partySplit must sum to ownersCount",
+  })
+  .refine((c) => c.owners.filter((o) => o.status !== "sold").length === c.ownersCount, {
+    message: "ownersCount must equal the number of non-sold owners",
+  });
+
+// ---------------------------------------------------------------------------
 // News strip (Exa-fed) and run metadata
 // ---------------------------------------------------------------------------
 

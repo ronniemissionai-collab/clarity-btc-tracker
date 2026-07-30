@@ -1,8 +1,9 @@
 /**
  * Accessible tab navigation (Bitcoin holdings / Portfolio tracker / All
- * traders): proper tab semantics, roving tabindex, arrow-key + Home/End
- * support. `onShow` fires each time a tab is selected — the directory tab
- * uses it to lazy-fetch its data on first open.
+ * traders / Common holdings): proper tab semantics, roving tabindex,
+ * arrow-key + Home/End support. `onShow` fires each time a tab is selected —
+ * the directory and common-holdings tabs use it to lazy-fetch their data on
+ * first open.
  */
 import { el } from "../dom";
 

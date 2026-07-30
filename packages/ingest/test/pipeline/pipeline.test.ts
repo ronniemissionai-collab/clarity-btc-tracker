@@ -3,9 +3,10 @@
  * workflow runs, exercised directly. Zero network - every step gets the
  * fixture-backed IO from src/dryrun.ts.
  *
- * Covers: all eight steps execute; the seven core outputs round-trip through
+ * Covers: all eight steps execute; the eight core outputs round-trip through
  * the shared parsers; v1.1 portfolio emission (index + per-member files,
- * slimmed trades.json, precomputed trader series); atomic-write semantics
+ * slimmed trades.json, precomputed trader series); v1.2 common-holdings
+ * emission (data/common.json); atomic-write semantics
  * (no temp litter); a validation-gate failure leaves data/ untouched and
  * writes a machine-readable failure report; a bill-source outage keeps the
  * last-good bill.json.
@@ -17,6 +18,7 @@ import { fileURLToPath } from "node:url";
 import { describe, expect, it } from "vitest";
 import {
   parseBill,
+  parseCommonHoldings,
   parseHoldings,
   parseMembers,
   parseMeta,
@@ -94,9 +96,9 @@ describe("runPipeline dry-run e2e (fixtures, zero network)", () => {
 
     expect(result.failure).toBeUndefined();
     expect(result.ok).toBe(true);
-    // Seven core files + portfolio/index.json + one file per indexed member.
+    // Eight core files + portfolio/index.json + one file per indexed member.
     expect(result.stats["portfolioFiles"]).toBeGreaterThan(0);
-    expect(result.wroteFiles).toHaveLength(7 + 1 + result.stats["portfolioFiles"]!);
+    expect(result.wroteFiles).toHaveLength(DATA_FILES.length + 1 + result.stats["portfolioFiles"]!);
 
     // Every step left its fingerprint in the stats.
     expect(result.stats["houseTrades"]).toBe(8); // Biggs e-filed PTR
@@ -119,7 +121,7 @@ describe("runPipeline dry-run e2e (fixtures, zero network)", () => {
         result.stats["tradesProvenanceKadoa"]!,
     ).toBe(result.stats["tradesMerged"]);
 
-    // Atomic semantics: the seven files + the portfolio dir, no temp litter.
+    // Atomic semantics: the eight files + the portfolio dir, no temp litter.
     const names = (await readdir(ws.dataDir)).sort();
     expect(names).toEqual([...DATA_FILES, PORTFOLIO_DIR].sort());
 
@@ -194,6 +196,38 @@ describe("runPipeline dry-run e2e (fixtures, zero network)", () => {
     );
     expect(measuredFile.measured).toEqual(measuredTrader!.measured);
 
+    // v1.2: common.json ships the securities held by >= 2 members, derived
+    // from the same positions/trades as the portfolio files.
+    const common = parseCommonHoldings(await readJson(path.join(ws.dataDir, "common.json")));
+    expect(common).toHaveLength(result.stats["commonSecurities"]!);
+    expect(common.length).toBeGreaterThan(0);
+    // Sorted ownersCount desc then ticker; the fixture world's top row is the
+    // six-owner SpaceX position with a 4R/2D split.
+    const top = common[0]!;
+    expect(top.security).toEqual({ ticker: "SPCX", kind: "treasury" });
+    expect(top.name).toBe("SpaceX"); // resolved from config/universe.json
+    expect(top.ownersCount).toBe(6);
+    expect(top.partySplit).toEqual({ R: 4, D: 2, I: 0 });
+    expect(top.latestBuyDate).toBe("2026-06-18");
+    const indexedMembers = new Set(portfolioIndex.map((e) => e.memberId));
+    for (let i = 0; i < common.length; i++) {
+      const row = common[i]!;
+      if (i > 0) expect(row.ownersCount).toBeLessThanOrEqual(common[i - 1]!.ownersCount);
+      // ownersCount counts distinct CURRENT owners; sold owners may still be
+      // listed but never counted (the schema refinements re-check this).
+      expect(row.ownersCount).toBeGreaterThanOrEqual(2);
+      expect(row.owners.filter((o) => o.status !== "sold")).toHaveLength(row.ownersCount);
+      expect(row.partySplit.R + row.partySplit.D + row.partySplit.I).toBe(row.ownersCount);
+      for (const owner of row.owners) {
+        // Every listed owner ships a portfolio file (same trades, same world).
+        expect(indexedMembers.has(owner.memberId)).toBe(true);
+        expect(owner.buyDates.length).toBeLessThanOrEqual(10);
+        for (let j = 1; j < owner.buyDates.length; j++) {
+          expect(owner.buyDates[j - 1]! >= owner.buyDates[j]!).toBe(true);
+        }
+      }
+    }
+
     // Raw rows keep their provenance stamp (the parser tolerates + strips it).
     const rawTrades = (await readJson(path.join(ws.dataDir, "trades.json"))) as Array<
       Record<string, unknown>
@@ -206,6 +240,7 @@ describe("runPipeline dry-run e2e (fixtures, zero network)", () => {
     expect(holdings.every((h) => h.sources.some((s) => s.kind === "filing"))).toBe(true);
     expect(meta.run.ok).toBe(true);
     expect(meta.run.stats["tier1Holders"]).toBe(result.stats["tier1Holders"]);
+    expect(meta.run.stats["commonSecurities"]).toBe(result.stats["commonSecurities"]);
     expect(meta.run.warnings).toBeDefined();
     expect(meta.asOf.news).toBe("2026-07-28"); // strip refreshed via fixture Exa
 

@@ -1,0 +1,127 @@
+[
+  {
+    "security": { "ticker": "IBIT", "kind": "spot-etf" },
+    "name": "iShares Bitcoin Trust ETF",
+    "ownersCount": 3,
+    "partySplit": { "R": 2, "D": 1, "I": 0 },
+    "latestBuyDate": "2026-06-20",
+    "owners": [
+      {
+        "memberId": "P000197",
+        "name": "Nancy Pelosi",
+        "party": "D",
+        "chamber": "house",
+        "state": "CA",
+        "active": true,
+        "buyDates": ["2026-06-20", "2026-05-02"],
+        "latestRange": { "lo": 500001, "hi": 1000000 },
+        "status": "holds"
+      },
+      {
+        "memberId": "M001243",
+        "name": "David McCormick",
+        "party": "R",
+        "chamber": "senate",
+        "state": "PA",
+        "active": true,
+        "buyDates": ["2026-04-11"],
+        "latestRange": { "lo": 15001, "hi": 50000 },
+        "status": "holds"
+      },
+      {
+        "memberId": "L000571",
+        "name": "Cynthia Lummis",
+        "party": "R",
+        "chamber": "senate",
+        "state": "WY",
+        "active": true,
+        "buyDates": [],
+        "latestRange": { "lo": 100001, "hi": 250000 },
+        "status": "stale"
+      },
+      {
+        "memberId": "G000596",
+        "name": "Marjorie Taylor Greene",
+        "party": "R",
+        "chamber": "house",
+        "state": "GA",
+        "active": false,
+        "buyDates": ["2025-11-03"],
+        "latestRange": { "lo": 1001, "hi": 15000 },
+        "status": "sold"
+      }
+    ]
+  },
+  {
+    "security": { "ticker": "NVDA", "kind": "other" },
+    "ownersCount": 2,
+    "partySplit": { "R": 0, "D": 2, "I": 0 },
+    "latestBuyDate": "2026-07-18",
+    "owners": [
+      {
+        "memberId": "C001123",
+        "name": "Gil Cisneros",
+        "party": "D",
+        "chamber": "house",
+        "state": "CA",
+        "active": true,
+        "buyDates": [
+          "2026-07-18",
+          "2026-07-02",
+          "2026-06-19",
+          "2026-06-05",
+          "2026-05-22",
+          "2026-05-08",
+          "2026-04-24",
+          "2026-04-10",
+          "2026-03-27",
+          "2026-03-13"
+        ],
+        "latestRange": { "lo": 30003, "hi": 450000 },
+        "status": "holds"
+      },
+      {
+        "memberId": "P000197",
+        "name": "Nancy Pelosi",
+        "party": "D",
+        "chamber": "house",
+        "state": "CA",
+        "active": true,
+        "buyDates": ["2026-01-14"],
+        "latestRange": { "lo": 1000001, "hi": 5000000 },
+        "status": "holds"
+      }
+    ]
+  },
+  {
+    "security": { "ticker": "MSTR", "kind": "treasury" },
+    "name": "Strategy (MicroStrategy)",
+    "ownersCount": 2,
+    "partySplit": { "R": 1, "D": 0, "I": 1 },
+    "latestBuyDate": null,
+    "owners": [
+      {
+        "memberId": "M001243",
+        "name": "David McCormick",
+        "party": "R",
+        "chamber": "senate",
+        "state": "PA",
+        "active": true,
+        "buyDates": [],
+        "latestRange": { "lo": 50001, "hi": 100000 },
+        "status": "holds"
+      },
+      {
+        "memberId": "K000383",
+        "name": "Angus King",
+        "party": "I",
+        "chamber": "senate",
+        "state": "ME",
+        "active": true,
+        "buyDates": [],
+        "latestRange": { "lo": 15001, "hi": 50000 },
+        "status": "holds"
+      }
+    ]
+  }
+]

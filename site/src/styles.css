@@ -953,6 +953,106 @@ tr:last-child td {
   max-width: 34rem;
 }
 
+/* ------------------------------ common holdings --------------------------- */
+
+.common-table {
+  min-width: 34rem;
+}
+
+.common-toggle-cell {
+  width: 2.2rem;
+  padding-right: 0;
+}
+
+.expand-btn {
+  font: inherit;
+  line-height: 1;
+  width: 1.6rem;
+  height: 1.6rem;
+  border: 1px solid var(--line);
+  border-radius: 6px;
+  background: var(--card);
+  color: var(--ink-2);
+  cursor: pointer;
+}
+
+.expand-btn[aria-expanded="true"] {
+  border-color: var(--accent);
+  color: var(--ink);
+}
+
+.owners-count {
+  font-size: 1.25rem;
+}
+
+/* Party-split mini bar — crimson/cobalt reserved for exactly this. */
+.splitbar {
+  display: flex;
+  height: 10px;
+  width: 7.5rem;
+  max-width: 100%;
+  border-radius: 5px;
+  overflow: hidden;
+  background: var(--chip);
+  margin-top: 0.45rem;
+}
+
+.splitseg {
+  display: block;
+  flex-basis: 0;
+}
+
+.splitseg.r {
+  background: var(--rep);
+}
+
+.splitseg.d {
+  background: var(--dem);
+}
+
+.splitseg.i {
+  background: var(--ind);
+}
+
+.common-detail td {
+  background: color-mix(in srgb, var(--chip) 45%, transparent);
+}
+
+.common-owners {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.common-owner {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: 0.25rem 0.75rem;
+  padding: 0.3rem 0;
+  border-bottom: 1px dashed var(--line);
+  font-size: 0.88rem;
+}
+
+.common-owner:last-child {
+  border-bottom: 0;
+}
+
+.common-owner-buys {
+  font-size: 0.8rem;
+}
+
+.common-owner-range {
+  margin-left: auto;
+  white-space: nowrap;
+}
+
+@media (max-width: 26rem) {
+  .common-owner-range {
+    margin-left: 0;
+  }
+}
+
 /* -------------------------------- footer --------------------------------- */
 
 .foot {

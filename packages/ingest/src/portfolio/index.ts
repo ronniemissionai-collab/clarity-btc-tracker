@@ -17,18 +17,27 @@
  *
  * Invariant (enforced here and re-checked by the pipeline, NOT a validation
  * gate rule): the index names exactly the portfolio files that are written.
+ *
+ * v1.2 (build ticket 17): the same derived positions/trades also feed the
+ * data/common.json aggregation (common.ts) - securities held by >= 2 members.
  */
 import type {
+  CommonHolding,
   Holding,
   Member,
   PortfolioFile,
   PortfolioIndexEntry,
+  Security,
   SeriesPoint,
   Trade,
   Trader,
 } from "@clarity-btc/shared";
 import { derivePortfolioPositions, type AllTickerTrade, type HoldingReject } from "../holdings/index.js";
 import { extractTicker, rangeMidpoint, type TraderComputation } from "../returns/index.js";
+import { buildCommonHoldings } from "./common.js";
+
+export { buildCommonHoldings, COMMON_BUY_DATES_CAP } from "./common.js";
+export type { BuildCommonHoldingsOptions } from "./common.js";
 
 // ---------------------------------------------------------------------------
 // All-ticker trade resolution
@@ -119,6 +128,8 @@ export interface BuildPortfoliosOptions {
   rosterIds?: ReadonlySet<string>;
   /** Trader.measured per roster member (the returns output). */
   measuredById?: ReadonlyMap<string, Trader["measured"]>;
+  /** config/universe.json securities - resolves common.json display names. */
+  universe?: readonly Security[];
   /** "Today" (ISO date) for stale marking. Default: current UTC date. */
   now?: string;
 }
@@ -128,6 +139,11 @@ export interface BuildPortfoliosResult {
   index: PortfolioIndexEntry[];
   /** One data/portfolio/{memberId}.json payload per index row. */
   files: Array<{ memberId: string; file: PortfolioFile }>;
+  /**
+   * v1.2 data/common.json rows: securities with >= 2 current owners,
+   * aggregated from the SAME derived positions/trades the files ship.
+   */
+  common: CommonHolding[];
   /** Total positions across all files. */
   positionCount: number;
   /** Derivation rejects + ticker-unresolvable trades, counted never guessed. */
@@ -226,5 +242,14 @@ export function buildPortfolios(options: BuildPortfoliosOptions): BuildPortfolio
     );
   }
 
-  return { index, files, positionCount, rejects, warnings };
+  // v1.2: common.json comes from the SAME derived positions and resolved
+  // trades the per-member files just shipped - one derivation, two views.
+  const common = buildCommonHoldings({
+    members: options.members,
+    positions: derived.positions,
+    trades: resolved,
+    ...(options.universe !== undefined ? { securities: options.universe } : {}),
+  });
+
+  return { index, files, common, positionCount, rejects, warnings };
 }

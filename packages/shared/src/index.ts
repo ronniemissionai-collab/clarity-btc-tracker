@@ -6,6 +6,7 @@
  */
 import { z } from "zod";
 import type {
+  CommonHoldingOwnerSchema,
   PortfolioSecurityKindSchema,
   PortfolioSecurityRefSchema,
   SecurityRefSchema,
@@ -14,6 +15,7 @@ import type {
 } from "./schemas.js";
 import {
   BillSchema,
+  CommonHoldingSchema,
   ExpectationsSchema,
   HoldingSchema,
   MemberSchema,
@@ -55,6 +57,9 @@ export type PortfolioSecurityRef = z.infer<typeof PortfolioSecurityRefSchema>;
 export type PortfolioPosition = z.infer<typeof PortfolioPositionSchema>;
 export type PortfolioIndexEntry = z.infer<typeof PortfolioIndexEntrySchema>;
 export type PortfolioFile = z.infer<typeof PortfolioFileSchema>;
+
+export type CommonHoldingOwner = z.infer<typeof CommonHoldingOwnerSchema>;
+export type CommonHolding = z.infer<typeof CommonHoldingSchema>;
 
 export type Party = Member["party"];
 export type Chamber = Member["chamber"];
@@ -114,3 +119,7 @@ export const parsePortfolioPosition = (v: unknown): PortfolioPosition =>
 export const parsePortfolioIndex = (v: unknown): PortfolioIndexEntry[] =>
   z.array(PortfolioIndexEntrySchema).parse(v);
 export const parsePortfolioFile = (v: unknown): PortfolioFile => PortfolioFileSchema.parse(v);
+
+export const parseCommonHolding = (v: unknown): CommonHolding => CommonHoldingSchema.parse(v);
+export const parseCommonHoldings = (v: unknown): CommonHolding[] =>
+  z.array(CommonHoldingSchema).parse(v);

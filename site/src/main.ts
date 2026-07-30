@@ -1,8 +1,8 @@
 /**
  * Entry point: load + validate the small data files, derive the view model,
  * and assemble the approved Variant D composite — hero, bill stage strip with
- * substitute warning and news strip, three tabs (holdings / portfolio / all
- * traders), and the methodology footer.
+ * substitute warning and news strip, four tabs (holdings / portfolio / all
+ * traders / common holdings), and the methodology footer.
  *
  * Routing is location.hash based:
  *   ""            → home (tabs)
@@ -16,6 +16,7 @@ import { loadData, type AppData } from "./data";
 import { buildModel } from "./derive";
 import { el } from "./dom";
 import { renderBillStrip } from "./components/billStrip";
+import { renderCommonHoldingsView } from "./components/commonHoldings";
 import { renderDirectoryView } from "./components/directory";
 import { renderFooter } from "./components/footer";
 import { renderHero } from "./components/hero";
@@ -69,11 +70,13 @@ function buildHomePage(data: AppData): { page: HTMLElement; tabs: Tabs } {
   }
 
   const directory = renderDirectoryView();
+  const common = renderCommonHoldingsView();
   const main = el("main", { id: "main" });
   const tabs = createTabs([
     { id: "holdings", label: "Bitcoin holdings", panel: renderHoldingsView(model) },
     { id: "portfolio", label: "Portfolio tracker", panel: renderPortfolioView(model, data.meta) },
     { id: "directory", label: "All traders", panel: directory.view, onShow: directory.load },
+    { id: "common", label: "Common holdings", panel: common.view, onShow: common.load },
   ]);
   main.appendChild(tabs.nav);
   for (const panel of tabs.panels) main.appendChild(panel);
