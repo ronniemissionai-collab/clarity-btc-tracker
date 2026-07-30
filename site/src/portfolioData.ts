@@ -10,7 +10,7 @@
  * hand here until @clarity-btc/shared ships them (pipeline ticket 14 owns
  * the emission side of this contract).
  */
-import {
+import { parsePortfolioPosition, type PortfolioPosition,
   MeasuredPerformanceSchema,
   parseHoldings,
   parseMember,
@@ -43,7 +43,7 @@ export interface DirectoryEntry {
 export interface MemberPortfolio {
   member: Member;
   /** Unfiltered all-ticker positions, same epistemics/schema as holdings.json. */
-  positions: Holding[];
+  positions: PortfolioPosition[];
   /** Full disclosed trade history, newest first. */
   trades: Trade[];
   /** Range-midpoint points over time (the member-page sparkline series). */
@@ -118,7 +118,7 @@ export function parsePortfolio(raw: unknown, memberId: string): MemberPortfolio 
   if (!isRecord(raw)) fail(context, "expected an object");
   const portfolio: MemberPortfolio = {
     member: parseMember(raw["member"]),
-    positions: parseHoldings(raw["positions"]),
+    positions: parsePortfolioPositions(raw["positions"], context),
     trades: parseTrades(raw["trades"]),
     series: parseSparkSeries(raw["series"], context),
     measured: raw["measured"] === null ? null : MeasuredPerformanceSchema.parse(raw["measured"]),
@@ -161,4 +161,10 @@ export async function fetchPortfolio(memberId: string): Promise<MemberPortfolio>
   );
   portfolioCache.set(memberId, portfolio);
   return portfolio;
+}
+
+
+function parsePortfolioPositions(raw: unknown, context: string) {
+  if (!Array.isArray(raw)) fail(context, "positions: expected an array");
+  return (raw as unknown[]).map((p) => parsePortfolioPosition(p));
 }

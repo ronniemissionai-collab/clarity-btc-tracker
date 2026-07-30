@@ -6,7 +6,7 @@
  * on every row), and the full trades timeline — windowed at 50 rows per
  * "Show more" so 3,000-trade members stay fast.
  */
-import type { Holding, Member, Trade, Trader } from "@clarity-btc/shared";
+import type { Holding, Member, PortfolioPosition, Trade, Trader } from "@clarity-btc/shared";
 import { el, replaceChildren } from "../dom";
 import { fmtDate, fmtRange, fmtSignedPct, fmtSignedPp } from "../format";
 import { fetchPortfolio, type MemberPortfolio } from "../portfolioData";
@@ -77,7 +77,7 @@ function measuredSection(measured: Trader["measured"]): HTMLElement {
   return section;
 }
 
-function positionRow(holding: Holding): HTMLTableRowElement | null {
+function positionRow(holding: PortfolioPosition): HTMLTableRowElement | null {
   const filing = holding.sources.find((s) => s.kind === "filing");
   if (!filing) return null; // schema makes this unreachable; never render an unlinked row
   const tr = el("tr", {});
@@ -113,7 +113,7 @@ function positionRow(holding: Holding): HTMLTableRowElement | null {
   return tr;
 }
 
-function positionsSection(positions: Holding[]): HTMLElement {
+function positionsSection(positions: PortfolioPosition[]): HTMLElement {
   const section = el("section", { class: "detail-section" });
   section.appendChild(el("h2", { class: "detail-head" }, `Positions (${positions.length})`));
   if (positions.length === 0) {

@@ -68,7 +68,17 @@ async function makeWorkspace(): Promise<Workspace> {
 
 async function snapshotDataDir(dataDir: string): Promise<Map<string, string>> {
   const snapshot = new Map<string, string>();
-  for (const name of await readdir(dataDir)) {
+  for (const entry of await readdir(dataDir, { withFileTypes: true })) {
+    if (entry.isDirectory()) {
+      for (const sub of await readdir(path.join(dataDir, entry.name))) {
+        snapshot.set(
+          `${entry.name}/${sub}`,
+          await readFile(path.join(dataDir, entry.name, sub), "utf8"),
+        );
+      }
+      continue;
+    }
+    const name = entry.name;
     snapshot.set(name, await readFile(path.join(dataDir, name), "utf8"));
   }
   return snapshot;

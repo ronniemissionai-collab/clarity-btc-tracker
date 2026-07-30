@@ -3,7 +3,7 @@
  * as one consistent vocabulary: party, vote, owner attribution, extraction
  * quality (OCR), verification (unverified / conflicting), and SOLD/stale.
  */
-import type { Holding, Member } from "@clarity-btc/shared";
+import type { Holding, PortfolioPosition, Member } from "@clarity-btc/shared";
 import { el } from "../dom";
 import { fmtMonthYear } from "../format";
 import type { VoteStatus } from "../derive";
@@ -49,7 +49,7 @@ export function voteChip(status: VoteStatus): HTMLSpanElement {
  * table already shows the owner in its own column (member portfolio view).
  */
 export function holdingFlagChips(
-  holding: Holding,
+  holding: Holding | PortfolioPosition,
   opts: { owner?: boolean } = {},
 ): HTMLSpanElement[] {
   const chips: HTMLSpanElement[] = [];

@@ -3,7 +3,8 @@ import type { SecurityKind, SecurityRef } from "@clarity-btc/shared";
 import { el } from "../dom";
 import type { HoldingRow } from "../derive";
 
-export const KIND_LABELS: Record<SecurityKind, string> = {
+export const KIND_LABELS: Record<SecurityKind | "other", string> = {
+  other: "stock",
   direct: "direct",
   "spot-etf": "spot ETF",
   treasury: "BTC treasury",
@@ -13,7 +14,7 @@ export const KIND_LABELS: Record<SecurityKind, string> = {
 };
 
 /** "BTC direct" / "IBIT spot ETF"; `name` (when resolved) becomes a tooltip. */
-export function securityRefLabel(ref: SecurityRef, name?: string): HTMLElement {
+export function securityRefLabel(ref: { ticker: string; kind: SecurityKind | "other" }, name?: string): HTMLElement {
   const attrs: Record<string, string> = { class: "sec" };
   if (name !== undefined) attrs["title"] = name;
   return el(
