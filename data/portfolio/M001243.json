@@ -59,7 +59,7 @@
       "filedDate": "2026-07-29",
       "docUrl": "https://efdsearch.senate.gov/search/view/ptr/19fb5a84-b9f8-4847-841e-84c67a0edfe0/",
       "late": false,
-      "provenance": "official"
+      "provenance": "both"
     },
     {
       "memberId": "M001243",
@@ -75,7 +75,7 @@
       "filedDate": "2026-07-29",
       "docUrl": "https://efdsearch.senate.gov/search/view/ptr/19fb5a84-b9f8-4847-841e-84c67a0edfe0/",
       "late": false,
-      "provenance": "official"
+      "provenance": "both"
     },
     {
       "memberId": "M001243",
@@ -91,7 +91,7 @@
       "filedDate": "2026-07-29",
       "docUrl": "https://efdsearch.senate.gov/search/view/ptr/19fb5a84-b9f8-4847-841e-84c67a0edfe0/",
       "late": false,
-      "provenance": "official"
+      "provenance": "both"
     },
     {
       "memberId": "M001243",
@@ -107,7 +107,7 @@
       "filedDate": "2026-07-29",
       "docUrl": "https://efdsearch.senate.gov/search/view/ptr/19fb5a84-b9f8-4847-841e-84c67a0edfe0/",
       "late": false,
-      "provenance": "official"
+      "provenance": "both"
     },
     {
       "memberId": "M001243",
@@ -123,7 +123,7 @@
       "filedDate": "2026-07-29",
       "docUrl": "https://efdsearch.senate.gov/search/view/ptr/19fb5a84-b9f8-4847-841e-84c67a0edfe0/",
       "late": false,
-      "provenance": "official"
+      "provenance": "both"
     },
     {
       "memberId": "M001243",
@@ -139,7 +139,7 @@
       "filedDate": "2026-07-29",
       "docUrl": "https://efdsearch.senate.gov/search/view/ptr/19fb5a84-b9f8-4847-841e-84c67a0edfe0/",
       "late": false,
-      "provenance": "official"
+      "provenance": "both"
     },
     {
       "memberId": "M001243",
@@ -155,7 +155,7 @@
       "filedDate": "2026-07-29",
       "docUrl": "https://efdsearch.senate.gov/search/view/ptr/19fb5a84-b9f8-4847-841e-84c67a0edfe0/",
       "late": false,
-      "provenance": "official"
+      "provenance": "both"
     },
     {
       "memberId": "M001243",
@@ -172,7 +172,7 @@
       "docUrl": "https://efdsearch.senate.gov/search/view/ptr/19fb5a84-b9f8-4847-841e-84c67a0edfe0/",
       "late": false,
       "note": "partial sale",
-      "provenance": "official"
+      "provenance": "both"
     },
     {
       "memberId": "M001243",
@@ -189,7 +189,7 @@
       "docUrl": "https://efdsearch.senate.gov/search/view/ptr/19fb5a84-b9f8-4847-841e-84c67a0edfe0/",
       "late": false,
       "note": "partial sale",
-      "provenance": "official"
+      "provenance": "both"
     },
     {
       "memberId": "M001243",
@@ -206,7 +206,7 @@
       "docUrl": "https://efdsearch.senate.gov/search/view/ptr/19fb5a84-b9f8-4847-841e-84c67a0edfe0/",
       "late": false,
       "note": "partial sale",
-      "provenance": "official"
+      "provenance": "both"
     },
     {
       "memberId": "M001243",
@@ -223,7 +223,7 @@
       "docUrl": "https://efdsearch.senate.gov/search/view/ptr/19fb5a84-b9f8-4847-841e-84c67a0edfe0/",
       "late": false,
       "note": "partial sale",
-      "provenance": "official"
+      "provenance": "both"
     },
     {
       "memberId": "M001243",
@@ -240,7 +240,7 @@
       "docUrl": "https://efdsearch.senate.gov/search/view/ptr/19fb5a84-b9f8-4847-841e-84c67a0edfe0/",
       "late": false,
       "note": "partial sale",
-      "provenance": "official"
+      "provenance": "both"
     },
     {
       "memberId": "M001243",
@@ -257,7 +257,7 @@
       "docUrl": "https://efdsearch.senate.gov/search/view/ptr/19fb5a84-b9f8-4847-841e-84c67a0edfe0/",
       "late": false,
       "note": "partial sale",
-      "provenance": "official"
+      "provenance": "both"
     },
     {
       "memberId": "M001243",
@@ -274,7 +274,7 @@
       "docUrl": "https://efdsearch.senate.gov/search/view/ptr/19fb5a84-b9f8-4847-841e-84c67a0edfe0/",
       "late": false,
       "note": "partial sale",
-      "provenance": "official"
+      "provenance": "both"
     },
     {
       "memberId": "M001243",
@@ -7375,12 +7375,12 @@
     }
   ],
   "measured": {
-    "return": -26.3,
-    "excess": -51.4,
+    "return": -24.6,
+    "excess": -50,
     "method": "midpoint",
     "benchmark": "SPY",
     "window": "disclosed buys 2025-02-25 to 2025-11-28, since-trade, midpoint-weighted",
-    "asOf": "2026-07-29",
+    "asOf": "2026-07-31",
     "note": "Estimate: position sizes are disclosed-range midpoints, never exact amounts. 255 unpriceable position(s) excluded (options or no resolvable price)."
   }
 }

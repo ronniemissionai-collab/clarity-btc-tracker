@@ -28,6 +28,23 @@
     },
     {
       "memberId": "S001172",
+      "assetRaw": "CarterBaldwin",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2025-07-31",
+      "filedDate": "2026-07-27",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035067.pdf",
+      "late": true,
+      "note": "purchase of CarterBaldwin stock",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S001172",
       "assetRaw": "CarterBaldwin [PS]",
       "security": null,
       "side": "buy",
@@ -152,6 +169,10 @@
     {
       "date": "2024-01-30",
       "value": 8000.5
+    },
+    {
+      "date": "2025-07-31",
+      "value": 32500.5
     },
     {
       "date": "2026-07-31",
