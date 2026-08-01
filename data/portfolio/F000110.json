@@ -351,11 +351,11 @@
       },
       "owner": "self",
       "range": {
-        "lo": 2002,
-        "hi": 30000
+        "lo": 3003,
+        "hi": 45000
       },
       "status": "holds",
-      "asOf": "2026-04-09",
+      "asOf": "2026-07-10",
       "extraction": "pdf-text",
       "verification": "unverified",
       "sources": [
@@ -366,11 +366,31 @@
         {
           "kind": "filing",
           "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034357.pdf"
+        },
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035023.pdf"
         }
       ]
     }
   ],
   "trades": [
+    {
+      "memberId": "F000110",
+      "assetRaw": "Taiwan Semiconductor Manufacturing Company Ltd. (TSM) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-07-10",
+      "filedDate": "2026-07-30",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035023.pdf",
+      "late": false,
+      "provenance": "both"
+    },
     {
       "memberId": "F000110",
       "assetRaw": "NVIDIA Corporation - Common Stock (NVDA) [ST]",
@@ -4088,6 +4108,10 @@
     },
     {
       "date": "2026-06-26",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-07-10",
       "value": 8000.5
     }
   ],

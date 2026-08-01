@@ -6532,8 +6532,26 @@
       "D": 2,
       "I": 0
     },
-    "latestBuyDate": "2026-05-08",
+    "latestBuyDate": "2026-07-10",
     "owners": [
+      {
+        "memberId": "F000110",
+        "name": "Cleo Fields",
+        "party": "D",
+        "chamber": "house",
+        "state": "LA",
+        "active": true,
+        "buyDates": [
+          "2026-07-10",
+          "2026-04-09",
+          "2026-01-08"
+        ],
+        "latestRange": {
+          "lo": 3003,
+          "hi": 45000
+        },
+        "status": "holds"
+      },
       {
         "memberId": "A000372",
         "name": "Rick W. Allen",
@@ -6544,23 +6562,6 @@
         "buyDates": [
           "2026-05-08",
           "2026-02-19"
-        ],
-        "latestRange": {
-          "lo": 2002,
-          "hi": 30000
-        },
-        "status": "holds"
-      },
-      {
-        "memberId": "F000110",
-        "name": "Cleo Fields",
-        "party": "D",
-        "chamber": "house",
-        "state": "LA",
-        "active": true,
-        "buyDates": [
-          "2026-04-09",
-          "2026-01-08"
         ],
         "latestRange": {
           "lo": 2002,
