@@ -356,6 +356,23 @@
   "trades": [
     {
       "memberId": "W000802",
+      "assetRaw": "Lowe&#x27;s Companies, Inc. Common Stock",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-07-20",
+      "filedDate": "2026-08-03",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/96db6e64-f7c3-4483-b0aa-af10ba2bdbbd/",
+      "late": false,
+      "note": "partial sale",
+      "provenance": "official"
+    },
+    {
+      "memberId": "W000802",
       "assetRaw": "NVIDIA Corporation - Common Stock",
       "security": null,
       "side": "sell",
@@ -20473,6 +20490,10 @@
     {
       "date": "2026-06-30",
       "value": 32500.5
+    },
+    {
+      "date": "2026-07-20",
+      "value": 8000.5
     }
   ],
   "measured": null
