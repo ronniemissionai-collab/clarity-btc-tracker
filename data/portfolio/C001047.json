@@ -155,6 +155,91 @@
   "trades": [
     {
       "memberId": "C001047",
+      "assetRaw": "Apple Inc. - Common Stock",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-07-21",
+      "filedDate": "2026-08-04",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/60c01547-0cf9-46c6-9ce6-f0102f5941f6/",
+      "late": false,
+      "note": "partial sale",
+      "provenance": "official"
+    },
+    {
+      "memberId": "C001047",
+      "assetRaw": "Cisco Systems, Inc. - Common Stock",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-07-21",
+      "filedDate": "2026-08-04",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/60c01547-0cf9-46c6-9ce6-f0102f5941f6/",
+      "late": false,
+      "note": "partial sale",
+      "provenance": "official"
+    },
+    {
+      "memberId": "C001047",
+      "assetRaw": "Coca-Cola Company (The) Common Stock",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-07-21",
+      "filedDate": "2026-08-04",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/60c01547-0cf9-46c6-9ce6-f0102f5941f6/",
+      "late": false,
+      "note": "partial sale",
+      "provenance": "official"
+    },
+    {
+      "memberId": "C001047",
+      "assetRaw": "Intel Corporation - Common Stock",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-07-21",
+      "filedDate": "2026-08-04",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/60c01547-0cf9-46c6-9ce6-f0102f5941f6/",
+      "late": false,
+      "note": "partial sale",
+      "provenance": "official"
+    },
+    {
+      "memberId": "C001047",
+      "assetRaw": "Microsoft Corporation - Common Stock",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2026-07-21",
+      "filedDate": "2026-08-04",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/60c01547-0cf9-46c6-9ce6-f0102f5941f6/",
+      "late": false,
+      "note": "partial sale",
+      "provenance": "official"
+    },
+    {
+      "memberId": "C001047",
       "assetRaw": "Citigroup New Inc (C)",
       "security": null,
       "side": "sell",
@@ -14923,6 +15008,26 @@
     {
       "date": "2026-06-16",
       "value": 8000.5
+    },
+    {
+      "date": "2026-07-21",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-07-21",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-07-21",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-07-21",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-07-21",
+      "value": 32500.5
     }
   ],
   "measured": null

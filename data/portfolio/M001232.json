@@ -71,17 +71,21 @@
       },
       "owner": "dependent",
       "range": {
-        "lo": 32004,
-        "hi": 130000
+        "lo": 49007,
+        "hi": 210000
       },
       "status": "holds",
-      "asOf": "2026-05-15",
+      "asOf": "2026-07-30",
       "extraction": "pdf-text",
       "verification": "unverified",
       "sources": [
         {
           "kind": "filing",
           "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034718.pdf"
+        },
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035118.pdf"
         }
       ]
     },
@@ -116,11 +120,11 @@
       },
       "owner": "dependent",
       "range": {
-        "lo": 2002,
-        "hi": 107997
+        "lo": 35007,
+        "hi": 252997
       },
       "status": "holds",
-      "asOf": "2026-05-28",
+      "asOf": "2026-07-31",
       "extraction": "pdf-text",
       "verification": "unverified",
       "sources": [
@@ -135,6 +139,10 @@
         {
           "kind": "filing",
           "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034718.pdf"
+        },
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035118.pdf"
         }
       ],
       "note": "partial sale 2026-04-24; partial sale 2026-05-15; partial sale 2026-05-18"
@@ -148,10 +156,10 @@
       "owner": "dependent",
       "range": {
         "lo": 0,
-        "hi": 62998
+        "hi": 59995
       },
       "status": "holds",
-      "asOf": "2026-05-01",
+      "asOf": "2026-07-28",
       "extraction": "pdf-text",
       "verification": "unverified",
       "sources": [
@@ -170,9 +178,13 @@
         {
           "kind": "filing",
           "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034718.pdf"
+        },
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035118.pdf"
         }
       ],
-      "note": "partial sale 2026-04-30; partial sale 2026-05-01"
+      "note": "partial sale 2026-04-30; partial sale 2026-05-01; partial sale 2026-07-24; partial sale 2026-07-27; partial sale 2026-07-28"
     },
     {
       "memberId": "M001232",
@@ -213,11 +225,11 @@
       },
       "owner": "dependent",
       "range": {
-        "lo": 7007,
-        "hi": 105000
+        "lo": 9009,
+        "hi": 135000
       },
       "status": "holds",
-      "asOf": "2026-06-08",
+      "asOf": "2026-07-30",
       "extraction": "pdf-text",
       "verification": "unverified",
       "sources": [
@@ -236,6 +248,10 @@
         {
           "kind": "filing",
           "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034932.pdf"
+        },
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035118.pdf"
         }
       ]
     },
@@ -265,16 +281,38 @@
     {
       "memberId": "M001232",
       "security": {
+        "ticker": "FWONK",
+        "kind": "other"
+      },
+      "owner": "dependent",
+      "range": {
+        "lo": 62006,
+        "hi": 230000
+      },
+      "status": "holds",
+      "asOf": "2026-07-31",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035118.pdf"
+        }
+      ]
+    },
+    {
+      "memberId": "M001232",
+      "security": {
         "ticker": "HUBB",
         "kind": "other"
       },
       "owner": "dependent",
       "range": {
-        "lo": 25011,
-        "hi": 200000
+        "lo": 40012,
+        "hi": 250000
       },
       "status": "holds",
-      "asOf": "2026-06-17",
+      "asOf": "2026-07-23",
       "extraction": "pdf-text",
       "verification": "unverified",
       "sources": [
@@ -285,6 +323,10 @@
         {
           "kind": "filing",
           "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034932.pdf"
+        },
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035118.pdf"
         }
       ]
     },
@@ -363,16 +405,38 @@
     {
       "memberId": "M001232",
       "security": {
+        "ticker": "LTH",
+        "kind": "other"
+      },
+      "owner": "dependent",
+      "range": {
+        "lo": 37009,
+        "hi": 205000
+      },
+      "status": "holds",
+      "asOf": "2026-07-31",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035118.pdf"
+        }
+      ]
+    },
+    {
+      "memberId": "M001232",
+      "security": {
         "ticker": "LYV",
         "kind": "other"
       },
       "owner": "dependent",
       "range": {
         "lo": 0,
-        "hi": 11997
+        "hi": 9995
       },
       "status": "holds",
-      "asOf": "2026-06-12",
+      "asOf": "2026-07-21",
       "extraction": "pdf-text",
       "verification": "unverified",
       "sources": [
@@ -383,9 +447,13 @@
         {
           "kind": "filing",
           "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034932.pdf"
+        },
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035118.pdf"
         }
       ],
-      "note": "partial sale 2026-06-01; partial sale 2026-06-02; partial sale 2026-06-12"
+      "note": "partial sale 2026-06-01; partial sale 2026-06-02; partial sale 2026-06-12; partial sale 2026-07-20; partial sale 2026-07-21"
     },
     {
       "memberId": "M001232",
@@ -395,11 +463,11 @@
       },
       "owner": "dependent",
       "range": {
-        "lo": 2002,
-        "hi": 30000
+        "lo": 0,
+        "hi": 25996
       },
       "status": "holds",
-      "asOf": "2026-05-01",
+      "asOf": "2026-07-29",
       "extraction": "pdf-text",
       "verification": "unverified",
       "sources": [
@@ -410,8 +478,13 @@
         {
           "kind": "filing",
           "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034718.pdf"
+        },
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035118.pdf"
         }
-      ]
+      ],
+      "note": "partial sale 2026-07-24; partial sale 2026-07-27; partial sale 2026-07-28; partial sale 2026-07-29"
     },
     {
       "memberId": "M001232",
@@ -421,11 +494,11 @@
       },
       "owner": "dependent",
       "range": {
-        "lo": 3003,
-        "hi": 45000
+        "lo": 20006,
+        "hi": 125000
       },
       "status": "holds",
-      "asOf": "2026-05-28",
+      "asOf": "2026-07-24",
       "extraction": "pdf-text",
       "verification": "unverified",
       "sources": [
@@ -440,6 +513,10 @@
         {
           "kind": "filing",
           "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034718.pdf"
+        },
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035118.pdf"
         }
       ]
     },
@@ -583,17 +660,21 @@
       },
       "owner": "dependent",
       "range": {
-        "lo": 4004,
-        "hi": 60000
+        "lo": 19005,
+        "hi": 110000
       },
       "status": "holds",
-      "asOf": "2026-03-31",
+      "asOf": "2026-07-30",
       "extraction": "pdf-text",
       "verification": "unverified",
       "sources": [
         {
           "kind": "filing",
           "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034299.pdf"
+        },
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035118.pdf"
         }
       ]
     },
@@ -605,11 +686,11 @@
       },
       "owner": "dependent",
       "range": {
-        "lo": 3003,
-        "hi": 45000
+        "lo": 0,
+        "hi": 40996
       },
       "status": "holds",
-      "asOf": "2026-04-30",
+      "asOf": "2026-07-31",
       "extraction": "pdf-text",
       "verification": "unverified",
       "sources": [
@@ -624,8 +705,13 @@
         {
           "kind": "filing",
           "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034487.pdf"
+        },
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035118.pdf"
         }
-      ]
+      ],
+      "note": "partial sale 2026-07-24; partial sale 2026-07-27; partial sale 2026-07-29; partial sale 2026-07-31"
     },
     {
       "memberId": "M001232",
@@ -635,11 +721,11 @@
       },
       "owner": "dependent",
       "range": {
-        "lo": 24010,
-        "hi": 185000
+        "lo": 25011,
+        "hi": 200000
       },
       "status": "holds",
-      "asOf": "2026-05-22",
+      "asOf": "2026-07-28",
       "extraction": "pdf-text",
       "verification": "unverified",
       "sources": [
@@ -650,6 +736,10 @@
         {
           "kind": "filing",
           "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034718.pdf"
+        },
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035118.pdf"
         }
       ]
     },
@@ -701,10 +791,10 @@
       "owner": "dependent",
       "range": {
         "lo": 0,
-        "hi": 83994
+        "hi": 68993
       },
       "status": "holds",
-      "asOf": "2026-05-28",
+      "asOf": "2026-07-27",
       "extraction": "pdf-text",
       "verification": "unverified",
       "sources": [
@@ -723,12 +813,1021 @@
         {
           "kind": "filing",
           "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034718.pdf"
+        },
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035118.pdf"
         }
       ],
-      "note": "partial sale 2026-05-15; partial sale 2026-05-18; partial sale 2026-05-22; partial sale 2026-05-26; partial sale 2026-05-27; partial sale 2026-05-28"
+      "note": "partial sale 2026-05-15; partial sale 2026-05-18; partial sale 2026-05-22; partial sale 2026-05-26; partial sale 2026-05-27; partial sale 2026-05-28; partial sale 2026-07-27"
     }
   ],
   "trades": [
+    {
+      "memberId": "M001232",
+      "assetRaw": "C.H. Robinson Worldwide, Inc. - Common Stock (CHRW) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "dependent",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2026-07-31",
+      "filedDate": "2026-08-03",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035118.pdf",
+      "late": false,
+      "provenance": "official"
+    },
+    {
+      "memberId": "M001232",
+      "assetRaw": "Corpay, Inc. Common Stock (CPAY) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-07-31",
+      "filedDate": "2026-08-03",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035118.pdf",
+      "late": false,
+      "note": "partial sale",
+      "provenance": "official"
+    },
+    {
+      "memberId": "M001232",
+      "assetRaw": "Liberty Media Corporation - Series C Liberty Formula One Common Stock (FWONK) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "dependent",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2026-07-31",
+      "filedDate": "2026-08-03",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035118.pdf",
+      "late": false,
+      "provenance": "official"
+    },
+    {
+      "memberId": "M001232",
+      "assetRaw": "Life Time Group Holdings, Inc. Common Stock (LTH) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "dependent",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2026-07-31",
+      "filedDate": "2026-08-03",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035118.pdf",
+      "late": false,
+      "provenance": "official"
+    },
+    {
+      "memberId": "M001232",
+      "assetRaw": "STERIS plc (STE) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-07-31",
+      "filedDate": "2026-08-03",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035118.pdf",
+      "late": false,
+      "note": "partial sale",
+      "provenance": "official"
+    },
+    {
+      "memberId": "M001232",
+      "assetRaw": "BWX Technologies, Inc. Common Stock (BWXT) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-07-30",
+      "filedDate": "2026-08-03",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035118.pdf",
+      "late": false,
+      "provenance": "official"
+    },
+    {
+      "memberId": "M001232",
+      "assetRaw": "Corpay, Inc. Common Stock (CPAY) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-07-30",
+      "filedDate": "2026-08-03",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035118.pdf",
+      "late": false,
+      "note": "partial sale",
+      "provenance": "official"
+    },
+    {
+      "memberId": "M001232",
+      "assetRaw": "Entegris, Inc. - Common Stock (ENTG) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-07-30",
+      "filedDate": "2026-08-03",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035118.pdf",
+      "late": false,
+      "provenance": "official"
+    },
+    {
+      "memberId": "M001232",
+      "assetRaw": "Life Time Group Holdings, Inc. Common Stock (LTH) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-07-30",
+      "filedDate": "2026-08-03",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035118.pdf",
+      "late": false,
+      "provenance": "official"
+    },
+    {
+      "memberId": "M001232",
+      "assetRaw": "Service Corporation International Common Stock (SCI) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-07-30",
+      "filedDate": "2026-08-03",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035118.pdf",
+      "late": false,
+      "note": "partial sale",
+      "provenance": "official"
+    },
+    {
+      "memberId": "M001232",
+      "assetRaw": "Somnigroup International Inc. Common Stock (SGI) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "dependent",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2026-07-30",
+      "filedDate": "2026-08-03",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035118.pdf",
+      "late": false,
+      "provenance": "official"
+    },
+    {
+      "memberId": "M001232",
+      "assetRaw": "Liberty Media Corporation - Series C Liberty Formula One Common Stock (FWONK) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-07-29",
+      "filedDate": "2026-08-03",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035118.pdf",
+      "late": false,
+      "provenance": "official"
+    },
+    {
+      "memberId": "M001232",
+      "assetRaw": "Life Time Group Holdings, Inc. Common Stock (LTH) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-07-29",
+      "filedDate": "2026-08-03",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035118.pdf",
+      "late": false,
+      "provenance": "official"
+    },
+    {
+      "memberId": "M001232",
+      "assetRaw": "Markel Group Inc. Common Stock (MKL) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-07-29",
+      "filedDate": "2026-08-03",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035118.pdf",
+      "late": false,
+      "note": "partial sale",
+      "provenance": "official"
+    },
+    {
+      "memberId": "M001232",
+      "assetRaw": "STERIS plc (STE) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-07-29",
+      "filedDate": "2026-08-03",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035118.pdf",
+      "late": false,
+      "note": "partial sale",
+      "provenance": "official"
+    },
+    {
+      "memberId": "M001232",
+      "assetRaw": "C.H. Robinson Worldwide, Inc. - Common Stock (CHRW) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-07-28",
+      "filedDate": "2026-08-03",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035118.pdf",
+      "late": false,
+      "provenance": "official"
+    },
+    {
+      "memberId": "M001232",
+      "assetRaw": "Clean Harbors, Inc. Common Stock (CLH) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-07-28",
+      "filedDate": "2026-08-03",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035118.pdf",
+      "late": false,
+      "note": "partial sale",
+      "provenance": "official"
+    },
+    {
+      "memberId": "M001232",
+      "assetRaw": "Corpay, Inc. Common Stock (CPAY) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-07-28",
+      "filedDate": "2026-08-03",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035118.pdf",
+      "late": false,
+      "note": "partial sale",
+      "provenance": "official"
+    },
+    {
+      "memberId": "M001232",
+      "assetRaw": "Liberty Media Corporation - Series C Liberty Formula One Common Stock (FWONK) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "dependent",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2026-07-28",
+      "filedDate": "2026-08-03",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035118.pdf",
+      "late": false,
+      "provenance": "official"
+    },
+    {
+      "memberId": "M001232",
+      "assetRaw": "Life Time Group Holdings, Inc. Common Stock (LTH) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-07-28",
+      "filedDate": "2026-08-03",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035118.pdf",
+      "late": false,
+      "provenance": "official"
+    },
+    {
+      "memberId": "M001232",
+      "assetRaw": "Markel Group Inc. Common Stock (MKL) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-07-28",
+      "filedDate": "2026-08-03",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035118.pdf",
+      "late": false,
+      "note": "partial sale",
+      "provenance": "official"
+    },
+    {
+      "memberId": "M001232",
+      "assetRaw": "Transdigm Group Incorporated Common Stock (TDG) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-07-28",
+      "filedDate": "2026-08-03",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035118.pdf",
+      "late": false,
+      "provenance": "official"
+    },
+    {
+      "memberId": "M001232",
+      "assetRaw": "Westinghouse Air Brake Technologies Corporation Common Stock (WAB) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-07-28",
+      "filedDate": "2026-08-03",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035118.pdf",
+      "late": false,
+      "note": "partial sale",
+      "provenance": "official"
+    },
+    {
+      "memberId": "M001232",
+      "assetRaw": "BWX Technologies, Inc. Common Stock (BWXT) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-07-27",
+      "filedDate": "2026-08-03",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035118.pdf",
+      "late": false,
+      "provenance": "official"
+    },
+    {
+      "memberId": "M001232",
+      "assetRaw": "C.H. Robinson Worldwide, Inc. - Common Stock (CHRW) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "dependent",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2026-07-27",
+      "filedDate": "2026-08-03",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035118.pdf",
+      "late": false,
+      "provenance": "official"
+    },
+    {
+      "memberId": "M001232",
+      "assetRaw": "Clean Harbors, Inc. Common Stock (CLH) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-07-27",
+      "filedDate": "2026-08-03",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035118.pdf",
+      "late": false,
+      "note": "partial sale",
+      "provenance": "official"
+    },
+    {
+      "memberId": "M001232",
+      "assetRaw": "Life Time Group Holdings, Inc. Common Stock (LTH) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-07-27",
+      "filedDate": "2026-08-03",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035118.pdf",
+      "late": false,
+      "provenance": "official"
+    },
+    {
+      "memberId": "M001232",
+      "assetRaw": "Markel Group Inc. Common Stock (MKL) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-07-27",
+      "filedDate": "2026-08-03",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035118.pdf",
+      "late": false,
+      "note": "partial sale",
+      "provenance": "official"
+    },
+    {
+      "memberId": "M001232",
+      "assetRaw": "STERIS plc (STE) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-07-27",
+      "filedDate": "2026-08-03",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035118.pdf",
+      "late": false,
+      "note": "partial sale",
+      "provenance": "official"
+    },
+    {
+      "memberId": "M001232",
+      "assetRaw": "Service Corporation International Common Stock (SCI) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-07-27",
+      "filedDate": "2026-08-03",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035118.pdf",
+      "late": false,
+      "note": "partial sale",
+      "provenance": "official"
+    },
+    {
+      "memberId": "M001232",
+      "assetRaw": "Tractor Supply Company - Common Stock (TSCO) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "dependent",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2026-07-27",
+      "filedDate": "2026-08-03",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035118.pdf",
+      "late": false,
+      "note": "partial sale",
+      "provenance": "official"
+    },
+    {
+      "memberId": "M001232",
+      "assetRaw": "BWX Technologies, Inc. Common Stock (BWXT) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "dependent",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2026-07-24",
+      "filedDate": "2026-08-03",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035118.pdf",
+      "late": false,
+      "provenance": "official"
+    },
+    {
+      "memberId": "M001232",
+      "assetRaw": "C.H. Robinson Worldwide, Inc. - Common Stock (CHRW) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-07-24",
+      "filedDate": "2026-08-03",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035118.pdf",
+      "late": false,
+      "provenance": "official"
+    },
+    {
+      "memberId": "M001232",
+      "assetRaw": "Clean Harbors, Inc. Common Stock (CLH) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-07-24",
+      "filedDate": "2026-08-03",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035118.pdf",
+      "late": false,
+      "note": "partial sale",
+      "provenance": "official"
+    },
+    {
+      "memberId": "M001232",
+      "assetRaw": "Liberty Media Corporation - Series C Liberty Formula One Common Stock (FWONK) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "dependent",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2026-07-24",
+      "filedDate": "2026-08-03",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035118.pdf",
+      "late": false,
+      "provenance": "official"
+    },
+    {
+      "memberId": "M001232",
+      "assetRaw": "Life Time Group Holdings, Inc. Common Stock (LTH) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "dependent",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2026-07-24",
+      "filedDate": "2026-08-03",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035118.pdf",
+      "late": false,
+      "provenance": "official"
+    },
+    {
+      "memberId": "M001232",
+      "assetRaw": "Markel Group Inc. Common Stock (MKL) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-07-24",
+      "filedDate": "2026-08-03",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035118.pdf",
+      "late": false,
+      "note": "partial sale",
+      "provenance": "official"
+    },
+    {
+      "memberId": "M001232",
+      "assetRaw": "Martin Marietta Materials, Inc. Common Stock (MLM) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "dependent",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2026-07-24",
+      "filedDate": "2026-08-03",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035118.pdf",
+      "late": false,
+      "provenance": "official"
+    },
+    {
+      "memberId": "M001232",
+      "assetRaw": "STERIS plc (STE) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-07-24",
+      "filedDate": "2026-08-03",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035118.pdf",
+      "late": false,
+      "note": "partial sale",
+      "provenance": "official"
+    },
+    {
+      "memberId": "M001232",
+      "assetRaw": "Hubbell Inc Common Stock (HUBB) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "dependent",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2026-07-23",
+      "filedDate": "2026-08-03",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035118.pdf",
+      "late": false,
+      "provenance": "official"
+    },
+    {
+      "memberId": "M001232",
+      "assetRaw": "Liberty Media Corporation - Series C Liberty Formula One Common Stock (FWONK) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "dependent",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2026-07-23",
+      "filedDate": "2026-08-03",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035118.pdf",
+      "late": false,
+      "provenance": "official"
+    },
+    {
+      "memberId": "M001232",
+      "assetRaw": "Viking Holdings Ltd Ordinary Shares (VIK) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-07-23",
+      "filedDate": "2026-08-03",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035118.pdf",
+      "late": false,
+      "note": "partial sale",
+      "provenance": "official"
+    },
+    {
+      "memberId": "M001232",
+      "assetRaw": "Westinghouse Air Brake Technologies Corporation Common Stock (WAB) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "dependent",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2026-07-23",
+      "filedDate": "2026-08-03",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035118.pdf",
+      "late": false,
+      "note": "partial sale",
+      "provenance": "official"
+    },
+    {
+      "memberId": "M001232",
+      "assetRaw": "C.H. Robinson Worldwide, Inc. -",
+      "security": null,
+      "side": "buy",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-07-22",
+      "filedDate": "2026-08-03",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035118.pdf",
+      "late": false,
+      "provenance": "official"
+    },
+    {
+      "memberId": "M001232",
+      "assetRaw": "Liberty Media Corporation - Series C Liberty Formula One Common Stock (FWONK) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-07-22",
+      "filedDate": "2026-08-03",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035118.pdf",
+      "late": false,
+      "provenance": "official"
+    },
+    {
+      "memberId": "M001232",
+      "assetRaw": "Life Time Group Holdings, Inc. Common Stock (LTH) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-07-21",
+      "filedDate": "2026-08-03",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035118.pdf",
+      "late": false,
+      "provenance": "official"
+    },
+    {
+      "memberId": "M001232",
+      "assetRaw": "Live Nation Entertainment, Inc. Common Stock (LYV) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-07-21",
+      "filedDate": "2026-08-03",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035118.pdf",
+      "late": false,
+      "note": "partial sale",
+      "provenance": "official"
+    },
+    {
+      "memberId": "M001232",
+      "assetRaw": "C.H. Robinson Worldwide, Inc. - Common Stock (CHRW) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-07-20",
+      "filedDate": "2026-08-03",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035118.pdf",
+      "late": false,
+      "provenance": "official"
+    },
+    {
+      "memberId": "M001232",
+      "assetRaw": "Life Time Group Holdings, Inc. Common Stock (LTH) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-07-20",
+      "filedDate": "2026-08-03",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035118.pdf",
+      "late": false,
+      "provenance": "official"
+    },
+    {
+      "memberId": "M001232",
+      "assetRaw": "Live Nation Entertainment, Inc. Common Stock (LYV) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-07-20",
+      "filedDate": "2026-08-03",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035118.pdf",
+      "late": false,
+      "note": "partial sale",
+      "provenance": "official"
+    },
+    {
+      "memberId": "M001232",
+      "assetRaw": "Martin Marietta Materials, Inc. Common Stock (MLM) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-07-20",
+      "filedDate": "2026-08-03",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035118.pdf",
+      "late": false,
+      "provenance": "official"
+    },
+    {
+      "memberId": "M001232",
+      "assetRaw": "Service Corporation International Common Stock (SCI) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-07-20",
+      "filedDate": "2026-08-03",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035118.pdf",
+      "late": false,
+      "note": "partial sale",
+      "provenance": "official"
+    },
+    {
+      "memberId": "M001232",
+      "assetRaw": "Corpay, Inc. Common Stock (CPAY) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-07-17",
+      "filedDate": "2026-08-03",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035118.pdf",
+      "late": false,
+      "note": "partial sale",
+      "provenance": "official"
+    },
+    {
+      "memberId": "M001232",
+      "assetRaw": "Life Time Group Holdings, Inc. Common Stock (LTH) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-07-17",
+      "filedDate": "2026-08-03",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035118.pdf",
+      "late": false,
+      "provenance": "official"
+    },
+    {
+      "memberId": "M001232",
+      "assetRaw": "Martin Marietta Materials, Inc. Common Stock (MLM) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-07-17",
+      "filedDate": "2026-08-03",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035118.pdf",
+      "late": false,
+      "provenance": "official"
+    },
+    {
+      "memberId": "M001232",
+      "assetRaw": "Service Corporation International Common Stock (SCI) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-07-17",
+      "filedDate": "2026-08-03",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035118.pdf",
+      "late": false,
+      "note": "partial sale",
+      "provenance": "official"
+    },
+    {
+      "memberId": "M001232",
+      "assetRaw": "Corpay, Inc. Common Stock (CPAY) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-07-16",
+      "filedDate": "2026-08-03",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035118.pdf",
+      "late": false,
+      "note": "partial sale",
+      "provenance": "official"
+    },
+    {
+      "memberId": "M001232",
+      "assetRaw": "Corpay, Inc. Common Stock (CPAY) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-07-15",
+      "filedDate": "2026-08-03",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035118.pdf",
+      "late": false,
+      "note": "partial sale",
+      "provenance": "official"
+    },
+    {
+      "memberId": "M001232",
+      "assetRaw": "Entegris, Inc. - Common Stock (ENTG) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-07-08",
+      "filedDate": "2026-08-03",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035118.pdf",
+      "late": false,
+      "provenance": "official"
+    },
+    {
+      "memberId": "M001232",
+      "assetRaw": "Service Corporation International Common Stock (SCI) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-07-08",
+      "filedDate": "2026-08-03",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035118.pdf",
+      "late": false,
+      "note": "partial sale",
+      "provenance": "official"
+    },
+    {
+      "memberId": "M001232",
+      "assetRaw": "Service Corporation International Common Stock (SCI) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-07-02",
+      "filedDate": "2026-08-03",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035118.pdf",
+      "late": false,
+      "note": "partial sale",
+      "provenance": "official"
+    },
     {
       "memberId": "M001232",
       "assetRaw": "Hubbell Inc Common Stock (HUBB) [ST]",
@@ -7729,6 +8828,250 @@
     },
     {
       "date": "2026-06-17",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-07-02",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-07-08",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-07-08",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-07-15",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-07-16",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-07-17",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-07-17",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-07-17",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-07-17",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-07-20",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-07-20",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-07-20",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-07-20",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-07-20",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-07-21",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-07-21",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-07-22",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-07-22",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-07-23",
+      "value": 32500.5
+    },
+    {
+      "date": "2026-07-23",
+      "value": 32500.5
+    },
+    {
+      "date": "2026-07-23",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-07-23",
+      "value": 32500.5
+    },
+    {
+      "date": "2026-07-24",
+      "value": 32500.5
+    },
+    {
+      "date": "2026-07-24",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-07-24",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-07-24",
+      "value": 32500.5
+    },
+    {
+      "date": "2026-07-24",
+      "value": 32500.5
+    },
+    {
+      "date": "2026-07-24",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-07-24",
+      "value": 32500.5
+    },
+    {
+      "date": "2026-07-24",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-07-27",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-07-27",
+      "value": 32500.5
+    },
+    {
+      "date": "2026-07-27",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-07-27",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-07-27",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-07-27",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-07-27",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-07-27",
+      "value": 32500.5
+    },
+    {
+      "date": "2026-07-28",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-07-28",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-07-28",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-07-28",
+      "value": 32500.5
+    },
+    {
+      "date": "2026-07-28",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-07-28",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-07-28",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-07-28",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-07-29",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-07-29",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-07-29",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-07-29",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-07-30",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-07-30",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-07-30",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-07-30",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-07-30",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-07-30",
+      "value": 32500.5
+    },
+    {
+      "date": "2026-07-31",
+      "value": 32500.5
+    },
+    {
+      "date": "2026-07-31",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-07-31",
+      "value": 32500.5
+    },
+    {
+      "date": "2026-07-31",
+      "value": 32500.5
+    },
+    {
+      "date": "2026-07-31",
       "value": 8000.5
     }
   ],
