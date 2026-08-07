@@ -104,6 +104,22 @@
   "trades": [
     {
       "memberId": "M001136",
+      "assetRaw": "Saronic Technologies [PS]",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2026-07-15",
+      "filedDate": "2026-08-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035131.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "M001136",
       "assetRaw": "BigBear.ai, Inc. Common Stock (BBAI) [ST]",
       "security": null,
       "side": "buy",
@@ -28642,15 +28658,19 @@
     {
       "date": "2026-02-06",
       "value": 32500.5
+    },
+    {
+      "date": "2026-07-15",
+      "value": 75000.5
     }
   ],
   "measured": {
-    "return": 36,
-    "excess": 11.7,
+    "return": 35.1,
+    "excess": 11.3,
     "method": "midpoint",
     "benchmark": "SPY",
     "window": "disclosed buys 2024-03-11 to 2026-02-06, since-trade, midpoint-weighted",
-    "asOf": "2026-08-06",
-    "note": "Estimate: position sizes are disclosed-range midpoints, never exact amounts. 26 unpriceable position(s) excluded (options or no resolvable price)."
+    "asOf": "2026-08-07",
+    "note": "Estimate: position sizes are disclosed-range midpoints, never exact amounts. 27 unpriceable position(s) excluded (options or no resolvable price)."
   }
 }

@@ -6066,7 +6066,7 @@
         "lo": 15001,
         "hi": 50000
       },
-      "status": "holds",
+      "status": "stale",
       "asOf": "2025-08-06",
       "extraction": "pdf-text",
       "verification": "unverified",
@@ -57766,12 +57766,12 @@
     }
   ],
   "measured": {
-    "return": 83.5,
-    "excess": 9.7,
+    "return": 83.7,
+    "excess": 10.5,
     "method": "midpoint",
     "benchmark": "SPY",
     "window": "disclosed buys 2019-01-18 to 2026-06-30, since-trade, midpoint-weighted",
-    "asOf": "2026-08-06",
+    "asOf": "2026-08-07",
     "note": "Estimate: position sizes are disclosed-range midpoints, never exact amounts. 154 unpriceable position(s) excluded (options or no resolvable price)."
   }
 }

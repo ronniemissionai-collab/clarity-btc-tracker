@@ -163,11 +163,11 @@
       },
       "owner": "self",
       "range": {
-        "lo": 2002,
-        "hi": 30000
+        "lo": 3003,
+        "hi": 45000
       },
       "status": "holds",
-      "asOf": "2026-04-01",
+      "asOf": "2026-07-01",
       "extraction": "pdf-text",
       "verification": "unverified",
       "sources": [
@@ -178,6 +178,10 @@
         {
           "kind": "filing",
           "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034486.pdf"
+        },
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035136.pdf"
         }
       ]
     },
@@ -239,6 +243,22 @@
     }
   ],
   "trades": [
+    {
+      "memberId": "D000399",
+      "assetRaw": "Coca-Cola Company (KO) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-07-01",
+      "filedDate": "2026-08-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035136.pdf",
+      "late": false,
+      "provenance": "both"
+    },
     {
       "memberId": "D000399",
       "assetRaw": "Home Depot, Inc. (HD) [ST]",
@@ -3643,6 +3663,10 @@
     },
     {
       "date": "2026-06-18",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-07-01",
       "value": 8000.5
     }
   ],

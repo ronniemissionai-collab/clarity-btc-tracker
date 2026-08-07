@@ -4112,6 +4112,22 @@
           "hi": 15000
         },
         "status": "stale"
+      },
+      {
+        "memberId": "J000310",
+        "name": "Julie Johnson",
+        "party": "D",
+        "chamber": "house",
+        "state": "TX",
+        "active": true,
+        "buyDates": [
+          "2025-09-23"
+        ],
+        "latestRange": {
+          "lo": 1001,
+          "hi": 15000
+        },
+        "status": "sold"
       }
     ]
   },
@@ -4221,7 +4237,7 @@
       "D": 2,
       "I": 0
     },
-    "latestBuyDate": "2026-04-01",
+    "latestBuyDate": "2026-07-01",
     "owners": [
       {
         "memberId": "D000399",
@@ -4231,12 +4247,13 @@
         "state": "TX",
         "active": true,
         "buyDates": [
+          "2026-07-01",
           "2026-04-01",
           "2025-12-15"
         ],
         "latestRange": {
-          "lo": 2002,
-          "hi": 30000
+          "lo": 3003,
+          "hi": 45000
         },
         "status": "holds"
       },
@@ -5011,13 +5028,15 @@
         "status": "stale"
       },
       {
-        "memberId": "R000603",
-        "name": "David Rouzer",
-        "party": "R",
+        "memberId": "J000310",
+        "name": "Julie Johnson",
+        "party": "D",
         "chamber": "house",
-        "state": "NC",
+        "state": "TX",
         "active": true,
-        "buyDates": [],
+        "buyDates": [
+          "2025-12-02"
+        ],
         "latestRange": {
           "lo": 1001,
           "hi": 15000
@@ -5025,11 +5044,11 @@
         "status": "sold"
       },
       {
-        "memberId": "J000310",
-        "name": "Julie Johnson",
-        "party": "D",
+        "memberId": "R000603",
+        "name": "David Rouzer",
+        "party": "R",
         "chamber": "house",
-        "state": "TX",
+        "state": "NC",
         "active": true,
         "buyDates": [],
         "latestRange": {
@@ -7685,7 +7704,9 @@
         "chamber": "house",
         "state": "TX",
         "active": true,
-        "buyDates": [],
+        "buyDates": [
+          "2025-10-03"
+        ],
         "latestRange": {
           "lo": 1001,
           "hi": 15000
@@ -11243,6 +11264,22 @@
         "status": "sold"
       },
       {
+        "memberId": "J000310",
+        "name": "Julie Johnson",
+        "party": "D",
+        "chamber": "house",
+        "state": "TX",
+        "active": true,
+        "buyDates": [
+          "2025-09-23"
+        ],
+        "latestRange": {
+          "lo": 1001,
+          "hi": 15000
+        },
+        "status": "sold"
+      },
+      {
         "memberId": "L000595",
         "name": "Julia Letlow",
         "party": "R",
@@ -11269,20 +11306,6 @@
         "latestRange": {
           "lo": 2002,
           "hi": 30000
-        },
-        "status": "sold"
-      },
-      {
-        "memberId": "J000310",
-        "name": "Julie Johnson",
-        "party": "D",
-        "chamber": "house",
-        "state": "TX",
-        "active": true,
-        "buyDates": [],
-        "latestRange": {
-          "lo": 1001,
-          "hi": 15000
         },
         "status": "sold"
       }
@@ -11679,6 +11702,22 @@
         "status": "holds"
       },
       {
+        "memberId": "J000310",
+        "name": "Julie Johnson",
+        "party": "D",
+        "chamber": "house",
+        "state": "TX",
+        "active": true,
+        "buyDates": [
+          "2025-10-21"
+        ],
+        "latestRange": {
+          "lo": 1001,
+          "hi": 15000
+        },
+        "status": "sold"
+      },
+      {
         "memberId": "L000595",
         "name": "Julia Letlow",
         "party": "R",
@@ -11724,20 +11763,6 @@
         "latestRange": {
           "lo": 15001,
           "hi": 50000
-        },
-        "status": "sold"
-      },
-      {
-        "memberId": "J000310",
-        "name": "Julie Johnson",
-        "party": "D",
-        "chamber": "house",
-        "state": "TX",
-        "active": true,
-        "buyDates": [],
-        "latestRange": {
-          "lo": 1001,
-          "hi": 15000
         },
         "status": "sold"
       },
@@ -12414,6 +12439,22 @@
           "hi": 150000
         },
         "status": "stale"
+      },
+      {
+        "memberId": "J000310",
+        "name": "Julie Johnson",
+        "party": "D",
+        "chamber": "house",
+        "state": "TX",
+        "active": true,
+        "buyDates": [
+          "2025-10-03"
+        ],
+        "latestRange": {
+          "lo": 1001,
+          "hi": 15000
+        },
+        "status": "sold"
       }
     ]
   },
@@ -13483,6 +13524,53 @@
   },
   {
     "security": {
+      "ticker": "LYB",
+      "kind": "other"
+    },
+    "ownersCount": 2,
+    "partySplit": {
+      "R": 0,
+      "D": 2,
+      "I": 0
+    },
+    "latestBuyDate": "2026-01-09",
+    "owners": [
+      {
+        "memberId": "C001123",
+        "name": "Gil Cisneros",
+        "party": "D",
+        "chamber": "house",
+        "state": "CA",
+        "active": true,
+        "buyDates": [
+          "2026-01-09"
+        ],
+        "latestRange": {
+          "lo": 1001,
+          "hi": 15000
+        },
+        "status": "holds"
+      },
+      {
+        "memberId": "J000310",
+        "name": "Julie Johnson",
+        "party": "D",
+        "chamber": "house",
+        "state": "TX",
+        "active": true,
+        "buyDates": [
+          "2025-09-23"
+        ],
+        "latestRange": {
+          "lo": 1001,
+          "hi": 15000
+        },
+        "status": "holds"
+      }
+    ]
+  },
+  {
+    "security": {
       "ticker": "MKL",
       "kind": "other"
     },
@@ -13626,6 +13714,22 @@
           "hi": 15000
         },
         "status": "holds"
+      },
+      {
+        "memberId": "J000310",
+        "name": "Julie Johnson",
+        "party": "D",
+        "chamber": "house",
+        "state": "TX",
+        "active": true,
+        "buyDates": [
+          "2025-09-23"
+        ],
+        "latestRange": {
+          "lo": 1001,
+          "hi": 15000
+        },
+        "status": "sold"
       }
     ]
   },
@@ -13973,6 +14077,22 @@
           "hi": 15000
         },
         "status": "stale"
+      },
+      {
+        "memberId": "J000310",
+        "name": "Julie Johnson",
+        "party": "D",
+        "chamber": "house",
+        "state": "TX",
+        "active": true,
+        "buyDates": [
+          "2025-09-23"
+        ],
+        "latestRange": {
+          "lo": 1001,
+          "hi": 15000
+        },
+        "status": "sold"
       },
       {
         "memberId": "L000560",

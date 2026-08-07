@@ -21,16 +21,15 @@
         "hi": 15000
       },
       "status": "sold",
-      "asOf": "2025-04-01",
+      "asOf": "2025-09-23",
       "extraction": "pdf-text",
       "verification": "unverified",
       "sources": [
         {
           "kind": "filing",
-          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030296.pdf"
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf"
         }
-      ],
-      "note": "sale reported by PTR with no annual baseline in our coverage"
+      ]
     },
     {
       "memberId": "J000310",
@@ -104,6 +103,28 @@
     {
       "memberId": "J000310",
       "security": {
+        "ticker": "ADBE",
+        "kind": "other"
+      },
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "sold",
+      "asOf": "2025-10-30",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf"
+        }
+      ]
+    },
+    {
+      "memberId": "J000310",
+      "security": {
         "ticker": "ADI",
         "kind": "other"
       },
@@ -127,6 +148,28 @@
     {
       "memberId": "J000310",
       "security": {
+        "ticker": "AEE",
+        "kind": "other"
+      },
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "sold",
+      "asOf": "2025-09-23",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf"
+        }
+      ]
+    },
+    {
+      "memberId": "J000310",
+      "security": {
         "ticker": "AJG",
         "kind": "other"
       },
@@ -146,6 +189,50 @@
         }
       ],
       "note": "sale reported by PTR with no annual baseline in our coverage"
+    },
+    {
+      "memberId": "J000310",
+      "security": {
+        "ticker": "ALK",
+        "kind": "other"
+      },
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "sold",
+      "asOf": "2025-10-21",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf"
+        }
+      ]
+    },
+    {
+      "memberId": "J000310",
+      "security": {
+        "ticker": "AOS",
+        "kind": "other"
+      },
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "sold",
+      "asOf": "2025-09-23",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf"
+        }
+      ]
     },
     {
       "memberId": "J000310",
@@ -357,6 +444,28 @@
     {
       "memberId": "J000310",
       "security": {
+        "ticker": "CL",
+        "kind": "other"
+      },
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "sold",
+      "asOf": "2025-09-23",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf"
+        }
+      ]
+    },
+    {
+      "memberId": "J000310",
+      "security": {
         "ticker": "CMCSA",
         "kind": "other"
       },
@@ -510,10 +619,35 @@
       "sources": [
         {
           "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf"
+        },
+        {
+          "kind": "filing",
           "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033789.pdf"
         }
-      ],
-      "note": "sale reported by PTR with no annual baseline in our coverage"
+      ]
+    },
+    {
+      "memberId": "J000310",
+      "security": {
+        "ticker": "DGX",
+        "kind": "other"
+      },
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "sold",
+      "asOf": "2025-10-30",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf"
+        }
+      ]
     },
     {
       "memberId": "J000310",
@@ -564,6 +698,28 @@
     {
       "memberId": "J000310",
       "security": {
+        "ticker": "DVA",
+        "kind": "other"
+      },
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "sold",
+      "asOf": "2025-09-23",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf"
+        }
+      ]
+    },
+    {
+      "memberId": "J000310",
+      "security": {
         "ticker": "EOG",
         "kind": "other"
       },
@@ -583,6 +739,28 @@
         }
       ],
       "note": "sale reported by PTR with no annual baseline in our coverage"
+    },
+    {
+      "memberId": "J000310",
+      "security": {
+        "ticker": "EQIX",
+        "kind": "other"
+      },
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "sold",
+      "asOf": "2025-09-23",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf"
+        }
+      ]
     },
     {
       "memberId": "J000310",
@@ -610,6 +788,28 @@
     {
       "memberId": "J000310",
       "security": {
+        "ticker": "FFIV",
+        "kind": "other"
+      },
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "sold",
+      "asOf": "2025-10-21",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf"
+        }
+      ]
+    },
+    {
+      "memberId": "J000310",
+      "security": {
         "ticker": "FIS",
         "kind": "other"
       },
@@ -633,6 +833,28 @@
     {
       "memberId": "J000310",
       "security": {
+        "ticker": "FISV",
+        "kind": "other"
+      },
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "sold",
+      "asOf": "2025-10-03",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf"
+        }
+      ]
+    },
+    {
+      "memberId": "J000310",
+      "security": {
         "ticker": "GD",
         "kind": "other"
       },
@@ -652,6 +874,28 @@
         }
       ],
       "note": "sale reported by PTR with no annual baseline in our coverage"
+    },
+    {
+      "memberId": "J000310",
+      "security": {
+        "ticker": "GEN",
+        "kind": "other"
+      },
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "sold",
+      "asOf": "2025-10-21",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf"
+        }
+      ]
     },
     {
       "memberId": "J000310",
@@ -725,6 +969,28 @@
     {
       "memberId": "J000310",
       "security": {
+        "ticker": "HON",
+        "kind": "other"
+      },
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "sold",
+      "asOf": "2025-09-23",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf"
+        }
+      ]
+    },
+    {
+      "memberId": "J000310",
+      "security": {
         "ticker": "IBM",
         "kind": "other"
       },
@@ -744,6 +1010,28 @@
         }
       ],
       "note": "sale reported by PTR with no annual baseline in our coverage"
+    },
+    {
+      "memberId": "J000310",
+      "security": {
+        "ticker": "IP",
+        "kind": "other"
+      },
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "sold",
+      "asOf": "2025-10-30",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf"
+        }
+      ]
     },
     {
       "memberId": "J000310",
@@ -771,6 +1059,50 @@
     {
       "memberId": "J000310",
       "security": {
+        "ticker": "KEY",
+        "kind": "other"
+      },
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "sold",
+      "asOf": "2025-09-23",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf"
+        }
+      ]
+    },
+    {
+      "memberId": "J000310",
+      "security": {
+        "ticker": "KR",
+        "kind": "other"
+      },
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "sold",
+      "asOf": "2025-10-03",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf"
+        }
+      ]
+    },
+    {
+      "memberId": "J000310",
+      "security": {
         "ticker": "LLY",
         "kind": "other"
       },
@@ -790,6 +1122,28 @@
         }
       ],
       "note": "sale reported by PTR with no annual baseline in our coverage"
+    },
+    {
+      "memberId": "J000310",
+      "security": {
+        "ticker": "LYB",
+        "kind": "other"
+      },
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "holds",
+      "asOf": "2025-09-23",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf"
+        }
+      ]
     },
     {
       "memberId": "J000310",
@@ -863,6 +1217,28 @@
     {
       "memberId": "J000310",
       "security": {
+        "ticker": "MKC",
+        "kind": "other"
+      },
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "sold",
+      "asOf": "2025-09-23",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf"
+        }
+      ]
+    },
+    {
+      "memberId": "J000310",
+      "security": {
         "ticker": "MMM",
         "kind": "other"
       },
@@ -882,6 +1258,50 @@
         }
       ],
       "note": "sale reported by PTR with no annual baseline in our coverage"
+    },
+    {
+      "memberId": "J000310",
+      "security": {
+        "ticker": "MMM",
+        "kind": "other"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "stale",
+      "asOf": "2025-03-15",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf"
+        }
+      ]
+    },
+    {
+      "memberId": "J000310",
+      "security": {
+        "ticker": "MNST",
+        "kind": "other"
+      },
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "sold",
+      "asOf": "2025-09-23",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf"
+        }
+      ]
     },
     {
       "memberId": "J000310",
@@ -978,6 +1398,28 @@
     {
       "memberId": "J000310",
       "security": {
+        "ticker": "NOW",
+        "kind": "other"
+      },
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "sold",
+      "asOf": "2025-12-08",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf"
+        }
+      ]
+    },
+    {
+      "memberId": "J000310",
+      "security": {
         "ticker": "NSC",
         "kind": "other"
       },
@@ -1020,6 +1462,50 @@
         }
       ],
       "note": "sale reported by PTR with no annual baseline in our coverage"
+    },
+    {
+      "memberId": "J000310",
+      "security": {
+        "ticker": "PAYC",
+        "kind": "other"
+      },
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "sold",
+      "asOf": "2025-09-23",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf"
+        }
+      ]
+    },
+    {
+      "memberId": "J000310",
+      "security": {
+        "ticker": "PAYX",
+        "kind": "other"
+      },
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "sold",
+      "asOf": "2025-09-23",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf"
+        }
+      ]
     },
     {
       "memberId": "J000310",
@@ -1162,6 +1648,28 @@
     {
       "memberId": "J000310",
       "security": {
+        "ticker": "ROL",
+        "kind": "other"
+      },
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "sold",
+      "asOf": "2025-09-23",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf"
+        }
+      ]
+    },
+    {
+      "memberId": "J000310",
+      "security": {
         "ticker": "RSG",
         "kind": "other"
       },
@@ -1231,6 +1739,28 @@
     {
       "memberId": "J000310",
       "security": {
+        "ticker": "SRE",
+        "kind": "other"
+      },
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "sold",
+      "asOf": "2025-09-23",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf"
+        }
+      ]
+    },
+    {
+      "memberId": "J000310",
+      "security": {
         "ticker": "STX",
         "kind": "other"
       },
@@ -1250,6 +1780,28 @@
         }
       ],
       "note": "sale reported by PTR with no annual baseline in our coverage"
+    },
+    {
+      "memberId": "J000310",
+      "security": {
+        "ticker": "TAP",
+        "kind": "other"
+      },
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "sold",
+      "asOf": "2025-09-23",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf"
+        }
+      ]
     },
     {
       "memberId": "J000310",
@@ -1323,6 +1875,28 @@
     {
       "memberId": "J000310",
       "security": {
+        "ticker": "UDR",
+        "kind": "other"
+      },
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "sold",
+      "asOf": "2025-09-23",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf"
+        }
+      ]
+    },
+    {
+      "memberId": "J000310",
+      "security": {
         "ticker": "UNH",
         "kind": "other"
       },
@@ -1369,6 +1943,50 @@
     {
       "memberId": "J000310",
       "security": {
+        "ticker": "VRSK",
+        "kind": "other"
+      },
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "sold",
+      "asOf": "2025-10-30",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf"
+        }
+      ]
+    },
+    {
+      "memberId": "J000310",
+      "security": {
+        "ticker": "VRSN",
+        "kind": "other"
+      },
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "sold",
+      "asOf": "2025-10-03",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf"
+        }
+      ]
+    },
+    {
+      "memberId": "J000310",
+      "security": {
         "ticker": "VZ",
         "kind": "other"
       },
@@ -1388,6 +2006,28 @@
         }
       ],
       "note": "sale reported by PTR with no annual baseline in our coverage"
+    },
+    {
+      "memberId": "J000310",
+      "security": {
+        "ticker": "WEC",
+        "kind": "other"
+      },
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "sold",
+      "asOf": "2025-09-23",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf"
+        }
+      ]
     },
     {
       "memberId": "J000310",
@@ -1434,6 +2074,28 @@
         }
       ],
       "note": "sale reported by PTR with no annual baseline in our coverage"
+    },
+    {
+      "memberId": "J000310",
+      "security": {
+        "ticker": "WY",
+        "kind": "other"
+      },
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "sold",
+      "asOf": "2025-10-21",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf"
+        }
+      ]
     },
     {
       "memberId": "J000310",
@@ -2470,6 +3132,102 @@
     },
     {
       "memberId": "J000310",
+      "assetRaw": "CMS Energy Corporation Common",
+      "security": null,
+      "side": "buy",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-12-08",
+      "filedDate": "2026-08-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf",
+      "late": true,
+      "provenance": "both"
+    },
+    {
+      "memberId": "J000310",
+      "assetRaw": "CMS Energy Corporation Common Stock (CMS) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-12-08",
+      "filedDate": "2026-08-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf",
+      "late": true,
+      "provenance": "both"
+    },
+    {
+      "memberId": "J000310",
+      "assetRaw": "Public Service Enterprise Group Incorporated Common Stock (PEG) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-12-08",
+      "filedDate": "2026-08-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf",
+      "late": true,
+      "provenance": "both"
+    },
+    {
+      "memberId": "J000310",
+      "assetRaw": "Public Service Enterprise Group Incorporated Common Stock (PEG) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-12-08",
+      "filedDate": "2026-08-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf",
+      "late": true,
+      "provenance": "both"
+    },
+    {
+      "memberId": "J000310",
+      "assetRaw": "ServiceNow, Inc. Common Stock (NOW) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-12-08",
+      "filedDate": "2026-08-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf",
+      "late": true,
+      "provenance": "both"
+    },
+    {
+      "memberId": "J000310",
+      "assetRaw": "ServiceNow, Inc. Common Stock (NOW) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-12-08",
+      "filedDate": "2026-08-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf",
+      "late": true,
+      "provenance": "both"
+    },
+    {
+      "memberId": "J000310",
       "assetRaw": "Boeing Company (BA) [ST]",
       "security": null,
       "side": "sell",
@@ -2482,6 +3240,38 @@
       "filedDate": "2026-01-15",
       "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033789.pdf",
       "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "J000310",
+      "assetRaw": "Boeing Company (BA) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-12-02",
+      "filedDate": "2026-08-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf",
+      "late": true,
+      "provenance": "both"
+    },
+    {
+      "memberId": "J000310",
+      "assetRaw": "Boeing Company (BA) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-12-02",
+      "filedDate": "2026-08-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf",
+      "late": true,
       "provenance": "both"
     },
     {
@@ -3525,6 +4315,166 @@
     },
     {
       "memberId": "J000310",
+      "assetRaw": "Adobe Inc. - Common Stock (ADBE) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-10-30",
+      "filedDate": "2026-08-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf",
+      "late": true,
+      "provenance": "both"
+    },
+    {
+      "memberId": "J000310",
+      "assetRaw": "Adobe Inc. - Common Stock (ADBE) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-10-30",
+      "filedDate": "2026-08-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf",
+      "late": true,
+      "provenance": "both"
+    },
+    {
+      "memberId": "J000310",
+      "assetRaw": "International Paper Company Common Stock (IP) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-10-30",
+      "filedDate": "2026-08-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf",
+      "late": true,
+      "provenance": "both"
+    },
+    {
+      "memberId": "J000310",
+      "assetRaw": "International Paper Company Common Stock (IP) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-10-30",
+      "filedDate": "2026-08-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf",
+      "late": true,
+      "provenance": "both"
+    },
+    {
+      "memberId": "J000310",
+      "assetRaw": "Mondelez International, Inc. - Class A Common Stock (MDLZ) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-10-30",
+      "filedDate": "2026-08-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf",
+      "late": true,
+      "provenance": "both"
+    },
+    {
+      "memberId": "J000310",
+      "assetRaw": "Mondelez International, Inc. - Class A Common Stock (MDLZ) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-10-30",
+      "filedDate": "2026-08-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf",
+      "late": true,
+      "provenance": "both"
+    },
+    {
+      "memberId": "J000310",
+      "assetRaw": "Quest Diagnostics Incorporated Common Stock (DGX) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-10-30",
+      "filedDate": "2026-08-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf",
+      "late": true,
+      "provenance": "both"
+    },
+    {
+      "memberId": "J000310",
+      "assetRaw": "Quest Diagnostics Incorporated Common Stock (DGX) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-10-30",
+      "filedDate": "2026-08-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf",
+      "late": true,
+      "provenance": "both"
+    },
+    {
+      "memberId": "J000310",
+      "assetRaw": "Verisk Analytics, Inc. - Common Stock (VRSK) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-10-30",
+      "filedDate": "2026-08-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf",
+      "late": true,
+      "provenance": "both"
+    },
+    {
+      "memberId": "J000310",
+      "assetRaw": "Verisk Analytics, Inc. - Common Stock (VRSK) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-10-30",
+      "filedDate": "2026-08-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf",
+      "late": true,
+      "provenance": "both"
+    },
+    {
+      "memberId": "J000310",
       "assetRaw": "Alphabet Inc. - Class C Capital Stock",
       "security": null,
       "side": "buy",
@@ -3618,6 +4568,166 @@
       "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20033420.pdf",
       "late": false,
       "provenance": "kadoa"
+    },
+    {
+      "memberId": "J000310",
+      "assetRaw": "Alaska Air Group, Inc. Common Stock (ALK) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-10-21",
+      "filedDate": "2026-08-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf",
+      "late": true,
+      "provenance": "both"
+    },
+    {
+      "memberId": "J000310",
+      "assetRaw": "Alaska Air Group, Inc. Common Stock (ALK) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-10-21",
+      "filedDate": "2026-08-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf",
+      "late": true,
+      "provenance": "both"
+    },
+    {
+      "memberId": "J000310",
+      "assetRaw": "Deere & Company Common Stock",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-10-21",
+      "filedDate": "2026-08-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf",
+      "late": true,
+      "provenance": "both"
+    },
+    {
+      "memberId": "J000310",
+      "assetRaw": "Deere & Company Common Stock (DE) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-10-21",
+      "filedDate": "2026-08-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf",
+      "late": true,
+      "provenance": "both"
+    },
+    {
+      "memberId": "J000310",
+      "assetRaw": "F5, Inc. - Common Stock (FFIV) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-10-21",
+      "filedDate": "2026-08-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf",
+      "late": true,
+      "provenance": "both"
+    },
+    {
+      "memberId": "J000310",
+      "assetRaw": "F5, Inc. - Common Stock (FFIV) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-10-21",
+      "filedDate": "2026-08-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf",
+      "late": true,
+      "provenance": "both"
+    },
+    {
+      "memberId": "J000310",
+      "assetRaw": "Gen Digital Inc. - Common Stock (GEN) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-10-21",
+      "filedDate": "2026-08-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf",
+      "late": true,
+      "provenance": "both"
+    },
+    {
+      "memberId": "J000310",
+      "assetRaw": "Gen Digital Inc. - Common Stock (GEN) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-10-21",
+      "filedDate": "2026-08-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf",
+      "late": true,
+      "provenance": "both"
+    },
+    {
+      "memberId": "J000310",
+      "assetRaw": "Weyerhaeuser Company Common Stock (WY) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-10-21",
+      "filedDate": "2026-08-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf",
+      "late": true,
+      "provenance": "both"
+    },
+    {
+      "memberId": "J000310",
+      "assetRaw": "Weyerhaeuser Company Common Stock (WY) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-10-21",
+      "filedDate": "2026-08-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf",
+      "late": true,
+      "provenance": "both"
     },
     {
       "memberId": "J000310",
@@ -3762,6 +4872,134 @@
       "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20033420.pdf",
       "late": false,
       "provenance": "kadoa"
+    },
+    {
+      "memberId": "J000310",
+      "assetRaw": "Carrier Global Corporation Common Stock (CARR) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-10-03",
+      "filedDate": "2026-08-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf",
+      "late": true,
+      "provenance": "both"
+    },
+    {
+      "memberId": "J000310",
+      "assetRaw": "Carrier Global Corporation Common Stock (CARR) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-10-03",
+      "filedDate": "2026-08-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf",
+      "late": true,
+      "provenance": "both"
+    },
+    {
+      "memberId": "J000310",
+      "assetRaw": "Fiserv, Inc. - Common Stock (FISV) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-10-03",
+      "filedDate": "2026-08-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf",
+      "late": true,
+      "provenance": "both"
+    },
+    {
+      "memberId": "J000310",
+      "assetRaw": "Fiserv, Inc. - Common Stock (FISV) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-10-03",
+      "filedDate": "2026-08-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf",
+      "late": true,
+      "provenance": "both"
+    },
+    {
+      "memberId": "J000310",
+      "assetRaw": "Kroger Company (KR) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-10-03",
+      "filedDate": "2026-08-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf",
+      "late": true,
+      "provenance": "both"
+    },
+    {
+      "memberId": "J000310",
+      "assetRaw": "Kroger Company (KR) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-10-03",
+      "filedDate": "2026-08-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf",
+      "late": true,
+      "provenance": "both"
+    },
+    {
+      "memberId": "J000310",
+      "assetRaw": "VeriSign, Inc. - Common Stock (VRSN) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-10-03",
+      "filedDate": "2026-08-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf",
+      "late": true,
+      "provenance": "both"
+    },
+    {
+      "memberId": "J000310",
+      "assetRaw": "VeriSign, Inc. - Common Stock (VRSN) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-10-03",
+      "filedDate": "2026-08-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf",
+      "late": true,
+      "provenance": "both"
     },
     {
       "memberId": "J000310",
@@ -4066,6 +5304,614 @@
       "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032242.pdf",
       "late": false,
       "provenance": "kadoa"
+    },
+    {
+      "memberId": "J000310",
+      "assetRaw": "A.O. Smith Corporation Common Stock (AOS) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-09-23",
+      "filedDate": "2026-08-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf",
+      "late": true,
+      "provenance": "both"
+    },
+    {
+      "memberId": "J000310",
+      "assetRaw": "A.O. Smith Corporation Common Stock (AOS) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-09-23",
+      "filedDate": "2026-08-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf",
+      "late": true,
+      "provenance": "both"
+    },
+    {
+      "memberId": "J000310",
+      "assetRaw": "Agilent Technologies, Inc. Common Stock (A) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-09-23",
+      "filedDate": "2026-08-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf",
+      "late": true,
+      "provenance": "both"
+    },
+    {
+      "memberId": "J000310",
+      "assetRaw": "Agilent Technologies, Inc. Common Stock (A) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-09-23",
+      "filedDate": "2026-08-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf",
+      "late": true,
+      "provenance": "both"
+    },
+    {
+      "memberId": "J000310",
+      "assetRaw": "Ameren Corporation Common Stock (AEE) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-09-23",
+      "filedDate": "2026-08-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf",
+      "late": true,
+      "provenance": "both"
+    },
+    {
+      "memberId": "J000310",
+      "assetRaw": "Ameren Corporation Common Stock (AEE) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-09-23",
+      "filedDate": "2026-08-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf",
+      "late": true,
+      "provenance": "both"
+    },
+    {
+      "memberId": "J000310",
+      "assetRaw": "Colgate-Palmolive Company Common Stock (CL) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-09-23",
+      "filedDate": "2026-08-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf",
+      "late": true,
+      "provenance": "both"
+    },
+    {
+      "memberId": "J000310",
+      "assetRaw": "Colgate-Palmolive Company Common Stock (CL) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-09-23",
+      "filedDate": "2026-08-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf",
+      "late": true,
+      "provenance": "both"
+    },
+    {
+      "memberId": "J000310",
+      "assetRaw": "DBA Sempra Common Stock (SRE) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-09-23",
+      "filedDate": "2026-08-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf",
+      "late": true,
+      "provenance": "both"
+    },
+    {
+      "memberId": "J000310",
+      "assetRaw": "DBA Sempra Common Stock (SRE) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-09-23",
+      "filedDate": "2026-08-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf",
+      "late": true,
+      "provenance": "both"
+    },
+    {
+      "memberId": "J000310",
+      "assetRaw": "DaVita Inc. Common Stock (DVA) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-09-23",
+      "filedDate": "2026-08-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf",
+      "late": true,
+      "provenance": "both"
+    },
+    {
+      "memberId": "J000310",
+      "assetRaw": "DaVita Inc. Common Stock (DVA) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-09-23",
+      "filedDate": "2026-08-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf",
+      "late": true,
+      "provenance": "both"
+    },
+    {
+      "memberId": "J000310",
+      "assetRaw": "Equinix, Inc. - Common Stock (EQIX) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-09-23",
+      "filedDate": "2026-08-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf",
+      "late": true,
+      "provenance": "both"
+    },
+    {
+      "memberId": "J000310",
+      "assetRaw": "Equinix, Inc. - Common Stock (EQIX) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-09-23",
+      "filedDate": "2026-08-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf",
+      "late": true,
+      "provenance": "both"
+    },
+    {
+      "memberId": "J000310",
+      "assetRaw": "Honeywell International Inc. (HON) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-09-23",
+      "filedDate": "2026-08-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf",
+      "late": true,
+      "provenance": "both"
+    },
+    {
+      "memberId": "J000310",
+      "assetRaw": "Honeywell International Inc. (HON) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-09-23",
+      "filedDate": "2026-08-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf",
+      "late": true,
+      "provenance": "both"
+    },
+    {
+      "memberId": "J000310",
+      "assetRaw": "KeyCorp Common Stock (KEY) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-09-23",
+      "filedDate": "2026-08-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf",
+      "late": true,
+      "provenance": "both"
+    },
+    {
+      "memberId": "J000310",
+      "assetRaw": "KeyCorp Common Stock (KEY) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-09-23",
+      "filedDate": "2026-08-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf",
+      "late": true,
+      "provenance": "both"
+    },
+    {
+      "memberId": "J000310",
+      "assetRaw": "LyondellBasell Industries NV",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-09-23",
+      "filedDate": "2026-08-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf",
+      "late": true,
+      "provenance": "both"
+    },
+    {
+      "memberId": "J000310",
+      "assetRaw": "LyondellBasell Industries NV Ordinary Shares Class A (LYB) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-09-23",
+      "filedDate": "2026-08-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf",
+      "late": true,
+      "provenance": "both"
+    },
+    {
+      "memberId": "J000310",
+      "assetRaw": "McCormick & Company, Incorporated Common Stock (MKC) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-09-23",
+      "filedDate": "2026-08-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf",
+      "late": true,
+      "provenance": "both"
+    },
+    {
+      "memberId": "J000310",
+      "assetRaw": "McCormick & Company, Incorporated Common Stock (MKC) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-09-23",
+      "filedDate": "2026-08-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf",
+      "late": true,
+      "provenance": "both"
+    },
+    {
+      "memberId": "J000310",
+      "assetRaw": "Molson Coors Beverage Company Class B Common Stock (TAP) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-09-23",
+      "filedDate": "2026-08-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf",
+      "late": true,
+      "provenance": "both"
+    },
+    {
+      "memberId": "J000310",
+      "assetRaw": "Molson Coors Beverage Company Class B Common Stock (TAP) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-09-23",
+      "filedDate": "2026-08-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf",
+      "late": true,
+      "provenance": "both"
+    },
+    {
+      "memberId": "J000310",
+      "assetRaw": "Monster Beverage Corporation - Common Stock (MNST) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-09-23",
+      "filedDate": "2026-08-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf",
+      "late": true,
+      "provenance": "both"
+    },
+    {
+      "memberId": "J000310",
+      "assetRaw": "Monster Beverage Corporation - Common Stock (MNST) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-09-23",
+      "filedDate": "2026-08-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf",
+      "late": true,
+      "provenance": "both"
+    },
+    {
+      "memberId": "J000310",
+      "assetRaw": "Paychex, Inc. - Common Stock (PAYX) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-09-23",
+      "filedDate": "2026-08-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf",
+      "late": true,
+      "provenance": "both"
+    },
+    {
+      "memberId": "J000310",
+      "assetRaw": "Paychex, Inc. - Common Stock (PAYX) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-09-23",
+      "filedDate": "2026-08-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf",
+      "late": true,
+      "provenance": "both"
+    },
+    {
+      "memberId": "J000310",
+      "assetRaw": "Paycom Software, Inc. Common Stock (PAYC) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-09-23",
+      "filedDate": "2026-08-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf",
+      "late": true,
+      "provenance": "both"
+    },
+    {
+      "memberId": "J000310",
+      "assetRaw": "Paycom Software, Inc. Common Stock (PAYC) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-09-23",
+      "filedDate": "2026-08-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf",
+      "late": true,
+      "provenance": "both"
+    },
+    {
+      "memberId": "J000310",
+      "assetRaw": "Rollins, Inc. Common Stock (ROL) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-09-23",
+      "filedDate": "2026-08-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf",
+      "late": true,
+      "provenance": "both"
+    },
+    {
+      "memberId": "J000310",
+      "assetRaw": "Rollins, Inc. Common Stock (ROL) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-09-23",
+      "filedDate": "2026-08-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf",
+      "late": true,
+      "provenance": "both"
+    },
+    {
+      "memberId": "J000310",
+      "assetRaw": "The Cigna Group Common Stock (CI) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-09-23",
+      "filedDate": "2026-08-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf",
+      "late": true,
+      "provenance": "both"
+    },
+    {
+      "memberId": "J000310",
+      "assetRaw": "The Cigna Group Common Stock (CI) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-09-23",
+      "filedDate": "2026-08-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf",
+      "late": true,
+      "provenance": "both"
+    },
+    {
+      "memberId": "J000310",
+      "assetRaw": "UDR, Inc. Common Stock (UDR) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-09-23",
+      "filedDate": "2026-08-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf",
+      "late": true,
+      "provenance": "both"
+    },
+    {
+      "memberId": "J000310",
+      "assetRaw": "UDR, Inc. Common Stock (UDR) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-09-23",
+      "filedDate": "2026-08-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf",
+      "late": true,
+      "provenance": "both"
+    },
+    {
+      "memberId": "J000310",
+      "assetRaw": "WEC Energy Group, Inc. Common Stock (WEC) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-09-23",
+      "filedDate": "2026-08-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf",
+      "late": true,
+      "provenance": "both"
+    },
+    {
+      "memberId": "J000310",
+      "assetRaw": "WEC Energy Group, Inc. Common Stock (WEC) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-09-23",
+      "filedDate": "2026-08-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf",
+      "late": true,
+      "provenance": "both"
     },
     {
       "memberId": "J000310",
@@ -5344,6 +7190,23 @@
       "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030474.pdf",
       "late": false,
       "provenance": "kadoa"
+    },
+    {
+      "memberId": "J000310",
+      "assetRaw": "Medtronic plc. Ordinary Shares (MDT) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-05-07",
+      "filedDate": "2026-08-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf",
+      "late": true,
+      "note": "partial sale",
+      "provenance": "both"
     },
     {
       "memberId": "J000310",
@@ -7699,6 +9562,38 @@
     },
     {
       "memberId": "J000310",
+      "assetRaw": "2000135564 JT 3M Company Common Stock (MMM) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-03-15",
+      "filedDate": "2026-08-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf",
+      "late": true,
+      "provenance": "official"
+    },
+    {
+      "memberId": "J000310",
+      "assetRaw": "3M Company Common Stock",
+      "security": null,
+      "side": "buy",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-03-15",
+      "filedDate": "2026-08-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "J000310",
       "assetRaw": "Accenture plc Class A Ordinary Shares",
       "security": null,
       "side": "sell",
@@ -10026,6 +11921,14 @@
       "value": 8000.5
     },
     {
+      "date": "2025-03-15",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-03-15",
+      "value": 8000.5
+    },
+    {
       "date": "2025-03-19",
       "value": 8000.5
     },
@@ -10614,6 +12517,10 @@
       "value": 8000.5
     },
     {
+      "date": "2025-05-07",
+      "value": 8000.5
+    },
+    {
       "date": "2025-05-15",
       "value": 8000.5
     },
@@ -10934,7 +12841,155 @@
       "value": 8000.5
     },
     {
-      "date": "2025-09-25",
+      "date": "2025-09-23",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-09-23",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-09-23",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-09-23",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-09-23",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-09-23",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-09-23",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-09-23",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-09-23",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-09-23",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-09-23",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-09-23",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-09-23",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-09-23",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-09-23",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-09-23",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-09-23",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-09-23",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-09-23",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-09-23",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-09-23",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-09-23",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-09-23",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-09-23",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-09-23",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-09-23",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-09-23",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-09-23",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-09-23",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-09-23",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-09-23",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-09-23",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-09-23",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-09-23",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-09-23",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-09-23",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-09-23",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-09-23",
       "value": 8000.5
     },
     {
@@ -11007,6 +13062,42 @@
     },
     {
       "date": "2025-09-25",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-09-25",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-10-03",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-10-03",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-10-03",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-10-03",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-10-03",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-10-03",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-10-03",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-10-03",
       "value": 8000.5
     },
     {
@@ -11046,6 +13137,46 @@
       "value": 8000.5
     },
     {
+      "date": "2025-10-21",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-10-21",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-10-21",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-10-21",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-10-21",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-10-21",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-10-21",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-10-21",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-10-21",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-10-21",
+      "value": 8000.5
+    },
+    {
       "date": "2025-10-22",
       "value": 8000.5
     },
@@ -11070,7 +13201,43 @@
       "value": 8000.5
     },
     {
-      "date": "2025-10-31",
+      "date": "2025-10-30",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-10-30",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-10-30",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-10-30",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-10-30",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-10-30",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-10-30",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-10-30",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-10-30",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-10-30",
       "value": 8000.5
     },
     {
@@ -11078,7 +13245,7 @@
       "value": 8000.5
     },
     {
-      "date": "2025-11-03",
+      "date": "2025-10-31",
       "value": 8000.5
     },
     {
@@ -11098,7 +13265,7 @@
       "value": 8000.5
     },
     {
-      "date": "2025-11-13",
+      "date": "2025-11-03",
       "value": 8000.5
     },
     {
@@ -11327,10 +13494,46 @@
     },
     {
       "date": "2025-11-13",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-11-13",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-12-02",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-12-02",
       "value": 8000.5
     },
     {
       "date": "2025-12-03",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-12-08",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-12-08",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-12-08",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-12-08",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-12-08",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-12-08",
       "value": 8000.5
     },
     {
