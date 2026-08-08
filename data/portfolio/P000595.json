@@ -95,6 +95,22 @@
   "trades": [
     {
       "memberId": "P000595",
+      "assetRaw": "Realty Income Corporation Common Stock",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-07-23",
+      "filedDate": "2026-08-07",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/328a9b36-1205-4117-bdc4-cd7c3ccbcbbc/",
+      "late": false,
+      "provenance": "official"
+    },
+    {
+      "memberId": "P000595",
       "assetRaw": "AT&T Inc.",
       "security": null,
       "side": "buy",
@@ -3496,6 +3512,10 @@
     },
     {
       "date": "2026-06-29",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-07-23",
       "value": 8000.5
     }
   ],

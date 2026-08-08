@@ -10,8 +10,29 @@
       "D": 9,
       "I": 0
     },
-    "latestBuyDate": "2026-06-17",
+    "latestBuyDate": "2026-07-24",
     "owners": [
+      {
+        "memberId": "T000490",
+        "name": "David J. Taylor",
+        "party": "R",
+        "chamber": "house",
+        "state": "OH",
+        "active": true,
+        "buyDates": [
+          "2026-07-24",
+          "2026-02-26",
+          "2026-02-09",
+          "2026-01-29",
+          "2026-01-16",
+          "2026-01-08"
+        ],
+        "latestRange": {
+          "lo": 6006,
+          "hi": 90000
+        },
+        "status": "holds"
+      },
       {
         "memberId": "M001217",
         "name": "Jared Moskowitz",
@@ -109,26 +130,6 @@
         "latestRange": {
           "lo": 1001,
           "hi": 15000
-        },
-        "status": "holds"
-      },
-      {
-        "memberId": "T000490",
-        "name": "David J. Taylor",
-        "party": "R",
-        "chamber": "house",
-        "state": "OH",
-        "active": true,
-        "buyDates": [
-          "2026-02-26",
-          "2026-02-09",
-          "2026-01-29",
-          "2026-01-16",
-          "2026-01-08"
-        ],
-        "latestRange": {
-          "lo": 5005,
-          "hi": 75000
         },
         "status": "holds"
       },
@@ -4950,6 +4951,87 @@
   },
   {
     "security": {
+      "ticker": "AVGO",
+      "kind": "other"
+    },
+    "ownersCount": 4,
+    "partySplit": {
+      "R": 2,
+      "D": 2,
+      "I": 0
+    },
+    "latestBuyDate": "2026-07-24",
+    "owners": [
+      {
+        "memberId": "T000490",
+        "name": "David J. Taylor",
+        "party": "R",
+        "chamber": "house",
+        "state": "OH",
+        "active": true,
+        "buyDates": [
+          "2026-07-24",
+          "2026-02-26",
+          "2026-01-29"
+        ],
+        "latestRange": {
+          "lo": 1001,
+          "hi": 15000
+        },
+        "status": "holds"
+      },
+      {
+        "memberId": "M001217",
+        "name": "Jared Moskowitz",
+        "party": "D",
+        "chamber": "house",
+        "state": "FL",
+        "active": true,
+        "buyDates": [
+          "2026-03-31"
+        ],
+        "latestRange": {
+          "lo": 1001,
+          "hi": 15000
+        },
+        "status": "holds"
+      },
+      {
+        "memberId": "C001123",
+        "name": "Gil Cisneros",
+        "party": "D",
+        "chamber": "house",
+        "state": "CA",
+        "active": true,
+        "buyDates": [
+          "2025-12-17"
+        ],
+        "latestRange": {
+          "lo": 0,
+          "hi": 13999
+        },
+        "status": "holds"
+      },
+      {
+        "memberId": "L000595",
+        "name": "Julia Letlow",
+        "party": "R",
+        "chamber": "house",
+        "state": "LA",
+        "active": true,
+        "buyDates": [
+          "2024-10-23"
+        ],
+        "latestRange": {
+          "lo": 0,
+          "hi": 11997
+        },
+        "status": "holds"
+      }
+    ]
+  },
+  {
+    "security": {
       "ticker": "BA",
       "kind": "other"
     },
@@ -5598,7 +5680,7 @@
       "D": 2,
       "I": 0
     },
-    "latestBuyDate": "2026-06-05",
+    "latestBuyDate": "2026-07-17",
     "owners": [
       {
         "memberId": "T000490",
@@ -5608,12 +5690,13 @@
         "state": "OH",
         "active": true,
         "buyDates": [
+          "2026-07-17",
           "2026-06-05",
           "2026-02-26"
         ],
         "latestRange": {
-          "lo": 1001,
-          "hi": 15000
+          "lo": 2002,
+          "hi": 30000
         },
         "status": "holds"
       },
@@ -7263,86 +7346,6 @@
           "hi": 15000
         },
         "status": "stale"
-      }
-    ]
-  },
-  {
-    "security": {
-      "ticker": "AVGO",
-      "kind": "other"
-    },
-    "ownersCount": 3,
-    "partySplit": {
-      "R": 1,
-      "D": 2,
-      "I": 0
-    },
-    "latestBuyDate": "2026-03-31",
-    "owners": [
-      {
-        "memberId": "M001217",
-        "name": "Jared Moskowitz",
-        "party": "D",
-        "chamber": "house",
-        "state": "FL",
-        "active": true,
-        "buyDates": [
-          "2026-03-31"
-        ],
-        "latestRange": {
-          "lo": 1001,
-          "hi": 15000
-        },
-        "status": "holds"
-      },
-      {
-        "memberId": "C001123",
-        "name": "Gil Cisneros",
-        "party": "D",
-        "chamber": "house",
-        "state": "CA",
-        "active": true,
-        "buyDates": [
-          "2025-12-17"
-        ],
-        "latestRange": {
-          "lo": 0,
-          "hi": 13999
-        },
-        "status": "holds"
-      },
-      {
-        "memberId": "L000595",
-        "name": "Julia Letlow",
-        "party": "R",
-        "chamber": "house",
-        "state": "LA",
-        "active": true,
-        "buyDates": [
-          "2024-10-23"
-        ],
-        "latestRange": {
-          "lo": 0,
-          "hi": 11997
-        },
-        "status": "holds"
-      },
-      {
-        "memberId": "T000490",
-        "name": "David J. Taylor",
-        "party": "R",
-        "chamber": "house",
-        "state": "OH",
-        "active": true,
-        "buyDates": [
-          "2026-02-26",
-          "2026-01-29"
-        ],
-        "latestRange": {
-          "lo": 2002,
-          "hi": 30000
-        },
-        "status": "sold"
       }
     ]
   },
