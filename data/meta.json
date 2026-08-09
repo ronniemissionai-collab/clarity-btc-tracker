@@ -1,23 +1,23 @@
 {
-  "generatedAt": "2026-08-08T10:01:27.670Z",
+  "generatedAt": "2026-08-09T10:03:24.079Z",
   "asOf": {
-    "bill": "2026-08-08",
-    "members": "2026-08-08",
-    "holdings": "2026-08-08",
-    "trades": "2026-08-08",
-    "traders": "2026-08-08",
-    "news": "2026-08-08"
+    "bill": "2026-08-09",
+    "members": "2026-08-09",
+    "holdings": "2026-08-09",
+    "trades": "2026-08-09",
+    "traders": "2026-08-09",
+    "news": "2026-08-09"
   },
   "run": {
     "ok": true,
     "stats": {
-      "houseNewPtrs": 1,
-      "houseTrades": 10,
+      "houseNewPtrs": 0,
+      "houseTrades": 0,
       "houseOcrFlagged": 0,
       "houseUnmatchedFilings": 0,
       "houseIssues": 0,
-      "senateNewFilings": 3,
-      "senateTrades": 1,
+      "senateNewFilings": 1,
+      "senateTrades": 0,
       "senateAnnualHoldings": 0,
       "senatePaperStubs": 0,
       "senateSkipped": 3,
