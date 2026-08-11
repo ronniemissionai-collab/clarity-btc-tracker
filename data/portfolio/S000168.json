@@ -112,6 +112,28 @@
     {
       "memberId": "S000168",
       "security": {
+        "ticker": "BRK.B",
+        "kind": "other"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 16002,
+        "hi": 65000
+      },
+      "status": "holds",
+      "asOf": "2026-07-28",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035138.pdf"
+        }
+      ]
+    },
+    {
+      "memberId": "S000168",
+      "security": {
         "ticker": "C",
         "kind": "other"
       },
@@ -139,17 +161,40 @@
       },
       "owner": "self",
       "range": {
-        "lo": 16002,
-        "hi": 65000
+        "lo": 1001,
+        "hi": 15000
       },
-      "status": "holds",
-      "asOf": "2026-05-01",
+      "status": "sold",
+      "asOf": "2026-07-28",
       "extraction": "pdf-text",
       "verification": "unverified",
       "sources": [
         {
           "kind": "filing",
-          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034479.pdf"
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035138.pdf"
+        }
+      ],
+      "note": "sale reported by PTR with no annual baseline in our coverage"
+    },
+    {
+      "memberId": "S000168",
+      "security": {
+        "ticker": "CB",
+        "kind": "other"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "status": "holds",
+      "asOf": "2026-07-01",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035138.pdf"
         }
       ]
     },
@@ -685,6 +730,86 @@
     }
   ],
   "trades": [
+    {
+      "memberId": "S000168",
+      "assetRaw": "Berkshire Hathaway Inc. New Common Stock (BRK.B) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-07-28",
+      "filedDate": "2026-08-07",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035138.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "S000168",
+      "assetRaw": "Berkshire Hathaway Inc. New Common Stock (BRK.B) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2026-07-28",
+      "filedDate": "2026-08-07",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035138.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "S000168",
+      "assetRaw": "Carrier Global Corporation Common Stock (CARR) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2026-07-28",
+      "filedDate": "2026-08-07",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035138.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "S000168",
+      "assetRaw": "Carrier Global Corporation Common Stock (CARR) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-07-28",
+      "filedDate": "2026-08-07",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035138.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "S000168",
+      "assetRaw": "Chubb Limited Common Stock (CB) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2026-07-01",
+      "filedDate": "2026-08-07",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035138.pdf",
+      "late": false,
+      "provenance": "both"
+    },
     {
       "memberId": "S000168",
       "assetRaw": "Voyager Technologies, Inc. Class A Common Stock (VOYG) [ST]",
@@ -2471,6 +2596,26 @@
     {
       "date": "2026-06-15",
       "value": 32500.5
+    },
+    {
+      "date": "2026-07-01",
+      "value": 32500.5
+    },
+    {
+      "date": "2026-07-28",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-07-28",
+      "value": 32500.5
+    },
+    {
+      "date": "2026-07-28",
+      "value": 32500.5
+    },
+    {
+      "date": "2026-07-28",
+      "value": 8000.5
     }
   ],
   "measured": null

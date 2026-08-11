@@ -37,6 +37,57 @@
   "trades": [
     {
       "memberId": "F000479",
+      "assetRaw": "Freeport McMoran",
+      "security": null,
+      "side": "sell",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-07-24",
+      "filedDate": "2026-08-10",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/c993b04b-6773-47e2-9b61-ab5dfe9e68b1/",
+      "late": false,
+      "note": "full sale",
+      "provenance": "official"
+    },
+    {
+      "memberId": "F000479",
+      "assetRaw": "Hasbro Inc Note",
+      "security": null,
+      "side": "sell",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-07-24",
+      "filedDate": "2026-08-10",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/c993b04b-6773-47e2-9b61-ab5dfe9e68b1/",
+      "late": false,
+      "note": "full sale",
+      "provenance": "official"
+    },
+    {
+      "memberId": "F000479",
+      "assetRaw": "Venus Tex Independent Sch Dist",
+      "security": null,
+      "side": "sell",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-07-07",
+      "filedDate": "2026-08-10",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/c993b04b-6773-47e2-9b61-ab5dfe9e68b1/",
+      "late": false,
+      "note": "full sale",
+      "provenance": "official"
+    },
+    {
+      "memberId": "F000479",
       "assetRaw": "Cheniere Energy Partners L P Note",
       "security": null,
       "side": "sell",
@@ -1858,6 +1909,18 @@
     },
     {
       "date": "2026-06-24",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-07-07",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-07-24",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-07-24",
       "value": 8000.5
     }
   ],

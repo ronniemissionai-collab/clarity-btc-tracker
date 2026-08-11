@@ -12,6 +12,118 @@
   "trades": [
     {
       "memberId": "W000829",
+      "assetRaw": "ADOBE INC",
+      "security": null,
+      "side": "buy",
+      "owner": "joint",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2026-06-09",
+      "filedDate": "2026-07-24",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116260.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000829",
+      "assetRaw": "HUBSPOT INC",
+      "security": null,
+      "side": "buy",
+      "owner": "joint",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2026-06-09",
+      "filedDate": "2026-07-24",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116260.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000829",
+      "assetRaw": "SALESFORCE INC",
+      "security": null,
+      "side": "buy",
+      "owner": "joint",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2026-06-09",
+      "filedDate": "2026-07-24",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116260.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000829",
+      "assetRaw": "SERVICENOW INC",
+      "security": null,
+      "side": "buy",
+      "owner": "joint",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2026-06-09",
+      "filedDate": "2026-07-24",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116260.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000829",
+      "assetRaw": "THE TRADE DESK INC CLASS A",
+      "security": null,
+      "side": "buy",
+      "owner": "joint",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2026-06-09",
+      "filedDate": "2026-07-24",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116260.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000829",
+      "assetRaw": "UPSTART HLDGS INC",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2026-06-09",
+      "filedDate": "2026-07-24",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116260.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000829",
+      "assetRaw": "ADVANCED MICRO DEVIC",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2026-06-03",
+      "filedDate": "2026-07-24",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116260.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000829",
       "assetRaw": "Federated Hermes High Yield Bond Fund",
       "security": null,
       "side": "buy",
@@ -551,6 +663,34 @@
     {
       "date": "2026-04-30",
       "value": 8000.5
+    },
+    {
+      "date": "2026-06-03",
+      "value": 175000.5
+    },
+    {
+      "date": "2026-06-09",
+      "value": 75000.5
+    },
+    {
+      "date": "2026-06-09",
+      "value": 32500.5
+    },
+    {
+      "date": "2026-06-09",
+      "value": 32500.5
+    },
+    {
+      "date": "2026-06-09",
+      "value": 32500.5
+    },
+    {
+      "date": "2026-06-09",
+      "value": 32500.5
+    },
+    {
+      "date": "2026-06-09",
+      "value": 32500.5
     }
   ],
   "measured": null

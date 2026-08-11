@@ -67,19 +67,35 @@
         "hi": 50000
       },
       "status": "sold",
-      "asOf": "2026-06-11",
+      "asOf": "2026-08-07",
       "extraction": "pdf-text",
       "verification": "unverified",
       "sources": [
         {
           "kind": "filing",
-          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034099.pdf"
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035157.pdf"
         }
       ],
       "note": "sale reported by PTR with no annual baseline in our coverage"
     }
   ],
   "trades": [
+    {
+      "memberId": "M001245",
+      "assetRaw": "Pinterest, Inc. Class A Common Stock (PINS) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2026-08-07",
+      "filedDate": "2026-08-07",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035157.pdf",
+      "late": false,
+      "provenance": "both"
+    },
     {
       "memberId": "M001245",
       "assetRaw": "Pinterest, Inc. Class A Common Stock (PINS) [ST]",
@@ -241,6 +257,10 @@
     },
     {
       "date": "2026-06-11",
+      "value": 32500.5
+    },
+    {
+      "date": "2026-08-07",
       "value": 32500.5
     }
   ],
