@@ -34,6 +34,51 @@
     {
       "memberId": "M001239",
       "security": {
+        "ticker": "AMAT",
+        "kind": "other"
+      },
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "holds",
+      "asOf": "2026-07-15",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035180.pdf"
+        }
+      ]
+    },
+    {
+      "memberId": "M001239",
+      "security": {
+        "ticker": "BLK",
+        "kind": "other"
+      },
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "sold",
+      "asOf": "2026-07-14",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035180.pdf"
+        }
+      ],
+      "note": "sale reported by PTR with no annual baseline in our coverage"
+    },
+    {
+      "memberId": "M001239",
+      "security": {
         "ticker": "META",
         "kind": "other"
       },
@@ -130,6 +175,72 @@
     }
   ],
   "trades": [
+    {
+      "memberId": "M001239",
+      "assetRaw": "Palo Alto Networks, Inc. (PANW) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-07-31",
+      "filedDate": "2026-08-10",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035180.pdf",
+      "late": false,
+      "note": "partial sale",
+      "provenance": "official"
+    },
+    {
+      "memberId": "M001239",
+      "assetRaw": "Applied Materials, Inc. - Common Stock (AMAT) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-07-15",
+      "filedDate": "2026-08-10",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035180.pdf",
+      "late": false,
+      "provenance": "official"
+    },
+    {
+      "memberId": "M001239",
+      "assetRaw": "BlackRock, Inc. Common Stock (BLK) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-07-14",
+      "filedDate": "2026-08-10",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035180.pdf",
+      "late": false,
+      "provenance": "official"
+    },
+    {
+      "memberId": "M001239",
+      "assetRaw": "BlackRock, Inc. Common Stock (BLK) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-07-10",
+      "filedDate": "2026-08-10",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035180.pdf",
+      "late": false,
+      "note": "partial sale",
+      "provenance": "official"
+    },
     {
       "memberId": "M001239",
       "assetRaw": "BlackRock, Inc. Common Stock (BLK) [ST]",
@@ -457,6 +568,22 @@
     },
     {
       "date": "2026-07-07",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-07-10",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-07-14",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-07-15",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-07-31",
       "value": 8000.5
     }
   ],

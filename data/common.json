@@ -6061,6 +6061,20 @@
         "status": "sold"
       },
       {
+        "memberId": "G000583",
+        "name": "Josh Gottheimer",
+        "party": "D",
+        "chamber": "house",
+        "state": "NJ",
+        "active": true,
+        "buyDates": [],
+        "latestRange": {
+          "lo": 1001,
+          "hi": 15000
+        },
+        "status": "sold"
+      },
+      {
         "memberId": "J000310",
         "name": "Julie Johnson",
         "party": "D",
@@ -6598,7 +6612,7 @@
       "D": 3,
       "I": 0
     },
-    "latestBuyDate": "2026-05-14",
+    "latestBuyDate": "2026-07-16",
     "owners": [
       {
         "memberId": "G000583",
@@ -6608,11 +6622,12 @@
         "state": "NJ",
         "active": true,
         "buyDates": [
+          "2026-07-16",
           "2026-05-14"
         ],
         "latestRange": {
-          "lo": 1001,
-          "hi": 15000
+          "lo": 2002,
+          "hi": 30000
         },
         "status": "holds"
       },
@@ -10666,6 +10681,54 @@
   },
   {
     "security": {
+      "ticker": "AMAT",
+      "kind": "other"
+    },
+    "ownersCount": 2,
+    "partySplit": {
+      "R": 1,
+      "D": 1,
+      "I": 0
+    },
+    "latestBuyDate": "2026-07-15",
+    "owners": [
+      {
+        "memberId": "M001239",
+        "name": "John J. McGuire III",
+        "party": "R",
+        "chamber": "house",
+        "state": "VA",
+        "active": true,
+        "buyDates": [
+          "2026-07-15"
+        ],
+        "latestRange": {
+          "lo": 1001,
+          "hi": 15000
+        },
+        "status": "holds"
+      },
+      {
+        "memberId": "M001217",
+        "name": "Jared Moskowitz",
+        "party": "D",
+        "chamber": "house",
+        "state": "FL",
+        "active": true,
+        "buyDates": [
+          "2026-06-18",
+          "2026-06-18"
+        ],
+        "latestRange": {
+          "lo": 2002,
+          "hi": 30000
+        },
+        "status": "holds"
+      }
+    ]
+  },
+  {
+    "security": {
       "ticker": "AMCR",
       "kind": "other"
     },
@@ -11650,8 +11713,8 @@
         "active": true,
         "buyDates": [],
         "latestRange": {
-          "lo": 15001,
-          "hi": 50000
+          "lo": 1001,
+          "hi": 15000
         },
         "status": "sold"
       },
@@ -11874,6 +11937,54 @@
           "hi": 15000
         },
         "status": "sold"
+      }
+    ]
+  },
+  {
+    "security": {
+      "ticker": "CRWD",
+      "kind": "other"
+    },
+    "ownersCount": 2,
+    "partySplit": {
+      "R": 0,
+      "D": 2,
+      "I": 0
+    },
+    "latestBuyDate": "2026-07-15",
+    "owners": [
+      {
+        "memberId": "G000583",
+        "name": "Josh Gottheimer",
+        "party": "D",
+        "chamber": "house",
+        "state": "NJ",
+        "active": true,
+        "buyDates": [
+          "2026-07-15"
+        ],
+        "latestRange": {
+          "lo": 1001,
+          "hi": 15000
+        },
+        "status": "holds"
+      },
+      {
+        "memberId": "C001123",
+        "name": "Gil Cisneros",
+        "party": "D",
+        "chamber": "house",
+        "state": "CA",
+        "active": true,
+        "buyDates": [
+          "2026-05-15",
+          "2026-03-13"
+        ],
+        "latestRange": {
+          "lo": 1001,
+          "hi": 15000
+        },
+        "status": "holds"
       }
     ]
   },
@@ -12725,55 +12836,6 @@
           "hi": 15000
         },
         "status": "sold"
-      }
-    ]
-  },
-  {
-    "security": {
-      "ticker": "FN",
-      "kind": "other"
-    },
-    "ownersCount": 2,
-    "partySplit": {
-      "R": 0,
-      "D": 2,
-      "I": 0
-    },
-    "latestBuyDate": "2026-05-04",
-    "owners": [
-      {
-        "memberId": "C001123",
-        "name": "Gil Cisneros",
-        "party": "D",
-        "chamber": "house",
-        "state": "CA",
-        "active": true,
-        "buyDates": [
-          "2026-05-04",
-          "2026-03-27"
-        ],
-        "latestRange": {
-          "lo": 16002,
-          "hi": 65000
-        },
-        "status": "holds"
-      },
-      {
-        "memberId": "G000583",
-        "name": "Josh Gottheimer",
-        "party": "D",
-        "chamber": "house",
-        "state": "NJ",
-        "active": true,
-        "buyDates": [
-          "2026-05-01",
-          "2026-03-24"
-        ],
-        "latestRange": {
-          "lo": 2002,
-          "hi": 30000
-        },
-        "status": "holds"
       }
     ]
   },
@@ -13948,8 +14010,25 @@
       "D": 2,
       "I": 0
     },
-    "latestBuyDate": "2026-06-17",
+    "latestBuyDate": "2026-07-17",
     "owners": [
+      {
+        "memberId": "G000583",
+        "name": "Josh Gottheimer",
+        "party": "D",
+        "chamber": "house",
+        "state": "NJ",
+        "active": true,
+        "buyDates": [
+          "2026-07-17",
+          "2026-02-02"
+        ],
+        "latestRange": {
+          "lo": 2002,
+          "hi": 30000
+        },
+        "status": "holds"
+      },
       {
         "memberId": "M001217",
         "name": "Jared Moskowitz",
@@ -13966,22 +14045,6 @@
         "latestRange": {
           "lo": 4004,
           "hi": 60000
-        },
-        "status": "holds"
-      },
-      {
-        "memberId": "G000583",
-        "name": "Josh Gottheimer",
-        "party": "D",
-        "chamber": "house",
-        "state": "NJ",
-        "active": true,
-        "buyDates": [
-          "2026-02-02"
-        ],
-        "latestRange": {
-          "lo": 1001,
-          "hi": 15000
         },
         "status": "holds"
       },
@@ -14144,6 +14207,53 @@
           "hi": 15000
         },
         "status": "stale"
+      }
+    ]
+  },
+  {
+    "security": {
+      "ticker": "NICE",
+      "kind": "other"
+    },
+    "ownersCount": 2,
+    "partySplit": {
+      "R": 1,
+      "D": 1,
+      "I": 0
+    },
+    "latestBuyDate": "2026-07-20",
+    "owners": [
+      {
+        "memberId": "G000583",
+        "name": "Josh Gottheimer",
+        "party": "D",
+        "chamber": "house",
+        "state": "NJ",
+        "active": true,
+        "buyDates": [
+          "2026-07-20"
+        ],
+        "latestRange": {
+          "lo": 1001,
+          "hi": 15000
+        },
+        "status": "holds"
+      },
+      {
+        "memberId": "A000383",
+        "name": "Alan Armstrong",
+        "party": "R",
+        "chamber": "senate",
+        "state": "OK",
+        "active": true,
+        "buyDates": [
+          "2026-03-30"
+        ],
+        "latestRange": {
+          "lo": 1001,
+          "hi": 15000
+        },
+        "status": "holds"
       }
     ]
   },

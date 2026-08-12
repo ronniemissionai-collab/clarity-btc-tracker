@@ -141,17 +141,17 @@
       },
       "owner": "joint",
       "range": {
-        "lo": 15001,
-        "hi": 50000
+        "lo": 1001,
+        "hi": 15000
       },
       "status": "sold",
-      "asOf": "2026-03-17",
+      "asOf": "2026-08-05",
       "extraction": "pdf-text",
       "verification": "unverified",
       "sources": [
         {
           "kind": "filing",
-          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034262.pdf"
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035134.pdf"
         }
       ],
       "note": "sale reported by PTR with no annual baseline in our coverage"
@@ -226,6 +226,29 @@
     {
       "memberId": "H001082",
       "security": {
+        "ticker": "DEO",
+        "kind": "other"
+      },
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "sold",
+      "asOf": "2026-08-05",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035134.pdf"
+        }
+      ],
+      "note": "sale reported by PTR with no annual baseline in our coverage"
+    },
+    {
+      "memberId": "H001082",
+      "security": {
         "ticker": "DHR",
         "kind": "other"
       },
@@ -274,6 +297,29 @@
           "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20016607.pdf"
         }
       ]
+    },
+    {
+      "memberId": "H001082",
+      "security": {
+        "ticker": "EL",
+        "kind": "other"
+      },
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "sold",
+      "asOf": "2026-08-05",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035134.pdf"
+        }
+      ],
+      "note": "sale reported by PTR with no annual baseline in our coverage"
     },
     {
       "memberId": "H001082",
@@ -511,17 +557,17 @@
       },
       "owner": "joint",
       "range": {
-        "lo": 15001,
-        "hi": 50000
+        "lo": 1001,
+        "hi": 15000
       },
       "status": "sold",
-      "asOf": "2026-03-17",
+      "asOf": "2026-08-05",
       "extraction": "pdf-text",
       "verification": "unverified",
       "sources": [
         {
           "kind": "filing",
-          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034262.pdf"
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035134.pdf"
         }
       ],
       "note": "sale reported by PTR with no annual baseline in our coverage"
@@ -547,6 +593,29 @@
           "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20016607.pdf"
         }
       ]
+    },
+    {
+      "memberId": "H001082",
+      "security": {
+        "ticker": "MDLZ",
+        "kind": "other"
+      },
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "sold",
+      "asOf": "2026-08-05",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035134.pdf"
+        }
+      ],
+      "note": "sale reported by PTR with no annual baseline in our coverage"
     },
     {
       "memberId": "H001082",
@@ -615,6 +684,29 @@
         {
           "kind": "filing",
           "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034262.pdf"
+        }
+      ],
+      "note": "sale reported by PTR with no annual baseline in our coverage"
+    },
+    {
+      "memberId": "H001082",
+      "security": {
+        "ticker": "OGN",
+        "kind": "other"
+      },
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "sold",
+      "asOf": "2026-08-05",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035134.pdf"
         }
       ],
       "note": "sale reported by PTR with no annual baseline in our coverage"
@@ -833,6 +925,29 @@
     {
       "memberId": "H001082",
       "security": {
+        "ticker": "VSNT",
+        "kind": "other"
+      },
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "sold",
+      "asOf": "2026-08-05",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035134.pdf"
+        }
+      ],
+      "note": "sale reported by PTR with no annual baseline in our coverage"
+    },
+    {
+      "memberId": "H001082",
+      "security": {
         "ticker": "WPX",
         "kind": "other"
       },
@@ -876,6 +991,230 @@
     }
   ],
   "trades": [
+    {
+      "memberId": "H001082",
+      "assetRaw": "Comcast Corporation - Class A Common Stock (CMCSA) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-05",
+      "filedDate": "2026-08-10",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035134.pdf",
+      "late": false,
+      "provenance": "official"
+    },
+    {
+      "memberId": "H001082",
+      "assetRaw": "Diageo plc Common Stock (DEO) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-05",
+      "filedDate": "2026-08-10",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035134.pdf",
+      "late": false,
+      "provenance": "official"
+    },
+    {
+      "memberId": "H001082",
+      "assetRaw": "Estee Lauder Companies, Inc. (EL) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-05",
+      "filedDate": "2026-08-10",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035134.pdf",
+      "late": false,
+      "provenance": "official"
+    },
+    {
+      "memberId": "H001082",
+      "assetRaw": "Kenvue Inc. Common Stock (KVUE) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-05",
+      "filedDate": "2026-08-10",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035134.pdf",
+      "late": false,
+      "provenance": "official"
+    },
+    {
+      "memberId": "H001082",
+      "assetRaw": "Mondelez International, Inc. - Class A Common Stock (MDLZ) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-05",
+      "filedDate": "2026-08-10",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035134.pdf",
+      "late": false,
+      "provenance": "official"
+    },
+    {
+      "memberId": "H001082",
+      "assetRaw": "Organon & Co. Common Stock (OGN) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-05",
+      "filedDate": "2026-08-10",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035134.pdf",
+      "late": false,
+      "provenance": "official"
+    },
+    {
+      "memberId": "H001082",
+      "assetRaw": "Versant Media Group, Inc. - Class A Common Stock (VSNT) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-05",
+      "filedDate": "2026-08-10",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035134.pdf",
+      "late": false,
+      "provenance": "official"
+    },
+    {
+      "memberId": "H001082",
+      "assetRaw": "CADDO CNTY OKLA GOVERNMENTAL BLDG 05.00000% 09/01/2030 [GS]",
+      "security": null,
+      "side": "buy",
+      "owner": "joint",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2026-07-24",
+      "filedDate": "2026-08-10",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035134.pdf",
+      "late": false,
+      "provenance": "official"
+    },
+    {
+      "memberId": "H001082",
+      "assetRaw": "TULSA CNTY OKLA INDPT SCH DIST NO 02.00000% 09/01/2026 [GS]",
+      "security": null,
+      "side": "buy",
+      "owner": "joint",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2026-07-24",
+      "filedDate": "2026-08-10",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035134.pdf",
+      "late": false,
+      "provenance": "official"
+    },
+    {
+      "memberId": "H001082",
+      "assetRaw": "GRAND RIVER DAM AUTH OKLA REV REV BDS 03.12500% 06/01/2029 [GS]",
+      "security": null,
+      "side": "buy",
+      "owner": "joint",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2026-07-20",
+      "filedDate": "2026-08-10",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035134.pdf",
+      "late": false,
+      "provenance": "official"
+    },
+    {
+      "memberId": "H001082",
+      "assetRaw": "KINGFISHER CNTY OKLA EDL FACS AUTH EDL 03.00000% 03/01/2031 [GS]",
+      "security": null,
+      "side": "buy",
+      "owner": "joint",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2026-07-20",
+      "filedDate": "2026-08-10",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035134.pdf",
+      "late": false,
+      "provenance": "official"
+    },
+    {
+      "memberId": "H001082",
+      "assetRaw": "LAWTON OKLA GO BDS SER. 2019 02.00000% 12/01/2027 [GS]",
+      "security": null,
+      "side": "buy",
+      "owner": "joint",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2026-07-17",
+      "filedDate": "2026-08-10",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035134.pdf",
+      "late": false,
+      "provenance": "official"
+    },
+    {
+      "memberId": "H001082",
+      "assetRaw": "OKLAHOMA CNTY OKLA FIN AUTH LEASE REV 03.00000% 12/01/2028 [GS]",
+      "security": null,
+      "side": "buy",
+      "owner": "joint",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2026-07-17",
+      "filedDate": "2026-08-10",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035134.pdf",
+      "late": false,
+      "provenance": "official"
+    },
+    {
+      "memberId": "H001082",
+      "assetRaw": "EDMOND OKLA PUB WKS AUTH SALES TAX & 03.00000% 07/01/2033 [GS]",
+      "security": null,
+      "side": "buy",
+      "owner": "joint",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2026-07-16",
+      "filedDate": "2026-08-10",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035134.pdf",
+      "late": false,
+      "provenance": "official"
+    },
     {
       "memberId": "H001082",
       "assetRaw": "MORGAN STANLEY FIN LLC MTN ZERO CPN [CS]",
@@ -17379,6 +17718,62 @@
     {
       "date": "2026-05-06",
       "value": 3000000.5
+    },
+    {
+      "date": "2026-07-16",
+      "value": 32500.5
+    },
+    {
+      "date": "2026-07-17",
+      "value": 32500.5
+    },
+    {
+      "date": "2026-07-17",
+      "value": 32500.5
+    },
+    {
+      "date": "2026-07-20",
+      "value": 32500.5
+    },
+    {
+      "date": "2026-07-20",
+      "value": 175000.5
+    },
+    {
+      "date": "2026-07-24",
+      "value": 75000.5
+    },
+    {
+      "date": "2026-07-24",
+      "value": 175000.5
+    },
+    {
+      "date": "2026-08-05",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-05",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-05",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-05",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-05",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-05",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-05",
+      "value": 8000.5
     }
   ],
   "measured": null

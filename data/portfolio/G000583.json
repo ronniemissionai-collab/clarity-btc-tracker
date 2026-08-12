@@ -243,6 +243,29 @@
     {
       "memberId": "G000583",
       "security": {
+        "ticker": "CCI",
+        "kind": "other"
+      },
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "sold",
+      "asOf": "2026-07-23",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035186.pdf"
+        }
+      ],
+      "note": "sale reported by PTR with no annual baseline in our coverage"
+    },
+    {
+      "memberId": "G000583",
+      "security": {
         "ticker": "CMI",
         "kind": "other"
       },
@@ -284,6 +307,28 @@
         }
       ],
       "note": "sale reported by PTR with no annual baseline in our coverage"
+    },
+    {
+      "memberId": "G000583",
+      "security": {
+        "ticker": "CRWD",
+        "kind": "other"
+      },
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "holds",
+      "asOf": "2026-07-15",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035186.pdf"
+        }
+      ]
     },
     {
       "memberId": "G000583",
@@ -433,8 +478,8 @@
         "lo": 2002,
         "hi": 30000
       },
-      "status": "holds",
-      "asOf": "2026-05-01",
+      "status": "sold",
+      "asOf": "2026-07-14",
       "extraction": "pdf-text",
       "verification": "unverified",
       "sources": [
@@ -445,6 +490,10 @@
         {
           "kind": "filing",
           "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034693.pdf"
+        },
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035186.pdf"
         }
       ]
     },
@@ -561,6 +610,50 @@
     {
       "memberId": "G000583",
       "security": {
+        "ticker": "GOOGM",
+        "kind": "other"
+      },
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "holds",
+      "asOf": "2026-07-24",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035186.pdf"
+        }
+      ]
+    },
+    {
+      "memberId": "G000583",
+      "security": {
+        "ticker": "GOOGN",
+        "kind": "other"
+      },
+      "owner": "joint",
+      "range": {
+        "lo": 2002,
+        "hi": 30000
+      },
+      "status": "holds",
+      "asOf": "2026-07-24",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035186.pdf"
+        }
+      ]
+    },
+    {
+      "memberId": "G000583",
+      "security": {
         "ticker": "GS",
         "kind": "other"
       },
@@ -583,6 +676,29 @@
     {
       "memberId": "G000583",
       "security": {
+        "ticker": "GTLS",
+        "kind": "other"
+      },
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "sold",
+      "asOf": "2026-07-17",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035186.pdf"
+        }
+      ],
+      "note": "sale reported by PTR with no annual baseline in our coverage"
+    },
+    {
+      "memberId": "G000583",
+      "security": {
         "ticker": "HD",
         "kind": "other"
       },
@@ -599,6 +715,29 @@
         {
           "kind": "filing",
           "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034585.pdf"
+        }
+      ],
+      "note": "sale reported by PTR with no annual baseline in our coverage"
+    },
+    {
+      "memberId": "G000583",
+      "security": {
+        "ticker": "IBM",
+        "kind": "other"
+      },
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "sold",
+      "asOf": "2026-07-16",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035186.pdf"
         }
       ],
       "note": "sale reported by PTR with no annual baseline in our coverage"
@@ -791,17 +930,21 @@
       },
       "owner": "joint",
       "range": {
-        "lo": 1001,
-        "hi": 15000
+        "lo": 2002,
+        "hi": 30000
       },
       "status": "holds",
-      "asOf": "2026-02-02",
+      "asOf": "2026-07-17",
       "extraction": "pdf-text",
       "verification": "unverified",
       "sources": [
         {
           "kind": "filing",
           "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034130.pdf"
+        },
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035186.pdf"
         }
       ]
     },
@@ -943,6 +1086,28 @@
     {
       "memberId": "G000583",
       "security": {
+        "ticker": "NICE",
+        "kind": "other"
+      },
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "holds",
+      "asOf": "2026-07-20",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035186.pdf"
+        }
+      ]
+    },
+    {
+      "memberId": "G000583",
+      "security": {
         "ticker": "NOW",
         "kind": "other"
       },
@@ -1019,17 +1184,21 @@
       },
       "owner": "joint",
       "range": {
-        "lo": 1001,
-        "hi": 15000
+        "lo": 2002,
+        "hi": 30000
       },
       "status": "holds",
-      "asOf": "2026-05-14",
+      "asOf": "2026-07-16",
       "extraction": "pdf-text",
       "verification": "unverified",
       "sources": [
         {
           "kind": "filing",
           "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034693.pdf"
+        },
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035186.pdf"
         }
       ]
     },
@@ -1100,6 +1269,28 @@
         }
       ],
       "note": "sale reported by PTR with no annual baseline in our coverage"
+    },
+    {
+      "memberId": "G000583",
+      "security": {
+        "ticker": "SAIL",
+        "kind": "other"
+      },
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "holds",
+      "asOf": "2026-07-20",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035186.pdf"
+        }
+      ]
     },
     {
       "memberId": "G000583",
@@ -1422,6 +1613,215 @@
     }
   ],
   "trades": [
+    {
+      "memberId": "G000583",
+      "assetRaw": "Alphabet Inc. - Depositary Shares representing a 1/20th Interest in a Share of Series A Mandatory Convertible Preferred Stock (GOOGM) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-07-24",
+      "filedDate": "2026-08-10",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035186.pdf",
+      "late": false,
+      "provenance": "official"
+    },
+    {
+      "memberId": "G000583",
+      "assetRaw": "Alphabet Inc. - Depositary Shares representing a 1/20th Interest in a Share of Series B Mandatory Convertible Preferred Stock (GOOGN) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-07-24",
+      "filedDate": "2026-08-10",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035186.pdf",
+      "late": false,
+      "provenance": "official"
+    },
+    {
+      "memberId": "G000583",
+      "assetRaw": "Alphabet Inc. - Depositary Shares representing a 1/20th Interest in a Share of Series B Mandatory Convertible Preferred Stock (GOOGN) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-07-23",
+      "filedDate": "2026-08-10",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035186.pdf",
+      "late": false,
+      "provenance": "official"
+    },
+    {
+      "memberId": "G000583",
+      "assetRaw": "Crown Castle Inc. Common Stock (CCI) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-07-23",
+      "filedDate": "2026-08-10",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035186.pdf",
+      "late": false,
+      "provenance": "official"
+    },
+    {
+      "memberId": "G000583",
+      "assetRaw": "NICE Ltd - American Depositary Shares each representing one Ordinary Share (NICE) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-07-20",
+      "filedDate": "2026-08-10",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035186.pdf",
+      "late": false,
+      "provenance": "official"
+    },
+    {
+      "memberId": "G000583",
+      "assetRaw": "SailPoint Technologies Holdings, Inc. (SAIL) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-07-20",
+      "filedDate": "2026-08-10",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035186.pdf",
+      "late": false,
+      "provenance": "official"
+    },
+    {
+      "memberId": "G000583",
+      "assetRaw": "Chart Industries, Inc. (GTLS) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-07-17",
+      "filedDate": "2026-08-10",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035186.pdf",
+      "late": false,
+      "provenance": "official"
+    },
+    {
+      "memberId": "G000583",
+      "assetRaw": "Monster Beverage Corporation - Common Stock (MNST) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-07-17",
+      "filedDate": "2026-08-10",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035186.pdf",
+      "late": false,
+      "provenance": "official"
+    },
+    {
+      "memberId": "G000583",
+      "assetRaw": "International Business Machines Corporation Common Stock (IBM) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-07-16",
+      "filedDate": "2026-08-10",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035186.pdf",
+      "late": false,
+      "provenance": "official"
+    },
+    {
+      "memberId": "G000583",
+      "assetRaw": "Palo Alto Networks, Inc. (PANW) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-07-16",
+      "filedDate": "2026-08-10",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035186.pdf",
+      "late": false,
+      "provenance": "official"
+    },
+    {
+      "memberId": "G000583",
+      "assetRaw": "CrowdStrike Holdings, Inc. - Class A Common Stock (CRWD) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-07-15",
+      "filedDate": "2026-08-10",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035186.pdf",
+      "late": false,
+      "provenance": "official"
+    },
+    {
+      "memberId": "G000583",
+      "assetRaw": "International Business Machines Corporation Common Stock (IBM) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-07-15",
+      "filedDate": "2026-08-10",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035186.pdf",
+      "late": false,
+      "note": "partial sale",
+      "provenance": "official"
+    },
+    {
+      "memberId": "G000583",
+      "assetRaw": "Fabrinet Ordinary Shares (FN) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-07-14",
+      "filedDate": "2026-08-10",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035186.pdf",
+      "late": false,
+      "provenance": "official"
+    },
     {
       "memberId": "G000583",
       "assetRaw": "Nintendo Co Ltd ADR (NTDOY) [ST]",
@@ -70995,15 +71395,67 @@
     {
       "date": "2026-06-17",
       "value": 8000.5
+    },
+    {
+      "date": "2026-07-14",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-07-15",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-07-15",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-07-16",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-07-16",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-07-17",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-07-17",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-07-20",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-07-20",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-07-23",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-07-23",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-07-24",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-07-24",
+      "value": 8000.5
     }
   ],
   "measured": {
-    "return": 111.9,
-    "excess": 4.4,
+    "return": 111.1,
+    "excess": 4.2,
     "method": "midpoint",
     "benchmark": "SPY",
-    "window": "disclosed buys 2017-01-03 to 2026-05-22, since-trade, midpoint-weighted",
-    "asOf": "2026-08-11",
+    "window": "disclosed buys 2017-01-03 to 2026-07-24, since-trade, midpoint-weighted",
+    "asOf": "2026-08-12",
     "note": "Estimate: position sizes are disclosed-range midpoints, never exact amounts. 146 unpriceable position(s) excluded (options or no resolvable price)."
   }
 }
