@@ -12,6 +12,29 @@
     {
       "memberId": "K000376",
       "security": {
+        "ticker": "ABT",
+        "kind": "other"
+      },
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "sold",
+      "asOf": "2026-07-17",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035203.pdf"
+        }
+      ],
+      "note": "sale reported by PTR with no annual baseline in our coverage"
+    },
+    {
+      "memberId": "K000376",
+      "security": {
         "ticker": "BMY",
         "kind": "other"
       },
@@ -54,9 +77,120 @@
         }
       ],
       "note": "sale reported by PTR with no annual baseline in our coverage"
+    },
+    {
+      "memberId": "K000376",
+      "security": {
+        "ticker": "DIS",
+        "kind": "other"
+      },
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "sold",
+      "asOf": "2026-07-17",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035203.pdf"
+        }
+      ],
+      "note": "sale reported by PTR with no annual baseline in our coverage"
+    },
+    {
+      "memberId": "K000376",
+      "security": {
+        "ticker": "PEP",
+        "kind": "other"
+      },
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "status": "sold",
+      "asOf": "2026-07-17",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035203.pdf"
+        }
+      ],
+      "note": "sale reported by PTR with no annual baseline in our coverage"
     }
   ],
   "trades": [
+    {
+      "memberId": "K000376",
+      "assetRaw": "Abbott Laboratories Common Stock (ABT) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-07-17",
+      "filedDate": "2026-08-12",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035203.pdf",
+      "late": false,
+      "provenance": "official"
+    },
+    {
+      "memberId": "K000376",
+      "assetRaw": "Pepsico, Inc. (PEP) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2026-07-17",
+      "filedDate": "2026-08-12",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035203.pdf",
+      "late": false,
+      "provenance": "official"
+    },
+    {
+      "memberId": "K000376",
+      "assetRaw": "Walt Disney Company (DIS) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-07-17",
+      "filedDate": "2026-08-12",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035203.pdf",
+      "late": false,
+      "provenance": "official"
+    },
+    {
+      "memberId": "K000376",
+      "assetRaw": "Florida St Hsg Fin Corp Rev 3% due 7/1/52 [GS]",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-07-01",
+      "filedDate": "2026-08-12",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035203.pdf",
+      "late": false,
+      "note": "partial sale",
+      "provenance": "official"
+    },
     {
       "memberId": "K000376",
       "assetRaw": "California St Go Call 12/1/27 4% due 12/1/47 [GS]",
@@ -378,6 +512,22 @@
       "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030892.pdf",
       "late": false,
       "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000376",
+      "assetRaw": "California Cmnty Choice Fing & Clean Ener 5% due 10/1/2034% [GS]",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2025-07-17",
+      "filedDate": "2026-08-12",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035203.pdf",
+      "late": true,
+      "provenance": "official"
     },
     {
       "memberId": "K000376",
@@ -1306,6 +1456,10 @@
     },
     {
       "date": "2025-07-17",
+      "value": 75000.5
+    },
+    {
+      "date": "2025-07-17",
       "value": 32500.5
     },
     {
@@ -1386,6 +1540,22 @@
     },
     {
       "date": "2026-06-01",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-07-01",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-07-17",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-07-17",
+      "value": 32500.5
+    },
+    {
+      "date": "2026-07-17",
       "value": 8000.5
     }
   ],

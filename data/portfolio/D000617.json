@@ -835,6 +835,22 @@
   "trades": [
     {
       "memberId": "D000617",
+      "assetRaw": "Fort Bend Tex Indpt SCH Dist Variable 04.00000% 08/01/2054 Rate Unltd Tax BLDG Ref BDS Ser. 2024B [GS]",
+      "security": null,
+      "side": "buy",
+      "owner": "joint",
+      "range": {
+        "lo": 250001,
+        "hi": 500000
+      },
+      "transactionDate": "2026-07-23",
+      "filedDate": "2026-08-11",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035175.pdf",
+      "late": false,
+      "provenance": "official"
+    },
+    {
+      "memberId": "D000617",
       "assetRaw": "Pacific Co B1 Bond - Trimble 05/29/28 [CS]",
       "security": null,
       "side": "buy",
@@ -14136,6 +14152,10 @@
     {
       "date": "2026-05-28",
       "value": 750000.5
+    },
+    {
+      "date": "2026-07-23",
+      "value": 375000.5
     }
   ],
   "measured": null
