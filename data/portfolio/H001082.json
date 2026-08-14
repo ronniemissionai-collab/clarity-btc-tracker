@@ -714,6 +714,29 @@
     {
       "memberId": "H001082",
       "security": {
+        "ticker": "OGN",
+        "kind": "other"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "sold",
+      "asOf": "2026-08-05",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035196.pdf"
+        }
+      ],
+      "note": "sale reported by PTR with no annual baseline in our coverage"
+    },
+    {
+      "memberId": "H001082",
+      "security": {
         "ticker": "OKE",
         "kind": "other"
       },
@@ -948,6 +971,29 @@
     {
       "memberId": "H001082",
       "security": {
+        "ticker": "VSNT",
+        "kind": "other"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "sold",
+      "asOf": "2026-08-05",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035196.pdf"
+        }
+      ],
+      "note": "sale reported by PTR with no annual baseline in our coverage"
+    },
+    {
+      "memberId": "H001082",
+      "security": {
         "ticker": "WPX",
         "kind": "other"
       },
@@ -991,6 +1037,38 @@
     }
   ],
   "trades": [
+    {
+      "memberId": "H001082",
+      "assetRaw": "2000166537 JT Organon & Co. Common Stock (OGN) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-05",
+      "filedDate": "2026-08-12",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035196.pdf",
+      "late": false,
+      "provenance": "official"
+    },
+    {
+      "memberId": "H001082",
+      "assetRaw": "2000166538 JT Versant Media Group, Inc. - Class A Common Stock (VSNT) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-05",
+      "filedDate": "2026-08-12",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035196.pdf",
+      "late": false,
+      "provenance": "official"
+    },
     {
       "memberId": "H001082",
       "assetRaw": "Comcast Corporation - Class A Common Stock (CMCSA) [ST]",
@@ -17746,6 +17824,14 @@
     {
       "date": "2026-07-24",
       "value": 175000.5
+    },
+    {
+      "date": "2026-08-05",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-05",
+      "value": 8000.5
     },
     {
       "date": "2026-08-05",

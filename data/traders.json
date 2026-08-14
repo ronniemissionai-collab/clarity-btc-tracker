@@ -9,12 +9,12 @@
       }
     ],
     "measured": {
-      "return": 111.1,
-      "excess": 4.7,
+      "return": 109.8,
+      "excess": 2.9,
       "method": "midpoint",
       "benchmark": "SPY",
       "window": "disclosed buys 2017-01-03 to 2026-07-24, since-trade, midpoint-weighted",
-      "asOf": "2026-08-13",
+      "asOf": "2026-08-14",
       "note": "Estimate: position sizes are disclosed-range midpoints, never exact amounts. 146 unpriceable position(s) excluded (options or no resolvable price)."
     },
     "attribution": "joint + spouse",
@@ -5269,12 +5269,12 @@
       }
     ],
     "measured": {
-      "return": 84.4,
-      "excess": 10.9,
+      "return": 84.6,
+      "excess": 10.6,
       "method": "midpoint",
       "benchmark": "SPY",
       "window": "disclosed buys 2019-01-18 to 2026-06-30, since-trade, midpoint-weighted",
-      "asOf": "2026-08-13",
+      "asOf": "2026-08-14",
       "note": "Estimate: position sizes are disclosed-range midpoints, never exact amounts. 154 unpriceable position(s) excluded (options or no resolvable price)."
     },
     "attribution": "self",
@@ -10653,12 +10653,12 @@
       }
     ],
     "measured": {
-      "return": 37.6,
-      "excess": 13.5,
+      "return": 38.5,
+      "excess": 14,
       "method": "midpoint",
       "benchmark": "SPY",
       "window": "disclosed buys 2024-03-11 to 2026-02-06, since-trade, midpoint-weighted",
-      "asOf": "2026-08-13",
+      "asOf": "2026-08-14",
       "note": "Estimate: position sizes are disclosed-range midpoints, never exact amounts. 27 unpriceable position(s) excluded (options or no resolvable price)."
     },
     "attribution": "spouse",
@@ -13444,6 +13444,401 @@
     ]
   },
   {
+    "memberId": "K000389",
+    "tradeCount": 856,
+    "claims": [
+      {
+        "quote": "Most trades in Congress - 3,944 trades reported in 2025, the highest raw count of any member.",
+        "sourceUrl": "https://unusualwhales.substack.com/p/congressional-trading-report-2025"
+      }
+    ],
+    "measured": {
+      "return": 11.4,
+      "excess": 1,
+      "method": "midpoint",
+      "benchmark": "SPY",
+      "window": "disclosed buys 2026-02-06 to 2026-07-20, since-trade, midpoint-weighted",
+      "asOf": "2026-08-14",
+      "note": "Estimate: position sizes are disclosed-range midpoints, never exact amounts. 450 unpriceable position(s) excluded (options or no resolvable price)."
+    },
+    "attribution": "dependent + spouse",
+    "note": "Partly meme-driven: volume comes from spouse and dependent trusts making hundreds of tiny diversified trades ($1K-$15K), not conviction bets.",
+    "series": [
+      {
+        "date": "2026-02-06",
+        "value": 8000.5
+      },
+      {
+        "date": "2026-02-19",
+        "value": 175000.5
+      },
+      {
+        "date": "2026-02-24",
+        "value": 32500.5
+      },
+      {
+        "date": "2026-02-24",
+        "value": 32500.5
+      },
+      {
+        "date": "2026-02-24",
+        "value": 32500.5
+      },
+      {
+        "date": "2026-02-24",
+        "value": 8000.5
+      },
+      {
+        "date": "2026-02-24",
+        "value": 8000.5
+      },
+      {
+        "date": "2026-02-24",
+        "value": 32500.5
+      },
+      {
+        "date": "2026-02-24",
+        "value": 8000.5
+      },
+      {
+        "date": "2026-02-24",
+        "value": 32500.5
+      },
+      {
+        "date": "2026-02-24",
+        "value": 8000.5
+      },
+      {
+        "date": "2026-02-24",
+        "value": 8000.5
+      },
+      {
+        "date": "2026-02-24",
+        "value": 8000.5
+      },
+      {
+        "date": "2026-02-24",
+        "value": 8000.5
+      },
+      {
+        "date": "2026-02-24",
+        "value": 32500.5
+      },
+      {
+        "date": "2026-02-24",
+        "value": 75000.5
+      },
+      {
+        "date": "2026-02-24",
+        "value": 8000.5
+      },
+      {
+        "date": "2026-03-06",
+        "value": 8000.5
+      },
+      {
+        "date": "2026-03-06",
+        "value": 8000.5
+      },
+      {
+        "date": "2026-03-11",
+        "value": 8000.5
+      },
+      {
+        "date": "2026-03-30",
+        "value": 8000.5
+      },
+      {
+        "date": "2026-03-30",
+        "value": 8000.5
+      },
+      {
+        "date": "2026-03-30",
+        "value": 32500.5
+      },
+      {
+        "date": "2026-03-30",
+        "value": 8000.5
+      },
+      {
+        "date": "2026-03-30",
+        "value": 8000.5
+      },
+      {
+        "date": "2026-03-30",
+        "value": 8000.5
+      },
+      {
+        "date": "2026-03-30",
+        "value": 8000.5
+      },
+      {
+        "date": "2026-03-30",
+        "value": 8000.5
+      },
+      {
+        "date": "2026-04-02",
+        "value": 8000.5
+      },
+      {
+        "date": "2026-04-02",
+        "value": 8000.5
+      },
+      {
+        "date": "2026-04-02",
+        "value": 8000.5
+      },
+      {
+        "date": "2026-04-13",
+        "value": 8000.5
+      },
+      {
+        "date": "2026-04-13",
+        "value": 8000.5
+      },
+      {
+        "date": "2026-04-13",
+        "value": 8000.5
+      },
+      {
+        "date": "2026-04-13",
+        "value": 8000.5
+      },
+      {
+        "date": "2026-04-13",
+        "value": 32500.5
+      },
+      {
+        "date": "2026-04-13",
+        "value": 32500.5
+      },
+      {
+        "date": "2026-04-13",
+        "value": 8000.5
+      },
+      {
+        "date": "2026-04-13",
+        "value": 32500.5
+      },
+      {
+        "date": "2026-04-13",
+        "value": 8000.5
+      },
+      {
+        "date": "2026-04-13",
+        "value": 8000.5
+      },
+      {
+        "date": "2026-04-13",
+        "value": 8000.5
+      },
+      {
+        "date": "2026-04-13",
+        "value": 8000.5
+      },
+      {
+        "date": "2026-04-13",
+        "value": 8000.5
+      },
+      {
+        "date": "2026-04-13",
+        "value": 8000.5
+      },
+      {
+        "date": "2026-04-13",
+        "value": 32500.5
+      },
+      {
+        "date": "2026-04-13",
+        "value": 8000.5
+      },
+      {
+        "date": "2026-04-13",
+        "value": 8000.5
+      },
+      {
+        "date": "2026-04-13",
+        "value": 8000.5
+      },
+      {
+        "date": "2026-04-21",
+        "value": 32500.5
+      },
+      {
+        "date": "2026-04-24",
+        "value": 8000.5
+      },
+      {
+        "date": "2026-04-24",
+        "value": 8000.5
+      },
+      {
+        "date": "2026-04-24",
+        "value": 8000.5
+      },
+      {
+        "date": "2026-04-24",
+        "value": 8000.5
+      },
+      {
+        "date": "2026-05-01",
+        "value": 8000.5
+      },
+      {
+        "date": "2026-05-18",
+        "value": 8000.5
+      },
+      {
+        "date": "2026-06-01",
+        "value": 8000.5
+      },
+      {
+        "date": "2026-06-02",
+        "value": 8000.5
+      },
+      {
+        "date": "2026-06-02",
+        "value": 8000.5
+      },
+      {
+        "date": "2026-06-02",
+        "value": 32500.5
+      },
+      {
+        "date": "2026-06-02",
+        "value": 8000.5
+      },
+      {
+        "date": "2026-06-02",
+        "value": 8000.5
+      },
+      {
+        "date": "2026-06-02",
+        "value": 8000.5
+      },
+      {
+        "date": "2026-06-02",
+        "value": 8000.5
+      },
+      {
+        "date": "2026-06-02",
+        "value": 8000.5
+      },
+      {
+        "date": "2026-06-02",
+        "value": 32500.5
+      },
+      {
+        "date": "2026-06-02",
+        "value": 8000.5
+      },
+      {
+        "date": "2026-06-05",
+        "value": 32500.5
+      },
+      {
+        "date": "2026-06-05",
+        "value": 8000.5
+      },
+      {
+        "date": "2026-06-05",
+        "value": 8000.5
+      },
+      {
+        "date": "2026-06-05",
+        "value": 8000.5
+      },
+      {
+        "date": "2026-06-05",
+        "value": 8000.5
+      },
+      {
+        "date": "2026-07-07",
+        "value": 8000.5
+      },
+      {
+        "date": "2026-07-07",
+        "value": 8000.5
+      },
+      {
+        "date": "2026-07-07",
+        "value": 8000.5
+      },
+      {
+        "date": "2026-07-07",
+        "value": 8000.5
+      },
+      {
+        "date": "2026-07-07",
+        "value": 8000.5
+      },
+      {
+        "date": "2026-07-08",
+        "value": 8000.5
+      },
+      {
+        "date": "2026-07-20",
+        "value": 8000.5
+      },
+      {
+        "date": "2026-07-20",
+        "value": 8000.5
+      },
+      {
+        "date": "2026-07-20",
+        "value": 8000.5
+      },
+      {
+        "date": "2026-07-20",
+        "value": 8000.5
+      },
+      {
+        "date": "2026-07-20",
+        "value": 8000.5
+      },
+      {
+        "date": "2026-07-20",
+        "value": 8000.5
+      },
+      {
+        "date": "2026-07-20",
+        "value": 8000.5
+      },
+      {
+        "date": "2026-07-20",
+        "value": 8000.5
+      },
+      {
+        "date": "2026-07-20",
+        "value": 8000.5
+      },
+      {
+        "date": "2026-07-20",
+        "value": 8000.5
+      },
+      {
+        "date": "2026-07-20",
+        "value": 8000.5
+      },
+      {
+        "date": "2026-07-20",
+        "value": 8000.5
+      },
+      {
+        "date": "2026-07-20",
+        "value": 8000.5
+      },
+      {
+        "date": "2026-07-20",
+        "value": 32500.5
+      },
+      {
+        "date": "2026-07-20",
+        "value": 8000.5
+      }
+    ]
+  },
+  {
     "memberId": "P000608",
     "tradeCount": 673,
     "claims": [
@@ -13454,12 +13849,12 @@
       }
     ],
     "measured": {
-      "return": 212.9,
-      "excess": 2.4,
+      "return": 214.8,
+      "excess": 3.5,
       "method": "midpoint",
       "benchmark": "SPY",
       "window": "disclosed buys 2013-02-13 to 2025-09-09, since-trade, midpoint-weighted",
-      "asOf": "2026-08-13",
+      "asOf": "2026-08-14",
       "note": "Estimate: position sizes are disclosed-range midpoints, never exact amounts. 251 unpriceable position(s) excluded (options or no resolvable price)."
     },
     "attribution": "spouse",
@@ -14188,317 +14583,6 @@
     ]
   },
   {
-    "memberId": "K000389",
-    "tradeCount": 582,
-    "claims": [
-      {
-        "quote": "Most trades in Congress - 3,944 trades reported in 2025, the highest raw count of any member.",
-        "sourceUrl": "https://unusualwhales.substack.com/p/congressional-trading-report-2025"
-      }
-    ],
-    "measured": {
-      "return": 12.4,
-      "excess": 1.2,
-      "method": "midpoint",
-      "benchmark": "SPY",
-      "window": "disclosed buys 2026-02-06 to 2026-06-05, since-trade, midpoint-weighted",
-      "asOf": "2026-08-13",
-      "note": "Estimate: position sizes are disclosed-range midpoints, never exact amounts. 320 unpriceable position(s) excluded (options or no resolvable price)."
-    },
-    "attribution": "dependent + spouse",
-    "note": "Partly meme-driven: volume comes from spouse and dependent trusts making hundreds of tiny diversified trades ($1K-$15K), not conviction bets.",
-    "series": [
-      {
-        "date": "2026-02-06",
-        "value": 8000.5
-      },
-      {
-        "date": "2026-02-19",
-        "value": 175000.5
-      },
-      {
-        "date": "2026-02-24",
-        "value": 32500.5
-      },
-      {
-        "date": "2026-02-24",
-        "value": 32500.5
-      },
-      {
-        "date": "2026-02-24",
-        "value": 32500.5
-      },
-      {
-        "date": "2026-02-24",
-        "value": 8000.5
-      },
-      {
-        "date": "2026-02-24",
-        "value": 8000.5
-      },
-      {
-        "date": "2026-02-24",
-        "value": 32500.5
-      },
-      {
-        "date": "2026-02-24",
-        "value": 8000.5
-      },
-      {
-        "date": "2026-02-24",
-        "value": 32500.5
-      },
-      {
-        "date": "2026-02-24",
-        "value": 8000.5
-      },
-      {
-        "date": "2026-02-24",
-        "value": 8000.5
-      },
-      {
-        "date": "2026-02-24",
-        "value": 8000.5
-      },
-      {
-        "date": "2026-02-24",
-        "value": 8000.5
-      },
-      {
-        "date": "2026-02-24",
-        "value": 32500.5
-      },
-      {
-        "date": "2026-02-24",
-        "value": 75000.5
-      },
-      {
-        "date": "2026-02-24",
-        "value": 8000.5
-      },
-      {
-        "date": "2026-03-06",
-        "value": 8000.5
-      },
-      {
-        "date": "2026-03-06",
-        "value": 8000.5
-      },
-      {
-        "date": "2026-03-11",
-        "value": 8000.5
-      },
-      {
-        "date": "2026-03-30",
-        "value": 8000.5
-      },
-      {
-        "date": "2026-03-30",
-        "value": 8000.5
-      },
-      {
-        "date": "2026-03-30",
-        "value": 32500.5
-      },
-      {
-        "date": "2026-03-30",
-        "value": 8000.5
-      },
-      {
-        "date": "2026-03-30",
-        "value": 8000.5
-      },
-      {
-        "date": "2026-03-30",
-        "value": 8000.5
-      },
-      {
-        "date": "2026-03-30",
-        "value": 8000.5
-      },
-      {
-        "date": "2026-03-30",
-        "value": 8000.5
-      },
-      {
-        "date": "2026-04-02",
-        "value": 8000.5
-      },
-      {
-        "date": "2026-04-02",
-        "value": 8000.5
-      },
-      {
-        "date": "2026-04-02",
-        "value": 8000.5
-      },
-      {
-        "date": "2026-04-13",
-        "value": 8000.5
-      },
-      {
-        "date": "2026-04-13",
-        "value": 8000.5
-      },
-      {
-        "date": "2026-04-13",
-        "value": 8000.5
-      },
-      {
-        "date": "2026-04-13",
-        "value": 8000.5
-      },
-      {
-        "date": "2026-04-13",
-        "value": 32500.5
-      },
-      {
-        "date": "2026-04-13",
-        "value": 32500.5
-      },
-      {
-        "date": "2026-04-13",
-        "value": 8000.5
-      },
-      {
-        "date": "2026-04-13",
-        "value": 32500.5
-      },
-      {
-        "date": "2026-04-13",
-        "value": 8000.5
-      },
-      {
-        "date": "2026-04-13",
-        "value": 8000.5
-      },
-      {
-        "date": "2026-04-13",
-        "value": 8000.5
-      },
-      {
-        "date": "2026-04-13",
-        "value": 8000.5
-      },
-      {
-        "date": "2026-04-13",
-        "value": 8000.5
-      },
-      {
-        "date": "2026-04-13",
-        "value": 8000.5
-      },
-      {
-        "date": "2026-04-13",
-        "value": 32500.5
-      },
-      {
-        "date": "2026-04-13",
-        "value": 8000.5
-      },
-      {
-        "date": "2026-04-13",
-        "value": 8000.5
-      },
-      {
-        "date": "2026-04-13",
-        "value": 8000.5
-      },
-      {
-        "date": "2026-04-21",
-        "value": 32500.5
-      },
-      {
-        "date": "2026-04-24",
-        "value": 8000.5
-      },
-      {
-        "date": "2026-04-24",
-        "value": 8000.5
-      },
-      {
-        "date": "2026-04-24",
-        "value": 8000.5
-      },
-      {
-        "date": "2026-04-24",
-        "value": 8000.5
-      },
-      {
-        "date": "2026-05-01",
-        "value": 8000.5
-      },
-      {
-        "date": "2026-05-18",
-        "value": 8000.5
-      },
-      {
-        "date": "2026-06-01",
-        "value": 8000.5
-      },
-      {
-        "date": "2026-06-02",
-        "value": 8000.5
-      },
-      {
-        "date": "2026-06-02",
-        "value": 8000.5
-      },
-      {
-        "date": "2026-06-02",
-        "value": 32500.5
-      },
-      {
-        "date": "2026-06-02",
-        "value": 8000.5
-      },
-      {
-        "date": "2026-06-02",
-        "value": 8000.5
-      },
-      {
-        "date": "2026-06-02",
-        "value": 8000.5
-      },
-      {
-        "date": "2026-06-02",
-        "value": 8000.5
-      },
-      {
-        "date": "2026-06-02",
-        "value": 8000.5
-      },
-      {
-        "date": "2026-06-02",
-        "value": 32500.5
-      },
-      {
-        "date": "2026-06-02",
-        "value": 8000.5
-      },
-      {
-        "date": "2026-06-05",
-        "value": 32500.5
-      },
-      {
-        "date": "2026-06-05",
-        "value": 8000.5
-      },
-      {
-        "date": "2026-06-05",
-        "value": 8000.5
-      },
-      {
-        "date": "2026-06-05",
-        "value": 8000.5
-      },
-      {
-        "date": "2026-06-05",
-        "value": 8000.5
-      }
-    ]
-  },
-  {
     "memberId": "B001236",
     "tradeCount": 435,
     "claims": [
@@ -14509,12 +14593,12 @@
       }
     ],
     "measured": {
-      "return": 14.6,
-      "excess": -11.2,
+      "return": 14.9,
+      "excess": -11.1,
       "method": "midpoint",
       "benchmark": "SPY",
       "window": "disclosed buys 2023-08-29 to 2026-06-25, since-trade, midpoint-weighted",
-      "asOf": "2026-08-13",
+      "asOf": "2026-08-14",
       "note": "Estimate: position sizes are disclosed-range midpoints, never exact amounts. 5 unpriceable position(s) excluded (options or no resolvable price)."
     },
     "attribution": "joint + self",
@@ -15417,11 +15501,11 @@
     ],
     "measured": {
       "return": 3.1,
-      "excess": -7.9,
+      "excess": -8.2,
       "method": "midpoint",
       "benchmark": "SPY",
       "window": "disclosed buys 2026-02-05 to 2026-06-29, since-trade, midpoint-weighted",
-      "asOf": "2026-08-13",
+      "asOf": "2026-08-14",
       "note": "Estimate: position sizes are disclosed-range midpoints, never exact amounts. 250 unpriceable position(s) excluded (options or no resolvable price)."
     },
     "attribution": "spouse",
@@ -15619,12 +15703,12 @@
       }
     ],
     "measured": {
-      "return": 32.4,
-      "excess": -11.4,
+      "return": 33,
+      "excess": -11,
       "method": "midpoint",
       "benchmark": "SPY",
       "window": "disclosed buys 2023-02-21 to 2026-06-18, since-trade, midpoint-weighted",
-      "asOf": "2026-08-13",
+      "asOf": "2026-08-14",
       "note": "Estimate: position sizes are disclosed-range midpoints, never exact amounts. 5 unpriceable position(s) excluded (options or no resolvable price)."
     },
     "attribution": "dependent + self",
@@ -16663,12 +16747,12 @@
       }
     ],
     "measured": {
-      "return": -25.8,
-      "excess": -56.3,
+      "return": -26.3,
+      "excess": -57,
       "method": "midpoint",
       "benchmark": "SPY",
       "window": "disclosed buys 2025-02-25 to 2025-11-28, since-trade, midpoint-weighted",
-      "asOf": "2026-08-13",
+      "asOf": "2026-08-14",
       "note": "Estimate: position sizes are disclosed-range midpoints, never exact amounts. 255 unpriceable position(s) excluded (options or no resolvable price)."
     },
     "attribution": "spouse + self",
@@ -16788,12 +16872,12 @@
       }
     ],
     "measured": {
-      "return": 58.4,
-      "excess": 30.1,
+      "return": 59.8,
+      "excess": 31.1,
       "method": "midpoint",
       "benchmark": "SPY",
       "window": "disclosed buys 2025-01-03 to 2026-06-04, since-trade, midpoint-weighted",
-      "asOf": "2026-08-13",
+      "asOf": "2026-08-14",
       "note": "Estimate: position sizes are disclosed-range midpoints, never exact amounts. 19 unpriceable position(s) excluded (options or no resolvable price)."
     },
     "attribution": "self",
@@ -17438,12 +17522,12 @@
       }
     ],
     "measured": {
-      "return": 173.2,
-      "excess": 78.3,
+      "return": 173.7,
+      "excess": 78.4,
       "method": "midpoint",
       "benchmark": "SPY",
       "window": "disclosed buys 2014-10-24 to 2026-01-16, since-trade, midpoint-weighted",
-      "asOf": "2026-08-13",
+      "asOf": "2026-08-14",
       "note": "Estimate: position sizes are disclosed-range midpoints, never exact amounts. 50 unpriceable position(s) excluded (options or no resolvable price)."
     },
     "attribution": "spouse",
@@ -17768,11 +17852,11 @@
     ],
     "measured": {
       "return": 34.6,
-      "excess": -1.6,
+      "excess": -2,
       "method": "midpoint",
       "benchmark": "SPY",
       "window": "disclosed buys 2023-01-18 to 2026-06-24, since-trade, midpoint-weighted",
-      "asOf": "2026-08-13",
+      "asOf": "2026-08-14",
       "note": "Estimate: position sizes are disclosed-range midpoints, never exact amounts. 9 unpriceable position(s) excluded (options or no resolvable price)."
     },
     "attribution": "self",

@@ -204,14 +204,14 @@
       "hi": 250000
     },
     "status": "holds",
-    "asOf": "2025-08-13",
+    "asOf": "2026-08-13",
     "extraction": "efd-html",
     "verification": "corroborated",
     "sources": [
       {
         "kind": "filing",
-        "url": "https://efdsearch.senate.gov/search/view/annual/8b455ae7-a24e-462a-95b8-78f7067c0d22/",
-        "title": "Annual Report for CY 2024"
+        "url": "https://efdsearch.senate.gov/search/view/annual/cf2a1a88-62f5-41ae-95ed-48a341687be7/",
+        "title": "Annual Report for CY 2025"
       },
       {
         "kind": "news",
@@ -224,7 +224,7 @@
         "title": "Bitcoin, Ethereum Lead US Congress Members' Crypto Holdings Under STOCK Act Disclosure | Gate News"
       }
     ],
-    "note": "from Annual Report for CY 2024: Bitcoin Exchange/Platform : River Financial Inc"
+    "note": "from Annual Report for CY 2025: Bitcoin Exchange/Platform : River Financial Inc"
   },
   {
     "memberId": "C001120",
@@ -1034,17 +1034,21 @@
       "lo": 1001,
       "hi": 15000
     },
-    "status": "sold",
-    "asOf": "2026-04-13",
+    "status": "holds",
+    "asOf": "2026-07-20",
     "extraction": "pdf-text",
-    "verification": "unverified",
+    "verification": "corroborated",
     "sources": [
       {
         "kind": "filing",
-        "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9115822.pdf"
+        "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116267.pdf"
+      },
+      {
+        "kind": "news",
+        "url": "https://www.quiverquant.com/stock/TSLA/",
+        "title": "TSLA | Tesla, Inc. Common Stock Stock Data, Price & News"
       }
-    ],
-    "note": "sale reported by PTR with no annual baseline in our coverage"
+    ]
   },
   {
     "memberId": "L000397",
@@ -1357,29 +1361,31 @@
     },
     "owner": "self",
     "range": {
-      "lo": 1165005,
-      "hi": 5350000
+      "lo": 1000001,
+      "hi": 5000000
     },
     "status": "holds",
-    "asOf": "2025-11-28",
+    "asOf": "2026-08-13",
     "extraction": "efd-html",
-    "verification": "unverified",
+    "verification": "corroborated",
     "sources": [
       {
         "kind": "filing",
-        "url": "https://efdsearch.senate.gov/search/view/annual/f0dda451-74f3-4b34-b6a9-71a8c593fbae/",
-        "title": "Annual Report for CY 2024"
+        "url": "https://efdsearch.senate.gov/search/view/annual/3e2b0cca-3ab7-428e-b2ce-f08691f27dd1/",
+        "title": "Annual Report for CY 2025"
       },
       {
-        "kind": "filing",
-        "url": "https://efdsearch.senate.gov/search/view/ptr/5d118fc0-14f4-426a-8d38-05056392b4d8/"
+        "kind": "news",
+        "url": "https://www.pennlive.com/politics/2026/05/pa-lawmaker-with-stake-in-crypto-firm-votes-for-bill-that-could-raise-its-profits.html",
+        "title": "Pennsylvania Sen. Dave McCormick voted to advance a crypto bill — and quietly holds a stake in Bitwise, a firm that could profit from it - pennlive.com"
       },
       {
-        "kind": "filing",
-        "url": "https://efdsearch.senate.gov/search/view/ptr/e337e1b4-ff0a-4b83-8a58-1d25a81ea26f/"
+        "kind": "news",
+        "url": "https://www.signalcongress.com/members/david-mccormick",
+        "title": "David Mccormick Stock Trades & STOCK Act Disclosures"
       }
     ],
-    "note": "from Annual Report for CY 2024: Bitwise Bitcoin ETF"
+    "note": "from Annual Report for CY 2025: Bitwise Bitcoin ETF"
   },
   {
     "memberId": "M001244",
@@ -1392,18 +1398,18 @@
       "lo": 1001,
       "hi": 15000
     },
-    "status": "stale",
-    "asOf": "2025-05-21",
+    "status": "holds",
+    "asOf": "2026-08-13",
     "extraction": "efd-html",
     "verification": "unverified",
     "sources": [
       {
         "kind": "filing",
-        "url": "https://efdsearch.senate.gov/search/view/annual/2a8e3a84-ea4e-41c8-8653-1dc74abeade9/",
-        "title": "New Filer Report for 01/21/2025"
+        "url": "https://efdsearch.senate.gov/search/view/annual/7ca4d0a0-27f8-44f1-b393-f61d2d62df02/",
+        "title": "Annual Report for CY 2025"
       }
     ],
-    "note": "from New Filer Report for 01/21/2025: Tesla Inc"
+    "note": "from Annual Report for CY 2025: Tesla Inc"
   },
   {
     "memberId": "N000189",

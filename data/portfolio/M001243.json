@@ -19,29 +19,21 @@
       },
       "owner": "self",
       "range": {
-        "lo": 1165005,
-        "hi": 5350000
+        "lo": 1000001,
+        "hi": 5000000
       },
       "status": "holds",
-      "asOf": "2025-11-28",
+      "asOf": "2026-08-13",
       "extraction": "efd-html",
       "verification": "unverified",
       "sources": [
         {
           "kind": "filing",
-          "url": "https://efdsearch.senate.gov/search/view/annual/f0dda451-74f3-4b34-b6a9-71a8c593fbae/",
-          "title": "Annual Report for CY 2024"
-        },
-        {
-          "kind": "filing",
-          "url": "https://efdsearch.senate.gov/search/view/ptr/5d118fc0-14f4-426a-8d38-05056392b4d8/"
-        },
-        {
-          "kind": "filing",
-          "url": "https://efdsearch.senate.gov/search/view/ptr/e337e1b4-ff0a-4b83-8a58-1d25a81ea26f/"
+          "url": "https://efdsearch.senate.gov/search/view/annual/3e2b0cca-3ab7-428e-b2ce-f08691f27dd1/",
+          "title": "Annual Report for CY 2025"
         }
       ],
-      "note": "from Annual Report for CY 2024: Bitwise Bitcoin ETF"
+      "note": "from Annual Report for CY 2025: Bitwise Bitcoin ETF"
     }
   ],
   "trades": [
@@ -7375,12 +7367,12 @@
     }
   ],
   "measured": {
-    "return": -25.8,
-    "excess": -56.3,
+    "return": -26.3,
+    "excess": -57,
     "method": "midpoint",
     "benchmark": "SPY",
     "window": "disclosed buys 2025-02-25 to 2025-11-28, since-trade, midpoint-weighted",
-    "asOf": "2026-08-13",
+    "asOf": "2026-08-14",
     "note": "Estimate: position sizes are disclosed-range midpoints, never exact amounts. 255 unpriceable position(s) excluded (options or no resolvable price)."
   }
 }

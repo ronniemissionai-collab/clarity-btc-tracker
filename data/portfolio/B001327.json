@@ -69,6 +69,22 @@
   "trades": [
     {
       "memberId": "B001327",
+      "assetRaw": "US Treasury Note 06/30/27 [GS]",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2026-07-01",
+      "filedDate": "2026-08-12",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035216.pdf",
+      "late": false,
+      "provenance": "official"
+    },
+    {
+      "memberId": "B001327",
       "assetRaw": "Pennsylvania State Turnpike Commission Bond [GS]",
       "security": null,
       "side": "buy",
@@ -11955,6 +11971,10 @@
     {
       "date": "2026-03-06",
       "value": 75000.5
+    },
+    {
+      "date": "2026-07-01",
+      "value": 32500.5
     }
   ],
   "measured": null

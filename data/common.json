@@ -399,6 +399,535 @@
   },
   {
     "security": {
+      "ticker": "TSLA",
+      "kind": "treasury"
+    },
+    "name": "Tesla, Inc.",
+    "ownersCount": 11,
+    "partySplit": {
+      "R": 8,
+      "D": 3,
+      "I": 0
+    },
+    "latestBuyDate": "2026-07-20",
+    "owners": [
+      {
+        "memberId": "K000389",
+        "name": "Ro Khanna",
+        "party": "D",
+        "chamber": "house",
+        "state": "CA",
+        "active": true,
+        "buyDates": [
+          "2026-07-20"
+        ],
+        "latestRange": {
+          "lo": 1001,
+          "hi": 15000
+        },
+        "status": "holds"
+      },
+      {
+        "memberId": "C001123",
+        "name": "Gil Cisneros",
+        "party": "D",
+        "chamber": "house",
+        "state": "CA",
+        "active": true,
+        "buyDates": [
+          "2026-05-29",
+          "2026-04-14",
+          "2026-01-09",
+          "2025-11-18",
+          "2025-10-17",
+          "2025-08-05",
+          "2025-02-26",
+          "2020-12-22"
+        ],
+        "latestRange": {
+          "lo": 2002,
+          "hi": 74999
+        },
+        "status": "holds"
+      },
+      {
+        "memberId": "A000383",
+        "name": "Alan Armstrong",
+        "party": "R",
+        "chamber": "senate",
+        "state": "OK",
+        "active": true,
+        "buyDates": [
+          "2026-03-30",
+          "2026-03-27"
+        ],
+        "latestRange": {
+          "lo": 66003,
+          "hi": 165000
+        },
+        "status": "holds"
+      },
+      {
+        "memberId": "G000596",
+        "name": "Marjorie Taylor Greene",
+        "party": "R",
+        "chamber": "house",
+        "state": "GA",
+        "active": false,
+        "buyDates": [
+          "2025-10-15",
+          "2025-05-14",
+          "2025-05-05",
+          "2025-04-08",
+          "2025-03-07",
+          "2025-01-08",
+          "2024-11-07",
+          "2024-11-01",
+          "2024-10-21",
+          "2024-09-03"
+        ],
+        "latestRange": {
+          "lo": 11011,
+          "hi": 165000
+        },
+        "status": "holds"
+      },
+      {
+        "memberId": "B001327",
+        "name": "Robert P. Bresnahan, Jr.",
+        "party": "R",
+        "chamber": "house",
+        "state": "PA",
+        "active": true,
+        "buyDates": [
+          "2025-06-05",
+          "2025-05-23",
+          "2025-05-16",
+          "2025-05-12",
+          "2025-04-08"
+        ],
+        "latestRange": {
+          "lo": 5005,
+          "hi": 75000
+        },
+        "status": "stale"
+      },
+      {
+        "memberId": "G000591",
+        "name": "Michael Guest",
+        "party": "R",
+        "chamber": "house",
+        "state": "MS",
+        "active": true,
+        "buyDates": [
+          "2024-11-08",
+          "2023-08-07"
+        ],
+        "latestRange": {
+          "lo": 2002,
+          "hi": 30000
+        },
+        "status": "stale"
+      },
+      {
+        "memberId": "G000599",
+        "name": "Daniel S. Goldman",
+        "party": "D",
+        "chamber": "house",
+        "state": "NY",
+        "active": true,
+        "buyDates": [
+          "2023-04-10",
+          "2023-04-10",
+          "2023-03-06",
+          "2023-03-01",
+          "2023-02-03"
+        ],
+        "latestRange": {
+          "lo": 146005,
+          "hi": 415000
+        },
+        "status": "stale"
+      },
+      {
+        "memberId": "N000189",
+        "name": "Dan Newhouse",
+        "party": "R",
+        "chamber": "house",
+        "state": "WA",
+        "active": true,
+        "buyDates": [
+          "2023-03-17"
+        ],
+        "latestRange": {
+          "lo": 1001,
+          "hi": 15000
+        },
+        "status": "stale"
+      },
+      {
+        "memberId": "H001072",
+        "name": "J. French Hill",
+        "party": "R",
+        "chamber": "house",
+        "state": "AR",
+        "active": true,
+        "buyDates": [
+          "2021-04-08"
+        ],
+        "latestRange": {
+          "lo": 1001,
+          "hi": 15000
+        },
+        "status": "stale"
+      },
+      {
+        "memberId": "M001244",
+        "name": "Ashley Moody",
+        "party": "R",
+        "chamber": "senate",
+        "state": "FL",
+        "active": true,
+        "buyDates": [],
+        "latestRange": {
+          "lo": 1001,
+          "hi": 15000
+        },
+        "status": "holds"
+      },
+      {
+        "memberId": "S001184",
+        "name": "Tim Scott",
+        "party": "R",
+        "chamber": "senate",
+        "state": "SC",
+        "active": true,
+        "buyDates": [],
+        "latestRange": {
+          "lo": 1001,
+          "hi": 15000
+        },
+        "status": "holds"
+      },
+      {
+        "memberId": "M001136",
+        "name": "Lisa C. McClain",
+        "party": "R",
+        "chamber": "house",
+        "state": "MI",
+        "active": true,
+        "buyDates": [
+          "2025-10-30",
+          "2025-09-11",
+          "2025-06-17",
+          "2025-06-09",
+          "2024-11-08"
+        ],
+        "latestRange": {
+          "lo": 1001,
+          "hi": 15000
+        },
+        "status": "sold"
+      },
+      {
+        "memberId": "G000583",
+        "name": "Josh Gottheimer",
+        "party": "D",
+        "chamber": "house",
+        "state": "NJ",
+        "active": true,
+        "buyDates": [
+          "2025-05-29",
+          "2025-05-27",
+          "2025-05-16",
+          "2025-05-15",
+          "2025-02-05",
+          "2025-01-31",
+          "2025-01-30",
+          "2025-01-28",
+          "2024-12-03",
+          "2024-11-27"
+        ],
+        "latestRange": {
+          "lo": 4004,
+          "hi": 60000
+        },
+        "status": "sold"
+      },
+      {
+        "memberId": "M001220",
+        "name": "Morgan McGarvey",
+        "party": "D",
+        "chamber": "house",
+        "state": "KY",
+        "active": true,
+        "buyDates": [
+          "2024-10-25"
+        ],
+        "latestRange": {
+          "lo": 1001,
+          "hi": 15000
+        },
+        "status": "sold"
+      },
+      {
+        "memberId": "T000278",
+        "name": "Tommy Tuberville",
+        "party": "R",
+        "chamber": "senate",
+        "state": "AL",
+        "active": true,
+        "buyDates": [
+          "2023-10-17",
+          "2023-04-03",
+          "2023-04-03"
+        ],
+        "latestRange": {
+          "lo": 1001,
+          "hi": 15000
+        },
+        "status": "sold"
+      },
+      {
+        "memberId": "S001211",
+        "name": "Greg Stanton",
+        "party": "D",
+        "chamber": "house",
+        "state": "AZ",
+        "active": true,
+        "buyDates": [
+          "2023-09-26"
+        ],
+        "latestRange": {
+          "lo": 1001,
+          "hi": 15000
+        },
+        "status": "sold"
+      },
+      {
+        "memberId": "W000802",
+        "name": "Sheldon Whitehouse",
+        "party": "D",
+        "chamber": "senate",
+        "state": "RI",
+        "active": true,
+        "buyDates": [
+          "2023-09-20",
+          "2022-01-28",
+          "2018-12-28",
+          "2018-12-28",
+          "2018-05-07",
+          "2017-11-27",
+          "2017-08-24",
+          "2017-08-24",
+          "2017-07-28"
+        ],
+        "latestRange": {
+          "lo": 17003,
+          "hi": 80000
+        },
+        "status": "sold"
+      },
+      {
+        "memberId": "P000197",
+        "name": "Nancy Pelosi",
+        "party": "D",
+        "chamber": "house",
+        "state": "CA",
+        "active": true,
+        "buyDates": [
+          "2022-03-17",
+          "2020-12-22"
+        ],
+        "latestRange": {
+          "lo": 1500002,
+          "hi": 6000000
+        },
+        "status": "sold"
+      },
+      {
+        "memberId": "C001120",
+        "name": "Dan Crenshaw",
+        "party": "R",
+        "chamber": "house",
+        "state": "TX",
+        "active": true,
+        "buyDates": [
+          "2021-11-12",
+          "2021-11-09",
+          "2021-11-08"
+        ],
+        "latestRange": {
+          "lo": 1001,
+          "hi": 15000
+        },
+        "status": "sold"
+      },
+      {
+        "memberId": "M001213",
+        "name": "Blake D. Moore",
+        "party": "R",
+        "chamber": "house",
+        "state": "UT",
+        "active": true,
+        "buyDates": [
+          "2021-08-18"
+        ],
+        "latestRange": {
+          "lo": 1001,
+          "hi": 15000
+        },
+        "status": "sold"
+      },
+      {
+        "memberId": "S001201",
+        "name": "Thomas R. Suozzi",
+        "party": "D",
+        "chamber": "house",
+        "state": "NY",
+        "active": true,
+        "buyDates": [
+          "2021-03-02"
+        ],
+        "latestRange": {
+          "lo": 50001,
+          "hi": 100000
+        },
+        "status": "sold"
+      },
+      {
+        "memberId": "E000296",
+        "name": "Dwight Evans",
+        "party": "D",
+        "chamber": "house",
+        "state": "PA",
+        "active": true,
+        "buyDates": [
+          "2020-10-29",
+          "2020-09-04"
+        ],
+        "latestRange": {
+          "lo": 2002,
+          "hi": 30000
+        },
+        "status": "sold"
+      },
+      {
+        "memberId": "S000510",
+        "name": "Adam Smith",
+        "party": "D",
+        "chamber": "house",
+        "state": "WA",
+        "active": true,
+        "buyDates": [],
+        "latestRange": {
+          "lo": 1001,
+          "hi": 15000
+        },
+        "status": "sold"
+      },
+      {
+        "memberId": "S001229",
+        "name": "Jefferson Shreve",
+        "party": "R",
+        "chamber": "house",
+        "state": "IN",
+        "active": true,
+        "buyDates": [],
+        "latestRange": {
+          "lo": 100001,
+          "hi": 250000
+        },
+        "status": "sold"
+      },
+      {
+        "memberId": "J000310",
+        "name": "Julie Johnson",
+        "party": "D",
+        "chamber": "house",
+        "state": "TX",
+        "active": true,
+        "buyDates": [],
+        "latestRange": {
+          "lo": 15001,
+          "hi": 50000
+        },
+        "status": "sold"
+      },
+      {
+        "memberId": "S001216",
+        "name": "Kim Schrier",
+        "party": "D",
+        "chamber": "house",
+        "state": "WA",
+        "active": true,
+        "buyDates": [],
+        "latestRange": {
+          "lo": 500002,
+          "hi": 1000000
+        },
+        "status": "sold"
+      },
+      {
+        "memberId": "A000055",
+        "name": "Robert B. Aderholt",
+        "party": "R",
+        "chamber": "house",
+        "state": "AL",
+        "active": true,
+        "buyDates": [],
+        "latestRange": {
+          "lo": 1001,
+          "hi": 15000
+        },
+        "status": "sold"
+      },
+      {
+        "memberId": "T000488",
+        "name": "Shri Thanedar",
+        "party": "D",
+        "chamber": "house",
+        "state": "MI",
+        "active": true,
+        "buyDates": [],
+        "latestRange": {
+          "lo": 1001,
+          "hi": 15000
+        },
+        "status": "sold"
+      },
+      {
+        "memberId": "M001184",
+        "name": "Thomas Massie",
+        "party": "R",
+        "chamber": "house",
+        "state": "KY",
+        "active": true,
+        "buyDates": [],
+        "latestRange": {
+          "lo": 15001,
+          "hi": 50000
+        },
+        "status": "sold"
+      },
+      {
+        "memberId": "L000397",
+        "name": "Zoe Lofgren",
+        "party": "D",
+        "chamber": "house",
+        "state": "CA",
+        "active": true,
+        "buyDates": [],
+        "latestRange": {
+          "lo": 15001,
+          "hi": 50000
+        },
+        "status": "sold"
+      }
+    ]
+  },
+  {
+    "security": {
       "ticker": "CVX",
       "kind": "other"
     },
@@ -806,533 +1335,6 @@
         "latestRange": {
           "lo": 1001,
           "hi": 15000
-        },
-        "status": "sold"
-      }
-    ]
-  },
-  {
-    "security": {
-      "ticker": "TSLA",
-      "kind": "treasury"
-    },
-    "name": "Tesla, Inc.",
-    "ownersCount": 10,
-    "partySplit": {
-      "R": 8,
-      "D": 2,
-      "I": 0
-    },
-    "latestBuyDate": "2026-05-29",
-    "owners": [
-      {
-        "memberId": "C001123",
-        "name": "Gil Cisneros",
-        "party": "D",
-        "chamber": "house",
-        "state": "CA",
-        "active": true,
-        "buyDates": [
-          "2026-05-29",
-          "2026-04-14",
-          "2026-01-09",
-          "2025-11-18",
-          "2025-10-17",
-          "2025-08-05",
-          "2025-02-26",
-          "2020-12-22"
-        ],
-        "latestRange": {
-          "lo": 2002,
-          "hi": 74999
-        },
-        "status": "holds"
-      },
-      {
-        "memberId": "A000383",
-        "name": "Alan Armstrong",
-        "party": "R",
-        "chamber": "senate",
-        "state": "OK",
-        "active": true,
-        "buyDates": [
-          "2026-03-30",
-          "2026-03-27"
-        ],
-        "latestRange": {
-          "lo": 66003,
-          "hi": 165000
-        },
-        "status": "holds"
-      },
-      {
-        "memberId": "G000596",
-        "name": "Marjorie Taylor Greene",
-        "party": "R",
-        "chamber": "house",
-        "state": "GA",
-        "active": false,
-        "buyDates": [
-          "2025-10-15",
-          "2025-05-14",
-          "2025-05-05",
-          "2025-04-08",
-          "2025-03-07",
-          "2025-01-08",
-          "2024-11-07",
-          "2024-11-01",
-          "2024-10-21",
-          "2024-09-03"
-        ],
-        "latestRange": {
-          "lo": 11011,
-          "hi": 165000
-        },
-        "status": "holds"
-      },
-      {
-        "memberId": "B001327",
-        "name": "Robert P. Bresnahan, Jr.",
-        "party": "R",
-        "chamber": "house",
-        "state": "PA",
-        "active": true,
-        "buyDates": [
-          "2025-06-05",
-          "2025-05-23",
-          "2025-05-16",
-          "2025-05-12",
-          "2025-04-08"
-        ],
-        "latestRange": {
-          "lo": 5005,
-          "hi": 75000
-        },
-        "status": "stale"
-      },
-      {
-        "memberId": "G000591",
-        "name": "Michael Guest",
-        "party": "R",
-        "chamber": "house",
-        "state": "MS",
-        "active": true,
-        "buyDates": [
-          "2024-11-08",
-          "2023-08-07"
-        ],
-        "latestRange": {
-          "lo": 2002,
-          "hi": 30000
-        },
-        "status": "stale"
-      },
-      {
-        "memberId": "G000599",
-        "name": "Daniel S. Goldman",
-        "party": "D",
-        "chamber": "house",
-        "state": "NY",
-        "active": true,
-        "buyDates": [
-          "2023-04-10",
-          "2023-04-10",
-          "2023-03-06",
-          "2023-03-01",
-          "2023-02-03"
-        ],
-        "latestRange": {
-          "lo": 146005,
-          "hi": 415000
-        },
-        "status": "stale"
-      },
-      {
-        "memberId": "N000189",
-        "name": "Dan Newhouse",
-        "party": "R",
-        "chamber": "house",
-        "state": "WA",
-        "active": true,
-        "buyDates": [
-          "2023-03-17"
-        ],
-        "latestRange": {
-          "lo": 1001,
-          "hi": 15000
-        },
-        "status": "stale"
-      },
-      {
-        "memberId": "H001072",
-        "name": "J. French Hill",
-        "party": "R",
-        "chamber": "house",
-        "state": "AR",
-        "active": true,
-        "buyDates": [
-          "2021-04-08"
-        ],
-        "latestRange": {
-          "lo": 1001,
-          "hi": 15000
-        },
-        "status": "stale"
-      },
-      {
-        "memberId": "M001244",
-        "name": "Ashley Moody",
-        "party": "R",
-        "chamber": "senate",
-        "state": "FL",
-        "active": true,
-        "buyDates": [],
-        "latestRange": {
-          "lo": 1001,
-          "hi": 15000
-        },
-        "status": "stale"
-      },
-      {
-        "memberId": "S001184",
-        "name": "Tim Scott",
-        "party": "R",
-        "chamber": "senate",
-        "state": "SC",
-        "active": true,
-        "buyDates": [],
-        "latestRange": {
-          "lo": 1001,
-          "hi": 15000
-        },
-        "status": "holds"
-      },
-      {
-        "memberId": "M001136",
-        "name": "Lisa C. McClain",
-        "party": "R",
-        "chamber": "house",
-        "state": "MI",
-        "active": true,
-        "buyDates": [
-          "2025-10-30",
-          "2025-09-11",
-          "2025-06-17",
-          "2025-06-09",
-          "2024-11-08"
-        ],
-        "latestRange": {
-          "lo": 1001,
-          "hi": 15000
-        },
-        "status": "sold"
-      },
-      {
-        "memberId": "G000583",
-        "name": "Josh Gottheimer",
-        "party": "D",
-        "chamber": "house",
-        "state": "NJ",
-        "active": true,
-        "buyDates": [
-          "2025-05-29",
-          "2025-05-27",
-          "2025-05-16",
-          "2025-05-15",
-          "2025-02-05",
-          "2025-01-31",
-          "2025-01-30",
-          "2025-01-28",
-          "2024-12-03",
-          "2024-11-27"
-        ],
-        "latestRange": {
-          "lo": 4004,
-          "hi": 60000
-        },
-        "status": "sold"
-      },
-      {
-        "memberId": "M001220",
-        "name": "Morgan McGarvey",
-        "party": "D",
-        "chamber": "house",
-        "state": "KY",
-        "active": true,
-        "buyDates": [
-          "2024-10-25"
-        ],
-        "latestRange": {
-          "lo": 1001,
-          "hi": 15000
-        },
-        "status": "sold"
-      },
-      {
-        "memberId": "T000278",
-        "name": "Tommy Tuberville",
-        "party": "R",
-        "chamber": "senate",
-        "state": "AL",
-        "active": true,
-        "buyDates": [
-          "2023-10-17",
-          "2023-04-03",
-          "2023-04-03"
-        ],
-        "latestRange": {
-          "lo": 1001,
-          "hi": 15000
-        },
-        "status": "sold"
-      },
-      {
-        "memberId": "S001211",
-        "name": "Greg Stanton",
-        "party": "D",
-        "chamber": "house",
-        "state": "AZ",
-        "active": true,
-        "buyDates": [
-          "2023-09-26"
-        ],
-        "latestRange": {
-          "lo": 1001,
-          "hi": 15000
-        },
-        "status": "sold"
-      },
-      {
-        "memberId": "W000802",
-        "name": "Sheldon Whitehouse",
-        "party": "D",
-        "chamber": "senate",
-        "state": "RI",
-        "active": true,
-        "buyDates": [
-          "2023-09-20",
-          "2022-01-28",
-          "2018-12-28",
-          "2018-12-28",
-          "2018-05-07",
-          "2017-11-27",
-          "2017-08-24",
-          "2017-08-24",
-          "2017-07-28"
-        ],
-        "latestRange": {
-          "lo": 17003,
-          "hi": 80000
-        },
-        "status": "sold"
-      },
-      {
-        "memberId": "P000197",
-        "name": "Nancy Pelosi",
-        "party": "D",
-        "chamber": "house",
-        "state": "CA",
-        "active": true,
-        "buyDates": [
-          "2022-03-17",
-          "2020-12-22"
-        ],
-        "latestRange": {
-          "lo": 1500002,
-          "hi": 6000000
-        },
-        "status": "sold"
-      },
-      {
-        "memberId": "C001120",
-        "name": "Dan Crenshaw",
-        "party": "R",
-        "chamber": "house",
-        "state": "TX",
-        "active": true,
-        "buyDates": [
-          "2021-11-12",
-          "2021-11-09",
-          "2021-11-08"
-        ],
-        "latestRange": {
-          "lo": 1001,
-          "hi": 15000
-        },
-        "status": "sold"
-      },
-      {
-        "memberId": "M001213",
-        "name": "Blake D. Moore",
-        "party": "R",
-        "chamber": "house",
-        "state": "UT",
-        "active": true,
-        "buyDates": [
-          "2021-08-18"
-        ],
-        "latestRange": {
-          "lo": 1001,
-          "hi": 15000
-        },
-        "status": "sold"
-      },
-      {
-        "memberId": "S001201",
-        "name": "Thomas R. Suozzi",
-        "party": "D",
-        "chamber": "house",
-        "state": "NY",
-        "active": true,
-        "buyDates": [
-          "2021-03-02"
-        ],
-        "latestRange": {
-          "lo": 50001,
-          "hi": 100000
-        },
-        "status": "sold"
-      },
-      {
-        "memberId": "E000296",
-        "name": "Dwight Evans",
-        "party": "D",
-        "chamber": "house",
-        "state": "PA",
-        "active": true,
-        "buyDates": [
-          "2020-10-29",
-          "2020-09-04"
-        ],
-        "latestRange": {
-          "lo": 2002,
-          "hi": 30000
-        },
-        "status": "sold"
-      },
-      {
-        "memberId": "S000510",
-        "name": "Adam Smith",
-        "party": "D",
-        "chamber": "house",
-        "state": "WA",
-        "active": true,
-        "buyDates": [],
-        "latestRange": {
-          "lo": 1001,
-          "hi": 15000
-        },
-        "status": "sold"
-      },
-      {
-        "memberId": "S001229",
-        "name": "Jefferson Shreve",
-        "party": "R",
-        "chamber": "house",
-        "state": "IN",
-        "active": true,
-        "buyDates": [],
-        "latestRange": {
-          "lo": 100001,
-          "hi": 250000
-        },
-        "status": "sold"
-      },
-      {
-        "memberId": "J000310",
-        "name": "Julie Johnson",
-        "party": "D",
-        "chamber": "house",
-        "state": "TX",
-        "active": true,
-        "buyDates": [],
-        "latestRange": {
-          "lo": 15001,
-          "hi": 50000
-        },
-        "status": "sold"
-      },
-      {
-        "memberId": "S001216",
-        "name": "Kim Schrier",
-        "party": "D",
-        "chamber": "house",
-        "state": "WA",
-        "active": true,
-        "buyDates": [],
-        "latestRange": {
-          "lo": 500002,
-          "hi": 1000000
-        },
-        "status": "sold"
-      },
-      {
-        "memberId": "K000389",
-        "name": "Ro Khanna",
-        "party": "D",
-        "chamber": "house",
-        "state": "CA",
-        "active": true,
-        "buyDates": [],
-        "latestRange": {
-          "lo": 2002,
-          "hi": 30000
-        },
-        "status": "sold"
-      },
-      {
-        "memberId": "A000055",
-        "name": "Robert B. Aderholt",
-        "party": "R",
-        "chamber": "house",
-        "state": "AL",
-        "active": true,
-        "buyDates": [],
-        "latestRange": {
-          "lo": 1001,
-          "hi": 15000
-        },
-        "status": "sold"
-      },
-      {
-        "memberId": "T000488",
-        "name": "Shri Thanedar",
-        "party": "D",
-        "chamber": "house",
-        "state": "MI",
-        "active": true,
-        "buyDates": [],
-        "latestRange": {
-          "lo": 1001,
-          "hi": 15000
-        },
-        "status": "sold"
-      },
-      {
-        "memberId": "M001184",
-        "name": "Thomas Massie",
-        "party": "R",
-        "chamber": "house",
-        "state": "KY",
-        "active": true,
-        "buyDates": [],
-        "latestRange": {
-          "lo": 15001,
-          "hi": 50000
-        },
-        "status": "sold"
-      },
-      {
-        "memberId": "L000397",
-        "name": "Zoe Lofgren",
-        "party": "D",
-        "chamber": "house",
-        "state": "CA",
-        "active": true,
-        "buyDates": [],
-        "latestRange": {
-          "lo": 15001,
-          "hi": 50000
         },
         "status": "sold"
       }

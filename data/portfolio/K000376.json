@@ -128,6 +128,22 @@
   "trades": [
     {
       "memberId": "K000376",
+      "assetRaw": "2000166568 SP California Cmnty Choice Fing & Clean Ener 5% due 10/1/2034% [GS]",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2026-07-17",
+      "filedDate": "2026-08-12",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035209.pdf",
+      "late": false,
+      "provenance": "official"
+    },
+    {
+      "memberId": "K000376",
       "assetRaw": "Abbott Laboratories Common Stock (ABT) [ST]",
       "security": null,
       "side": "sell",
@@ -140,7 +156,7 @@
       "filedDate": "2026-08-12",
       "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035203.pdf",
       "late": false,
-      "provenance": "official"
+      "provenance": "both"
     },
     {
       "memberId": "K000376",
@@ -156,7 +172,7 @@
       "filedDate": "2026-08-12",
       "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035203.pdf",
       "late": false,
-      "provenance": "official"
+      "provenance": "both"
     },
     {
       "memberId": "K000376",
@@ -172,7 +188,7 @@
       "filedDate": "2026-08-12",
       "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035203.pdf",
       "late": false,
-      "provenance": "official"
+      "provenance": "both"
     },
     {
       "memberId": "K000376",
@@ -189,7 +205,7 @@
       "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035203.pdf",
       "late": false,
       "note": "partial sale",
-      "provenance": "official"
+      "provenance": "both"
     },
     {
       "memberId": "K000376",
@@ -527,7 +543,7 @@
       "filedDate": "2026-08-12",
       "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035203.pdf",
       "late": true,
-      "provenance": "official"
+      "provenance": "both"
     },
     {
       "memberId": "K000376",
@@ -1545,6 +1561,10 @@
     {
       "date": "2026-07-01",
       "value": 8000.5
+    },
+    {
+      "date": "2026-07-17",
+      "value": 75000.5
     },
     {
       "date": "2026-07-17",

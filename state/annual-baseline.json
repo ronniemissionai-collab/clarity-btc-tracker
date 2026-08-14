@@ -190,5 +190,77 @@
       }
     ],
     "note": "from Annual Report for CY 2024: Tesla Inc"
+  },
+  {
+    "memberId": "M001243",
+    "security": {
+      "ticker": "BITB",
+      "kind": "spot-etf"
+    },
+    "owner": "self",
+    "range": {
+      "lo": 1000001,
+      "hi": 5000000
+    },
+    "status": "holds",
+    "asOf": "2026-08-13",
+    "extraction": "efd-html",
+    "verification": "unverified",
+    "sources": [
+      {
+        "kind": "filing",
+        "url": "https://efdsearch.senate.gov/search/view/annual/3e2b0cca-3ab7-428e-b2ce-f08691f27dd1/",
+        "title": "Annual Report for CY 2025"
+      }
+    ],
+    "note": "from Annual Report for CY 2025: Bitwise Bitcoin ETF"
+  },
+  {
+    "memberId": "C001098",
+    "security": {
+      "ticker": "BTC",
+      "kind": "direct"
+    },
+    "owner": "self",
+    "range": {
+      "lo": 100001,
+      "hi": 250000
+    },
+    "status": "holds",
+    "asOf": "2026-08-13",
+    "extraction": "efd-html",
+    "verification": "unverified",
+    "sources": [
+      {
+        "kind": "filing",
+        "url": "https://efdsearch.senate.gov/search/view/annual/cf2a1a88-62f5-41ae-95ed-48a341687be7/",
+        "title": "Annual Report for CY 2025"
+      }
+    ],
+    "note": "from Annual Report for CY 2025: Bitcoin Exchange/Platform : River Financial Inc"
+  },
+  {
+    "memberId": "M001244",
+    "security": {
+      "ticker": "TSLA",
+      "kind": "treasury"
+    },
+    "owner": "self",
+    "range": {
+      "lo": 1001,
+      "hi": 15000
+    },
+    "status": "holds",
+    "asOf": "2026-08-13",
+    "extraction": "efd-html",
+    "verification": "unverified",
+    "sources": [
+      {
+        "kind": "filing",
+        "url": "https://efdsearch.senate.gov/search/view/annual/7ca4d0a0-27f8-44f1-b393-f61d2d62df02/",
+        "title": "Annual Report for CY 2025"
+      }
+    ],
+    "note": "from Annual Report for CY 2025: Tesla Inc"
   }
 ]
