@@ -35,6 +35,38 @@
   "trades": [
     {
       "memberId": "K000375",
+      "assetRaw": "CAPITAL ONE FINL CORP NOTE 7.62400% 10/30/2031 [CS]",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-06-30",
+      "filedDate": "2026-08-13",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034898.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "K000375",
+      "assetRaw": "HCA INC. NOTE CALL MAKE WHOLE 5.62500% 09/01/2028 [CS]",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2026-06-30",
+      "filedDate": "2026-08-13",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034898.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "K000375",
       "assetRaw": "JPMORGAN CHASE &CO NOTE CALL MAKE WHOLE 5.57200% 04/22/2036 [CS]",
       "security": null,
       "side": "buy",
@@ -3718,6 +3750,14 @@
     {
       "date": "2026-05-08",
       "value": 8000.5
+    },
+    {
+      "date": "2026-06-30",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-06-30",
+      "value": 32500.5
     }
   ],
   "measured": null

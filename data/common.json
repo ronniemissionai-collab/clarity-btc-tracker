@@ -3643,6 +3643,20 @@
         "status": "stale"
       },
       {
+        "memberId": "M001205",
+        "name": "Carol D. Miller",
+        "party": "R",
+        "chamber": "house",
+        "state": "WV",
+        "active": true,
+        "buyDates": [],
+        "latestRange": {
+          "lo": 15001,
+          "hi": 50000
+        },
+        "status": "sold"
+      },
+      {
         "memberId": "H001072",
         "name": "J. French Hill",
         "party": "R",
@@ -6409,103 +6423,6 @@
   },
   {
     "security": {
-      "ticker": "MSTR",
-      "kind": "treasury"
-    },
-    "name": "Strategy Inc. (Class A common)",
-    "ownersCount": 4,
-    "partySplit": {
-      "R": 1,
-      "D": 3,
-      "I": 0
-    },
-    "latestBuyDate": "2026-06-05",
-    "owners": [
-      {
-        "memberId": "C001123",
-        "name": "Gil Cisneros",
-        "party": "D",
-        "chamber": "house",
-        "state": "CA",
-        "active": true,
-        "buyDates": [
-          "2026-06-05"
-        ],
-        "latestRange": {
-          "lo": 15001,
-          "hi": 50000
-        },
-        "status": "holds"
-      },
-      {
-        "memberId": "D000628",
-        "name": "Neal P. Dunn",
-        "party": "R",
-        "chamber": "house",
-        "state": "FL",
-        "active": true,
-        "buyDates": [
-          "2024-12-24"
-        ],
-        "latestRange": {
-          "lo": 15001,
-          "hi": 50000
-        },
-        "status": "stale"
-      },
-      {
-        "memberId": "T000488",
-        "name": "Shri Thanedar",
-        "party": "D",
-        "chamber": "house",
-        "state": "MI",
-        "active": true,
-        "buyDates": [
-          "2024-07-01"
-        ],
-        "latestRange": {
-          "lo": 15001,
-          "hi": 50000
-        },
-        "status": "stale"
-      },
-      {
-        "memberId": "F000462",
-        "name": "Lois Frankel",
-        "party": "D",
-        "chamber": "house",
-        "state": "FL",
-        "active": true,
-        "buyDates": [
-          "2017-06-23",
-          "2017-06-22"
-        ],
-        "latestRange": {
-          "lo": 2002,
-          "hi": 30000
-        },
-        "status": "stale"
-      },
-      {
-        "memberId": "S001229",
-        "name": "Jefferson Shreve",
-        "party": "R",
-        "chamber": "house",
-        "state": "IN",
-        "active": true,
-        "buyDates": [
-          "2025-02-24"
-        ],
-        "latestRange": {
-          "lo": 15001,
-          "hi": 50000
-        },
-        "status": "sold"
-      }
-    ]
-  },
-  {
-    "security": {
       "ticker": "NEE",
       "kind": "other"
     },
@@ -9204,6 +9121,103 @@
         "latestRange": {
           "lo": 1001,
           "hi": 15000
+        },
+        "status": "sold"
+      }
+    ]
+  },
+  {
+    "security": {
+      "ticker": "MSTR",
+      "kind": "treasury"
+    },
+    "name": "Strategy Inc. (Class A common)",
+    "ownersCount": 3,
+    "partySplit": {
+      "R": 1,
+      "D": 2,
+      "I": 0
+    },
+    "latestBuyDate": "2026-06-05",
+    "owners": [
+      {
+        "memberId": "C001123",
+        "name": "Gil Cisneros",
+        "party": "D",
+        "chamber": "house",
+        "state": "CA",
+        "active": true,
+        "buyDates": [
+          "2026-06-05"
+        ],
+        "latestRange": {
+          "lo": 15001,
+          "hi": 50000
+        },
+        "status": "holds"
+      },
+      {
+        "memberId": "D000628",
+        "name": "Neal P. Dunn",
+        "party": "R",
+        "chamber": "house",
+        "state": "FL",
+        "active": true,
+        "buyDates": [
+          "2024-12-24"
+        ],
+        "latestRange": {
+          "lo": 15001,
+          "hi": 50000
+        },
+        "status": "stale"
+      },
+      {
+        "memberId": "F000462",
+        "name": "Lois Frankel",
+        "party": "D",
+        "chamber": "house",
+        "state": "FL",
+        "active": true,
+        "buyDates": [
+          "2017-06-23",
+          "2017-06-22"
+        ],
+        "latestRange": {
+          "lo": 2002,
+          "hi": 30000
+        },
+        "status": "stale"
+      },
+      {
+        "memberId": "S001229",
+        "name": "Jefferson Shreve",
+        "party": "R",
+        "chamber": "house",
+        "state": "IN",
+        "active": true,
+        "buyDates": [
+          "2025-02-24"
+        ],
+        "latestRange": {
+          "lo": 15001,
+          "hi": 50000
+        },
+        "status": "sold"
+      },
+      {
+        "memberId": "T000488",
+        "name": "Shri Thanedar",
+        "party": "D",
+        "chamber": "house",
+        "state": "MI",
+        "active": true,
+        "buyDates": [
+          "2024-07-01"
+        ],
+        "latestRange": {
+          "lo": 15001,
+          "hi": 50000
         },
         "status": "sold"
       }

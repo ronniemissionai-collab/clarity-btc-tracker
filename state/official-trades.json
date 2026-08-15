@@ -73986,5 +73986,189 @@
     "docUrl": "https://efdsearch.senate.gov/search/view/ptr/f0a05c3b-66e0-4287-a388-454e2b4c823d/",
     "late": true,
     "note": "full sale"
+  },
+  {
+    "memberId": "K000375",
+    "assetRaw": "CAPITAL ONE FINL CORP NOTE 7.62400% 10/30/2031 [CS]",
+    "security": null,
+    "side": "buy",
+    "owner": "self",
+    "range": {
+      "lo": 1001,
+      "hi": 15000
+    },
+    "transactionDate": "2026-06-30",
+    "filedDate": "2026-08-13",
+    "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034898.pdf",
+    "late": false
+  },
+  {
+    "memberId": "K000375",
+    "assetRaw": "HCA INC. NOTE CALL MAKE WHOLE 5.62500% 09/01/2028 [CS]",
+    "security": null,
+    "side": "buy",
+    "owner": "self",
+    "range": {
+      "lo": 15001,
+      "hi": 50000
+    },
+    "transactionDate": "2026-06-30",
+    "filedDate": "2026-08-13",
+    "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034898.pdf",
+    "late": false
+  },
+  {
+    "memberId": "M001205",
+    "assetRaw": "2000134514 SP Pfizer, Inc. Common Stock (PFE) [ST]",
+    "security": null,
+    "side": "sell",
+    "owner": "self",
+    "range": {
+      "lo": 15001,
+      "hi": 50000
+    },
+    "transactionDate": "2025-03-10",
+    "filedDate": "2026-08-13",
+    "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033779.pdf",
+    "late": true
+  },
+  {
+    "memberId": "M001205",
+    "assetRaw": "2000134517 SP Quest Diagnostics Incorporated Common Stock (DGX) [ST]",
+    "security": null,
+    "side": "sell",
+    "owner": "self",
+    "range": {
+      "lo": 15001,
+      "hi": 50000
+    },
+    "transactionDate": "2025-03-10",
+    "filedDate": "2026-08-13",
+    "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033779.pdf",
+    "late": true
+  },
+  {
+    "memberId": "M001205",
+    "assetRaw": "2000134515 SP Target Corporation Common Stock (TGT) [ST]",
+    "security": null,
+    "side": "sell",
+    "owner": "self",
+    "range": {
+      "lo": 15001,
+      "hi": 50000
+    },
+    "transactionDate": "2025-03-10",
+    "filedDate": "2026-08-13",
+    "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033779.pdf",
+    "late": true
+  },
+  {
+    "memberId": "M001205",
+    "assetRaw": "2000134527 SP U.S. Bancorp Common Stock (USB) [ST]",
+    "security": null,
+    "side": "sell",
+    "owner": "self",
+    "range": {
+      "lo": 15001,
+      "hi": 50000
+    },
+    "transactionDate": "2025-03-10",
+    "filedDate": "2026-08-13",
+    "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033779.pdf",
+    "late": true
+  },
+  {
+    "memberId": "T000488",
+    "assetRaw": "Apple Inc. - Common Stock (AAPL) [ST]",
+    "security": null,
+    "side": "sell",
+    "owner": "self",
+    "range": {
+      "lo": 100001,
+      "hi": 250000
+    },
+    "transactionDate": "2026-01-09",
+    "filedDate": "2026-08-13",
+    "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033910.pdf",
+    "late": true,
+    "note": "partial sale"
+  },
+  {
+    "memberId": "T000488",
+    "assetRaw": "Strategy Inc - Class A Common Stock (MSTR) [ST]",
+    "security": {
+      "ticker": "MSTR",
+      "kind": "treasury"
+    },
+    "side": "sell",
+    "owner": "self",
+    "range": {
+      "lo": 15001,
+      "hi": 50000
+    },
+    "transactionDate": "2025-10-21",
+    "filedDate": "2026-08-13",
+    "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033910.pdf",
+    "late": true
+  },
+  {
+    "memberId": "T000491",
+    "assetRaw": "Litecoin (LTC) [CT]",
+    "security": null,
+    "side": "sell",
+    "owner": "self",
+    "range": {
+      "lo": 1001,
+      "hi": 15000
+    },
+    "transactionDate": "2025-07-28",
+    "filedDate": "2026-08-13",
+    "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035183.pdf",
+    "late": true
+  },
+  {
+    "memberId": "W000805",
+    "assetRaw": "Virginia Beach VA GO Public Improvement Bonds",
+    "security": null,
+    "side": "buy",
+    "owner": "self",
+    "range": {
+      "lo": 100001,
+      "hi": 250000
+    },
+    "transactionDate": "2026-07-02",
+    "filedDate": "2026-08-14",
+    "docUrl": "https://efdsearch.senate.gov/search/view/ptr/047c4167-e0a9-44d4-a2bf-5477eb6b20ab/",
+    "late": false
+  },
+  {
+    "memberId": "W000805",
+    "assetRaw": "Alexandria VA GO Capital Improvement Bonds",
+    "security": null,
+    "side": "buy",
+    "owner": "self",
+    "range": {
+      "lo": 50001,
+      "hi": 100000
+    },
+    "transactionDate": "2026-07-02",
+    "filedDate": "2026-08-14",
+    "docUrl": "https://efdsearch.senate.gov/search/view/ptr/047c4167-e0a9-44d4-a2bf-5477eb6b20ab/",
+    "late": false
+  },
+  {
+    "memberId": "W000805",
+    "assetRaw": "Manassas VA GO Public Improvement Refunding Bonds",
+    "security": null,
+    "side": "buy",
+    "owner": "self",
+    "range": {
+      "lo": 50001,
+      "hi": 100000
+    },
+    "transactionDate": "2026-07-07",
+    "filedDate": "2026-08-14",
+    "docUrl": "https://efdsearch.senate.gov/search/view/ptr/047c4167-e0a9-44d4-a2bf-5477eb6b20ab/",
+    "late": false
   }
 ]

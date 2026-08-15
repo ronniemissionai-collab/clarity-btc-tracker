@@ -12,6 +12,166 @@
   "trades": [
     {
       "memberId": "M000871",
+      "assetRaw": "Alphabet Incorporated",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2024-09-09",
+      "filedDate": "2026-08-13",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116292.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M000871",
+      "assetRaw": "Apple Incorporated",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2024-09-09",
+      "filedDate": "2026-08-13",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116292.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M000871",
+      "assetRaw": "Meta Platforms",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2024-09-09",
+      "filedDate": "2026-08-13",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116292.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M000871",
+      "assetRaw": "Microsoft Corporation",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2024-09-09",
+      "filedDate": "2026-08-13",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116292.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M000871",
+      "assetRaw": "Nvidia Corporation",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2024-09-09",
+      "filedDate": "2026-08-13",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116292.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M000871",
+      "assetRaw": "Alphabet Incorporated",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2024-08-20",
+      "filedDate": "2026-08-13",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116292.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M000871",
+      "assetRaw": "Apple Incorporated",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2024-08-20",
+      "filedDate": "2026-08-13",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116292.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M000871",
+      "assetRaw": "Meta Platforms",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2024-08-20",
+      "filedDate": "2026-08-13",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116292.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M000871",
+      "assetRaw": "Microsoft Corporation",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2024-08-20",
+      "filedDate": "2026-08-13",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116292.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M000871",
+      "assetRaw": "Nvidia Corporation",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2024-08-20",
+      "filedDate": "2026-08-13",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116292.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M000871",
       "assetRaw": "TripleBlind [PS]",
       "security": null,
       "side": "buy",
@@ -51,6 +211,46 @@
     {
       "date": "2024-04-04",
       "value": 32500.5
+    },
+    {
+      "date": "2024-08-20",
+      "value": 8000.5
+    },
+    {
+      "date": "2024-08-20",
+      "value": 8000.5
+    },
+    {
+      "date": "2024-08-20",
+      "value": 8000.5
+    },
+    {
+      "date": "2024-08-20",
+      "value": 8000.5
+    },
+    {
+      "date": "2024-08-20",
+      "value": 8000.5
+    },
+    {
+      "date": "2024-09-09",
+      "value": 8000.5
+    },
+    {
+      "date": "2024-09-09",
+      "value": 8000.5
+    },
+    {
+      "date": "2024-09-09",
+      "value": 8000.5
+    },
+    {
+      "date": "2024-09-09",
+      "value": 8000.5
+    },
+    {
+      "date": "2024-09-09",
+      "value": 8000.5
     }
   ],
   "measured": null

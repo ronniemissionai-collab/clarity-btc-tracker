@@ -12,6 +12,29 @@
     {
       "memberId": "M001205",
       "security": {
+        "ticker": "DGX",
+        "kind": "other"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "status": "sold",
+      "asOf": "2025-03-10",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033779.pdf"
+        }
+      ],
+      "note": "sale reported by PTR with no annual baseline in our coverage"
+    },
+    {
+      "memberId": "M001205",
+      "security": {
         "ticker": "IGSB",
         "kind": "other"
       },
@@ -30,6 +53,29 @@
           "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20024109.pdf"
         }
       ]
+    },
+    {
+      "memberId": "M001205",
+      "security": {
+        "ticker": "PFE",
+        "kind": "other"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "status": "sold",
+      "asOf": "2025-03-10",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033779.pdf"
+        }
+      ],
+      "note": "sale reported by PTR with no annual baseline in our coverage"
     },
     {
       "memberId": "M001205",
@@ -53,9 +99,183 @@
         }
       ],
       "note": "sale reported by PTR with no annual baseline in our coverage"
+    },
+    {
+      "memberId": "M001205",
+      "security": {
+        "ticker": "TGT",
+        "kind": "other"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "status": "sold",
+      "asOf": "2025-03-10",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033779.pdf"
+        }
+      ],
+      "note": "sale reported by PTR with no annual baseline in our coverage"
+    },
+    {
+      "memberId": "M001205",
+      "security": {
+        "ticker": "USB",
+        "kind": "other"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "status": "sold",
+      "asOf": "2025-03-10",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033779.pdf"
+        }
+      ],
+      "note": "sale reported by PTR with no annual baseline in our coverage"
     }
   ],
   "trades": [
+    {
+      "memberId": "M001205",
+      "assetRaw": "2000134514 SP Pfizer, Inc. Common Stock (PFE) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2025-03-10",
+      "filedDate": "2026-08-13",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033779.pdf",
+      "late": true,
+      "provenance": "official"
+    },
+    {
+      "memberId": "M001205",
+      "assetRaw": "2000134515 SP Target Corporation Common Stock (TGT) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2025-03-10",
+      "filedDate": "2026-08-13",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033779.pdf",
+      "late": true,
+      "provenance": "official"
+    },
+    {
+      "memberId": "M001205",
+      "assetRaw": "2000134517 SP Quest Diagnostics Incorporated Common Stock (DGX) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2025-03-10",
+      "filedDate": "2026-08-13",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033779.pdf",
+      "late": true,
+      "provenance": "official"
+    },
+    {
+      "memberId": "M001205",
+      "assetRaw": "2000134527 SP U.S. Bancorp Common Stock (USB) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2025-03-10",
+      "filedDate": "2026-08-13",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033779.pdf",
+      "late": true,
+      "provenance": "official"
+    },
+    {
+      "memberId": "M001205",
+      "assetRaw": "Pfizer, Inc. Common Stock",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2025-03-10",
+      "filedDate": "2026-08-13",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033779.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001205",
+      "assetRaw": "Quest Diagnostics Incorporated Common Stock",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2025-03-10",
+      "filedDate": "2026-08-13",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033779.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001205",
+      "assetRaw": "Target Corporation Common Stock",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2025-03-10",
+      "filedDate": "2026-08-13",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033779.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001205",
+      "assetRaw": "U.S. Bancorp Common Stock",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2025-03-10",
+      "filedDate": "2026-08-13",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033779.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
     {
       "memberId": "M001205",
       "assetRaw": "AFLAC Incorporated Common Stock",
@@ -2300,7 +2520,19 @@
     },
     {
       "date": "2025-03-10",
-      "value": 8000.5
+      "value": 32500.5
+    },
+    {
+      "date": "2025-03-10",
+      "value": 32500.5
+    },
+    {
+      "date": "2025-03-10",
+      "value": 32500.5
+    },
+    {
+      "date": "2025-03-10",
+      "value": 32500.5
     },
     {
       "date": "2025-03-10",
@@ -2336,7 +2568,23 @@
     },
     {
       "date": "2025-03-10",
+      "value": 32500.5
+    },
+    {
+      "date": "2025-03-10",
       "value": 8000.5
+    },
+    {
+      "date": "2025-03-10",
+      "value": 32500.5
+    },
+    {
+      "date": "2025-03-10",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-03-10",
+      "value": 32500.5
     },
     {
       "date": "2025-03-10",
@@ -2345,6 +2593,10 @@
     {
       "date": "2025-03-10",
       "value": 8000.5
+    },
+    {
+      "date": "2025-03-10",
+      "value": 32500.5
     },
     {
       "date": "2025-03-10",

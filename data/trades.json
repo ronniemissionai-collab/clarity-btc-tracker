@@ -796,6 +796,25 @@
     "provenance": "kadoa"
   },
   {
+    "memberId": "T000488",
+    "assetRaw": "Strategy Inc - Class A Common Stock (MSTR) [ST]",
+    "security": {
+      "ticker": "MSTR",
+      "kind": "treasury"
+    },
+    "side": "sell",
+    "owner": "self",
+    "range": {
+      "lo": 15001,
+      "hi": 50000
+    },
+    "transactionDate": "2025-10-21",
+    "filedDate": "2026-08-13",
+    "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033910.pdf",
+    "late": true,
+    "provenance": "both"
+  },
+  {
     "memberId": "G000603",
     "assetRaw": "BTC",
     "security": {

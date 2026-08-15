@@ -66,14 +66,18 @@
         "lo": 15001,
         "hi": 50000
       },
-      "status": "stale",
-      "asOf": "2024-07-01",
+      "status": "sold",
+      "asOf": "2025-10-21",
       "extraction": "pdf-text",
       "verification": "unverified",
       "sources": [
         {
           "kind": "filing",
           "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030869.pdf"
+        },
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033910.pdf"
         }
       ]
     },
@@ -102,6 +106,42 @@
     }
   ],
   "trades": [
+    {
+      "memberId": "T000488",
+      "assetRaw": "Apple Inc. - Common Stock (AAPL) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2026-01-09",
+      "filedDate": "2026-08-13",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033910.pdf",
+      "late": true,
+      "note": "partial sale",
+      "provenance": "both"
+    },
+    {
+      "memberId": "T000488",
+      "assetRaw": "Strategy Inc - Class A Common Stock (MSTR) [ST]",
+      "security": {
+        "ticker": "MSTR",
+        "kind": "treasury"
+      },
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2025-10-21",
+      "filedDate": "2026-08-13",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033910.pdf",
+      "late": true,
+      "provenance": "both"
+    },
     {
       "memberId": "T000488",
       "assetRaw": "MicroStrategy Incorporated - Class A Common Stock",
@@ -840,6 +880,14 @@
     {
       "date": "2024-07-01",
       "value": 32500.5
+    },
+    {
+      "date": "2025-10-21",
+      "value": 32500.5
+    },
+    {
+      "date": "2026-01-09",
+      "value": 175000.5
     }
   ],
   "measured": null

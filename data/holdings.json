@@ -1830,14 +1830,28 @@
       "lo": 15001,
       "hi": 50000
     },
-    "status": "stale",
-    "asOf": "2024-07-01",
+    "status": "sold",
+    "asOf": "2025-10-21",
     "extraction": "pdf-text",
-    "verification": "unverified",
+    "verification": "corroborated",
     "sources": [
       {
         "kind": "filing",
         "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030869.pdf"
+      },
+      {
+        "kind": "filing",
+        "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033910.pdf"
+      },
+      {
+        "kind": "news",
+        "url": "https://247wallst.com/cards/thanedar-exited-his-strategy-position-entirely-and-trimmed-a-aapl-political-trade-01m00g5gr94jpnw2mfnwewwsz3",
+        "title": "Shri Thanedar's MSTR exit and AAPL trim filed 296 days late | 24/7 Wall St."
+      },
+      {
+        "kind": "news",
+        "url": "https://www.capitoltrades.com/",
+        "title": "Capitol Trades: What's Trading on Capitol Hill?"
       }
     ]
   },

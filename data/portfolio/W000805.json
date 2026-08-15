@@ -12,6 +12,54 @@
   "trades": [
     {
       "memberId": "W000805",
+      "assetRaw": "Manassas VA GO Public Improvement Refunding Bonds",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2026-07-07",
+      "filedDate": "2026-08-14",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/047c4167-e0a9-44d4-a2bf-5477eb6b20ab/",
+      "late": false,
+      "provenance": "official"
+    },
+    {
+      "memberId": "W000805",
+      "assetRaw": "Alexandria VA GO Capital Improvement Bonds",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2026-07-02",
+      "filedDate": "2026-08-14",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/047c4167-e0a9-44d4-a2bf-5477eb6b20ab/",
+      "late": false,
+      "provenance": "official"
+    },
+    {
+      "memberId": "W000805",
+      "assetRaw": "Virginia Beach VA GO Public Improvement Bonds",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2026-07-02",
+      "filedDate": "2026-08-14",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/047c4167-e0a9-44d4-a2bf-5477eb6b20ab/",
+      "late": false,
+      "provenance": "official"
+    },
+    {
+      "memberId": "W000805",
       "assetRaw": "West Deptford Energy Holdings, LLC",
       "security": null,
       "side": "sell",
@@ -2351,6 +2399,18 @@
     {
       "date": "2025-12-24",
       "value": 8000.5
+    },
+    {
+      "date": "2026-07-02",
+      "value": 75000.5
+    },
+    {
+      "date": "2026-07-02",
+      "value": 175000.5
+    },
+    {
+      "date": "2026-07-07",
+      "value": 75000.5
     }
   ],
   "measured": null

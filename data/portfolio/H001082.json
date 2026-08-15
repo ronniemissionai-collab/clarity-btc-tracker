@@ -1151,6 +1151,22 @@
     },
     {
       "memberId": "H001082",
+      "assetRaw": "Organon & Co. Common Stock",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-05",
+      "filedDate": "2026-08-10",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035134.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001082",
       "assetRaw": "Organon & Co. Common Stock (OGN) [ST]",
       "security": null,
       "side": "sell",
@@ -1164,6 +1180,22 @@
       "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035134.pdf",
       "late": false,
       "provenance": "both"
+    },
+    {
+      "memberId": "H001082",
+      "assetRaw": "Versant Media Group, Inc. - Class A Common Stock",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-05",
+      "filedDate": "2026-08-10",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035134.pdf",
+      "late": false,
+      "provenance": "kadoa"
     },
     {
       "memberId": "H001082",
@@ -17824,6 +17856,14 @@
     {
       "date": "2026-07-24",
       "value": 175000.5
+    },
+    {
+      "date": "2026-08-05",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-05",
+      "value": 8000.5
     },
     {
       "date": "2026-08-05",

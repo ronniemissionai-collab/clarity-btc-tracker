@@ -160,6 +160,22 @@
     },
     {
       "memberId": "K000376",
+      "assetRaw": "California Cmnty Choice Fing & Clean Ener 5% due 10/1/2034%",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2026-07-17",
+      "filedDate": "2026-08-12",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035209.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000376",
       "assetRaw": "Pepsico, Inc. (PEP) [ST]",
       "security": null,
       "side": "sell",
@@ -1569,6 +1585,10 @@
     {
       "date": "2026-07-17",
       "value": 8000.5
+    },
+    {
+      "date": "2026-07-17",
+      "value": 75000.5
     },
     {
       "date": "2026-07-17",
