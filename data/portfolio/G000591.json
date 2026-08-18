@@ -12,6 +12,29 @@
     {
       "memberId": "G000591",
       "security": {
+        "ticker": "ABNB",
+        "kind": "other"
+      },
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "sold",
+      "asOf": "2025-12-16",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035130.pdf"
+        }
+      ],
+      "note": "sale reported by PTR with no annual baseline in our coverage"
+    },
+    {
+      "memberId": "G000591",
+      "security": {
         "ticker": "CHRD",
         "kind": "other"
       },
@@ -35,6 +58,29 @@
     {
       "memberId": "G000591",
       "security": {
+        "ticker": "CVX",
+        "kind": "other"
+      },
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "sold",
+      "asOf": "2025-12-16",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035130.pdf"
+        }
+      ],
+      "note": "sale reported by PTR with no annual baseline in our coverage"
+    },
+    {
+      "memberId": "G000591",
+      "security": {
         "ticker": "DT",
         "kind": "other"
       },
@@ -51,6 +97,29 @@
         {
           "kind": "filing",
           "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033944.pdf"
+        }
+      ],
+      "note": "sale reported by PTR with no annual baseline in our coverage"
+    },
+    {
+      "memberId": "G000591",
+      "security": {
+        "ticker": "ELF",
+        "kind": "other"
+      },
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "sold",
+      "asOf": "2025-12-16",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035130.pdf"
         }
       ],
       "note": "sale reported by PTR with no annual baseline in our coverage"
@@ -236,6 +305,54 @@
       "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033944.pdf",
       "late": false,
       "provenance": "both"
+    },
+    {
+      "memberId": "G000591",
+      "assetRaw": "Airbnb, Inc. - Class A Common Stock (ABNB) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-12-16",
+      "filedDate": "2026-08-14",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035130.pdf",
+      "late": true,
+      "provenance": "official"
+    },
+    {
+      "memberId": "G000591",
+      "assetRaw": "Chevron Corporation Common Stock (CVX) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-12-16",
+      "filedDate": "2026-08-14",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035130.pdf",
+      "late": true,
+      "provenance": "official"
+    },
+    {
+      "memberId": "G000591",
+      "assetRaw": "e.l.f. Beauty, Inc. Common Stock (ELF) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-12-16",
+      "filedDate": "2026-08-14",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035130.pdf",
+      "late": true,
+      "provenance": "official"
     },
     {
       "memberId": "G000591",
@@ -1844,6 +1961,18 @@
     },
     {
       "date": "2025-10-20",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-12-16",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-12-16",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-12-16",
       "value": 8000.5
     },
     {
