@@ -234,6 +234,38 @@
     },
     {
       "memberId": "C001068",
+      "assetRaw": "U.S. Tres Bill Int. Rate 0.00% Mat 8/5/2027 [GS]",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2026-08-06",
+      "filedDate": "2026-08-17",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035235.pdf",
+      "late": false,
+      "provenance": "official"
+    },
+    {
+      "memberId": "C001068",
+      "assetRaw": "JPMorgan Chase BK N A INSTL CTF DEP ACT/365 4.200% MAT 8/11/2027 [CS]",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2026-08-05",
+      "filedDate": "2026-08-17",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035235.pdf",
+      "late": false,
+      "provenance": "official"
+    },
+    {
+      "memberId": "C001068",
       "assetRaw": "US Treas Bills MAT 11/19/26 [GS]",
       "security": null,
       "side": "buy",
@@ -2955,6 +2987,14 @@
     {
       "date": "2026-05-27",
       "value": 750000.5
+    },
+    {
+      "date": "2026-08-05",
+      "value": 175000.5
+    },
+    {
+      "date": "2026-08-06",
+      "value": 175000.5
     },
     {
       "date": "2026-12-26",
