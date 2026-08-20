@@ -17,11 +17,11 @@
       },
       "owner": "spouse",
       "range": {
-        "lo": 9009,
-        "hi": 135000
+        "lo": 10010,
+        "hi": 150000
       },
       "status": "holds",
-      "asOf": "2026-05-14",
+      "asOf": "2026-08-13",
       "extraction": "pdf-text",
       "verification": "unverified",
       "sources": [
@@ -36,11 +36,31 @@
         {
           "kind": "filing",
           "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034668.pdf"
+        },
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035275.pdf"
         }
       ]
     }
   ],
   "trades": [
+    {
+      "memberId": "C001055",
+      "assetRaw": "Apple Inc. - Common Stock (AAPL) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-13",
+      "filedDate": "2026-08-18",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035275.pdf",
+      "late": false,
+      "provenance": "official"
+    },
     {
       "memberId": "C001055",
       "assetRaw": "Apple Inc. - Common Stock (AAPL) [ST]",
@@ -412,6 +432,10 @@
     },
     {
       "date": "2026-05-14",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-13",
       "value": 8000.5
     }
   ],

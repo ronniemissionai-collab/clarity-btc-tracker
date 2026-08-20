@@ -61,6 +61,28 @@
     {
       "memberId": "K000398",
       "security": {
+        "ticker": "AMZN",
+        "kind": "other"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "holds",
+      "asOf": "2026-07-08",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035273.pdf"
+        }
+      ]
+    },
+    {
+      "memberId": "K000398",
+      "security": {
         "ticker": "BDX",
         "kind": "other"
       },
@@ -134,11 +156,11 @@
       },
       "owner": "self",
       "range": {
-        "lo": 2002,
-        "hi": 30000
+        "lo": 3003,
+        "hi": 45000
       },
       "status": "holds",
-      "asOf": "2026-06-01",
+      "asOf": "2026-07-07",
       "extraction": "pdf-text",
       "verification": "unverified",
       "sources": [
@@ -149,6 +171,10 @@
         {
           "kind": "filing",
           "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035003.pdf"
+        },
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035273.pdf"
         }
       ]
     },
@@ -160,17 +186,21 @@
       },
       "owner": "self",
       "range": {
-        "lo": 2002,
-        "hi": 30000
+        "lo": 3003,
+        "hi": 45000
       },
       "status": "holds",
-      "asOf": "2026-06-24",
+      "asOf": "2026-07-07",
       "extraction": "pdf-text",
       "verification": "unverified",
       "sources": [
         {
           "kind": "filing",
           "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035003.pdf"
+        },
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035273.pdf"
         }
       ]
     },
@@ -302,6 +332,28 @@
     {
       "memberId": "K000398",
       "security": {
+        "ticker": "TOST",
+        "kind": "other"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "holds",
+      "asOf": "2026-07-08",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035273.pdf"
+        }
+      ]
+    },
+    {
+      "memberId": "K000398",
+      "security": {
         "ticker": "TTWO",
         "kind": "other"
       },
@@ -368,6 +420,104 @@
     }
   ],
   "trades": [
+    {
+      "memberId": "K000398",
+      "assetRaw": "Alphabet Inc. - Class A Common Stock (GOOGL) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-07-22",
+      "filedDate": "2026-08-18",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035273.pdf",
+      "late": false,
+      "note": "partial sale",
+      "provenance": "official"
+    },
+    {
+      "memberId": "K000398",
+      "assetRaw": "Stryker Corporation Common Stock (SYK) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-07-22",
+      "filedDate": "2026-08-18",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035273.pdf",
+      "late": false,
+      "note": "partial sale",
+      "provenance": "official"
+    },
+    {
+      "memberId": "K000398",
+      "assetRaw": "Amazon.com, Inc. - Common Stock (AMZN) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-07-08",
+      "filedDate": "2026-08-18",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035273.pdf",
+      "late": false,
+      "provenance": "official"
+    },
+    {
+      "memberId": "K000398",
+      "assetRaw": "Toast, Inc. Class A Common Stock (TOST) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-07-08",
+      "filedDate": "2026-08-18",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035273.pdf",
+      "late": false,
+      "provenance": "official"
+    },
+    {
+      "memberId": "K000398",
+      "assetRaw": "EQT Corporation Common Stock (EQT) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-07-07",
+      "filedDate": "2026-08-18",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035273.pdf",
+      "late": false,
+      "provenance": "official"
+    },
+    {
+      "memberId": "K000398",
+      "assetRaw": "ESAB Corporation Common Stock (ESAB) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-07-07",
+      "filedDate": "2026-08-18",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035273.pdf",
+      "late": false,
+      "provenance": "official"
+    },
     {
       "memberId": "K000398",
       "assetRaw": "Analog Devices, Inc. - Common Stock (ADI) [ST]",
@@ -3289,15 +3439,39 @@
     {
       "date": "2026-06-30",
       "value": 8000.5
+    },
+    {
+      "date": "2026-07-07",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-07-07",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-07-08",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-07-08",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-07-22",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-07-22",
+      "value": 8000.5
     }
   ],
   "measured": {
-    "return": 32.1,
-    "excess": -3.6,
+    "return": 30.6,
+    "excess": -3.4,
     "method": "midpoint",
     "benchmark": "SPY",
-    "window": "disclosed buys 2023-01-18 to 2026-06-24, since-trade, midpoint-weighted",
-    "asOf": "2026-08-19",
+    "window": "disclosed buys 2023-01-18 to 2026-07-08, since-trade, midpoint-weighted",
+    "asOf": "2026-08-20",
     "note": "Estimate: position sizes are disclosed-range midpoints, never exact amounts. 9 unpriceable position(s) excluded (options or no resolvable price)."
   }
 }
