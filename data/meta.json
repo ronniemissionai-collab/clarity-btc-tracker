@@ -1,37 +1,37 @@
 {
-  "generatedAt": "2026-08-20T09:57:31.511Z",
+  "generatedAt": "2026-08-21T09:59:06.308Z",
   "asOf": {
-    "bill": "2026-08-20",
-    "members": "2026-08-20",
-    "holdings": "2026-08-20",
-    "trades": "2026-08-20",
-    "traders": "2026-08-20",
-    "news": "2026-08-20"
+    "bill": "2026-08-21",
+    "members": "2026-08-21",
+    "holdings": "2026-08-21",
+    "trades": "2026-08-21",
+    "traders": "2026-08-21",
+    "news": "2026-08-21"
   },
   "run": {
     "ok": true,
     "stats": {
-      "houseNewPtrs": 4,
-      "houseTrades": 10,
-      "houseOcrFlagged": 1,
+      "houseNewPtrs": 0,
+      "houseTrades": 0,
+      "houseOcrFlagged": 0,
       "houseUnmatchedFilings": 0,
       "houseIssues": 0,
-      "senateNewFilings": 0,
-      "senateTrades": 0,
+      "senateNewFilings": 2,
+      "senateTrades": 9,
       "senateAnnualHoldings": 0,
       "senatePaperStubs": 0,
       "senateSkipped": 0,
-      "officialTradeLedger": 4912,
+      "officialTradeLedger": 4921,
       "annualBaselineRows": 11,
-      "kadoaNormalized": 38124,
+      "kadoaNormalized": 38158,
       "kadoaSkippedRows": 5259,
       "kadoaUnmatchedFilers": 0,
-      "tradesMerged": 38955,
-      "tradesProvenanceOfficial": 831,
-      "tradesProvenanceBoth": 4081,
-      "tradesProvenanceKadoa": 34043,
+      "tradesMerged": 38974,
+      "tradesProvenanceOfficial": 816,
+      "tradesProvenanceBoth": 4105,
+      "tradesProvenanceKadoa": 34053,
       "tradesBackfilled": 32520,
-      "tradesMissedByOfficial": 1523,
+      "tradesMissedByOfficial": 1533,
       "tradeConflicts": 176,
       "holdingsDerived": 73,
       "holdingRejects": 0,
@@ -45,10 +45,10 @@
       "tradersRanked": 15,
       "tradersMeasured": 12,
       "tradersClaimsNotSupported": 1,
-      "unpriceableBuys": 1627,
+      "unpriceableBuys": 1631,
       "portfolioFiles": 233,
       "portfolioPositions": 2148,
-      "portfolioRejects": 34248,
+      "portfolioRejects": 34267,
       "commonSecurities": 181,
       "slimmedTrades": 257,
       "tier1Holders": 9,
@@ -57,7 +57,7 @@
     },
     "errors": [],
     "warnings": [
-      "kadoa cross-check: 1523 row(s) inside the official coverage window were only found via kadoa - investigate the official ingest"
+      "kadoa cross-check: 1533 row(s) inside the official coverage window were only found via kadoa - investigate the official ingest"
     ]
   }
 }

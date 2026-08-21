@@ -12,6 +12,118 @@
   "trades": [
     {
       "memberId": "W000829",
+      "assetRaw": "SCHWAB SHORT TERM U S TREASURY ETF",
+      "security": null,
+      "side": "buy",
+      "owner": "joint",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2026-07-22",
+      "filedDate": "2026-08-18",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116308.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000829",
+      "assetRaw": "ADOBE INC",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-07-14",
+      "filedDate": "2026-08-18",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116308.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000829",
+      "assetRaw": "HUBSPOT INC",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2026-07-14",
+      "filedDate": "2026-08-18",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116308.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000829",
+      "assetRaw": "SALESFORCE INC",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2026-07-14",
+      "filedDate": "2026-08-18",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116308.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000829",
+      "assetRaw": "SERVICENOW INC",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2026-07-14",
+      "filedDate": "2026-08-18",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116308.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000829",
+      "assetRaw": "THE TRADE DESK INC CLASS A",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2026-07-14",
+      "filedDate": "2026-08-18",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116308.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000829",
+      "assetRaw": "UPSTART HLDGS INC",
+      "security": null,
+      "side": "buy",
+      "owner": "joint",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2026-07-14",
+      "filedDate": "2026-08-18",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116308.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000829",
       "assetRaw": "ADOBE INC",
       "security": null,
       "side": "buy",
@@ -691,6 +803,34 @@
     {
       "date": "2026-06-09",
       "value": 32500.5
+    },
+    {
+      "date": "2026-07-14",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-07-14",
+      "value": 32500.5
+    },
+    {
+      "date": "2026-07-14",
+      "value": 32500.5
+    },
+    {
+      "date": "2026-07-14",
+      "value": 32500.5
+    },
+    {
+      "date": "2026-07-14",
+      "value": 32500.5
+    },
+    {
+      "date": "2026-07-14",
+      "value": 32500.5
+    },
+    {
+      "date": "2026-07-22",
+      "value": 75000.5
     }
   ],
   "measured": null
