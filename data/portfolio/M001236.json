@@ -323,19 +323,39 @@
         "lo": 50001,
         "hi": 100000
       },
-      "status": "holds",
-      "asOf": "2026-06-04",
+      "status": "sold",
+      "asOf": "2026-08-14",
       "extraction": "pdf-text",
       "verification": "unverified",
       "sources": [
         {
           "kind": "filing",
           "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034721.pdf"
+        },
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035291.pdf"
         }
       ]
     }
   ],
   "trades": [
+    {
+      "memberId": "M001236",
+      "assetRaw": "AT&T Inc. (T) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2026-08-14",
+      "filedDate": "2026-08-20",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035291.pdf",
+      "late": false,
+      "provenance": "official"
+    },
     {
       "memberId": "M001236",
       "assetRaw": "DoorDash, Inc. - Common Stock (DASH) [ST]",
@@ -4943,15 +4963,19 @@
     {
       "date": "2026-06-09",
       "value": 8000.5
+    },
+    {
+      "date": "2026-08-14",
+      "value": 75000.5
     }
   ],
   "measured": {
-    "return": 56,
-    "excess": 28.4,
+    "return": 55.8,
+    "excess": 28.8,
     "method": "midpoint",
     "benchmark": "SPY",
     "window": "disclosed buys 2025-01-03 to 2026-06-04, since-trade, midpoint-weighted",
-    "asOf": "2026-08-21",
+    "asOf": "2026-08-22",
     "note": "Estimate: position sizes are disclosed-range midpoints, never exact amounts. 19 unpriceable position(s) excluded (options or no resolvable price)."
   }
 }

@@ -4,35 +4,14 @@
       "ticker": "MSFT",
       "kind": "other"
     },
-    "ownersCount": 15,
+    "ownersCount": 14,
     "partySplit": {
-      "R": 6,
+      "R": 5,
       "D": 9,
       "I": 0
     },
     "latestBuyDate": "2026-07-24",
     "owners": [
-      {
-        "memberId": "T000490",
-        "name": "David J. Taylor",
-        "party": "R",
-        "chamber": "house",
-        "state": "OH",
-        "active": true,
-        "buyDates": [
-          "2026-07-24",
-          "2026-02-26",
-          "2026-02-09",
-          "2026-01-29",
-          "2026-01-16",
-          "2026-01-08"
-        ],
-        "latestRange": {
-          "lo": 6006,
-          "hi": 90000
-        },
-        "status": "holds"
-      },
       {
         "memberId": "M001217",
         "name": "Jared Moskowitz",
@@ -276,6 +255,27 @@
           "hi": 100000
         },
         "status": "stale"
+      },
+      {
+        "memberId": "T000490",
+        "name": "David J. Taylor",
+        "party": "R",
+        "chamber": "house",
+        "state": "OH",
+        "active": true,
+        "buyDates": [
+          "2026-07-24",
+          "2026-02-26",
+          "2026-02-09",
+          "2026-01-29",
+          "2026-01-16",
+          "2026-01-08"
+        ],
+        "latestRange": {
+          "lo": 6006,
+          "hi": 90000
+        },
+        "status": "sold"
       },
       {
         "memberId": "G000583",
@@ -3918,177 +3918,6 @@
   },
   {
     "security": {
-      "ticker": "T",
-      "kind": "other"
-    },
-    "ownersCount": 7,
-    "partySplit": {
-      "R": 4,
-      "D": 3,
-      "I": 0
-    },
-    "latestBuyDate": "2026-06-05",
-    "owners": [
-      {
-        "memberId": "T000490",
-        "name": "David J. Taylor",
-        "party": "R",
-        "chamber": "house",
-        "state": "OH",
-        "active": true,
-        "buyDates": [
-          "2026-06-05",
-          "2026-05-15",
-          "2026-01-29"
-        ],
-        "latestRange": {
-          "lo": 2002,
-          "hi": 30000
-        },
-        "status": "holds"
-      },
-      {
-        "memberId": "M001236",
-        "name": "Tim Moore",
-        "party": "R",
-        "chamber": "house",
-        "state": "NC",
-        "active": true,
-        "buyDates": [
-          "2026-06-04",
-          "2026-05-18",
-          "2026-01-09"
-        ],
-        "latestRange": {
-          "lo": 50001,
-          "hi": 100000
-        },
-        "status": "holds"
-      },
-      {
-        "memberId": "F000450",
-        "name": "Virginia Foxx",
-        "party": "R",
-        "chamber": "house",
-        "state": "NC",
-        "active": true,
-        "buyDates": [
-          "2020-05-04",
-          "2020-04-23",
-          "2020-04-16",
-          "2020-02-04",
-          "2019-11-04",
-          "2019-04-25",
-          "2019-04-24",
-          "2018-08-01",
-          "2018-05-01",
-          "2017-10-12"
-        ],
-        "latestRange": {
-          "lo": 70014,
-          "hi": 350000
-        },
-        "status": "stale"
-      },
-      {
-        "memberId": "P000197",
-        "name": "Nancy Pelosi",
-        "party": "D",
-        "chamber": "house",
-        "state": "CA",
-        "active": true,
-        "buyDates": [
-          "2018-10-24"
-        ],
-        "latestRange": {
-          "lo": 250001,
-          "hi": 500000
-        },
-        "status": "stale"
-      },
-      {
-        "memberId": "L000397",
-        "name": "Zoe Lofgren",
-        "party": "D",
-        "chamber": "house",
-        "state": "CA",
-        "active": true,
-        "buyDates": [
-          "2017-06-15"
-        ],
-        "latestRange": {
-          "lo": 1001,
-          "hi": 15000
-        },
-        "status": "stale"
-      },
-      {
-        "memberId": "W000804",
-        "name": "Robert J. Wittman",
-        "party": "R",
-        "chamber": "house",
-        "state": "VA",
-        "active": true,
-        "buyDates": [
-          "2015-09-15"
-        ],
-        "latestRange": {
-          "lo": 1001,
-          "hi": 15000
-        },
-        "status": "stale"
-      },
-      {
-        "memberId": "C001066",
-        "name": "Kathy Castor",
-        "party": "D",
-        "chamber": "house",
-        "state": "FL",
-        "active": true,
-        "buyDates": [
-          "2014-08-18",
-          "2014-08-18"
-        ],
-        "latestRange": {
-          "lo": 1001,
-          "hi": 15000
-        },
-        "status": "stale"
-      },
-      {
-        "memberId": "L000595",
-        "name": "Julia Letlow",
-        "party": "R",
-        "chamber": "house",
-        "state": "LA",
-        "active": true,
-        "buyDates": [
-          "2024-10-23"
-        ],
-        "latestRange": {
-          "lo": 0,
-          "hi": 13999
-        },
-        "status": "sold"
-      },
-      {
-        "memberId": "G000583",
-        "name": "Josh Gottheimer",
-        "party": "D",
-        "chamber": "house",
-        "state": "NJ",
-        "active": true,
-        "buyDates": [],
-        "latestRange": {
-          "lo": 1001,
-          "hi": 15000
-        },
-        "status": "sold"
-      }
-    ]
-  },
-  {
-    "security": {
       "ticker": "KO",
       "kind": "other"
     },
@@ -4322,6 +4151,177 @@
         "latestRange": {
           "lo": 15001,
           "hi": 50000
+        },
+        "status": "sold"
+      }
+    ]
+  },
+  {
+    "security": {
+      "ticker": "T",
+      "kind": "other"
+    },
+    "ownersCount": 6,
+    "partySplit": {
+      "R": 3,
+      "D": 3,
+      "I": 0
+    },
+    "latestBuyDate": "2026-06-05",
+    "owners": [
+      {
+        "memberId": "T000490",
+        "name": "David J. Taylor",
+        "party": "R",
+        "chamber": "house",
+        "state": "OH",
+        "active": true,
+        "buyDates": [
+          "2026-06-05",
+          "2026-05-15",
+          "2026-01-29"
+        ],
+        "latestRange": {
+          "lo": 2002,
+          "hi": 30000
+        },
+        "status": "holds"
+      },
+      {
+        "memberId": "F000450",
+        "name": "Virginia Foxx",
+        "party": "R",
+        "chamber": "house",
+        "state": "NC",
+        "active": true,
+        "buyDates": [
+          "2020-05-04",
+          "2020-04-23",
+          "2020-04-16",
+          "2020-02-04",
+          "2019-11-04",
+          "2019-04-25",
+          "2019-04-24",
+          "2018-08-01",
+          "2018-05-01",
+          "2017-10-12"
+        ],
+        "latestRange": {
+          "lo": 70014,
+          "hi": 350000
+        },
+        "status": "stale"
+      },
+      {
+        "memberId": "P000197",
+        "name": "Nancy Pelosi",
+        "party": "D",
+        "chamber": "house",
+        "state": "CA",
+        "active": true,
+        "buyDates": [
+          "2018-10-24"
+        ],
+        "latestRange": {
+          "lo": 250001,
+          "hi": 500000
+        },
+        "status": "stale"
+      },
+      {
+        "memberId": "L000397",
+        "name": "Zoe Lofgren",
+        "party": "D",
+        "chamber": "house",
+        "state": "CA",
+        "active": true,
+        "buyDates": [
+          "2017-06-15"
+        ],
+        "latestRange": {
+          "lo": 1001,
+          "hi": 15000
+        },
+        "status": "stale"
+      },
+      {
+        "memberId": "W000804",
+        "name": "Robert J. Wittman",
+        "party": "R",
+        "chamber": "house",
+        "state": "VA",
+        "active": true,
+        "buyDates": [
+          "2015-09-15"
+        ],
+        "latestRange": {
+          "lo": 1001,
+          "hi": 15000
+        },
+        "status": "stale"
+      },
+      {
+        "memberId": "C001066",
+        "name": "Kathy Castor",
+        "party": "D",
+        "chamber": "house",
+        "state": "FL",
+        "active": true,
+        "buyDates": [
+          "2014-08-18",
+          "2014-08-18"
+        ],
+        "latestRange": {
+          "lo": 1001,
+          "hi": 15000
+        },
+        "status": "stale"
+      },
+      {
+        "memberId": "M001236",
+        "name": "Tim Moore",
+        "party": "R",
+        "chamber": "house",
+        "state": "NC",
+        "active": true,
+        "buyDates": [
+          "2026-06-04",
+          "2026-05-18",
+          "2026-01-09"
+        ],
+        "latestRange": {
+          "lo": 50001,
+          "hi": 100000
+        },
+        "status": "sold"
+      },
+      {
+        "memberId": "L000595",
+        "name": "Julia Letlow",
+        "party": "R",
+        "chamber": "house",
+        "state": "LA",
+        "active": true,
+        "buyDates": [
+          "2024-10-23"
+        ],
+        "latestRange": {
+          "lo": 0,
+          "hi": 13999
+        },
+        "status": "sold"
+      },
+      {
+        "memberId": "G000583",
+        "name": "Josh Gottheimer",
+        "party": "D",
+        "chamber": "house",
+        "state": "NJ",
+        "active": true,
+        "buyDates": [],
+        "latestRange": {
+          "lo": 1001,
+          "hi": 15000
         },
         "status": "sold"
       }
@@ -4696,7 +4696,7 @@
       "D": 2,
       "I": 0
     },
-    "latestBuyDate": "2026-07-17",
+    "latestBuyDate": "2026-08-11",
     "owners": [
       {
         "memberId": "T000490",
@@ -4706,13 +4706,14 @@
         "state": "OH",
         "active": true,
         "buyDates": [
+          "2026-08-11",
           "2026-07-17",
           "2026-06-05",
           "2026-02-26"
         ],
         "latestRange": {
-          "lo": 2002,
-          "hi": 30000
+          "lo": 3003,
+          "hi": 45000
         },
         "status": "holds"
       },
@@ -9662,8 +9663,27 @@
       "D": 1,
       "I": 0
     },
-    "latestBuyDate": "2026-05-15",
+    "latestBuyDate": "2026-08-11",
     "owners": [
+      {
+        "memberId": "T000490",
+        "name": "David J. Taylor",
+        "party": "R",
+        "chamber": "house",
+        "state": "OH",
+        "active": true,
+        "buyDates": [
+          "2026-08-11",
+          "2026-04-27",
+          "2026-02-09",
+          "2026-01-09"
+        ],
+        "latestRange": {
+          "lo": 2002,
+          "hi": 30000
+        },
+        "status": "holds"
+      },
       {
         "memberId": "D000399",
         "name": "Lloyd Doggett",
@@ -9678,24 +9698,6 @@
         "latestRange": {
           "lo": 2002,
           "hi": 30000
-        },
-        "status": "holds"
-      },
-      {
-        "memberId": "T000490",
-        "name": "David J. Taylor",
-        "party": "R",
-        "chamber": "house",
-        "state": "OH",
-        "active": true,
-        "buyDates": [
-          "2026-04-27",
-          "2026-02-09",
-          "2026-01-09"
-        ],
-        "latestRange": {
-          "lo": 1001,
-          "hi": 15000
         },
         "status": "holds"
       },
