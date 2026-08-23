@@ -623,13 +623,13 @@
     },
     {
       "memberId": "M001243",
-      "assetRaw": "PENNSYLVANIA ST GO\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 5% Matures: 2027-08-15",
+      "assetRaw": "PENNSYLVANIA ST GO\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 5% Matures: 2034-04-01",
       "security": null,
       "side": "sell",
       "owner": "spouse",
       "range": {
-        "lo": 500001,
-        "hi": 1000000
+        "lo": 100001,
+        "hi": 250000
       },
       "transactionDate": "2026-05-26",
       "filedDate": "2026-06-26",
@@ -639,13 +639,13 @@
     },
     {
       "memberId": "M001243",
-      "assetRaw": "PENNSYLVANIA ST GO\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 5% Matures: 2034-04-01",
+      "assetRaw": "PENNSYLVANIA ST GO\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 5% Matures: 2035-04-01",
       "security": null,
       "side": "sell",
       "owner": "spouse",
       "range": {
-        "lo": 100001,
-        "hi": 250000
+        "lo": 50001,
+        "hi": 100000
       },
       "transactionDate": "2026-05-26",
       "filedDate": "2026-06-26",
@@ -7255,11 +7255,11 @@
     },
     {
       "date": "2026-05-26",
-      "value": 750000.5
+      "value": 175000.5
     },
     {
       "date": "2026-05-26",
-      "value": 175000.5
+      "value": 75000.5
     },
     {
       "date": "2026-05-26",
@@ -7367,12 +7367,12 @@
     }
   ],
   "measured": {
-    "return": -15.4,
-    "excess": -44.5,
+    "return": -10.3,
+    "excess": -39.9,
     "method": "midpoint",
     "benchmark": "SPY",
     "window": "disclosed buys 2025-02-25 to 2025-11-28, since-trade, midpoint-weighted",
-    "asOf": "2026-08-22",
+    "asOf": "2026-08-23",
     "note": "Estimate: position sizes are disclosed-range midpoints, never exact amounts. 255 unpriceable position(s) excluded (options or no resolvable price)."
   }
 }
