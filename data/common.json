@@ -2318,7 +2318,7 @@
       "D": 6,
       "I": 0
     },
-    "latestBuyDate": "2026-05-29",
+    "latestBuyDate": "2026-07-24",
     "owners": [
       {
         "memberId": "P000197",
@@ -2328,11 +2328,13 @@
         "state": "CA",
         "active": true,
         "buyDates": [
+          "2026-07-24",
+          "2026-07-24",
           "2026-05-29"
         ],
         "latestRange": {
-          "lo": 1000001,
-          "hi": 5000000
+          "lo": 1750003,
+          "hi": 6500000
         },
         "status": "holds"
       },
@@ -11177,6 +11179,56 @@
           "hi": 15000
         },
         "status": "sold"
+      }
+    ]
+  },
+  {
+    "security": {
+      "ticker": "BE",
+      "kind": "other"
+    },
+    "ownersCount": 2,
+    "partySplit": {
+      "R": 0,
+      "D": 2,
+      "I": 0
+    },
+    "latestBuyDate": "2026-07-28",
+    "owners": [
+      {
+        "memberId": "P000197",
+        "name": "Nancy Pelosi",
+        "party": "D",
+        "chamber": "house",
+        "state": "CA",
+        "active": true,
+        "buyDates": [
+          "2026-07-28",
+          "2026-07-28",
+          "2026-07-24",
+          "2026-07-24"
+        ],
+        "latestRange": {
+          "lo": 3000004,
+          "hi": 12000000
+        },
+        "status": "holds"
+      },
+      {
+        "memberId": "C001123",
+        "name": "Gil Cisneros",
+        "party": "D",
+        "chamber": "house",
+        "state": "CA",
+        "active": true,
+        "buyDates": [
+          "2026-01-30"
+        ],
+        "latestRange": {
+          "lo": 1001,
+          "hi": 15000
+        },
+        "status": "holds"
       }
     ]
   },

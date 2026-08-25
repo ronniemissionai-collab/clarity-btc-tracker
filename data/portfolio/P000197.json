@@ -111,6 +111,28 @@
     {
       "memberId": "P000197",
       "security": {
+        "ticker": "BE",
+        "kind": "other"
+      },
+      "owner": "spouse",
+      "range": {
+        "lo": 3000004,
+        "hi": 12000000
+      },
+      "status": "holds",
+      "asOf": "2026-07-28",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035143.pdf"
+        }
+      ]
+    },
+    {
+      "memberId": "P000197",
+      "security": {
         "ticker": "BRCM",
         "kind": "other"
       },
@@ -287,17 +309,21 @@
       },
       "owner": "spouse",
       "range": {
-        "lo": 1000001,
-        "hi": 5000000
+        "lo": 1750003,
+        "hi": 6500000
       },
       "status": "holds",
-      "asOf": "2026-05-29",
+      "asOf": "2026-07-24",
       "extraction": "pdf-text",
       "verification": "unverified",
       "sources": [
         {
           "kind": "filing",
           "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034836.pdf"
+        },
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035143.pdf"
         }
       ]
     },
@@ -512,6 +538,118 @@
     }
   ],
   "trades": [
+    {
+      "memberId": "P000197",
+      "assetRaw": "Bloom Energy Corporation Class A Common Stock (BE) [OP]",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 500001,
+        "hi": 1000000
+      },
+      "transactionDate": "2026-07-28",
+      "filedDate": "2026-08-21",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035143.pdf",
+      "late": false,
+      "provenance": "official"
+    },
+    {
+      "memberId": "P000197",
+      "assetRaw": "Bloom Energy Corporation Class A Common Stock (BE) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 500001,
+        "hi": 1000000
+      },
+      "transactionDate": "2026-07-28",
+      "filedDate": "2026-08-21",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035143.pdf",
+      "late": false,
+      "provenance": "official"
+    },
+    {
+      "memberId": "P000197",
+      "assetRaw": "REOF XXV, LLC [AB]",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 500001,
+        "hi": 1000000
+      },
+      "transactionDate": "2026-07-27",
+      "filedDate": "2026-08-21",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035143.pdf",
+      "late": false,
+      "provenance": "official"
+    },
+    {
+      "memberId": "P000197",
+      "assetRaw": "Bloom Energy Corporation Class A Common Stock (BE) [OP]",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1000001,
+        "hi": 5000000
+      },
+      "transactionDate": "2026-07-24",
+      "filedDate": "2026-08-21",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035143.pdf",
+      "late": false,
+      "provenance": "official"
+    },
+    {
+      "memberId": "P000197",
+      "assetRaw": "Bloom Energy Corporation Class A Common Stock (BE) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1000001,
+        "hi": 5000000
+      },
+      "transactionDate": "2026-07-24",
+      "filedDate": "2026-08-21",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035143.pdf",
+      "late": false,
+      "provenance": "official"
+    },
+    {
+      "memberId": "P000197",
+      "assetRaw": "Intel Corporation - Common Stock (INTC) [OP]",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 250001,
+        "hi": 500000
+      },
+      "transactionDate": "2026-07-24",
+      "filedDate": "2026-08-21",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035143.pdf",
+      "late": false,
+      "provenance": "official"
+    },
+    {
+      "memberId": "P000197",
+      "assetRaw": "Intel Corporation - Common Stock (INTC) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 500001,
+        "hi": 1000000
+      },
+      "transactionDate": "2026-07-24",
+      "filedDate": "2026-08-21",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035143.pdf",
+      "late": false,
+      "provenance": "official"
+    },
     {
       "memberId": "P000197",
       "assetRaw": "Intel Corporation - Common Stock (INTC) [OP]",
@@ -4100,15 +4238,43 @@
     {
       "date": "2026-05-29",
       "value": 750000.5
+    },
+    {
+      "date": "2026-07-24",
+      "value": 3000000.5
+    },
+    {
+      "date": "2026-07-24",
+      "value": 3000000.5
+    },
+    {
+      "date": "2026-07-24",
+      "value": 375000.5
+    },
+    {
+      "date": "2026-07-24",
+      "value": 750000.5
+    },
+    {
+      "date": "2026-07-27",
+      "value": 750000.5
+    },
+    {
+      "date": "2026-07-28",
+      "value": 750000.5
+    },
+    {
+      "date": "2026-07-28",
+      "value": 750000.5
     }
   ],
   "measured": {
-    "return": 169.8,
-    "excess": 76.2,
+    "return": 153.1,
+    "excess": 68.6,
     "method": "midpoint",
     "benchmark": "SPY",
-    "window": "disclosed buys 2014-10-24 to 2026-01-16, since-trade, midpoint-weighted",
-    "asOf": "2026-08-24",
-    "note": "Estimate: position sizes are disclosed-range midpoints, never exact amounts. 50 unpriceable position(s) excluded (options or no resolvable price)."
+    "window": "disclosed buys 2014-10-24 to 2026-07-28, since-trade, midpoint-weighted",
+    "asOf": "2026-08-25",
+    "note": "Estimate: position sizes are disclosed-range midpoints, never exact amounts. 51 unpriceable position(s) excluded (options or no resolvable price)."
   }
 }

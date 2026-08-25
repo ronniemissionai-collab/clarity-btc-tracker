@@ -835,6 +835,54 @@
   "trades": [
     {
       "memberId": "D000617",
+      "assetRaw": "Washington ST 5% Go Utx Due 08/01/30 [GS]",
+      "security": null,
+      "side": "buy",
+      "owner": "joint",
+      "range": {
+        "lo": 250001,
+        "hi": 500000
+      },
+      "transactionDate": "2026-08-07",
+      "filedDate": "2026-08-21",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035274.pdf",
+      "late": false,
+      "provenance": "official"
+    },
+    {
+      "memberId": "D000617",
+      "assetRaw": "California CMNTY Choice Fing Auth 5.00 % Due Oct 1, 2056 [GS]",
+      "security": null,
+      "side": "buy",
+      "owner": "joint",
+      "range": {
+        "lo": 250001,
+        "hi": 500000
+      },
+      "transactionDate": "2026-08-06",
+      "filedDate": "2026-08-21",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035274.pdf",
+      "late": false,
+      "provenance": "official"
+    },
+    {
+      "memberId": "D000617",
+      "assetRaw": "Southeast Energy Auth Coop Dist Ala 5.00% Due Sep 1, 2035 [GS]",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 250001,
+        "hi": 500000
+      },
+      "transactionDate": "2026-08-06",
+      "filedDate": "2026-08-21",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035274.pdf",
+      "late": false,
+      "provenance": "official"
+    },
+    {
+      "memberId": "D000617",
       "assetRaw": "Fort Bend Tex Indpt SCH Dist Variable 04.00000% 08/01/2054 Rate Unltd Tax BLDG Ref BDS Ser. 2024B [GS]",
       "security": null,
       "side": "buy",
@@ -14155,6 +14203,18 @@
     },
     {
       "date": "2026-07-23",
+      "value": 375000.5
+    },
+    {
+      "date": "2026-08-06",
+      "value": 375000.5
+    },
+    {
+      "date": "2026-08-06",
+      "value": 375000.5
+    },
+    {
+      "date": "2026-08-07",
       "value": 375000.5
     }
   ],
