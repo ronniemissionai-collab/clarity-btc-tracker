@@ -35,6 +35,22 @@
   "trades": [
     {
       "memberId": "K000375",
+      "assetRaw": "Alphabet Inc Note Coupon 4.80000%Mat 2/15/2036 [CS]",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-11",
+      "filedDate": "2026-08-25",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035293.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "K000375",
       "assetRaw": "CAPITAL ONE FINL CORP NOTE 7.62400% 10/30/2031 [CS]",
       "security": null,
       "side": "buy",
@@ -3758,6 +3774,10 @@
     {
       "date": "2026-06-30",
       "value": 32500.5
+    },
+    {
+      "date": "2026-08-11",
+      "value": 8000.5
     }
   ],
   "measured": null

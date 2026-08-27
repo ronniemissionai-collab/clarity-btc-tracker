@@ -4689,121 +4689,6 @@
   },
   {
     "security": {
-      "ticker": "GOOGL",
-      "kind": "other"
-    },
-    "ownersCount": 5,
-    "partySplit": {
-      "R": 3,
-      "D": 2,
-      "I": 0
-    },
-    "latestBuyDate": "2026-08-11",
-    "owners": [
-      {
-        "memberId": "T000490",
-        "name": "David J. Taylor",
-        "party": "R",
-        "chamber": "house",
-        "state": "OH",
-        "active": true,
-        "buyDates": [
-          "2026-08-11",
-          "2026-07-17",
-          "2026-06-05",
-          "2026-02-26"
-        ],
-        "latestRange": {
-          "lo": 3003,
-          "hi": 45000
-        },
-        "status": "holds"
-      },
-      {
-        "memberId": "R000619",
-        "name": "Michael A. Rulli",
-        "party": "R",
-        "chamber": "house",
-        "state": "OH",
-        "active": true,
-        "buyDates": [
-          "2026-06-29",
-          "2026-06-25"
-        ],
-        "latestRange": {
-          "lo": 2002,
-          "hi": 30000
-        },
-        "status": "holds"
-      },
-      {
-        "memberId": "F000110",
-        "name": "Cleo Fields",
-        "party": "D",
-        "chamber": "house",
-        "state": "LA",
-        "active": true,
-        "buyDates": [
-          "2026-02-03",
-          "2025-12-26"
-        ],
-        "latestRange": {
-          "lo": 150002,
-          "hi": 350000
-        },
-        "status": "holds"
-      },
-      {
-        "memberId": "P000197",
-        "name": "Nancy Pelosi",
-        "party": "D",
-        "chamber": "house",
-        "state": "CA",
-        "active": true,
-        "buyDates": [
-          "2026-01-16",
-          "2025-12-30"
-        ],
-        "latestRange": {
-          "lo": 500001,
-          "hi": 1000000
-        },
-        "status": "holds"
-      },
-      {
-        "memberId": "L000595",
-        "name": "Julia Letlow",
-        "party": "R",
-        "chamber": "house",
-        "state": "LA",
-        "active": true,
-        "buyDates": [
-          "2025-07-02"
-        ],
-        "latestRange": {
-          "lo": 1001,
-          "hi": 15000
-        },
-        "status": "stale"
-      },
-      {
-        "memberId": "V000139",
-        "name": "Matt Van Epps",
-        "party": "R",
-        "chamber": "house",
-        "state": "TN",
-        "active": true,
-        "buyDates": [],
-        "latestRange": {
-          "lo": 1001,
-          "hi": 15000
-        },
-        "status": "sold"
-      }
-    ]
-  },
-  {
-    "security": {
       "ticker": "HON",
       "kind": "other"
     },
@@ -6204,6 +6089,121 @@
   },
   {
     "security": {
+      "ticker": "GOOGL",
+      "kind": "other"
+    },
+    "ownersCount": 4,
+    "partySplit": {
+      "R": 2,
+      "D": 2,
+      "I": 0
+    },
+    "latestBuyDate": "2026-08-11",
+    "owners": [
+      {
+        "memberId": "T000490",
+        "name": "David J. Taylor",
+        "party": "R",
+        "chamber": "house",
+        "state": "OH",
+        "active": true,
+        "buyDates": [
+          "2026-08-11",
+          "2026-07-17",
+          "2026-06-05",
+          "2026-02-26"
+        ],
+        "latestRange": {
+          "lo": 3003,
+          "hi": 45000
+        },
+        "status": "holds"
+      },
+      {
+        "memberId": "F000110",
+        "name": "Cleo Fields",
+        "party": "D",
+        "chamber": "house",
+        "state": "LA",
+        "active": true,
+        "buyDates": [
+          "2026-02-03",
+          "2025-12-26"
+        ],
+        "latestRange": {
+          "lo": 150002,
+          "hi": 350000
+        },
+        "status": "holds"
+      },
+      {
+        "memberId": "P000197",
+        "name": "Nancy Pelosi",
+        "party": "D",
+        "chamber": "house",
+        "state": "CA",
+        "active": true,
+        "buyDates": [
+          "2026-01-16",
+          "2025-12-30"
+        ],
+        "latestRange": {
+          "lo": 500001,
+          "hi": 1000000
+        },
+        "status": "holds"
+      },
+      {
+        "memberId": "L000595",
+        "name": "Julia Letlow",
+        "party": "R",
+        "chamber": "house",
+        "state": "LA",
+        "active": true,
+        "buyDates": [
+          "2025-07-02"
+        ],
+        "latestRange": {
+          "lo": 1001,
+          "hi": 15000
+        },
+        "status": "stale"
+      },
+      {
+        "memberId": "R000619",
+        "name": "Michael A. Rulli",
+        "party": "R",
+        "chamber": "house",
+        "state": "OH",
+        "active": true,
+        "buyDates": [
+          "2026-06-29",
+          "2026-06-25"
+        ],
+        "latestRange": {
+          "lo": 2002,
+          "hi": 30000
+        },
+        "status": "sold"
+      },
+      {
+        "memberId": "V000139",
+        "name": "Matt Van Epps",
+        "party": "R",
+        "chamber": "house",
+        "state": "TN",
+        "active": true,
+        "buyDates": [],
+        "latestRange": {
+          "lo": 1001,
+          "hi": 15000
+        },
+        "status": "sold"
+      }
+    ]
+  },
+  {
+    "security": {
       "ticker": "IBM",
       "kind": "other"
     },
@@ -7359,6 +7359,20 @@
         "latestRange": {
           "lo": 1001,
           "hi": 15000
+        },
+        "status": "sold"
+      },
+      {
+        "memberId": "M001234",
+        "name": "Kelly Morrison",
+        "party": "D",
+        "chamber": "house",
+        "state": "MN",
+        "active": true,
+        "buyDates": [],
+        "latestRange": {
+          "lo": 16002,
+          "hi": 65000
         },
         "status": "sold"
       },

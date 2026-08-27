@@ -112,16 +112,21 @@
         "lo": 2002,
         "hi": 30000
       },
-      "status": "holds",
-      "asOf": "2026-06-29",
+      "status": "sold",
+      "asOf": "2026-08-24",
       "extraction": "pdf-text",
       "verification": "unverified",
       "sources": [
         {
           "kind": "filing",
           "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035147.pdf"
+        },
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035309.pdf"
         }
-      ]
+      ],
+      "note": "partial sales through 2026-08-24 exhausted the disclosed range"
     },
     {
       "memberId": "R000619",
@@ -416,6 +421,23 @@
     }
   ],
   "trades": [
+    {
+      "memberId": "R000619",
+      "assetRaw": "Alphabet Inc. - Class A Common Stock (GOOGL) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2026-08-24",
+      "filedDate": "2026-08-25",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035309.pdf",
+      "late": false,
+      "note": "partial sale",
+      "provenance": "both"
+    },
     {
       "memberId": "R000619",
       "assetRaw": "Crown Castle Inc. Common Stock (CCI) [ST]",
@@ -1057,6 +1079,10 @@
     {
       "date": "2026-08-06",
       "value": 8000.5
+    },
+    {
+      "date": "2026-08-24",
+      "value": 75000.5
     }
   ],
   "measured": null

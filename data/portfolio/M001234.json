@@ -12,6 +12,52 @@
     {
       "memberId": "M001234",
       "security": {
+        "ticker": "ACN",
+        "kind": "other"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "sold",
+      "asOf": "2026-08-11",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035244.pdf"
+        }
+      ],
+      "note": "sale reported by PTR with no annual baseline in our coverage"
+    },
+    {
+      "memberId": "M001234",
+      "security": {
+        "ticker": "ACN",
+        "kind": "other"
+      },
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "status": "sold",
+      "asOf": "2026-08-11",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035244.pdf"
+        }
+      ],
+      "note": "sale reported by PTR with no annual baseline in our coverage"
+    },
+    {
+      "memberId": "M001234",
+      "security": {
         "ticker": "AJG",
         "kind": "other"
       },
@@ -57,6 +103,52 @@
     {
       "memberId": "M001234",
       "security": {
+        "ticker": "MBGL",
+        "kind": "other"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "sold",
+      "asOf": "2026-08-11",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035244.pdf"
+        }
+      ],
+      "note": "sale reported by PTR with no annual baseline in our coverage"
+    },
+    {
+      "memberId": "M001234",
+      "security": {
+        "ticker": "MBGL",
+        "kind": "other"
+      },
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "sold",
+      "asOf": "2026-08-11",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035244.pdf"
+        }
+      ],
+      "note": "sale reported by PTR with no annual baseline in our coverage"
+    },
+    {
+      "memberId": "M001234",
+      "security": {
         "ticker": "MICC",
         "kind": "other"
       },
@@ -76,9 +168,128 @@
         }
       ],
       "note": "sale reported by PTR with no annual baseline in our coverage"
+    },
+    {
+      "memberId": "M001234",
+      "security": {
+        "ticker": "SOLS",
+        "kind": "other"
+      },
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "sold",
+      "asOf": "2026-08-11",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035244.pdf"
+        }
+      ],
+      "note": "sale reported by PTR with no annual baseline in our coverage"
     }
   ],
   "trades": [
+    {
+      "memberId": "M001234",
+      "assetRaw": "Accenture plc Class A Ordinary Shares (ACN) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-11",
+      "filedDate": "2026-08-25",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035244.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "M001234",
+      "assetRaw": "Accenture plc Class A Ordinary Shares (ACN) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-11",
+      "filedDate": "2026-08-25",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035244.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "M001234",
+      "assetRaw": "Accenture plc Class A Ordinary Shares (ACN) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2026-08-11",
+      "filedDate": "2026-08-25",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035244.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "M001234",
+      "assetRaw": "Mobility Global Inc. Common Stock (MBGL) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-11",
+      "filedDate": "2026-08-25",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035244.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "M001234",
+      "assetRaw": "Mobility Global Inc. Common Stock (MBGL) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-11",
+      "filedDate": "2026-08-25",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035244.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "M001234",
+      "assetRaw": "Solstice Advanced Materials Inc. - Common Stock (SOLS) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-11",
+      "filedDate": "2026-08-25",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035244.pdf",
+      "late": false,
+      "provenance": "both"
+    },
     {
       "memberId": "M001234",
       "assetRaw": "Andersen Corporation [OL]",
@@ -1691,6 +1902,30 @@
     {
       "date": "2026-06-19",
       "value": 175000.5
+    },
+    {
+      "date": "2026-08-11",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-11",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-11",
+      "value": 32500.5
+    },
+    {
+      "date": "2026-08-11",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-11",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-11",
+      "value": 8000.5
     }
   ],
   "measured": null
