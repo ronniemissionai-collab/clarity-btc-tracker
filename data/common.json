@@ -10900,12 +10900,13 @@
         "state": "FL",
         "active": true,
         "buyDates": [
+          "2026-07-13",
           "2026-06-18",
           "2026-06-18"
         ],
         "latestRange": {
-          "lo": 2002,
-          "hi": 30000
+          "lo": 3003,
+          "hi": 45000
         },
         "status": "holds"
       }
@@ -15661,6 +15662,20 @@
           "hi": 40996
         },
         "status": "holds"
+      },
+      {
+        "memberId": "M001217",
+        "name": "Jared Moskowitz",
+        "party": "D",
+        "chamber": "house",
+        "state": "FL",
+        "active": true,
+        "buyDates": [],
+        "latestRange": {
+          "lo": 1001,
+          "hi": 15000
+        },
+        "status": "sold"
       }
     ]
   },

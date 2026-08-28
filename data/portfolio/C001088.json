@@ -12,6 +12,23 @@
   "trades": [
     {
       "memberId": "C001088",
+      "assetRaw": "W.L. Gore & Associates, Inc.",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2026-08-07",
+      "filedDate": "2026-08-28",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/5a76ceb6-2d1d-4430-8a17-6512bcb402be/",
+      "late": false,
+      "note": "partial sale",
+      "provenance": "official"
+    },
+    {
+      "memberId": "C001088",
       "assetRaw": "W.L. Gore & Associates, Inc.\n                                        \n                                        \n                                        \n                                            \n                                                \n                                                    Company: W.L. Gore & Associates, Inc.\n                                                    \n                                                         (Newark, DE)\n                                                    \n                                                \n                                            \n\n                                            \n                                                Description: Advanced materials manufacturing",
       "security": null,
       "side": "sell",
@@ -537,6 +554,10 @@
     },
     {
       "date": "2024-02-06",
+      "value": 175000.5
+    },
+    {
+      "date": "2026-08-07",
       "value": 175000.5
     }
   ],

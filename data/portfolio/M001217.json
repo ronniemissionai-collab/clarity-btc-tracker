@@ -132,17 +132,21 @@
       },
       "owner": "self",
       "range": {
-        "lo": 1001,
-        "hi": 15000
+        "lo": 2002,
+        "hi": 30000
       },
       "status": "holds",
-      "asOf": "2026-06-18",
+      "asOf": "2026-07-13",
       "extraction": "pdf-text",
       "verification": "unverified",
       "sources": [
         {
           "kind": "filing",
           "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034963.pdf"
+        },
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035243.pdf"
         }
       ]
     },
@@ -1238,6 +1242,29 @@
     {
       "memberId": "M001217",
       "security": {
+        "ticker": "STE",
+        "kind": "other"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "sold",
+      "asOf": "2026-07-13",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035243.pdf"
+        }
+      ],
+      "note": "sale reported by PTR with no annual baseline in our coverage"
+    },
+    {
+      "memberId": "M001217",
+      "security": {
         "ticker": "TJX",
         "kind": "other"
       },
@@ -1305,6 +1332,55 @@
     }
   ],
   "trades": [
+    {
+      "memberId": "M001217",
+      "assetRaw": "Applied Materials, Inc. - Common Stock (AMAT) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-07-13",
+      "filedDate": "2026-08-27",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035243.pdf",
+      "late": false,
+      "provenance": "official"
+    },
+    {
+      "memberId": "M001217",
+      "assetRaw": "STERIS plc (STE) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-07-13",
+      "filedDate": "2026-08-27",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035243.pdf",
+      "late": false,
+      "provenance": "official"
+    },
+    {
+      "memberId": "M001217",
+      "assetRaw": "W.W. Grainger, Inc. Common Stock (GWW) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-07-13",
+      "filedDate": "2026-08-27",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035243.pdf",
+      "late": false,
+      "note": "partial sale",
+      "provenance": "official"
+    },
     {
       "memberId": "M001217",
       "assetRaw": "Applied Materials, Inc. - Common Stock (AMAT) [ST]",
@@ -8961,15 +9037,27 @@
     {
       "date": "2026-06-18",
       "value": 8000.5
+    },
+    {
+      "date": "2026-07-13",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-07-13",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-07-13",
+      "value": 8000.5
     }
   ],
   "measured": {
-    "return": 30.5,
-    "excess": -12.4,
+    "return": 30.2,
+    "excess": -13.4,
     "method": "midpoint",
     "benchmark": "SPY",
-    "window": "disclosed buys 2023-02-21 to 2026-06-18, since-trade, midpoint-weighted",
-    "asOf": "2026-08-27",
+    "window": "disclosed buys 2023-02-21 to 2026-07-13, since-trade, midpoint-weighted",
+    "asOf": "2026-08-28",
     "note": "Estimate: position sizes are disclosed-range midpoints, never exact amounts. 5 unpriceable position(s) excluded (options or no resolvable price)."
   }
 }

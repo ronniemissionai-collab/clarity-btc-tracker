@@ -9,12 +9,12 @@
       }
     ],
     "measured": {
-      "return": 109.5,
-      "excess": 4.2,
+      "return": 111.5,
+      "excess": 5.1,
       "method": "midpoint",
       "benchmark": "SPY",
       "window": "disclosed buys 2017-01-03 to 2026-07-24, since-trade, midpoint-weighted",
-      "asOf": "2026-08-27",
+      "asOf": "2026-08-28",
       "note": "Estimate: position sizes are disclosed-range midpoints, never exact amounts. 146 unpriceable position(s) excluded (options or no resolvable price)."
     },
     "attribution": "joint + spouse",
@@ -5269,12 +5269,12 @@
       }
     ],
     "measured": {
-      "return": 84.4,
-      "excess": 11.9,
+      "return": 84.7,
+      "excess": 11.2,
       "method": "midpoint",
       "benchmark": "SPY",
       "window": "disclosed buys 2019-01-18 to 2026-06-30, since-trade, midpoint-weighted",
-      "asOf": "2026-08-27",
+      "asOf": "2026-08-28",
       "note": "Estimate: position sizes are disclosed-range midpoints, never exact amounts. 154 unpriceable position(s) excluded (options or no resolvable price)."
     },
     "attribution": "self",
@@ -10653,12 +10653,12 @@
       }
     ],
     "measured": {
-      "return": 37.1,
-      "excess": 13.7,
+      "return": 38.1,
+      "excess": 14,
       "method": "midpoint",
       "benchmark": "SPY",
       "window": "disclosed buys 2024-03-11 to 2026-02-06, since-trade, midpoint-weighted",
-      "asOf": "2026-08-27",
+      "asOf": "2026-08-28",
       "note": "Estimate: position sizes are disclosed-range midpoints, never exact amounts. 27 unpriceable position(s) excluded (options or no resolvable price)."
     },
     "attribution": "spouse",
@@ -13453,12 +13453,12 @@
       }
     ],
     "measured": {
-      "return": 10.6,
-      "excess": 1.1,
+      "return": 11.9,
+      "excess": 1.8,
       "method": "midpoint",
       "benchmark": "SPY",
       "window": "disclosed buys 2026-02-06 to 2026-07-20, since-trade, midpoint-weighted",
-      "asOf": "2026-08-27",
+      "asOf": "2026-08-28",
       "note": "Estimate: position sizes are disclosed-range midpoints, never exact amounts. 448 unpriceable position(s) excluded (options or no resolvable price)."
     },
     "attribution": "dependent + spouse",
@@ -13857,12 +13857,12 @@
       }
     ],
     "measured": {
-      "return": 206.1,
-      "excess": -4.6,
+      "return": 205.1,
+      "excess": -7.2,
       "method": "midpoint",
       "benchmark": "SPY",
       "window": "disclosed buys 2013-02-13 to 2025-09-09, since-trade, midpoint-weighted",
-      "asOf": "2026-08-27",
+      "asOf": "2026-08-28",
       "note": "Estimate: position sizes are disclosed-range midpoints, never exact amounts. 258 unpriceable position(s) excluded (options or no resolvable price)."
     },
     "attribution": "spouse",
@@ -14601,12 +14601,12 @@
       }
     ],
     "measured": {
-      "return": 14.1,
-      "excess": -10.5,
+      "return": 14.3,
+      "excess": -11.1,
       "method": "midpoint",
       "benchmark": "SPY",
       "window": "disclosed buys 2023-08-29 to 2026-07-30, since-trade, midpoint-weighted",
-      "asOf": "2026-08-27",
+      "asOf": "2026-08-28",
       "note": "Estimate: position sizes are disclosed-range midpoints, never exact amounts. 7 unpriceable position(s) excluded (options or no resolvable price)."
     },
     "attribution": "joint + self",
@@ -15584,12 +15584,12 @@
       }
     ],
     "measured": {
-      "return": 13.4,
-      "excess": 2.6,
+      "return": 13.6,
+      "excess": 2.2,
       "method": "midpoint",
       "benchmark": "SPY",
       "window": "disclosed buys 2026-02-03 to 2026-06-29, since-trade, midpoint-weighted",
-      "asOf": "2026-08-27",
+      "asOf": "2026-08-28",
       "note": "Estimate: position sizes are disclosed-range midpoints, never exact amounts. 161 unpriceable position(s) excluded (options or no resolvable price)."
     },
     "attribution": "spouse",
@@ -16134,8 +16134,128 @@
     ]
   },
   {
+    "memberId": "M001243",
+    "tradeCount": 406,
+    "claims": [
+      {
+        "quote": "Sen. David McCormick reports new Bitcoin ETF purchases as total for 2025 approaches $1 million - while sitting on Senate Banking.",
+        "sourceUrl": "https://www.quiverquant.com/news/Sen.+David+McCormick+Reports+New+Bitcoin+ETF+Purchases+as+Total+for+2025+Approaches+$1+Million",
+        "attribution": "Quiver Quantitative"
+      }
+    ],
+    "measured": {
+      "return": -8.6,
+      "excess": -39,
+      "method": "midpoint",
+      "benchmark": "SPY",
+      "window": "disclosed buys 2025-02-25 to 2025-11-28, since-trade, midpoint-weighted",
+      "asOf": "2026-08-28",
+      "note": "Estimate: position sizes are disclosed-range midpoints, never exact amounts. 267 unpriceable position(s) excluded (options or no resolvable price)."
+    },
+    "attribution": "spouse + self",
+    "note": "314 of 344 window trades are BITB (Bitwise spot BTC ETF) - conviction DCA. Measured -23.2% / -49.5 vs SPY so far. Ex-Bridgewater CEO.",
+    "series": [
+      {
+        "date": "2025-02-25",
+        "value": 75000.5
+      },
+      {
+        "date": "2025-02-25",
+        "value": 75000.5
+      },
+      {
+        "date": "2025-02-26",
+        "value": 32500.5
+      },
+      {
+        "date": "2025-02-26",
+        "value": 32500.5
+      },
+      {
+        "date": "2025-02-27",
+        "value": 75000.5
+      },
+      {
+        "date": "2025-02-28",
+        "value": 32500.5
+      },
+      {
+        "date": "2025-03-03",
+        "value": 75000.5
+      },
+      {
+        "date": "2025-03-05",
+        "value": 32500.5
+      },
+      {
+        "date": "2025-03-10",
+        "value": 75000.5
+      },
+      {
+        "date": "2025-03-11",
+        "value": 32500.5
+      },
+      {
+        "date": "2025-03-13",
+        "value": 32500.5
+      },
+      {
+        "date": "2025-03-20",
+        "value": 75000.5
+      },
+      {
+        "date": "2025-03-24",
+        "value": 32500.5
+      },
+      {
+        "date": "2025-03-25",
+        "value": 75000.5
+      },
+      {
+        "date": "2025-03-27",
+        "value": 75000.5
+      },
+      {
+        "date": "2025-03-31",
+        "value": 32500.5
+      },
+      {
+        "date": "2025-04-02",
+        "value": 32500.5
+      },
+      {
+        "date": "2025-04-03",
+        "value": 32500.5
+      },
+      {
+        "date": "2025-04-07",
+        "value": 32500.5
+      },
+      {
+        "date": "2025-04-09",
+        "value": 32500.5
+      },
+      {
+        "date": "2025-11-24",
+        "value": 75000.5
+      },
+      {
+        "date": "2025-11-25",
+        "value": 32500.5
+      },
+      {
+        "date": "2025-11-26",
+        "value": 75000.5
+      },
+      {
+        "date": "2025-11-28",
+        "value": 75000.5
+      }
+    ]
+  },
+  {
     "memberId": "M001217",
-    "tradeCount": 388,
+    "tradeCount": 391,
     "claims": [
       {
         "quote": "Occasional Unusual Whales callouts on timely trades.",
@@ -16143,12 +16263,12 @@
       }
     ],
     "measured": {
-      "return": 30.5,
-      "excess": -12.4,
+      "return": 30.2,
+      "excess": -13.4,
       "method": "midpoint",
       "benchmark": "SPY",
-      "window": "disclosed buys 2023-02-21 to 2026-06-18, since-trade, midpoint-weighted",
-      "asOf": "2026-08-27",
+      "window": "disclosed buys 2023-02-21 to 2026-07-13, since-trade, midpoint-weighted",
+      "asOf": "2026-08-28",
       "note": "Estimate: position sizes are disclosed-range midpoints, never exact amounts. 5 unpriceable position(s) excluded (options or no resolvable price)."
     },
     "attribution": "dependent + self",
@@ -17173,126 +17293,10 @@
       {
         "date": "2026-06-18",
         "value": 8000.5
-      }
-    ]
-  },
-  {
-    "memberId": "M001243",
-    "tradeCount": 359,
-    "claims": [
-      {
-        "quote": "Sen. David McCormick reports new Bitcoin ETF purchases as total for 2025 approaches $1 million - while sitting on Senate Banking.",
-        "sourceUrl": "https://www.quiverquant.com/news/Sen.+David+McCormick+Reports+New+Bitcoin+ETF+Purchases+as+Total+for+2025+Approaches+$1+Million",
-        "attribution": "Quiver Quantitative"
-      }
-    ],
-    "measured": {
-      "return": -8.6,
-      "excess": -38.3,
-      "method": "midpoint",
-      "benchmark": "SPY",
-      "window": "disclosed buys 2025-02-25 to 2025-11-28, since-trade, midpoint-weighted",
-      "asOf": "2026-08-27",
-      "note": "Estimate: position sizes are disclosed-range midpoints, never exact amounts. 255 unpriceable position(s) excluded (options or no resolvable price)."
-    },
-    "attribution": "spouse + self",
-    "note": "314 of 344 window trades are BITB (Bitwise spot BTC ETF) - conviction DCA. Measured -23.2% / -49.5 vs SPY so far. Ex-Bridgewater CEO.",
-    "series": [
-      {
-        "date": "2025-02-25",
-        "value": 75000.5
       },
       {
-        "date": "2025-02-25",
-        "value": 75000.5
-      },
-      {
-        "date": "2025-02-26",
-        "value": 32500.5
-      },
-      {
-        "date": "2025-02-26",
-        "value": 32500.5
-      },
-      {
-        "date": "2025-02-27",
-        "value": 75000.5
-      },
-      {
-        "date": "2025-02-28",
-        "value": 32500.5
-      },
-      {
-        "date": "2025-03-03",
-        "value": 75000.5
-      },
-      {
-        "date": "2025-03-05",
-        "value": 32500.5
-      },
-      {
-        "date": "2025-03-10",
-        "value": 75000.5
-      },
-      {
-        "date": "2025-03-11",
-        "value": 32500.5
-      },
-      {
-        "date": "2025-03-13",
-        "value": 32500.5
-      },
-      {
-        "date": "2025-03-20",
-        "value": 75000.5
-      },
-      {
-        "date": "2025-03-24",
-        "value": 32500.5
-      },
-      {
-        "date": "2025-03-25",
-        "value": 75000.5
-      },
-      {
-        "date": "2025-03-27",
-        "value": 75000.5
-      },
-      {
-        "date": "2025-03-31",
-        "value": 32500.5
-      },
-      {
-        "date": "2025-04-02",
-        "value": 32500.5
-      },
-      {
-        "date": "2025-04-03",
-        "value": 32500.5
-      },
-      {
-        "date": "2025-04-07",
-        "value": 32500.5
-      },
-      {
-        "date": "2025-04-09",
-        "value": 32500.5
-      },
-      {
-        "date": "2025-11-24",
-        "value": 75000.5
-      },
-      {
-        "date": "2025-11-25",
-        "value": 32500.5
-      },
-      {
-        "date": "2025-11-26",
-        "value": 75000.5
-      },
-      {
-        "date": "2025-11-28",
-        "value": 75000.5
+        "date": "2026-07-13",
+        "value": 8000.5
       }
     ]
   },
@@ -17312,12 +17316,12 @@
       }
     ],
     "measured": {
-      "return": 57.6,
-      "excess": 30,
+      "return": 56.6,
+      "excess": 28.3,
       "method": "midpoint",
       "benchmark": "SPY",
       "window": "disclosed buys 2025-01-03 to 2026-06-04, since-trade, midpoint-weighted",
-      "asOf": "2026-08-27",
+      "asOf": "2026-08-28",
       "note": "Estimate: position sizes are disclosed-range midpoints, never exact amounts. 19 unpriceable position(s) excluded (options or no resolvable price)."
     },
     "attribution": "self",
@@ -17962,12 +17966,12 @@
       }
     ],
     "measured": {
-      "return": 154.5,
-      "excess": 69,
+      "return": 161.5,
+      "excess": 75,
       "method": "midpoint",
       "benchmark": "SPY",
       "window": "disclosed buys 2014-10-24 to 2026-07-28, since-trade, midpoint-weighted",
-      "asOf": "2026-08-27",
+      "asOf": "2026-08-28",
       "note": "Estimate: position sizes are disclosed-range midpoints, never exact amounts. 52 unpriceable position(s) excluded (options or no resolvable price)."
     },
     "attribution": "spouse",
@@ -18311,12 +18315,12 @@
       }
     ],
     "measured": {
-      "return": 32.8,
-      "excess": -0.9,
+      "return": 31.9,
+      "excess": -2.5,
       "method": "midpoint",
       "benchmark": "SPY",
       "window": "disclosed buys 2023-01-18 to 2026-07-08, since-trade, midpoint-weighted",
-      "asOf": "2026-08-27",
+      "asOf": "2026-08-28",
       "note": "Estimate: position sizes are disclosed-range midpoints, never exact amounts. 9 unpriceable position(s) excluded (options or no resolvable price)."
     },
     "attribution": "self",
