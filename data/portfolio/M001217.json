@@ -1346,7 +1346,7 @@
       "filedDate": "2026-08-27",
       "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035243.pdf",
       "late": false,
-      "provenance": "official"
+      "provenance": "both"
     },
     {
       "memberId": "M001217",
@@ -1362,7 +1362,7 @@
       "filedDate": "2026-08-27",
       "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035243.pdf",
       "late": false,
-      "provenance": "official"
+      "provenance": "both"
     },
     {
       "memberId": "M001217",
@@ -1379,7 +1379,7 @@
       "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035243.pdf",
       "late": false,
       "note": "partial sale",
-      "provenance": "official"
+      "provenance": "both"
     },
     {
       "memberId": "M001217",
@@ -9052,12 +9052,12 @@
     }
   ],
   "measured": {
-    "return": 30.2,
+    "return": 29.9,
     "excess": -13.4,
     "method": "midpoint",
     "benchmark": "SPY",
     "window": "disclosed buys 2023-02-21 to 2026-07-13, since-trade, midpoint-weighted",
-    "asOf": "2026-08-29",
+    "asOf": "2026-08-30",
     "note": "Estimate: position sizes are disclosed-range midpoints, never exact amounts. 5 unpriceable position(s) excluded (options or no resolvable price)."
   }
 }
