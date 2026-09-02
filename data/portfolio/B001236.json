@@ -9703,12 +9703,12 @@
     }
   ],
   "measured": {
-    "return": 13.6,
-    "excess": -11,
+    "return": 13,
+    "excess": -11.1,
     "method": "midpoint",
     "benchmark": "SPY",
     "window": "disclosed buys 2023-08-29 to 2026-07-30, since-trade, midpoint-weighted",
-    "asOf": "2026-09-01",
+    "asOf": "2026-09-02",
     "note": "Estimate: position sizes are disclosed-range midpoints, never exact amounts. 7 unpriceable position(s) excluded (options or no resolvable price)."
   }
 }

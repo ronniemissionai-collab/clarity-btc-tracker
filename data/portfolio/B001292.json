@@ -36,6 +36,22 @@
   "trades": [
     {
       "memberId": "B001292",
+      "assetRaw": "Long Is Pwr Auth Var 9/01/55 [GS]",
+      "security": null,
+      "side": "buy",
+      "owner": "joint",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2026-08-05",
+      "filedDate": "2026-09-01",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035349.pdf",
+      "late": false,
+      "provenance": "official"
+    },
+    {
+      "memberId": "B001292",
       "assetRaw": "Tri-Creek 5.00% 7/15/33 [GS]",
       "security": null,
       "side": "buy",
@@ -19168,6 +19184,10 @@
     {
       "date": "2026-07-27",
       "value": 75000.5
+    },
+    {
+      "date": "2026-08-05",
+      "value": 32500.5
     }
   ],
   "measured": null
