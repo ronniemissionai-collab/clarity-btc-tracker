@@ -17,11 +17,11 @@
       },
       "owner": "self",
       "range": {
-        "lo": 2002,
-        "hi": 30000
+        "lo": 3003,
+        "hi": 45000
       },
       "status": "holds",
-      "asOf": "2026-05-14",
+      "asOf": "2026-08-13",
       "extraction": "pdf-text",
       "verification": "unverified",
       "sources": [
@@ -32,6 +32,10 @@
         {
           "kind": "filing",
           "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034591.pdf"
+        },
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035345.pdf"
         }
       ]
     },
@@ -375,6 +379,22 @@
     }
   ],
   "trades": [
+    {
+      "memberId": "F000110",
+      "assetRaw": "Apple Inc. - Common Stock (AAPL) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-13",
+      "filedDate": "2026-09-02",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035345.pdf",
+      "late": false,
+      "provenance": "official"
+    },
     {
       "memberId": "F000110",
       "assetRaw": "Taiwan Semiconductor Manufacturing Company Ltd. (TSM) [ST]",
@@ -4112,6 +4132,10 @@
     },
     {
       "date": "2026-07-10",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-13",
       "value": 8000.5
     }
   ],

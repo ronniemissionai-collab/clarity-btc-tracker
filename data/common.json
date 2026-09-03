@@ -1368,6 +1368,24 @@
     "latestBuyDate": "2026-08-13",
     "owners": [
       {
+        "memberId": "F000110",
+        "name": "Cleo Fields",
+        "party": "D",
+        "chamber": "house",
+        "state": "LA",
+        "active": true,
+        "buyDates": [
+          "2026-08-13",
+          "2026-05-14",
+          "2026-02-12"
+        ],
+        "latestRange": {
+          "lo": 3003,
+          "hi": 45000
+        },
+        "status": "holds"
+      },
+      {
         "memberId": "C001055",
         "name": "Ed Case",
         "party": "D",
@@ -1409,23 +1427,6 @@
         "status": "holds"
       },
       {
-        "memberId": "F000110",
-        "name": "Cleo Fields",
-        "party": "D",
-        "chamber": "house",
-        "state": "LA",
-        "active": true,
-        "buyDates": [
-          "2026-05-14",
-          "2026-02-12"
-        ],
-        "latestRange": {
-          "lo": 2002,
-          "hi": 30000
-        },
-        "status": "holds"
-      },
-      {
         "memberId": "M001239",
         "name": "John J. McGuire III",
         "party": "R",
@@ -1436,8 +1437,8 @@
           "2026-04-15"
         ],
         "latestRange": {
-          "lo": 1001,
-          "hi": 15000
+          "lo": 0,
+          "hi": 13999
         },
         "status": "holds"
       },
@@ -2173,10 +2174,10 @@
           "2019-10-15"
         ],
         "latestRange": {
-          "lo": 101002,
-          "hi": 265000
+          "lo": 1002,
+          "hi": 214999
         },
-        "status": "stale"
+        "status": "holds"
       },
       {
         "memberId": "D000624",
@@ -3255,8 +3256,26 @@
       "D": 4,
       "I": 0
     },
-    "latestBuyDate": "2026-06-26",
+    "latestBuyDate": "2026-08-18",
     "owners": [
+      {
+        "memberId": "M001239",
+        "name": "John J. McGuire III",
+        "party": "R",
+        "chamber": "house",
+        "state": "VA",
+        "active": true,
+        "buyDates": [
+          "2026-08-18",
+          "2026-04-15",
+          "2026-01-30"
+        ],
+        "latestRange": {
+          "lo": 3003,
+          "hi": 45000
+        },
+        "status": "holds"
+      },
       {
         "memberId": "F000110",
         "name": "Cleo Fields",
@@ -3283,23 +3302,6 @@
         "buyDates": [
           "2026-06-25",
           "2025-08-01"
-        ],
-        "latestRange": {
-          "lo": 2002,
-          "hi": 30000
-        },
-        "status": "holds"
-      },
-      {
-        "memberId": "M001239",
-        "name": "John J. McGuire III",
-        "party": "R",
-        "chamber": "house",
-        "state": "VA",
-        "active": true,
-        "buyDates": [
-          "2026-04-15",
-          "2026-01-30"
         ],
         "latestRange": {
           "lo": 2002,
@@ -5415,6 +5417,20 @@
           "hi": 15000
         },
         "status": "sold"
+      },
+      {
+        "memberId": "H001082",
+        "name": "Kevin Hern",
+        "party": "R",
+        "chamber": "house",
+        "state": "OK",
+        "active": true,
+        "buyDates": [],
+        "latestRange": {
+          "lo": 15001,
+          "hi": 50000
+        },
+        "status": "sold"
       }
     ]
   },
@@ -5957,6 +5973,20 @@
         "latestRange": {
           "lo": 45003,
           "hi": 150000
+        },
+        "status": "sold"
+      },
+      {
+        "memberId": "H001082",
+        "name": "Kevin Hern",
+        "party": "R",
+        "chamber": "house",
+        "state": "OK",
+        "active": true,
+        "buyDates": [],
+        "latestRange": {
+          "lo": 15001,
+          "hi": 50000
         },
         "status": "sold"
       },
@@ -9022,8 +9052,8 @@
           "2019-11-07"
         ],
         "latestRange": {
-          "lo": 1001,
-          "hi": 15000
+          "lo": 15001,
+          "hi": 50000
         },
         "status": "sold"
       },
@@ -9749,6 +9779,20 @@
         "status": "sold"
       },
       {
+        "memberId": "H001082",
+        "name": "Kevin Hern",
+        "party": "R",
+        "chamber": "house",
+        "state": "OK",
+        "active": true,
+        "buyDates": [],
+        "latestRange": {
+          "lo": 50001,
+          "hi": 100000
+        },
+        "status": "sold"
+      },
+      {
         "memberId": "M001218",
         "name": "Richard McCormick",
         "party": "R",
@@ -10286,6 +10330,20 @@
           "hi": 45000
         },
         "status": "stale"
+      },
+      {
+        "memberId": "H001082",
+        "name": "Kevin Hern",
+        "party": "R",
+        "chamber": "house",
+        "state": "OK",
+        "active": true,
+        "buyDates": [],
+        "latestRange": {
+          "lo": 1001,
+          "hi": 15000
+        },
+        "status": "sold"
       }
     ]
   },
@@ -11569,6 +11627,20 @@
         "buyDates": [
           "2025-10-03"
         ],
+        "latestRange": {
+          "lo": 1001,
+          "hi": 15000
+        },
+        "status": "sold"
+      },
+      {
+        "memberId": "H001082",
+        "name": "Kevin Hern",
+        "party": "R",
+        "chamber": "house",
+        "state": "OK",
+        "active": true,
+        "buyDates": [],
         "latestRange": {
           "lo": 1001,
           "hi": 15000

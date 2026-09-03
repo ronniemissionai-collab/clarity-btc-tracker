@@ -35,6 +35,29 @@
     {
       "memberId": "R000619",
       "security": {
+        "ticker": "ALL",
+        "kind": "other"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "sold",
+      "asOf": "2026-08-12",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035365.pdf"
+        }
+      ],
+      "note": "sale reported by PTR with no annual baseline in our coverage"
+    },
+    {
+      "memberId": "R000619",
+      "security": {
         "ticker": "AMZN",
         "kind": "other"
       },
@@ -77,6 +100,28 @@
         }
       ],
       "note": "sale reported by PTR with no annual baseline in our coverage"
+    },
+    {
+      "memberId": "R000619",
+      "security": {
+        "ticker": "EQIX",
+        "kind": "other"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "holds",
+      "asOf": "2026-08-07",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035365.pdf"
+        }
+      ]
     },
     {
       "memberId": "R000619",
@@ -437,6 +482,38 @@
       "late": false,
       "note": "partial sale",
       "provenance": "both"
+    },
+    {
+      "memberId": "R000619",
+      "assetRaw": "Allstate Corporation (ALL) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-12",
+      "filedDate": "2026-09-02",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035365.pdf",
+      "late": false,
+      "provenance": "official"
+    },
+    {
+      "memberId": "R000619",
+      "assetRaw": "Equinix, Inc. - Common Stock (EQIX) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-07",
+      "filedDate": "2026-09-02",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035365.pdf",
+      "late": false,
+      "provenance": "official"
     },
     {
       "memberId": "R000619",
@@ -1078,6 +1155,14 @@
     },
     {
       "date": "2026-08-06",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-07",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-12",
       "value": 8000.5
     },
     {

@@ -234,6 +234,38 @@
     },
     {
       "memberId": "C001068",
+      "assetRaw": "US Treas Bills Int Rate 0.000% MAT 2/18/2027 [GS]",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 250001,
+        "hi": 500000
+      },
+      "transactionDate": "2026-08-21",
+      "filedDate": "2026-09-01",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035350.pdf",
+      "late": false,
+      "provenance": "official"
+    },
+    {
+      "memberId": "C001068",
+      "assetRaw": "US Treas Bills Int Rate 0.000% MAT 8/5/2027 [GS]",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 250001,
+        "hi": 500000
+      },
+      "transactionDate": "2026-08-21",
+      "filedDate": "2026-09-01",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035350.pdf",
+      "late": false,
+      "provenance": "official"
+    },
+    {
+      "memberId": "C001068",
       "assetRaw": "U.S. Tres Bill Int. Rate 0.00% Mat 8/5/2027 [GS]",
       "security": null,
       "side": "buy",
@@ -2995,6 +3027,14 @@
     {
       "date": "2026-08-06",
       "value": 175000.5
+    },
+    {
+      "date": "2026-08-21",
+      "value": 375000.5
+    },
+    {
+      "date": "2026-08-21",
+      "value": 375000.5
     },
     {
       "date": "2026-12-26",

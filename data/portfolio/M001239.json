@@ -17,19 +17,24 @@
       },
       "owner": "spouse",
       "range": {
-        "lo": 1001,
-        "hi": 15000
+        "lo": 0,
+        "hi": 13999
       },
       "status": "holds",
-      "asOf": "2026-04-15",
+      "asOf": "2026-08-18",
       "extraction": "pdf-text",
       "verification": "unverified",
       "sources": [
         {
           "kind": "filing",
           "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034521.pdf"
+        },
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035367.pdf"
         }
-      ]
+      ],
+      "note": "partial sale 2026-08-18"
     },
     {
       "memberId": "M001239",
@@ -133,11 +138,11 @@
       },
       "owner": "spouse",
       "range": {
-        "lo": 2002,
-        "hi": 30000
+        "lo": 3003,
+        "hi": 45000
       },
       "status": "holds",
-      "asOf": "2026-04-15",
+      "asOf": "2026-08-18",
       "extraction": "pdf-text",
       "verification": "unverified",
       "sources": [
@@ -148,6 +153,10 @@
         {
           "kind": "filing",
           "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034521.pdf"
+        },
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035367.pdf"
         }
       ]
     },
@@ -175,6 +184,39 @@
     }
   ],
   "trades": [
+    {
+      "memberId": "M001239",
+      "assetRaw": "Apple Inc. - Common Stock (AAPL) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-18",
+      "filedDate": "2026-09-02",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035367.pdf",
+      "late": false,
+      "note": "partial sale",
+      "provenance": "official"
+    },
+    {
+      "memberId": "M001239",
+      "assetRaw": "NVIDIA Corporation - Common Stock (NVDA) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-18",
+      "filedDate": "2026-09-02",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035367.pdf",
+      "late": false,
+      "provenance": "official"
+    },
     {
       "memberId": "M001239",
       "assetRaw": "Palo Alto Networks, Inc. (PANW) [ST]",
@@ -584,6 +626,14 @@
     },
     {
       "date": "2026-07-31",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-18",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-18",
       "value": 8000.5
     }
   ],
