@@ -8370,12 +8370,12 @@
     }
   ],
   "measured": {
-    "return": 12.1,
-    "excess": 1.5,
+    "return": 13.5,
+    "excess": 1.7,
     "method": "midpoint",
     "benchmark": "SPY",
     "window": "disclosed buys 2026-02-03 to 2026-06-29, since-trade, midpoint-weighted",
-    "asOf": "2026-09-03",
+    "asOf": "2026-09-04",
     "note": "Estimate: position sizes are disclosed-range midpoints, never exact amounts. 161 unpriceable position(s) excluded (options or no resolvable price)."
   }
 }
