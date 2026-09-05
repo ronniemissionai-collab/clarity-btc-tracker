@@ -780,19 +780,24 @@
       },
       "owner": "joint",
       "range": {
-        "lo": 50001,
-        "hi": 100000
+        "lo": 35001,
+        "hi": 98999
       },
       "status": "holds",
-      "asOf": "2026-01-22",
+      "asOf": "2026-08-28",
       "extraction": "pdf-text",
       "verification": "unverified",
       "sources": [
         {
           "kind": "filing",
           "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033929.pdf"
+        },
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035370.pdf"
         }
-      ]
+      ],
+      "note": "partial sale 2026-08-28"
     },
     {
       "memberId": "J000309",
@@ -840,6 +845,23 @@
     }
   ],
   "trades": [
+    {
+      "memberId": "J000309",
+      "assetRaw": "ViaSat, Inc. - Common Stock (VSAT) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-28",
+      "filedDate": "2026-09-03",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035370.pdf",
+      "late": false,
+      "note": "partial sale",
+      "provenance": "both"
+    },
     {
       "memberId": "J000309",
       "assetRaw": "Hilton Worldwide Holdings Inc. Common Stock (HLT) [ST]",
@@ -4706,6 +4728,10 @@
     },
     {
       "date": "2026-06-15",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-28",
       "value": 8000.5
     }
   ],
