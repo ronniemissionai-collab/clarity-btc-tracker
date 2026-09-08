@@ -12,6 +12,134 @@
   "trades": [
     {
       "memberId": "W000829",
+      "assetRaw": "US TREASURY BILL27U S T BILL DUE 02/25/27",
+      "security": null,
+      "side": "buy",
+      "owner": "joint",
+      "range": {
+        "lo": 250001,
+        "hi": 500000
+      },
+      "transactionDate": "2026-08-31",
+      "filedDate": "2026-09-02",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116326.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000829",
+      "assetRaw": "US TREASUR NT 1 5 / 08XXX**MATURED",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 250001,
+        "hi": 500000
+      },
+      "transactionDate": "2026-08-15",
+      "filedDate": "2026-09-02",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116326.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000829",
+      "assetRaw": "HUBSPOT INC",
+      "security": null,
+      "side": "buy",
+      "owner": "joint",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2026-08-14",
+      "filedDate": "2026-09-02",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116326.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000829",
+      "assetRaw": "SALESFORCE INC",
+      "security": null,
+      "side": "buy",
+      "owner": "joint",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2026-08-14",
+      "filedDate": "2026-09-02",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116326.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000829",
+      "assetRaw": "SCHWAB SHORT TERM US TREASURY ETF",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2026-08-14",
+      "filedDate": "2026-09-02",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116326.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000829",
+      "assetRaw": "SERVICENOW INC",
+      "security": null,
+      "side": "buy",
+      "owner": "joint",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2026-08-14",
+      "filedDate": "2026-09-02",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116326.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000829",
+      "assetRaw": "THE TRADE DESK INC CLASS A",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2026-08-14",
+      "filedDate": "2026-09-02",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116326.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000829",
+      "assetRaw": "UPSTART HLDGS INC",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2026-08-14",
+      "filedDate": "2026-09-02",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116326.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "W000829",
       "assetRaw": "SCHWAB SHORT TERM U S TREASURY ETF",
       "security": null,
       "side": "buy",
@@ -831,6 +959,38 @@
     {
       "date": "2026-07-22",
       "value": 75000.5
+    },
+    {
+      "date": "2026-08-14",
+      "value": 32500.5
+    },
+    {
+      "date": "2026-08-14",
+      "value": 32500.5
+    },
+    {
+      "date": "2026-08-14",
+      "value": 75000.5
+    },
+    {
+      "date": "2026-08-14",
+      "value": 32500.5
+    },
+    {
+      "date": "2026-08-14",
+      "value": 32500.5
+    },
+    {
+      "date": "2026-08-14",
+      "value": 32500.5
+    },
+    {
+      "date": "2026-08-15",
+      "value": 375000.5
+    },
+    {
+      "date": "2026-08-31",
+      "value": 375000.5
     }
   ],
   "measured": null

@@ -1,6 +1,63 @@
 [
   {
     "memberId": "K000389",
+    "assetRaw": "TESLA INC. CMN",
+    "security": {
+      "ticker": "TSLA",
+      "kind": "treasury"
+    },
+    "side": "sell",
+    "owner": "spouse",
+    "range": {
+      "lo": 1001,
+      "hi": 15000
+    },
+    "transactionDate": "2026-08-24",
+    "filedDate": "2026-09-04",
+    "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+    "late": false,
+    "provenance": "kadoa"
+  },
+  {
+    "memberId": "K000389",
+    "assetRaw": "TESLA INC CMN",
+    "security": {
+      "ticker": "TSLA",
+      "kind": "treasury"
+    },
+    "side": "sell",
+    "owner": "dependent",
+    "range": {
+      "lo": 1001,
+      "hi": 15000
+    },
+    "transactionDate": "2026-08-10",
+    "filedDate": "2026-09-04",
+    "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+    "late": false,
+    "provenance": "kadoa"
+  },
+  {
+    "memberId": "K000389",
+    "assetRaw": "TESLA INC. CMN",
+    "security": {
+      "ticker": "TSLA",
+      "kind": "treasury"
+    },
+    "side": "sell",
+    "owner": "spouse",
+    "range": {
+      "lo": 15001,
+      "hi": 50000
+    },
+    "transactionDate": "2026-08-03",
+    "filedDate": "2026-09-04",
+    "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+    "late": false,
+    "provenance": "kadoa"
+  },
+  {
+    "memberId": "K000389",
     "assetRaw": "TESLA INC CMN",
     "security": {
       "ticker": "TSLA",
@@ -17,6 +74,25 @@
     "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116267.pdf",
     "late": false,
     "provenance": "kadoa"
+  },
+  {
+    "memberId": "C001123",
+    "assetRaw": "Coinbase Global, Inc. - Class A Common Stock (COIN) [ST]",
+    "security": {
+      "ticker": "COIN",
+      "kind": "exchange"
+    },
+    "side": "buy",
+    "owner": "self",
+    "range": {
+      "lo": 1001,
+      "hi": 15000
+    },
+    "transactionDate": "2026-07-17",
+    "filedDate": "2026-09-04",
+    "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf",
+    "late": true,
+    "provenance": "both"
   },
   {
     "memberId": "C001123",

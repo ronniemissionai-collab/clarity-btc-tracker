@@ -71,14 +71,18 @@
         "lo": 2002,
         "hi": 30000
       },
-      "status": "holds",
-      "asOf": "2026-04-13",
+      "status": "sold",
+      "asOf": "2026-08-03",
       "extraction": "pdf-text",
       "verification": "unverified",
       "sources": [
         {
           "kind": "filing",
           "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9115822.pdf"
+        },
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf"
         }
       ]
     },
@@ -116,17 +120,17 @@
       },
       "owner": "spouse",
       "range": {
-        "lo": 3003,
-        "hi": 45000
+        "lo": 1001,
+        "hi": 15000
       },
-      "status": "sold",
-      "asOf": "2026-07-20",
+      "status": "holds",
+      "asOf": "2026-08-03",
       "extraction": "pdf-text",
       "verification": "unverified",
       "sources": [
         {
           "kind": "filing",
-          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116267.pdf"
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf"
         }
       ]
     },
@@ -142,13 +146,13 @@
         "hi": 15000
       },
       "status": "sold",
-      "asOf": "2026-02-24",
+      "asOf": "2026-08-10",
       "extraction": "pdf-text",
       "verification": "unverified",
       "sources": [
         {
           "kind": "filing",
-          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/8221358.pdf"
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf"
         }
       ],
       "note": "sale reported by PTR with no annual baseline in our coverage"
@@ -164,16 +168,17 @@
         "lo": 1001,
         "hi": 15000
       },
-      "status": "holds",
-      "asOf": "2026-07-20",
+      "status": "sold",
+      "asOf": "2026-08-24",
       "extraction": "pdf-text",
       "verification": "unverified",
       "sources": [
         {
           "kind": "filing",
-          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116267.pdf"
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf"
         }
-      ]
+      ],
+      "note": "sale reported by PTR with no annual baseline in our coverage"
     },
     {
       "memberId": "K000389",
@@ -199,6 +204,3919 @@
     }
   ],
   "trades": [
+    {
+      "memberId": "K000389",
+      "assetRaw": "COOPER COS INC/THE CMN",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-31",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "HOLLADAY UTAH LOC BLDG AUTH REV 5% 11/15/33 MN",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2026-08-31",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "PUT/XSP @ 730 EXP 11/20/2026",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-31",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "COOPER COS INC/THE CMN",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-28",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "JPMORGAN CHASE & CO LINKED TO S&P 500 INDEX",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2026-08-27",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "THE BANK OF NOVA SCOTIA LINKED TO S&P 500 INDEX",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2026-08-27",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "THE BANK OF NOVA SCOTIA LINKED TO S&P 500 INDEX",
+      "security": null,
+      "side": "buy",
+      "owner": "dependent",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2026-08-27",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "WELLS FARGO FINANCE LLC LINKED TO S&P 500 INDEX",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2026-08-27",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "APPLOVIN CORPORATION CMN CLASS A",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-24",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "ARISTA NETWORKS INC CMN",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-24",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "AUTOZONE INC CMN",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-24",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "BROADCOM INC CMN",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-24",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "BUILDERS FIRSTSOURCE INC. CMN",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-24",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "CARRIER GLOBAL CORPORATION CMN",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-24",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "CHARTER COMMUNICATIONS INC CMN",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-24",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "CISCO SYSTEMS INC CMN",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-24",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "CONSOLIDATED EDISON INC CMN",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-24",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "COSTCO WHOLESALE CORPORATION CMN",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-24",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "CRH PUBLIC LIMITED COMPANY CMN",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-24",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "CVS HEALTH CORP CMN",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-24",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "DOLLAR GENERAL CORPORATION CMN",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-24",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "INTUITIVE SURGICAL, INC CMN",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-24",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "LENNAR CORPORATION CMN CLASS A",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-24",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "LINDE PLC CMN",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-24",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "LOWES COMPANIES INC CMN",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-24",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "LULULEMON ATHLETICA INC. CMN",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-24",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "MARVELL TECHNOLOGY INC. CMN",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-24",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "MC DONALDS CORP CMN",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-24",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "MERCK & CO INC. CMN",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-24",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "MODERNA INC CMN",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-24",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "NEXTERA ENERGY INC CMN",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-24",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "NIKE CLASS B CMN CLASS B",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-24",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "ORACLE CORPORATION CMN",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-24",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "QUALCOMM INC CMN",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2026-08-24",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "TESLA INC. CMN",
+      "security": {
+        "ticker": "TSLA",
+        "kind": "treasury"
+      },
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-24",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "TEXAS INSTRUMENTS INC CMN",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-24",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "THE PROCTER & GAMBLE COMPANY CMN",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-24",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "UNITEDHEALTH GROUP INCORPORATE CMN",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-24",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "VISTRA CORP CMN",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-24",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "WALMART INC CMN",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-24",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "WELLS FARGO & COMPANY CMN",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-24",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "EMCOR GROUP INC CMN",
+      "security": null,
+      "side": "buy",
+      "owner": "dependent",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2026-08-21",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "MIRION TECHNOLOGIES INC CMN CLASS A",
+      "security": null,
+      "side": "sell",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-21",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "PUT/XSP @ 725 EXP 10/30/2026",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-20",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "CITY OF COLUMBUS OHIO GO 5 0000% 04/01/27 AO",
+      "security": null,
+      "side": "buy",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-19",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "FACTSET RESEARCH SYSTEMS INC CMN",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-19",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "FACTSET RESEARCH SYSTEMS INC CMN",
+      "security": null,
+      "side": "sell",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-19",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "OHIO ST SPL OBLIG REV 5% 04/01/27 AO",
+      "security": null,
+      "side": "buy",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-19",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "OHIO ST WTR DEV AUTH WTR REV 5% 06/01/27 JD",
+      "security": null,
+      "side": "buy",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-19",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "BANK OF NEW YORK MELLON CORPOR HYBRID PERPETUAL USD",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-18",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "CHARLES SCHWAB CORPORATION (TH HYBRID PERPETUAL",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-18",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "CITIZENS FINANCIAL GROUP HYBRID PERPETUAL",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-18",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "COREBRIDGE FINANCIAL, INC HYBRID PERPETUAL USD",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-18",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "WELLS FARGO & COMPANY HYBRID PERPETUAL",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-18",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "WELLS FARGO & COMPANY HYBRID PERPETUAL",
+      "security": null,
+      "side": "buy",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-18",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "AMERICAN EXPRESS CO HYBRID PERPETUAL",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-17",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "COLUMBUS OHIO FOR ISSUES DTD PR TO 09/26/2012 GO 5%",
+      "security": null,
+      "side": "buy",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-17",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "ASML HOLDING N V ADR CMN",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-14",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "CALL/BBVA FLEX EURO PM 27 EXP 08/14/2026",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-14",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "CALL/ING FLEX EURO PM @ 33 EXP 08/14/2026",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-14",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "BOFA FINANCE LLC LINKED TO S&P 500 INDEX",
+      "security": null,
+      "side": "buy",
+      "owner": "dependent",
+      "range": {
+        "lo": 250001,
+        "hi": 500000
+      },
+      "transactionDate": "2026-08-13",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "CHEWY INC CMN CLASS A",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-13",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "AMRIZE LTD CMN",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-12",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "CHEWY INC CMN CLASS A",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-12",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "PUT/XSP @ 735 EXP 10/30/2026",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-12",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "CHEWY INC CMN CLASS A",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-11",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "WILL & KENDALL CNTYS ILL CMNTY GD 4% 01/01/27 JJ",
+      "security": null,
+      "side": "buy",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-11",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "ACCENTURE PLC CMN CLASS A",
+      "security": null,
+      "side": "buy",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-10",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "ADOBE INC CMN",
+      "security": null,
+      "side": "buy",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-10",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "AFLAC INCORPORATED CMN",
+      "security": null,
+      "side": "sell",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-10",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "ALTRIA GROUP INC CMN",
+      "security": null,
+      "side": "sell",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-10",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "AMERICAN TOWER CORPORATION CMN",
+      "security": null,
+      "side": "sell",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-10",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "APOLLO GLOBAL MANAGEMENT INC CMN CLASS A",
+      "security": null,
+      "side": "buy",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-10",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "APPLOVIN CORPORATION CMN CLASS A",
+      "security": null,
+      "side": "sell",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-10",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "AT&T INC. CMN",
+      "security": null,
+      "side": "buy",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-10",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "BLACKROCK FUNDING INC CMN",
+      "security": null,
+      "side": "buy",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-10",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "BOSTON SCIENTIFIC CORP COMMON STOCK",
+      "security": null,
+      "side": "buy",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-10",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "BUILDERS FIRSTSOURCE INC. CMN",
+      "security": null,
+      "side": "sell",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-10",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "CADENCE DESIGN SYSTEMS INC CMN",
+      "security": null,
+      "side": "sell",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-10",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "CARRIER GLOBAL CORPORATION CMN",
+      "security": null,
+      "side": "sell",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-10",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "CENTENE CORPORATION CMN",
+      "security": null,
+      "side": "sell",
+      "owner": "dependent",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2026-08-10",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "CHARTER COMMUNICATIONS INC CMN",
+      "security": null,
+      "side": "buy",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-10",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "COGNIZANT TECHNOLOGY SOLUTIONS CORP CLASS A",
+      "security": null,
+      "side": "buy",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-10",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "COINBASE GLOBAL INC CMN CLASS A",
+      "security": null,
+      "side": "sell",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-10",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "CRH PUBLIC LIMITED COMPANY CMN",
+      "security": null,
+      "side": "buy",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-10",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "DOORDASH INC CMN CLASS A",
+      "security": null,
+      "side": "buy",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-10",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "EATON CORP PLC CMN",
+      "security": null,
+      "side": "buy",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-10",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "EMCOR GROUP INC. CMN",
+      "security": null,
+      "side": "buy",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-10",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "FEDEX FREIGHT HOLDING COMPANY CMN",
+      "security": null,
+      "side": "sell",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-10",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "FERGUSON ENTERPRISES NC CMN",
+      "security": null,
+      "side": "buy",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-10",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "FIRST SOLAR INC. CMN",
+      "security": null,
+      "side": "buy",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-10",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "FISERV INC CMN",
+      "security": null,
+      "side": "buy",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-10",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "FORD MOTOR COMPANY CMN",
+      "security": null,
+      "side": "buy",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-10",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "FORTINET INC CMN",
+      "security": null,
+      "side": "sell",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-10",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "FREEPORT MCMORAN INC CMN",
+      "security": null,
+      "side": "sell",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-10",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "GILEAD SCIENCES CMN",
+      "security": null,
+      "side": "sell",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-10",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "ILLINOIS TOOL WORKS CMN",
+      "security": null,
+      "side": "buy",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-10",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "INTL BUSINESS MACHINES CORP CMN",
+      "security": null,
+      "side": "sell",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-10",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "INTUITIVE SURGICAL, INC. CMN",
+      "security": null,
+      "side": "sell",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-10",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "LAS VEGAS SANDS CORP CMN",
+      "security": null,
+      "side": "buy",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-10",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "LENNAR CORPORATION CMN CLASS A",
+      "security": null,
+      "side": "buy",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-10",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "LENNOX INTERNATIONAL INC CMN",
+      "security": null,
+      "side": "buy",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-10",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "LOWES COMPANIES INC CMN",
+      "security": null,
+      "side": "buy",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-10",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "MARTIN MARIETTA MATERIALS INC CMN",
+      "security": null,
+      "side": "sell",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-10",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "MC DONALDS CORP CMN",
+      "security": null,
+      "side": "sell",
+      "owner": "dependent",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2026-08-10",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "MCKESSON CORPORATION CMN",
+      "security": null,
+      "side": "buy",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-10",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "META PLATFORMS INC CLASS A CMN CLASS A",
+      "security": null,
+      "side": "sell",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-10",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "MICROCHIP TECHNOLOGY INCORPORA CMN",
+      "security": null,
+      "side": "buy",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-10",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "MICROSOFT CORPORATION CMN",
+      "security": null,
+      "side": "buy",
+      "owner": "dependent",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2026-08-10",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "MOBILITY GLOBAL INC CMN",
+      "security": null,
+      "side": "sell",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-10",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "NIKE CLASS-B CMN CLASS B",
+      "security": null,
+      "side": "sell",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-10",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "NXP SEMICONDUCTORS N V CMN",
+      "security": null,
+      "side": "buy",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-10",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "PEPSICO INC CMN",
+      "security": null,
+      "side": "buy",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-10",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "QNITY ELECTRONICS INC CMN",
+      "security": null,
+      "side": "buy",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-10",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "QUALCOMM INC CMN",
+      "security": null,
+      "side": "sell",
+      "owner": "dependent",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2026-08-10",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "QUANTA SERVICES INC CMN",
+      "security": null,
+      "side": "buy",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-10",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "SALESFORCE INC CMN",
+      "security": null,
+      "side": "buy",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-10",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "SERVICENOW INC CMN",
+      "security": null,
+      "side": "sell",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-10",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "STATE OF OHIO GEN OBLIGATION GO 5 0000% 05/01/27 MN",
+      "security": null,
+      "side": "buy",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-10",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "SYNOPSYS INC. CMN",
+      "security": null,
+      "side": "buy",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-10",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "T MOBILE US INC CMN",
+      "security": null,
+      "side": "sell",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-10",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "TAKE TWO INTERACTIVE SOFTWARE INC",
+      "security": null,
+      "side": "sell",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-10",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "TESLA INC CMN",
+      "security": {
+        "ticker": "TSLA",
+        "kind": "treasury"
+      },
+      "side": "sell",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-10",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "TRACTOR SUPPLY COMPANY CMN",
+      "security": null,
+      "side": "buy",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-10",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "TRANE TECHNOLOGIES PUBLIC LIMI CMN",
+      "security": null,
+      "side": "buy",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-10",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "UNITED PARCEL SERVICE INC CLASS B COMMON STOCK",
+      "security": null,
+      "side": "sell",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-10",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "VULCAN MATERIALS CO CMN",
+      "security": null,
+      "side": "sell",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-10",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "ALPHABET INC CMN CLASS C",
+      "security": null,
+      "side": "sell",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-07",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "AMRIZE LTD CMN",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-07",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "AMRIZE LTD CMN",
+      "security": null,
+      "side": "buy",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-07",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "CALL/MSFT FLEX EURO PM 485 EXP 08/07/2026",
+      "security": null,
+      "side": "buy",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-07",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "CALL/TMO FLEX EURO PM @ 555 EXP 08/07/2026",
+      "security": null,
+      "side": "buy",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-07",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "COLUMBUS OHIO GO 5% 04/01/27 AO",
+      "security": null,
+      "side": "buy",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-07",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "JOHNSON & JOHNSON CMN",
+      "security": null,
+      "side": "sell",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-07",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "MARVELL TECHNOLOGY INC CMN",
+      "security": null,
+      "side": "buy",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-07",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "MERCK & CO INC. CMN",
+      "security": null,
+      "side": "buy",
+      "owner": "dependent",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2026-08-07",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "OHIO ST WTR DEV AUTH REV REV 5% 06/01/27 CA JD",
+      "security": null,
+      "side": "buy",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-07",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "STATE OF OHIO GEN OBLIGATION GO 5 0000% 05/01/27 MN",
+      "security": null,
+      "side": "buy",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-07",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "T MOBILE US INC. CMN",
+      "security": null,
+      "side": "sell",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-07",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "AMERICAN EXPRESS CO HYBRID PERPETUAL",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-06",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "BARCLAYS BANK PLC LINKED TO S&P 500 INDEX",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 250001,
+        "hi": 500000
+      },
+      "transactionDate": "2026-08-06",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "BARCLAYS BANK PLC LINKED TO S&P 500 INDEX",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2026-08-06",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "BARCLAYS BANK PLC LINKED TO S&P 500 INDEX",
+      "security": null,
+      "side": "buy",
+      "owner": "dependent",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2026-08-06",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "PUT/XSP @ 735 EXP 09/30/2026",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-06",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "BARCLAYS BANK PLC LINKED TO S&P 500 INDEX",
+      "security": null,
+      "side": "buy",
+      "owner": "dependent",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2026-08-05",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "GeNIUS SPORTS LTD CMN",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-05",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "NCR VOYIX CORP CMN CLASS A",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-05",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "OHIO ST MENTAL HEALTH CAP FACS REV 5 0000% 06/01/27 JD",
+      "security": null,
+      "side": "buy",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-05",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "CALLAWAY GOLF COMPANY CMN",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-04",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "CALLAWAY GOLF COMPANY CMN",
+      "security": null,
+      "side": "sell",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-04",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "CHEWY INC CMN CLASS A",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-04",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "ELANCO ANIMAL HEALTH INCORPORA CMN",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-04",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "PINTEREST INC CMN CLASS A",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-04",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "PINTEREST INC CMN CLASS A",
+      "security": null,
+      "side": "sell",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-04",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "ADVANCED MICRO DEVICES INC CMN",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-03",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "ALTRIA GROUP INC CMN",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-03",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "AM R CAH TOWER CORPORATION CMN",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-03",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "AMAZON COM INC CMN",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-03",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "APPLE INC CMN",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-03",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "APPLOVIN CORPORATION CMN CLASS A",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-03",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "AT&T INC, CMN",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-03",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "BOSTON SCIENTIFIC CORP COMMON STOCK",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-03",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "BROADCOM INC. CMN",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2026-08-03",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "BUILDERS FIRSTSOURCE INC. CMN",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-03",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "CADENCE DESIGN SYSTEMS INC CMN",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-03",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "CALLAWAY GOLF COMPANY CMN",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-03",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "CARVANA CO CMN CLASS A",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-03",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "CIENA CORPORATION CMN",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-03",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "CISCO SYSTEMS INC. CMN",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-03",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "CITIGROUP INC CMN",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-03",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "CME GROUP INC CMN CLASS A",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-03",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "COGNIZANT TECHNOLOGY SOLUTIONS CORP CLASS A",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-03",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "COHERENT CORP CMN",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-03",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "COINBASE GLOBAL INC CMN CLASS A",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-03",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "COLGATE PALMOLIVE CO CMN",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-03",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "CORNING INCORPORATED CMN",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-03",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "CRH PUBLIC LIMITED COMPANY CMN",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-03",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "CROWN CASTLE INTL CORP CMN",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-03",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "D R HORTON INC CMN",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-03",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "DECKERS OUTDOORS CORP CMN",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-03",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "DISTRICT COLUMBIA INCOME TAX REV 5% 05/01/27 MN",
+      "security": null,
+      "side": "buy",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-03",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "EDWARDS LIFESCIENCES CORPORATI CMN",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-03",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "EMCOR GROUP INC CMN",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-03",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "ESTEE LAUDER COS INC CL A CMN CLASS A",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-03",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "FEDEX CORPORATION CMN",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-03",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "FEDEX FREIGHT HOLDING COMPANY CMN",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-03",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "FLEX LTD CMN",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-03",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "FREEPORT MCMORAN INC CMN",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-03",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "GARTNER INC. CMN",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-03",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "GE HEALTHCARE TECHNOLOGIES INC CMN",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-03",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "GODADDY INC CMN CLASS A",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-03",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "HUBBELL INCORPORATED CMN",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-03",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "IDEXX LABORATORIES CMN",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-03",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "INSULET CORPORATION CMN",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-03",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "INTEL CORPORATION CMN",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-03",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "INTL BUSINESS MACHINES CORP CMN",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-03",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "INTUITIVE SURGICAL INC CMN",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-03",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "JABIL INC CMN",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-03",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "KEYESIGHT TECHNOLOGIES INC CMN",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-03",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "KKR & CO INC. CMN",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-03",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "LAM RESEARCH CORPORATION CMN",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-03",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "LENNAR CORPORATION CMN CLASS A",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-03",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "LENNOX INTERNATIONAL INC CMN",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-03",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "LOWES COMPANIES INC CMN",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-03",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "LULULEMON ATHLETICA INC CMN",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-03",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "LUMENTUM HOLDINGS INC CMN",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-03",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "MARTIN MARIETTA MATERIALS INC CMN",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-03",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "MARVELL TECHNOLOGY INC. CMN",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-03",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "MASCO CORPORATION CMN",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-03",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "MASTERCARD INCORPORATED CMN CLASS A",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-03",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "MERCK & CO INC. CMN",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-03",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "MICROSOFT CORPORATION CMN",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2026-08-03",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "MODERNA INC CMN",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-03",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "NETFLIX INC. CMN",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-03",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "NIKE CLASS B CMN CLASS B",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-03",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "NORFOLK SOUTHERN CORPORATION CMN",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-03",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "OLD DOMINION FREIGHT LINE INC CMN",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-03",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "ORACLE CORPORATION CMN",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2026-08-03",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "ORD MOTOR COMPANY CMN",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-03",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "PEPSICO INC CMN",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2026-08-03",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "PINTEREST INC CMN CLASS A",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-03",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "QUALCOMM INC CMN",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-03",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "RALPH LAUREN CORP CMN CLASS A",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-03",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "RESMED INC CMN",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-03",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "ROBINHOOD MARKETS INC. CMN CLASS A",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-03",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "ROLLINS INC. REGOFF SCTASK0796638",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-03",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "SANDISK CORPORATION CMN",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-03",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "SYNOPSYS INC. CMN",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-03",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "T MOBILE US INC CMN",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-03",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "TAPESTRY, INC CMN",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-03",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "TESLA INC. CMN",
+      "security": {
+        "ticker": "TSLA",
+        "kind": "treasury"
+      },
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2026-08-03",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "TEXAS INSTRUMENTS INC CMN",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-03",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "THE HOME DEPOT INC CMN",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2026-08-03",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "TJX COMPANIES INC (NEW) CMN",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2026-08-03",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "TRACTOR SUPPLY COMPANY CMN",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-03",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "UBER TECHNOLOGIES INC CMN",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-03",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "ULTA BEAUTY INC CMN",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-03",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "UNITED AIRLINES HOLDINGS INC CMN",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-03",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "UNITED RENTALS INC. CMN",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-03",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "VERTIV HOLDINGS LLC CMN CLASS A",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-03",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "VICI PROPERTIES INC CMN",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-03",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "VULCAN MATERIALS CO CMN",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-03",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "WALT DISNEY COMPANY (THE) CMN",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-03",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "K000389",
+      "assetRaw": "ZOETIS INC CMN CLASS A",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-03",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
     {
       "memberId": "K000389",
       "assetRaw": "PUT/XSP @ 710 EXP 10/16/2026",
@@ -17329,15 +21247,991 @@
     {
       "date": "2026-07-31",
       "value": 8000.5
+    },
+    {
+      "date": "2026-08-03",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-03",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-03",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-03",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-03",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-03",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-03",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-03",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-03",
+      "value": 32500.5
+    },
+    {
+      "date": "2026-08-03",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-03",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-03",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-03",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-03",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-03",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-03",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-03",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-03",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-03",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-03",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-03",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-03",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-03",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-03",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-03",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-03",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-03",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-03",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-03",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-03",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-03",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-03",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-03",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-03",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-03",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-03",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-03",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-03",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-03",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-03",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-03",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-03",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-03",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-03",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-03",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-03",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-03",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-03",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-03",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-03",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-03",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-03",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-03",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-03",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-03",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-03",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-03",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-03",
+      "value": 32500.5
+    },
+    {
+      "date": "2026-08-03",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-03",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-03",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-03",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-03",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-03",
+      "value": 32500.5
+    },
+    {
+      "date": "2026-08-03",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-03",
+      "value": 32500.5
+    },
+    {
+      "date": "2026-08-03",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-03",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-03",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-03",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-03",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-03",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-03",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-03",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-03",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-03",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-03",
+      "value": 32500.5
+    },
+    {
+      "date": "2026-08-03",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-03",
+      "value": 32500.5
+    },
+    {
+      "date": "2026-08-03",
+      "value": 32500.5
+    },
+    {
+      "date": "2026-08-03",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-03",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-03",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-03",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-03",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-03",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-03",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-03",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-03",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-03",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-04",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-04",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-04",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-04",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-04",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-04",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-05",
+      "value": 75000.5
+    },
+    {
+      "date": "2026-08-05",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-05",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-05",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-06",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-06",
+      "value": 375000.5
+    },
+    {
+      "date": "2026-08-06",
+      "value": 175000.5
+    },
+    {
+      "date": "2026-08-06",
+      "value": 32500.5
+    },
+    {
+      "date": "2026-08-06",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-07",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-07",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-07",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-07",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-07",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-07",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-07",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-07",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-07",
+      "value": 32500.5
+    },
+    {
+      "date": "2026-08-07",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-07",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-07",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-10",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-10",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-10",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-10",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-10",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-10",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-10",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-10",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-10",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-10",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-10",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-10",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-10",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-10",
+      "value": 32500.5
+    },
+    {
+      "date": "2026-08-10",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-10",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-10",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-10",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-10",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-10",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-10",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-10",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-10",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-10",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-10",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-10",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-10",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-10",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-10",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-10",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-10",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-10",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-10",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-10",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-10",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-10",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-10",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-10",
+      "value": 32500.5
+    },
+    {
+      "date": "2026-08-10",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-10",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-10",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-10",
+      "value": 75000.5
+    },
+    {
+      "date": "2026-08-10",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-10",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-10",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-10",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-10",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-10",
+      "value": 32500.5
+    },
+    {
+      "date": "2026-08-10",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-10",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-10",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-10",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-10",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-10",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-10",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-10",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-10",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-10",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-10",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-10",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-11",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-11",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-12",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-12",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-12",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-13",
+      "value": 375000.5
+    },
+    {
+      "date": "2026-08-13",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-14",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-14",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-14",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-17",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-17",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-18",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-18",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-18",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-18",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-18",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-18",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-19",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-19",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-19",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-19",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-19",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-20",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-21",
+      "value": 75000.5
+    },
+    {
+      "date": "2026-08-21",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-24",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-24",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-24",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-24",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-24",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-24",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-24",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-24",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-24",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-24",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-24",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-24",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-24",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-24",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-24",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-24",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-24",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-24",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-24",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-24",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-24",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-24",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-24",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-24",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-24",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-24",
+      "value": 32500.5
+    },
+    {
+      "date": "2026-08-24",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-24",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-24",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-24",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-24",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-24",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-24",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-27",
+      "value": 175000.5
+    },
+    {
+      "date": "2026-08-27",
+      "value": 75000.5
+    },
+    {
+      "date": "2026-08-27",
+      "value": 75000.5
+    },
+    {
+      "date": "2026-08-27",
+      "value": 75000.5
+    },
+    {
+      "date": "2026-08-28",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-31",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-31",
+      "value": 75000.5
+    },
+    {
+      "date": "2026-08-31",
+      "value": 8000.5
     }
   ],
   "measured": {
-    "return": 10.7,
-    "excess": 0.7,
+    "return": 8.4,
+    "excess": 1.1,
     "method": "midpoint",
     "benchmark": "SPY",
-    "window": "disclosed buys 2026-02-06 to 2026-07-20, since-trade, midpoint-weighted",
-    "asOf": "2026-09-07",
-    "note": "Estimate: position sizes are disclosed-range midpoints, never exact amounts. 448 unpriceable position(s) excluded (options or no resolvable price)."
+    "window": "disclosed buys 2026-02-06 to 2026-08-27, since-trade, midpoint-weighted",
+    "asOf": "2026-09-08",
+    "note": "Estimate: position sizes are disclosed-range midpoints, never exact amounts. 566 unpriceable position(s) excluded (options or no resolvable price)."
   }
 }

@@ -14,7 +14,7 @@
       "method": "midpoint",
       "benchmark": "SPY",
       "window": "disclosed buys 2017-01-03 to 2026-07-24, since-trade, midpoint-weighted",
-      "asOf": "2026-09-07",
+      "asOf": "2026-09-08",
       "note": "Estimate: position sizes are disclosed-range midpoints, never exact amounts. 146 unpriceable position(s) excluded (options or no resolvable price)."
     },
     "attribution": "joint + spouse",
@@ -5260,7 +5260,7 @@
   },
   {
     "memberId": "C001123",
-    "tradeCount": 2604,
+    "tradeCount": 2669,
     "claims": [
       {
         "quote": "This is the biggest trader in Congress with over 1,000 trades this last year.",
@@ -5269,13 +5269,13 @@
       }
     ],
     "measured": {
-      "return": 83.9,
-      "excess": 10.4,
+      "return": 81.7,
+      "excess": 10.2,
       "method": "midpoint",
       "benchmark": "SPY",
-      "window": "disclosed buys 2019-01-18 to 2026-06-30, since-trade, midpoint-weighted",
-      "asOf": "2026-09-07",
-      "note": "Estimate: position sizes are disclosed-range midpoints, never exact amounts. 154 unpriceable position(s) excluded (options or no resolvable price)."
+      "window": "disclosed buys 2019-01-18 to 2026-07-31, since-trade, midpoint-weighted",
+      "asOf": "2026-09-08",
+      "note": "Estimate: position sizes are disclosed-range midpoints, never exact amounts. 155 unpriceable position(s) excluded (options or no resolvable price)."
     },
     "attribution": "self",
     "note": "1,464 trades in the 2025-26 window, 638 in 2026 - most active member right now. Broad diversified churn, ~$48M+ volume.",
@@ -10639,6 +10639,158 @@
       {
         "date": "2026-06-30",
         "value": 8000.5
+      },
+      {
+        "date": "2026-07-10",
+        "value": 8000.5
+      },
+      {
+        "date": "2026-07-10",
+        "value": 8000.5
+      },
+      {
+        "date": "2026-07-10",
+        "value": 8000.5
+      },
+      {
+        "date": "2026-07-10",
+        "value": 8000.5
+      },
+      {
+        "date": "2026-07-10",
+        "value": 8000.5
+      },
+      {
+        "date": "2026-07-10",
+        "value": 8000.5
+      },
+      {
+        "date": "2026-07-10",
+        "value": 8000.5
+      },
+      {
+        "date": "2026-07-10",
+        "value": 8000.5
+      },
+      {
+        "date": "2026-07-10",
+        "value": 8000.5
+      },
+      {
+        "date": "2026-07-10",
+        "value": 8000.5
+      },
+      {
+        "date": "2026-07-10",
+        "value": 8000.5
+      },
+      {
+        "date": "2026-07-10",
+        "value": 8000.5
+      },
+      {
+        "date": "2026-07-10",
+        "value": 8000.5
+      },
+      {
+        "date": "2026-07-16",
+        "value": 8000.5
+      },
+      {
+        "date": "2026-07-16",
+        "value": 8000.5
+      },
+      {
+        "date": "2026-07-16",
+        "value": 8000.5
+      },
+      {
+        "date": "2026-07-16",
+        "value": 8000.5
+      },
+      {
+        "date": "2026-07-16",
+        "value": 8000.5
+      },
+      {
+        "date": "2026-07-16",
+        "value": 8000.5
+      },
+      {
+        "date": "2026-07-16",
+        "value": 8000.5
+      },
+      {
+        "date": "2026-07-16",
+        "value": 32500.5
+      },
+      {
+        "date": "2026-07-16",
+        "value": 8000.5
+      },
+      {
+        "date": "2026-07-17",
+        "value": 8000.5
+      },
+      {
+        "date": "2026-07-17",
+        "value": 8000.5
+      },
+      {
+        "date": "2026-07-17",
+        "value": 8000.5
+      },
+      {
+        "date": "2026-07-17",
+        "value": 8000.5
+      },
+      {
+        "date": "2026-07-17",
+        "value": 8000.5
+      },
+      {
+        "date": "2026-07-17",
+        "value": 8000.5
+      },
+      {
+        "date": "2026-07-17",
+        "value": 32500.5
+      },
+      {
+        "date": "2026-07-17",
+        "value": 8000.5
+      },
+      {
+        "date": "2026-07-17",
+        "value": 8000.5
+      },
+      {
+        "date": "2026-07-17",
+        "value": 8000.5
+      },
+      {
+        "date": "2026-07-17",
+        "value": 8000.5
+      },
+      {
+        "date": "2026-07-21",
+        "value": 8000.5
+      },
+      {
+        "date": "2026-07-21",
+        "value": 8000.5
+      },
+      {
+        "date": "2026-07-30",
+        "value": 32500.5
+      },
+      {
+        "date": "2026-07-30",
+        "value": 8000.5
+      },
+      {
+        "date": "2026-07-31",
+        "value": 32500.5
       }
     ]
   },
@@ -10653,12 +10805,12 @@
       }
     ],
     "measured": {
-      "return": 37.2,
+      "return": 37.1,
       "excess": 13.1,
       "method": "midpoint",
       "benchmark": "SPY",
       "window": "disclosed buys 2024-03-11 to 2026-02-06, since-trade, midpoint-weighted",
-      "asOf": "2026-09-07",
+      "asOf": "2026-09-08",
       "note": "Estimate: position sizes are disclosed-range midpoints, never exact amounts. 27 unpriceable position(s) excluded (options or no resolvable price)."
     },
     "attribution": "spouse",
@@ -13445,7 +13597,7 @@
   },
   {
     "memberId": "K000389",
-    "tradeCount": 856,
+    "tradeCount": 1100,
     "claims": [
       {
         "quote": "Most trades in Congress - 3,944 trades reported in 2025, the highest raw count of any member.",
@@ -13453,13 +13605,13 @@
       }
     ],
     "measured": {
-      "return": 10.7,
-      "excess": 0.7,
+      "return": 8.4,
+      "excess": 1.1,
       "method": "midpoint",
       "benchmark": "SPY",
-      "window": "disclosed buys 2026-02-06 to 2026-07-20, since-trade, midpoint-weighted",
-      "asOf": "2026-09-07",
-      "note": "Estimate: position sizes are disclosed-range midpoints, never exact amounts. 448 unpriceable position(s) excluded (options or no resolvable price)."
+      "window": "disclosed buys 2026-02-06 to 2026-08-27, since-trade, midpoint-weighted",
+      "asOf": "2026-09-08",
+      "note": "Estimate: position sizes are disclosed-range midpoints, never exact amounts. 566 unpriceable position(s) excluded (options or no resolvable price)."
     },
     "attribution": "dependent + spouse",
     "note": "Partly meme-driven: volume comes from spouse and dependent trusts making hundreds of tiny diversified trades ($1K-$15K), not conviction bets.",
@@ -13843,6 +13995,90 @@
       {
         "date": "2026-07-20",
         "value": 8000.5
+      },
+      {
+        "date": "2026-08-03",
+        "value": 8000.5
+      },
+      {
+        "date": "2026-08-03",
+        "value": 32500.5
+      },
+      {
+        "date": "2026-08-03",
+        "value": 8000.5
+      },
+      {
+        "date": "2026-08-03",
+        "value": 32500.5
+      },
+      {
+        "date": "2026-08-03",
+        "value": 32500.5
+      },
+      {
+        "date": "2026-08-03",
+        "value": 8000.5
+      },
+      {
+        "date": "2026-08-06",
+        "value": 8000.5
+      },
+      {
+        "date": "2026-08-10",
+        "value": 8000.5
+      },
+      {
+        "date": "2026-08-10",
+        "value": 8000.5
+      },
+      {
+        "date": "2026-08-10",
+        "value": 8000.5
+      },
+      {
+        "date": "2026-08-10",
+        "value": 75000.5
+      },
+      {
+        "date": "2026-08-10",
+        "value": 8000.5
+      },
+      {
+        "date": "2026-08-10",
+        "value": 8000.5
+      },
+      {
+        "date": "2026-08-17",
+        "value": 8000.5
+      },
+      {
+        "date": "2026-08-18",
+        "value": 8000.5
+      },
+      {
+        "date": "2026-08-18",
+        "value": 8000.5
+      },
+      {
+        "date": "2026-08-24",
+        "value": 8000.5
+      },
+      {
+        "date": "2026-08-24",
+        "value": 8000.5
+      },
+      {
+        "date": "2026-08-24",
+        "value": 8000.5
+      },
+      {
+        "date": "2026-08-27",
+        "value": 175000.5
+      },
+      {
+        "date": "2026-08-27",
+        "value": 75000.5
       }
     ]
   },
@@ -13858,11 +14094,11 @@
     ],
     "measured": {
       "return": 203.1,
-      "excess": -9.2,
+      "excess": -9.3,
       "method": "midpoint",
       "benchmark": "SPY",
       "window": "disclosed buys 2013-02-13 to 2025-09-09, since-trade, midpoint-weighted",
-      "asOf": "2026-09-07",
+      "asOf": "2026-09-08",
       "note": "Estimate: position sizes are disclosed-range midpoints, never exact amounts. 258 unpriceable position(s) excluded (options or no resolvable price)."
     },
     "attribution": "spouse",
@@ -14606,7 +14842,7 @@
       "method": "midpoint",
       "benchmark": "SPY",
       "window": "disclosed buys 2023-08-29 to 2026-07-30, since-trade, midpoint-weighted",
-      "asOf": "2026-09-07",
+      "asOf": "2026-09-08",
       "note": "Estimate: position sizes are disclosed-range midpoints, never exact amounts. 7 unpriceable position(s) excluded (options or no resolvable price)."
     },
     "attribution": "joint + self",
@@ -15584,12 +15820,12 @@
       }
     ],
     "measured": {
-      "return": 12.7,
-      "excess": 1.3,
+      "return": 12.6,
+      "excess": 1.2,
       "method": "midpoint",
       "benchmark": "SPY",
       "window": "disclosed buys 2026-02-03 to 2026-06-29, since-trade, midpoint-weighted",
-      "asOf": "2026-09-07",
+      "asOf": "2026-09-08",
       "note": "Estimate: position sizes are disclosed-range midpoints, never exact amounts. 161 unpriceable position(s) excluded (options or no resolvable price)."
     },
     "attribution": "spouse",
@@ -16149,7 +16385,7 @@
       "method": "midpoint",
       "benchmark": "SPY",
       "window": "disclosed buys 2025-02-25 to 2025-11-28, since-trade, midpoint-weighted",
-      "asOf": "2026-09-07",
+      "asOf": "2026-09-08",
       "note": "Estimate: position sizes are disclosed-range midpoints, never exact amounts. 267 unpriceable position(s) excluded (options or no resolvable price)."
     },
     "attribution": "spouse + self",
@@ -16268,7 +16504,7 @@
       "method": "midpoint",
       "benchmark": "SPY",
       "window": "disclosed buys 2023-02-21 to 2026-07-13, since-trade, midpoint-weighted",
-      "asOf": "2026-09-07",
+      "asOf": "2026-09-08",
       "note": "Estimate: position sizes are disclosed-range midpoints, never exact amounts. 5 unpriceable position(s) excluded (options or no resolvable price)."
     },
     "attribution": "dependent + self",
@@ -17321,7 +17557,7 @@
       "method": "midpoint",
       "benchmark": "SPY",
       "window": "disclosed buys 2025-01-03 to 2026-06-04, since-trade, midpoint-weighted",
-      "asOf": "2026-09-07",
+      "asOf": "2026-09-08",
       "note": "Estimate: position sizes are disclosed-range midpoints, never exact amounts. 19 unpriceable position(s) excluded (options or no resolvable price)."
     },
     "attribution": "self",
@@ -17971,7 +18207,7 @@
       "method": "midpoint",
       "benchmark": "SPY",
       "window": "disclosed buys 2014-10-24 to 2026-07-28, since-trade, midpoint-weighted",
-      "asOf": "2026-09-07",
+      "asOf": "2026-09-08",
       "note": "Estimate: position sizes are disclosed-range midpoints, never exact amounts. 52 unpriceable position(s) excluded (options or no resolvable price)."
     },
     "attribution": "spouse",
@@ -18315,12 +18551,12 @@
       }
     ],
     "measured": {
-      "return": 30.5,
+      "return": 30.4,
       "excess": -4,
       "method": "midpoint",
       "benchmark": "SPY",
       "window": "disclosed buys 2023-01-18 to 2026-07-08, since-trade, midpoint-weighted",
-      "asOf": "2026-09-07",
+      "asOf": "2026-09-08",
       "note": "Estimate: position sizes are disclosed-range midpoints, never exact amounts. 9 unpriceable position(s) excluded (options or no resolvable price)."
     },
     "attribution": "self",

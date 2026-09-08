@@ -265,18 +265,14 @@
       "lo": 1001,
       "hi": 15000
     },
-    "status": "sold",
-    "asOf": "2026-06-16",
+    "status": "holds",
+    "asOf": "2026-07-17",
     "extraction": "pdf-text",
     "verification": "corroborated",
     "sources": [
       {
         "kind": "filing",
-        "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034500.pdf"
-      },
-      {
-        "kind": "filing",
-        "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034906.pdf"
+        "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf"
       },
       {
         "kind": "news",
@@ -285,8 +281,8 @@
       },
       {
         "kind": "news",
-        "url": "https://poliwealth.com/receipts/quiver_d99d53d1faf5cfd3",
-        "title": "COIN · Cisneros congressional trade receipt | PoliWealth"
+        "url": "https://www.marketbeat.com/instant-alerts/congress-coinbase-global-nasdaq-coin-shares-purchased-rep-gilbert-ray-cisneros-jr-2026-09-08/",
+        "title": "Coinbase Global (NASDAQ:COIN) Shares Purchased Rep. Gilbert Ray Cisneros, Jr."
       }
     ]
   },
@@ -1012,13 +1008,13 @@
       "hi": 15000
     },
     "status": "sold",
-    "asOf": "2026-02-24",
+    "asOf": "2026-08-10",
     "extraction": "pdf-text",
     "verification": "unverified",
     "sources": [
       {
         "kind": "filing",
-        "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/8221358.pdf"
+        "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf"
       }
     ],
     "note": "sale reported by PTR with no annual baseline in our coverage"
@@ -1034,21 +1030,27 @@
       "lo": 1001,
       "hi": 15000
     },
-    "status": "holds",
-    "asOf": "2026-07-20",
+    "status": "sold",
+    "asOf": "2026-08-24",
     "extraction": "pdf-text",
     "verification": "corroborated",
     "sources": [
       {
         "kind": "filing",
-        "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116267.pdf"
+        "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf"
       },
       {
         "kind": "news",
-        "url": "https://www.quiverquant.com/stock/TSLA/",
-        "title": "TSLA | Tesla, Inc. Common Stock Stock Data, Price & News"
+        "url": "https://www.quiverquant.com/congresstrading/trade/House-9116267-76",
+        "title": "TESLA INC CMN - Ro Khanna Congressional Trade on Jul. 20, 2026"
+      },
+      {
+        "kind": "news",
+        "url": "https://trendspider.com/markets/symbols/TSLA/government-trades/",
+        "title": "TSLA (Tesla, Inc.) – Government Trades – TrendSpider"
       }
-    ]
+    ],
+    "note": "sale reported by PTR with no annual baseline in our coverage"
   },
   {
     "memberId": "L000397",

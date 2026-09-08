@@ -35,6 +35,28 @@
     {
       "memberId": "C001123",
       "security": {
+        "ticker": "ABCB",
+        "kind": "other"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "holds",
+      "asOf": "2026-07-10",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf"
+        }
+      ]
+    },
+    {
+      "memberId": "C001123",
+      "security": {
         "ticker": "ABT",
         "kind": "other"
       },
@@ -62,17 +84,21 @@
       },
       "owner": "self",
       "range": {
-        "lo": 1001,
-        "hi": 15000
+        "lo": 2002,
+        "hi": 30000
       },
       "status": "holds",
-      "asOf": "2026-06-16",
+      "asOf": "2026-07-17",
       "extraction": "pdf-text",
       "verification": "unverified",
       "sources": [
         {
           "kind": "filing",
           "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034906.pdf"
+        },
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf"
         }
       ]
     },
@@ -85,10 +111,10 @@
       "owner": "self",
       "range": {
         "lo": 0,
-        "hi": 13999
+        "hi": 12998
       },
       "status": "holds",
-      "asOf": "2026-05-15",
+      "asOf": "2026-07-24",
       "extraction": "pdf-text",
       "verification": "unverified",
       "sources": [
@@ -99,9 +125,13 @@
         {
           "kind": "filing",
           "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034713.pdf"
+        },
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf"
         }
       ],
-      "note": "partial sale 2026-05-15"
+      "note": "partial sale 2026-05-15; partial sale 2026-07-24"
     },
     {
       "memberId": "C001123",
@@ -301,16 +331,38 @@
     {
       "memberId": "C001123",
       "security": {
+        "ticker": "ALKS",
+        "kind": "other"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "status": "holds",
+      "asOf": "2026-07-30",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf"
+        }
+      ]
+    },
+    {
+      "memberId": "C001123",
+      "security": {
         "ticker": "AMD",
         "kind": "other"
       },
       "owner": "self",
       "range": {
-        "lo": 18004,
-        "hi": 108999
+        "lo": 19005,
+        "hi": 123999
       },
       "status": "holds",
-      "asOf": "2026-06-05",
+      "asOf": "2026-07-17",
       "extraction": "pdf-text",
       "verification": "unverified",
       "sources": [
@@ -333,6 +385,10 @@
         {
           "kind": "filing",
           "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034906.pdf"
+        },
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf"
         }
       ],
       "note": "partial sale 2026-03-13"
@@ -429,6 +485,28 @@
     {
       "memberId": "C001123",
       "security": {
+        "ticker": "AORT",
+        "kind": "other"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "holds",
+      "asOf": "2026-07-16",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf"
+        }
+      ]
+    },
+    {
+      "memberId": "C001123",
+      "security": {
         "ticker": "APA",
         "kind": "other"
       },
@@ -479,11 +557,11 @@
       },
       "owner": "self",
       "range": {
-        "lo": 1001,
-        "hi": 26996
+        "lo": 2002,
+        "hi": 41996
       },
       "status": "holds",
-      "asOf": "2026-05-15",
+      "asOf": "2026-07-17",
       "extraction": "pdf-text",
       "verification": "unverified",
       "sources": [
@@ -506,6 +584,10 @@
         {
           "kind": "filing",
           "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034713.pdf"
+        },
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf"
         }
       ],
       "note": "partial sale 2026-02-05; partial sale 2026-02-10; partial sale 2026-03-18; partial sale 2026-04-14"
@@ -635,8 +717,8 @@
         "lo": 3003,
         "hi": 45000
       },
-      "status": "holds",
-      "asOf": "2026-03-03",
+      "status": "sold",
+      "asOf": "2026-07-02",
       "extraction": "pdf-text",
       "verification": "unverified",
       "sources": [
@@ -651,6 +733,10 @@
         {
           "kind": "filing",
           "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034285.pdf"
+        },
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf"
         }
       ]
     },
@@ -811,14 +897,18 @@
         "lo": 50001,
         "hi": 100000
       },
-      "status": "holds",
-      "asOf": "2026-02-09",
+      "status": "sold",
+      "asOf": "2026-07-24",
       "extraction": "pdf-text",
       "verification": "unverified",
       "sources": [
         {
           "kind": "filing",
           "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034144.pdf"
+        },
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf"
         }
       ]
     },
@@ -875,6 +965,50 @@
         {
           "kind": "filing",
           "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034713.pdf"
+        }
+      ]
+    },
+    {
+      "memberId": "C001123",
+      "security": {
+        "ticker": "BCPC",
+        "kind": "other"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "holds",
+      "asOf": "2026-07-10",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf"
+        }
+      ]
+    },
+    {
+      "memberId": "C001123",
+      "security": {
+        "ticker": "BCRX",
+        "kind": "other"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "holds",
+      "asOf": "2026-07-10",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf"
         }
       ]
     },
@@ -1506,14 +1640,18 @@
         "lo": 1001,
         "hi": 15000
       },
-      "status": "holds",
-      "asOf": "2026-06-16",
+      "status": "sold",
+      "asOf": "2026-07-17",
       "extraction": "pdf-text",
       "verification": "unverified",
       "sources": [
         {
           "kind": "filing",
           "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034906.pdf"
+        },
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf"
         }
       ]
     },
@@ -1575,17 +1713,21 @@
       },
       "owner": "self",
       "range": {
-        "lo": 1001,
-        "hi": 15000
+        "lo": 2002,
+        "hi": 30000
       },
       "status": "holds",
-      "asOf": "2026-03-03",
+      "asOf": "2026-07-10",
       "extraction": "pdf-text",
       "verification": "unverified",
       "sources": [
         {
           "kind": "filing",
           "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034285.pdf"
+        },
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf"
         }
       ]
     },
@@ -1648,18 +1790,14 @@
         "lo": 1001,
         "hi": 15000
       },
-      "status": "sold",
-      "asOf": "2026-06-16",
+      "status": "holds",
+      "asOf": "2026-07-17",
       "extraction": "pdf-text",
       "verification": "unverified",
       "sources": [
         {
           "kind": "filing",
-          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034500.pdf"
-        },
-        {
-          "kind": "filing",
-          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034906.pdf"
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf"
         }
       ]
     },
@@ -1685,6 +1823,28 @@
         }
       ],
       "note": "sale reported by PTR with no annual baseline in our coverage"
+    },
+    {
+      "memberId": "C001123",
+      "security": {
+        "ticker": "COMP",
+        "kind": "other"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "holds",
+      "asOf": "2026-07-16",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf"
+        }
+      ]
     },
     {
       "memberId": "C001123",
@@ -1823,8 +1983,8 @@
         "lo": 0,
         "hi": 13999
       },
-      "status": "holds",
-      "asOf": "2026-06-30",
+      "status": "sold",
+      "asOf": "2026-07-02",
       "extraction": "pdf-text",
       "verification": "unverified",
       "sources": [
@@ -1835,6 +1995,10 @@
         {
           "kind": "filing",
           "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034906.pdf"
+        },
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf"
         }
       ],
       "note": "partial sale 2026-06-30"
@@ -1850,14 +2014,18 @@
         "lo": 1001,
         "hi": 15000
       },
-      "status": "holds",
-      "asOf": "2026-03-03",
+      "status": "sold",
+      "asOf": "2026-07-30",
       "extraction": "pdf-text",
       "verification": "unverified",
       "sources": [
         {
           "kind": "filing",
           "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034285.pdf"
+        },
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf"
         }
       ]
     },
@@ -1869,17 +2037,21 @@
       },
       "owner": "self",
       "range": {
-        "lo": 1001,
-        "hi": 15000
+        "lo": 2002,
+        "hi": 30000
       },
       "status": "holds",
-      "asOf": "2026-05-15",
+      "asOf": "2026-07-17",
       "extraction": "pdf-text",
       "verification": "unverified",
       "sources": [
         {
           "kind": "filing",
           "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034713.pdf"
+        },
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf"
         }
       ]
     },
@@ -1948,11 +2120,11 @@
       },
       "owner": "self",
       "range": {
-        "lo": 3003,
-        "hi": 45000
+        "lo": 4004,
+        "hi": 60000
       },
       "status": "holds",
-      "asOf": "2026-05-18",
+      "asOf": "2026-07-16",
       "extraction": "pdf-text",
       "verification": "unverified",
       "sources": [
@@ -1967,6 +2139,10 @@
         {
           "kind": "filing",
           "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034713.pdf"
+        },
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf"
         }
       ]
     },
@@ -2186,17 +2362,21 @@
       },
       "owner": "self",
       "range": {
-        "lo": 1001,
-        "hi": 15000
+        "lo": 2002,
+        "hi": 30000
       },
       "status": "holds",
-      "asOf": "2026-05-18",
+      "asOf": "2026-07-10",
       "extraction": "pdf-text",
       "verification": "unverified",
       "sources": [
         {
           "kind": "filing",
           "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034713.pdf"
+        },
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf"
         }
       ]
     },
@@ -2211,14 +2391,18 @@
         "lo": 1001,
         "hi": 15000
       },
-      "status": "holds",
-      "asOf": "2026-01-09",
+      "status": "sold",
+      "asOf": "2026-07-17",
       "extraction": "pdf-text",
       "verification": "unverified",
       "sources": [
         {
           "kind": "filing",
           "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033983.pdf"
+        },
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf"
         }
       ]
     },
@@ -2353,11 +2537,11 @@
       },
       "owner": "self",
       "range": {
-        "lo": 2002,
-        "hi": 30000
+        "lo": 0,
+        "hi": 28999
       },
       "status": "holds",
-      "asOf": "2026-06-16",
+      "asOf": "2026-07-17",
       "extraction": "pdf-text",
       "verification": "unverified",
       "sources": [
@@ -2368,8 +2552,13 @@
         {
           "kind": "filing",
           "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034906.pdf"
+        },
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf"
         }
-      ]
+      ],
+      "note": "partial sale 2026-07-17"
     },
     {
       "memberId": "C001123",
@@ -2458,11 +2647,11 @@
       },
       "owner": "self",
       "range": {
-        "lo": 2002,
-        "hi": 30000
+        "lo": 4004,
+        "hi": 60000
       },
       "status": "holds",
-      "asOf": "2026-03-03",
+      "asOf": "2026-07-16",
       "extraction": "pdf-text",
       "verification": "unverified",
       "sources": [
@@ -2473,6 +2662,10 @@
         {
           "kind": "filing",
           "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034285.pdf"
+        },
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf"
         }
       ]
     },
@@ -2631,14 +2824,40 @@
         "lo": 1001,
         "hi": 15000
       },
-      "status": "holds",
-      "asOf": "2026-01-09",
+      "status": "sold",
+      "asOf": "2026-07-21",
       "extraction": "pdf-text",
       "verification": "unverified",
       "sources": [
         {
           "kind": "filing",
           "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033983.pdf"
+        },
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf"
+        }
+      ]
+    },
+    {
+      "memberId": "C001123",
+      "security": {
+        "ticker": "FERG",
+        "kind": "other"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "holds",
+      "asOf": "2026-07-16",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf"
         }
       ]
     },
@@ -2758,8 +2977,8 @@
         "lo": 16002,
         "hi": 65000
       },
-      "status": "holds",
-      "asOf": "2026-05-04",
+      "status": "sold",
+      "asOf": "2026-07-16",
       "extraction": "pdf-text",
       "verification": "unverified",
       "sources": [
@@ -2770,6 +2989,10 @@
         {
           "kind": "filing",
           "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034713.pdf"
+        },
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf"
         }
       ]
     },
@@ -2945,17 +3168,21 @@
       },
       "owner": "self",
       "range": {
-        "lo": 1001,
-        "hi": 15000
+        "lo": 2002,
+        "hi": 30000
       },
       "status": "holds",
-      "asOf": "2026-01-15",
+      "asOf": "2026-07-21",
       "extraction": "pdf-text",
       "verification": "unverified",
       "sources": [
         {
           "kind": "filing",
           "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033983.pdf"
+        },
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf"
         }
       ]
     },
@@ -3369,17 +3596,43 @@
       },
       "owner": "self",
       "range": {
-        "lo": 1001,
-        "hi": 15000
+        "lo": 2002,
+        "hi": 30000
       },
       "status": "holds",
-      "asOf": "2026-03-03",
+      "asOf": "2026-07-16",
       "extraction": "pdf-text",
       "verification": "unverified",
       "sources": [
         {
           "kind": "filing",
           "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034285.pdf"
+        },
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf"
+        }
+      ]
+    },
+    {
+      "memberId": "C001123",
+      "security": {
+        "ticker": "HMN",
+        "kind": "other"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "holds",
+      "asOf": "2026-07-10",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf"
         }
       ]
     },
@@ -3413,11 +3666,11 @@
       },
       "owner": "self",
       "range": {
-        "lo": 2002,
-        "hi": 30000
+        "lo": 3003,
+        "hi": 45000
       },
       "status": "holds",
-      "asOf": "2026-06-30",
+      "asOf": "2026-07-10",
       "extraction": "pdf-text",
       "verification": "unverified",
       "sources": [
@@ -3428,6 +3681,10 @@
         {
           "kind": "filing",
           "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034906.pdf"
+        },
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf"
         }
       ]
     },
@@ -3461,23 +3718,20 @@
       },
       "owner": "self",
       "range": {
-        "lo": 15001,
-        "hi": 50000
+        "lo": 1001,
+        "hi": 15000
       },
       "status": "sold",
-      "asOf": "2026-05-15",
+      "asOf": "2026-07-17",
       "extraction": "pdf-text",
       "verification": "unverified",
       "sources": [
         {
           "kind": "filing",
-          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034500.pdf"
-        },
-        {
-          "kind": "filing",
-          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034713.pdf"
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf"
         }
-      ]
+      ],
+      "note": "sale reported by PTR with no annual baseline in our coverage"
     },
     {
       "memberId": "C001123",
@@ -3624,17 +3878,21 @@
       },
       "owner": "self",
       "range": {
-        "lo": 1001,
-        "hi": 15000
+        "lo": 2002,
+        "hi": 30000
       },
       "status": "holds",
-      "asOf": "2026-01-15",
+      "asOf": "2026-07-10",
       "extraction": "pdf-text",
       "verification": "unverified",
       "sources": [
         {
           "kind": "filing",
           "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033983.pdf"
+        },
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf"
         }
       ]
     },
@@ -3867,19 +4125,24 @@
       },
       "owner": "self",
       "range": {
-        "lo": 1001,
-        "hi": 15000
+        "lo": 0,
+        "hi": 13999
       },
       "status": "holds",
-      "asOf": "2026-06-16",
+      "asOf": "2026-07-17",
       "extraction": "pdf-text",
       "verification": "unverified",
       "sources": [
         {
           "kind": "filing",
           "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034906.pdf"
+        },
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf"
         }
-      ]
+      ],
+      "note": "partial sale 2026-07-17"
     },
     {
       "memberId": "C001123",
@@ -3997,14 +4260,18 @@
         "lo": 1001,
         "hi": 15000
       },
-      "status": "holds",
-      "asOf": "2026-04-14",
+      "status": "sold",
+      "asOf": "2026-07-17",
       "extraction": "pdf-text",
       "verification": "unverified",
       "sources": [
         {
           "kind": "filing",
           "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034500.pdf"
+        },
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf"
         }
       ]
     },
@@ -4374,16 +4641,60 @@
     {
       "memberId": "C001123",
       "security": {
+        "ticker": "MRVL",
+        "kind": "other"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "holds",
+      "asOf": "2026-07-17",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf"
+        }
+      ]
+    },
+    {
+      "memberId": "C001123",
+      "security": {
+        "ticker": "MSB",
+        "kind": "other"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "status": "holds",
+      "asOf": "2026-07-31",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf"
+        }
+      ]
+    },
+    {
+      "memberId": "C001123",
+      "security": {
         "ticker": "MSFT",
         "kind": "other"
       },
       "owner": "self",
       "range": {
-        "lo": 1,
-        "hi": 119998
+        "lo": 15002,
+        "hi": 169998
       },
       "status": "holds",
-      "asOf": "2026-06-16",
+      "asOf": "2026-07-17",
       "extraction": "pdf-text",
       "verification": "unverified",
       "sources": [
@@ -4402,6 +4713,10 @@
         {
           "kind": "filing",
           "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034906.pdf"
+        },
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf"
         }
       ],
       "note": "partial sale 2026-04-14; partial sale 2026-06-16"
@@ -4482,10 +4797,10 @@
       "owner": "self",
       "range": {
         "lo": 0,
-        "hi": 12998
+        "hi": 11997
       },
       "status": "holds",
-      "asOf": "2026-05-22",
+      "asOf": "2026-07-16",
       "extraction": "pdf-text",
       "verification": "unverified",
       "sources": [
@@ -4496,9 +4811,35 @@
         {
           "kind": "filing",
           "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034713.pdf"
+        },
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf"
         }
       ],
-      "note": "partial sale 2026-03-27; partial sale 2026-05-22"
+      "note": "partial sale 2026-03-27; partial sale 2026-05-22; partial sale 2026-07-16"
+    },
+    {
+      "memberId": "C001123",
+      "security": {
+        "ticker": "MTX",
+        "kind": "other"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "holds",
+      "asOf": "2026-07-10",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf"
+        }
+      ]
     },
     {
       "memberId": "C001123",
@@ -4565,17 +4906,21 @@
       },
       "owner": "self",
       "range": {
-        "lo": 1001,
-        "hi": 15000
+        "lo": 2002,
+        "hi": 30000
       },
       "status": "holds",
-      "asOf": "2026-01-15",
+      "asOf": "2026-07-10",
       "extraction": "pdf-text",
       "verification": "unverified",
       "sources": [
         {
           "kind": "filing",
           "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033983.pdf"
+        },
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf"
         }
       ]
     },
@@ -4632,11 +4977,11 @@
       },
       "owner": "self",
       "range": {
-        "lo": 0,
-        "hi": 27998
+        "lo": 1001,
+        "hi": 42998
       },
       "status": "holds",
-      "asOf": "2026-04-14",
+      "asOf": "2026-07-17",
       "extraction": "pdf-text",
       "verification": "unverified",
       "sources": [
@@ -4651,6 +4996,10 @@
         {
           "kind": "filing",
           "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034500.pdf"
+        },
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf"
         }
       ],
       "note": "partial sale 2026-03-25; partial sale 2026-04-14"
@@ -4968,17 +5317,21 @@
       },
       "owner": "self",
       "range": {
-        "lo": 2002,
-        "hi": 30000
+        "lo": 3003,
+        "hi": 45000
       },
       "status": "holds",
-      "asOf": "2026-05-13",
+      "asOf": "2026-07-16",
       "extraction": "pdf-text",
       "verification": "unverified",
       "sources": [
         {
           "kind": "filing",
           "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034713.pdf"
+        },
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf"
         }
       ]
     },
@@ -5017,11 +5370,11 @@
       },
       "owner": "self",
       "range": {
-        "lo": 1001,
-        "hi": 28999
+        "lo": 0,
+        "hi": 27998
       },
       "status": "holds",
-      "asOf": "2026-06-16",
+      "asOf": "2026-07-17",
       "extraction": "pdf-text",
       "verification": "unverified",
       "sources": [
@@ -5036,9 +5389,13 @@
         {
           "kind": "filing",
           "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034906.pdf"
+        },
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf"
         }
       ],
-      "note": "partial sale 2026-02-10"
+      "note": "partial sale 2026-02-10; partial sale 2026-07-17"
     },
     {
       "memberId": "C001123",
@@ -5048,11 +5405,11 @@
       },
       "owner": "self",
       "range": {
-        "lo": 0,
-        "hi": 61997
+        "lo": 1001,
+        "hi": 76997
       },
       "status": "holds",
-      "asOf": "2026-05-15",
+      "asOf": "2026-07-17",
       "extraction": "pdf-text",
       "verification": "unverified",
       "sources": [
@@ -5067,9 +5424,35 @@
         {
           "kind": "filing",
           "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034713.pdf"
+        },
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf"
         }
       ],
       "note": "partial sale 2026-03-16; partial sale 2026-05-08; partial sale 2026-05-15"
+    },
+    {
+      "memberId": "C001123",
+      "security": {
+        "ticker": "PRAX",
+        "kind": "other"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "holds",
+      "asOf": "2026-07-30",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf"
+        }
+      ]
     },
     {
       "memberId": "C001123",
@@ -5134,8 +5517,8 @@
         "lo": 0,
         "hi": 13999
       },
-      "status": "holds",
-      "asOf": "2026-05-15",
+      "status": "sold",
+      "asOf": "2026-07-17",
       "extraction": "pdf-text",
       "verification": "unverified",
       "sources": [
@@ -5146,6 +5529,10 @@
         {
           "kind": "filing",
           "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034713.pdf"
+        },
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf"
         }
       ],
       "note": "partial sale 2026-05-15"
@@ -5305,10 +5692,10 @@
       "owner": "self",
       "range": {
         "lo": 0,
-        "hi": 13999
+        "hi": 12998
       },
       "status": "holds",
-      "asOf": "2026-06-30",
+      "asOf": "2026-07-16",
       "extraction": "pdf-text",
       "verification": "unverified",
       "sources": [
@@ -5319,9 +5706,13 @@
         {
           "kind": "filing",
           "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034906.pdf"
+        },
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf"
         }
       ],
-      "note": "partial sale 2026-06-30"
+      "note": "partial sale 2026-06-30; partial sale 2026-07-16"
     },
     {
       "memberId": "C001123",
@@ -5517,6 +5908,28 @@
     {
       "memberId": "C001123",
       "security": {
+        "ticker": "SAIL",
+        "kind": "other"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "holds",
+      "asOf": "2026-07-21",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf"
+        }
+      ]
+    },
+    {
+      "memberId": "C001123",
+      "security": {
         "ticker": "SAN",
         "kind": "other"
       },
@@ -5669,6 +6082,50 @@
     {
       "memberId": "C001123",
       "security": {
+        "ticker": "SF",
+        "kind": "other"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "holds",
+      "asOf": "2026-07-10",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf"
+        }
+      ]
+    },
+    {
+      "memberId": "C001123",
+      "security": {
+        "ticker": "SFM",
+        "kind": "other"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "status": "holds",
+      "asOf": "2026-07-16",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf"
+        }
+      ]
+    },
+    {
+      "memberId": "C001123",
+      "security": {
         "ticker": "SFTBF",
         "kind": "other"
       },
@@ -5722,17 +6179,21 @@
       },
       "owner": "self",
       "range": {
-        "lo": 1001,
-        "hi": 15000
+        "lo": 3003,
+        "hi": 45000
       },
       "status": "holds",
-      "asOf": "2026-01-05",
+      "asOf": "2026-07-16",
       "extraction": "pdf-text",
       "verification": "unverified",
       "sources": [
         {
           "kind": "filing",
           "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033983.pdf"
+        },
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf"
         }
       ]
     },
@@ -5794,10 +6255,10 @@
       "owner": "self",
       "range": {
         "lo": 0,
-        "hi": 28999
+        "hi": 27998
       },
       "status": "holds",
-      "asOf": "2026-06-30",
+      "asOf": "2026-07-16",
       "extraction": "pdf-text",
       "verification": "unverified",
       "sources": [
@@ -5812,9 +6273,13 @@
         {
           "kind": "filing",
           "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034906.pdf"
+        },
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf"
         }
       ],
-      "note": "partial sale 2026-06-30"
+      "note": "partial sale 2026-06-30; partial sale 2026-07-16"
     },
     {
       "memberId": "C001123",
@@ -6088,8 +6553,8 @@
         "lo": 0,
         "hi": 13999
       },
-      "status": "holds",
-      "asOf": "2026-05-15",
+      "status": "sold",
+      "asOf": "2026-07-17",
       "extraction": "pdf-text",
       "verification": "unverified",
       "sources": [
@@ -6100,6 +6565,10 @@
         {
           "kind": "filing",
           "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034713.pdf"
+        },
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf"
         }
       ],
       "note": "partial sale 2026-05-15"
@@ -6527,18 +6996,14 @@
         "lo": 1001,
         "hi": 15000
       },
-      "status": "sold",
-      "asOf": "2026-06-16",
+      "status": "holds",
+      "asOf": "2026-07-17",
       "extraction": "pdf-text",
       "verification": "unverified",
       "sources": [
         {
           "kind": "filing",
-          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034713.pdf"
-        },
-        {
-          "kind": "filing",
-          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034906.pdf"
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf"
         }
       ]
     },
@@ -6634,10 +7099,10 @@
       "owner": "self",
       "range": {
         "lo": 0,
-        "hi": 13999
+        "hi": 12998
       },
       "status": "holds",
-      "asOf": "2026-05-15",
+      "asOf": "2026-07-17",
       "extraction": "pdf-text",
       "verification": "unverified",
       "sources": [
@@ -6648,9 +7113,13 @@
         {
           "kind": "filing",
           "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034713.pdf"
+        },
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf"
         }
       ],
-      "note": "partial sale 2026-05-15"
+      "note": "partial sale 2026-05-15; partial sale 2026-07-17"
     },
     {
       "memberId": "C001123",
@@ -6951,19 +7420,24 @@
       },
       "owner": "self",
       "range": {
-        "lo": 1001,
-        "hi": 15000
+        "lo": 0,
+        "hi": 13999
       },
       "status": "holds",
-      "asOf": "2026-04-14",
+      "asOf": "2026-07-17",
       "extraction": "pdf-text",
       "verification": "unverified",
       "sources": [
         {
           "kind": "filing",
           "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034500.pdf"
+        },
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf"
         }
-      ]
+      ],
+      "note": "partial sale 2026-07-17"
     },
     {
       "memberId": "C001123",
@@ -7086,6 +7560,28 @@
     {
       "memberId": "C001123",
       "security": {
+        "ticker": "WDC",
+        "kind": "other"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "holds",
+      "asOf": "2026-07-17",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf"
+        }
+      ]
+    },
+    {
+      "memberId": "C001123",
+      "security": {
         "ticker": "WMB",
         "kind": "other"
       },
@@ -7183,11 +7679,11 @@
       },
       "owner": "self",
       "range": {
-        "lo": 1001,
-        "hi": 42998
+        "lo": 0,
+        "hi": 41997
       },
       "status": "holds",
-      "asOf": "2026-06-16",
+      "asOf": "2026-07-17",
       "extraction": "pdf-text",
       "verification": "unverified",
       "sources": [
@@ -7210,12 +7706,1073 @@
         {
           "kind": "filing",
           "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034906.pdf"
+        },
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf"
         }
       ],
-      "note": "partial sale 2026-03-13; partial sale 2026-04-14"
+      "note": "partial sale 2026-03-13; partial sale 2026-04-14; partial sale 2026-07-17"
     }
   ],
   "trades": [
+    {
+      "memberId": "C001123",
+      "assetRaw": "Mesabi Trust Common Stock (MSB) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2026-07-31",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "C001123",
+      "assetRaw": "Alkermes plc - Ordinary Shares (ALKS) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2026-07-30",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "C001123",
+      "assetRaw": "Crinetics Pharmaceuticals, Inc. - Common Stock (CRNX) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2026-07-30",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "C001123",
+      "assetRaw": "Praxis Precision Medicines, Inc. - Common Stock (PRAX) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-07-30",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "C001123",
+      "assetRaw": "Adobe Inc. - Common Stock (ADBE) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-07-24",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf",
+      "late": false,
+      "note": "partial sale",
+      "provenance": "both"
+    },
+    {
+      "memberId": "C001123",
+      "assetRaw": "Alibaba Group Holding Limited American Depositary Shares each representing eight Ordinary share (BABA) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2026-07-24",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "C001123",
+      "assetRaw": "FedEx Corporation Common Stock (FDX) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-07-21",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "C001123",
+      "assetRaw": "Glacier Bancorp, Inc. (GBCI) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-07-21",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "C001123",
+      "assetRaw": "SailPoint, Inc. - Common Stock (SAIL) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-07-21",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "C001123",
+      "assetRaw": "Semtech Corporation - Common Stock",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-07-21",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf",
+      "late": false,
+      "note": "partial sale",
+      "provenance": "both"
+    },
+    {
+      "memberId": "C001123",
+      "assetRaw": "Viavi Solutions Inc. - Common Stock (VIAV) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-07-21",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf",
+      "late": false,
+      "note": "partial sale",
+      "provenance": "both"
+    },
+    {
+      "memberId": "C001123",
+      "assetRaw": "Accenture plc Class A Ordinary Shares (ACN) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-07-17",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf",
+      "late": true,
+      "provenance": "both"
+    },
+    {
+      "memberId": "C001123",
+      "assetRaw": "Advanced Micro Devices, Inc. (AMD) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-07-17",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf",
+      "late": true,
+      "provenance": "both"
+    },
+    {
+      "memberId": "C001123",
+      "assetRaw": "Applovin Corporation - Class A Common Stock (APP) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-07-17",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf",
+      "late": true,
+      "provenance": "both"
+    },
+    {
+      "memberId": "C001123",
+      "assetRaw": "Coinbase Global, Inc. - Class A Common Stock (COIN) [ST]",
+      "security": {
+        "ticker": "COIN",
+        "kind": "exchange"
+      },
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-07-17",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf",
+      "late": true,
+      "provenance": "both"
+    },
+    {
+      "memberId": "C001123",
+      "assetRaw": "Comcast Corporation - Class A Common Stock (CMCSA) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-07-17",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf",
+      "late": true,
+      "provenance": "both"
+    },
+    {
+      "memberId": "C001123",
+      "assetRaw": "Constellation Brands, Inc. Common Stock (STZ) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-07-17",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf",
+      "late": true,
+      "provenance": "both"
+    },
+    {
+      "memberId": "C001123",
+      "assetRaw": "CrowdStrike Holdings, Inc. - Class A Common Stock (CRWD) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-07-17",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf",
+      "late": true,
+      "provenance": "both"
+    },
+    {
+      "memberId": "C001123",
+      "assetRaw": "DuPont de Nemours, Inc. Common Stock (DD) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-07-17",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf",
+      "late": true,
+      "provenance": "both"
+    },
+    {
+      "memberId": "C001123",
+      "assetRaw": "Electronic Arts Inc. - Common Stock (EA) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-07-17",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf",
+      "late": true,
+      "note": "partial sale",
+      "provenance": "both"
+    },
+    {
+      "memberId": "C001123",
+      "assetRaw": "International Business Machines Corporation Common Stock (IBM) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-07-17",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf",
+      "late": true,
+      "provenance": "both"
+    },
+    {
+      "memberId": "C001123",
+      "assetRaw": "Kenvue Inc. Common Stock (KVUE) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-07-17",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf",
+      "late": true,
+      "note": "partial sale",
+      "provenance": "both"
+    },
+    {
+      "memberId": "C001123",
+      "assetRaw": "Lumentum Holdings Inc. - Common Stock (LITE) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-07-17",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf",
+      "late": true,
+      "provenance": "both"
+    },
+    {
+      "memberId": "C001123",
+      "assetRaw": "Marvell Technology, Inc. - Common Stock (MRVL) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-07-17",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf",
+      "late": true,
+      "provenance": "both"
+    },
+    {
+      "memberId": "C001123",
+      "assetRaw": "Microsoft Corporation - Common Stock (MSFT) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2026-07-17",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf",
+      "late": true,
+      "provenance": "both"
+    },
+    {
+      "memberId": "C001123",
+      "assetRaw": "NVIDIA Corporation - Common Stock (NVDA) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-07-17",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf",
+      "late": true,
+      "provenance": "both"
+    },
+    {
+      "memberId": "C001123",
+      "assetRaw": "Palantir Technologies Inc. - Class A Common Stock (PLTR) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-07-17",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf",
+      "late": true,
+      "provenance": "both"
+    },
+    {
+      "memberId": "C001123",
+      "assetRaw": "Paramount Skydance Corporation - Class B Common Stock (PSKY) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-07-17",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf",
+      "late": true,
+      "provenance": "both"
+    },
+    {
+      "memberId": "C001123",
+      "assetRaw": "Progressive Corporation (PGR) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-07-17",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf",
+      "late": true,
+      "note": "partial sale",
+      "provenance": "both"
+    },
+    {
+      "memberId": "C001123",
+      "assetRaw": "The Trade Desk, Inc. - Class A Common Stock (TTD) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-07-17",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf",
+      "late": true,
+      "provenance": "both"
+    },
+    {
+      "memberId": "C001123",
+      "assetRaw": "Uber Technologies, Inc. Common Stock (UBER) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-07-17",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf",
+      "late": true,
+      "note": "partial sale",
+      "provenance": "both"
+    },
+    {
+      "memberId": "C001123",
+      "assetRaw": "Verizon Communications Inc. Common Stock (VZ) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-07-17",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf",
+      "late": true,
+      "note": "partial sale",
+      "provenance": "both"
+    },
+    {
+      "memberId": "C001123",
+      "assetRaw": "Western Digital Corporation - Common Stock (WDC) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-07-17",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf",
+      "late": true,
+      "provenance": "both"
+    },
+    {
+      "memberId": "C001123",
+      "assetRaw": "Zoetis Inc. Class A Common Stock (ZTS) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-07-17",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf",
+      "late": true,
+      "note": "partial sale",
+      "provenance": "both"
+    },
+    {
+      "memberId": "C001123",
+      "assetRaw": "Artivion, Inc. Common Stock (AORT) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-07-16",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf",
+      "late": true,
+      "provenance": "both"
+    },
+    {
+      "memberId": "C001123",
+      "assetRaw": "CSW Industrials, Inc. Common Stock (CSW) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-07-16",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf",
+      "late": true,
+      "provenance": "both"
+    },
+    {
+      "memberId": "C001123",
+      "assetRaw": "Compass, Inc. Class A Common Stock (COMP) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-07-16",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf",
+      "late": true,
+      "provenance": "both"
+    },
+    {
+      "memberId": "C001123",
+      "assetRaw": "Enerpac Tool Group Corp. Common Stock (EPAC) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-07-16",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf",
+      "late": true,
+      "provenance": "both"
+    },
+    {
+      "memberId": "C001123",
+      "assetRaw": "Fabrinet Ordinary Shares (FN) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2026-07-16",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf",
+      "late": true,
+      "provenance": "both"
+    },
+    {
+      "memberId": "C001123",
+      "assetRaw": "Ferguson Enterprises Inc. Common Stock (FERG) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-07-16",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf",
+      "late": true,
+      "provenance": "both"
+    },
+    {
+      "memberId": "C001123",
+      "assetRaw": "Houlihan Lokey, Inc. Class A Common Stock (HLI) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-07-16",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf",
+      "late": true,
+      "provenance": "both"
+    },
+    {
+      "memberId": "C001123",
+      "assetRaw": "Lamar Advertising Company - Class A Common Stock (LAMR) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-07-16",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf",
+      "late": true,
+      "note": "partial sale",
+      "provenance": "both"
+    },
+    {
+      "memberId": "C001123",
+      "assetRaw": "MACOM Technology Solutions Holdings, Inc. - Common Stock (MTSI) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-07-16",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf",
+      "late": true,
+      "note": "partial sale",
+      "provenance": "both"
+    },
+    {
+      "memberId": "C001123",
+      "assetRaw": "RBC Bearings Incorporated Common Stock (RBC) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-07-16",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf",
+      "late": true,
+      "note": "partial sale",
+      "provenance": "both"
+    },
+    {
+      "memberId": "C001123",
+      "assetRaw": "SPX Technologies, Inc. Common Stock (SPXC) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-07-16",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf",
+      "late": true,
+      "note": "partial sale",
+      "provenance": "both"
+    },
+    {
+      "memberId": "C001123",
+      "assetRaw": "Semtech Corporation - Common Stock (SMTC) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-07-16",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf",
+      "late": true,
+      "note": "partial sale",
+      "provenance": "both"
+    },
+    {
+      "memberId": "C001123",
+      "assetRaw": "Skyward Specialty Insurance Group, Inc. - Common Stock (SKWD) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-07-16",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf",
+      "late": true,
+      "provenance": "both"
+    },
+    {
+      "memberId": "C001123",
+      "assetRaw": "Sprouts Farmers Market, Inc. - Common Stock (SFM) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2026-07-16",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf",
+      "late": true,
+      "provenance": "both"
+    },
+    {
+      "memberId": "C001123",
+      "assetRaw": "U.S. Physical Therapy, Inc. Common",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-07-16",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf",
+      "late": true,
+      "provenance": "both"
+    },
+    {
+      "memberId": "C001123",
+      "assetRaw": "Vaxcyte, Inc. - Common Stock (PCVX) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-07-16",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf",
+      "late": true,
+      "provenance": "both"
+    },
+    {
+      "memberId": "C001123",
+      "assetRaw": "Ameris Bancorp - Common Stock (ABCB) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-07-10",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf",
+      "late": true,
+      "provenance": "both"
+    },
+    {
+      "memberId": "C001123",
+      "assetRaw": "Balchem Corporation - Common Stock (BCPC) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-07-10",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf",
+      "late": true,
+      "provenance": "both"
+    },
+    {
+      "memberId": "C001123",
+      "assetRaw": "BioCryst Pharmaceuticals, Inc. - Common Stock (BCRX) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-07-10",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf",
+      "late": true,
+      "provenance": "both"
+    },
+    {
+      "memberId": "C001123",
+      "assetRaw": "Ducommun Incorporated Common Stock (DCO) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-07-10",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf",
+      "late": true,
+      "provenance": "both"
+    },
+    {
+      "memberId": "C001123",
+      "assetRaw": "Enerpac Tool Group Corp. Common Stock (EPAC) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-07-10",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf",
+      "late": true,
+      "provenance": "both"
+    },
+    {
+      "memberId": "C001123",
+      "assetRaw": "HealthEquity, Inc. - Common Stock (HQY) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-07-10",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf",
+      "late": true,
+      "provenance": "both"
+    },
+    {
+      "memberId": "C001123",
+      "assetRaw": "Horace Mann Educators Corporation Common Stock (HMN) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-07-10",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf",
+      "late": true,
+      "provenance": "both"
+    },
+    {
+      "memberId": "C001123",
+      "assetRaw": "Independence Realty Trust, Inc. Common Stock (IRT) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-07-10",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf",
+      "late": true,
+      "provenance": "both"
+    },
+    {
+      "memberId": "C001123",
+      "assetRaw": "Minerals Technologies Inc. Common Stock (MTX) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-07-10",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf",
+      "late": true,
+      "provenance": "both"
+    },
+    {
+      "memberId": "C001123",
+      "assetRaw": "National Health Investors, Inc. Common Stock (NHI) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-07-10",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf",
+      "late": true,
+      "provenance": "both"
+    },
+    {
+      "memberId": "C001123",
+      "assetRaw": "Skyward Specialty Insurance Group, Inc. - Common Stock (SKWD) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-07-10",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf",
+      "late": true,
+      "provenance": "both"
+    },
+    {
+      "memberId": "C001123",
+      "assetRaw": "Stifel Financial Corporation Common Stock (SF) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-07-10",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf",
+      "late": true,
+      "provenance": "both"
+    },
+    {
+      "memberId": "C001123",
+      "assetRaw": "The Vita Coco Company, Inc. - Common Stock (COCO) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-07-10",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf",
+      "late": true,
+      "provenance": "both"
+    },
+    {
+      "memberId": "C001123",
+      "assetRaw": "AeroVironment, Inc. - Common Stock (AVAV) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-07-02",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf",
+      "late": true,
+      "provenance": "both"
+    },
+    {
+      "memberId": "C001123",
+      "assetRaw": "Credo Technology Group Holding Ltd - Ordinary Shares (CRDO) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-07-02",
+      "filedDate": "2026-09-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf",
+      "late": true,
+      "provenance": "both"
+    },
     {
       "memberId": "C001123",
       "assetRaw": "Argan, Inc. Common Stock (AGX) [ST]",
@@ -57763,15 +59320,275 @@
     {
       "date": "2026-06-30",
       "value": 8000.5
+    },
+    {
+      "date": "2026-07-02",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-07-02",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-07-10",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-07-10",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-07-10",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-07-10",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-07-10",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-07-10",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-07-10",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-07-10",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-07-10",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-07-10",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-07-10",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-07-10",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-07-10",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-07-16",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-07-16",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-07-16",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-07-16",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-07-16",
+      "value": 32500.5
+    },
+    {
+      "date": "2026-07-16",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-07-16",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-07-16",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-07-16",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-07-16",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-07-16",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-07-16",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-07-16",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-07-16",
+      "value": 32500.5
+    },
+    {
+      "date": "2026-07-16",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-07-16",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-07-17",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-07-17",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-07-17",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-07-17",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-07-17",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-07-17",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-07-17",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-07-17",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-07-17",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-07-17",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-07-17",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-07-17",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-07-17",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-07-17",
+      "value": 32500.5
+    },
+    {
+      "date": "2026-07-17",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-07-17",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-07-17",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-07-17",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-07-17",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-07-17",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-07-17",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-07-17",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-07-17",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-07-21",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-07-21",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-07-21",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-07-21",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-07-21",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-07-24",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-07-24",
+      "value": 175000.5
+    },
+    {
+      "date": "2026-07-30",
+      "value": 32500.5
+    },
+    {
+      "date": "2026-07-30",
+      "value": 32500.5
+    },
+    {
+      "date": "2026-07-30",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-07-31",
+      "value": 32500.5
     }
   ],
   "measured": {
-    "return": 83.9,
-    "excess": 10.4,
+    "return": 81.7,
+    "excess": 10.2,
     "method": "midpoint",
     "benchmark": "SPY",
-    "window": "disclosed buys 2019-01-18 to 2026-06-30, since-trade, midpoint-weighted",
-    "asOf": "2026-09-07",
-    "note": "Estimate: position sizes are disclosed-range midpoints, never exact amounts. 154 unpriceable position(s) excluded (options or no resolvable price)."
+    "window": "disclosed buys 2019-01-18 to 2026-07-31, since-trade, midpoint-weighted",
+    "asOf": "2026-09-08",
+    "note": "Estimate: position sizes are disclosed-range midpoints, never exact amounts. 155 unpriceable position(s) excluded (options or no resolvable price)."
   }
 }
