@@ -9715,8 +9715,26 @@
       "D": 1,
       "I": 0
     },
-    "latestBuyDate": "2026-08-11",
+    "latestBuyDate": "2026-08-17",
     "owners": [
+      {
+        "memberId": "D000399",
+        "name": "Lloyd Doggett",
+        "party": "D",
+        "chamber": "house",
+        "state": "TX",
+        "active": true,
+        "buyDates": [
+          "2026-08-17",
+          "2026-05-15",
+          "2026-02-17"
+        ],
+        "latestRange": {
+          "lo": 3003,
+          "hi": 45000
+        },
+        "status": "holds"
+      },
       {
         "memberId": "T000490",
         "name": "David J. Taylor",
@@ -9729,23 +9747,6 @@
           "2026-04-27",
           "2026-02-09",
           "2026-01-09"
-        ],
-        "latestRange": {
-          "lo": 2002,
-          "hi": 30000
-        },
-        "status": "holds"
-      },
-      {
-        "memberId": "D000399",
-        "name": "Lloyd Doggett",
-        "party": "D",
-        "chamber": "house",
-        "state": "TX",
-        "active": true,
-        "buyDates": [
-          "2026-05-15",
-          "2026-02-17"
         ],
         "latestRange": {
           "lo": 2002,

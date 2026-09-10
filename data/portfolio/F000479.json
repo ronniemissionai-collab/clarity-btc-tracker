@@ -37,6 +37,22 @@
   "trades": [
     {
       "memberId": "F000479",
+      "assetRaw": "TRANSCANADA PIPELINES LTD SER 2026-A",
+      "security": null,
+      "side": "buy",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-18",
+      "filedDate": "2026-09-09",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/a0431e36-2161-4e97-b99a-74a966d7193a/",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "F000479",
       "assetRaw": "Freeport McMoran",
       "security": null,
       "side": "sell",
@@ -1921,6 +1937,10 @@
     },
     {
       "date": "2026-07-24",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-18",
       "value": 8000.5
     }
   ],

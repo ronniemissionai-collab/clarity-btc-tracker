@@ -59,6 +59,141 @@
   "trades": [
     {
       "memberId": "B001288",
+      "assetRaw": "webAI, Inc.",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2026-08-18",
+      "filedDate": "2026-09-09",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/e5144197-e49c-4f74-bec4-19f1f3124668/",
+      "late": false,
+      "note": "full sale",
+      "provenance": "both"
+    },
+    {
+      "memberId": "B001288",
+      "assetRaw": "Alnylam Pharmaceuticals, Inc. - Common Stock",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-11",
+      "filedDate": "2026-09-09",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/e5144197-e49c-4f74-bec4-19f1f3124668/",
+      "late": false,
+      "note": "full sale",
+      "provenance": "both"
+    },
+    {
+      "memberId": "B001288",
+      "assetRaw": "Amazon.com, Inc. - Common Stock",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2026-08-11",
+      "filedDate": "2026-09-09",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/e5144197-e49c-4f74-bec4-19f1f3124668/",
+      "late": false,
+      "note": "full sale",
+      "provenance": "both"
+    },
+    {
+      "memberId": "B001288",
+      "assetRaw": "JD.com, Inc. - American Depositary Shares",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-11",
+      "filedDate": "2026-09-09",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/e5144197-e49c-4f74-bec4-19f1f3124668/",
+      "late": false,
+      "note": "full sale",
+      "provenance": "both"
+    },
+    {
+      "memberId": "B001288",
+      "assetRaw": "McDonald&#x27;s Corporation Common Stock",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2026-08-11",
+      "filedDate": "2026-09-09",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/e5144197-e49c-4f74-bec4-19f1f3124668/",
+      "late": false,
+      "note": "full sale",
+      "provenance": "official"
+    },
+    {
+      "memberId": "B001288",
+      "assetRaw": "McDonald's Corporation Common Stock",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2026-08-11",
+      "filedDate": "2026-09-09",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/e5144197-e49c-4f74-bec4-19f1f3124668/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "B001288",
+      "assetRaw": "NVIDIA Corporation - Common Stock",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2026-08-11",
+      "filedDate": "2026-09-09",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/e5144197-e49c-4f74-bec4-19f1f3124668/",
+      "late": false,
+      "note": "full sale",
+      "provenance": "both"
+    },
+    {
+      "memberId": "B001288",
+      "assetRaw": "Netflix, Inc. - Common Stock",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-11",
+      "filedDate": "2026-09-09",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/e5144197-e49c-4f74-bec4-19f1f3124668/",
+      "late": false,
+      "note": "full sale",
+      "provenance": "both"
+    },
+    {
+      "memberId": "B001288",
       "assetRaw": "Amazon.com Inc. (NASDAQ)",
       "security": null,
       "side": "sell",
@@ -298,6 +433,38 @@
     {
       "date": "2014-08-08",
       "value": 8000.5
+    },
+    {
+      "date": "2026-08-11",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-11",
+      "value": 175000.5
+    },
+    {
+      "date": "2026-08-11",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-11",
+      "value": 32500.5
+    },
+    {
+      "date": "2026-08-11",
+      "value": 32500.5
+    },
+    {
+      "date": "2026-08-11",
+      "value": 32500.5
+    },
+    {
+      "date": "2026-08-11",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-18",
+      "value": 75000.5
     }
   ],
   "measured": null

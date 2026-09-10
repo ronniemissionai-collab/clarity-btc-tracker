@@ -193,11 +193,11 @@
       },
       "owner": "self",
       "range": {
-        "lo": 2002,
-        "hi": 30000
+        "lo": 3003,
+        "hi": 45000
       },
       "status": "holds",
-      "asOf": "2026-05-15",
+      "asOf": "2026-08-17",
       "extraction": "pdf-text",
       "verification": "unverified",
       "sources": [
@@ -208,6 +208,10 @@
         {
           "kind": "filing",
           "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034712.pdf"
+        },
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035401.pdf"
         }
       ]
     },
@@ -243,6 +247,22 @@
     }
   ],
   "trades": [
+    {
+      "memberId": "D000399",
+      "assetRaw": "Procter & Gamble Company (PG) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-17",
+      "filedDate": "2026-09-08",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035401.pdf",
+      "late": false,
+      "provenance": "both"
+    },
     {
       "memberId": "D000399",
       "assetRaw": "Coca-Cola Company (KO) [ST]",
@@ -3667,6 +3687,10 @@
     },
     {
       "date": "2026-07-01",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-17",
       "value": 8000.5
     }
   ],
