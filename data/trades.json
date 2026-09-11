@@ -19,6 +19,25 @@
     "provenance": "kadoa"
   },
   {
+    "memberId": "S000168",
+    "assetRaw": "Space Exploration Technologies Corp. - Class A Common Stock (SPCX) [ST]",
+    "security": {
+      "ticker": "SPCX",
+      "kind": "treasury"
+    },
+    "side": "buy",
+    "owner": "self",
+    "range": {
+      "lo": 1001,
+      "hi": 15000
+    },
+    "transactionDate": "2026-08-12",
+    "filedDate": "2026-09-09",
+    "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035411.pdf",
+    "late": false,
+    "provenance": "official"
+  },
+  {
     "memberId": "K000389",
     "assetRaw": "TESLA INC CMN",
     "security": {

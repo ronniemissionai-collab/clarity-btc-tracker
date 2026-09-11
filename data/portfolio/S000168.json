@@ -117,17 +117,21 @@
       },
       "owner": "self",
       "range": {
-        "lo": 16002,
-        "hi": 65000
+        "lo": 17003,
+        "hi": 80000
       },
       "status": "holds",
-      "asOf": "2026-07-28",
+      "asOf": "2026-08-07",
       "extraction": "pdf-text",
       "verification": "unverified",
       "sources": [
         {
           "kind": "filing",
           "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035138.pdf"
+        },
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035411.pdf"
         }
       ]
     },
@@ -187,14 +191,18 @@
         "lo": 15001,
         "hi": 50000
       },
-      "status": "holds",
-      "asOf": "2026-07-01",
+      "status": "sold",
+      "asOf": "2026-08-19",
       "extraction": "pdf-text",
       "verification": "unverified",
       "sources": [
         {
           "kind": "filing",
           "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035138.pdf"
+        },
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035411.pdf"
         }
       ]
     },
@@ -386,19 +394,24 @@
       },
       "owner": "self",
       "range": {
-        "lo": 15001,
-        "hi": 50000
+        "lo": 1,
+        "hi": 48999
       },
       "status": "holds",
-      "asOf": "2026-05-21",
+      "asOf": "2026-08-24",
       "extraction": "pdf-text",
       "verification": "unverified",
       "sources": [
         {
           "kind": "filing",
           "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034709.pdf"
+        },
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035411.pdf"
         }
-      ]
+      ],
+      "note": "partial sale 2026-08-24"
     },
     {
       "memberId": "S000168",
@@ -421,6 +434,51 @@
           "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20022596.pdf"
         }
       ]
+    },
+    {
+      "memberId": "S000168",
+      "security": {
+        "ticker": "MRK",
+        "kind": "other"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "status": "holds",
+      "asOf": "2026-08-19",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035411.pdf"
+        }
+      ]
+    },
+    {
+      "memberId": "S000168",
+      "security": {
+        "ticker": "MRNA",
+        "kind": "other"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 0,
+        "hi": 13999
+      },
+      "status": "holds",
+      "asOf": "2026-08-19",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035411.pdf"
+        }
+      ],
+      "note": "partial sale 2026-08-19"
     },
     {
       "memberId": "S000168",
@@ -518,19 +576,20 @@
       },
       "owner": "self",
       "range": {
-        "lo": 16002,
-        "hi": 65000
+        "lo": 1001,
+        "hi": 15000
       },
-      "status": "holds",
-      "asOf": "2026-05-13",
+      "status": "sold",
+      "asOf": "2026-08-19",
       "extraction": "pdf-text",
       "verification": "unverified",
       "sources": [
         {
           "kind": "filing",
-          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034709.pdf"
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035411.pdf"
         }
-      ]
+      ],
+      "note": "sale reported by PTR with no annual baseline in our coverage"
     },
     {
       "memberId": "S000168",
@@ -577,6 +636,28 @@
         {
           "kind": "filing",
           "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034709.pdf"
+        }
+      ]
+    },
+    {
+      "memberId": "S000168",
+      "security": {
+        "ticker": "SPCX",
+        "kind": "treasury"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "holds",
+      "asOf": "2026-08-12",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035411.pdf"
         }
       ]
     },
@@ -730,6 +811,155 @@
     }
   ],
   "trades": [
+    {
+      "memberId": "S000168",
+      "assetRaw": "International Business Machines Corporation Common Stock (IBM) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-24",
+      "filedDate": "2026-09-09",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035411.pdf",
+      "late": false,
+      "note": "partial sale",
+      "provenance": "official"
+    },
+    {
+      "memberId": "S000168",
+      "assetRaw": "Chubb Limited Common Stock (CB) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2026-08-19",
+      "filedDate": "2026-09-09",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035411.pdf",
+      "late": false,
+      "provenance": "official"
+    },
+    {
+      "memberId": "S000168",
+      "assetRaw": "Merck & Company, Inc. Common Stock (MRK) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2026-08-19",
+      "filedDate": "2026-09-09",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035411.pdf",
+      "late": false,
+      "provenance": "official"
+    },
+    {
+      "memberId": "S000168",
+      "assetRaw": "Moderna, Inc. - Common Stock (MRNA) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-19",
+      "filedDate": "2026-09-09",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035411.pdf",
+      "late": false,
+      "note": "partial sale",
+      "provenance": "official"
+    },
+    {
+      "memberId": "S000168",
+      "assetRaw": "Moderna, Inc. - Common Stock (MRNA) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-19",
+      "filedDate": "2026-09-09",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035411.pdf",
+      "late": false,
+      "provenance": "official"
+    },
+    {
+      "memberId": "S000168",
+      "assetRaw": "QUALCOMM Incorporated - Common Stock (QCOM) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-19",
+      "filedDate": "2026-09-09",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035411.pdf",
+      "late": false,
+      "provenance": "official"
+    },
+    {
+      "memberId": "S000168",
+      "assetRaw": "QUALCOMM Incorporated - Common Stock (QCOM) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-12",
+      "filedDate": "2026-09-09",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035411.pdf",
+      "late": false,
+      "provenance": "official"
+    },
+    {
+      "memberId": "S000168",
+      "assetRaw": "Space Exploration Technologies Corp. - Class A Common Stock (SPCX) [ST]",
+      "security": {
+        "ticker": "SPCX",
+        "kind": "treasury"
+      },
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-12",
+      "filedDate": "2026-09-09",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035411.pdf",
+      "late": false,
+      "provenance": "official"
+    },
+    {
+      "memberId": "S000168",
+      "assetRaw": "Berkshire Hathaway Inc. New Common Stock (BRK.B) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-07",
+      "filedDate": "2026-09-09",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035411.pdf",
+      "late": false,
+      "provenance": "official"
+    },
     {
       "memberId": "S000168",
       "assetRaw": "Berkshire Hathaway Inc. New Common Stock (BRK.B) [ST]",
@@ -2615,6 +2845,42 @@
     },
     {
       "date": "2026-07-28",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-07",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-12",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-12",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-19",
+      "value": 32500.5
+    },
+    {
+      "date": "2026-08-19",
+      "value": 32500.5
+    },
+    {
+      "date": "2026-08-19",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-19",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-19",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-24",
       "value": 8000.5
     }
   ],

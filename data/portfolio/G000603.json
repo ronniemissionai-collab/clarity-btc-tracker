@@ -70,6 +70,22 @@
   "trades": [
     {
       "memberId": "G000603",
+      "assetRaw": "RSP ETF [OT]",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2026-08-13",
+      "filedDate": "2026-09-09",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035410.pdf",
+      "late": false,
+      "provenance": "official"
+    },
+    {
+      "memberId": "G000603",
       "assetRaw": "iShares Bitcoin Trust ETF",
       "security": {
         "ticker": "IBIT",
@@ -525,6 +541,10 @@
     {
       "date": "2025-10-29",
       "value": 32500.5
+    },
+    {
+      "date": "2026-08-13",
+      "value": 75000.5
     }
   ],
   "measured": null
