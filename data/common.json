@@ -10,7 +10,7 @@
       "D": 9,
       "I": 0
     },
-    "latestBuyDate": "2026-07-24",
+    "latestBuyDate": "2026-08-18",
     "owners": [
       {
         "memberId": "C001123",
@@ -20,13 +20,14 @@
         "state": "CA",
         "active": true,
         "buyDates": [
+          "2026-08-18",
           "2026-07-17",
           "2026-05-15",
           "2026-03-13"
         ],
         "latestRange": {
-          "lo": 15002,
-          "hi": 169998
+          "lo": 30003,
+          "hi": 219998
         },
         "status": "holds"
       },
@@ -858,8 +859,8 @@
           "2020-12-22"
         ],
         "latestRange": {
-          "lo": 2002,
-          "hi": 74999
+          "lo": 0,
+          "hi": 73998
         },
         "status": "holds"
       },
@@ -3354,8 +3355,8 @@
           "2026-01-30"
         ],
         "latestRange": {
-          "lo": 1001,
-          "hi": 15000
+          "lo": 0,
+          "hi": 13999
         },
         "status": "holds"
       },
@@ -3451,8 +3452,8 @@
           "2026-01-30"
         ],
         "latestRange": {
-          "lo": 1001,
-          "hi": 42998
+          "lo": 0,
+          "hi": 41997
         },
         "status": "holds"
       },
@@ -4539,8 +4540,8 @@
           "2026-02-10"
         ],
         "latestRange": {
-          "lo": 19005,
-          "hi": 123999
+          "lo": 4005,
+          "hi": 122998
         },
         "status": "holds"
       },
@@ -4828,6 +4829,202 @@
         "buyDates": [
           "2025-09-23"
         ],
+        "latestRange": {
+          "lo": 1001,
+          "hi": 15000
+        },
+        "status": "sold"
+      }
+    ]
+  },
+  {
+    "security": {
+      "ticker": "IBM",
+      "kind": "other"
+    },
+    "ownersCount": 5,
+    "partySplit": {
+      "R": 2,
+      "D": 3,
+      "I": 0
+    },
+    "latestBuyDate": "2026-08-18",
+    "owners": [
+      {
+        "memberId": "C001123",
+        "name": "Gil Cisneros",
+        "party": "D",
+        "chamber": "house",
+        "state": "CA",
+        "active": true,
+        "buyDates": [
+          "2026-08-18",
+          "2026-04-14",
+          "2025-12-19"
+        ],
+        "latestRange": {
+          "lo": 1001,
+          "hi": 15000
+        },
+        "status": "holds"
+      },
+      {
+        "memberId": "D000399",
+        "name": "Lloyd Doggett",
+        "party": "D",
+        "chamber": "house",
+        "state": "TX",
+        "active": true,
+        "buyDates": [
+          "2026-06-10",
+          "2026-03-10",
+          "2025-12-12",
+          "2020-03-11",
+          "2019-12-10",
+          "2019-09-11",
+          "2019-06-11",
+          "2019-03-12",
+          "2018-12-11",
+          "2018-06-12"
+        ],
+        "latestRange": {
+          "lo": 10010,
+          "hi": 150000
+        },
+        "status": "holds"
+      },
+      {
+        "memberId": "S000168",
+        "name": "Maria Elvira Salazar",
+        "party": "R",
+        "chamber": "house",
+        "state": "FL",
+        "active": true,
+        "buyDates": [
+          "2026-05-21"
+        ],
+        "latestRange": {
+          "lo": 1,
+          "hi": 48999
+        },
+        "status": "holds"
+      },
+      {
+        "memberId": "L000595",
+        "name": "Julia Letlow",
+        "party": "R",
+        "chamber": "house",
+        "state": "LA",
+        "active": true,
+        "buyDates": [
+          "2026-02-02",
+          "2025-10-22"
+        ],
+        "latestRange": {
+          "lo": 2002,
+          "hi": 30000
+        },
+        "status": "holds"
+      },
+      {
+        "memberId": "D000624",
+        "name": "Debbie Dingell",
+        "party": "D",
+        "chamber": "house",
+        "state": "MI",
+        "active": true,
+        "buyDates": [
+          "2017-08-14"
+        ],
+        "latestRange": {
+          "lo": 1001,
+          "hi": 15000
+        },
+        "status": "stale"
+      },
+      {
+        "memberId": "T000490",
+        "name": "David J. Taylor",
+        "party": "R",
+        "chamber": "house",
+        "state": "OH",
+        "active": true,
+        "buyDates": [
+          "2026-01-08",
+          "2026-01-08"
+        ],
+        "latestRange": {
+          "lo": 15001,
+          "hi": 50000
+        },
+        "status": "sold"
+      },
+      {
+        "memberId": "S000250",
+        "name": "Pete Sessions",
+        "party": "R",
+        "chamber": "house",
+        "state": "TX",
+        "active": true,
+        "buyDates": [
+          "2013-04-22"
+        ],
+        "latestRange": {
+          "lo": 1001,
+          "hi": 15000
+        },
+        "status": "sold"
+      },
+      {
+        "memberId": "J000309",
+        "name": "Jonathan L. Jackson",
+        "party": "D",
+        "chamber": "house",
+        "state": "IL",
+        "active": true,
+        "buyDates": [],
+        "latestRange": {
+          "lo": 51002,
+          "hi": 115000
+        },
+        "status": "sold"
+      },
+      {
+        "memberId": "G000583",
+        "name": "Josh Gottheimer",
+        "party": "D",
+        "chamber": "house",
+        "state": "NJ",
+        "active": true,
+        "buyDates": [],
+        "latestRange": {
+          "lo": 1001,
+          "hi": 15000
+        },
+        "status": "sold"
+      },
+      {
+        "memberId": "J000310",
+        "name": "Julie Johnson",
+        "party": "D",
+        "chamber": "house",
+        "state": "TX",
+        "active": true,
+        "buyDates": [],
+        "latestRange": {
+          "lo": 1001,
+          "hi": 15000
+        },
+        "status": "sold"
+      },
+      {
+        "memberId": "V000139",
+        "name": "Matt Van Epps",
+        "party": "R",
+        "chamber": "house",
+        "state": "TN",
+        "active": true,
+        "buyDates": [],
         "latestRange": {
           "lo": 1001,
           "hi": 15000
@@ -5347,6 +5544,224 @@
   },
   {
     "security": {
+      "ticker": "WMT",
+      "kind": "other"
+    },
+    "ownersCount": 5,
+    "partySplit": {
+      "R": 1,
+      "D": 4,
+      "I": 0
+    },
+    "latestBuyDate": "2026-08-26",
+    "owners": [
+      {
+        "memberId": "C001123",
+        "name": "Gil Cisneros",
+        "party": "D",
+        "chamber": "house",
+        "state": "CA",
+        "active": true,
+        "buyDates": [
+          "2026-08-26"
+        ],
+        "latestRange": {
+          "lo": 1001,
+          "hi": 15000
+        },
+        "status": "holds"
+      },
+      {
+        "memberId": "J000309",
+        "name": "Jonathan L. Jackson",
+        "party": "D",
+        "chamber": "house",
+        "state": "IL",
+        "active": true,
+        "buyDates": [
+          "2026-01-13"
+        ],
+        "latestRange": {
+          "lo": 50001,
+          "hi": 100000
+        },
+        "status": "holds"
+      },
+      {
+        "memberId": "D000624",
+        "name": "Debbie Dingell",
+        "party": "D",
+        "chamber": "house",
+        "state": "MI",
+        "active": true,
+        "buyDates": [
+          "2018-02-22"
+        ],
+        "latestRange": {
+          "lo": 1001,
+          "hi": 15000
+        },
+        "status": "stale"
+      },
+      {
+        "memberId": "S000250",
+        "name": "Pete Sessions",
+        "party": "R",
+        "chamber": "house",
+        "state": "TX",
+        "active": true,
+        "buyDates": [
+          "2018-01-26",
+          "2017-01-27",
+          "2016-12-21"
+        ],
+        "latestRange": {
+          "lo": 3003,
+          "hi": 45000
+        },
+        "status": "stale"
+      },
+      {
+        "memberId": "L000397",
+        "name": "Zoe Lofgren",
+        "party": "D",
+        "chamber": "house",
+        "state": "CA",
+        "active": true,
+        "buyDates": [
+          "2017-06-15"
+        ],
+        "latestRange": {
+          "lo": 1001,
+          "hi": 15000
+        },
+        "status": "stale"
+      },
+      {
+        "memberId": "S001190",
+        "name": "Bradley Scott Schneider",
+        "party": "D",
+        "chamber": "house",
+        "state": "IL",
+        "active": true,
+        "buyDates": [],
+        "latestRange": {
+          "lo": 50001,
+          "hi": 100000
+        },
+        "status": "sold"
+      },
+      {
+        "memberId": "J000310",
+        "name": "Julie Johnson",
+        "party": "D",
+        "chamber": "house",
+        "state": "TX",
+        "active": true,
+        "buyDates": [],
+        "latestRange": {
+          "lo": 1001,
+          "hi": 15000
+        },
+        "status": "sold"
+      },
+      {
+        "memberId": "M001218",
+        "name": "Richard McCormick",
+        "party": "R",
+        "chamber": "house",
+        "state": "GA",
+        "active": true,
+        "buyDates": [],
+        "latestRange": {
+          "lo": 1001,
+          "hi": 15000
+        },
+        "status": "sold"
+      }
+    ]
+  },
+  {
+    "security": {
+      "ticker": "APH",
+      "kind": "other"
+    },
+    "ownersCount": 4,
+    "partySplit": {
+      "R": 1,
+      "D": 3,
+      "I": 0
+    },
+    "latestBuyDate": "2026-08-18",
+    "owners": [
+      {
+        "memberId": "C001123",
+        "name": "Gil Cisneros",
+        "party": "D",
+        "chamber": "house",
+        "state": "CA",
+        "active": true,
+        "buyDates": [
+          "2026-08-18"
+        ],
+        "latestRange": {
+          "lo": 1001,
+          "hi": 15000
+        },
+        "status": "holds"
+      },
+      {
+        "memberId": "N000189",
+        "name": "Dan Newhouse",
+        "party": "R",
+        "chamber": "house",
+        "state": "WA",
+        "active": true,
+        "buyDates": [
+          "2026-07-10"
+        ],
+        "latestRange": {
+          "lo": 1001,
+          "hi": 15000
+        },
+        "status": "holds"
+      },
+      {
+        "memberId": "L000560",
+        "name": "Rick Larsen",
+        "party": "D",
+        "chamber": "house",
+        "state": "WA",
+        "active": true,
+        "buyDates": [
+          "2026-07-08"
+        ],
+        "latestRange": {
+          "lo": 1001,
+          "hi": 15000
+        },
+        "status": "holds"
+      },
+      {
+        "memberId": "L000397",
+        "name": "Zoe Lofgren",
+        "party": "D",
+        "chamber": "house",
+        "state": "CA",
+        "active": true,
+        "buyDates": [
+          "2017-06-15"
+        ],
+        "latestRange": {
+          "lo": 1001,
+          "hi": 15000
+        },
+        "status": "stale"
+      }
+    ]
+  },
+  {
+    "security": {
       "ticker": "BA",
       "kind": "other"
     },
@@ -5809,149 +6224,6 @@
   },
   {
     "security": {
-      "ticker": "COIN",
-      "kind": "exchange"
-    },
-    "name": "Coinbase Global, Inc.",
-    "ownersCount": 4,
-    "partySplit": {
-      "R": 2,
-      "D": 2,
-      "I": 0
-    },
-    "latestBuyDate": "2026-07-17",
-    "owners": [
-      {
-        "memberId": "C001123",
-        "name": "Gil Cisneros",
-        "party": "D",
-        "chamber": "house",
-        "state": "CA",
-        "active": true,
-        "buyDates": [
-          "2026-07-17",
-          "2026-04-14",
-          "2026-01-30",
-          "2025-11-18",
-          "2025-10-17",
-          "2025-10-09"
-        ],
-        "latestRange": {
-          "lo": 1001,
-          "hi": 15000
-        },
-        "status": "holds"
-      },
-      {
-        "memberId": "A000383",
-        "name": "Alan Armstrong",
-        "party": "R",
-        "chamber": "senate",
-        "state": "OK",
-        "active": true,
-        "buyDates": [
-          "2026-03-27"
-        ],
-        "latestRange": {
-          "lo": 1001,
-          "hi": 15000
-        },
-        "status": "holds"
-      },
-      {
-        "memberId": "B001327",
-        "name": "Robert P. Bresnahan, Jr.",
-        "party": "R",
-        "chamber": "house",
-        "state": "PA",
-        "active": true,
-        "buyDates": [
-          "2025-06-24"
-        ],
-        "latestRange": {
-          "lo": 1001,
-          "hi": 15000
-        },
-        "status": "stale"
-      },
-      {
-        "memberId": "F000479",
-        "name": "John Fetterman",
-        "party": "D",
-        "chamber": "senate",
-        "state": "PA",
-        "active": true,
-        "buyDates": [],
-        "latestRange": {
-          "lo": 1001,
-          "hi": 15000
-        },
-        "status": "holds"
-      },
-      {
-        "memberId": "M001236",
-        "name": "Tim Moore",
-        "party": "R",
-        "chamber": "house",
-        "state": "NC",
-        "active": true,
-        "buyDates": [
-          "2025-09-11"
-        ],
-        "latestRange": {
-          "lo": 15001,
-          "hi": 50000
-        },
-        "status": "sold"
-      },
-      {
-        "memberId": "S001229",
-        "name": "Jefferson Shreve",
-        "party": "R",
-        "chamber": "house",
-        "state": "IN",
-        "active": true,
-        "buyDates": [
-          "2025-05-08"
-        ],
-        "latestRange": {
-          "lo": 15001,
-          "hi": 50000
-        },
-        "status": "sold"
-      },
-      {
-        "memberId": "G000599",
-        "name": "Daniel S. Goldman",
-        "party": "D",
-        "chamber": "house",
-        "state": "NY",
-        "active": true,
-        "buyDates": [],
-        "latestRange": {
-          "lo": 1001,
-          "hi": 15000
-        },
-        "status": "sold"
-      },
-      {
-        "memberId": "T000488",
-        "name": "Shri Thanedar",
-        "party": "D",
-        "chamber": "house",
-        "state": "MI",
-        "active": true,
-        "buyDates": [],
-        "latestRange": {
-          "lo": 1001,
-          "hi": 15000
-        },
-        "status": "sold"
-      }
-    ]
-  },
-  {
-    "security": {
       "ticker": "CSCO",
       "kind": "other"
     },
@@ -6393,201 +6665,6 @@
         "latestRange": {
           "lo": 2002,
           "hi": 30000
-        },
-        "status": "sold"
-      },
-      {
-        "memberId": "V000139",
-        "name": "Matt Van Epps",
-        "party": "R",
-        "chamber": "house",
-        "state": "TN",
-        "active": true,
-        "buyDates": [],
-        "latestRange": {
-          "lo": 1001,
-          "hi": 15000
-        },
-        "status": "sold"
-      }
-    ]
-  },
-  {
-    "security": {
-      "ticker": "IBM",
-      "kind": "other"
-    },
-    "ownersCount": 4,
-    "partySplit": {
-      "R": 2,
-      "D": 2,
-      "I": 0
-    },
-    "latestBuyDate": "2026-06-10",
-    "owners": [
-      {
-        "memberId": "D000399",
-        "name": "Lloyd Doggett",
-        "party": "D",
-        "chamber": "house",
-        "state": "TX",
-        "active": true,
-        "buyDates": [
-          "2026-06-10",
-          "2026-03-10",
-          "2025-12-12",
-          "2020-03-11",
-          "2019-12-10",
-          "2019-09-11",
-          "2019-06-11",
-          "2019-03-12",
-          "2018-12-11",
-          "2018-06-12"
-        ],
-        "latestRange": {
-          "lo": 10010,
-          "hi": 150000
-        },
-        "status": "holds"
-      },
-      {
-        "memberId": "S000168",
-        "name": "Maria Elvira Salazar",
-        "party": "R",
-        "chamber": "house",
-        "state": "FL",
-        "active": true,
-        "buyDates": [
-          "2026-05-21"
-        ],
-        "latestRange": {
-          "lo": 1,
-          "hi": 48999
-        },
-        "status": "holds"
-      },
-      {
-        "memberId": "L000595",
-        "name": "Julia Letlow",
-        "party": "R",
-        "chamber": "house",
-        "state": "LA",
-        "active": true,
-        "buyDates": [
-          "2026-02-02",
-          "2025-10-22"
-        ],
-        "latestRange": {
-          "lo": 2002,
-          "hi": 30000
-        },
-        "status": "holds"
-      },
-      {
-        "memberId": "D000624",
-        "name": "Debbie Dingell",
-        "party": "D",
-        "chamber": "house",
-        "state": "MI",
-        "active": true,
-        "buyDates": [
-          "2017-08-14"
-        ],
-        "latestRange": {
-          "lo": 1001,
-          "hi": 15000
-        },
-        "status": "stale"
-      },
-      {
-        "memberId": "C001123",
-        "name": "Gil Cisneros",
-        "party": "D",
-        "chamber": "house",
-        "state": "CA",
-        "active": true,
-        "buyDates": [
-          "2026-04-14",
-          "2025-12-19"
-        ],
-        "latestRange": {
-          "lo": 1001,
-          "hi": 15000
-        },
-        "status": "sold"
-      },
-      {
-        "memberId": "T000490",
-        "name": "David J. Taylor",
-        "party": "R",
-        "chamber": "house",
-        "state": "OH",
-        "active": true,
-        "buyDates": [
-          "2026-01-08",
-          "2026-01-08"
-        ],
-        "latestRange": {
-          "lo": 15001,
-          "hi": 50000
-        },
-        "status": "sold"
-      },
-      {
-        "memberId": "S000250",
-        "name": "Pete Sessions",
-        "party": "R",
-        "chamber": "house",
-        "state": "TX",
-        "active": true,
-        "buyDates": [
-          "2013-04-22"
-        ],
-        "latestRange": {
-          "lo": 1001,
-          "hi": 15000
-        },
-        "status": "sold"
-      },
-      {
-        "memberId": "J000309",
-        "name": "Jonathan L. Jackson",
-        "party": "D",
-        "chamber": "house",
-        "state": "IL",
-        "active": true,
-        "buyDates": [],
-        "latestRange": {
-          "lo": 51002,
-          "hi": 115000
-        },
-        "status": "sold"
-      },
-      {
-        "memberId": "G000583",
-        "name": "Josh Gottheimer",
-        "party": "D",
-        "chamber": "house",
-        "state": "NJ",
-        "active": true,
-        "buyDates": [],
-        "latestRange": {
-          "lo": 1001,
-          "hi": 15000
-        },
-        "status": "sold"
-      },
-      {
-        "memberId": "J000310",
-        "name": "Julie Johnson",
-        "party": "D",
-        "chamber": "house",
-        "state": "TX",
-        "active": true,
-        "buyDates": [],
-        "latestRange": {
-          "lo": 1001,
-          "hi": 15000
         },
         "status": "sold"
       },
@@ -7239,129 +7316,6 @@
   },
   {
     "security": {
-      "ticker": "WMT",
-      "kind": "other"
-    },
-    "ownersCount": 4,
-    "partySplit": {
-      "R": 1,
-      "D": 3,
-      "I": 0
-    },
-    "latestBuyDate": "2026-01-13",
-    "owners": [
-      {
-        "memberId": "J000309",
-        "name": "Jonathan L. Jackson",
-        "party": "D",
-        "chamber": "house",
-        "state": "IL",
-        "active": true,
-        "buyDates": [
-          "2026-01-13"
-        ],
-        "latestRange": {
-          "lo": 50001,
-          "hi": 100000
-        },
-        "status": "holds"
-      },
-      {
-        "memberId": "D000624",
-        "name": "Debbie Dingell",
-        "party": "D",
-        "chamber": "house",
-        "state": "MI",
-        "active": true,
-        "buyDates": [
-          "2018-02-22"
-        ],
-        "latestRange": {
-          "lo": 1001,
-          "hi": 15000
-        },
-        "status": "stale"
-      },
-      {
-        "memberId": "S000250",
-        "name": "Pete Sessions",
-        "party": "R",
-        "chamber": "house",
-        "state": "TX",
-        "active": true,
-        "buyDates": [
-          "2018-01-26",
-          "2017-01-27",
-          "2016-12-21"
-        ],
-        "latestRange": {
-          "lo": 3003,
-          "hi": 45000
-        },
-        "status": "stale"
-      },
-      {
-        "memberId": "L000397",
-        "name": "Zoe Lofgren",
-        "party": "D",
-        "chamber": "house",
-        "state": "CA",
-        "active": true,
-        "buyDates": [
-          "2017-06-15"
-        ],
-        "latestRange": {
-          "lo": 1001,
-          "hi": 15000
-        },
-        "status": "stale"
-      },
-      {
-        "memberId": "S001190",
-        "name": "Bradley Scott Schneider",
-        "party": "D",
-        "chamber": "house",
-        "state": "IL",
-        "active": true,
-        "buyDates": [],
-        "latestRange": {
-          "lo": 50001,
-          "hi": 100000
-        },
-        "status": "sold"
-      },
-      {
-        "memberId": "J000310",
-        "name": "Julie Johnson",
-        "party": "D",
-        "chamber": "house",
-        "state": "TX",
-        "active": true,
-        "buyDates": [],
-        "latestRange": {
-          "lo": 1001,
-          "hi": 15000
-        },
-        "status": "sold"
-      },
-      {
-        "memberId": "M001218",
-        "name": "Richard McCormick",
-        "party": "R",
-        "chamber": "house",
-        "state": "GA",
-        "active": true,
-        "buyDates": [],
-        "latestRange": {
-          "lo": 1001,
-          "hi": 15000
-        },
-        "status": "sold"
-      }
-    ]
-  },
-  {
-    "security": {
       "ticker": "ACN",
       "kind": "other"
     },
@@ -7515,69 +7469,6 @@
           "hi": 50000
         },
         "status": "sold"
-      }
-    ]
-  },
-  {
-    "security": {
-      "ticker": "APH",
-      "kind": "other"
-    },
-    "ownersCount": 3,
-    "partySplit": {
-      "R": 1,
-      "D": 2,
-      "I": 0
-    },
-    "latestBuyDate": "2026-07-10",
-    "owners": [
-      {
-        "memberId": "N000189",
-        "name": "Dan Newhouse",
-        "party": "R",
-        "chamber": "house",
-        "state": "WA",
-        "active": true,
-        "buyDates": [
-          "2026-07-10"
-        ],
-        "latestRange": {
-          "lo": 1001,
-          "hi": 15000
-        },
-        "status": "holds"
-      },
-      {
-        "memberId": "L000560",
-        "name": "Rick Larsen",
-        "party": "D",
-        "chamber": "house",
-        "state": "WA",
-        "active": true,
-        "buyDates": [
-          "2026-07-08"
-        ],
-        "latestRange": {
-          "lo": 1001,
-          "hi": 15000
-        },
-        "status": "holds"
-      },
-      {
-        "memberId": "L000397",
-        "name": "Zoe Lofgren",
-        "party": "D",
-        "chamber": "house",
-        "state": "CA",
-        "active": true,
-        "buyDates": [
-          "2017-06-15"
-        ],
-        "latestRange": {
-          "lo": 1001,
-          "hi": 15000
-        },
-        "status": "stale"
       }
     ]
   },
@@ -7949,6 +7840,149 @@
   },
   {
     "security": {
+      "ticker": "COIN",
+      "kind": "exchange"
+    },
+    "name": "Coinbase Global, Inc.",
+    "ownersCount": 3,
+    "partySplit": {
+      "R": 2,
+      "D": 1,
+      "I": 0
+    },
+    "latestBuyDate": "2026-07-17",
+    "owners": [
+      {
+        "memberId": "A000383",
+        "name": "Alan Armstrong",
+        "party": "R",
+        "chamber": "senate",
+        "state": "OK",
+        "active": true,
+        "buyDates": [
+          "2026-03-27"
+        ],
+        "latestRange": {
+          "lo": 1001,
+          "hi": 15000
+        },
+        "status": "holds"
+      },
+      {
+        "memberId": "B001327",
+        "name": "Robert P. Bresnahan, Jr.",
+        "party": "R",
+        "chamber": "house",
+        "state": "PA",
+        "active": true,
+        "buyDates": [
+          "2025-06-24"
+        ],
+        "latestRange": {
+          "lo": 1001,
+          "hi": 15000
+        },
+        "status": "stale"
+      },
+      {
+        "memberId": "F000479",
+        "name": "John Fetterman",
+        "party": "D",
+        "chamber": "senate",
+        "state": "PA",
+        "active": true,
+        "buyDates": [],
+        "latestRange": {
+          "lo": 1001,
+          "hi": 15000
+        },
+        "status": "holds"
+      },
+      {
+        "memberId": "C001123",
+        "name": "Gil Cisneros",
+        "party": "D",
+        "chamber": "house",
+        "state": "CA",
+        "active": true,
+        "buyDates": [
+          "2026-07-17",
+          "2026-04-14",
+          "2026-01-30",
+          "2025-11-18",
+          "2025-10-17",
+          "2025-10-09"
+        ],
+        "latestRange": {
+          "lo": 1001,
+          "hi": 15000
+        },
+        "status": "sold"
+      },
+      {
+        "memberId": "M001236",
+        "name": "Tim Moore",
+        "party": "R",
+        "chamber": "house",
+        "state": "NC",
+        "active": true,
+        "buyDates": [
+          "2025-09-11"
+        ],
+        "latestRange": {
+          "lo": 15001,
+          "hi": 50000
+        },
+        "status": "sold"
+      },
+      {
+        "memberId": "S001229",
+        "name": "Jefferson Shreve",
+        "party": "R",
+        "chamber": "house",
+        "state": "IN",
+        "active": true,
+        "buyDates": [
+          "2025-05-08"
+        ],
+        "latestRange": {
+          "lo": 15001,
+          "hi": 50000
+        },
+        "status": "sold"
+      },
+      {
+        "memberId": "G000599",
+        "name": "Daniel S. Goldman",
+        "party": "D",
+        "chamber": "house",
+        "state": "NY",
+        "active": true,
+        "buyDates": [],
+        "latestRange": {
+          "lo": 1001,
+          "hi": 15000
+        },
+        "status": "sold"
+      },
+      {
+        "memberId": "T000488",
+        "name": "Shri Thanedar",
+        "party": "D",
+        "chamber": "house",
+        "state": "MI",
+        "active": true,
+        "buyDates": [],
+        "latestRange": {
+          "lo": 1001,
+          "hi": 15000
+        },
+        "status": "sold"
+      }
+    ]
+  },
+  {
+    "security": {
       "ticker": "COST",
       "kind": "other"
     },
@@ -8267,6 +8301,113 @@
   },
   {
     "security": {
+      "ticker": "ETN",
+      "kind": "other"
+    },
+    "ownersCount": 3,
+    "partySplit": {
+      "R": 1,
+      "D": 2,
+      "I": 0
+    },
+    "latestBuyDate": "2026-08-27",
+    "owners": [
+      {
+        "memberId": "C001123",
+        "name": "Gil Cisneros",
+        "party": "D",
+        "chamber": "house",
+        "state": "CA",
+        "active": true,
+        "buyDates": [
+          "2026-08-27"
+        ],
+        "latestRange": {
+          "lo": 15001,
+          "hi": 50000
+        },
+        "status": "holds"
+      },
+      {
+        "memberId": "W000798",
+        "name": "Tim Walberg",
+        "party": "R",
+        "chamber": "house",
+        "state": "MI",
+        "active": true,
+        "buyDates": [
+          "2025-02-07"
+        ],
+        "latestRange": {
+          "lo": 15001,
+          "hi": 50000
+        },
+        "status": "stale"
+      },
+      {
+        "memberId": "F000462",
+        "name": "Lois Frankel",
+        "party": "D",
+        "chamber": "house",
+        "state": "FL",
+        "active": true,
+        "buyDates": [
+          "2016-03-10"
+        ],
+        "latestRange": {
+          "lo": 1001,
+          "hi": 15000
+        },
+        "status": "stale"
+      },
+      {
+        "memberId": "T000490",
+        "name": "David J. Taylor",
+        "party": "R",
+        "chamber": "house",
+        "state": "OH",
+        "active": true,
+        "buyDates": [
+          "2026-01-16"
+        ],
+        "latestRange": {
+          "lo": 1001,
+          "hi": 15000
+        },
+        "status": "sold"
+      },
+      {
+        "memberId": "J000310",
+        "name": "Julie Johnson",
+        "party": "D",
+        "chamber": "house",
+        "state": "TX",
+        "active": true,
+        "buyDates": [],
+        "latestRange": {
+          "lo": 1001,
+          "hi": 15000
+        },
+        "status": "sold"
+      },
+      {
+        "memberId": "C001101",
+        "name": "Katherine M. Clark",
+        "party": "D",
+        "chamber": "house",
+        "state": "MA",
+        "active": true,
+        "buyDates": [],
+        "latestRange": {
+          "lo": 1001,
+          "hi": 15000
+        },
+        "status": "sold"
+      }
+    ]
+  },
+  {
+    "security": {
       "ticker": "FB",
       "kind": "other"
     },
@@ -8533,6 +8674,99 @@
         "party": "R",
         "chamber": "house",
         "state": "OH",
+        "active": true,
+        "buyDates": [],
+        "latestRange": {
+          "lo": 1001,
+          "hi": 15000
+        },
+        "status": "sold"
+      }
+    ]
+  },
+  {
+    "security": {
+      "ticker": "GS",
+      "kind": "other"
+    },
+    "ownersCount": 3,
+    "partySplit": {
+      "R": 1,
+      "D": 2,
+      "I": 0
+    },
+    "latestBuyDate": "2026-08-26",
+    "owners": [
+      {
+        "memberId": "C001123",
+        "name": "Gil Cisneros",
+        "party": "D",
+        "chamber": "house",
+        "state": "CA",
+        "active": true,
+        "buyDates": [
+          "2026-08-26"
+        ],
+        "latestRange": {
+          "lo": 1001,
+          "hi": 15000
+        },
+        "status": "holds"
+      },
+      {
+        "memberId": "G000583",
+        "name": "Josh Gottheimer",
+        "party": "D",
+        "chamber": "house",
+        "state": "NJ",
+        "active": true,
+        "buyDates": [
+          "2026-04-16"
+        ],
+        "latestRange": {
+          "lo": 1001,
+          "hi": 15000
+        },
+        "status": "holds"
+      },
+      {
+        "memberId": "S000168",
+        "name": "Maria Elvira Salazar",
+        "party": "R",
+        "chamber": "house",
+        "state": "FL",
+        "active": true,
+        "buyDates": [
+          "2026-03-19"
+        ],
+        "latestRange": {
+          "lo": 15001,
+          "hi": 50000
+        },
+        "status": "holds"
+      },
+      {
+        "memberId": "L000595",
+        "name": "Julia Letlow",
+        "party": "R",
+        "chamber": "house",
+        "state": "LA",
+        "active": true,
+        "buyDates": [
+          "2024-10-23"
+        ],
+        "latestRange": {
+          "lo": 1001,
+          "hi": 15000
+        },
+        "status": "sold"
+      },
+      {
+        "memberId": "J000310",
+        "name": "Julie Johnson",
+        "party": "D",
+        "chamber": "house",
+        "state": "TX",
         "active": true,
         "buyDates": [],
         "latestRange": {
@@ -12483,97 +12717,6 @@
   },
   {
     "security": {
-      "ticker": "ETN",
-      "kind": "other"
-    },
-    "ownersCount": 2,
-    "partySplit": {
-      "R": 1,
-      "D": 1,
-      "I": 0
-    },
-    "latestBuyDate": "2026-01-16",
-    "owners": [
-      {
-        "memberId": "W000798",
-        "name": "Tim Walberg",
-        "party": "R",
-        "chamber": "house",
-        "state": "MI",
-        "active": true,
-        "buyDates": [
-          "2025-02-07"
-        ],
-        "latestRange": {
-          "lo": 15001,
-          "hi": 50000
-        },
-        "status": "stale"
-      },
-      {
-        "memberId": "F000462",
-        "name": "Lois Frankel",
-        "party": "D",
-        "chamber": "house",
-        "state": "FL",
-        "active": true,
-        "buyDates": [
-          "2016-03-10"
-        ],
-        "latestRange": {
-          "lo": 1001,
-          "hi": 15000
-        },
-        "status": "stale"
-      },
-      {
-        "memberId": "T000490",
-        "name": "David J. Taylor",
-        "party": "R",
-        "chamber": "house",
-        "state": "OH",
-        "active": true,
-        "buyDates": [
-          "2026-01-16"
-        ],
-        "latestRange": {
-          "lo": 1001,
-          "hi": 15000
-        },
-        "status": "sold"
-      },
-      {
-        "memberId": "J000310",
-        "name": "Julie Johnson",
-        "party": "D",
-        "chamber": "house",
-        "state": "TX",
-        "active": true,
-        "buyDates": [],
-        "latestRange": {
-          "lo": 1001,
-          "hi": 15000
-        },
-        "status": "sold"
-      },
-      {
-        "memberId": "C001101",
-        "name": "Katherine M. Clark",
-        "party": "D",
-        "chamber": "house",
-        "state": "MA",
-        "active": true,
-        "buyDates": [],
-        "latestRange": {
-          "lo": 1001,
-          "hi": 15000
-        },
-        "status": "sold"
-      }
-    ]
-  },
-  {
-    "security": {
       "ticker": "F",
       "kind": "other"
     },
@@ -13209,7 +13352,7 @@
       "D": 2,
       "I": 0
     },
-    "latestBuyDate": "2026-03-03",
+    "latestBuyDate": "2026-08-19",
     "owners": [
       {
         "memberId": "C001123",
@@ -13219,11 +13362,12 @@
         "state": "CA",
         "active": true,
         "buyDates": [
+          "2026-08-19",
           "2026-03-03"
         ],
         "latestRange": {
-          "lo": 1001,
-          "hi": 15000
+          "lo": 16002,
+          "hi": 65000
         },
         "status": "holds"
       },
@@ -13242,83 +13386,6 @@
           "hi": 15000
         },
         "status": "stale"
-      }
-    ]
-  },
-  {
-    "security": {
-      "ticker": "GS",
-      "kind": "other"
-    },
-    "ownersCount": 2,
-    "partySplit": {
-      "R": 1,
-      "D": 1,
-      "I": 0
-    },
-    "latestBuyDate": "2026-04-16",
-    "owners": [
-      {
-        "memberId": "G000583",
-        "name": "Josh Gottheimer",
-        "party": "D",
-        "chamber": "house",
-        "state": "NJ",
-        "active": true,
-        "buyDates": [
-          "2026-04-16"
-        ],
-        "latestRange": {
-          "lo": 1001,
-          "hi": 15000
-        },
-        "status": "holds"
-      },
-      {
-        "memberId": "S000168",
-        "name": "Maria Elvira Salazar",
-        "party": "R",
-        "chamber": "house",
-        "state": "FL",
-        "active": true,
-        "buyDates": [
-          "2026-03-19"
-        ],
-        "latestRange": {
-          "lo": 15001,
-          "hi": 50000
-        },
-        "status": "holds"
-      },
-      {
-        "memberId": "L000595",
-        "name": "Julia Letlow",
-        "party": "R",
-        "chamber": "house",
-        "state": "LA",
-        "active": true,
-        "buyDates": [
-          "2024-10-23"
-        ],
-        "latestRange": {
-          "lo": 1001,
-          "hi": 15000
-        },
-        "status": "sold"
-      },
-      {
-        "memberId": "J000310",
-        "name": "Julie Johnson",
-        "party": "D",
-        "chamber": "house",
-        "state": "TX",
-        "active": true,
-        "buyDates": [],
-        "latestRange": {
-          "lo": 1001,
-          "hi": 15000
-        },
-        "status": "sold"
       }
     ]
   },
@@ -14239,6 +14306,20 @@
         "latestRange": {
           "lo": 1001,
           "hi": 15000
+        },
+        "status": "sold"
+      },
+      {
+        "memberId": "C001123",
+        "name": "Gil Cisneros",
+        "party": "D",
+        "chamber": "house",
+        "state": "CA",
+        "active": true,
+        "buyDates": [],
+        "latestRange": {
+          "lo": 15001,
+          "hi": 50000
         },
         "status": "sold"
       }
@@ -16129,8 +16210,25 @@
       "D": 1,
       "I": 0
     },
-    "latestBuyDate": "2026-06-04",
+    "latestBuyDate": "2026-08-26",
     "owners": [
+      {
+        "memberId": "C001123",
+        "name": "Gil Cisneros",
+        "party": "D",
+        "chamber": "house",
+        "state": "CA",
+        "active": true,
+        "buyDates": [
+          "2026-08-26",
+          "2026-01-27"
+        ],
+        "latestRange": {
+          "lo": 16002,
+          "hi": 65000
+        },
+        "status": "holds"
+      },
       {
         "memberId": "K000398",
         "name": "Thomas H. Kean, Jr.",
@@ -16144,22 +16242,6 @@
         "latestRange": {
           "lo": 1001,
           "hi": 15000
-        },
-        "status": "holds"
-      },
-      {
-        "memberId": "C001123",
-        "name": "Gil Cisneros",
-        "party": "D",
-        "chamber": "house",
-        "state": "CA",
-        "active": true,
-        "buyDates": [
-          "2026-01-27"
-        ],
-        "latestRange": {
-          "lo": 15001,
-          "hi": 50000
         },
         "status": "holds"
       }

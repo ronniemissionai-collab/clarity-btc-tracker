@@ -265,8 +265,8 @@
       "lo": 1001,
       "hi": 15000
     },
-    "status": "holds",
-    "asOf": "2026-07-17",
+    "status": "sold",
+    "asOf": "2026-08-18",
     "extraction": "pdf-text",
     "verification": "corroborated",
     "sources": [
@@ -275,14 +275,18 @@
         "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf"
       },
       {
+        "kind": "filing",
+        "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035390.pdf"
+      },
+      {
         "kind": "news",
         "url": "https://poliwealth.com/receipts/quiver_d7dd2ca4d3b4c239",
         "title": "COIN · Cisneros congressional trade receipt | PoliWealth"
       },
       {
         "kind": "news",
-        "url": "https://www.marketbeat.com/instant-alerts/congress-coinbase-global-nasdaq-coin-shares-purchased-rep-gilbert-ray-cisneros-jr-2026-09-08/",
-        "title": "Coinbase Global (NASDAQ:COIN) Shares Purchased Rep. Gilbert Ray Cisneros, Jr."
+        "url": "https://www.marketbeat.com/instant-alerts/congress-rep-gilbert-ray-cisneros-jr-sells-coinbase-global-inc-nasdaq-coin-shares-2026-09-12/",
+        "title": "Rep. Gilbert Ray Cisneros, Jr. Sells Coinbase Global, Inc. (NASDAQ:COIN) Shares"
       }
     ]
   },
@@ -385,13 +389,13 @@
     },
     "owner": "self",
     "range": {
-      "lo": 2002,
-      "hi": 74999
+      "lo": 0,
+      "hi": 73998
     },
     "status": "holds",
-    "asOf": "2026-05-29",
+    "asOf": "2026-08-18",
     "extraction": "pdf-text",
-    "verification": "corroborated",
+    "verification": "conflict",
     "sources": [
       {
         "kind": "filing",
@@ -422,17 +426,16 @@
         "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034713.pdf"
       },
       {
-        "kind": "news",
-        "url": "https://poliwealth.com/receipts/quiver_514c354a1d82c684",
-        "title": "TSLA · Cisneros congressional trade receipt | PoliWealth"
+        "kind": "filing",
+        "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035390.pdf"
       },
       {
         "kind": "news",
-        "url": "https://www.marketbeat.com/instant-alerts/rep-gilbert-ray-cisneros-jr-buys-tesla-inc-nasdaqtsla-shares-2026-06-10/",
-        "title": "Rep. Gilbert Ray Cisneros, Jr. Buys Tesla, Inc. (NASDAQ:TSLA) Shares"
+        "url": "https://www.marketbeat.com/instant-alerts/congress-tesla-nasdaq-tsla-stock-sold-off-rep-gilbert-ray-cisneros-jr-2026-09-12/",
+        "title": "Tesla (NASDAQ:TSLA) Stock Sold Off Rep. Gilbert Ray Cisneros, Jr."
       }
     ],
-    "note": "partial sale 2026-03-13"
+    "note": "partial sale 2026-03-13; partial sale 2026-08-18"
   },
   {
     "memberId": "D000032",

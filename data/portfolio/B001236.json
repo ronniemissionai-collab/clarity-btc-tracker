@@ -36,6 +36,154 @@
   "trades": [
     {
       "memberId": "B001236",
+      "assetRaw": "Otis Worldwide Corporation Common Stock",
+      "security": null,
+      "side": "buy",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-27",
+      "filedDate": "2026-09-11",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/0632f542-7ac2-46e4-bd9c-603e3673f0cd/",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "B001236",
+      "assetRaw": "iShares Core S&P 500 ETF",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-27",
+      "filedDate": "2026-09-11",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/6298991b-e48f-4b11-9bbb-dfc94a7e1b32/",
+      "late": false,
+      "note": "partial sale",
+      "provenance": "both"
+    },
+    {
+      "memberId": "B001236",
+      "assetRaw": "Johnson & Johnson Common Stock",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-20",
+      "filedDate": "2026-09-11",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/6298991b-e48f-4b11-9bbb-dfc94a7e1b32/",
+      "late": false,
+      "note": "partial sale",
+      "provenance": "both"
+    },
+    {
+      "memberId": "B001236",
+      "assetRaw": "Tradr 2X Long SPY Monthly ETF",
+      "security": null,
+      "side": "buy",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-20",
+      "filedDate": "2026-09-11",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/0632f542-7ac2-46e4-bd9c-603e3673f0cd/",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "B001236",
+      "assetRaw": "Avantis U.S. Small Cap Value ETF",
+      "security": null,
+      "side": "buy",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-19",
+      "filedDate": "2026-09-11",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/0632f542-7ac2-46e4-bd9c-603e3673f0cd/",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "B001236",
+      "assetRaw": "Westwood Quality SmallCap Fund - Westwood Quality SmallCap Fund Ultra Shares",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2026-08-19",
+      "filedDate": "2026-09-11",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/6298991b-e48f-4b11-9bbb-dfc94a7e1b32/",
+      "late": false,
+      "note": "full sale",
+      "provenance": "both"
+    },
+    {
+      "memberId": "B001236",
+      "assetRaw": "iShares Core S&P Small-Cap ETF",
+      "security": null,
+      "side": "buy",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-19",
+      "filedDate": "2026-09-11",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/0632f542-7ac2-46e4-bd9c-603e3673f0cd/",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "B001236",
+      "assetRaw": "Constellation Energy Corporation - Common Stock When-Issued",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-13",
+      "filedDate": "2026-09-11",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/6298991b-e48f-4b11-9bbb-dfc94a7e1b32/",
+      "late": false,
+      "note": "partial sale",
+      "provenance": "both"
+    },
+    {
+      "memberId": "B001236",
+      "assetRaw": "First Solar, Inc. - Common Stock",
+      "security": null,
+      "side": "buy",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-13",
+      "filedDate": "2026-09-11",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/0632f542-7ac2-46e4-bd9c-603e3673f0cd/",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "B001236",
       "assetRaw": "Cboe Global Markets, Inc. Common Stock",
       "security": null,
       "side": "sell",
@@ -9700,15 +9848,51 @@
     {
       "date": "2026-07-31",
       "value": 8000.5
+    },
+    {
+      "date": "2026-08-13",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-13",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-19",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-19",
+      "value": 32500.5
+    },
+    {
+      "date": "2026-08-19",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-20",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-20",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-27",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-27",
+      "value": 8000.5
     }
   ],
   "measured": {
     "return": 12.5,
-    "excess": -11,
+    "excess": -11.5,
     "method": "midpoint",
     "benchmark": "SPY",
-    "window": "disclosed buys 2023-08-29 to 2026-07-30, since-trade, midpoint-weighted",
-    "asOf": "2026-09-11",
+    "window": "disclosed buys 2023-08-29 to 2026-08-27, since-trade, midpoint-weighted",
+    "asOf": "2026-09-12",
     "note": "Estimate: position sizes are disclosed-range midpoints, never exact amounts. 7 unpriceable position(s) excluded (options or no resolvable price)."
   }
 }
