@@ -1116,14 +1116,24 @@
       "lo": 100001,
       "hi": 250000
     },
-    "status": "holds",
+    "status": "stale",
     "asOf": "2025-09-12",
     "extraction": "pdf-text",
-    "verification": "unverified",
+    "verification": "corroborated",
     "sources": [
       {
         "kind": "filing",
         "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032129.pdf"
+      },
+      {
+        "kind": "news",
+        "url": "https://www.thetrendswire.com/blog/congress-spacex-stock-disclosure-stock-act-2026",
+        "title": "A Lawmaker's Family Bet on xAI Just Became a SpaceX Stake | TheTrendsWire"
+      },
+      {
+        "kind": "news",
+        "url": "https://finance.yahoo.com/markets/article/6-members-of-congress-have-bought-spacex-stock-including-one-democrat-130256608.html",
+        "title": "6 members of Congress have bought SpaceX stock, including one Democrat"
       }
     ]
   },
