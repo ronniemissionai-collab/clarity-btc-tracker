@@ -6669,6 +6669,20 @@
         "status": "sold"
       },
       {
+        "memberId": "R000612",
+        "name": "John W. Rose",
+        "party": "R",
+        "chamber": "house",
+        "state": "TN",
+        "active": true,
+        "buyDates": [],
+        "latestRange": {
+          "lo": 250001,
+          "hi": 500000
+        },
+        "status": "sold"
+      },
+      {
         "memberId": "V000139",
         "name": "Matt Van Epps",
         "party": "R",
@@ -8939,7 +8953,7 @@
       "D": 1,
       "I": 0
     },
-    "latestBuyDate": "2026-03-26",
+    "latestBuyDate": "2026-08-10",
     "owners": [
       {
         "memberId": "K000398",
@@ -8949,12 +8963,13 @@
         "state": "NJ",
         "active": true,
         "buyDates": [
+          "2026-08-10",
           "2026-03-26",
           "2026-02-18"
         ],
         "latestRange": {
-          "lo": 2002,
-          "hi": 30000
+          "lo": 3003,
+          "hi": 45000
         },
         "status": "holds"
       },
@@ -11286,8 +11301,8 @@
           "2026-03-31"
         ],
         "latestRange": {
-          "lo": 2002,
-          "hi": 30000
+          "lo": 0,
+          "hi": 28999
         },
         "status": "holds"
       }

@@ -12,6 +12,29 @@
     {
       "memberId": "R000612",
       "security": {
+        "ticker": "GOOGL",
+        "kind": "other"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 250001,
+        "hi": 500000
+      },
+      "status": "sold",
+      "asOf": "2025-06-03",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035444.pdf"
+        }
+      ],
+      "note": "sale reported by PTR with no annual baseline in our coverage"
+    },
+    {
+      "memberId": "R000612",
+      "security": {
         "ticker": "SMCWX",
         "kind": "other"
       },
@@ -49,6 +72,38 @@
       "late": false,
       "note": "FIMM MONEY MARKET PORT FUND INSTL CL M/M (FNSXX) JPMORGAN U.S. GOVERNMENT MONEY MARKET FD CAPITAL CL M/M (Symbol: OGVXX) TDL: 006682076|4|N|4812C [OT]",
       "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000612",
+      "assetRaw": "2000140445 Alphabet Inc. - Class A Common Stock (GOOGL) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 250001,
+        "hi": 500000
+      },
+      "transactionDate": "2025-06-03",
+      "filedDate": "2026-09-12",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035444.pdf",
+      "late": true,
+      "provenance": "official"
+    },
+    {
+      "memberId": "R000612",
+      "assetRaw": "2000140446 American Funds AMCAP Fund Class A M/F [MF} [OT]",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 500001,
+        "hi": 1000000
+      },
+      "transactionDate": "2025-06-03",
+      "filedDate": "2026-09-12",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035445.pdf",
+      "late": true,
+      "provenance": "official"
     },
     {
       "memberId": "R000612",
@@ -248,6 +303,14 @@
     {
       "date": "2022-11-29",
       "value": 32500.5
+    },
+    {
+      "date": "2025-06-03",
+      "value": 375000.5
+    },
+    {
+      "date": "2025-06-03",
+      "value": 750000.5
     },
     {
       "date": "2025-06-03",

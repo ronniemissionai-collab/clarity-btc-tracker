@@ -40,11 +40,11 @@
       },
       "owner": "self",
       "range": {
-        "lo": 2002,
-        "hi": 30000
+        "lo": 0,
+        "hi": 28999
       },
       "status": "holds",
-      "asOf": "2026-05-14",
+      "asOf": "2026-08-10",
       "extraction": "pdf-text",
       "verification": "unverified",
       "sources": [
@@ -55,8 +55,13 @@
         {
           "kind": "filing",
           "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034783.pdf"
+        },
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035431.pdf"
         }
-      ]
+      ],
+      "note": "partial sale 2026-08-10"
     },
     {
       "memberId": "K000398",
@@ -288,11 +293,11 @@
       },
       "owner": "self",
       "range": {
-        "lo": 2002,
-        "hi": 30000
+        "lo": 3003,
+        "hi": 45000
       },
       "status": "holds",
-      "asOf": "2026-03-26",
+      "asOf": "2026-08-10",
       "extraction": "pdf-text",
       "verification": "unverified",
       "sources": [
@@ -303,6 +308,32 @@
         {
           "kind": "filing",
           "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034327.pdf"
+        },
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035431.pdf"
+        }
+      ]
+    },
+    {
+      "memberId": "K000398",
+      "security": {
+        "ticker": "MTZ",
+        "kind": "other"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "holds",
+      "asOf": "2026-08-21",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035431.pdf"
         }
       ]
     },
@@ -420,6 +451,106 @@
     }
   ],
   "trades": [
+    {
+      "memberId": "K000398",
+      "assetRaw": "Alphabet Inc. - Class A Common Stock (GOOGL) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-27",
+      "filedDate": "2026-09-12",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035431.pdf",
+      "late": false,
+      "note": "partial sale",
+      "provenance": "official"
+    },
+    {
+      "memberId": "K000398",
+      "assetRaw": "Johnson & Johnson Common Stock (JNJ) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-27",
+      "filedDate": "2026-09-12",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035431.pdf",
+      "late": false,
+      "note": "partial sale",
+      "provenance": "official"
+    },
+    {
+      "memberId": "K000398",
+      "assetRaw": "Microsoft Corporation - Common Stock (MSFT) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2026-08-27",
+      "filedDate": "2026-09-12",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035431.pdf",
+      "late": false,
+      "note": "partial sale",
+      "provenance": "official"
+    },
+    {
+      "memberId": "K000398",
+      "assetRaw": "MasTec, Inc. Common Stock (MTZ) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-21",
+      "filedDate": "2026-09-12",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035431.pdf",
+      "late": false,
+      "provenance": "official"
+    },
+    {
+      "memberId": "K000398",
+      "assetRaw": "Amcor plc Ordinary Shares (AMCR) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-10",
+      "filedDate": "2026-09-12",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035431.pdf",
+      "late": false,
+      "note": "partial sale",
+      "provenance": "official"
+    },
+    {
+      "memberId": "K000398",
+      "assetRaw": "Linde plc - Ordinary Shares (LIN) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-10",
+      "filedDate": "2026-09-12",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035431.pdf",
+      "late": false,
+      "provenance": "official"
+    },
     {
       "memberId": "K000398",
       "assetRaw": "Alphabet Inc. - Class A Common Stock (GOOGL) [ST]",
@@ -3463,15 +3594,39 @@
     {
       "date": "2026-07-22",
       "value": 8000.5
+    },
+    {
+      "date": "2026-08-10",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-10",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-21",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-27",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-27",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-27",
+      "value": 32500.5
     }
   ],
   "measured": {
-    "return": 28.3,
-    "excess": -5.1,
+    "return": 25.1,
+    "excess": -6.4,
     "method": "midpoint",
     "benchmark": "SPY",
-    "window": "disclosed buys 2023-01-18 to 2026-07-08, since-trade, midpoint-weighted",
-    "asOf": "2026-09-13",
+    "window": "disclosed buys 2023-01-18 to 2026-08-21, since-trade, midpoint-weighted",
+    "asOf": "2026-09-14",
     "note": "Estimate: position sizes are disclosed-range midpoints, never exact amounts. 9 unpriceable position(s) excluded (options or no resolvable price)."
   }
 }
