@@ -127,6 +127,28 @@
     {
       "memberId": "G000583",
       "security": {
+        "ticker": "AMAT",
+        "kind": "other"
+      },
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "holds",
+      "asOf": "2026-08-06",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035455.pdf"
+        }
+      ]
+    },
+    {
+      "memberId": "G000583",
+      "security": {
         "ticker": "AMD",
         "kind": "other"
       },
@@ -982,13 +1004,13 @@
         "hi": 1000000
       },
       "status": "sold",
-      "asOf": "2026-05-19",
+      "asOf": "2026-08-14",
       "extraction": "pdf-text",
       "verification": "unverified",
       "sources": [
         {
           "kind": "filing",
-          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034693.pdf"
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035455.pdf"
         }
       ],
       "note": "sale reported by PTR with no annual baseline in our coverage"
@@ -1269,6 +1291,28 @@
         }
       ],
       "note": "sale reported by PTR with no annual baseline in our coverage"
+    },
+    {
+      "memberId": "G000583",
+      "security": {
+        "ticker": "QSR",
+        "kind": "other"
+      },
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "holds",
+      "asOf": "2026-08-06",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035455.pdf"
+        }
+      ]
     },
     {
       "memberId": "G000583",
@@ -1613,6 +1657,118 @@
     }
   ],
   "trades": [
+    {
+      "memberId": "G000583",
+      "assetRaw": "Microsoft Corporation - Common Stock (MSFT) [OP]",
+      "security": null,
+      "side": "buy",
+      "owner": "joint",
+      "range": {
+        "lo": 250001,
+        "hi": 500000
+      },
+      "transactionDate": "2026-08-14",
+      "filedDate": "2026-09-14",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035455.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "G000583",
+      "assetRaw": "Microsoft Corporation - Common Stock (MSFT) [OP]",
+      "security": null,
+      "side": "buy",
+      "owner": "joint",
+      "range": {
+        "lo": 500001,
+        "hi": 1000000
+      },
+      "transactionDate": "2026-08-14",
+      "filedDate": "2026-09-14",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035455.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "G000583",
+      "assetRaw": "Microsoft Corporation - Common Stock (MSFT) [OP]",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 250001,
+        "hi": 500000
+      },
+      "transactionDate": "2026-08-14",
+      "filedDate": "2026-09-14",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035455.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "G000583",
+      "assetRaw": "Microsoft Corporation - Common Stock (MSFT) [OP]",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 500001,
+        "hi": 1000000
+      },
+      "transactionDate": "2026-08-14",
+      "filedDate": "2026-09-14",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035455.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "G000583",
+      "assetRaw": "Applied Materials, Inc. - Common Stock (AMAT) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-06",
+      "filedDate": "2026-09-14",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035455.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "G000583",
+      "assetRaw": "Republic Services, Inc. Common",
+      "security": null,
+      "side": "buy",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-06",
+      "filedDate": "2026-09-14",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035455.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "G000583",
+      "assetRaw": "Restaurant Brands International Inc. Common Shares (QSR) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-06",
+      "filedDate": "2026-09-14",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035455.pdf",
+      "late": false,
+      "provenance": "both"
+    },
     {
       "memberId": "G000583",
       "assetRaw": "Alphabet Inc. - Depositary Shares representing a 1/20th Interest in a Share of Series A Mandatory Convertible Preferred Stock (GOOGM) [ST]",
@@ -71447,15 +71603,43 @@
     {
       "date": "2026-07-24",
       "value": 8000.5
+    },
+    {
+      "date": "2026-08-06",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-06",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-06",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-14",
+      "value": 375000.5
+    },
+    {
+      "date": "2026-08-14",
+      "value": 750000.5
+    },
+    {
+      "date": "2026-08-14",
+      "value": 375000.5
+    },
+    {
+      "date": "2026-08-14",
+      "value": 750000.5
     }
   ],
   "measured": {
-    "return": 106.7,
-    "excess": 3.4,
+    "return": 106.2,
+    "excess": 2.6,
     "method": "midpoint",
     "benchmark": "SPY",
-    "window": "disclosed buys 2017-01-03 to 2026-07-24, since-trade, midpoint-weighted",
-    "asOf": "2026-09-15",
-    "note": "Estimate: position sizes are disclosed-range midpoints, never exact amounts. 146 unpriceable position(s) excluded (options or no resolvable price)."
+    "window": "disclosed buys 2017-01-03 to 2026-08-06, since-trade, midpoint-weighted",
+    "asOf": "2026-09-16",
+    "note": "Estimate: position sizes are disclosed-range midpoints, never exact amounts. 149 unpriceable position(s) excluded (options or no resolvable price)."
   }
 }

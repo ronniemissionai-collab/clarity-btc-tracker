@@ -835,6 +835,22 @@
   "trades": [
     {
       "memberId": "D000617",
+      "assetRaw": "New York NY City Transitional Fin 5.00% Due Nov 1, 2037 [GS]",
+      "security": null,
+      "side": "buy",
+      "owner": "joint",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2026-08-20",
+      "filedDate": "2026-09-14",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035400.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "D000617",
       "assetRaw": "Washington ST 5% Go Utx Due 08/01/30 [GS]",
       "security": null,
       "side": "buy",
@@ -14216,6 +14232,10 @@
     {
       "date": "2026-08-07",
       "value": 375000.5
+    },
+    {
+      "date": "2026-08-20",
+      "value": 32500.5
     }
   ],
   "measured": null

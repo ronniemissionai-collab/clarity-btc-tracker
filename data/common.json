@@ -259,6 +259,31 @@
         "status": "stale"
       },
       {
+        "memberId": "G000583",
+        "name": "Josh Gottheimer",
+        "party": "D",
+        "chamber": "house",
+        "state": "NJ",
+        "active": true,
+        "buyDates": [
+          "2026-08-14",
+          "2026-08-14",
+          "2026-05-19",
+          "2026-05-19",
+          "2026-03-25",
+          "2026-03-25",
+          "2020-03-20",
+          "2020-03-20",
+          "2020-03-12",
+          "2020-03-12"
+        ],
+        "latestRange": {
+          "lo": 500001,
+          "hi": 1000000
+        },
+        "status": "sold"
+      },
+      {
         "memberId": "T000490",
         "name": "David J. Taylor",
         "party": "R",
@@ -276,31 +301,6 @@
         "latestRange": {
           "lo": 1001,
           "hi": 15000
-        },
-        "status": "sold"
-      },
-      {
-        "memberId": "G000583",
-        "name": "Josh Gottheimer",
-        "party": "D",
-        "chamber": "house",
-        "state": "NJ",
-        "active": true,
-        "buyDates": [
-          "2026-05-19",
-          "2026-05-19",
-          "2026-03-25",
-          "2026-03-25",
-          "2020-03-20",
-          "2020-03-20",
-          "2020-03-12",
-          "2020-03-12",
-          "2020-03-06",
-          "2020-03-06"
-        ],
-        "latestRange": {
-          "lo": 500001,
-          "hi": 1000000
         },
         "status": "sold"
       },
@@ -7488,6 +7488,71 @@
   },
   {
     "security": {
+      "ticker": "AMAT",
+      "kind": "other"
+    },
+    "ownersCount": 3,
+    "partySplit": {
+      "R": 1,
+      "D": 2,
+      "I": 0
+    },
+    "latestBuyDate": "2026-08-06",
+    "owners": [
+      {
+        "memberId": "G000583",
+        "name": "Josh Gottheimer",
+        "party": "D",
+        "chamber": "house",
+        "state": "NJ",
+        "active": true,
+        "buyDates": [
+          "2026-08-06"
+        ],
+        "latestRange": {
+          "lo": 1001,
+          "hi": 15000
+        },
+        "status": "holds"
+      },
+      {
+        "memberId": "M001239",
+        "name": "John J. McGuire III",
+        "party": "R",
+        "chamber": "house",
+        "state": "VA",
+        "active": true,
+        "buyDates": [
+          "2026-07-15"
+        ],
+        "latestRange": {
+          "lo": 1001,
+          "hi": 15000
+        },
+        "status": "holds"
+      },
+      {
+        "memberId": "M001217",
+        "name": "Jared Moskowitz",
+        "party": "D",
+        "chamber": "house",
+        "state": "FL",
+        "active": true,
+        "buyDates": [
+          "2026-07-13",
+          "2026-06-18",
+          "2026-06-18"
+        ],
+        "latestRange": {
+          "lo": 3003,
+          "hi": 45000
+        },
+        "status": "holds"
+      }
+    ]
+  },
+  {
+    "security": {
       "ticker": "AXP",
       "kind": "other"
     },
@@ -11208,55 +11273,6 @@
           "hi": 15000
         },
         "status": "stale"
-      }
-    ]
-  },
-  {
-    "security": {
-      "ticker": "AMAT",
-      "kind": "other"
-    },
-    "ownersCount": 2,
-    "partySplit": {
-      "R": 1,
-      "D": 1,
-      "I": 0
-    },
-    "latestBuyDate": "2026-07-15",
-    "owners": [
-      {
-        "memberId": "M001239",
-        "name": "John J. McGuire III",
-        "party": "R",
-        "chamber": "house",
-        "state": "VA",
-        "active": true,
-        "buyDates": [
-          "2026-07-15"
-        ],
-        "latestRange": {
-          "lo": 1001,
-          "hi": 15000
-        },
-        "status": "holds"
-      },
-      {
-        "memberId": "M001217",
-        "name": "Jared Moskowitz",
-        "party": "D",
-        "chamber": "house",
-        "state": "FL",
-        "active": true,
-        "buyDates": [
-          "2026-07-13",
-          "2026-06-18",
-          "2026-06-18"
-        ],
-        "latestRange": {
-          "lo": 3003,
-          "hi": 45000
-        },
-        "status": "holds"
       }
     ]
   },

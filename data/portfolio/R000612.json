@@ -107,6 +107,37 @@
     },
     {
       "memberId": "R000612",
+      "assetRaw": "Alphabet Inc. - Class A Common Stock",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 250001,
+        "hi": 500000
+      },
+      "transactionDate": "2025-06-03",
+      "filedDate": "2026-09-12",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035444.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000612",
+      "assetRaw": "American Funds AMCAP Fund Class A M/F",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 500001,
+        "hi": 1000000
+      },
+      "transactionDate": "2025-06-03",
+      "filedDate": "2026-09-12",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035445.pdf",
+      "late": true,
+      "note": "This Transaction was misidentified as a sale of AMERICAN FUNDS SMALLCAP WORLD FUND CL A M/F (SMCWX) when it should have been identified as American Funds AMCAP Fund Class A M/F [MF}",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000612",
       "assetRaw": "AMERICAN FUNDS CAPITAL WORLD GROWTH & INCOME FD CL A M/F (Symbol: CWGIX)",
       "security": null,
       "side": "sell",
@@ -338,11 +369,19 @@
     },
     {
       "date": "2025-06-03",
+      "value": 375000.5
+    },
+    {
+      "date": "2025-06-03",
       "value": 3000000.5
     },
     {
       "date": "2025-06-03",
       "value": 375000.5
+    },
+    {
+      "date": "2025-06-03",
+      "value": 750000.5
     },
     {
       "date": "2025-06-03",

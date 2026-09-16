@@ -11,8 +11,8 @@
     "state": "AR"
   },
   "latestAction": {
-    "date": "2026-08-08",
-    "text": "Cloture motion on the motion to proceed to the measure presented in Senate. (CR S4557)"
+    "date": "2026-09-15",
+    "text": "Motion by Senator Tillis to reconsider the vote by which cloture on the motion to proceed to the measure was not invoked (Record Vote No. 234) entered in Senate."
   },
   "substituteWarning": "The Senate text is a full strike-and-replace substitute (amendment in the nature of a substitute). If the Senate passes H.R. 3633, the bill goes back to the House for re-passage of the amended text - it does NOT send the House-passed CLARITY text to the President. A cloture vote is not a passage vote.",
   "requiresHouseRepassage": false,
@@ -1852,6 +1852,740 @@
           "vote": "yea"
         }
       ]
+    },
+    {
+      "type": "cloture",
+      "chamber": "senate",
+      "date": "2026-09-15",
+      "question": "On Cloture on the Motion to Proceed",
+      "result": "failed",
+      "yea": 49,
+      "nay": 50,
+      "present": 0,
+      "notVoting": 1,
+      "rollUrl": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00234.xml",
+      "byParty": {
+        "D": {
+          "yea": 0,
+          "nay": 44,
+          "present": 0,
+          "notVoting": 1
+        },
+        "R": {
+          "yea": 49,
+          "nay": 4,
+          "present": 0,
+          "notVoting": 0
+        },
+        "I": {
+          "yea": 0,
+          "nay": 2,
+          "present": 0,
+          "notVoting": 0
+        }
+      },
+      "senateMemberVotes": [
+        {
+          "lisMemberId": "S428",
+          "name": "Alsobrooks (D-MD)",
+          "party": "D",
+          "state": "MD",
+          "vote": "nay"
+        },
+        {
+          "lisMemberId": "S440",
+          "name": "Armstrong (R-OK)",
+          "party": "R",
+          "state": "OK",
+          "vote": "yea"
+        },
+        {
+          "lisMemberId": "S354",
+          "name": "Baldwin (D-WI)",
+          "party": "D",
+          "state": "WI",
+          "vote": "nay"
+        },
+        {
+          "lisMemberId": "S429",
+          "name": "Banks (R-IN)",
+          "party": "R",
+          "state": "IN",
+          "vote": "yea"
+        },
+        {
+          "lisMemberId": "S317",
+          "name": "Barrasso (R-WY)",
+          "party": "R",
+          "state": "WY",
+          "vote": "yea"
+        },
+        {
+          "lisMemberId": "S330",
+          "name": "Bennet (D-CO)",
+          "party": "D",
+          "state": "CO",
+          "vote": "nay"
+        },
+        {
+          "lisMemberId": "S396",
+          "name": "Blackburn (R-TN)",
+          "party": "R",
+          "state": "TN",
+          "vote": "yea"
+        },
+        {
+          "lisMemberId": "S341",
+          "name": "Blumenthal (D-CT)",
+          "party": "D",
+          "state": "CT",
+          "vote": "nay"
+        },
+        {
+          "lisMemberId": "S430",
+          "name": "Blunt Rochester (D-DE)",
+          "party": "D",
+          "state": "DE",
+          "vote": "nay"
+        },
+        {
+          "lisMemberId": "S370",
+          "name": "Booker (D-NJ)",
+          "party": "D",
+          "state": "NJ",
+          "vote": "nay"
+        },
+        {
+          "lisMemberId": "S343",
+          "name": "Boozman (R-AR)",
+          "party": "R",
+          "state": "AR",
+          "vote": "yea"
+        },
+        {
+          "lisMemberId": "S416",
+          "name": "Britt (R-AL)",
+          "party": "R",
+          "state": "AL",
+          "vote": "yea"
+        },
+        {
+          "lisMemberId": "S417",
+          "name": "Budd (R-NC)",
+          "party": "R",
+          "state": "NC",
+          "vote": "yea"
+        },
+        {
+          "lisMemberId": "S275",
+          "name": "Cantwell (D-WA)",
+          "party": "D",
+          "state": "WA",
+          "vote": "nay"
+        },
+        {
+          "lisMemberId": "S372",
+          "name": "Capito (R-WV)",
+          "party": "R",
+          "state": "WV",
+          "vote": "yea"
+        },
+        {
+          "lisMemberId": "S373",
+          "name": "Cassidy (R-LA)",
+          "party": "R",
+          "state": "LA",
+          "vote": "yea"
+        },
+        {
+          "lisMemberId": "S252",
+          "name": "Collins (R-ME)",
+          "party": "R",
+          "state": "ME",
+          "vote": "nay"
+        },
+        {
+          "lisMemberId": "S337",
+          "name": "Coons (D-DE)",
+          "party": "D",
+          "state": "DE",
+          "vote": "not-voting"
+        },
+        {
+          "lisMemberId": "S287",
+          "name": "Cornyn (R-TX)",
+          "party": "R",
+          "state": "TX",
+          "vote": "yea"
+        },
+        {
+          "lisMemberId": "S385",
+          "name": "Cortez Masto (D-NV)",
+          "party": "D",
+          "state": "NV",
+          "vote": "nay"
+        },
+        {
+          "lisMemberId": "S374",
+          "name": "Cotton (R-AR)",
+          "party": "R",
+          "state": "AR",
+          "vote": "yea"
+        },
+        {
+          "lisMemberId": "S398",
+          "name": "Cramer (R-ND)",
+          "party": "R",
+          "state": "ND",
+          "vote": "yea"
+        },
+        {
+          "lisMemberId": "S266",
+          "name": "Crapo (R-ID)",
+          "party": "R",
+          "state": "ID",
+          "vote": "yea"
+        },
+        {
+          "lisMemberId": "S355",
+          "name": "Cruz (R-TX)",
+          "party": "R",
+          "state": "TX",
+          "vote": "yea"
+        },
+        {
+          "lisMemberId": "S431",
+          "name": "Curtis (R-UT)",
+          "party": "R",
+          "state": "UT",
+          "vote": "yea"
+        },
+        {
+          "lisMemberId": "S375",
+          "name": "Daines (R-MT)",
+          "party": "R",
+          "state": "MT",
+          "vote": "yea"
+        },
+        {
+          "lisMemberId": "S386",
+          "name": "Duckworth (D-IL)",
+          "party": "D",
+          "state": "IL",
+          "vote": "nay"
+        },
+        {
+          "lisMemberId": "S253",
+          "name": "Durbin (D-IL)",
+          "party": "D",
+          "state": "IL",
+          "vote": "nay"
+        },
+        {
+          "lisMemberId": "S376",
+          "name": "Ernst (R-IA)",
+          "party": "R",
+          "state": "IA",
+          "vote": "yea"
+        },
+        {
+          "lisMemberId": "S418",
+          "name": "Fetterman (D-PA)",
+          "party": "D",
+          "state": "PA",
+          "vote": "nay"
+        },
+        {
+          "lisMemberId": "S357",
+          "name": "Fischer (R-NE)",
+          "party": "R",
+          "state": "NE",
+          "vote": "yea"
+        },
+        {
+          "lisMemberId": "S432",
+          "name": "Gallego (D-AZ)",
+          "party": "D",
+          "state": "AZ",
+          "vote": "nay"
+        },
+        {
+          "lisMemberId": "S331",
+          "name": "Gillibrand (D-NY)",
+          "party": "D",
+          "state": "NY",
+          "vote": "nay"
+        },
+        {
+          "lisMemberId": "S441",
+          "name": "Graham (R-SC)",
+          "party": "R",
+          "state": "SC",
+          "vote": "yea"
+        },
+        {
+          "lisMemberId": "S153",
+          "name": "Grassley (R-IA)",
+          "party": "R",
+          "state": "IA",
+          "vote": "yea"
+        },
+        {
+          "lisMemberId": "S407",
+          "name": "Hagerty (R-TN)",
+          "party": "R",
+          "state": "TN",
+          "vote": "yea"
+        },
+        {
+          "lisMemberId": "S388",
+          "name": "Hassan (D-NH)",
+          "party": "D",
+          "state": "NH",
+          "vote": "nay"
+        },
+        {
+          "lisMemberId": "S399",
+          "name": "Hawley (R-MO)",
+          "party": "R",
+          "state": "MO",
+          "vote": "nay"
+        },
+        {
+          "lisMemberId": "S359",
+          "name": "Heinrich (D-NM)",
+          "party": "D",
+          "state": "NM",
+          "vote": "nay"
+        },
+        {
+          "lisMemberId": "S408",
+          "name": "Hickenlooper (D-CO)",
+          "party": "D",
+          "state": "CO",
+          "vote": "nay"
+        },
+        {
+          "lisMemberId": "S361",
+          "name": "Hirono (D-HI)",
+          "party": "D",
+          "state": "HI",
+          "vote": "nay"
+        },
+        {
+          "lisMemberId": "S344",
+          "name": "Hoeven (R-ND)",
+          "party": "R",
+          "state": "ND",
+          "vote": "yea"
+        },
+        {
+          "lisMemberId": "S438",
+          "name": "Husted (R-OH)",
+          "party": "R",
+          "state": "OH",
+          "vote": "yea"
+        },
+        {
+          "lisMemberId": "S395",
+          "name": "Hyde-Smith (R-MS)",
+          "party": "R",
+          "state": "MS",
+          "vote": "yea"
+        },
+        {
+          "lisMemberId": "S345",
+          "name": "Johnson (R-WI)",
+          "party": "R",
+          "state": "WI",
+          "vote": "yea"
+        },
+        {
+          "lisMemberId": "S437",
+          "name": "Justice (R-WV)",
+          "party": "R",
+          "state": "WV",
+          "vote": "yea"
+        },
+        {
+          "lisMemberId": "S362",
+          "name": "Kaine (D-VA)",
+          "party": "D",
+          "state": "VA",
+          "vote": "nay"
+        },
+        {
+          "lisMemberId": "S406",
+          "name": "Kelly (D-AZ)",
+          "party": "D",
+          "state": "AZ",
+          "vote": "nay"
+        },
+        {
+          "lisMemberId": "S389",
+          "name": "Kennedy (R-LA)",
+          "party": "R",
+          "state": "LA",
+          "vote": "yea"
+        },
+        {
+          "lisMemberId": "S426",
+          "name": "Kim (D-NJ)",
+          "party": "D",
+          "state": "NJ",
+          "vote": "nay"
+        },
+        {
+          "lisMemberId": "S363",
+          "name": "King (I-ME)",
+          "party": "I",
+          "state": "ME",
+          "vote": "nay"
+        },
+        {
+          "lisMemberId": "S311",
+          "name": "Klobuchar (D-MN)",
+          "party": "D",
+          "state": "MN",
+          "vote": "nay"
+        },
+        {
+          "lisMemberId": "S378",
+          "name": "Lankford (R-OK)",
+          "party": "R",
+          "state": "OK",
+          "vote": "yea"
+        },
+        {
+          "lisMemberId": "S346",
+          "name": "Lee (R-UT)",
+          "party": "R",
+          "state": "UT",
+          "vote": "yea"
+        },
+        {
+          "lisMemberId": "S409",
+          "name": "Lujan (D-NM)",
+          "party": "D",
+          "state": "NM",
+          "vote": "nay"
+        },
+        {
+          "lisMemberId": "S410",
+          "name": "Lummis (R-WY)",
+          "party": "R",
+          "state": "WY",
+          "vote": "yea"
+        },
+        {
+          "lisMemberId": "S369",
+          "name": "Markey (D-MA)",
+          "party": "D",
+          "state": "MA",
+          "vote": "nay"
+        },
+        {
+          "lisMemberId": "S411",
+          "name": "Marshall (R-KS)",
+          "party": "R",
+          "state": "KS",
+          "vote": "yea"
+        },
+        {
+          "lisMemberId": "S174",
+          "name": "McConnell (R-KY)",
+          "party": "R",
+          "state": "KY",
+          "vote": "yea"
+        },
+        {
+          "lisMemberId": "S433",
+          "name": "McCormick (R-PA)",
+          "party": "R",
+          "state": "PA",
+          "vote": "yea"
+        },
+        {
+          "lisMemberId": "S322",
+          "name": "Merkley (D-OR)",
+          "party": "D",
+          "state": "OR",
+          "vote": "nay"
+        },
+        {
+          "lisMemberId": "S439",
+          "name": "Moody (R-FL)",
+          "party": "R",
+          "state": "FL",
+          "vote": "yea"
+        },
+        {
+          "lisMemberId": "S347",
+          "name": "Moran (R-KS)",
+          "party": "R",
+          "state": "KS",
+          "vote": "nay"
+        },
+        {
+          "lisMemberId": "S434",
+          "name": "Moreno (R-OH)",
+          "party": "R",
+          "state": "OH",
+          "vote": "yea"
+        },
+        {
+          "lisMemberId": "S288",
+          "name": "Murkowski (R-AK)",
+          "party": "R",
+          "state": "AK",
+          "vote": "yea"
+        },
+        {
+          "lisMemberId": "S364",
+          "name": "Murphy (D-CT)",
+          "party": "D",
+          "state": "CT",
+          "vote": "nay"
+        },
+        {
+          "lisMemberId": "S229",
+          "name": "Murray (D-WA)",
+          "party": "D",
+          "state": "WA",
+          "vote": "nay"
+        },
+        {
+          "lisMemberId": "S414",
+          "name": "Ossoff (D-GA)",
+          "party": "D",
+          "state": "GA",
+          "vote": "nay"
+        },
+        {
+          "lisMemberId": "S413",
+          "name": "Padilla (D-CA)",
+          "party": "D",
+          "state": "CA",
+          "vote": "nay"
+        },
+        {
+          "lisMemberId": "S348",
+          "name": "Paul (R-KY)",
+          "party": "R",
+          "state": "KY",
+          "vote": "yea"
+        },
+        {
+          "lisMemberId": "S380",
+          "name": "Peters (D-MI)",
+          "party": "D",
+          "state": "MI",
+          "vote": "nay"
+        },
+        {
+          "lisMemberId": "S259",
+          "name": "Reed (D-RI)",
+          "party": "D",
+          "state": "RI",
+          "vote": "nay"
+        },
+        {
+          "lisMemberId": "S423",
+          "name": "Ricketts (R-NE)",
+          "party": "R",
+          "state": "NE",
+          "vote": "yea"
+        },
+        {
+          "lisMemberId": "S323",
+          "name": "Risch (R-ID)",
+          "party": "R",
+          "state": "ID",
+          "vote": "yea"
+        },
+        {
+          "lisMemberId": "S402",
+          "name": "Rosen (D-NV)",
+          "party": "D",
+          "state": "NV",
+          "vote": "nay"
+        },
+        {
+          "lisMemberId": "S381",
+          "name": "Rounds (R-SD)",
+          "party": "R",
+          "state": "SD",
+          "vote": "yea"
+        },
+        {
+          "lisMemberId": "S313",
+          "name": "Sanders (I-VT)",
+          "party": "I",
+          "state": "VT",
+          "vote": "nay"
+        },
+        {
+          "lisMemberId": "S353",
+          "name": "Schatz (D-HI)",
+          "party": "D",
+          "state": "HI",
+          "vote": "nay"
+        },
+        {
+          "lisMemberId": "S427",
+          "name": "Schiff (D-CA)",
+          "party": "D",
+          "state": "CA",
+          "vote": "nay"
+        },
+        {
+          "lisMemberId": "S420",
+          "name": "Schmitt (R-MO)",
+          "party": "R",
+          "state": "MO",
+          "vote": "yea"
+        },
+        {
+          "lisMemberId": "S270",
+          "name": "Schumer (D-NY)",
+          "party": "D",
+          "state": "NY",
+          "vote": "nay"
+        },
+        {
+          "lisMemberId": "S404",
+          "name": "Scott (R-FL)",
+          "party": "R",
+          "state": "FL",
+          "vote": "yea"
+        },
+        {
+          "lisMemberId": "S365",
+          "name": "Scott (R-SC)",
+          "party": "R",
+          "state": "SC",
+          "vote": "yea"
+        },
+        {
+          "lisMemberId": "S324",
+          "name": "Shaheen (D-NH)",
+          "party": "D",
+          "state": "NH",
+          "vote": "nay"
+        },
+        {
+          "lisMemberId": "S435",
+          "name": "Sheehy (R-MT)",
+          "party": "R",
+          "state": "MT",
+          "vote": "yea"
+        },
+        {
+          "lisMemberId": "S436",
+          "name": "Slotkin (D-MI)",
+          "party": "D",
+          "state": "MI",
+          "vote": "nay"
+        },
+        {
+          "lisMemberId": "S394",
+          "name": "Smith (D-MN)",
+          "party": "D",
+          "state": "MN",
+          "vote": "nay"
+        },
+        {
+          "lisMemberId": "S383",
+          "name": "Sullivan (R-AK)",
+          "party": "R",
+          "state": "AK",
+          "vote": "yea"
+        },
+        {
+          "lisMemberId": "S303",
+          "name": "Thune (R-SD)",
+          "party": "R",
+          "state": "SD",
+          "vote": "yea"
+        },
+        {
+          "lisMemberId": "S384",
+          "name": "Tillis (R-NC)",
+          "party": "R",
+          "state": "NC",
+          "vote": "nay"
+        },
+        {
+          "lisMemberId": "S412",
+          "name": "Tuberville (R-AL)",
+          "party": "R",
+          "state": "AL",
+          "vote": "yea"
+        },
+        {
+          "lisMemberId": "S390",
+          "name": "Van Hollen (D-MD)",
+          "party": "D",
+          "state": "MD",
+          "vote": "nay"
+        },
+        {
+          "lisMemberId": "S327",
+          "name": "Warner (D-VA)",
+          "party": "D",
+          "state": "VA",
+          "vote": "nay"
+        },
+        {
+          "lisMemberId": "S415",
+          "name": "Warnock (D-GA)",
+          "party": "D",
+          "state": "GA",
+          "vote": "nay"
+        },
+        {
+          "lisMemberId": "S366",
+          "name": "Warren (D-MA)",
+          "party": "D",
+          "state": "MA",
+          "vote": "nay"
+        },
+        {
+          "lisMemberId": "S422",
+          "name": "Welch (D-VT)",
+          "party": "D",
+          "state": "VT",
+          "vote": "nay"
+        },
+        {
+          "lisMemberId": "S316",
+          "name": "Whitehouse (D-RI)",
+          "party": "D",
+          "state": "RI",
+          "vote": "nay"
+        },
+        {
+          "lisMemberId": "S318",
+          "name": "Wicker (R-MS)",
+          "party": "R",
+          "state": "MS",
+          "vote": "yea"
+        },
+        {
+          "lisMemberId": "S247",
+          "name": "Wyden (D-OR)",
+          "party": "D",
+          "state": "OR",
+          "vote": "nay"
+        },
+        {
+          "lisMemberId": "S391",
+          "name": "Young (R-IN)",
+          "party": "R",
+          "state": "IN",
+          "vote": "yea"
+        }
+      ]
     }
   ],
   "relatedBills": [
@@ -1871,5 +2605,5 @@
       "url": "https://www.congress.gov/bill/119th-congress/house-resolution/580"
     }
   ],
-  "asOf": "2026-09-15"
+  "asOf": "2026-09-16"
 }

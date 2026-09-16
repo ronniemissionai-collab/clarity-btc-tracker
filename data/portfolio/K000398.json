@@ -466,7 +466,7 @@
       "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035431.pdf",
       "late": false,
       "note": "partial sale",
-      "provenance": "official"
+      "provenance": "both"
     },
     {
       "memberId": "K000398",
@@ -483,7 +483,7 @@
       "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035431.pdf",
       "late": false,
       "note": "partial sale",
-      "provenance": "official"
+      "provenance": "both"
     },
     {
       "memberId": "K000398",
@@ -500,7 +500,7 @@
       "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035431.pdf",
       "late": false,
       "note": "partial sale",
-      "provenance": "official"
+      "provenance": "both"
     },
     {
       "memberId": "K000398",
@@ -516,7 +516,7 @@
       "filedDate": "2026-09-12",
       "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035431.pdf",
       "late": false,
-      "provenance": "official"
+      "provenance": "both"
     },
     {
       "memberId": "K000398",
@@ -533,7 +533,7 @@
       "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035431.pdf",
       "late": false,
       "note": "partial sale",
-      "provenance": "official"
+      "provenance": "both"
     },
     {
       "memberId": "K000398",
@@ -549,7 +549,7 @@
       "filedDate": "2026-09-12",
       "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035431.pdf",
       "late": false,
-      "provenance": "official"
+      "provenance": "both"
     },
     {
       "memberId": "K000398",
@@ -3621,12 +3621,12 @@
     }
   ],
   "measured": {
-    "return": 25,
-    "excess": -6.5,
+    "return": 26.4,
+    "excess": -5.3,
     "method": "midpoint",
     "benchmark": "SPY",
     "window": "disclosed buys 2023-01-18 to 2026-08-21, since-trade, midpoint-weighted",
-    "asOf": "2026-09-15",
+    "asOf": "2026-09-16",
     "note": "Estimate: position sizes are disclosed-range midpoints, never exact amounts. 9 unpriceable position(s) excluded (options or no resolvable price)."
   }
 }
