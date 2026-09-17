@@ -2124,6 +2124,29 @@
     {
       "memberId": "A000383",
       "security": {
+        "ticker": "EA",
+        "kind": "other"
+      },
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "sold",
+      "asOf": "2026-08-04",
+      "extraction": "efd-html",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://efdsearch.senate.gov/search/view/ptr/b999bc0e-3eb0-4ca9-ab07-8e8f2e04b41f/"
+        }
+      ],
+      "note": "sale reported by PTR with no annual baseline in our coverage"
+    },
+    {
+      "memberId": "A000383",
+      "security": {
         "ticker": "EADSY",
         "kind": "other"
       },
@@ -7232,6 +7255,56 @@
     }
   ],
   "trades": [
+    {
+      "memberId": "A000383",
+      "assetRaw": "Williams Companies, Inc. (The) Common Stock",
+      "security": null,
+      "side": "buy",
+      "owner": "joint",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2026-08-20",
+      "filedDate": "2026-09-17",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/b999bc0e-3eb0-4ca9-ab07-8e8f2e04b41f/",
+      "late": false,
+      "provenance": "official"
+    },
+    {
+      "memberId": "A000383",
+      "assetRaw": "Williams Companies, Inc. (The) Common Stock",
+      "security": null,
+      "side": "buy",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-19",
+      "filedDate": "2026-09-17",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/b999bc0e-3eb0-4ca9-ab07-8e8f2e04b41f/",
+      "late": false,
+      "note": "All transactions notified to Filer on September 1, 2026",
+      "provenance": "official"
+    },
+    {
+      "memberId": "A000383",
+      "assetRaw": "Electronic Arts Inc. (EA)",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-04",
+      "filedDate": "2026-09-17",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/b999bc0e-3eb0-4ca9-ab07-8e8f2e04b41f/",
+      "late": false,
+      "note": "full sale; Sale due to corporate transaction",
+      "provenance": "official"
+    },
     {
       "memberId": "A000383",
       "assetRaw": "Williams Companies, Inc. (The) Common Stock",
@@ -21351,6 +21424,18 @@
     {
       "date": "2026-06-24",
       "value": 15000000.5
+    },
+    {
+      "date": "2026-08-04",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-19",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-20",
+      "value": 32500.5
     }
   ],
   "measured": null

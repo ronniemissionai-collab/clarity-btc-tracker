@@ -445,17 +445,21 @@
       },
       "owner": "self",
       "range": {
-        "lo": 1001,
-        "hi": 15000
+        "lo": 2002,
+        "hi": 30000
       },
       "status": "holds",
-      "asOf": "2026-03-20",
+      "asOf": "2026-08-12",
       "extraction": "pdf-text",
       "verification": "unverified",
       "sources": [
         {
           "kind": "filing",
           "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034297.pdf"
+        },
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035420.pdf"
         }
       ]
     },
@@ -467,17 +471,21 @@
       },
       "owner": "spouse",
       "range": {
-        "lo": 1001,
-        "hi": 15000
+        "lo": 2002,
+        "hi": 30000
       },
       "status": "holds",
-      "asOf": "2026-03-20",
+      "asOf": "2026-08-12",
       "extraction": "pdf-text",
       "verification": "unverified",
       "sources": [
         {
           "kind": "filing",
           "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034297.pdf"
+        },
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035420.pdf"
         }
       ]
     },
@@ -667,6 +675,106 @@
     }
   ],
   "trades": [
+    {
+      "memberId": "D000032",
+      "assetRaw": "Netflix, Inc. - Common Stock (NFLX) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-12",
+      "filedDate": "2026-09-15",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035420.pdf",
+      "late": false,
+      "provenance": "official"
+    },
+    {
+      "memberId": "D000032",
+      "assetRaw": "Netflix, Inc. - Common Stock (NFLX) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-12",
+      "filedDate": "2026-09-15",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035420.pdf",
+      "late": false,
+      "provenance": "official"
+    },
+    {
+      "memberId": "D000032",
+      "assetRaw": "Howmet Aerospace Inc. Common Stock (HWM) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-11",
+      "filedDate": "2026-09-15",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035420.pdf",
+      "late": false,
+      "note": "partial sale",
+      "provenance": "official"
+    },
+    {
+      "memberId": "D000032",
+      "assetRaw": "Howmet Aerospace Inc. Common Stock (HWM) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-11",
+      "filedDate": "2026-09-15",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035420.pdf",
+      "late": false,
+      "note": "partial sale",
+      "provenance": "official"
+    },
+    {
+      "memberId": "D000032",
+      "assetRaw": "Parker-Hannifin Corporation Common Stock (PH) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-11",
+      "filedDate": "2026-09-15",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035420.pdf",
+      "late": false,
+      "note": "partial sale",
+      "provenance": "official"
+    },
+    {
+      "memberId": "D000032",
+      "assetRaw": "Parker-Hannifin Corporation Common Stock (PH) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-11",
+      "filedDate": "2026-09-15",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035420.pdf",
+      "late": false,
+      "note": "partial sale",
+      "provenance": "official"
+    },
     {
       "memberId": "D000032",
       "assetRaw": "Zoetis Inc. Class A Common Stock (ZTS) [ST]",
@@ -4016,6 +4124,30 @@
     },
     {
       "date": "2026-06-09",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-11",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-11",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-11",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-11",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-12",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-12",
       "value": 8000.5
     }
   ],
