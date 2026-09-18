@@ -12,6 +12,51 @@
   "trades": [
     {
       "memberId": "H001086",
+      "assetRaw": "US TSY NOTE 04 000 / Due 05/31/28",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2026-08-06",
+      "filedDate": "2026-09-11",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116331.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001086",
+      "assetRaw": "Conroe TX Indept Sch Ult BE/R/",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2026-07-30",
+      "filedDate": "2026-09-11",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116331.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001086",
+      "assetRaw": "Round Rock TX Indpt Sch Prema BE/R/",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2026-07-30",
+      "filedDate": "2026-09-11",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116331.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001086",
       "assetRaw": "Energy Northwest WA Elec RV BE/R",
       "security": null,
       "side": "buy",
@@ -1190,6 +1235,18 @@
     {
       "date": "2026-07-27",
       "value": 175000.5
+    },
+    {
+      "date": "2026-07-30",
+      "value": 32500.5
+    },
+    {
+      "date": "2026-07-30",
+      "value": 32500.5
+    },
+    {
+      "date": "2026-08-06",
+      "value": 32500.5
     }
   ],
   "measured": null
