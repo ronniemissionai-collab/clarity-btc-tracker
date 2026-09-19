@@ -12,6 +12,50 @@
     {
       "memberId": "F000472",
       "security": {
+        "ticker": "ACN",
+        "kind": "other"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "holds",
+      "asOf": "2026-08-26",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035450.pdf"
+        }
+      ]
+    },
+    {
+      "memberId": "F000472",
+      "security": {
+        "ticker": "ACN",
+        "kind": "other"
+      },
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "holds",
+      "asOf": "2026-08-26",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035450.pdf"
+        }
+      ]
+    },
+    {
+      "memberId": "F000472",
+      "security": {
         "ticker": "FQAL",
         "kind": "other"
       },
@@ -125,6 +169,116 @@
     {
       "memberId": "F000472",
       "security": {
+        "ticker": "LSYIX",
+        "kind": "other"
+      },
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "holds",
+      "asOf": "2026-08-26",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035450.pdf"
+        }
+      ]
+    },
+    {
+      "memberId": "F000472",
+      "security": {
+        "ticker": "MCD",
+        "kind": "other"
+      },
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "holds",
+      "asOf": "2026-08-26",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035450.pdf"
+        }
+      ]
+    },
+    {
+      "memberId": "F000472",
+      "security": {
+        "ticker": "NVO",
+        "kind": "other"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "holds",
+      "asOf": "2026-08-26",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035450.pdf"
+        }
+      ]
+    },
+    {
+      "memberId": "F000472",
+      "security": {
+        "ticker": "PEP",
+        "kind": "other"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "holds",
+      "asOf": "2026-08-26",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035450.pdf"
+        }
+      ]
+    },
+    {
+      "memberId": "F000472",
+      "security": {
+        "ticker": "PEP",
+        "kind": "other"
+      },
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "holds",
+      "asOf": "2026-08-26",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035450.pdf"
+        }
+      ]
+    },
+    {
+      "memberId": "F000472",
+      "security": {
         "ticker": "QQQ",
         "kind": "other"
       },
@@ -170,6 +324,203 @@
     }
   ],
   "trades": [
+    {
+      "memberId": "F000472",
+      "assetRaw": "Accenture plc Class A Ordinary Shares (ACN) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-26",
+      "filedDate": "2026-09-17",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035450.pdf",
+      "late": false,
+      "provenance": "official"
+    },
+    {
+      "memberId": "F000472",
+      "assetRaw": "Accenture plc Class A Ordinary Shares (ACN) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-26",
+      "filedDate": "2026-09-17",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035450.pdf",
+      "late": false,
+      "provenance": "official"
+    },
+    {
+      "memberId": "F000472",
+      "assetRaw": "Lord Abbett Short Duration High Yield I (LSYIX) bond fund [CS]",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-26",
+      "filedDate": "2026-09-17",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035450.pdf",
+      "late": false,
+      "provenance": "official"
+    },
+    {
+      "memberId": "F000472",
+      "assetRaw": "McDonald's Corporation Common Stock (MCD) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-26",
+      "filedDate": "2026-09-17",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035450.pdf",
+      "late": false,
+      "provenance": "official"
+    },
+    {
+      "memberId": "F000472",
+      "assetRaw": "Novo Nordisk A/S Common Stock (NVO) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-26",
+      "filedDate": "2026-09-17",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035450.pdf",
+      "late": false,
+      "provenance": "official"
+    },
+    {
+      "memberId": "F000472",
+      "assetRaw": "Pepsico, Inc. (PEP) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-26",
+      "filedDate": "2026-09-17",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035450.pdf",
+      "late": false,
+      "provenance": "official"
+    },
+    {
+      "memberId": "F000472",
+      "assetRaw": "Pepsico, Inc. (PEP) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-26",
+      "filedDate": "2026-09-17",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035450.pdf",
+      "late": false,
+      "provenance": "official"
+    },
+    {
+      "memberId": "F000472",
+      "assetRaw": "Alphabet Inc. - Class C Capital Stock (GOOG) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-20",
+      "filedDate": "2026-09-17",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035450.pdf",
+      "late": false,
+      "note": "partial sale",
+      "provenance": "official"
+    },
+    {
+      "memberId": "F000472",
+      "assetRaw": "Alphabet Inc. - Class C Capital Stock (GOOG) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-20",
+      "filedDate": "2026-09-17",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035450.pdf",
+      "late": false,
+      "note": "partial sale",
+      "provenance": "official"
+    },
+    {
+      "memberId": "F000472",
+      "assetRaw": "Apple Inc. - Common Stock (AAPL) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-20",
+      "filedDate": "2026-09-17",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035450.pdf",
+      "late": false,
+      "note": "partial sale",
+      "provenance": "official"
+    },
+    {
+      "memberId": "F000472",
+      "assetRaw": "JP Morgan Chase & Co. Common Stock (JPM) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-20",
+      "filedDate": "2026-09-17",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035450.pdf",
+      "late": false,
+      "note": "partial sale",
+      "provenance": "official"
+    },
+    {
+      "memberId": "F000472",
+      "assetRaw": "JP Morgan Chase & Co. Common Stock (JPM) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-20",
+      "filedDate": "2026-09-17",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035450.pdf",
+      "late": false,
+      "note": "partial sale",
+      "provenance": "official"
+    },
     {
       "memberId": "F000472",
       "assetRaw": "The Hershey Company Common Stock (HSY) [ST]",
@@ -5148,6 +5499,54 @@
     {
       "date": "2026-02-10",
       "value": 75000.5
+    },
+    {
+      "date": "2026-08-20",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-20",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-20",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-20",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-20",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-26",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-26",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-26",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-26",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-26",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-26",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-26",
+      "value": 8000.5
     }
   ],
   "measured": null

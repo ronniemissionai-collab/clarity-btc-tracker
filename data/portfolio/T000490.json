@@ -320,11 +320,11 @@
       },
       "owner": "self",
       "range": {
-        "lo": 4004,
-        "hi": 60000
+        "lo": 5005,
+        "hi": 75000
       },
       "status": "holds",
-      "asOf": "2026-08-14",
+      "asOf": "2026-09-08",
       "extraction": "pdf-text",
       "verification": "unverified",
       "sources": [
@@ -343,6 +343,10 @@
         {
           "kind": "filing",
           "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035289.pdf"
+        },
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035471.pdf"
         }
       ]
     },
@@ -527,11 +531,11 @@
       },
       "owner": "self",
       "range": {
-        "lo": 2002,
-        "hi": 30000
+        "lo": 3003,
+        "hi": 45000
       },
       "status": "holds",
-      "asOf": "2026-08-11",
+      "asOf": "2026-09-08",
       "extraction": "pdf-text",
       "verification": "unverified",
       "sources": [
@@ -542,6 +546,10 @@
         {
           "kind": "filing",
           "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035289.pdf"
+        },
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035471.pdf"
         }
       ]
     },
@@ -734,6 +742,38 @@
     }
   ],
   "trades": [
+    {
+      "memberId": "T000490",
+      "assetRaw": "Installed Building Products, Inc. Common Stock (IBP) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-09-08",
+      "filedDate": "2026-09-17",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035471.pdf",
+      "late": false,
+      "provenance": "official"
+    },
+    {
+      "memberId": "T000490",
+      "assetRaw": "Procter & Gamble Company (PG) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-09-08",
+      "filedDate": "2026-09-17",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035471.pdf",
+      "late": false,
+      "provenance": "official"
+    },
     {
       "memberId": "T000490",
       "assetRaw": "American Electric Power Company, Inc. (AEP) [ST]",
@@ -4430,6 +4470,14 @@
     },
     {
       "date": "2026-08-26",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-09-08",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-09-08",
       "value": 8000.5
     }
   ],
