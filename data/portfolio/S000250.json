@@ -12,6 +12,29 @@
     {
       "memberId": "S000250",
       "security": {
+        "ticker": "ABBV",
+        "kind": "other"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "status": "sold",
+      "asOf": "2026-09-14",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035480.pdf"
+        }
+      ],
+      "note": "sale reported by PTR with no annual baseline in our coverage"
+    },
+    {
+      "memberId": "S000250",
+      "security": {
         "ticker": "ADP",
         "kind": "other"
       },
@@ -590,6 +613,29 @@
         {
           "kind": "filing",
           "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2015/20003069.pdf"
+        }
+      ],
+      "note": "sale reported by PTR with no annual baseline in our coverage"
+    },
+    {
+      "memberId": "S000250",
+      "security": {
+        "ticker": "GOOGL",
+        "kind": "other"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "status": "sold",
+      "asOf": "2026-09-14",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035480.pdf"
         }
       ],
       "note": "sale reported by PTR with no annual baseline in our coverage"
@@ -1317,6 +1363,38 @@
     }
   ],
   "trades": [
+    {
+      "memberId": "S000250",
+      "assetRaw": "AbbVie Inc. Common Stock (ABBV) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2026-09-14",
+      "filedDate": "2026-09-18",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035480.pdf",
+      "late": false,
+      "provenance": "official"
+    },
+    {
+      "memberId": "S000250",
+      "assetRaw": "Alphabet Inc. - Class A Common Stock (GOOGL) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2026-09-14",
+      "filedDate": "2026-09-18",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035480.pdf",
+      "late": false,
+      "provenance": "official"
+    },
     {
       "memberId": "S000250",
       "assetRaw": "Ares Capital Corporation - Closed End Fund (ARCC) [ST]",
@@ -8689,6 +8767,14 @@
     {
       "date": "2026-07-24",
       "value": 8000.5
+    },
+    {
+      "date": "2026-09-14",
+      "value": 32500.5
+    },
+    {
+      "date": "2026-09-14",
+      "value": 32500.5
     }
   ],
   "measured": null
