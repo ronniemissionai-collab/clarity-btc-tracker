@@ -1605,6 +1605,20 @@
         "status": "sold"
       },
       {
+        "memberId": "S000250",
+        "name": "Pete Sessions",
+        "party": "R",
+        "chamber": "house",
+        "state": "TX",
+        "active": true,
+        "buyDates": [],
+        "latestRange": {
+          "lo": 100001,
+          "hi": 250000
+        },
+        "status": "sold"
+      },
+      {
         "memberId": "M001218",
         "name": "Richard McCormick",
         "party": "R",
@@ -4685,11 +4699,12 @@
         "state": "GA",
         "active": true,
         "buyDates": [
+          "2026-08-12",
           "2026-07-14"
         ],
         "latestRange": {
-          "lo": 1001,
-          "hi": 15000
+          "lo": 2002,
+          "hi": 30000
         },
         "status": "holds"
       },
@@ -7456,8 +7471,26 @@
       "D": 2,
       "I": 0
     },
-    "latestBuyDate": "2026-07-10",
+    "latestBuyDate": "2026-08-12",
     "owners": [
+      {
+        "memberId": "A000372",
+        "name": "Rick W. Allen",
+        "party": "R",
+        "chamber": "house",
+        "state": "GA",
+        "active": true,
+        "buyDates": [
+          "2026-08-12",
+          "2026-05-08",
+          "2026-02-19"
+        ],
+        "latestRange": {
+          "lo": 3003,
+          "hi": 45000
+        },
+        "status": "holds"
+      },
       {
         "memberId": "F000110",
         "name": "Cleo Fields",
@@ -7473,23 +7506,6 @@
         "latestRange": {
           "lo": 3003,
           "hi": 45000
-        },
-        "status": "holds"
-      },
-      {
-        "memberId": "A000372",
-        "name": "Rick W. Allen",
-        "party": "R",
-        "chamber": "house",
-        "state": "GA",
-        "active": true,
-        "buyDates": [
-          "2026-05-08",
-          "2026-02-19"
-        ],
-        "latestRange": {
-          "lo": 2002,
-          "hi": 30000
         },
         "status": "holds"
       },
@@ -14148,7 +14164,7 @@
           "lo": 1001,
           "hi": 15000
         },
-        "status": "holds"
+        "status": "stale"
       }
     ]
   },

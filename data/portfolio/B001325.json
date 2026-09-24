@@ -87,6 +87,70 @@
   "trades": [
     {
       "memberId": "B001325",
+      "assetRaw": "Bank of Nova Scotia [CS]",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 500001,
+        "hi": 1000000
+      },
+      "transactionDate": "2026-09-01",
+      "filedDate": "2026-09-22",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035489.pdf",
+      "late": false,
+      "provenance": "official"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "ALPHAKEYS BLACKSTONE LIFE SCIENCES VI LP [HN]",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-31",
+      "filedDate": "2026-09-22",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035489.pdf",
+      "late": false,
+      "provenance": "official"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "Apollo Debt Solutions BDC Class S [OT]",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-28",
+      "filedDate": "2026-09-22",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035489.pdf",
+      "late": false,
+      "provenance": "official"
+    },
+    {
+      "memberId": "B001325",
+      "assetRaw": "Bank of Nova Scotia [CS]",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 500001,
+        "hi": 1000000
+      },
+      "transactionDate": "2026-08-19",
+      "filedDate": "2026-09-22",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035489.pdf",
+      "late": false,
+      "provenance": "official"
+    },
+    {
+      "memberId": "B001325",
       "assetRaw": "Oaktree Strategic Credit Fund Class S [OT]",
       "security": null,
       "side": "buy",
@@ -5474,6 +5538,22 @@
     {
       "date": "2026-06-30",
       "value": 8000.5
+    },
+    {
+      "date": "2026-08-19",
+      "value": 750000.5
+    },
+    {
+      "date": "2026-08-28",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-08-31",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-09-01",
+      "value": 750000.5
     }
   ],
   "measured": null

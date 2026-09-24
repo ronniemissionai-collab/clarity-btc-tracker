@@ -12,6 +12,29 @@
     {
       "memberId": "S000250",
       "security": {
+        "ticker": "AAPL",
+        "kind": "other"
+      },
+      "owner": "spouse",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "status": "sold",
+      "asOf": "2026-09-22",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035499.pdf"
+        }
+      ],
+      "note": "sale reported by PTR with no annual baseline in our coverage"
+    },
+    {
+      "memberId": "S000250",
+      "security": {
         "ticker": "ABBV",
         "kind": "other"
       },
@@ -1363,6 +1386,22 @@
     }
   ],
   "trades": [
+    {
+      "memberId": "S000250",
+      "assetRaw": "Apple Inc. - Common Stock (AAPL) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2026-09-22",
+      "filedDate": "2026-09-22",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035499.pdf",
+      "late": false,
+      "provenance": "official"
+    },
     {
       "memberId": "S000250",
       "assetRaw": "AbbVie Inc. Common Stock (ABBV) [ST]",
@@ -8775,6 +8814,10 @@
     {
       "date": "2026-09-14",
       "value": 32500.5
+    },
+    {
+      "date": "2026-09-22",
+      "value": 175000.5
     }
   ],
   "measured": null
