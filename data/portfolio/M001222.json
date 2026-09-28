@@ -39,6 +39,22 @@
   "trades": [
     {
       "memberId": "M001222",
+      "assetRaw": "Mercato Partners Traverse IV QP, LP (GLAS Funds, LP) [HN]",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-09-04",
+      "filedDate": "2026-09-27",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035528.pdf",
+      "late": false,
+      "provenance": "official"
+    },
+    {
+      "memberId": "M001222",
       "assetRaw": "Riverside Acceleration Capital Opportunity Fund II (GLAS Funds, LP) [HN]",
       "security": null,
       "side": "buy",
@@ -1074,6 +1090,10 @@
     },
     {
       "date": "2026-07-22",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-09-04",
       "value": 8000.5
     }
   ],
