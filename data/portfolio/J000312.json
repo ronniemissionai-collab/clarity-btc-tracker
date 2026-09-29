@@ -12,6 +12,22 @@
   "trades": [
     {
       "memberId": "J000312",
+      "assetRaw": "Greenbrier Hotel Corporation and Affiliates\n                                        \n                                        \n                                        \n                                            \n                                                \n                                                    Company: Greenbrier Hotel Corporation and Affiliates\n                                                    \n                                                         (White Sulphur Springs, WV)\n                                                    \n                                                \n                                            \n\n                                            \n                                                Description: Hospitality",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 50000001,
+        "hi": 100000000
+      },
+      "transactionDate": "2026-08-14",
+      "filedDate": "2026-09-28",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/0a93a20c-2a0f-4979-80ca-cc2f61297527/",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "J000312",
       "assetRaw": "Peoples Bancorp Inc. - Common Stock",
       "security": null,
       "side": "sell",
@@ -31,6 +47,10 @@
     {
       "date": "2025-08-28",
       "value": 375000.5
+    },
+    {
+      "date": "2026-08-14",
+      "value": 75000000.5
     }
   ],
   "measured": null

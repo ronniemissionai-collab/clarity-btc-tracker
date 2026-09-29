@@ -1345,6 +1345,22 @@
       "side": "sell",
       "owner": "spouse",
       "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2026-06-16",
+      "filedDate": "2026-07-08",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116211.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001157",
+      "assetRaw": "NORTHERN INTERMED TAX EXEMPT FUND",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
         "lo": 50001,
         "hi": 100000
       },
@@ -1356,7 +1372,7 @@
     },
     {
       "memberId": "M001157",
-      "assetRaw": "NORTHERN INTERMED TAX EXEMPT FUND",
+      "assetRaw": "NORTHERN TAX ADVGT ULTRA SHRT FIXED INC",
       "security": null,
       "side": "sell",
       "owner": "spouse",
@@ -1379,22 +1395,6 @@
       "range": {
         "lo": 100001,
         "hi": 250000
-      },
-      "transactionDate": "2026-06-16",
-      "filedDate": "2026-07-08",
-      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116211.pdf",
-      "late": false,
-      "provenance": "kadoa"
-    },
-    {
-      "memberId": "M001157",
-      "assetRaw": "NORTHERN TAX ADVGT ULTRA SHRT FIXED INC",
-      "security": null,
-      "side": "sell",
-      "owner": "spouse",
-      "range": {
-        "lo": 15001,
-        "hi": 50000
       },
       "transactionDate": "2026-06-16",
       "filedDate": "2026-07-08",
@@ -1680,8 +1680,8 @@
       "security": null,
       "side": "sell",
       "range": {
-        "lo": 15001,
-        "hi": 50000
+        "lo": 1001,
+        "hi": 15000
       },
       "transactionDate": "2026-06-09",
       "filedDate": "2026-07-08",
@@ -1695,8 +1695,8 @@
       "security": null,
       "side": "sell",
       "range": {
-        "lo": 1001,
-        "hi": 15000
+        "lo": 15001,
+        "hi": 50000
       },
       "transactionDate": "2026-06-09",
       "filedDate": "2026-07-08",
@@ -7954,11 +7954,11 @@
     },
     {
       "date": "2026-06-09",
-      "value": 32500.5
+      "value": 8000.5
     },
     {
       "date": "2026-06-09",
-      "value": 8000.5
+      "value": 32500.5
     },
     {
       "date": "2026-06-09",
@@ -8027,6 +8027,10 @@
     {
       "date": "2026-06-16",
       "value": 8000.5
+    },
+    {
+      "date": "2026-06-16",
+      "value": 32500.5
     },
     {
       "date": "2026-06-16",
@@ -8039,10 +8043,6 @@
     {
       "date": "2026-06-16",
       "value": 175000.5
-    },
-    {
-      "date": "2026-06-16",
-      "value": 32500.5
     },
     {
       "date": "2026-06-17",
@@ -8370,12 +8370,12 @@
     }
   ],
   "measured": {
-    "return": 7.6,
-    "excess": -3.3,
+    "return": 7.1,
+    "excess": -3.5,
     "method": "midpoint",
     "benchmark": "SPY",
     "window": "disclosed buys 2026-02-03 to 2026-06-29, since-trade, midpoint-weighted",
-    "asOf": "2026-09-28",
+    "asOf": "2026-09-29",
     "note": "Estimate: position sizes are disclosed-range midpoints, never exact amounts. 161 unpriceable position(s) excluded (options or no resolvable price)."
   }
 }

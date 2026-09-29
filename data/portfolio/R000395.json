@@ -12,6 +12,21 @@
   "trades": [
     {
       "memberId": "R000395",
+      "assetRaw": "Redeemed Electronic Arts",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-05",
+      "filedDate": "2026-09-23",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116342.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000395",
       "assetRaw": "Redeemed New York St Rev Rfdg Ser 2016A 5 000 Due 6/15/33 Full Call",
       "security": null,
       "side": "sell",
@@ -50,6 +65,10 @@
     {
       "date": "2026-06-15",
       "value": 32500.5
+    },
+    {
+      "date": "2026-08-05",
+      "value": 8000.5
     }
   ],
   "measured": null
