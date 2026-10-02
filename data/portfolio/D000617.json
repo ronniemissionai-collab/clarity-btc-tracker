@@ -835,6 +835,86 @@
   "trades": [
     {
       "memberId": "D000617",
+      "assetRaw": "Central VY Energy Auth Calif Commodity 5.00% Due Aug 1, 2034 [GS]",
+      "security": null,
+      "side": "buy",
+      "owner": "joint",
+      "range": {
+        "lo": 250001,
+        "hi": 500000
+      },
+      "transactionDate": "2026-09-14",
+      "filedDate": "2026-09-30",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035498.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "D000617",
+      "assetRaw": "San Joaquin VY Calif Clean Energy Auth 5.50% Due Jan 1, 2056 [GS]",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 250001,
+        "hi": 500000
+      },
+      "transactionDate": "2026-09-14",
+      "filedDate": "2026-09-30",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035498.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "D000617",
+      "assetRaw": "Boulder Larimer & Weld CNTYS Colo ST 05.00000% 12/15/2027 Vrain VY SCH Dist Gen Oblig [GS]",
+      "security": null,
+      "side": "buy",
+      "owner": "joint",
+      "range": {
+        "lo": 250001,
+        "hi": 500000
+      },
+      "transactionDate": "2026-09-03",
+      "filedDate": "2026-09-30",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035498.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "D000617",
+      "assetRaw": "California CMNTY Choice Fing Auth 5.00% Due Oct 1, 2056 [GS]",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 250001,
+        "hi": 500000
+      },
+      "transactionDate": "2026-09-03",
+      "filedDate": "2026-09-30",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035498.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "D000617",
+      "assetRaw": "San Joaquin VY Calif Clean Energy Auth 5.50 % Due Jan 1, 2056 [GS]",
+      "security": null,
+      "side": "buy",
+      "owner": "joint",
+      "range": {
+        "lo": 250001,
+        "hi": 500000
+      },
+      "transactionDate": "2026-09-03",
+      "filedDate": "2026-09-30",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035498.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "D000617",
       "assetRaw": "New York NY City Transitional Fin 5.00% Due Nov 1, 2037 [GS]",
       "security": null,
       "side": "buy",
@@ -14236,6 +14316,26 @@
     {
       "date": "2026-08-20",
       "value": 32500.5
+    },
+    {
+      "date": "2026-09-03",
+      "value": 375000.5
+    },
+    {
+      "date": "2026-09-03",
+      "value": 375000.5
+    },
+    {
+      "date": "2026-09-03",
+      "value": 375000.5
+    },
+    {
+      "date": "2026-09-14",
+      "value": 375000.5
+    },
+    {
+      "date": "2026-09-14",
+      "value": 375000.5
     }
   ],
   "measured": null

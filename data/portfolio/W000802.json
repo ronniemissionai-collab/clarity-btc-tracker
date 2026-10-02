@@ -356,6 +356,91 @@
   "trades": [
     {
       "memberId": "W000802",
+      "assetRaw": "Analog Devices, Inc. - Common Stock",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-09-04",
+      "filedDate": "2026-10-01",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/6bf3b6f7-9e1b-499a-bd5a-990292ce2e72/",
+      "late": false,
+      "note": "partial sale",
+      "provenance": "both"
+    },
+    {
+      "memberId": "W000802",
+      "assetRaw": "JP Morgan Chase & Co. Common Stock",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2026-09-04",
+      "filedDate": "2026-10-01",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/6bf3b6f7-9e1b-499a-bd5a-990292ce2e72/",
+      "late": false,
+      "note": "partial sale",
+      "provenance": "both"
+    },
+    {
+      "memberId": "W000802",
+      "assetRaw": "JP Morgan Chase & Co. Common Stock",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2026-09-04",
+      "filedDate": "2026-10-01",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/6bf3b6f7-9e1b-499a-bd5a-990292ce2e72/",
+      "late": false,
+      "note": "partial sale",
+      "provenance": "both"
+    },
+    {
+      "memberId": "W000802",
+      "assetRaw": "Visa Inc.",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-09-04",
+      "filedDate": "2026-10-01",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/6bf3b6f7-9e1b-499a-bd5a-990292ce2e72/",
+      "late": false,
+      "note": "partial sale",
+      "provenance": "both"
+    },
+    {
+      "memberId": "W000802",
+      "assetRaw": "Visa Inc.",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-09-04",
+      "filedDate": "2026-10-01",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/6bf3b6f7-9e1b-499a-bd5a-990292ce2e72/",
+      "late": false,
+      "note": "partial sale",
+      "provenance": "both"
+    },
+    {
+      "memberId": "W000802",
       "assetRaw": "Lam Research Corporation - Common Stock",
       "security": null,
       "side": "sell",
@@ -20619,6 +20704,26 @@
     {
       "date": "2026-08-13",
       "value": 32500.5
+    },
+    {
+      "date": "2026-09-04",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-09-04",
+      "value": 32500.5
+    },
+    {
+      "date": "2026-09-04",
+      "value": 32500.5
+    },
+    {
+      "date": "2026-09-04",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-09-04",
+      "value": 8000.5
     }
   ],
   "measured": null
