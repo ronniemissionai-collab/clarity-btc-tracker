@@ -69,18 +69,14 @@
         "lo": 1001,
         "hi": 15000
       },
-      "status": "sold",
-      "asOf": "2026-08-26",
+      "status": "holds",
+      "asOf": "2026-09-22",
       "extraction": "pdf-text",
       "verification": "unverified",
       "sources": [
         {
           "kind": "filing",
-          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034780.pdf"
-        },
-        {
-          "kind": "filing",
-          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035392.pdf"
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035549.pdf"
         }
       ]
     },
@@ -275,17 +271,21 @@
       },
       "owner": "self",
       "range": {
-        "lo": 1001,
-        "hi": 15000
+        "lo": 2002,
+        "hi": 30000
       },
       "status": "holds",
-      "asOf": "2026-05-15",
+      "asOf": "2026-09-22",
       "extraction": "pdf-text",
       "verification": "unverified",
       "sources": [
         {
           "kind": "filing",
           "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034650.pdf"
+        },
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035549.pdf"
         }
       ]
     },
@@ -489,13 +489,13 @@
         "hi": 15000
       },
       "status": "sold",
-      "asOf": "2026-07-24",
+      "asOf": "2026-09-22",
       "extraction": "pdf-text",
       "verification": "unverified",
       "sources": [
         {
           "kind": "filing",
-          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035146.pdf"
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035549.pdf"
         }
       ],
       "note": "sale reported by PTR with no annual baseline in our coverage"
@@ -742,6 +742,54 @@
     }
   ],
   "trades": [
+    {
+      "memberId": "T000490",
+      "assetRaw": "Amgen Inc. - Common Stock (AMGN) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-09-22",
+      "filedDate": "2026-10-01",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035549.pdf",
+      "late": false,
+      "provenance": "official"
+    },
+    {
+      "memberId": "T000490",
+      "assetRaw": "Home Depot, Inc. (HD) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-09-22",
+      "filedDate": "2026-10-01",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035549.pdf",
+      "late": false,
+      "provenance": "official"
+    },
+    {
+      "memberId": "T000490",
+      "assetRaw": "Marathon Petroleum Corporation Common Stock (MPC) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-09-22",
+      "filedDate": "2026-10-01",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035549.pdf",
+      "late": false,
+      "provenance": "official"
+    },
     {
       "memberId": "T000490",
       "assetRaw": "Installed Building Products, Inc. Common Stock (IBP) [ST]",
@@ -4478,6 +4526,18 @@
     },
     {
       "date": "2026-09-08",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-09-22",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-09-22",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-09-22",
       "value": 8000.5
     }
   ],

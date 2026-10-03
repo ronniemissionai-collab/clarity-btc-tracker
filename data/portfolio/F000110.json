@@ -17,11 +17,11 @@
       },
       "owner": "self",
       "range": {
-        "lo": 3003,
-        "hi": 45000
+        "lo": 4004,
+        "hi": 60000
       },
       "status": "holds",
-      "asOf": "2026-08-13",
+      "asOf": "2026-09-08",
       "extraction": "pdf-text",
       "verification": "unverified",
       "sources": [
@@ -36,6 +36,10 @@
         {
           "kind": "filing",
           "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035345.pdf"
+        },
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035464.pdf"
         }
       ]
     },
@@ -92,11 +96,11 @@
       },
       "owner": "self",
       "range": {
-        "lo": 103004,
-        "hi": 295000
+        "lo": 104005,
+        "hi": 310000
       },
       "status": "holds",
-      "asOf": "2026-06-15",
+      "asOf": "2026-09-14",
       "extraction": "pdf-text",
       "verification": "unverified",
       "sources": [
@@ -111,6 +115,10 @@
         {
           "kind": "filing",
           "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034800.pdf"
+        },
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035464.pdf"
         }
       ]
     },
@@ -218,11 +226,11 @@
       },
       "owner": "self",
       "range": {
-        "lo": 2002,
-        "hi": 30000
+        "lo": 3003,
+        "hi": 45000
       },
       "status": "holds",
-      "asOf": "2026-06-11",
+      "asOf": "2026-09-10",
       "extraction": "pdf-text",
       "verification": "unverified",
       "sources": [
@@ -233,6 +241,10 @@
         {
           "kind": "filing",
           "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034800.pdf"
+        },
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035464.pdf"
         }
       ]
     },
@@ -266,17 +278,21 @@
       },
       "owner": "self",
       "range": {
-        "lo": 50001,
-        "hi": 100000
+        "lo": 51002,
+        "hi": 115000
       },
       "status": "holds",
-      "asOf": "2026-01-20",
+      "asOf": "2026-09-14",
       "extraction": "pdf-text",
       "verification": "unverified",
       "sources": [
         {
           "kind": "filing",
           "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033858.pdf"
+        },
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035464.pdf"
         }
       ]
     },
@@ -379,6 +395,70 @@
     }
   ],
   "trades": [
+    {
+      "memberId": "F000110",
+      "assetRaw": "Alphabet Inc. - Class C Capital Stock (GOOG) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-09-14",
+      "filedDate": "2026-10-01",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035464.pdf",
+      "late": false,
+      "provenance": "official"
+    },
+    {
+      "memberId": "F000110",
+      "assetRaw": "Netflix, Inc. - Common Stock (NFLX) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-09-14",
+      "filedDate": "2026-10-01",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035464.pdf",
+      "late": false,
+      "provenance": "official"
+    },
+    {
+      "memberId": "F000110",
+      "assetRaw": "Microsoft Corporation - Common Stock (MSFT) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-09-10",
+      "filedDate": "2026-10-01",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035464.pdf",
+      "late": false,
+      "provenance": "official"
+    },
+    {
+      "memberId": "F000110",
+      "assetRaw": "Apple Inc. - Common Stock (AAPL) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-09-08",
+      "filedDate": "2026-10-01",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035464.pdf",
+      "late": false,
+      "provenance": "official"
+    },
     {
       "memberId": "F000110",
       "assetRaw": "Apple Inc. - Common Stock (AAPL) [ST]",
@@ -4136,6 +4216,22 @@
     },
     {
       "date": "2026-08-13",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-09-08",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-09-10",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-09-14",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-09-14",
       "value": 8000.5
     }
   ],
