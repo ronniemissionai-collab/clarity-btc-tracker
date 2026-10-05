@@ -176,6 +176,28 @@
     {
       "memberId": "R000619",
       "security": {
+        "ticker": "GS",
+        "kind": "other"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "holds",
+      "asOf": "2026-09-03",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035558.pdf"
+        }
+      ]
+    },
+    {
+      "memberId": "R000619",
+      "security": {
         "ticker": "KLAC",
         "kind": "other"
       },
@@ -466,6 +488,56 @@
     }
   ],
   "trades": [
+    {
+      "memberId": "R000619",
+      "assetRaw": "Microsoft Corporation - Common Stock (MSFT) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-09-28",
+      "filedDate": "2026-10-02",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035558.pdf",
+      "late": false,
+      "note": "partial sale",
+      "provenance": "official"
+    },
+    {
+      "memberId": "R000619",
+      "assetRaw": "Goldman Sachs Group, Inc. (GS) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-09-03",
+      "filedDate": "2026-10-02",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035558.pdf",
+      "late": false,
+      "provenance": "official"
+    },
+    {
+      "memberId": "R000619",
+      "assetRaw": "Wells Fargo & Company Common Stock (WFC) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-09-03",
+      "filedDate": "2026-10-02",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035558.pdf",
+      "late": false,
+      "note": "partial sale",
+      "provenance": "official"
+    },
     {
       "memberId": "R000619",
       "assetRaw": "Alphabet Inc. - Class A Common Stock (GOOGL) [ST]",
@@ -1168,6 +1240,18 @@
     {
       "date": "2026-08-24",
       "value": 75000.5
+    },
+    {
+      "date": "2026-09-03",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-09-03",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-09-28",
+      "value": 8000.5
     }
   ],
   "measured": null

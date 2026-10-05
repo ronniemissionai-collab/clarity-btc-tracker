@@ -83916,5 +83916,67 @@
     "filedDate": "2026-10-01",
     "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035549.pdf",
     "late": false
+  },
+  {
+    "memberId": "P000197",
+    "assetRaw": "REOF XXX, LLC [AB]",
+    "security": null,
+    "side": "buy",
+    "owner": "spouse",
+    "range": {
+      "lo": 500001,
+      "hi": 1000000
+    },
+    "transactionDate": "2026-09-08",
+    "filedDate": "2026-10-02",
+    "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035553.pdf",
+    "late": false
+  },
+  {
+    "memberId": "R000619",
+    "assetRaw": "Goldman Sachs Group, Inc. (GS) [ST]",
+    "security": null,
+    "side": "buy",
+    "owner": "self",
+    "range": {
+      "lo": 1001,
+      "hi": 15000
+    },
+    "transactionDate": "2026-09-03",
+    "filedDate": "2026-10-02",
+    "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035558.pdf",
+    "late": false
+  },
+  {
+    "memberId": "R000619",
+    "assetRaw": "Microsoft Corporation - Common Stock (MSFT) [ST]",
+    "security": null,
+    "side": "sell",
+    "owner": "self",
+    "range": {
+      "lo": 1001,
+      "hi": 15000
+    },
+    "transactionDate": "2026-09-28",
+    "filedDate": "2026-10-02",
+    "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035558.pdf",
+    "late": false,
+    "note": "partial sale"
+  },
+  {
+    "memberId": "R000619",
+    "assetRaw": "Wells Fargo & Company Common Stock (WFC) [ST]",
+    "security": null,
+    "side": "sell",
+    "owner": "self",
+    "range": {
+      "lo": 1001,
+      "hi": 15000
+    },
+    "transactionDate": "2026-09-03",
+    "filedDate": "2026-10-02",
+    "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035558.pdf",
+    "late": false,
+    "note": "partial sale"
   }
 ]

@@ -540,6 +540,22 @@
   "trades": [
     {
       "memberId": "P000197",
+      "assetRaw": "REOF XXX, LLC [AB]",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 500001,
+        "hi": 1000000
+      },
+      "transactionDate": "2026-09-08",
+      "filedDate": "2026-10-02",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035553.pdf",
+      "late": false,
+      "provenance": "official"
+    },
+    {
+      "memberId": "P000197",
       "assetRaw": "Bloom Energy Corporation Class A Common Stock (BE) [OP]",
       "security": null,
       "side": "buy",
@@ -4266,15 +4282,19 @@
     {
       "date": "2026-07-28",
       "value": 750000.5
+    },
+    {
+      "date": "2026-09-08",
+      "value": 750000.5
     }
   ],
   "measured": {
-    "return": 169.7,
-    "excess": 83.3,
+    "return": 171.3,
+    "excess": 84.3,
     "method": "midpoint",
     "benchmark": "SPY",
     "window": "disclosed buys 2014-10-24 to 2026-07-28, since-trade, midpoint-weighted",
-    "asOf": "2026-10-04",
-    "note": "Estimate: position sizes are disclosed-range midpoints, never exact amounts. 52 unpriceable position(s) excluded (options or no resolvable price)."
+    "asOf": "2026-10-05",
+    "note": "Estimate: position sizes are disclosed-range midpoints, never exact amounts. 53 unpriceable position(s) excluded (options or no resolvable price)."
   }
 }
