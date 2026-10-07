@@ -1904,7 +1904,7 @@
       "D": 6,
       "I": 0
     },
-    "latestBuyDate": "2026-06-09",
+    "latestBuyDate": "2026-09-08",
     "owners": [
       {
         "memberId": "D000399",
@@ -1914,14 +1914,15 @@
         "state": "TX",
         "active": true,
         "buyDates": [
+          "2026-09-08",
           "2026-06-09",
           "2026-03-10",
           "2025-12-09",
           "2019-06-12"
         ],
         "latestRange": {
-          "lo": 4004,
-          "hi": 60000
+          "lo": 5005,
+          "hi": 75000
         },
         "status": "holds"
       },
@@ -3085,6 +3086,7 @@
         "state": "TX",
         "active": true,
         "buyDates": [
+          "2026-09-17",
           "2026-06-18",
           "2026-03-26",
           "2025-12-18",
@@ -3096,8 +3098,8 @@
           "2018-06-15"
         ],
         "latestRange": {
-          "lo": 9009,
-          "hi": 135000
+          "lo": 10010,
+          "hi": 150000
         },
         "status": "holds"
       },
@@ -4773,8 +4775,33 @@
       "D": 3,
       "I": 0
     },
-    "latestBuyDate": "2026-08-18",
+    "latestBuyDate": "2026-09-10",
     "owners": [
+      {
+        "memberId": "D000399",
+        "name": "Lloyd Doggett",
+        "party": "D",
+        "chamber": "house",
+        "state": "TX",
+        "active": true,
+        "buyDates": [
+          "2026-09-10",
+          "2026-06-10",
+          "2026-03-10",
+          "2025-12-12",
+          "2020-03-11",
+          "2019-12-10",
+          "2019-09-11",
+          "2019-06-11",
+          "2019-03-12",
+          "2018-12-11"
+        ],
+        "latestRange": {
+          "lo": 11011,
+          "hi": 165000
+        },
+        "status": "holds"
+      },
       {
         "memberId": "C001123",
         "name": "Gil Cisneros",
@@ -4790,31 +4817,6 @@
         "latestRange": {
           "lo": 1001,
           "hi": 15000
-        },
-        "status": "holds"
-      },
-      {
-        "memberId": "D000399",
-        "name": "Lloyd Doggett",
-        "party": "D",
-        "chamber": "house",
-        "state": "TX",
-        "active": true,
-        "buyDates": [
-          "2026-06-10",
-          "2026-03-10",
-          "2025-12-12",
-          "2020-03-11",
-          "2019-12-10",
-          "2019-09-11",
-          "2019-06-11",
-          "2019-03-12",
-          "2018-12-11",
-          "2018-06-12"
-        ],
-        "latestRange": {
-          "lo": 10010,
-          "hi": 150000
         },
         "status": "holds"
       },
@@ -14936,7 +14938,7 @@
       "D": 2,
       "I": 0
     },
-    "latestBuyDate": "2026-06-12",
+    "latestBuyDate": "2026-09-11",
     "owners": [
       {
         "memberId": "D000399",
@@ -14946,13 +14948,14 @@
         "state": "TX",
         "active": true,
         "buyDates": [
+          "2026-09-11",
           "2026-06-12",
           "2026-03-12",
           "2025-12-12"
         ],
         "latestRange": {
-          "lo": 3003,
-          "hi": 45000
+          "lo": 4004,
+          "hi": 60000
         },
         "status": "holds"
       },

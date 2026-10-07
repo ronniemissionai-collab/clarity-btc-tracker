@@ -1,0 +1,37 @@
+{
+  "member": {
+    "bioguideId": "F000480",
+    "name": "Vince Fong",
+    "party": "R",
+    "chamber": "house",
+    "state": "CA",
+    "district": "CA-20",
+    "active": true
+  },
+  "positions": [],
+  "trades": [
+    {
+      "memberId": "F000480",
+      "assetRaw": "U.S. Treasury Bill 0.0% Int Mat 12/10/2026 [GS]",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2026-09-18",
+      "filedDate": "2026-10-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035539.pdf",
+      "late": false,
+      "provenance": "both"
+    }
+  ],
+  "series": [
+    {
+      "date": "2026-09-18",
+      "value": 32500.5
+    }
+  ],
+  "measured": null
+}

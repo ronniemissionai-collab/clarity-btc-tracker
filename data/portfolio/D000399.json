@@ -17,11 +17,11 @@
       },
       "owner": "self",
       "range": {
-        "lo": 9009,
-        "hi": 135000
+        "lo": 10010,
+        "hi": 150000
       },
       "status": "holds",
-      "asOf": "2026-06-18",
+      "asOf": "2026-09-17",
       "extraction": "pdf-text",
       "verification": "unverified",
       "sources": [
@@ -60,6 +60,10 @@
         {
           "kind": "filing",
           "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034923.pdf"
+        },
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035580.pdf"
         }
       ]
     },
@@ -71,11 +75,11 @@
       },
       "owner": "self",
       "range": {
-        "lo": 10010,
-        "hi": 150000
+        "lo": 11011,
+        "hi": 165000
       },
       "status": "holds",
-      "asOf": "2026-06-10",
+      "asOf": "2026-09-10",
       "extraction": "pdf-text",
       "verification": "unverified",
       "sources": [
@@ -118,6 +122,10 @@
         {
           "kind": "filing",
           "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034923.pdf"
+        },
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035580.pdf"
         }
       ]
     },
@@ -129,11 +137,11 @@
       },
       "owner": "self",
       "range": {
-        "lo": 4004,
-        "hi": 60000
+        "lo": 5005,
+        "hi": 75000
       },
       "status": "holds",
-      "asOf": "2026-06-09",
+      "asOf": "2026-09-08",
       "extraction": "pdf-text",
       "verification": "unverified",
       "sources": [
@@ -152,6 +160,10 @@
         {
           "kind": "filing",
           "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034923.pdf"
+        },
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035580.pdf"
         }
       ]
     },
@@ -223,11 +235,11 @@
       },
       "owner": "self",
       "range": {
-        "lo": 3003,
-        "hi": 45000
+        "lo": 4004,
+        "hi": 60000
       },
       "status": "holds",
-      "asOf": "2026-06-12",
+      "asOf": "2026-09-11",
       "extraction": "pdf-text",
       "verification": "unverified",
       "sources": [
@@ -242,11 +254,79 @@
         {
           "kind": "filing",
           "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034923.pdf"
+        },
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035580.pdf"
         }
       ]
     }
   ],
   "trades": [
+    {
+      "memberId": "D000399",
+      "assetRaw": "Home Depot, Inc. (HD) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-09-17",
+      "filedDate": "2026-10-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035580.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "D000399",
+      "assetRaw": "PPG Industries, Inc. Common Stock (PPG) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-09-11",
+      "filedDate": "2026-10-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035580.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "D000399",
+      "assetRaw": "International Business Machines Corporation Common Stock (IBM) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-09-10",
+      "filedDate": "2026-10-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035580.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "D000399",
+      "assetRaw": "Johnson & Johnson Common Stock (JNJ) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-09-08",
+      "filedDate": "2026-10-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035580.pdf",
+      "late": false,
+      "provenance": "both"
+    },
     {
       "memberId": "D000399",
       "assetRaw": "Procter & Gamble Company (PG) [ST]",
@@ -3691,6 +3771,22 @@
     },
     {
       "date": "2026-08-17",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-09-08",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-09-10",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-09-11",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-09-17",
       "value": 8000.5
     }
   ],
