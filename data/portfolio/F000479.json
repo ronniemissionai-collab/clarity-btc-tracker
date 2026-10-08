@@ -37,6 +37,38 @@
   "trades": [
     {
       "memberId": "F000479",
+      "assetRaw": "DELL INTL LLC/EMC CORP",
+      "security": null,
+      "side": "buy",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-09-16",
+      "filedDate": "2026-10-07",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/0541be4f-4f96-4d84-8d6f-d349f218bb2a/",
+      "late": false,
+      "provenance": "official"
+    },
+    {
+      "memberId": "F000479",
+      "assetRaw": "DELL INTL LLC/EMC CORP",
+      "security": null,
+      "side": "buy",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-09-15",
+      "filedDate": "2026-10-07",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/0541be4f-4f96-4d84-8d6f-d349f218bb2a/",
+      "late": false,
+      "provenance": "official"
+    },
+    {
+      "memberId": "F000479",
       "assetRaw": "TRANSCANADA PIPELINES LTD SER 2026-A",
       "security": null,
       "side": "buy",
@@ -1941,6 +1973,14 @@
     },
     {
       "date": "2026-08-18",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-09-15",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-09-16",
       "value": 8000.5
     }
   ],
