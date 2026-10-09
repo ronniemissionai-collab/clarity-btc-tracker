@@ -135,14 +135,18 @@
         "lo": 1001,
         "hi": 15000
       },
-      "status": "holds",
-      "asOf": "2026-08-06",
+      "status": "sold",
+      "asOf": "2026-09-15",
       "extraction": "pdf-text",
       "verification": "unverified",
       "sources": [
         {
           "kind": "filing",
           "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035455.pdf"
+        },
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035590.pdf"
         }
       ]
     },
@@ -1657,6 +1661,39 @@
     }
   ],
   "trades": [
+    {
+      "memberId": "G000583",
+      "assetRaw": "McDonald's Corporation Common Stock (MCD) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-09-25",
+      "filedDate": "2026-10-07",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035590.pdf",
+      "late": false,
+      "note": "partial sale",
+      "provenance": "both"
+    },
+    {
+      "memberId": "G000583",
+      "assetRaw": "Applied Materials, Inc. - Common Stock (AMAT) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-09-15",
+      "filedDate": "2026-10-07",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035590.pdf",
+      "late": false,
+      "provenance": "both"
+    },
     {
       "memberId": "G000583",
       "assetRaw": "Microsoft Corporation - Common Stock (MSFT) [OP]",
@@ -71631,15 +71668,23 @@
     {
       "date": "2026-08-14",
       "value": 750000.5
+    },
+    {
+      "date": "2026-09-15",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-09-25",
+      "value": 8000.5
     }
   ],
   "measured": {
-    "return": 114.2,
-    "excess": 5.6,
+    "return": 113,
+    "excess": 5.1,
     "method": "midpoint",
     "benchmark": "SPY",
     "window": "disclosed buys 2017-01-03 to 2026-08-06, since-trade, midpoint-weighted",
-    "asOf": "2026-10-08",
+    "asOf": "2026-10-09",
     "note": "Estimate: position sizes are disclosed-range midpoints, never exact amounts. 149 unpriceable position(s) excluded (options or no resolvable price)."
   }
 }

@@ -32,6 +32,7 @@
       "assetRaw": "VANGUARD INDEX FDS VANGUARD TOTAL STK MKT ETF",
       "security": null,
       "side": "buy",
+      "owner": "spouse",
       "range": {
         "lo": 1001,
         "hi": 15000
@@ -47,7 +48,6 @@
       "assetRaw": "VANGUARD INDEX FDS VANGUARD TOTAL STK MKT ETF",
       "security": null,
       "side": "buy",
-      "owner": "spouse",
       "range": {
         "lo": 1001,
         "hi": 15000
@@ -129,8 +129,8 @@
       "side": "buy",
       "owner": "spouse",
       "range": {
-        "lo": 15001,
-        "hi": 50000
+        "lo": 1001,
+        "hi": 15000
       },
       "transactionDate": "2026-06-29",
       "filedDate": "2026-07-08",
@@ -145,8 +145,8 @@
       "side": "buy",
       "owner": "spouse",
       "range": {
-        "lo": 1001,
-        "hi": 15000
+        "lo": 15001,
+        "hi": 50000
       },
       "transactionDate": "2026-06-29",
       "filedDate": "2026-07-08",
@@ -8326,11 +8326,11 @@
     },
     {
       "date": "2026-06-29",
-      "value": 32500.5
+      "value": 8000.5
     },
     {
       "date": "2026-06-29",
-      "value": 8000.5
+      "value": 32500.5
     },
     {
       "date": "2026-06-29",
@@ -8370,12 +8370,12 @@
     }
   ],
   "measured": {
-    "return": 8.9,
-    "excess": -3.8,
+    "return": 9.6,
+    "excess": -2.8,
     "method": "midpoint",
     "benchmark": "SPY",
     "window": "disclosed buys 2026-02-03 to 2026-06-29, since-trade, midpoint-weighted",
-    "asOf": "2026-10-08",
+    "asOf": "2026-10-09",
     "note": "Estimate: position sizes are disclosed-range midpoints, never exact amounts. 161 unpriceable position(s) excluded (options or no resolvable price)."
   }
 }

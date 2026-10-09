@@ -1,5 +1,25 @@
 [
   {
+    "memberId": "S000168",
+    "assetRaw": "Space Exploration Technologies Corp. - Class A Common Stock (SPCX) [ST]",
+    "security": {
+      "ticker": "SPCX",
+      "kind": "treasury"
+    },
+    "side": "sell",
+    "owner": "self",
+    "range": {
+      "lo": 1001,
+      "hi": 15000
+    },
+    "transactionDate": "2026-09-24",
+    "filedDate": "2026-10-07",
+    "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035562.pdf",
+    "late": false,
+    "note": "partial sale",
+    "provenance": "both"
+  },
+  {
     "memberId": "K000389",
     "assetRaw": "TESLA INC. CMN",
     "security": {

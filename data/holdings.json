@@ -1540,11 +1540,11 @@
     },
     "owner": "self",
     "range": {
-      "lo": 1001,
-      "hi": 15000
+      "lo": 0,
+      "hi": 13999
     },
     "status": "holds",
-    "asOf": "2026-08-12",
+    "asOf": "2026-09-24",
     "extraction": "pdf-text",
     "verification": "corroborated",
     "sources": [
@@ -1553,16 +1553,16 @@
         "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035411.pdf"
       },
       {
-        "kind": "news",
-        "url": "https://www.marketbeat.com/instant-alerts/congress-rep-maria-elvira-salazar-buys-shares-of-spacex-nasdaq-spcx-2026-09-11/",
-        "title": "Rep. Maria Elvira Salazar Buys Shares of SpaceX (NASDAQ:SPCX)"
+        "kind": "filing",
+        "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035562.pdf"
       },
       {
         "kind": "news",
-        "url": "https://www.themarketsdaily.com/2026/09/11/rep-maria-elvira-salazar-buys-shares-of-spacex-nasdaqspcx.html",
-        "title": "Rep. Maria Elvira Salazar Buys Shares of SpaceX (NASDAQ:SPCX) - Markets Daily"
+        "url": "https://www.marketbeat.com/instant-alerts/congress-rep-maria-elvira-salazar-buys-shares-of-spacex-nasdaq-spcx-2026-09-11/",
+        "title": "Rep. Maria Elvira Salazar Buys Shares of SpaceX (NASDAQ:SPCX)"
       }
-    ]
+    ],
+    "note": "partial sale 2026-09-24"
   },
   {
     "memberId": "S000510",

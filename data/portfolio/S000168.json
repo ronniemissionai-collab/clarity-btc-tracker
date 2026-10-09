@@ -43,19 +43,24 @@
       },
       "owner": "self",
       "range": {
-        "lo": 16002,
-        "hi": 65000
+        "lo": 1002,
+        "hi": 63999
       },
       "status": "holds",
-      "asOf": "2026-03-19",
+      "asOf": "2026-09-24",
       "extraction": "pdf-text",
       "verification": "unverified",
       "sources": [
         {
           "kind": "filing",
           "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033993.pdf"
+        },
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035562.pdf"
         }
-      ]
+      ],
+      "note": "partial sale 2026-09-24"
     },
     {
       "memberId": "S000168",
@@ -68,8 +73,8 @@
         "lo": 19005,
         "hi": 110000
       },
-      "status": "holds",
-      "asOf": "2026-06-04",
+      "status": "sold",
+      "asOf": "2026-09-24",
       "extraction": "pdf-text",
       "verification": "unverified",
       "sources": [
@@ -80,6 +85,10 @@
         {
           "kind": "filing",
           "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034928.pdf"
+        },
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035562.pdf"
         }
       ]
     },
@@ -117,11 +126,11 @@
       },
       "owner": "self",
       "range": {
-        "lo": 17003,
-        "hi": 80000
+        "lo": 2003,
+        "hi": 78999
       },
       "status": "holds",
-      "asOf": "2026-08-07",
+      "asOf": "2026-09-24",
       "extraction": "pdf-text",
       "verification": "unverified",
       "sources": [
@@ -132,8 +141,13 @@
         {
           "kind": "filing",
           "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035411.pdf"
+        },
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035562.pdf"
         }
-      ]
+      ],
+      "note": "partial sale 2026-09-24"
     },
     {
       "memberId": "S000168",
@@ -143,19 +157,24 @@
       },
       "owner": "self",
       "range": {
-        "lo": 16002,
-        "hi": 65000
+        "lo": 1002,
+        "hi": 63999
       },
       "status": "holds",
-      "asOf": "2026-03-19",
+      "asOf": "2026-09-24",
       "extraction": "pdf-text",
       "verification": "unverified",
       "sources": [
         {
           "kind": "filing",
           "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033993.pdf"
+        },
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035562.pdf"
         }
-      ]
+      ],
+      "note": "partial sale 2026-09-24"
     },
     {
       "memberId": "S000168",
@@ -214,11 +233,11 @@
       },
       "owner": "self",
       "range": {
-        "lo": 30002,
-        "hi": 100000
+        "lo": 15002,
+        "hi": 98999
       },
       "status": "holds",
-      "asOf": "2026-06-02",
+      "asOf": "2026-09-24",
       "extraction": "pdf-text",
       "verification": "unverified",
       "sources": [
@@ -229,8 +248,13 @@
         {
           "kind": "filing",
           "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034928.pdf"
+        },
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035562.pdf"
         }
-      ]
+      ],
+      "note": "partial sale 2026-09-24"
     },
     {
       "memberId": "S000168",
@@ -240,17 +264,44 @@
       },
       "owner": "self",
       "range": {
-        "lo": 16002,
-        "hi": 65000
+        "lo": 1002,
+        "hi": 63999
       },
-      "status": "holds",
-      "asOf": "2026-03-19",
+      "status": "sold",
+      "asOf": "2026-09-24",
       "extraction": "pdf-text",
       "verification": "unverified",
       "sources": [
         {
           "kind": "filing",
           "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033993.pdf"
+        },
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035562.pdf"
+        }
+      ],
+      "note": "partial sale 2026-09-08"
+    },
+    {
+      "memberId": "S000168",
+      "security": {
+        "ticker": "CVX",
+        "kind": "other"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "holds",
+      "asOf": "2026-09-02",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035562.pdf"
         }
       ]
     },
@@ -262,19 +313,24 @@
       },
       "owner": "self",
       "range": {
-        "lo": 16002,
-        "hi": 65000
+        "lo": 1002,
+        "hi": 63999
       },
       "status": "holds",
-      "asOf": "2026-05-19",
+      "asOf": "2026-09-24",
       "extraction": "pdf-text",
       "verification": "unverified",
       "sources": [
         {
           "kind": "filing",
           "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034709.pdf"
+        },
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035562.pdf"
         }
-      ]
+      ],
+      "note": "partial sale 2026-09-24"
     },
     {
       "memberId": "S000168",
@@ -284,19 +340,24 @@
       },
       "owner": "self",
       "range": {
-        "lo": 16002,
-        "hi": 65000
+        "lo": 1002,
+        "hi": 63999
       },
       "status": "holds",
-      "asOf": "2026-03-25",
+      "asOf": "2026-09-24",
       "extraction": "pdf-text",
       "verification": "unverified",
       "sources": [
         {
           "kind": "filing",
           "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033993.pdf"
+        },
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035562.pdf"
         }
-      ]
+      ],
+      "note": "partial sale 2026-09-24"
     },
     {
       "memberId": "S000168",
@@ -306,19 +367,24 @@
       },
       "owner": "self",
       "range": {
-        "lo": 1001,
-        "hi": 15000
+        "lo": 0,
+        "hi": 13999
       },
       "status": "holds",
-      "asOf": "2026-03-24",
+      "asOf": "2026-09-24",
       "extraction": "pdf-text",
       "verification": "unverified",
       "sources": [
         {
           "kind": "filing",
           "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033993.pdf"
+        },
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035562.pdf"
         }
-      ]
+      ],
+      "note": "partial sale 2026-09-24"
     },
     {
       "memberId": "S000168",
@@ -328,19 +394,24 @@
       },
       "owner": "self",
       "range": {
-        "lo": 15001,
-        "hi": 50000
+        "lo": 0,
+        "hi": 62998
       },
       "status": "holds",
-      "asOf": "2026-03-19",
+      "asOf": "2026-09-24",
       "extraction": "pdf-text",
       "verification": "unverified",
       "sources": [
         {
           "kind": "filing",
           "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033993.pdf"
+        },
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035562.pdf"
         }
-      ]
+      ],
+      "note": "partial sale 2026-09-04; partial sale 2026-09-24"
     },
     {
       "memberId": "S000168",
@@ -350,19 +421,24 @@
       },
       "owner": "self",
       "range": {
-        "lo": 15001,
-        "hi": 50000
+        "lo": 1,
+        "hi": 48999
       },
       "status": "holds",
-      "asOf": "2026-03-19",
+      "asOf": "2026-09-24",
       "extraction": "pdf-text",
       "verification": "unverified",
       "sources": [
         {
           "kind": "filing",
           "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033993.pdf"
+        },
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035562.pdf"
         }
-      ]
+      ],
+      "note": "partial sale 2026-09-24"
     },
     {
       "memberId": "S000168",
@@ -372,19 +448,24 @@
       },
       "owner": "self",
       "range": {
-        "lo": 15001,
-        "hi": 50000
+        "lo": 1,
+        "hi": 48999
       },
       "status": "holds",
-      "asOf": "2026-03-24",
+      "asOf": "2026-09-24",
       "extraction": "pdf-text",
       "verification": "unverified",
       "sources": [
         {
           "kind": "filing",
           "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033993.pdf"
+        },
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035562.pdf"
         }
-      ]
+      ],
+      "note": "partial sale 2026-09-24"
     },
     {
       "memberId": "S000168",
@@ -397,8 +478,8 @@
         "lo": 1,
         "hi": 48999
       },
-      "status": "holds",
-      "asOf": "2026-08-24",
+      "status": "sold",
+      "asOf": "2026-09-04",
       "extraction": "pdf-text",
       "verification": "unverified",
       "sources": [
@@ -409,6 +490,10 @@
         {
           "kind": "filing",
           "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035411.pdf"
+        },
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035562.pdf"
         }
       ],
       "note": "partial sale 2026-08-24"
@@ -438,24 +523,52 @@
     {
       "memberId": "S000168",
       "security": {
+        "ticker": "META",
+        "kind": "other"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 0,
+        "hi": 13999
+      },
+      "status": "holds",
+      "asOf": "2026-09-24",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035562.pdf"
+        }
+      ],
+      "note": "partial sale 2026-09-24"
+    },
+    {
+      "memberId": "S000168",
+      "security": {
         "ticker": "MRK",
         "kind": "other"
       },
       "owner": "self",
       "range": {
-        "lo": 15001,
-        "hi": 50000
+        "lo": 1,
+        "hi": 48999
       },
       "status": "holds",
-      "asOf": "2026-08-19",
+      "asOf": "2026-09-24",
       "extraction": "pdf-text",
       "verification": "unverified",
       "sources": [
         {
           "kind": "filing",
           "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035411.pdf"
+        },
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035562.pdf"
         }
-      ]
+      ],
+      "note": "partial sale 2026-09-24"
     },
     {
       "memberId": "S000168",
@@ -466,19 +579,23 @@
       "owner": "self",
       "range": {
         "lo": 0,
-        "hi": 13999
+        "hi": 12998
       },
       "status": "holds",
-      "asOf": "2026-08-19",
+      "asOf": "2026-09-24",
       "extraction": "pdf-text",
       "verification": "unverified",
       "sources": [
         {
           "kind": "filing",
           "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035411.pdf"
+        },
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035562.pdf"
         }
       ],
-      "note": "partial sale 2026-08-19"
+      "note": "partial sale 2026-08-19; partial sale 2026-09-24"
     },
     {
       "memberId": "S000168",
@@ -488,19 +605,24 @@
       },
       "owner": "self",
       "range": {
-        "lo": 15001,
-        "hi": 50000
+        "lo": 1,
+        "hi": 48999
       },
       "status": "holds",
-      "asOf": "2026-04-06",
+      "asOf": "2026-09-24",
       "extraction": "pdf-text",
       "verification": "unverified",
       "sources": [
         {
           "kind": "filing",
           "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034479.pdf"
+        },
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035562.pdf"
         }
-      ]
+      ],
+      "note": "partial sale 2026-09-24"
     },
     {
       "memberId": "S000168",
@@ -510,19 +632,24 @@
       },
       "owner": "self",
       "range": {
-        "lo": 15001,
-        "hi": 50000
+        "lo": 1,
+        "hi": 48999
       },
       "status": "holds",
-      "asOf": "2026-04-17",
+      "asOf": "2026-09-24",
       "extraction": "pdf-text",
       "verification": "unverified",
       "sources": [
         {
           "kind": "filing",
           "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034479.pdf"
+        },
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035562.pdf"
         }
-      ]
+      ],
+      "note": "partial sale 2026-09-24"
     },
     {
       "memberId": "S000168",
@@ -549,24 +676,52 @@
     {
       "memberId": "S000168",
       "security": {
+        "ticker": "OKTA",
+        "kind": "other"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 0,
+        "hi": 13999
+      },
+      "status": "holds",
+      "asOf": "2026-09-24",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035562.pdf"
+        }
+      ],
+      "note": "partial sale 2026-09-24"
+    },
+    {
+      "memberId": "S000168",
+      "security": {
         "ticker": "PTON",
         "kind": "other"
       },
       "owner": "self",
       "range": {
-        "lo": 1001,
-        "hi": 15000
+        "lo": 0,
+        "hi": 13999
       },
       "status": "holds",
-      "asOf": "2026-03-19",
+      "asOf": "2026-09-24",
       "extraction": "pdf-text",
       "verification": "unverified",
       "sources": [
         {
           "kind": "filing",
           "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033993.pdf"
+        },
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035562.pdf"
         }
-      ]
+      ],
+      "note": "partial sale 2026-09-24"
     },
     {
       "memberId": "S000168",
@@ -599,19 +754,24 @@
       },
       "owner": "self",
       "range": {
-        "lo": 15001,
-        "hi": 50000
+        "lo": 1,
+        "hi": 48999
       },
       "status": "holds",
-      "asOf": "2026-03-19",
+      "asOf": "2026-09-24",
       "extraction": "pdf-text",
       "verification": "unverified",
       "sources": [
         {
           "kind": "filing",
           "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033993.pdf"
+        },
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035562.pdf"
         }
-      ]
+      ],
+      "note": "partial sale 2026-09-24"
     },
     {
       "memberId": "S000168",
@@ -642,24 +802,52 @@
     {
       "memberId": "S000168",
       "security": {
+        "ticker": "SNOW",
+        "kind": "other"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 1002,
+        "hi": 63999
+      },
+      "status": "holds",
+      "asOf": "2026-09-24",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035562.pdf"
+        }
+      ],
+      "note": "partial sale 2026-09-24"
+    },
+    {
+      "memberId": "S000168",
+      "security": {
         "ticker": "SPCX",
         "kind": "treasury"
       },
       "owner": "self",
       "range": {
-        "lo": 1001,
-        "hi": 15000
+        "lo": 0,
+        "hi": 13999
       },
       "status": "holds",
-      "asOf": "2026-08-12",
+      "asOf": "2026-09-24",
       "extraction": "pdf-text",
       "verification": "unverified",
       "sources": [
         {
           "kind": "filing",
           "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035411.pdf"
+        },
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035562.pdf"
         }
-      ]
+      ],
+      "note": "partial sale 2026-09-24"
     },
     {
       "memberId": "S000168",
@@ -717,11 +905,11 @@
       },
       "owner": "self",
       "range": {
-        "lo": 2002,
-        "hi": 30000
+        "lo": 0,
+        "hi": 28999
       },
       "status": "holds",
-      "asOf": "2026-04-24",
+      "asOf": "2026-09-24",
       "extraction": "pdf-text",
       "verification": "unverified",
       "sources": [
@@ -732,8 +920,13 @@
         {
           "kind": "filing",
           "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034479.pdf"
+        },
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035562.pdf"
         }
-      ]
+      ],
+      "note": "partial sale 2026-09-24"
     },
     {
       "memberId": "S000168",
@@ -811,6 +1004,629 @@
     }
   ],
   "trades": [
+    {
+      "memberId": "S000168",
+      "assetRaw": "Berkshire Hathaway Inc. New Common Stock (BRK.B) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-09-24",
+      "filedDate": "2026-10-07",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035562.pdf",
+      "late": false,
+      "note": "partial sale",
+      "provenance": "both"
+    },
+    {
+      "memberId": "S000168",
+      "assetRaw": "Biogen Inc. - Common Stock (BIIB) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-09-24",
+      "filedDate": "2026-10-07",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035562.pdf",
+      "late": false,
+      "note": "partial sale",
+      "provenance": "both"
+    },
+    {
+      "memberId": "S000168",
+      "assetRaw": "Boeing Company (BA) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-09-24",
+      "filedDate": "2026-10-07",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035562.pdf",
+      "late": false,
+      "note": "partial sale",
+      "provenance": "both"
+    },
+    {
+      "memberId": "S000168",
+      "assetRaw": "Brookfield Renewable Partners L.P. Limited Partnership Units (BEP) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-09-24",
+      "filedDate": "2026-10-07",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035562.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "S000168",
+      "assetRaw": "Chubb Limited Common Stock (CB) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-09-24",
+      "filedDate": "2026-10-07",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035562.pdf",
+      "late": false,
+      "note": "partial sale",
+      "provenance": "both"
+    },
+    {
+      "memberId": "S000168",
+      "assetRaw": "Cisco Systems, Inc. - Common Stock (CSCO) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2026-09-24",
+      "filedDate": "2026-10-07",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035562.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "S000168",
+      "assetRaw": "Cisco Systems, Inc. - Common Stock (CSCO) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-09-24",
+      "filedDate": "2026-10-07",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035562.pdf",
+      "late": false,
+      "note": "partial sale",
+      "provenance": "both"
+    },
+    {
+      "memberId": "S000168",
+      "assetRaw": "Citigroup, Inc. Common Stock (C) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-09-24",
+      "filedDate": "2026-10-07",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035562.pdf",
+      "late": false,
+      "note": "partial sale",
+      "provenance": "both"
+    },
+    {
+      "memberId": "S000168",
+      "assetRaw": "Corning Incorporated Common Stock (GLW) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-09-24",
+      "filedDate": "2026-10-07",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035562.pdf",
+      "late": false,
+      "note": "partial sale",
+      "provenance": "both"
+    },
+    {
+      "memberId": "S000168",
+      "assetRaw": "Datadog, Inc. - Class A Common Stock (DDOG) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-09-24",
+      "filedDate": "2026-10-07",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035562.pdf",
+      "late": false,
+      "note": "partial sale",
+      "provenance": "both"
+    },
+    {
+      "memberId": "S000168",
+      "assetRaw": "FedEx Corporation Common Stock (FDX) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-09-24",
+      "filedDate": "2026-10-07",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035562.pdf",
+      "late": false,
+      "note": "partial sale",
+      "provenance": "both"
+    },
+    {
+      "memberId": "S000168",
+      "assetRaw": "GE Aerospace Common Stock (GE) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-09-24",
+      "filedDate": "2026-10-07",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035562.pdf",
+      "late": false,
+      "note": "partial sale",
+      "provenance": "both"
+    },
+    {
+      "memberId": "S000168",
+      "assetRaw": "Goldman Sachs Group, Inc. (GS) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-09-24",
+      "filedDate": "2026-10-07",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035562.pdf",
+      "late": false,
+      "note": "partial sale",
+      "provenance": "both"
+    },
+    {
+      "memberId": "S000168",
+      "assetRaw": "Honeywell Aerospace Inc. - Common Stock (HONA) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-09-24",
+      "filedDate": "2026-10-07",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035562.pdf",
+      "late": false,
+      "note": "partial sale",
+      "provenance": "both"
+    },
+    {
+      "memberId": "S000168",
+      "assetRaw": "Honeywell International Inc. (HON) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-09-24",
+      "filedDate": "2026-10-07",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035562.pdf",
+      "late": false,
+      "note": "partial sale",
+      "provenance": "both"
+    },
+    {
+      "memberId": "S000168",
+      "assetRaw": "Marvell Technology, Inc. - Common Stock (MRVL) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-09-24",
+      "filedDate": "2026-10-07",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035562.pdf",
+      "late": false,
+      "note": "partial sale",
+      "provenance": "both"
+    },
+    {
+      "memberId": "S000168",
+      "assetRaw": "Merck & Company, Inc. Common Stock (MRK) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-09-24",
+      "filedDate": "2026-10-07",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035562.pdf",
+      "late": false,
+      "note": "partial sale",
+      "provenance": "both"
+    },
+    {
+      "memberId": "S000168",
+      "assetRaw": "Meta Platforms, Inc. - Class A Common Stock (META) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-09-24",
+      "filedDate": "2026-10-07",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035562.pdf",
+      "late": false,
+      "note": "partial sale",
+      "provenance": "both"
+    },
+    {
+      "memberId": "S000168",
+      "assetRaw": "Microsoft Corporation - Common Stock (MSFT) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-09-24",
+      "filedDate": "2026-10-07",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035562.pdf",
+      "late": false,
+      "note": "partial sale",
+      "provenance": "both"
+    },
+    {
+      "memberId": "S000168",
+      "assetRaw": "Moderna, Inc. - Common Stock (MRNA) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-09-24",
+      "filedDate": "2026-10-07",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035562.pdf",
+      "late": false,
+      "note": "partial sale",
+      "provenance": "both"
+    },
+    {
+      "memberId": "S000168",
+      "assetRaw": "Okta, Inc. - Class A Common Stock (OKTA) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-09-24",
+      "filedDate": "2026-10-07",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035562.pdf",
+      "late": false,
+      "note": "partial sale",
+      "provenance": "both"
+    },
+    {
+      "memberId": "S000168",
+      "assetRaw": "Peloton Interactive, Inc. - Common Stock (PTON) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-09-24",
+      "filedDate": "2026-10-07",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035562.pdf",
+      "late": false,
+      "note": "partial sale",
+      "provenance": "both"
+    },
+    {
+      "memberId": "S000168",
+      "assetRaw": "RH Common Stock (RH) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-09-24",
+      "filedDate": "2026-10-07",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035562.pdf",
+      "late": false,
+      "note": "partial sale",
+      "provenance": "both"
+    },
+    {
+      "memberId": "S000168",
+      "assetRaw": "Salesforce, Inc. Common Stock (CRM) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-09-24",
+      "filedDate": "2026-10-07",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035562.pdf",
+      "late": false,
+      "note": "partial sale",
+      "provenance": "both"
+    },
+    {
+      "memberId": "S000168",
+      "assetRaw": "Snowflake Inc. Common Stock (SNOW) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-09-24",
+      "filedDate": "2026-10-07",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035562.pdf",
+      "late": false,
+      "note": "partial sale",
+      "provenance": "both"
+    },
+    {
+      "memberId": "S000168",
+      "assetRaw": "Space Exploration Technologies Corp. - Class A Common Stock (SPCX) [ST]",
+      "security": {
+        "ticker": "SPCX",
+        "kind": "treasury"
+      },
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-09-24",
+      "filedDate": "2026-10-07",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035562.pdf",
+      "late": false,
+      "note": "partial sale",
+      "provenance": "both"
+    },
+    {
+      "memberId": "S000168",
+      "assetRaw": "United Rentals, Inc. Common Stock (URI) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-09-24",
+      "filedDate": "2026-10-07",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035562.pdf",
+      "late": false,
+      "note": "partial sale",
+      "provenance": "both"
+    },
+    {
+      "memberId": "S000168",
+      "assetRaw": "UnitedHealth Group Incorporated Common Stock (UNH) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-09-24",
+      "filedDate": "2026-10-07",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035562.pdf",
+      "late": false,
+      "note": "partial sale",
+      "provenance": "both"
+    },
+    {
+      "memberId": "S000168",
+      "assetRaw": "Meta Platforms, Inc. - Class A Common Stock (META) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-09-22",
+      "filedDate": "2026-10-07",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035562.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "S000168",
+      "assetRaw": "Cisco Systems, Inc. - Common Stock (CSCO) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-09-08",
+      "filedDate": "2026-10-07",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035562.pdf",
+      "late": false,
+      "note": "partial sale",
+      "provenance": "both"
+    },
+    {
+      "memberId": "S000168",
+      "assetRaw": "Corning Incorporated Common Stock (GLW) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-09-08",
+      "filedDate": "2026-10-07",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035562.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "S000168",
+      "assetRaw": "Corning Incorporated Common Stock (GLW) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-09-04",
+      "filedDate": "2026-10-07",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035562.pdf",
+      "late": false,
+      "note": "partial sale",
+      "provenance": "both"
+    },
+    {
+      "memberId": "S000168",
+      "assetRaw": "International Business Machines Corporation Common Stock (IBM) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-09-04",
+      "filedDate": "2026-10-07",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035562.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "S000168",
+      "assetRaw": "Okta, Inc. - Class A Common Stock (OKTA) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-09-04",
+      "filedDate": "2026-10-07",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035562.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "S000168",
+      "assetRaw": "Snowflake Inc. Common Stock (SNOW) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2026-09-04",
+      "filedDate": "2026-10-07",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035562.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "S000168",
+      "assetRaw": "Snowflake Inc. Common Stock (SNOW) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-09-04",
+      "filedDate": "2026-10-07",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035562.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "S000168",
+      "assetRaw": "Chevron Corporation Common Stock (CVX) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-09-02",
+      "filedDate": "2026-10-07",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035562.pdf",
+      "late": false,
+      "provenance": "both"
+    },
     {
       "memberId": "S000168",
       "assetRaw": "International Business Machines Corporation Common Stock (IBM) [ST]",
@@ -2881,6 +3697,154 @@
     },
     {
       "date": "2026-08-24",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-09-02",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-09-04",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-09-04",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-09-04",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-09-04",
+      "value": 32500.5
+    },
+    {
+      "date": "2026-09-04",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-09-08",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-09-08",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-09-22",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-09-24",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-09-24",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-09-24",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-09-24",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-09-24",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-09-24",
+      "value": 32500.5
+    },
+    {
+      "date": "2026-09-24",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-09-24",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-09-24",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-09-24",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-09-24",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-09-24",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-09-24",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-09-24",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-09-24",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-09-24",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-09-24",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-09-24",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-09-24",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-09-24",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-09-24",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-09-24",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-09-24",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-09-24",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-09-24",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-09-24",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-09-24",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-09-24",
       "value": 8000.5
     }
   ],
