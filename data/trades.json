@@ -1,5 +1,24 @@
 [
   {
+    "memberId": "K000389",
+    "assetRaw": "TESLA INC. CMN",
+    "security": {
+      "ticker": "TSLA",
+      "kind": "treasury"
+    },
+    "side": "buy",
+    "owner": "spouse",
+    "range": {
+      "lo": 1001,
+      "hi": 15000
+    },
+    "transactionDate": "2026-09-25",
+    "filedDate": "2026-10-07",
+    "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116376.pdf",
+    "late": false,
+    "provenance": "kadoa"
+  },
+  {
     "memberId": "S000168",
     "assetRaw": "Space Exploration Technologies Corp. - Class A Common Stock (SPCX) [ST]",
     "security": {
@@ -18,6 +37,44 @@
     "late": false,
     "note": "partial sale",
     "provenance": "both"
+  },
+  {
+    "memberId": "K000389",
+    "assetRaw": "TESLA INC. CMN",
+    "security": {
+      "ticker": "TSLA",
+      "kind": "treasury"
+    },
+    "side": "buy",
+    "owner": "dependent",
+    "range": {
+      "lo": 15001,
+      "hi": 50000
+    },
+    "transactionDate": "2026-09-11",
+    "filedDate": "2026-10-07",
+    "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116376.pdf",
+    "late": false,
+    "provenance": "kadoa"
+  },
+  {
+    "memberId": "K000389",
+    "assetRaw": "TESLA, INC. CMN",
+    "security": {
+      "ticker": "TSLA",
+      "kind": "treasury"
+    },
+    "side": "buy",
+    "owner": "spouse",
+    "range": {
+      "lo": 1001,
+      "hi": 15000
+    },
+    "transactionDate": "2026-09-04",
+    "filedDate": "2026-10-07",
+    "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116376.pdf",
+    "late": false,
+    "provenance": "kadoa"
   },
   {
     "memberId": "K000389",

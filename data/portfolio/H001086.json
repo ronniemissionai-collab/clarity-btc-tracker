@@ -616,8 +616,8 @@
       "security": null,
       "side": "buy",
       "range": {
-        "lo": 50001,
-        "hi": 100000
+        "lo": 15001,
+        "hi": 50000
       },
       "transactionDate": "2026-06-17",
       "filedDate": "2026-08-03",
@@ -631,23 +631,8 @@
       "security": null,
       "side": "buy",
       "range": {
-        "lo": 15001,
-        "hi": 50000
-      },
-      "transactionDate": "2026-06-17",
-      "filedDate": "2026-08-03",
-      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116258.pdf",
-      "late": true,
-      "provenance": "kadoa"
-    },
-    {
-      "memberId": "H001086",
-      "assetRaw": "CLARK CNTY NV ARPT SUB SR B RV BE/R/",
-      "security": null,
-      "side": "buy",
-      "range": {
-        "lo": 15001,
-        "hi": 50000
+        "lo": 50001,
+        "hi": 100000
       },
       "transactionDate": "2026-06-17",
       "filedDate": "2026-08-03",
@@ -663,6 +648,21 @@
       "range": {
         "lo": 50001,
         "hi": 100000
+      },
+      "transactionDate": "2026-06-17",
+      "filedDate": "2026-08-03",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116258.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001086",
+      "assetRaw": "CLARK CNTY NV ARPT SUB SR B RV BE/R/",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
       },
       "transactionDate": "2026-06-17",
       "filedDate": "2026-08-03",
@@ -696,7 +696,7 @@
       },
       "transactionDate": "2026-06-17",
       "filedDate": "2026-08-03",
-      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116258.pdf",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116257.pdf",
       "late": true,
       "provenance": "kadoa"
     },
@@ -711,7 +711,7 @@
       },
       "transactionDate": "2026-06-17",
       "filedDate": "2026-08-03",
-      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116257.pdf",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116258.pdf",
       "late": true,
       "provenance": "kadoa"
     },
@@ -1632,19 +1632,19 @@
     },
     {
       "date": "2026-06-17",
-      "value": 75000.5
-    },
-    {
-      "date": "2026-06-17",
-      "value": 32500.5
-    },
-    {
-      "date": "2026-06-17",
       "value": 32500.5
     },
     {
       "date": "2026-06-17",
       "value": 75000.5
+    },
+    {
+      "date": "2026-06-17",
+      "value": 75000.5
+    },
+    {
+      "date": "2026-06-17",
+      "value": 32500.5
     },
     {
       "date": "2026-06-17",

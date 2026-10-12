@@ -1007,20 +1007,24 @@
     },
     "owner": "dependent",
     "range": {
-      "lo": 1001,
-      "hi": 15000
+      "lo": 15001,
+      "hi": 50000
     },
-    "status": "sold",
-    "asOf": "2026-08-10",
+    "status": "holds",
+    "asOf": "2026-09-11",
     "extraction": "pdf-text",
-    "verification": "unverified",
+    "verification": "corroborated",
     "sources": [
       {
         "kind": "filing",
-        "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf"
+        "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116376.pdf"
+      },
+      {
+        "kind": "news",
+        "url": "https://trendspider.com/markets/symbols/TSLA/government-trades/",
+        "title": "TSLA (Tesla, Inc.) – Government Trades – TrendSpider"
       }
-    ],
-    "note": "sale reported by PTR with no annual baseline in our coverage"
+    ]
   },
   {
     "memberId": "K000389",
@@ -1030,30 +1034,24 @@
     },
     "owner": "spouse",
     "range": {
-      "lo": 1001,
-      "hi": 15000
+      "lo": 2002,
+      "hi": 30000
     },
-    "status": "sold",
-    "asOf": "2026-08-24",
+    "status": "holds",
+    "asOf": "2026-09-25",
     "extraction": "pdf-text",
     "verification": "corroborated",
     "sources": [
       {
         "kind": "filing",
-        "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf"
-      },
-      {
-        "kind": "news",
-        "url": "https://www.quiverquant.com/congresstrading/trade/House-9116267-76",
-        "title": "TESLA INC CMN - Ro Khanna Congressional Trade on Jul. 20, 2026"
+        "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116376.pdf"
       },
       {
         "kind": "news",
         "url": "https://trendspider.com/markets/symbols/TSLA/government-trades/",
         "title": "TSLA (Tesla, Inc.) – Government Trades – TrendSpider"
       }
-    ],
-    "note": "sale reported by PTR with no annual baseline in our coverage"
+    ]
   },
   {
     "memberId": "L000397",
