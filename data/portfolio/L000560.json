@@ -35,6 +35,28 @@
     {
       "memberId": "L000560",
       "security": {
+        "ticker": "ADI",
+        "kind": "other"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "holds",
+      "asOf": "2026-10-08",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035635.pdf"
+        }
+      ]
+    },
+    {
+      "memberId": "L000560",
+      "security": {
         "ticker": "APH",
         "kind": "other"
       },
@@ -208,6 +230,52 @@
         {
           "kind": "filing",
           "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033814.pdf"
+        }
+      ],
+      "note": "sale reported by PTR with no annual baseline in our coverage"
+    },
+    {
+      "memberId": "L000560",
+      "security": {
+        "ticker": "FDX",
+        "kind": "other"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "sold",
+      "asOf": "2026-10-08",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035635.pdf"
+        }
+      ],
+      "note": "sale reported by PTR with no annual baseline in our coverage"
+    },
+    {
+      "memberId": "L000560",
+      "security": {
+        "ticker": "HD",
+        "kind": "other"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "sold",
+      "asOf": "2026-10-08",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035635.pdf"
         }
       ],
       "note": "sale reported by PTR with no annual baseline in our coverage"
@@ -436,9 +504,95 @@
           "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033814.pdf"
         }
       ]
+    },
+    {
+      "memberId": "L000560",
+      "security": {
+        "ticker": "WSM",
+        "kind": "other"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "holds",
+      "asOf": "2026-10-08",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035635.pdf"
+        }
+      ]
     }
   ],
   "trades": [
+    {
+      "memberId": "L000560",
+      "assetRaw": "Analog Devices, Inc. - Common Stock (ADI) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-10-08",
+      "filedDate": "2026-10-12",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035635.pdf",
+      "late": false,
+      "provenance": "official"
+    },
+    {
+      "memberId": "L000560",
+      "assetRaw": "FedEx Corporation Common Stock (FDX) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-10-08",
+      "filedDate": "2026-10-12",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035635.pdf",
+      "late": false,
+      "provenance": "official"
+    },
+    {
+      "memberId": "L000560",
+      "assetRaw": "Home Depot, Inc. (HD) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-10-08",
+      "filedDate": "2026-10-12",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035635.pdf",
+      "late": false,
+      "provenance": "official"
+    },
+    {
+      "memberId": "L000560",
+      "assetRaw": "Williams-Sonoma, Inc. Common Stock (WSM) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-10-08",
+      "filedDate": "2026-10-12",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035635.pdf",
+      "late": false,
+      "provenance": "official"
+    },
     {
       "memberId": "L000560",
       "assetRaw": "Abbott Laboratories Common Stock (ABT) [ST]",
@@ -2226,6 +2380,22 @@
     },
     {
       "date": "2026-07-08",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-10-08",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-10-08",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-10-08",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-10-08",
       "value": 8000.5
     }
   ],

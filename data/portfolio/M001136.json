@@ -35,6 +35,160 @@
     {
       "memberId": "M001136",
       "security": {
+        "ticker": "CACI",
+        "kind": "other"
+      },
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "status": "holds",
+      "asOf": "2026-09-14",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035585.pdf"
+        }
+      ]
+    },
+    {
+      "memberId": "M001136",
+      "security": {
+        "ticker": "CAT",
+        "kind": "other"
+      },
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "holds",
+      "asOf": "2026-09-28",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035585.pdf"
+        }
+      ]
+    },
+    {
+      "memberId": "M001136",
+      "security": {
+        "ticker": "IBRX",
+        "kind": "other"
+      },
+      "owner": "spouse",
+      "range": {
+        "lo": 2002,
+        "hi": 30000
+      },
+      "status": "holds",
+      "asOf": "2026-09-30",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035585.pdf"
+        }
+      ]
+    },
+    {
+      "memberId": "M001136",
+      "security": {
+        "ticker": "MSFT",
+        "kind": "other"
+      },
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "holds",
+      "asOf": "2026-09-30",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035585.pdf"
+        }
+      ]
+    },
+    {
+      "memberId": "M001136",
+      "security": {
+        "ticker": "NG",
+        "kind": "other"
+      },
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "holds",
+      "asOf": "2026-09-14",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035585.pdf"
+        }
+      ]
+    },
+    {
+      "memberId": "M001136",
+      "security": {
+        "ticker": "OLN",
+        "kind": "other"
+      },
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "status": "holds",
+      "asOf": "2026-09-14",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035585.pdf"
+        }
+      ]
+    },
+    {
+      "memberId": "M001136",
+      "security": {
+        "ticker": "RIG",
+        "kind": "other"
+      },
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "status": "holds",
+      "asOf": "2026-09-14",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035585.pdf"
+        }
+      ]
+    },
+    {
+      "memberId": "M001136",
+      "security": {
         "ticker": "RS",
         "kind": "other"
       },
@@ -102,6 +256,151 @@
     }
   ],
   "trades": [
+    {
+      "memberId": "M001136",
+      "assetRaw": "ImmunityBio, Inc. - Common Stock (IBRX) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-09-30",
+      "filedDate": "2026-10-12",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035585.pdf",
+      "late": false,
+      "provenance": "official"
+    },
+    {
+      "memberId": "M001136",
+      "assetRaw": "Microsoft Corporation - Common Stock (MSFT) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-09-30",
+      "filedDate": "2026-10-12",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035585.pdf",
+      "late": false,
+      "provenance": "official"
+    },
+    {
+      "memberId": "M001136",
+      "assetRaw": "Seagate Technology Holdings PLC - Ordinary Shares (STX) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2026-09-30",
+      "filedDate": "2026-10-12",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035585.pdf",
+      "late": false,
+      "note": "partial sale",
+      "provenance": "official"
+    },
+    {
+      "memberId": "M001136",
+      "assetRaw": "Caterpillar, Inc. Common Stock (CAT) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-09-28",
+      "filedDate": "2026-10-12",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035585.pdf",
+      "late": false,
+      "provenance": "official"
+    },
+    {
+      "memberId": "M001136",
+      "assetRaw": "ImmunityBio, Inc. - Common Stock (IBRX) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-09-28",
+      "filedDate": "2026-10-12",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035585.pdf",
+      "late": false,
+      "provenance": "official"
+    },
+    {
+      "memberId": "M001136",
+      "assetRaw": "CACI International, Inc. Class A Common Stock (CACI) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2026-09-14",
+      "filedDate": "2026-10-12",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035585.pdf",
+      "late": false,
+      "provenance": "official"
+    },
+    {
+      "memberId": "M001136",
+      "assetRaw": "Novagold Resources Inc. (NG) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-09-14",
+      "filedDate": "2026-10-12",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035585.pdf",
+      "late": false,
+      "provenance": "official"
+    },
+    {
+      "memberId": "M001136",
+      "assetRaw": "Olin Corporation Common Stock (OLN) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2026-09-14",
+      "filedDate": "2026-10-12",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035585.pdf",
+      "late": false,
+      "provenance": "official"
+    },
+    {
+      "memberId": "M001136",
+      "assetRaw": "Transocean Ltd (RIG) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2026-09-14",
+      "filedDate": "2026-10-12",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035585.pdf",
+      "late": false,
+      "provenance": "official"
+    },
     {
       "memberId": "M001136",
       "assetRaw": "Saronic Technologies [PS]",
@@ -28662,15 +28961,51 @@
     {
       "date": "2026-07-15",
       "value": 75000.5
+    },
+    {
+      "date": "2026-09-14",
+      "value": 32500.5
+    },
+    {
+      "date": "2026-09-14",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-09-14",
+      "value": 32500.5
+    },
+    {
+      "date": "2026-09-14",
+      "value": 32500.5
+    },
+    {
+      "date": "2026-09-28",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-09-28",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-09-30",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-09-30",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-09-30",
+      "value": 32500.5
     }
   ],
   "measured": {
-    "return": 38.3,
-    "excess": 13.1,
+    "return": 37.4,
+    "excess": 12.7,
     "method": "midpoint",
     "benchmark": "SPY",
-    "window": "disclosed buys 2024-03-11 to 2026-02-06, since-trade, midpoint-weighted",
-    "asOf": "2026-10-13",
+    "window": "disclosed buys 2024-03-11 to 2026-09-30, since-trade, midpoint-weighted",
+    "asOf": "2026-10-14",
     "note": "Estimate: position sizes are disclosed-range midpoints, never exact amounts. 27 unpriceable position(s) excluded (options or no resolvable price)."
   }
 }
