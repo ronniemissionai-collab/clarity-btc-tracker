@@ -835,6 +835,71 @@
   "trades": [
     {
       "memberId": "D000617",
+      "assetRaw": "TX Trans Commn TPK 5% Tran Due 08/15/42 [GS]",
+      "security": null,
+      "side": "buy",
+      "owner": "joint",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2026-09-24",
+      "filedDate": "2026-10-14",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035627.pdf",
+      "late": false,
+      "provenance": "official"
+    },
+    {
+      "memberId": "D000617",
+      "assetRaw": "Black Belt Energy Gas Dist Ala Gas 05.00% 10/01/2032 Proj Rev BDS Ser. 2026 M-1 [GS]",
+      "security": null,
+      "side": "buy",
+      "owner": "joint",
+      "range": {
+        "lo": 250001,
+        "hi": 500000
+      },
+      "transactionDate": "2026-09-18",
+      "filedDate": "2026-10-14",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035627.pdf",
+      "late": false,
+      "provenance": "official"
+    },
+    {
+      "memberId": "D000617",
+      "assetRaw": "Triborough Bridge & 4% SPL Tax Due 11/15/31 [GS]",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 250001,
+        "hi": 500000
+      },
+      "transactionDate": "2026-09-18",
+      "filedDate": "2026-10-14",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035627.pdf",
+      "late": false,
+      "provenance": "official"
+    },
+    {
+      "memberId": "D000617",
+      "assetRaw": "Washington ST 5% Go Utx Due 08/01/30 [GS]",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2026-09-18",
+      "filedDate": "2026-10-14",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035627.pdf",
+      "late": false,
+      "note": "partial sale",
+      "provenance": "official"
+    },
+    {
+      "memberId": "D000617",
       "assetRaw": "Central VY Energy Auth Calif Commodity 5.00% Due Aug 1, 2034 [GS]",
       "security": null,
       "side": "buy",
@@ -14336,6 +14401,22 @@
     {
       "date": "2026-09-14",
       "value": 375000.5
+    },
+    {
+      "date": "2026-09-18",
+      "value": 375000.5
+    },
+    {
+      "date": "2026-09-18",
+      "value": 375000.5
+    },
+    {
+      "date": "2026-09-18",
+      "value": 32500.5
+    },
+    {
+      "date": "2026-09-24",
+      "value": 32500.5
     }
   ],
   "measured": null

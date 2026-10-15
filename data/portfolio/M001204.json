@@ -35,6 +35,23 @@
   "trades": [
     {
       "memberId": "M001204",
+      "assetRaw": "NVIDIA Corporation - Common Stock (NVDA) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-08-31",
+      "filedDate": "2026-10-14",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035487.pdf",
+      "late": false,
+      "note": "partial sale",
+      "provenance": "official"
+    },
+    {
+      "memberId": "M001204",
       "assetRaw": "Space Exploration Technologies Corp. - Class A Common Stock (SPCX) [ST]",
       "security": {
         "ticker": "SPCX",
@@ -1362,6 +1379,10 @@
     {
       "date": "2026-06-15",
       "value": 32500.5
+    },
+    {
+      "date": "2026-08-31",
+      "value": 8000.5
     }
   ],
   "measured": null

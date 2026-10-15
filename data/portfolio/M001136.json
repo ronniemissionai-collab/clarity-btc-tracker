@@ -270,7 +270,7 @@
       "filedDate": "2026-10-12",
       "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035585.pdf",
       "late": false,
-      "provenance": "official"
+      "provenance": "both"
     },
     {
       "memberId": "M001136",
@@ -286,7 +286,7 @@
       "filedDate": "2026-10-12",
       "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035585.pdf",
       "late": false,
-      "provenance": "official"
+      "provenance": "both"
     },
     {
       "memberId": "M001136",
@@ -303,7 +303,7 @@
       "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035585.pdf",
       "late": false,
       "note": "partial sale",
-      "provenance": "official"
+      "provenance": "both"
     },
     {
       "memberId": "M001136",
@@ -319,7 +319,7 @@
       "filedDate": "2026-10-12",
       "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035585.pdf",
       "late": false,
-      "provenance": "official"
+      "provenance": "both"
     },
     {
       "memberId": "M001136",
@@ -335,7 +335,7 @@
       "filedDate": "2026-10-12",
       "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035585.pdf",
       "late": false,
-      "provenance": "official"
+      "provenance": "both"
     },
     {
       "memberId": "M001136",
@@ -351,7 +351,7 @@
       "filedDate": "2026-10-12",
       "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035585.pdf",
       "late": false,
-      "provenance": "official"
+      "provenance": "both"
     },
     {
       "memberId": "M001136",
@@ -367,7 +367,7 @@
       "filedDate": "2026-10-12",
       "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035585.pdf",
       "late": false,
-      "provenance": "official"
+      "provenance": "both"
     },
     {
       "memberId": "M001136",
@@ -383,7 +383,7 @@
       "filedDate": "2026-10-12",
       "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035585.pdf",
       "late": false,
-      "provenance": "official"
+      "provenance": "both"
     },
     {
       "memberId": "M001136",
@@ -399,7 +399,7 @@
       "filedDate": "2026-10-12",
       "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035585.pdf",
       "late": false,
-      "provenance": "official"
+      "provenance": "both"
     },
     {
       "memberId": "M001136",
@@ -29000,12 +29000,12 @@
     }
   ],
   "measured": {
-    "return": 37.4,
-    "excess": 12.7,
+    "return": 36.4,
+    "excess": 12.5,
     "method": "midpoint",
     "benchmark": "SPY",
     "window": "disclosed buys 2024-03-11 to 2026-09-30, since-trade, midpoint-weighted",
-    "asOf": "2026-10-14",
+    "asOf": "2026-10-15",
     "note": "Estimate: position sizes are disclosed-range midpoints, never exact amounts. 27 unpriceable position(s) excluded (options or no resolvable price)."
   }
 }
