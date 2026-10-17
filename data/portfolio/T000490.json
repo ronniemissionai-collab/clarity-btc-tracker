@@ -219,17 +219,21 @@
       },
       "owner": "self",
       "range": {
-        "lo": 1001,
-        "hi": 15000
+        "lo": 2002,
+        "hi": 30000
       },
       "status": "holds",
-      "asOf": "2026-08-26",
+      "asOf": "2026-10-09",
       "extraction": "pdf-text",
       "verification": "unverified",
       "sources": [
         {
           "kind": "filing",
           "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035392.pdf"
+        },
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035660.pdf"
         }
       ]
     },
@@ -534,8 +538,8 @@
         "lo": 3003,
         "hi": 45000
       },
-      "status": "holds",
-      "asOf": "2026-09-08",
+      "status": "sold",
+      "asOf": "2026-10-12",
       "extraction": "pdf-text",
       "verification": "unverified",
       "sources": [
@@ -550,6 +554,10 @@
         {
           "kind": "filing",
           "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035471.pdf"
+        },
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035660.pdf"
         }
       ]
     },
@@ -643,17 +651,21 @@
       },
       "owner": "self",
       "range": {
-        "lo": 2002,
-        "hi": 30000
+        "lo": 3003,
+        "hi": 45000
       },
       "status": "holds",
-      "asOf": "2026-03-12",
+      "asOf": "2026-10-09",
       "extraction": "pdf-text",
       "verification": "unverified",
       "sources": [
         {
           "kind": "filing",
           "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034207.pdf"
+        },
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035660.pdf"
         }
       ]
     },
@@ -665,11 +677,11 @@
       },
       "owner": "self",
       "range": {
-        "lo": 2002,
-        "hi": 30000
+        "lo": 3003,
+        "hi": 45000
       },
       "status": "holds",
-      "asOf": "2026-06-05",
+      "asOf": "2026-10-09",
       "extraction": "pdf-text",
       "verification": "unverified",
       "sources": [
@@ -680,6 +692,10 @@
         {
           "kind": "filing",
           "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034780.pdf"
+        },
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035660.pdf"
         }
       ]
     },
@@ -742,6 +758,70 @@
     }
   ],
   "trades": [
+    {
+      "memberId": "T000490",
+      "assetRaw": "Procter & Gamble Company (PG) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-10-12",
+      "filedDate": "2026-10-15",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035660.pdf",
+      "late": false,
+      "provenance": "official"
+    },
+    {
+      "memberId": "T000490",
+      "assetRaw": "AT&T Inc. (T) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-10-09",
+      "filedDate": "2026-10-15",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035660.pdf",
+      "late": false,
+      "provenance": "official"
+    },
+    {
+      "memberId": "T000490",
+      "assetRaw": "Fifth Third Bancorp - Common Stock (FITB) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-10-09",
+      "filedDate": "2026-10-15",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035660.pdf",
+      "late": false,
+      "provenance": "official"
+    },
+    {
+      "memberId": "T000490",
+      "assetRaw": "RPM International Inc. Common Stock (RPM) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-10-09",
+      "filedDate": "2026-10-15",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035660.pdf",
+      "late": false,
+      "provenance": "official"
+    },
     {
       "memberId": "T000490",
       "assetRaw": "Amgen Inc. - Common Stock (AMGN) [ST]",
@@ -4538,6 +4618,22 @@
     },
     {
       "date": "2026-09-22",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-10-09",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-10-09",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-10-09",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-10-12",
       "value": 8000.5
     }
   ],

@@ -947,6 +947,70 @@
   "trades": [
     {
       "memberId": "P000608",
+      "assetRaw": "Charlotte-Meckle HLTH [GS]",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 250001,
+        "hi": 500000
+      },
+      "transactionDate": "2026-09-25",
+      "filedDate": "2026-10-15",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035637.pdf",
+      "late": false,
+      "provenance": "official"
+    },
+    {
+      "memberId": "P000608",
+      "assetRaw": "U.S. Treasury Bill [GS]",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 250001,
+        "hi": 500000
+      },
+      "transactionDate": "2026-09-24",
+      "filedDate": "2026-10-15",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035637.pdf",
+      "late": false,
+      "provenance": "official"
+    },
+    {
+      "memberId": "P000608",
+      "assetRaw": "CA ST GO UTX [GS]",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 250001,
+        "hi": 500000
+      },
+      "transactionDate": "2026-09-03",
+      "filedDate": "2026-10-15",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035637.pdf",
+      "late": false,
+      "provenance": "official"
+    },
+    {
+      "memberId": "P000608",
+      "assetRaw": "CA ST GO UTX [GS]",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2026-09-03",
+      "filedDate": "2026-10-15",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035637.pdf",
+      "late": false,
+      "provenance": "official"
+    },
+    {
+      "memberId": "P000608",
       "assetRaw": "New York, NY City COMB TX [GS]",
       "security": null,
       "side": "sell",
@@ -14946,6 +15010,22 @@
     {
       "date": "2026-08-31",
       "value": 75000.5
+    },
+    {
+      "date": "2026-09-03",
+      "value": 375000.5
+    },
+    {
+      "date": "2026-09-03",
+      "value": 175000.5
+    },
+    {
+      "date": "2026-09-24",
+      "value": 375000.5
+    },
+    {
+      "date": "2026-09-25",
+      "value": 375000.5
     }
   ],
   "measured": {
@@ -14954,7 +15034,7 @@
     "method": "midpoint",
     "benchmark": "SPY",
     "window": "disclosed buys 2013-02-13 to 2025-09-09, since-trade, midpoint-weighted",
-    "asOf": "2026-10-16",
-    "note": "Estimate: position sizes are disclosed-range midpoints, never exact amounts. 267 unpriceable position(s) excluded (options or no resolvable price)."
+    "asOf": "2026-10-17",
+    "note": "Estimate: position sizes are disclosed-range midpoints, never exact amounts. 270 unpriceable position(s) excluded (options or no resolvable price)."
   }
 }
