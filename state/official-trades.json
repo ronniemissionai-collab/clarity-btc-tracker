@@ -86364,5 +86364,35 @@
     "filedDate": "2026-10-15",
     "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035660.pdf",
     "late": false
+  },
+  {
+    "memberId": "L000597",
+    "assetRaw": "Bank of America Corporation Common Stock (BAC) [ST]",
+    "security": null,
+    "side": "sell",
+    "owner": "spouse",
+    "range": {
+      "lo": 50001,
+      "hi": 100000
+    },
+    "transactionDate": "2026-08-24",
+    "filedDate": "2026-10-16",
+    "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035490.pdf",
+    "late": true
+  },
+  {
+    "memberId": "L000597",
+    "assetRaw": "NOKIA A SHS (NOKBF) [ST]",
+    "security": null,
+    "side": "buy",
+    "owner": "spouse",
+    "range": {
+      "lo": 15001,
+      "hi": 50000
+    },
+    "transactionDate": "2026-09-18",
+    "filedDate": "2026-10-16",
+    "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035490.pdf",
+    "late": false
   }
 ]

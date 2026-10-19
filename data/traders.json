@@ -9,12 +9,12 @@
       }
     ],
     "measured": {
-      "return": 113.4,
-      "excess": 6.5,
+      "return": 110,
+      "excess": 5.6,
       "method": "midpoint",
       "benchmark": "SPY",
       "window": "disclosed buys 2017-01-03 to 2026-08-06, since-trade, midpoint-weighted",
-      "asOf": "2026-10-18",
+      "asOf": "2026-10-19",
       "note": "Estimate: position sizes are disclosed-range midpoints, never exact amounts. 149 unpriceable position(s) excluded (options or no resolvable price)."
     },
     "attribution": "joint + spouse",
@@ -5277,12 +5277,12 @@
       }
     ],
     "measured": {
-      "return": 76.3,
-      "excess": 7,
+      "return": 74.6,
+      "excess": 7.4,
       "method": "midpoint",
       "benchmark": "SPY",
       "window": "disclosed buys 2019-01-18 to 2026-10-01, since-trade, midpoint-weighted",
-      "asOf": "2026-10-18",
+      "asOf": "2026-10-19",
       "note": "Estimate: position sizes are disclosed-range midpoints, never exact amounts. 161 unpriceable position(s) excluded (options or no resolvable price)."
     },
     "attribution": "self",
@@ -11040,12 +11040,12 @@
       }
     ],
     "measured": {
-      "return": 5.6,
-      "excess": -0.7,
+      "return": 4.5,
+      "excess": -0.5,
       "method": "midpoint",
       "benchmark": "SPY",
       "window": "disclosed buys 2026-02-06 to 2026-09-25, since-trade, midpoint-weighted",
-      "asOf": "2026-10-18",
+      "asOf": "2026-10-19",
       "note": "Estimate: position sizes are disclosed-range midpoints, never exact amounts. 774 unpriceable position(s) excluded (options or no resolvable price)."
     },
     "attribution": "spouse + dependent",
@@ -11692,12 +11692,12 @@
       }
     ],
     "measured": {
-      "return": 36.1,
-      "excess": 12,
+      "return": 33.3,
+      "excess": 10.7,
       "method": "midpoint",
       "benchmark": "SPY",
       "window": "disclosed buys 2024-03-11 to 2026-09-30, since-trade, midpoint-weighted",
-      "asOf": "2026-10-18",
+      "asOf": "2026-10-19",
       "note": "Estimate: position sizes are disclosed-range midpoints, never exact amounts. 27 unpriceable position(s) excluded (options or no resolvable price)."
     },
     "attribution": "spouse",
@@ -14525,12 +14525,12 @@
       }
     ],
     "measured": {
-      "return": 203.7,
+      "return": 200.1,
       "excess": -9.4,
       "method": "midpoint",
       "benchmark": "SPY",
       "window": "disclosed buys 2013-02-13 to 2025-09-09, since-trade, midpoint-weighted",
-      "asOf": "2026-10-18",
+      "asOf": "2026-10-19",
       "note": "Estimate: position sizes are disclosed-range midpoints, never exact amounts. 270 unpriceable position(s) excluded (options or no resolvable price)."
     },
     "attribution": "spouse",
@@ -15259,6 +15259,617 @@
     ]
   },
   {
+    "memberId": "M001157",
+    "tradeCount": 509,
+    "claims": [
+      {
+        "quote": "Frequently cited among the top-10 members of Congress by trading volume.",
+        "sourceUrl": "https://unusualwhales.substack.com/p/congressional-trading-report-2025"
+      }
+    ],
+    "measured": {
+      "return": 6.6,
+      "excess": -1.3,
+      "method": "midpoint",
+      "benchmark": "SPY",
+      "window": "disclosed buys 2026-02-03 to 2026-08-28, since-trade, midpoint-weighted",
+      "asOf": "2026-10-19",
+      "note": "Estimate: position sizes are disclosed-range midpoints, never exact amounts. 176 unpriceable position(s) excluded (options or no resolvable price)."
+    },
+    "attribution": "spouse",
+    "note": "418 trades in window via family/spouse and children's accounts; measured performance poor (+1.9%).",
+    "series": [
+      {
+        "date": "2026-02-03",
+        "value": 32500.5
+      },
+      {
+        "date": "2026-02-03",
+        "value": 8000.5
+      },
+      {
+        "date": "2026-02-04",
+        "value": 75000.5
+      },
+      {
+        "date": "2026-02-04",
+        "value": 8000.5
+      },
+      {
+        "date": "2026-02-04",
+        "value": 32500.5
+      },
+      {
+        "date": "2026-02-05",
+        "value": 32500.5
+      },
+      {
+        "date": "2026-02-05",
+        "value": 8000.5
+      },
+      {
+        "date": "2026-02-05",
+        "value": 8000.5
+      },
+      {
+        "date": "2026-02-05",
+        "value": 8000.5
+      },
+      {
+        "date": "2026-02-10",
+        "value": 8000.5
+      },
+      {
+        "date": "2026-02-10",
+        "value": 8000.5
+      },
+      {
+        "date": "2026-02-11",
+        "value": 8000.5
+      },
+      {
+        "date": "2026-02-11",
+        "value": 8000.5
+      },
+      {
+        "date": "2026-02-11",
+        "value": 8000.5
+      },
+      {
+        "date": "2026-02-12",
+        "value": 32500.5
+      },
+      {
+        "date": "2026-02-12",
+        "value": 32500.5
+      },
+      {
+        "date": "2026-02-13",
+        "value": 32500.5
+      },
+      {
+        "date": "2026-02-13",
+        "value": 8000.5
+      },
+      {
+        "date": "2026-02-17",
+        "value": 8000.5
+      },
+      {
+        "date": "2026-02-17",
+        "value": 8000.5
+      },
+      {
+        "date": "2026-02-20",
+        "value": 8000.5
+      },
+      {
+        "date": "2026-02-27",
+        "value": 8000.5
+      },
+      {
+        "date": "2026-02-27",
+        "value": 32500.5
+      },
+      {
+        "date": "2026-02-27",
+        "value": 32500.5
+      },
+      {
+        "date": "2026-02-27",
+        "value": 32500.5
+      },
+      {
+        "date": "2026-02-27",
+        "value": 8000.5
+      },
+      {
+        "date": "2026-02-27",
+        "value": 8000.5
+      },
+      {
+        "date": "2026-03-02",
+        "value": 8000.5
+      },
+      {
+        "date": "2026-03-02",
+        "value": 32500.5
+      },
+      {
+        "date": "2026-03-02",
+        "value": 8000.5
+      },
+      {
+        "date": "2026-03-03",
+        "value": 8000.5
+      },
+      {
+        "date": "2026-03-03",
+        "value": 8000.5
+      },
+      {
+        "date": "2026-03-03",
+        "value": 32500.5
+      },
+      {
+        "date": "2026-03-04",
+        "value": 8000.5
+      },
+      {
+        "date": "2026-03-04",
+        "value": 32500.5
+      },
+      {
+        "date": "2026-03-04",
+        "value": 8000.5
+      },
+      {
+        "date": "2026-03-04",
+        "value": 175000.5
+      },
+      {
+        "date": "2026-03-04",
+        "value": 75000.5
+      },
+      {
+        "date": "2026-03-04",
+        "value": 8000.5
+      },
+      {
+        "date": "2026-03-04",
+        "value": 8000.5
+      },
+      {
+        "date": "2026-03-06",
+        "value": 8000.5
+      },
+      {
+        "date": "2026-03-10",
+        "value": 8000.5
+      },
+      {
+        "date": "2026-03-11",
+        "value": 8000.5
+      },
+      {
+        "date": "2026-03-12",
+        "value": 32500.5
+      },
+      {
+        "date": "2026-03-12",
+        "value": 8000.5
+      },
+      {
+        "date": "2026-03-12",
+        "value": 32500.5
+      },
+      {
+        "date": "2026-03-12",
+        "value": 8000.5
+      },
+      {
+        "date": "2026-03-12",
+        "value": 8000.5
+      },
+      {
+        "date": "2026-03-12",
+        "value": 8000.5
+      },
+      {
+        "date": "2026-03-13",
+        "value": 32500.5
+      },
+      {
+        "date": "2026-03-13",
+        "value": 32500.5
+      },
+      {
+        "date": "2026-03-17",
+        "value": 8000.5
+      },
+      {
+        "date": "2026-03-17",
+        "value": 8000.5
+      },
+      {
+        "date": "2026-03-17",
+        "value": 8000.5
+      },
+      {
+        "date": "2026-03-18",
+        "value": 8000.5
+      },
+      {
+        "date": "2026-03-19",
+        "value": 8000.5
+      },
+      {
+        "date": "2026-03-20",
+        "value": 8000.5
+      },
+      {
+        "date": "2026-03-20",
+        "value": 8000.5
+      },
+      {
+        "date": "2026-03-20",
+        "value": 8000.5
+      },
+      {
+        "date": "2026-03-23",
+        "value": 175000.5
+      },
+      {
+        "date": "2026-03-23",
+        "value": 32500.5
+      },
+      {
+        "date": "2026-03-23",
+        "value": 8000.5
+      },
+      {
+        "date": "2026-03-23",
+        "value": 32500.5
+      },
+      {
+        "date": "2026-03-23",
+        "value": 8000.5
+      },
+      {
+        "date": "2026-03-24",
+        "value": 8000.5
+      },
+      {
+        "date": "2026-03-24",
+        "value": 8000.5
+      },
+      {
+        "date": "2026-03-25",
+        "value": 32500.5
+      },
+      {
+        "date": "2026-03-27",
+        "value": 8000.5
+      },
+      {
+        "date": "2026-03-27",
+        "value": 8000.5
+      },
+      {
+        "date": "2026-03-27",
+        "value": 8000.5
+      },
+      {
+        "date": "2026-03-27",
+        "value": 8000.5
+      },
+      {
+        "date": "2026-03-27",
+        "value": 32500.5
+      },
+      {
+        "date": "2026-03-31",
+        "value": 8000.5
+      },
+      {
+        "date": "2026-03-31",
+        "value": 8000.5
+      },
+      {
+        "date": "2026-03-31",
+        "value": 8000.5
+      },
+      {
+        "date": "2026-04-01",
+        "value": 32500.5
+      },
+      {
+        "date": "2026-04-01",
+        "value": 32500.5
+      },
+      {
+        "date": "2026-04-02",
+        "value": 32500.5
+      },
+      {
+        "date": "2026-04-06",
+        "value": 32500.5
+      },
+      {
+        "date": "2026-04-09",
+        "value": 175000.5
+      },
+      {
+        "date": "2026-04-09",
+        "value": 75000.5
+      },
+      {
+        "date": "2026-04-10",
+        "value": 32500.5
+      },
+      {
+        "date": "2026-04-14",
+        "value": 32500.5
+      },
+      {
+        "date": "2026-04-16",
+        "value": 175000.5
+      },
+      {
+        "date": "2026-04-17",
+        "value": 75000.5
+      },
+      {
+        "date": "2026-04-17",
+        "value": 75000.5
+      },
+      {
+        "date": "2026-04-17",
+        "value": 32500.5
+      },
+      {
+        "date": "2026-04-17",
+        "value": 32500.5
+      },
+      {
+        "date": "2026-04-17",
+        "value": 32500.5
+      },
+      {
+        "date": "2026-04-20",
+        "value": 32500.5
+      },
+      {
+        "date": "2026-04-20",
+        "value": 32500.5
+      },
+      {
+        "date": "2026-04-20",
+        "value": 32500.5
+      },
+      {
+        "date": "2026-04-22",
+        "value": 32500.5
+      },
+      {
+        "date": "2026-04-23",
+        "value": 175000.5
+      },
+      {
+        "date": "2026-04-23",
+        "value": 75000.5
+      },
+      {
+        "date": "2026-04-23",
+        "value": 75000.5
+      },
+      {
+        "date": "2026-04-23",
+        "value": 75000.5
+      },
+      {
+        "date": "2026-04-23",
+        "value": 32500.5
+      },
+      {
+        "date": "2026-04-27",
+        "value": 32500.5
+      },
+      {
+        "date": "2026-04-28",
+        "value": 32500.5
+      },
+      {
+        "date": "2026-04-28",
+        "value": 32500.5
+      },
+      {
+        "date": "2026-04-28",
+        "value": 32500.5
+      },
+      {
+        "date": "2026-04-29",
+        "value": 75000.5
+      },
+      {
+        "date": "2026-04-29",
+        "value": 32500.5
+      },
+      {
+        "date": "2026-04-29",
+        "value": 75000.5
+      },
+      {
+        "date": "2026-04-29",
+        "value": 32500.5
+      },
+      {
+        "date": "2026-04-30",
+        "value": 32500.5
+      },
+      {
+        "date": "2026-06-02",
+        "value": 8000.5
+      },
+      {
+        "date": "2026-06-02",
+        "value": 32500.5
+      },
+      {
+        "date": "2026-06-02",
+        "value": 8000.5
+      },
+      {
+        "date": "2026-06-03",
+        "value": 8000.5
+      },
+      {
+        "date": "2026-06-03",
+        "value": 8000.5
+      },
+      {
+        "date": "2026-06-03",
+        "value": 8000.5
+      },
+      {
+        "date": "2026-06-03",
+        "value": 8000.5
+      },
+      {
+        "date": "2026-06-04",
+        "value": 8000.5
+      },
+      {
+        "date": "2026-06-05",
+        "value": 8000.5
+      },
+      {
+        "date": "2026-06-09",
+        "value": 32500.5
+      },
+      {
+        "date": "2026-06-10",
+        "value": 8000.5
+      },
+      {
+        "date": "2026-06-10",
+        "value": 8000.5
+      },
+      {
+        "date": "2026-06-11",
+        "value": 8000.5
+      },
+      {
+        "date": "2026-06-12",
+        "value": 32500.5
+      },
+      {
+        "date": "2026-06-15",
+        "value": 8000.5
+      },
+      {
+        "date": "2026-06-15",
+        "value": 8000.5
+      },
+      {
+        "date": "2026-06-17",
+        "value": 8000.5
+      },
+      {
+        "date": "2026-06-17",
+        "value": 8000.5
+      },
+      {
+        "date": "2026-06-18",
+        "value": 8000.5
+      },
+      {
+        "date": "2026-06-18",
+        "value": 8000.5
+      },
+      {
+        "date": "2026-06-18",
+        "value": 8000.5
+      },
+      {
+        "date": "2026-06-23",
+        "value": 8000.5
+      },
+      {
+        "date": "2026-06-23",
+        "value": 32500.5
+      },
+      {
+        "date": "2026-06-25",
+        "value": 8000.5
+      },
+      {
+        "date": "2026-06-26",
+        "value": 8000.5
+      },
+      {
+        "date": "2026-06-26",
+        "value": 32500.5
+      },
+      {
+        "date": "2026-06-29",
+        "value": 8000.5
+      },
+      {
+        "date": "2026-08-07",
+        "value": 75000.5
+      },
+      {
+        "date": "2026-08-07",
+        "value": 75000.5
+      },
+      {
+        "date": "2026-08-07",
+        "value": 75000.5
+      },
+      {
+        "date": "2026-08-10",
+        "value": 75000.5
+      },
+      {
+        "date": "2026-08-12",
+        "value": 75000.5
+      },
+      {
+        "date": "2026-08-13",
+        "value": 75000.5
+      },
+      {
+        "date": "2026-08-19",
+        "value": 175000.5
+      },
+      {
+        "date": "2026-08-20",
+        "value": 75000.5
+      },
+      {
+        "date": "2026-08-20",
+        "value": 75000.5
+      },
+      {
+        "date": "2026-08-21",
+        "value": 75000.5
+      },
+      {
+        "date": "2026-08-24",
+        "value": 75000.5
+      },
+      {
+        "date": "2026-08-25",
+        "value": 75000.5
+      },
+      {
+        "date": "2026-08-28",
+        "value": 75000.5
+      }
+    ]
+  },
+  {
     "memberId": "B001236",
     "tradeCount": 483,
     "claims": [
@@ -15269,12 +15880,12 @@
       }
     ],
     "measured": {
-      "return": 12,
-      "excess": -13.2,
+      "return": 11.1,
+      "excess": -12.6,
       "method": "midpoint",
       "benchmark": "SPY",
       "window": "disclosed buys 2023-08-29 to 2026-08-27, since-trade, midpoint-weighted",
-      "asOf": "2026-10-18",
+      "asOf": "2026-10-19",
       "note": "Estimate: position sizes are disclosed-range midpoints, never exact amounts. 7 unpriceable position(s) excluded (options or no resolvable price)."
     },
     "attribution": "joint + self",
@@ -16263,565 +16874,6 @@
     ]
   },
   {
-    "memberId": "M001157",
-    "tradeCount": 418,
-    "claims": [
-      {
-        "quote": "Frequently cited among the top-10 members of Congress by trading volume.",
-        "sourceUrl": "https://unusualwhales.substack.com/p/congressional-trading-report-2025"
-      }
-    ],
-    "measured": {
-      "return": 10.5,
-      "excess": -1.3,
-      "method": "midpoint",
-      "benchmark": "SPY",
-      "window": "disclosed buys 2026-02-03 to 2026-06-29, since-trade, midpoint-weighted",
-      "asOf": "2026-10-18",
-      "note": "Estimate: position sizes are disclosed-range midpoints, never exact amounts. 161 unpriceable position(s) excluded (options or no resolvable price)."
-    },
-    "attribution": "spouse",
-    "note": "418 trades in window via family/spouse and children's accounts; measured performance poor (+1.9%).",
-    "series": [
-      {
-        "date": "2026-02-03",
-        "value": 32500.5
-      },
-      {
-        "date": "2026-02-03",
-        "value": 8000.5
-      },
-      {
-        "date": "2026-02-04",
-        "value": 75000.5
-      },
-      {
-        "date": "2026-02-04",
-        "value": 8000.5
-      },
-      {
-        "date": "2026-02-04",
-        "value": 32500.5
-      },
-      {
-        "date": "2026-02-05",
-        "value": 32500.5
-      },
-      {
-        "date": "2026-02-05",
-        "value": 8000.5
-      },
-      {
-        "date": "2026-02-05",
-        "value": 8000.5
-      },
-      {
-        "date": "2026-02-05",
-        "value": 8000.5
-      },
-      {
-        "date": "2026-02-10",
-        "value": 8000.5
-      },
-      {
-        "date": "2026-02-10",
-        "value": 8000.5
-      },
-      {
-        "date": "2026-02-11",
-        "value": 8000.5
-      },
-      {
-        "date": "2026-02-11",
-        "value": 8000.5
-      },
-      {
-        "date": "2026-02-11",
-        "value": 8000.5
-      },
-      {
-        "date": "2026-02-12",
-        "value": 32500.5
-      },
-      {
-        "date": "2026-02-12",
-        "value": 32500.5
-      },
-      {
-        "date": "2026-02-13",
-        "value": 32500.5
-      },
-      {
-        "date": "2026-02-13",
-        "value": 8000.5
-      },
-      {
-        "date": "2026-02-17",
-        "value": 8000.5
-      },
-      {
-        "date": "2026-02-17",
-        "value": 8000.5
-      },
-      {
-        "date": "2026-02-20",
-        "value": 8000.5
-      },
-      {
-        "date": "2026-02-27",
-        "value": 8000.5
-      },
-      {
-        "date": "2026-02-27",
-        "value": 32500.5
-      },
-      {
-        "date": "2026-02-27",
-        "value": 32500.5
-      },
-      {
-        "date": "2026-02-27",
-        "value": 32500.5
-      },
-      {
-        "date": "2026-02-27",
-        "value": 8000.5
-      },
-      {
-        "date": "2026-02-27",
-        "value": 8000.5
-      },
-      {
-        "date": "2026-03-02",
-        "value": 8000.5
-      },
-      {
-        "date": "2026-03-02",
-        "value": 32500.5
-      },
-      {
-        "date": "2026-03-02",
-        "value": 8000.5
-      },
-      {
-        "date": "2026-03-03",
-        "value": 8000.5
-      },
-      {
-        "date": "2026-03-03",
-        "value": 8000.5
-      },
-      {
-        "date": "2026-03-03",
-        "value": 32500.5
-      },
-      {
-        "date": "2026-03-04",
-        "value": 8000.5
-      },
-      {
-        "date": "2026-03-04",
-        "value": 32500.5
-      },
-      {
-        "date": "2026-03-04",
-        "value": 8000.5
-      },
-      {
-        "date": "2026-03-04",
-        "value": 175000.5
-      },
-      {
-        "date": "2026-03-04",
-        "value": 75000.5
-      },
-      {
-        "date": "2026-03-04",
-        "value": 8000.5
-      },
-      {
-        "date": "2026-03-04",
-        "value": 8000.5
-      },
-      {
-        "date": "2026-03-06",
-        "value": 8000.5
-      },
-      {
-        "date": "2026-03-10",
-        "value": 8000.5
-      },
-      {
-        "date": "2026-03-11",
-        "value": 8000.5
-      },
-      {
-        "date": "2026-03-12",
-        "value": 32500.5
-      },
-      {
-        "date": "2026-03-12",
-        "value": 8000.5
-      },
-      {
-        "date": "2026-03-12",
-        "value": 32500.5
-      },
-      {
-        "date": "2026-03-12",
-        "value": 8000.5
-      },
-      {
-        "date": "2026-03-12",
-        "value": 8000.5
-      },
-      {
-        "date": "2026-03-12",
-        "value": 8000.5
-      },
-      {
-        "date": "2026-03-13",
-        "value": 32500.5
-      },
-      {
-        "date": "2026-03-13",
-        "value": 32500.5
-      },
-      {
-        "date": "2026-03-17",
-        "value": 8000.5
-      },
-      {
-        "date": "2026-03-17",
-        "value": 8000.5
-      },
-      {
-        "date": "2026-03-17",
-        "value": 8000.5
-      },
-      {
-        "date": "2026-03-18",
-        "value": 8000.5
-      },
-      {
-        "date": "2026-03-19",
-        "value": 8000.5
-      },
-      {
-        "date": "2026-03-20",
-        "value": 8000.5
-      },
-      {
-        "date": "2026-03-20",
-        "value": 8000.5
-      },
-      {
-        "date": "2026-03-20",
-        "value": 8000.5
-      },
-      {
-        "date": "2026-03-23",
-        "value": 175000.5
-      },
-      {
-        "date": "2026-03-23",
-        "value": 32500.5
-      },
-      {
-        "date": "2026-03-23",
-        "value": 8000.5
-      },
-      {
-        "date": "2026-03-23",
-        "value": 32500.5
-      },
-      {
-        "date": "2026-03-23",
-        "value": 8000.5
-      },
-      {
-        "date": "2026-03-24",
-        "value": 8000.5
-      },
-      {
-        "date": "2026-03-24",
-        "value": 8000.5
-      },
-      {
-        "date": "2026-03-25",
-        "value": 32500.5
-      },
-      {
-        "date": "2026-03-27",
-        "value": 8000.5
-      },
-      {
-        "date": "2026-03-27",
-        "value": 8000.5
-      },
-      {
-        "date": "2026-03-27",
-        "value": 8000.5
-      },
-      {
-        "date": "2026-03-27",
-        "value": 8000.5
-      },
-      {
-        "date": "2026-03-27",
-        "value": 32500.5
-      },
-      {
-        "date": "2026-03-31",
-        "value": 8000.5
-      },
-      {
-        "date": "2026-03-31",
-        "value": 8000.5
-      },
-      {
-        "date": "2026-03-31",
-        "value": 8000.5
-      },
-      {
-        "date": "2026-04-01",
-        "value": 32500.5
-      },
-      {
-        "date": "2026-04-01",
-        "value": 32500.5
-      },
-      {
-        "date": "2026-04-02",
-        "value": 32500.5
-      },
-      {
-        "date": "2026-04-06",
-        "value": 32500.5
-      },
-      {
-        "date": "2026-04-09",
-        "value": 175000.5
-      },
-      {
-        "date": "2026-04-09",
-        "value": 75000.5
-      },
-      {
-        "date": "2026-04-10",
-        "value": 32500.5
-      },
-      {
-        "date": "2026-04-14",
-        "value": 32500.5
-      },
-      {
-        "date": "2026-04-16",
-        "value": 175000.5
-      },
-      {
-        "date": "2026-04-17",
-        "value": 75000.5
-      },
-      {
-        "date": "2026-04-17",
-        "value": 75000.5
-      },
-      {
-        "date": "2026-04-17",
-        "value": 32500.5
-      },
-      {
-        "date": "2026-04-17",
-        "value": 32500.5
-      },
-      {
-        "date": "2026-04-17",
-        "value": 32500.5
-      },
-      {
-        "date": "2026-04-20",
-        "value": 32500.5
-      },
-      {
-        "date": "2026-04-20",
-        "value": 32500.5
-      },
-      {
-        "date": "2026-04-20",
-        "value": 32500.5
-      },
-      {
-        "date": "2026-04-22",
-        "value": 32500.5
-      },
-      {
-        "date": "2026-04-23",
-        "value": 175000.5
-      },
-      {
-        "date": "2026-04-23",
-        "value": 75000.5
-      },
-      {
-        "date": "2026-04-23",
-        "value": 75000.5
-      },
-      {
-        "date": "2026-04-23",
-        "value": 75000.5
-      },
-      {
-        "date": "2026-04-23",
-        "value": 32500.5
-      },
-      {
-        "date": "2026-04-27",
-        "value": 32500.5
-      },
-      {
-        "date": "2026-04-28",
-        "value": 32500.5
-      },
-      {
-        "date": "2026-04-28",
-        "value": 32500.5
-      },
-      {
-        "date": "2026-04-28",
-        "value": 32500.5
-      },
-      {
-        "date": "2026-04-29",
-        "value": 75000.5
-      },
-      {
-        "date": "2026-04-29",
-        "value": 32500.5
-      },
-      {
-        "date": "2026-04-29",
-        "value": 75000.5
-      },
-      {
-        "date": "2026-04-29",
-        "value": 32500.5
-      },
-      {
-        "date": "2026-04-30",
-        "value": 32500.5
-      },
-      {
-        "date": "2026-06-02",
-        "value": 8000.5
-      },
-      {
-        "date": "2026-06-02",
-        "value": 32500.5
-      },
-      {
-        "date": "2026-06-02",
-        "value": 8000.5
-      },
-      {
-        "date": "2026-06-03",
-        "value": 8000.5
-      },
-      {
-        "date": "2026-06-03",
-        "value": 8000.5
-      },
-      {
-        "date": "2026-06-03",
-        "value": 8000.5
-      },
-      {
-        "date": "2026-06-03",
-        "value": 8000.5
-      },
-      {
-        "date": "2026-06-04",
-        "value": 8000.5
-      },
-      {
-        "date": "2026-06-05",
-        "value": 8000.5
-      },
-      {
-        "date": "2026-06-09",
-        "value": 32500.5
-      },
-      {
-        "date": "2026-06-10",
-        "value": 8000.5
-      },
-      {
-        "date": "2026-06-10",
-        "value": 8000.5
-      },
-      {
-        "date": "2026-06-11",
-        "value": 8000.5
-      },
-      {
-        "date": "2026-06-12",
-        "value": 32500.5
-      },
-      {
-        "date": "2026-06-15",
-        "value": 8000.5
-      },
-      {
-        "date": "2026-06-15",
-        "value": 8000.5
-      },
-      {
-        "date": "2026-06-17",
-        "value": 8000.5
-      },
-      {
-        "date": "2026-06-17",
-        "value": 8000.5
-      },
-      {
-        "date": "2026-06-18",
-        "value": 8000.5
-      },
-      {
-        "date": "2026-06-18",
-        "value": 8000.5
-      },
-      {
-        "date": "2026-06-18",
-        "value": 8000.5
-      },
-      {
-        "date": "2026-06-23",
-        "value": 8000.5
-      },
-      {
-        "date": "2026-06-23",
-        "value": 32500.5
-      },
-      {
-        "date": "2026-06-25",
-        "value": 8000.5
-      },
-      {
-        "date": "2026-06-26",
-        "value": 8000.5
-      },
-      {
-        "date": "2026-06-26",
-        "value": 32500.5
-      },
-      {
-        "date": "2026-06-29",
-        "value": 8000.5
-      }
-    ]
-  },
-  {
     "memberId": "M001243",
     "tradeCount": 406,
     "claims": [
@@ -16832,12 +16884,12 @@
       }
     ],
     "measured": {
-      "return": -4.6,
-      "excess": -35.5,
+      "return": -5.2,
+      "excess": -34.4,
       "method": "midpoint",
       "benchmark": "SPY",
       "window": "disclosed buys 2025-02-25 to 2025-11-28, since-trade, midpoint-weighted",
-      "asOf": "2026-10-18",
+      "asOf": "2026-10-19",
       "note": "Estimate: position sizes are disclosed-range midpoints, never exact amounts. 267 unpriceable position(s) excluded (options or no resolvable price)."
     },
     "attribution": "spouse + self",
@@ -16951,12 +17003,12 @@
       }
     ],
     "measured": {
-      "return": 30.9,
-      "excess": -13.1,
+      "return": 29.7,
+      "excess": -12.5,
       "method": "midpoint",
       "benchmark": "SPY",
       "window": "disclosed buys 2023-02-21 to 2026-07-13, since-trade, midpoint-weighted",
-      "asOf": "2026-10-18",
+      "asOf": "2026-10-19",
       "note": "Estimate: position sizes are disclosed-range midpoints, never exact amounts. 5 unpriceable position(s) excluded (options or no resolvable price)."
     },
     "attribution": "dependent + self",
@@ -18004,12 +18056,12 @@
       }
     ],
     "measured": {
-      "return": 44.8,
-      "excess": 16.1,
+      "return": 41,
+      "excess": 13.9,
       "method": "midpoint",
       "benchmark": "SPY",
       "window": "disclosed buys 2025-01-03 to 2026-06-04, since-trade, midpoint-weighted",
-      "asOf": "2026-10-18",
+      "asOf": "2026-10-19",
       "note": "Estimate: position sizes are disclosed-range midpoints, never exact amounts. 19 unpriceable position(s) excluded (options or no resolvable price)."
     },
     "attribution": "self",
@@ -18654,12 +18706,12 @@
       }
     ],
     "measured": {
-      "return": 163.5,
-      "excess": 76.6,
+      "return": 159,
+      "excess": 74.2,
       "method": "midpoint",
       "benchmark": "SPY",
       "window": "disclosed buys 2014-10-24 to 2026-07-28, since-trade, midpoint-weighted",
-      "asOf": "2026-10-18",
+      "asOf": "2026-10-19",
       "note": "Estimate: position sizes are disclosed-range midpoints, never exact amounts. 53 unpriceable position(s) excluded (options or no resolvable price)."
     },
     "attribution": "spouse",
@@ -19003,12 +19055,12 @@
       }
     ],
     "measured": {
-      "return": 28.9,
-      "excess": -5.1,
+      "return": 28.1,
+      "excess": -4.3,
       "method": "midpoint",
       "benchmark": "SPY",
       "window": "disclosed buys 2023-01-18 to 2026-08-21, since-trade, midpoint-weighted",
-      "asOf": "2026-10-18",
+      "asOf": "2026-10-19",
       "note": "Estimate: position sizes are disclosed-range midpoints, never exact amounts. 9 unpriceable position(s) excluded (options or no resolvable price)."
     },
     "attribution": "self",
