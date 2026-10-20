@@ -1,0 +1,38 @@
+{
+  "member": {
+    "bioguideId": "B001257",
+    "name": "Gus M. Bilirakis",
+    "party": "R",
+    "chamber": "house",
+    "state": "FL",
+    "district": "FL-12",
+    "active": true
+  },
+  "positions": [],
+  "trades": [
+    {
+      "memberId": "B001257",
+      "assetRaw": "GE Vernova LLC",
+      "security": null,
+      "side": "sell",
+      "owner": "dependent",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-01-27",
+      "filedDate": "2025-02-06",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/8220747.pdf",
+      "late": false,
+      "note": "My dependent child sold shares of GE Vernova LLC (GEV).",
+      "provenance": "kadoa"
+    }
+  ],
+  "series": [
+    {
+      "date": "2025-01-27",
+      "value": 8000.5
+    }
+  ],
+  "measured": null
+}

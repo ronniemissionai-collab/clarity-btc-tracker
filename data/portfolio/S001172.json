@@ -8,7 +8,30 @@
     "district": "NE-03",
     "active": true
   },
-  "positions": [],
+  "positions": [
+    {
+      "memberId": "S001172",
+      "security": {
+        "ticker": "BTC",
+        "kind": "direct"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "stale",
+      "asOf": "2025-10-17",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/8221238.pdf"
+        }
+      ]
+    }
+  ],
   "trades": [
     {
       "memberId": "S001172",
@@ -28,6 +51,24 @@
     },
     {
       "memberId": "S001172",
+      "assetRaw": "Bitcoin",
+      "security": {
+        "ticker": "BTC",
+        "kind": "direct"
+      },
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-10-17",
+      "filedDate": "2025-11-14",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/8221238.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S001172",
       "assetRaw": "CarterBaldwin",
       "security": null,
       "side": "buy",
@@ -41,6 +82,36 @@
       "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035067.pdf",
       "late": true,
       "note": "purchase of CarterBaldwin stock",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S001172",
+      "assetRaw": "Carter Baldwin",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2025-07-14",
+      "filedDate": "2025-07-24",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/9115549.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S001172",
+      "assetRaw": "Carter Baldwin",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-01-14",
+      "filedDate": "2025-02-13",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/8220764.pdf",
+      "late": false,
       "provenance": "kadoa"
     },
     {
@@ -171,8 +242,20 @@
       "value": 8000.5
     },
     {
+      "date": "2025-01-14",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-07-14",
+      "value": 32500.5
+    },
+    {
       "date": "2025-07-31",
       "value": 32500.5
+    },
+    {
+      "date": "2025-10-17",
+      "value": 8000.5
     },
     {
       "date": "2026-07-31",

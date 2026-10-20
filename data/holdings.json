@@ -632,6 +632,32 @@
     "note": "from Annual Report for CY 2025: Coinbase Global, Inc. - Class A Common Stock Filer comment: Purchase less than $1,000."
   },
   {
+    "memberId": "G000581",
+    "security": {
+      "ticker": "TSLA",
+      "kind": "treasury"
+    },
+    "owner": "self",
+    "range": {
+      "lo": 65002,
+      "hi": 150000
+    },
+    "status": "sold",
+    "asOf": "2025-03-17",
+    "extraction": "pdf-text",
+    "verification": "unverified",
+    "sources": [
+      {
+        "kind": "filing",
+        "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/8220796.pdf"
+      },
+      {
+        "kind": "filing",
+        "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/8220809.pdf"
+      }
+    ]
+  },
+  {
     "memberId": "G000583",
     "security": {
       "ticker": "TSLA",
@@ -1002,6 +1028,50 @@
   {
     "memberId": "K000389",
     "security": {
+      "ticker": "COIN",
+      "kind": "exchange"
+    },
+    "owner": "dependent",
+    "range": {
+      "lo": 1001,
+      "hi": 15000
+    },
+    "status": "holds",
+    "asOf": "2026-02-24",
+    "extraction": "pdf-text",
+    "verification": "unverified",
+    "sources": [
+      {
+        "kind": "filing",
+        "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/8221358.pdf"
+      }
+    ]
+  },
+  {
+    "memberId": "K000389",
+    "security": {
+      "ticker": "COIN",
+      "kind": "exchange"
+    },
+    "owner": "spouse",
+    "range": {
+      "lo": 1001,
+      "hi": 15000
+    },
+    "status": "holds",
+    "asOf": "2026-09-04",
+    "extraction": "pdf-text",
+    "verification": "unverified",
+    "sources": [
+      {
+        "kind": "filing",
+        "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116376.pdf"
+      }
+    ]
+  },
+  {
+    "memberId": "K000389",
+    "security": {
       "ticker": "TSLA",
       "kind": "treasury"
     },
@@ -1111,8 +1181,8 @@
     },
     "owner": "spouse",
     "range": {
-      "lo": 100001,
-      "hi": 250000
+      "lo": 200002,
+      "hi": 500000
     },
     "status": "stale",
     "asOf": "2025-09-12",
@@ -1124,14 +1194,18 @@
         "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032129.pdf"
       },
       {
-        "kind": "news",
-        "url": "https://www.thetrendswire.com/blog/congress-spacex-stock-disclosure-stock-act-2026",
-        "title": "A Lawmaker's Family Bet on xAI Just Became a SpaceX Stake | TheTrendsWire"
+        "kind": "filing",
+        "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/8221212.pdf"
       },
       {
         "kind": "news",
         "url": "https://finance.yahoo.com/markets/article/6-members-of-congress-have-bought-spacex-stock-including-one-democrat-130256608.html",
         "title": "6 members of Congress have bought SpaceX stock, including one Democrat"
+      },
+      {
+        "kind": "news",
+        "url": "https://particle.news/story/six-lawmakers-bought-spacex-stock-after-its-ipo-disclosures-show",
+        "title": "Particle: Six Lawmakers Bought SpaceX Stock After Its IPO, Disclosures Show"
       }
     ]
   },
@@ -1584,6 +1658,28 @@
       }
     ],
     "note": "sale reported by PTR with no annual baseline in our coverage"
+  },
+  {
+    "memberId": "S001172",
+    "security": {
+      "ticker": "BTC",
+      "kind": "direct"
+    },
+    "owner": "self",
+    "range": {
+      "lo": 1001,
+      "hi": 15000
+    },
+    "status": "stale",
+    "asOf": "2025-10-17",
+    "extraction": "pdf-text",
+    "verification": "unverified",
+    "sources": [
+      {
+        "kind": "filing",
+        "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/8221238.pdf"
+      }
+    ]
   },
   {
     "memberId": "S001184",

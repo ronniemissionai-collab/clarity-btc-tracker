@@ -12,6 +12,21 @@
   "trades": [
     {
       "memberId": "R000606",
+      "assetRaw": "AT&T",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2024-11-13",
+      "filedDate": "2025-04-09",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/8220828.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "R000606",
       "assetRaw": "I",
       "security": null,
       "side": "sell",
@@ -30,6 +45,10 @@
     {
       "date": "2024-07-02",
       "value": 75000.5
+    },
+    {
+      "date": "2024-11-13",
+      "value": 8000.5
     }
   ],
   "measured": null

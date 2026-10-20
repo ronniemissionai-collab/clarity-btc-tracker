@@ -12,6 +12,52 @@
   "trades": [
     {
       "memberId": "S000344",
+      "assetRaw": "US Treasury Bonds",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-03-03",
+      "filedDate": "2025-03-03",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/8220780.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S000344",
+      "assetRaw": "USA Treasury Bonds",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-02-19",
+      "filedDate": "2025-02-25",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/8220770.pdf",
+      "late": false,
+      "note": "Filed in error because the purchase transaction did not take place.",
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S000344",
+      "assetRaw": "USA Treasury Bonds",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-02-19",
+      "filedDate": "2025-02-20",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/8220768.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S000344",
       "assetRaw": "Filer is one of many beneficiaries of that Trust. Under the terms of the trust, the filer is to receive approximately 1/5th of the total assets held by the trust on 1/1/22. This bond was transferred in full to another beneficiary outright on November 28. TIPS Bond (Treasury Inflation Protected Security) [GS]",
       "security": null,
       "side": "sell",
@@ -227,6 +273,18 @@
     },
     {
       "date": "2022-11-28",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-02-19",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-02-19",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-03-03",
       "value": 8000.5
     }
   ],

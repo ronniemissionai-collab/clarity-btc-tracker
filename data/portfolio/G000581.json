@@ -1,0 +1,167 @@
+{
+  "member": {
+    "bioguideId": "G000581",
+    "name": "Vicente Gonzalez",
+    "party": "D",
+    "chamber": "house",
+    "state": "TX",
+    "district": "TX-34",
+    "active": true
+  },
+  "positions": [
+    {
+      "memberId": "G000581",
+      "security": {
+        "ticker": "TSLA",
+        "kind": "treasury"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 65002,
+        "hi": 150000
+      },
+      "status": "sold",
+      "asOf": "2025-03-17",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/8220796.pdf"
+        },
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/8220809.pdf"
+        }
+      ]
+    }
+  ],
+  "trades": [
+    {
+      "memberId": "G000581",
+      "assetRaw": "APPLE INC COMMON STOCK",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2025-04-07",
+      "filedDate": "2025-04-30",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/8220845.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "G000581",
+      "assetRaw": "APPLE INC COMMON STOCK",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2025-04-03",
+      "filedDate": "2025-04-30",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/8220845.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "G000581",
+      "assetRaw": "TESLA COMMON STOCK",
+      "security": {
+        "ticker": "TSLA",
+        "kind": "treasury"
+      },
+      "side": "sell",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2025-03-17",
+      "filedDate": "2025-03-31",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/8220809.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "G000581",
+      "assetRaw": "TESLA Common Stock",
+      "security": {
+        "ticker": "TSLA",
+        "kind": "treasury"
+      },
+      "side": "buy",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2025-03-12",
+      "filedDate": "2025-03-13",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/8220796.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "G000581",
+      "assetRaw": "TESLA Common Stock",
+      "security": {
+        "ticker": "TSLA",
+        "kind": "treasury"
+      },
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2025-03-04",
+      "filedDate": "2025-03-13",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/8220796.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "G000581",
+      "assetRaw": "650 HSBC HOLDINGS PLC",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2025-02-27",
+      "filedDate": "2025-03-13",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/8220796.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    }
+  ],
+  "series": [
+    {
+      "date": "2025-02-27",
+      "value": 32500.5
+    },
+    {
+      "date": "2025-03-04",
+      "value": 32500.5
+    },
+    {
+      "date": "2025-03-12",
+      "value": 75000.5
+    },
+    {
+      "date": "2025-03-17",
+      "value": 175000.5
+    },
+    {
+      "date": "2025-04-03",
+      "value": 175000.5
+    },
+    {
+      "date": "2025-04-07",
+      "value": 75000.5
+    }
+  ],
+  "measured": null
+}

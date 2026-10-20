@@ -149,6 +149,29 @@
     {
       "memberId": "R000619",
       "security": {
+        "ticker": "GOOG",
+        "kind": "other"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "status": "sold",
+      "asOf": "2026-10-16",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035671.pdf"
+        }
+      ],
+      "note": "sale reported by PTR with no annual baseline in our coverage"
+    },
+    {
+      "memberId": "R000619",
+      "security": {
         "ticker": "GOOGL",
         "kind": "other"
       },
@@ -485,9 +508,64 @@
         }
       ],
       "note": "sale reported by PTR with no annual baseline in our coverage"
+    },
+    {
+      "memberId": "R000619",
+      "security": {
+        "ticker": "WSBC",
+        "kind": "other"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "sold",
+      "asOf": "2026-10-16",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035671.pdf"
+        }
+      ],
+      "note": "sale reported by PTR with no annual baseline in our coverage"
     }
   ],
   "trades": [
+    {
+      "memberId": "R000619",
+      "assetRaw": "Alphabet Inc. - Class C Capital Stock (GOOG) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2026-10-16",
+      "filedDate": "2026-10-19",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035671.pdf",
+      "late": false,
+      "provenance": "official"
+    },
+    {
+      "memberId": "R000619",
+      "assetRaw": "WesBanco, Inc. - Common Stock (WSBC) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-10-16",
+      "filedDate": "2026-10-19",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035671.pdf",
+      "late": false,
+      "provenance": "official"
+    },
     {
       "memberId": "R000619",
       "assetRaw": "Microsoft Corporation - Common Stock (MSFT) [ST]",
@@ -1251,6 +1329,14 @@
     },
     {
       "date": "2026-09-28",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-10-16",
+      "value": 75000.5
+    },
+    {
+      "date": "2026-10-16",
       "value": 8000.5
     }
   ],

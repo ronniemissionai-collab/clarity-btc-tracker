@@ -265,6 +265,50 @@
     {
       "memberId": "J000309",
       "security": {
+        "ticker": "DDOG",
+        "kind": "other"
+      },
+      "owner": "joint",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "status": "holds",
+      "asOf": "2026-09-28",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035551.pdf"
+        }
+      ]
+    },
+    {
+      "memberId": "J000309",
+      "security": {
+        "ticker": "EL",
+        "kind": "other"
+      },
+      "owner": "joint",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "status": "holds",
+      "asOf": "2026-09-28",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035551.pdf"
+        }
+      ]
+    },
+    {
+      "memberId": "J000309",
+      "security": {
         "ticker": "GEV",
         "kind": "other"
       },
@@ -281,6 +325,28 @@
         {
           "kind": "filing",
           "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033929.pdf"
+        }
+      ]
+    },
+    {
+      "memberId": "J000309",
+      "security": {
+        "ticker": "GH",
+        "kind": "other"
+      },
+      "owner": "joint",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "status": "holds",
+      "asOf": "2026-09-28",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035551.pdf"
         }
       ]
     },
@@ -752,6 +818,29 @@
     {
       "memberId": "J000309",
       "security": {
+        "ticker": "TYG",
+        "kind": "other"
+      },
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "sold",
+      "asOf": "2026-09-04",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035551.pdf"
+        }
+      ],
+      "note": "sale reported by PTR with no annual baseline in our coverage"
+    },
+    {
+      "memberId": "J000309",
+      "security": {
         "ticker": "V",
         "kind": "other"
       },
@@ -783,8 +872,8 @@
         "lo": 35001,
         "hi": 98999
       },
-      "status": "holds",
-      "asOf": "2026-08-28",
+      "status": "sold",
+      "asOf": "2026-09-28",
       "extraction": "pdf-text",
       "verification": "unverified",
       "sources": [
@@ -795,6 +884,10 @@
         {
           "kind": "filing",
           "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035370.pdf"
+        },
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035551.pdf"
         }
       ],
       "note": "partial sale 2026-08-28"
@@ -832,19 +925,119 @@
         "lo": 50001,
         "hi": 100000
       },
-      "status": "holds",
-      "asOf": "2026-01-13",
+      "status": "sold",
+      "asOf": "2026-09-28",
       "extraction": "pdf-text",
       "verification": "unverified",
       "sources": [
         {
           "kind": "filing",
           "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033929.pdf"
+        },
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035551.pdf"
         }
       ]
     }
   ],
   "trades": [
+    {
+      "memberId": "J000309",
+      "assetRaw": "Datadog, Inc. - Class A Common Stock (DDOG) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "joint",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2026-09-28",
+      "filedDate": "2026-10-19",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035551.pdf",
+      "late": false,
+      "provenance": "official"
+    },
+    {
+      "memberId": "J000309",
+      "assetRaw": "Estee Lauder Companies, Inc. (EL) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "joint",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2026-09-28",
+      "filedDate": "2026-10-19",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035551.pdf",
+      "late": false,
+      "provenance": "official"
+    },
+    {
+      "memberId": "J000309",
+      "assetRaw": "Guardant Health, Inc. - Common Stock (GH) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "joint",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2026-09-28",
+      "filedDate": "2026-10-19",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035551.pdf",
+      "late": false,
+      "provenance": "official"
+    },
+    {
+      "memberId": "J000309",
+      "assetRaw": "ViaSat, Inc. - Common Stock (VSAT) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2026-09-28",
+      "filedDate": "2026-10-19",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035551.pdf",
+      "late": false,
+      "provenance": "official"
+    },
+    {
+      "memberId": "J000309",
+      "assetRaw": "Walmart Inc. - Common Stock (WMT) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2026-09-28",
+      "filedDate": "2026-10-19",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035551.pdf",
+      "late": false,
+      "provenance": "official"
+    },
+    {
+      "memberId": "J000309",
+      "assetRaw": "Tortoise Energy Infrastructure Corporation Common Stock (TYG) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-09-04",
+      "filedDate": "2026-10-19",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035551.pdf",
+      "late": false,
+      "provenance": "official"
+    },
     {
       "memberId": "J000309",
       "assetRaw": "ViaSat, Inc. - Common Stock (VSAT) [ST]",
@@ -4733,6 +4926,30 @@
     {
       "date": "2026-08-28",
       "value": 8000.5
+    },
+    {
+      "date": "2026-09-04",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-09-28",
+      "value": 75000.5
+    },
+    {
+      "date": "2026-09-28",
+      "value": 75000.5
+    },
+    {
+      "date": "2026-09-28",
+      "value": 32500.5
+    },
+    {
+      "date": "2026-09-28",
+      "value": 75000.5
+    },
+    {
+      "date": "2026-09-28",
+      "value": 75000.5
     }
   ],
   "measured": null

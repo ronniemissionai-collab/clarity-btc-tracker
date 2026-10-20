@@ -59,6 +59,25 @@
   },
   {
     "memberId": "K000389",
+    "assetRaw": "COINBASE GLOBAL, INC. CMN CLASS A",
+    "security": {
+      "ticker": "COIN",
+      "kind": "exchange"
+    },
+    "side": "buy",
+    "owner": "spouse",
+    "range": {
+      "lo": 1001,
+      "hi": 15000
+    },
+    "transactionDate": "2026-09-04",
+    "filedDate": "2026-10-07",
+    "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116376.pdf",
+    "late": false,
+    "provenance": "kadoa"
+  },
+  {
+    "memberId": "K000389",
     "assetRaw": "TESLA, INC. CMN",
     "security": {
       "ticker": "TSLA",
@@ -459,6 +478,25 @@
   },
   {
     "memberId": "K000389",
+    "assetRaw": "COINBASE GLOBAL, INC. CMN CLASS A",
+    "security": {
+      "ticker": "COIN",
+      "kind": "exchange"
+    },
+    "side": "sell",
+    "owner": "spouse",
+    "range": {
+      "lo": 1001,
+      "hi": 15000
+    },
+    "transactionDate": "2026-04-13",
+    "filedDate": "2026-05-11",
+    "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9115822.pdf",
+    "late": false,
+    "provenance": "kadoa"
+  },
+  {
+    "memberId": "K000389",
     "assetRaw": "TESLA, INC. CMN",
     "security": {
       "ticker": "TSLA",
@@ -574,6 +612,25 @@
   },
   {
     "memberId": "K000389",
+    "assetRaw": "COINBASE GLOBAL, INC. CMN CLASS A",
+    "security": {
+      "ticker": "COIN",
+      "kind": "exchange"
+    },
+    "side": "buy",
+    "owner": "dependent",
+    "range": {
+      "lo": 1001,
+      "hi": 15000
+    },
+    "transactionDate": "2026-02-24",
+    "filedDate": "2026-03-09",
+    "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/8221358.pdf",
+    "late": false,
+    "provenance": "kadoa"
+  },
+  {
+    "memberId": "K000389",
     "assetRaw": "TESLA, INC. CMN",
     "security": {
       "ticker": "TSLA",
@@ -649,6 +706,82 @@
     "provenance": "both"
   },
   {
+    "memberId": "K000389",
+    "assetRaw": "COINBASE GLOBAL, INC. CMN CLASS A",
+    "security": {
+      "ticker": "COIN",
+      "kind": "exchange"
+    },
+    "side": "buy",
+    "owner": "spouse",
+    "range": {
+      "lo": 1001,
+      "hi": 15000
+    },
+    "transactionDate": "2026-01-29",
+    "filedDate": "2026-02-06",
+    "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/8221322.pdf",
+    "late": false,
+    "provenance": "kadoa"
+  },
+  {
+    "memberId": "K000389",
+    "assetRaw": "TESLA, INC. CMN",
+    "security": {
+      "ticker": "TSLA",
+      "kind": "treasury"
+    },
+    "side": "buy",
+    "owner": "spouse",
+    "range": {
+      "lo": 1001,
+      "hi": 15000
+    },
+    "transactionDate": "2026-01-29",
+    "filedDate": "2026-02-06",
+    "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/8221322.pdf",
+    "late": false,
+    "provenance": "kadoa"
+  },
+  {
+    "memberId": "K000389",
+    "assetRaw": "COINBASE GLOBAL, INC. CMN CLASS A",
+    "security": {
+      "ticker": "COIN",
+      "kind": "exchange"
+    },
+    "side": "sell",
+    "owner": "dependent",
+    "range": {
+      "lo": 1001,
+      "hi": 15000
+    },
+    "transactionDate": "2026-01-23",
+    "filedDate": "2026-02-06",
+    "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/8221322.pdf",
+    "late": false,
+    "provenance": "kadoa"
+  },
+  {
+    "memberId": "K000389",
+    "assetRaw": "TESLA, INC. CMN",
+    "security": {
+      "ticker": "TSLA",
+      "kind": "treasury"
+    },
+    "side": "buy",
+    "owner": "dependent",
+    "range": {
+      "lo": 1001,
+      "hi": 15000
+    },
+    "transactionDate": "2026-01-23",
+    "filedDate": "2026-02-06",
+    "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/8221322.pdf",
+    "late": false,
+    "provenance": "kadoa"
+  },
+  {
     "memberId": "C001123",
     "assetRaw": "Tesla, Inc. - Common Stock (TSLA) [ST]",
     "security": {
@@ -685,6 +818,25 @@
     "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033981.pdf",
     "late": false,
     "provenance": "both"
+  },
+  {
+    "memberId": "K000389",
+    "assetRaw": "COINBASE GLOBAL, INC. CMN CLASS A",
+    "security": {
+      "ticker": "COIN",
+      "kind": "exchange"
+    },
+    "side": "buy",
+    "owner": "dependent",
+    "range": {
+      "lo": 1001,
+      "hi": 15000
+    },
+    "transactionDate": "2026-01-06",
+    "filedDate": "2026-02-06",
+    "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/8221322.pdf",
+    "late": false,
+    "provenance": "kadoa"
   },
   {
     "memberId": "C001123",
@@ -762,6 +914,25 @@
     "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033747.pdf",
     "late": false,
     "provenance": "both"
+  },
+  {
+    "memberId": "K000389",
+    "assetRaw": "COINBASE GLOBAL, INC. CMN CLASS A",
+    "security": {
+      "ticker": "COIN",
+      "kind": "exchange"
+    },
+    "side": "sell",
+    "owner": "dependent",
+    "range": {
+      "lo": 1001,
+      "hi": 15000
+    },
+    "transactionDate": "2025-12-05",
+    "filedDate": "2026-01-06",
+    "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/8221285.pdf",
+    "late": false,
+    "provenance": "kadoa"
   },
   {
     "memberId": "M001243",
@@ -1080,6 +1251,24 @@
     "provenance": "kadoa"
   },
   {
+    "memberId": "S001172",
+    "assetRaw": "Bitcoin",
+    "security": {
+      "ticker": "BTC",
+      "kind": "direct"
+    },
+    "side": "buy",
+    "range": {
+      "lo": 1001,
+      "hi": 15000
+    },
+    "transactionDate": "2025-10-17",
+    "filedDate": "2025-11-14",
+    "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/8221238.pdf",
+    "late": false,
+    "provenance": "kadoa"
+  },
+  {
     "memberId": "G000596",
     "assetRaw": "Tesla, Inc. - Common Stock",
     "security": {
@@ -1152,6 +1341,25 @@
     "provenance": "kadoa"
   },
   {
+    "memberId": "K000389",
+    "assetRaw": "TESLA, INC. CMN",
+    "security": {
+      "ticker": "TSLA",
+      "kind": "treasury"
+    },
+    "side": "buy",
+    "owner": "dependent",
+    "range": {
+      "lo": 1001,
+      "hi": 15000
+    },
+    "transactionDate": "2025-09-29",
+    "filedDate": "2025-10-03",
+    "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/9115679.pdf",
+    "late": false,
+    "provenance": "kadoa"
+  },
+  {
     "memberId": "M001136",
     "assetRaw": "SpaceX",
     "security": {
@@ -1169,6 +1377,25 @@
     "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032129.pdf",
     "late": false,
     "note": "Purchase of SpaceX Private Stock.",
+    "provenance": "kadoa"
+  },
+  {
+    "memberId": "M001136",
+    "assetRaw": "SpaceX",
+    "security": {
+      "ticker": "SPCX",
+      "kind": "treasury"
+    },
+    "side": "buy",
+    "owner": "spouse",
+    "range": {
+      "lo": 100001,
+      "hi": 250000
+    },
+    "transactionDate": "2025-09-12",
+    "filedDate": "2025-10-23",
+    "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/8221212.pdf",
+    "late": false,
     "provenance": "kadoa"
   },
   {
@@ -1209,6 +1436,25 @@
     "provenance": "kadoa"
   },
   {
+    "memberId": "M001136",
+    "assetRaw": "Tesla, Inc. - Common Stock",
+    "security": {
+      "ticker": "TSLA",
+      "kind": "treasury"
+    },
+    "side": "buy",
+    "owner": "spouse",
+    "range": {
+      "lo": 1001,
+      "hi": 15000
+    },
+    "transactionDate": "2025-09-11",
+    "filedDate": "2025-10-23",
+    "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/8221212.pdf",
+    "late": false,
+    "provenance": "kadoa"
+  },
+  {
     "memberId": "M001236",
     "assetRaw": "Coinbase Global, Inc. - Class A Common Stock",
     "security": {
@@ -1223,6 +1469,44 @@
     "transactionDate": "2025-09-11",
     "filedDate": "2025-10-10",
     "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032256.pdf",
+    "late": false,
+    "provenance": "kadoa"
+  },
+  {
+    "memberId": "K000389",
+    "assetRaw": "TESLA, INC. CMMN",
+    "security": {
+      "ticker": "TSLA",
+      "kind": "treasury"
+    },
+    "side": "sell",
+    "owner": "spouse",
+    "range": {
+      "lo": 1001,
+      "hi": 15000
+    },
+    "transactionDate": "2025-09-05",
+    "filedDate": "2025-10-03",
+    "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/9115679.pdf",
+    "late": false,
+    "provenance": "kadoa"
+  },
+  {
+    "memberId": "K000389",
+    "assetRaw": "TESLA, INC. CMN",
+    "security": {
+      "ticker": "TSLA",
+      "kind": "treasury"
+    },
+    "side": "buy",
+    "owner": "dependent",
+    "range": {
+      "lo": 1001,
+      "hi": 15000
+    },
+    "transactionDate": "2025-08-26",
+    "filedDate": "2025-09-09",
+    "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/9115676.pdf",
     "late": false,
     "provenance": "kadoa"
   },
@@ -1278,6 +1562,25 @@
     "transactionDate": "2025-08-05",
     "filedDate": "2025-09-12",
     "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20031022.pdf",
+    "late": false,
+    "provenance": "kadoa"
+  },
+  {
+    "memberId": "K000389",
+    "assetRaw": "TESLA, INC. CMN",
+    "security": {
+      "ticker": "TSLA",
+      "kind": "treasury"
+    },
+    "side": "buy",
+    "owner": "spouse",
+    "range": {
+      "lo": 1001,
+      "hi": 15000
+    },
+    "transactionDate": "2025-08-04",
+    "filedDate": "2025-09-09",
+    "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/9115676.pdf",
     "late": false,
     "provenance": "kadoa"
   },
@@ -1392,6 +1695,25 @@
     "provenance": "kadoa"
   },
   {
+    "memberId": "K000389",
+    "assetRaw": "COINBASE GLOBAL, INC. CMN CLASS A",
+    "security": {
+      "ticker": "COIN",
+      "kind": "exchange"
+    },
+    "side": "buy",
+    "owner": "dependent",
+    "range": {
+      "lo": 1001,
+      "hi": 15000
+    },
+    "transactionDate": "2025-06-23",
+    "filedDate": "2025-07-09",
+    "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/8221176.pdf",
+    "late": false,
+    "provenance": "kadoa"
+  },
+  {
     "memberId": "G000603",
     "assetRaw": "BTC",
     "security": {
@@ -1485,6 +1807,44 @@
     "provenance": "kadoa"
   },
   {
+    "memberId": "M001136",
+    "assetRaw": "Tesla, Inc. - Common Stock",
+    "security": {
+      "ticker": "TSLA",
+      "kind": "treasury"
+    },
+    "side": "sell",
+    "owner": "spouse",
+    "range": {
+      "lo": 15001,
+      "hi": 50000
+    },
+    "transactionDate": "2025-06-02",
+    "filedDate": "2025-10-23",
+    "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/8221212.pdf",
+    "late": true,
+    "provenance": "kadoa"
+  },
+  {
+    "memberId": "M001136",
+    "assetRaw": "Tesla, Inc. – Common Stock",
+    "security": {
+      "ticker": "TSLA",
+      "kind": "treasury"
+    },
+    "side": "sell",
+    "owner": "spouse",
+    "range": {
+      "lo": 15001,
+      "hi": 50000
+    },
+    "transactionDate": "2025-06-02",
+    "filedDate": "2025-10-23",
+    "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/8221212.pdf",
+    "late": true,
+    "provenance": "kadoa"
+  },
+  {
     "memberId": "G000583",
     "assetRaw": "Tesla, Inc. - Common Stock",
     "security": {
@@ -1500,6 +1860,25 @@
     "transactionDate": "2025-05-29",
     "filedDate": "2025-06-11",
     "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030462.pdf",
+    "late": false,
+    "provenance": "kadoa"
+  },
+  {
+    "memberId": "K000389",
+    "assetRaw": "COINBASE GLOBAL, INC. CMN CLASS A",
+    "security": {
+      "ticker": "COIN",
+      "kind": "exchange"
+    },
+    "side": "buy",
+    "owner": "spouse",
+    "range": {
+      "lo": 1001,
+      "hi": 15000
+    },
+    "transactionDate": "2025-05-28",
+    "filedDate": "2025-06-10",
+    "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/8221124.pdf",
     "late": false,
     "provenance": "kadoa"
   },
@@ -1856,6 +2235,44 @@
     "provenance": "kadoa"
   },
   {
+    "memberId": "K000389",
+    "assetRaw": "PUT (TSLA) TESLA INC COM JUL 18 25 $195 (100 SHS)",
+    "security": {
+      "ticker": "TSLA",
+      "kind": "treasury"
+    },
+    "side": "sell",
+    "owner": "spouse",
+    "range": {
+      "lo": 1001,
+      "hi": 15000
+    },
+    "transactionDate": "2025-04-08",
+    "filedDate": "2025-05-12",
+    "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/8220906.pdf",
+    "late": false,
+    "provenance": "kadoa"
+  },
+  {
+    "memberId": "K000389",
+    "assetRaw": "PUT (TSLA) TESLA INC COM JUL 18 25 $195 (100 SHS)",
+    "security": {
+      "ticker": "TSLA",
+      "kind": "treasury"
+    },
+    "side": "sell",
+    "owner": "dependent",
+    "range": {
+      "lo": 1001,
+      "hi": 15000
+    },
+    "transactionDate": "2025-04-08",
+    "filedDate": "2025-05-12",
+    "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/8220906.pdf",
+    "late": false,
+    "provenance": "kadoa"
+  },
+  {
     "memberId": "M001243",
     "assetRaw": "Bitwise Bitcoin ETF",
     "security": {
@@ -1873,6 +2290,44 @@
     "docUrl": "https://efdsearch.senate.gov/search/view/ptr/05a652a7-5402-47c6-85ad-04c1c978815b/",
     "late": false,
     "provenance": "both"
+  },
+  {
+    "memberId": "K000389",
+    "assetRaw": "TESLA INC COM",
+    "security": {
+      "ticker": "TSLA",
+      "kind": "treasury"
+    },
+    "side": "buy",
+    "owner": "spouse",
+    "range": {
+      "lo": 1001,
+      "hi": 15000
+    },
+    "transactionDate": "2025-04-04",
+    "filedDate": "2025-05-12",
+    "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/8220906.pdf",
+    "late": false,
+    "provenance": "kadoa"
+  },
+  {
+    "memberId": "K000389",
+    "assetRaw": "TESLA INC COM",
+    "security": {
+      "ticker": "TSLA",
+      "kind": "treasury"
+    },
+    "side": "buy",
+    "owner": "dependent",
+    "range": {
+      "lo": 1001,
+      "hi": 15000
+    },
+    "transactionDate": "2025-04-04",
+    "filedDate": "2025-05-12",
+    "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/8220906.pdf",
+    "late": false,
+    "provenance": "kadoa"
   },
   {
     "memberId": "M001243",
@@ -2082,6 +2537,24 @@
     "provenance": "kadoa"
   },
   {
+    "memberId": "G000581",
+    "assetRaw": "TESLA COMMON STOCK",
+    "security": {
+      "ticker": "TSLA",
+      "kind": "treasury"
+    },
+    "side": "sell",
+    "range": {
+      "lo": 100001,
+      "hi": 250000
+    },
+    "transactionDate": "2025-03-17",
+    "filedDate": "2025-03-31",
+    "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/8220809.pdf",
+    "late": false,
+    "provenance": "kadoa"
+  },
+  {
     "memberId": "M001243",
     "assetRaw": "Bitwise Bitcoin ETF",
     "security": {
@@ -2099,6 +2572,24 @@
     "docUrl": "https://efdsearch.senate.gov/search/view/ptr/5823084a-1dd6-4707-aee5-53c57af4df8c/",
     "late": false,
     "provenance": "both"
+  },
+  {
+    "memberId": "G000581",
+    "assetRaw": "TESLA Common Stock",
+    "security": {
+      "ticker": "TSLA",
+      "kind": "treasury"
+    },
+    "side": "buy",
+    "range": {
+      "lo": 50001,
+      "hi": 100000
+    },
+    "transactionDate": "2025-03-12",
+    "filedDate": "2025-03-13",
+    "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/8220796.pdf",
+    "late": false,
+    "provenance": "kadoa"
   },
   {
     "memberId": "B001327",
@@ -2228,6 +2719,24 @@
     "docUrl": "https://efdsearch.senate.gov/search/view/ptr/5823084a-1dd6-4707-aee5-53c57af4df8c/",
     "late": false,
     "provenance": "both"
+  },
+  {
+    "memberId": "G000581",
+    "assetRaw": "TESLA Common Stock",
+    "security": {
+      "ticker": "TSLA",
+      "kind": "treasury"
+    },
+    "side": "buy",
+    "range": {
+      "lo": 15001,
+      "hi": 50000
+    },
+    "transactionDate": "2025-03-04",
+    "filedDate": "2025-03-13",
+    "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/8220796.pdf",
+    "late": false,
+    "provenance": "kadoa"
   },
   {
     "memberId": "G000596",

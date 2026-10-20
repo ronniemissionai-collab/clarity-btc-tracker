@@ -12,6 +12,21 @@
   "trades": [
     {
       "memberId": "S001224",
+      "assetRaw": "Leidos Holdings, Inc",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-10-07",
+      "filedDate": "2025-10-14",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/9115686.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S001224",
       "assetRaw": "AT&T Inc",
       "security": null,
       "side": "sell",
@@ -89,6 +104,86 @@
       "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116197.pdf",
       "late": true,
       "provenance": "kadoa"
+    },
+    {
+      "memberId": "S001224",
+      "assetRaw": "ATT INC",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-01-10",
+      "filedDate": "2025-01-23",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/8220731.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S001224",
+      "assetRaw": "Genuine Parts Co",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-01-10",
+      "filedDate": "2025-01-23",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/8220731.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S001224",
+      "assetRaw": "Merck + Co, INC",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-01-10",
+      "filedDate": "2025-01-23",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/8220731.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S001224",
+      "assetRaw": "NVIDIA Corp",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-01-10",
+      "filedDate": "2025-01-23",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/8220731.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "S001224",
+      "assetRaw": "Pepsico INC",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2025-01-10",
+      "filedDate": "2025-01-23",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/8220731.pdf",
+      "late": false,
+      "provenance": "kadoa"
     }
   ],
   "series": [
@@ -110,6 +205,30 @@
     },
     {
       "date": "2025-01-10",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-01-10",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-01-10",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-01-10",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-01-10",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-01-10",
+      "value": 8000.5
+    },
+    {
+      "date": "2025-10-07",
       "value": 8000.5
     }
   ],

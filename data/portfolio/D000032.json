@@ -3451,9 +3451,85 @@
       "late": false,
       "note": "Filing Status: New\nSubholding Of: Moran Wealth IRA",
       "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000032",
+      "assetRaw": "Dynatrace, Inc. Common Stock",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2024-03-27",
+      "filedDate": "2026-02-19",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/8221334.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000032",
+      "assetRaw": "Humana Inc. Common Stock",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2024-03-27",
+      "filedDate": "2026-02-19",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/8221334.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000032",
+      "assetRaw": "Sony Group Corporation American Depository Shares",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2024-03-27",
+      "filedDate": "2026-02-19",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/8221334.pdf",
+      "late": true,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "D000032",
+      "assetRaw": "Synopsys, Inc. Common Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2024-03-27",
+      "filedDate": "2026-02-19",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/8221334.pdf",
+      "late": true,
+      "provenance": "kadoa"
     }
   ],
   "series": [
+    {
+      "date": "2024-03-27",
+      "value": 8000.5
+    },
+    {
+      "date": "2024-03-27",
+      "value": 8000.5
+    },
+    {
+      "date": "2024-03-27",
+      "value": 8000.5
+    },
+    {
+      "date": "2024-03-27",
+      "value": 8000.5
+    },
     {
       "date": "2024-10-01",
       "value": 8000.5
