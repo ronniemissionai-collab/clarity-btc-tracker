@@ -12,6 +12,22 @@
   "trades": [
     {
       "memberId": "Y000067",
+      "assetRaw": "Treasury Bill (6-Week, Matures 12/3/2026) [GS]",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2026-10-20",
+      "filedDate": "2026-10-20",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035691.pdf",
+      "late": false,
+      "provenance": "official"
+    },
+    {
+      "memberId": "Y000067",
       "assetRaw": "Treasury Bill (3-Month, Matures 10/15/2026) [GS]",
       "security": null,
       "side": "buy",
@@ -563,6 +579,10 @@
     },
     {
       "date": "2026-07-13",
+      "value": 32500.5
+    },
+    {
+      "date": "2026-10-20",
       "value": 32500.5
     }
   ],
