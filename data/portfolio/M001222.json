@@ -39,6 +39,40 @@
   "trades": [
     {
       "memberId": "M001222",
+      "assetRaw": "AIX Ventures Fund II, LP (GLAS Funds, LP) [HN]",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-10-01",
+      "filedDate": "2026-10-27",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035715.pdf",
+      "late": false,
+      "note": "partial sale",
+      "provenance": "both"
+    },
+    {
+      "memberId": "M001222",
+      "assetRaw": "Mercato Partners Traverse IV QP, LP (GLAS Funds, LP) [HN]",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-09-30",
+      "filedDate": "2026-10-27",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035715.pdf",
+      "late": false,
+      "note": "partial sale",
+      "provenance": "both"
+    },
+    {
+      "memberId": "M001222",
       "assetRaw": "Mercato Partners Traverse IV QP, LP (GLAS Funds, LP) [HN]",
       "security": null,
       "side": "buy",
@@ -1094,6 +1128,14 @@
     },
     {
       "date": "2026-09-04",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-09-30",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-10-01",
       "value": 8000.5
     }
   ],

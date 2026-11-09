@@ -439,17 +439,16 @@
         "lo": 1001,
         "hi": 15000
       },
-      "status": "sold",
-      "asOf": "2026-06-05",
+      "status": "holds",
+      "asOf": "2026-10-15",
       "extraction": "pdf-text",
       "verification": "unverified",
       "sources": [
         {
           "kind": "filing",
-          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034780.pdf"
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035727.pdf"
         }
-      ],
-      "note": "sale reported by PTR with no annual baseline in our coverage"
+      ]
     },
     {
       "memberId": "T000490",
@@ -493,13 +492,13 @@
         "hi": 15000
       },
       "status": "sold",
-      "asOf": "2026-09-22",
+      "asOf": "2026-10-15",
       "extraction": "pdf-text",
       "verification": "unverified",
       "sources": [
         {
           "kind": "filing",
-          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035549.pdf"
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035727.pdf"
         }
       ],
       "note": "sale reported by PTR with no annual baseline in our coverage"
@@ -628,18 +627,14 @@
         "lo": 1001,
         "hi": 15000
       },
-      "status": "sold",
-      "asOf": "2026-02-26",
+      "status": "holds",
+      "asOf": "2026-10-15",
       "extraction": "pdf-text",
       "verification": "unverified",
       "sources": [
         {
           "kind": "filing",
-          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033916.pdf"
-        },
-        {
-          "kind": "filing",
-          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034138.pdf"
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035727.pdf"
         }
       ]
     },
@@ -651,11 +646,11 @@
       },
       "owner": "self",
       "range": {
-        "lo": 3003,
-        "hi": 45000
+        "lo": 4004,
+        "hi": 60000
       },
       "status": "holds",
-      "asOf": "2026-10-09",
+      "asOf": "2026-10-15",
       "extraction": "pdf-text",
       "verification": "unverified",
       "sources": [
@@ -666,6 +661,10 @@
         {
           "kind": "filing",
           "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035660.pdf"
+        },
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035727.pdf"
         }
       ]
     },
@@ -677,11 +676,11 @@
       },
       "owner": "self",
       "range": {
-        "lo": 3003,
-        "hi": 45000
+        "lo": 4004,
+        "hi": 60000
       },
       "status": "holds",
-      "asOf": "2026-10-09",
+      "asOf": "2026-10-15",
       "extraction": "pdf-text",
       "verification": "unverified",
       "sources": [
@@ -696,6 +695,10 @@
         {
           "kind": "filing",
           "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035660.pdf"
+        },
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035727.pdf"
         }
       ]
     },
@@ -710,8 +713,8 @@
         "lo": 4004,
         "hi": 60000
       },
-      "status": "holds",
-      "asOf": "2026-04-27",
+      "status": "sold",
+      "asOf": "2026-10-15",
       "extraction": "pdf-text",
       "verification": "unverified",
       "sources": [
@@ -730,6 +733,10 @@
         {
           "kind": "filing",
           "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034489.pdf"
+        },
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035727.pdf"
         }
       ]
     },
@@ -758,6 +765,102 @@
     }
   ],
   "trades": [
+    {
+      "memberId": "T000490",
+      "assetRaw": "AT&T Inc. (T) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-10-15",
+      "filedDate": "2026-10-29",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035727.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "T000490",
+      "assetRaw": "Lam Research Corporation - Common Stock (LRCX) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-10-15",
+      "filedDate": "2026-10-29",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035727.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "T000490",
+      "assetRaw": "Marathon Petroleum Corporation Common Stock (MPC) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-10-15",
+      "filedDate": "2026-10-29",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035727.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "T000490",
+      "assetRaw": "Prologis, Inc. Common Stock (PLD) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-10-15",
+      "filedDate": "2026-10-29",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035727.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "T000490",
+      "assetRaw": "RPM International Inc. Common Stock (RPM) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-10-15",
+      "filedDate": "2026-10-29",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035727.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "T000490",
+      "assetRaw": "Visa Inc. (V) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-10-15",
+      "filedDate": "2026-10-29",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035727.pdf",
+      "late": false,
+      "provenance": "both"
+    },
     {
       "memberId": "T000490",
       "assetRaw": "Procter & Gamble Company (PG) [ST]",
@@ -4634,6 +4737,30 @@
     },
     {
       "date": "2026-10-12",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-10-15",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-10-15",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-10-15",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-10-15",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-10-15",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-10-15",
       "value": 8000.5
     }
   ],

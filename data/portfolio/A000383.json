@@ -7259,6 +7259,23 @@
       "memberId": "A000383",
       "assetRaw": "Williams Companies, Inc. (The) Common Stock",
       "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 250001,
+        "hi": 500000
+      },
+      "transactionDate": "2026-09-08",
+      "filedDate": "2026-10-22",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/6aa5ccb2-ff27-491a-9314-778b9ab37964/",
+      "late": false,
+      "note": "full sale",
+      "provenance": "both"
+    },
+    {
+      "memberId": "A000383",
+      "assetRaw": "Williams Companies, Inc. (The) Common Stock",
+      "security": null,
       "side": "buy",
       "owner": "joint",
       "range": {
@@ -21556,6 +21573,10 @@
     {
       "date": "2026-08-20",
       "value": 32500.5
+    },
+    {
+      "date": "2026-09-08",
+      "value": 375000.5
     }
   ],
   "measured": null

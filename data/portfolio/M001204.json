@@ -43,6 +43,23 @@
         "lo": 1001,
         "hi": 15000
       },
+      "transactionDate": "2026-09-25",
+      "filedDate": "2026-11-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035662.pdf",
+      "late": false,
+      "note": "partial sale",
+      "provenance": "both"
+    },
+    {
+      "memberId": "M001204",
+      "assetRaw": "NVIDIA Corporation - Common Stock (NVDA) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
       "transactionDate": "2026-08-31",
       "filedDate": "2026-10-14",
       "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035487.pdf",
@@ -1382,6 +1399,10 @@
     },
     {
       "date": "2026-08-31",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-09-25",
       "value": 8000.5
     }
   ],

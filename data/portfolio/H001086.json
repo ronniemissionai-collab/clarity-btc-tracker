@@ -12,6 +12,396 @@
   "trades": [
     {
       "memberId": "H001086",
+      "assetRaw": "New York NY BE/R/",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2026-10-09",
+      "filedDate": "2026-10-27",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116391.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001086",
+      "assetRaw": "M h tt ST G C SR C BE/R/",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-10-07",
+      "filedDate": "2026-10-27",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116389.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001086",
+      "assetRaw": "Washington ST VAR PURP SR D BE/R/",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-10-06",
+      "filedDate": "2026-10-27",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116389.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001086",
+      "assetRaw": "Great Lakes WTR AUTH MIC RV BE/R/",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2026-10-05",
+      "filedDate": "2026-10-27",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116391.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001086",
+      "assetRaw": "New York NY SR G BE/R/",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2026-10-02",
+      "filedDate": "2026-10-27",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116391.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001086",
+      "assetRaw": "Black Belt Energy Gas DI SR RV BE/R/",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2026-09-28",
+      "filedDate": "2026-10-27",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116390.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001086",
+      "assetRaw": "Kansas City MO SCH BE/R/",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2026-09-28",
+      "filedDate": "2026-10-27",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116389.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001086",
+      "assetRaw": "BI ck B It E e gy Gas DI SR RV BE/R/",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2026-09-25",
+      "filedDate": "2026-10-27",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116390.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001086",
+      "assetRaw": "Austin TX BE/R/",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2026-09-24",
+      "filedDate": "2026-10-27",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116391.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001086",
+      "assetRaw": "Atlanta GA ARPT RV BE/R/",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2026-09-22",
+      "filedDate": "2026-10-27",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116389.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001086",
+      "assetRaw": "Illinois ST TOLL HWY AU RV BE/R/",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2026-09-22",
+      "filedDate": "2026-10-27",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116390.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001086",
+      "assetRaw": "Illinois ST TOLL HWY U RV BE/R/",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2026-09-22",
+      "filedDate": "2026-10-27",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116391.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001086",
+      "assetRaw": "Illinois ST TOLL HWY U RV BE/R/",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2026-09-22",
+      "filedDate": "2026-10-27",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116390.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001086",
+      "assetRaw": "S F I CA CITY & AMT REF RV BE/R/",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2026-09-22",
+      "filedDate": "2026-10-27",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116389.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001086",
+      "assetRaw": "San Francisco CA CITY AMT REF RV BE/R/",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2026-09-22",
+      "filedDate": "2026-10-27",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116391.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001086",
+      "assetRaw": "PK TX INDPT SCH D PERMA BE/R/",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2026-09-17",
+      "filedDate": "2026-10-27",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116390.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001086",
+      "assetRaw": "Richardson TX INDPT SCH BE/R/",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2026-09-17",
+      "filedDate": "2026-10-27",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116390.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001086",
+      "assetRaw": "Massachusetts St Go Cons SR G BE/R/",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2026-09-16",
+      "filedDate": "2026-10-27",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116391.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001086",
+      "assetRaw": "Round Rock TX INDPT SCH BE/R/",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2026-09-15",
+      "filedDate": "2026-10-27",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116390.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001086",
+      "assetRaw": "Trinity Rvr AU TX DNTN RV BE/R/",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2026-09-15",
+      "filedDate": "2026-10-27",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116391.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001086",
+      "assetRaw": "Charlotte NC CORP STAD SR A RV BE/R/",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2026-09-14",
+      "filedDate": "2026-10-27",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116391.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001086",
+      "assetRaw": "Port Portland OR INTL AMT RV BE/R/",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2026-09-14",
+      "filedDate": "2026-10-27",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116391.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001086",
+      "assetRaw": "US TSY NOTE 4 / Due 5/31/28",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 250001,
+        "hi": 500000
+      },
+      "transactionDate": "2026-09-14",
+      "filedDate": "2026-10-27",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116390.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001086",
+      "assetRaw": "US TSY NOTE 4 / due 5/31/28",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2026-09-14",
+      "filedDate": "2026-10-27",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116390.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001086",
+      "assetRaw": "US TSY Note 4%",
+      "security": null,
+      "side": "sell",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2026-09-14",
+      "filedDate": "2026-10-27",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116391.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001086",
+      "assetRaw": "US TSY Note 4%",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2026-09-14",
+      "filedDate": "2026-10-27",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116389.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "H001086",
       "assetRaw": "Sarpy Cnty NE OID96 029 BE/R/",
       "security": null,
       "side": "buy",
@@ -1816,6 +2206,110 @@
     },
     {
       "date": "2026-09-11",
+      "value": 32500.5
+    },
+    {
+      "date": "2026-09-14",
+      "value": 75000.5
+    },
+    {
+      "date": "2026-09-14",
+      "value": 32500.5
+    },
+    {
+      "date": "2026-09-14",
+      "value": 375000.5
+    },
+    {
+      "date": "2026-09-14",
+      "value": 32500.5
+    },
+    {
+      "date": "2026-09-14",
+      "value": 32500.5
+    },
+    {
+      "date": "2026-09-14",
+      "value": 75000.5
+    },
+    {
+      "date": "2026-09-15",
+      "value": 32500.5
+    },
+    {
+      "date": "2026-09-15",
+      "value": 32500.5
+    },
+    {
+      "date": "2026-09-16",
+      "value": 32500.5
+    },
+    {
+      "date": "2026-09-17",
+      "value": 32500.5
+    },
+    {
+      "date": "2026-09-17",
+      "value": 32500.5
+    },
+    {
+      "date": "2026-09-22",
+      "value": 32500.5
+    },
+    {
+      "date": "2026-09-22",
+      "value": 75000.5
+    },
+    {
+      "date": "2026-09-22",
+      "value": 75000.5
+    },
+    {
+      "date": "2026-09-22",
+      "value": 75000.5
+    },
+    {
+      "date": "2026-09-22",
+      "value": 32500.5
+    },
+    {
+      "date": "2026-09-22",
+      "value": 32500.5
+    },
+    {
+      "date": "2026-09-24",
+      "value": 32500.5
+    },
+    {
+      "date": "2026-09-25",
+      "value": 75000.5
+    },
+    {
+      "date": "2026-09-28",
+      "value": 75000.5
+    },
+    {
+      "date": "2026-09-28",
+      "value": 32500.5
+    },
+    {
+      "date": "2026-10-02",
+      "value": 75000.5
+    },
+    {
+      "date": "2026-10-05",
+      "value": 32500.5
+    },
+    {
+      "date": "2026-10-06",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-10-07",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-10-09",
       "value": 32500.5
     }
   ],

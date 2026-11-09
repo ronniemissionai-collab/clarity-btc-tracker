@@ -87,6 +87,22 @@
   "trades": [
     {
       "memberId": "B001325",
+      "assetRaw": "Oaktree Strategic Credit Fund Class S [OT]",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-09-30",
+      "filedDate": "2026-10-27",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035525.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "B001325",
       "assetRaw": "Bank of Nova Scotia [CS]",
       "security": null,
       "side": "buy",
@@ -5554,6 +5570,10 @@
     {
       "date": "2026-09-01",
       "value": 750000.5
+    },
+    {
+      "date": "2026-09-30",
+      "value": 8000.5
     }
   ],
   "measured": null

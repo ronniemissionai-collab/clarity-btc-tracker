@@ -135,18 +135,14 @@
         "lo": 1001,
         "hi": 15000
       },
-      "status": "sold",
-      "asOf": "2026-09-15",
+      "status": "holds",
+      "asOf": "2026-10-26",
       "extraction": "pdf-text",
       "verification": "unverified",
       "sources": [
         {
           "kind": "filing",
-          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035455.pdf"
-        },
-        {
-          "kind": "filing",
-          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035590.pdf"
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035770.pdf"
         }
       ]
     },
@@ -220,6 +216,28 @@
         }
       ],
       "note": "sale reported by PTR with no annual baseline in our coverage"
+    },
+    {
+      "memberId": "G000583",
+      "security": {
+        "ticker": "BHE",
+        "kind": "other"
+      },
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "holds",
+      "asOf": "2026-10-12",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035770.pdf"
+        }
+      ]
     },
     {
       "memberId": "G000583",
@@ -1456,6 +1474,29 @@
     {
       "memberId": "G000583",
       "security": {
+        "ticker": "TLK",
+        "kind": "other"
+      },
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "sold",
+      "asOf": "2026-10-15",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035770.pdf"
+        }
+      ],
+      "note": "sale reported by PTR with no annual baseline in our coverage"
+    },
+    {
+      "memberId": "G000583",
+      "security": {
         "ticker": "TPH",
         "kind": "other"
       },
@@ -1661,6 +1702,54 @@
     }
   ],
   "trades": [
+    {
+      "memberId": "G000583",
+      "assetRaw": "Applied Materials, Inc. - Common Stock (AMAT) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-10-26",
+      "filedDate": "2026-11-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035770.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "G000583",
+      "assetRaw": "PT Telekomunikasi Indonesia, Tbk (TLK) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-10-15",
+      "filedDate": "2026-11-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035770.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "G000583",
+      "assetRaw": "Benchmark Electronics, Inc. Common Stock (BHE) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-10-12",
+      "filedDate": "2026-11-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035770.pdf",
+      "late": false,
+      "provenance": "both"
+    },
     {
       "memberId": "G000583",
       "assetRaw": "McDonald's Corporation Common Stock (MCD) [ST]",
@@ -71676,15 +71765,27 @@
     {
       "date": "2026-09-25",
       "value": 8000.5
+    },
+    {
+      "date": "2026-10-12",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-10-15",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-10-26",
+      "value": 8000.5
     }
   ],
   "measured": {
-    "return": 112,
-    "excess": 5.6,
+    "return": 105.5,
+    "excess": 8.6,
     "method": "midpoint",
     "benchmark": "SPY",
-    "window": "disclosed buys 2017-01-03 to 2026-08-06, since-trade, midpoint-weighted",
-    "asOf": "2026-10-22",
+    "window": "disclosed buys 2017-01-03 to 2026-10-26, since-trade, midpoint-weighted",
+    "asOf": "2026-11-09",
     "note": "Estimate: position sizes are disclosed-range midpoints, never exact amounts. 149 unpriceable position(s) excluded (options or no resolvable price)."
   }
 }

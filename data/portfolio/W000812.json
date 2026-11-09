@@ -12,6 +12,23 @@
   "trades": [
     {
       "memberId": "W000812",
+      "assetRaw": "American Expr Natl Bank CD [GS]",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 100001,
+        "hi": 250000
+      },
+      "transactionDate": "2026-10-20",
+      "filedDate": "2026-11-02",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035751.pdf",
+      "late": false,
+      "note": "partial sale",
+      "provenance": "both"
+    },
+    {
+      "memberId": "W000812",
       "assetRaw": "KKR Private Equity Conglomerate LLC Class I [HN]",
       "security": null,
       "side": "buy",
@@ -352,6 +369,10 @@
     {
       "date": "2026-06-22",
       "value": 375000.5
+    },
+    {
+      "date": "2026-10-20",
+      "value": 175000.5
     }
   ],
   "measured": null

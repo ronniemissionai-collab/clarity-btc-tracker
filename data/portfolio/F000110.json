@@ -304,17 +304,21 @@
       },
       "owner": "self",
       "range": {
-        "lo": 1001,
-        "hi": 15000
+        "lo": 2002,
+        "hi": 30000
       },
       "status": "holds",
-      "asOf": "2026-06-26",
+      "asOf": "2026-10-01",
       "extraction": "pdf-text",
       "verification": "unverified",
       "sources": [
         {
           "kind": "filing",
           "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034894.pdf"
+        },
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035669.pdf"
         }
       ]
     },
@@ -371,11 +375,11 @@
       },
       "owner": "self",
       "range": {
-        "lo": 3003,
-        "hi": 45000
+        "lo": 4004,
+        "hi": 60000
       },
       "status": "holds",
-      "asOf": "2026-07-10",
+      "asOf": "2026-10-09",
       "extraction": "pdf-text",
       "verification": "unverified",
       "sources": [
@@ -390,11 +394,47 @@
         {
           "kind": "filing",
           "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035023.pdf"
+        },
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035669.pdf"
         }
       ]
     }
   ],
   "trades": [
+    {
+      "memberId": "F000110",
+      "assetRaw": "Taiwan Semiconductor Manufacturing Company Ltd. (TSM) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-10-09",
+      "filedDate": "2026-10-22",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035669.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "F000110",
+      "assetRaw": "NVIDIA Corporation - Common Stock (NVDA) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-10-01",
+      "filedDate": "2026-10-22",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035669.pdf",
+      "late": false,
+      "provenance": "both"
+    },
     {
       "memberId": "F000110",
       "assetRaw": "Alphabet Inc. - Class C Capital Stock (GOOG) [ST]",
@@ -4232,6 +4272,14 @@
     },
     {
       "date": "2026-09-14",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-10-01",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-10-09",
       "value": 8000.5
     }
   ],

@@ -150,6 +150,22 @@
   "trades": [
     {
       "memberId": "M001205",
+      "assetRaw": "Honeywell Aerospace Inc. - Common Stock",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-09-29",
+      "filedDate": "2026-10-30",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035734.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "M001205",
       "assetRaw": "2000134514 SP Pfizer, Inc. Common Stock (PFE) [ST]",
       "security": null,
       "side": "sell",
@@ -2604,6 +2620,10 @@
     },
     {
       "date": "2025-03-10",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-09-29",
       "value": 8000.5
     }
   ],

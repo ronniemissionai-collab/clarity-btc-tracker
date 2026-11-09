@@ -133,6 +133,28 @@
     {
       "memberId": "M001239",
       "security": {
+        "ticker": "MU",
+        "kind": "other"
+      },
+      "owner": "spouse",
+      "range": {
+        "lo": 3003,
+        "hi": 45000
+      },
+      "status": "holds",
+      "asOf": "2026-10-01",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035484.pdf"
+        }
+      ]
+    },
+    {
+      "memberId": "M001239",
+      "security": {
         "ticker": "NVDA",
         "kind": "other"
       },
@@ -181,9 +203,113 @@
           "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034942.pdf"
         }
       ]
+    },
+    {
+      "memberId": "M001239",
+      "security": {
+        "ticker": "WDC",
+        "kind": "other"
+      },
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "sold",
+      "asOf": "2026-10-15",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035775.pdf"
+        }
+      ],
+      "note": "sale reported by PTR with no annual baseline in our coverage"
     }
   ],
   "trades": [
+    {
+      "memberId": "M001239",
+      "assetRaw": "Western Digital Corporation - Common Stock (WDC) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-10-15",
+      "filedDate": "2026-11-06",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035775.pdf",
+      "late": false,
+      "provenance": "official"
+    },
+    {
+      "memberId": "M001239",
+      "assetRaw": "Micron Technology, Inc. - Common Stock (MU) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-10-01",
+      "filedDate": "2026-11-01",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035484.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "M001239",
+      "assetRaw": "Micron Technology, Inc. - Common Stock (MU) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-09-25",
+      "filedDate": "2026-11-01",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035484.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "M001239",
+      "assetRaw": "Broadcom Inc. - Common Stock (AVGO) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-09-24",
+      "filedDate": "2026-11-01",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035484.pdf",
+      "late": false,
+      "note": "partial sale",
+      "provenance": "both"
+    },
+    {
+      "memberId": "M001239",
+      "assetRaw": "Micron Technology, Inc. - Common Stock (MU) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-09-24",
+      "filedDate": "2026-11-01",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035484.pdf",
+      "late": false,
+      "provenance": "both"
+    },
     {
       "memberId": "M001239",
       "assetRaw": "Apple Inc. - Common Stock (AAPL) [ST]",
@@ -634,6 +760,26 @@
     },
     {
       "date": "2026-08-18",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-09-24",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-09-24",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-09-25",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-10-01",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-10-15",
       "value": 8000.5
     }
   ],

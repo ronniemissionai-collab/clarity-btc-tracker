@@ -535,9 +535,48 @@
           "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033725.pdf"
         }
       ]
+    },
+    {
+      "memberId": "P000197",
+      "security": {
+        "ticker": "WBD",
+        "kind": "other"
+      },
+      "owner": "spouse",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "status": "sold",
+      "asOf": "2026-10-07",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035780.pdf"
+        }
+      ],
+      "note": "sale reported by PTR with no annual baseline in our coverage"
     }
   ],
   "trades": [
+    {
+      "memberId": "P000197",
+      "assetRaw": "Warner Bros. Discovery, Inc. - Series A Common Stock (WBD) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2026-10-07",
+      "filedDate": "2026-11-06",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035780.pdf",
+      "late": false,
+      "provenance": "official"
+    },
     {
       "memberId": "P000197",
       "assetRaw": "REOF XXX, LLC [AB]",
@@ -4286,15 +4325,19 @@
     {
       "date": "2026-09-08",
       "value": 750000.5
+    },
+    {
+      "date": "2026-10-07",
+      "value": 75000.5
     }
   ],
   "measured": {
-    "return": 162.2,
-    "excess": 75.6,
+    "return": 140.3,
+    "excess": 62.3,
     "method": "midpoint",
     "benchmark": "SPY",
     "window": "disclosed buys 2014-10-24 to 2026-07-28, since-trade, midpoint-weighted",
-    "asOf": "2026-10-22",
+    "asOf": "2026-11-09",
     "note": "Estimate: position sizes are disclosed-range midpoints, never exact amounts. 53 unpriceable position(s) excluded (options or no resolvable price)."
   }
 }

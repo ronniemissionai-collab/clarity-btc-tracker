@@ -835,6 +835,38 @@
   "trades": [
     {
       "memberId": "D000617",
+      "assetRaw": "Black Belt Energy Gas Dist Ala Gas 05.00% 12/01/2035 Proj Rev BDS Ser. 2025 F [GS]",
+      "security": null,
+      "side": "buy",
+      "owner": "joint",
+      "range": {
+        "lo": 250001,
+        "hi": 500000
+      },
+      "transactionDate": "2026-10-14",
+      "filedDate": "2026-10-28",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035689.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "D000617",
+      "assetRaw": "Tennessee Energy Ac 5% Edr Idr Due 12/01/35 [GS]",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 250001,
+        "hi": 500000
+      },
+      "transactionDate": "2026-10-14",
+      "filedDate": "2026-10-28",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035689.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "D000617",
       "assetRaw": "TX Trans Commn TPK 5% Tran Due 08/15/42 [GS]",
       "security": null,
       "side": "buy",
@@ -14417,6 +14449,14 @@
     {
       "date": "2026-09-24",
       "value": 32500.5
+    },
+    {
+      "date": "2026-10-14",
+      "value": 375000.5
+    },
+    {
+      "date": "2026-10-14",
+      "value": 375000.5
     }
   ],
   "measured": null

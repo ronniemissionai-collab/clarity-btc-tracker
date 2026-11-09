@@ -264,24 +264,20 @@
       },
       "owner": "self",
       "range": {
-        "lo": 1002,
-        "hi": 63999
+        "lo": 1001,
+        "hi": 15000
       },
       "status": "sold",
-      "asOf": "2026-09-24",
+      "asOf": "2026-10-23",
       "extraction": "pdf-text",
       "verification": "unverified",
       "sources": [
         {
           "kind": "filing",
-          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033993.pdf"
-        },
-        {
-          "kind": "filing",
-          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035562.pdf"
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035778.pdf"
         }
       ],
-      "note": "partial sale 2026-09-08"
+      "note": "sale reported by PTR with no annual baseline in our coverage"
     },
     {
       "memberId": "S000168",
@@ -654,6 +650,28 @@
     {
       "memberId": "S000168",
       "security": {
+        "ticker": "NVDA",
+        "kind": "other"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "holds",
+      "asOf": "2026-10-23",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035778.pdf"
+        }
+      ]
+    },
+    {
+      "memberId": "S000168",
+      "security": {
         "ticker": "NVR",
         "kind": "other"
       },
@@ -695,6 +713,28 @@
         }
       ],
       "note": "partial sale 2026-09-24"
+    },
+    {
+      "memberId": "S000168",
+      "security": {
+        "ticker": "PG",
+        "kind": "other"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "holds",
+      "asOf": "2026-10-23",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035778.pdf"
+        }
+      ]
     },
     {
       "memberId": "S000168",
@@ -1004,6 +1044,54 @@
     }
   ],
   "trades": [
+    {
+      "memberId": "S000168",
+      "assetRaw": "Cisco Systems, Inc. - Common Stock (CSCO) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-10-23",
+      "filedDate": "2026-11-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035778.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "S000168",
+      "assetRaw": "NVIDIA Corporation - Common Stock (NVDA) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-10-23",
+      "filedDate": "2026-11-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035778.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "S000168",
+      "assetRaw": "Procter & Gamble Company (PG) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-10-23",
+      "filedDate": "2026-11-05",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035778.pdf",
+      "late": false,
+      "provenance": "both"
+    },
     {
       "memberId": "S000168",
       "assetRaw": "Berkshire Hathaway Inc. New Common Stock (BRK.B) [ST]",
@@ -3845,6 +3933,18 @@
     },
     {
       "date": "2026-09-24",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-10-23",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-10-23",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-10-23",
       "value": 8000.5
     }
   ],

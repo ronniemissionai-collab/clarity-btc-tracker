@@ -18,19 +18,24 @@
       },
       "owner": "self",
       "range": {
-        "lo": 1001,
-        "hi": 15000
+        "lo": 0,
+        "hi": 13999
       },
       "status": "holds",
-      "asOf": "2026-01-29",
+      "asOf": "2026-09-17",
       "extraction": "pdf-text",
       "verification": "unverified",
       "sources": [
         {
           "kind": "filing",
           "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034025.pdf"
+        },
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035591.pdf"
         }
-      ]
+      ],
+      "note": "partial sale 2026-09-17"
     },
     {
       "memberId": "K000398",
@@ -191,11 +196,11 @@
       },
       "owner": "self",
       "range": {
-        "lo": 3003,
-        "hi": 45000
+        "lo": 4004,
+        "hi": 60000
       },
       "status": "holds",
-      "asOf": "2026-07-07",
+      "asOf": "2026-09-29",
       "extraction": "pdf-text",
       "verification": "unverified",
       "sources": [
@@ -206,6 +211,10 @@
         {
           "kind": "filing",
           "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035273.pdf"
+        },
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035591.pdf"
         }
       ]
     },
@@ -413,17 +422,21 @@
       },
       "owner": "self",
       "range": {
-        "lo": 1001,
-        "hi": 15000
+        "lo": 2002,
+        "hi": 30000
       },
       "status": "holds",
-      "asOf": "2026-04-14",
+      "asOf": "2026-09-17",
       "extraction": "pdf-text",
       "verification": "unverified",
       "sources": [
         {
           "kind": "filing",
           "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034616.pdf"
+        },
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035591.pdf"
         }
       ]
     },
@@ -451,6 +464,106 @@
     }
   ],
   "trades": [
+    {
+      "memberId": "K000398",
+      "assetRaw": "Johnson & Johnson Common Stock (JNJ) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-09-30",
+      "filedDate": "2026-10-30",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035591.pdf",
+      "late": false,
+      "note": "partial sale",
+      "provenance": "both"
+    },
+    {
+      "memberId": "K000398",
+      "assetRaw": "Stryker Corporation Common Stock (SYK) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-09-30",
+      "filedDate": "2026-10-30",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035591.pdf",
+      "late": false,
+      "note": "partial sale",
+      "provenance": "both"
+    },
+    {
+      "memberId": "K000398",
+      "assetRaw": "ESAB Corporation Common Stock (ESAB) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-09-29",
+      "filedDate": "2026-10-30",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035591.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "K000398",
+      "assetRaw": "Mondelez International, Inc. - Class A Common Stock (MDLZ) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-09-23",
+      "filedDate": "2026-10-30",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035591.pdf",
+      "late": false,
+      "note": "partial sale",
+      "provenance": "both"
+    },
+    {
+      "memberId": "K000398",
+      "assetRaw": "Abbott Laboratories Common Stock (ABT) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-09-17",
+      "filedDate": "2026-10-30",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035591.pdf",
+      "late": false,
+      "note": "partial sale",
+      "provenance": "both"
+    },
+    {
+      "memberId": "K000398",
+      "assetRaw": "Texas Instruments Incorporated - Common Stock (TXN) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-09-17",
+      "filedDate": "2026-10-30",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035591.pdf",
+      "late": false,
+      "provenance": "both"
+    },
     {
       "memberId": "K000398",
       "assetRaw": "Alphabet Inc. - Class A Common Stock (GOOGL) [ST]",
@@ -3618,15 +3731,39 @@
     {
       "date": "2026-08-27",
       "value": 32500.5
+    },
+    {
+      "date": "2026-09-17",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-09-17",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-09-23",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-09-29",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-09-30",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-09-30",
+      "value": 8000.5
     }
   ],
   "measured": {
-    "return": 30,
-    "excess": -3.7,
+    "return": 24.3,
+    "excess": -2.4,
     "method": "midpoint",
     "benchmark": "SPY",
-    "window": "disclosed buys 2023-01-18 to 2026-08-21, since-trade, midpoint-weighted",
-    "asOf": "2026-10-22",
+    "window": "disclosed buys 2023-01-18 to 2026-09-29, since-trade, midpoint-weighted",
+    "asOf": "2026-11-09",
     "note": "Estimate: position sizes are disclosed-range midpoints, never exact amounts. 9 unpriceable position(s) excluded (options or no resolvable price)."
   }
 }

@@ -1,5 +1,24 @@
 [
   {
+    "memberId": "S000250",
+    "assetRaw": "Tesla, Inc. - Common Stock (TSLA) [ST]",
+    "security": {
+      "ticker": "TSLA",
+      "kind": "treasury"
+    },
+    "side": "sell",
+    "owner": "spouse",
+    "range": {
+      "lo": 15001,
+      "hi": 50000
+    },
+    "transactionDate": "2026-10-02",
+    "filedDate": "2026-10-27",
+    "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035563.pdf",
+    "late": false,
+    "provenance": "both"
+  },
+  {
     "memberId": "K000389",
     "assetRaw": "TESLA INC. CMN",
     "security": {

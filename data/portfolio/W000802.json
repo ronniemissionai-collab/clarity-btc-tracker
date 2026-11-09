@@ -356,6 +356,40 @@
   "trades": [
     {
       "memberId": "W000802",
+      "assetRaw": "Amgen Inc. - Common Stock",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2026-10-15",
+      "filedDate": "2026-11-02",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/02b5fe88-e8e1-4ef3-b6b5-6a46b420fb3c/",
+      "late": false,
+      "note": "full sale",
+      "provenance": "both"
+    },
+    {
+      "memberId": "W000802",
+      "assetRaw": "Microsoft Corporation - Common Stock",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-10-15",
+      "filedDate": "2026-11-02",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/02b5fe88-e8e1-4ef3-b6b5-6a46b420fb3c/",
+      "late": false,
+      "note": "partial sale",
+      "provenance": "both"
+    },
+    {
+      "memberId": "W000802",
       "assetRaw": "Analog Devices, Inc. - Common Stock",
       "security": null,
       "side": "sell",
@@ -20723,6 +20757,14 @@
     },
     {
       "date": "2026-09-04",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-10-15",
+      "value": 32500.5
+    },
+    {
+      "date": "2026-10-15",
       "value": 8000.5
     }
   ],

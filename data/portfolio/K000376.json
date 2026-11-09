@@ -128,6 +128,38 @@
   "trades": [
     {
       "memberId": "K000376",
+      "assetRaw": "Fairfax Cnty VA Ser A Go [GS]",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2026-10-15",
+      "filedDate": "2026-11-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035765.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "K000376",
+      "assetRaw": "North Carolina Hsg Fin Agy Hom S [GS]",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2026-10-01",
+      "filedDate": "2026-11-04",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035765.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "K000376",
       "assetRaw": "Black Belt Energy Gas Dist AL 1 Rev Call 5% due 10/1/32 [GS]",
       "security": null,
       "side": "buy",
@@ -1677,6 +1709,14 @@
     {
       "date": "2026-09-18",
       "value": 32500.5
+    },
+    {
+      "date": "2026-10-01",
+      "value": 75000.5
+    },
+    {
+      "date": "2026-10-15",
+      "value": 75000.5
     }
   ],
   "measured": null

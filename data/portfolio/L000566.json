@@ -17,11 +17,11 @@
       },
       "owner": "spouse",
       "range": {
-        "lo": 18004,
-        "hi": 95000
+        "lo": 19005,
+        "hi": 110000
       },
       "status": "holds",
-      "asOf": "2026-07-20",
+      "asOf": "2026-10-20",
       "extraction": "pdf-text",
       "verification": "unverified",
       "sources": [
@@ -40,11 +40,31 @@
         {
           "kind": "filing",
           "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035065.pdf"
+        },
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035763.pdf"
         }
       ]
     }
   ],
   "trades": [
+    {
+      "memberId": "L000566",
+      "assetRaw": "Farmers & Merchants Bancorp, Inc. (FMAO) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-10-20",
+      "filedDate": "2026-11-03",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035763.pdf",
+      "late": false,
+      "provenance": "both"
+    },
     {
       "memberId": "L000566",
       "assetRaw": "Farmers & Merchants Bancorp, Inc. (FMAO) [ST]",
@@ -520,6 +540,10 @@
     },
     {
       "date": "2026-07-20",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-10-20",
       "value": 8000.5
     }
   ],

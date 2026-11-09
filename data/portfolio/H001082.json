@@ -2034,6 +2034,57 @@
   "trades": [
     {
       "memberId": "H001082",
+      "assetRaw": "ASML Holding N.V. - New York Registry Shares (ASML) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2026-10-23",
+      "filedDate": "2026-10-28",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035710.pdf",
+      "late": false,
+      "note": "partial sale",
+      "provenance": "both"
+    },
+    {
+      "memberId": "H001082",
+      "assetRaw": "Seagate Technology Holdings PLC - Ordinary Shares (STX) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2026-10-23",
+      "filedDate": "2026-10-28",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035710.pdf",
+      "late": false,
+      "note": "partial sale",
+      "provenance": "both"
+    },
+    {
+      "memberId": "H001082",
+      "assetRaw": "Texas Instruments Incorporated - Common Stock (TXN) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2026-10-14",
+      "filedDate": "2026-10-28",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035710.pdf",
+      "late": false,
+      "note": "partial sale",
+      "provenance": "both"
+    },
+    {
+      "memberId": "H001082",
       "assetRaw": "NextEra Energy, Inc. Common Stock (NEE) [ST]",
       "security": null,
       "side": "sell",
@@ -21815,6 +21866,18 @@
     },
     {
       "date": "2026-10-02",
+      "value": 32500.5
+    },
+    {
+      "date": "2026-10-14",
+      "value": 32500.5
+    },
+    {
+      "date": "2026-10-23",
+      "value": 32500.5
+    },
+    {
+      "date": "2026-10-23",
       "value": 32500.5
     }
   ],

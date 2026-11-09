@@ -12,6 +12,38 @@
   "trades": [
     {
       "memberId": "I000056",
+      "assetRaw": "US Treasury Note 3.375% due 09/15/28 CUSIP 91282CNY3 [GS]",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 5000001,
+        "hi": 25000000
+      },
+      "transactionDate": "2026-10-14",
+      "filedDate": "2026-10-22",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035700.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "I000056",
+      "assetRaw": "US Treasury Note 3.375% due 09/15/28 CUSIP 91282CNY3 [GS]",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 5000001,
+        "hi": 25000000
+      },
+      "transactionDate": "2026-10-08",
+      "filedDate": "2026-10-22",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035700.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "I000056",
       "assetRaw": "Interest Rate Cap Transaction UBS [OT]",
       "security": null,
       "side": "sell",
@@ -111,6 +143,14 @@
     {
       "date": "2025-04-10",
       "value": 37500000.5
+    },
+    {
+      "date": "2026-10-08",
+      "value": 15000000.5
+    },
+    {
+      "date": "2026-10-14",
+      "value": 15000000.5
     }
   ],
   "measured": null
