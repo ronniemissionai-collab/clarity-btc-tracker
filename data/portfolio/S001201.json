@@ -127,6 +127,38 @@
   "trades": [
     {
       "memberId": "S001201",
+      "assetRaw": "US Treasury Bill [GS]",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2026-10-15",
+      "filedDate": "2026-11-09",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035014.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "S001201",
+      "assetRaw": "US Treasury Bill [GS]",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2026-10-13",
+      "filedDate": "2026-11-09",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035014.pdf",
+      "late": false,
+      "provenance": "both"
+    },
+    {
+      "memberId": "S001201",
       "assetRaw": "American US govt money market fund [OT]",
       "security": null,
       "side": "buy",
@@ -14238,6 +14270,14 @@
     {
       "date": "2026-05-08",
       "value": 8000.5
+    },
+    {
+      "date": "2026-10-13",
+      "value": 32500.5
+    },
+    {
+      "date": "2026-10-15",
+      "value": 32500.5
     }
   ],
   "measured": null

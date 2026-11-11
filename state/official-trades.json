@@ -88548,5 +88548,50 @@
     "docUrl": "https://efdsearch.senate.gov/search/view/ptr/6aa5ccb2-ff27-491a-9314-778b9ab37964/",
     "late": false,
     "note": "full sale"
+  },
+  {
+    "memberId": "K000392",
+    "assetRaw": "Warner Bros. Discovery, Inc. - Series A Common Stock (WBD) [ST]",
+    "security": null,
+    "side": "sell",
+    "owner": "joint",
+    "range": {
+      "lo": 1001,
+      "hi": 15000
+    },
+    "transactionDate": "2026-10-07",
+    "filedDate": "2026-11-09",
+    "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20024921.pdf",
+    "late": false
+  },
+  {
+    "memberId": "S001201",
+    "assetRaw": "US Treasury Bill [GS]",
+    "security": null,
+    "side": "buy",
+    "owner": "self",
+    "range": {
+      "lo": 15001,
+      "hi": 50000
+    },
+    "transactionDate": "2026-10-13",
+    "filedDate": "2026-11-09",
+    "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035014.pdf",
+    "late": false
+  },
+  {
+    "memberId": "S001201",
+    "assetRaw": "US Treasury Bill [GS]",
+    "security": null,
+    "side": "buy",
+    "owner": "self",
+    "range": {
+      "lo": 15001,
+      "hi": 50000
+    },
+    "transactionDate": "2026-10-15",
+    "filedDate": "2026-11-09",
+    "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035014.pdf",
+    "late": false
   }
 ]

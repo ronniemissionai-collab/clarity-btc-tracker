@@ -1,0 +1,61 @@
+{
+  "member": {
+    "bioguideId": "K000392",
+    "name": "David Kustoff",
+    "party": "R",
+    "chamber": "house",
+    "state": "TN",
+    "district": "TN-08",
+    "active": true
+  },
+  "positions": [
+    {
+      "memberId": "K000392",
+      "security": {
+        "ticker": "WBD",
+        "kind": "other"
+      },
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "sold",
+      "asOf": "2026-10-07",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20024921.pdf"
+        }
+      ],
+      "note": "sale reported by PTR with no annual baseline in our coverage"
+    }
+  ],
+  "trades": [
+    {
+      "memberId": "K000392",
+      "assetRaw": "Warner Bros. Discovery, Inc. - Series A Common Stock (WBD) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-10-07",
+      "filedDate": "2026-11-09",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20024921.pdf",
+      "late": false,
+      "provenance": "both"
+    }
+  ],
+  "series": [
+    {
+      "date": "2026-10-07",
+      "value": 8000.5
+    }
+  ],
+  "measured": null
+}
