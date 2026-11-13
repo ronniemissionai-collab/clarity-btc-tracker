@@ -504,6 +504,55 @@
   "trades": [
     {
       "memberId": "A000372",
+      "assetRaw": "Sherwin-Williams Company (SHW) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-10-09",
+      "filedDate": "2026-11-11",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035821.pdf",
+      "late": false,
+      "note": "partial sale",
+      "provenance": "official"
+    },
+    {
+      "memberId": "A000372",
+      "assetRaw": "US Treasury Note 3.5% DUE 1/31/30 (91282CGJ4) [GS]",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2026-10-02",
+      "filedDate": "2026-11-11",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035821.pdf",
+      "late": false,
+      "provenance": "official"
+    },
+    {
+      "memberId": "A000372",
+      "assetRaw": "US Treasury Note 4% DUE 7/31/29 (91282CLC3) [GS]",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2026-10-02",
+      "filedDate": "2026-11-11",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035821.pdf",
+      "late": false,
+      "provenance": "official"
+    },
+    {
+      "memberId": "A000372",
       "assetRaw": "AutoZone, Inc. Common Stock (AZO) [ST]",
       "security": null,
       "side": "sell",
@@ -6573,6 +6622,18 @@
     {
       "date": "2026-09-22",
       "value": 32500.5
+    },
+    {
+      "date": "2026-10-02",
+      "value": 32500.5
+    },
+    {
+      "date": "2026-10-02",
+      "value": 32500.5
+    },
+    {
+      "date": "2026-10-09",
+      "value": 8000.5
     }
   ],
   "measured": null

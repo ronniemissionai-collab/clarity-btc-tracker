@@ -1,5 +1,24 @@
 [
   {
+    "memberId": "C001123",
+    "assetRaw": "Strategy Inc - Variable Rate Series A Perpetual Stretch Preferred Stock (STRC) [ST]",
+    "security": {
+      "ticker": "STRC",
+      "kind": "treasury"
+    },
+    "side": "sell",
+    "owner": "self",
+    "range": {
+      "lo": 50001,
+      "hi": 100000
+    },
+    "transactionDate": "2026-10-15",
+    "filedDate": "2026-11-10",
+    "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035788.pdf",
+    "late": false,
+    "provenance": "both"
+  },
+  {
     "memberId": "S000250",
     "assetRaw": "Tesla, Inc. - Common Stock (TSLA) [ST]",
     "security": {
@@ -417,6 +436,25 @@
     "filedDate": "2026-07-26",
     "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034963.pdf",
     "late": false,
+    "provenance": "both"
+  },
+  {
+    "memberId": "C001123",
+    "assetRaw": "2000164032 Strategy Inc - Variable Rate Series A Perpetual Stretch Preferred Stock (STRC) [ST]",
+    "security": {
+      "ticker": "STRC",
+      "kind": "treasury"
+    },
+    "side": "buy",
+    "owner": "self",
+    "range": {
+      "lo": 15001,
+      "hi": 50000
+    },
+    "transactionDate": "2026-06-05",
+    "filedDate": "2026-11-10",
+    "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035788.pdf",
+    "late": true,
     "provenance": "both"
   },
   {

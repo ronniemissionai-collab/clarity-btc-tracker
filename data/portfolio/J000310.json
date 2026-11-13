@@ -2010,6 +2010,29 @@
     {
       "memberId": "J000310",
       "security": {
+        "ticker": "WBD",
+        "kind": "other"
+      },
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "sold",
+      "asOf": "2026-10-07",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035806.pdf"
+        }
+      ],
+      "note": "sale reported by PTR with no annual baseline in our coverage"
+    },
+    {
+      "memberId": "J000310",
+      "security": {
         "ticker": "WEC",
         "kind": "other"
       },
@@ -2122,6 +2145,22 @@
     }
   ],
   "trades": [
+    {
+      "memberId": "J000310",
+      "assetRaw": "Warner Bros. Discovery, Inc. - Series A Common Stock (WBD) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-10-07",
+      "filedDate": "2026-11-10",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035806.pdf",
+      "late": false,
+      "provenance": "both"
+    },
     {
       "memberId": "J000310",
       "assetRaw": "Abbott Laboratories Common Stock (ABT) [ST]",
@@ -13786,6 +13825,10 @@
     },
     {
       "date": "2026-05-12",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-10-07",
       "value": 8000.5
     }
   ],

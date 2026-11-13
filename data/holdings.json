@@ -362,11 +362,11 @@
     },
     "owner": "self",
     "range": {
-      "lo": 15001,
-      "hi": 50000
+      "lo": 30002,
+      "hi": 100000
     },
-    "status": "stale",
-    "asOf": "2025-08-06",
+    "status": "sold",
+    "asOf": "2026-10-15",
     "extraction": "pdf-text",
     "verification": "corroborated",
     "sources": [
@@ -375,9 +375,18 @@
         "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20031022.pdf"
       },
       {
+        "kind": "filing",
+        "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035788.pdf"
+      },
+      {
         "kind": "news",
-        "url": "https://poliwealth.com/receipts/quiver_ffb72bf6fe6dcc40",
-        "title": "STRL · Cisneros congressional trade receipt | PoliWealth"
+        "url": "https://www.marketbeat.com/instant-alerts/congress-rep-gilbert-ray-cisneros-jr-sells-shares-of-strategy-inc-variable-rate-series-a-perpetual-stretch-preferred-stock-nasdaq-strc-2026-11-12/",
+        "title": "Rep. Gilbert Ray Cisneros, Jr. Sells Shares of Strategy Inc ..."
+      },
+      {
+        "kind": "news",
+        "url": "https://www.marketspill.com/p/rep-gilbert-cisneros-65-trades-one-filing-158-days",
+        "title": "Rep. Gilbert Cisneros reported 65 trades at once. All 64 new ..."
       }
     ]
   },

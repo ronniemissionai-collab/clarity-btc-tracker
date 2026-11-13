@@ -12,6 +12,118 @@
   "trades": [
     {
       "memberId": "F000459",
+      "assetRaw": "IShares Tr 10 20 Yr Treas Bd ETF TLH",
+      "security": null,
+      "side": "buy",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-10-22",
+      "filedDate": "2026-11-10",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116403.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "F000459",
+      "assetRaw": "IShares Tr Ishares Core MSCI Europe IEUR",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-10-22",
+      "filedDate": "2026-11-10",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116403.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "F000459",
+      "assetRaw": "SPDR Ser Tr Inter Term Treas ETF SPTI",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-10-22",
+      "filedDate": "2026-11-10",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116403.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "F000459",
+      "assetRaw": "SPDR Ser Tr S&P 400 Mid Cap ETF SPMD",
+      "security": null,
+      "side": "buy",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-10-22",
+      "filedDate": "2026-11-10",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116403.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "F000459",
+      "assetRaw": "SPDR Ser Tr S&P Aerospace & Defense XAR",
+      "security": null,
+      "side": "buy",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-10-22",
+      "filedDate": "2026-11-10",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116403.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "F000459",
+      "assetRaw": "SPDR Ser Tr State S&P 500 Gwth SPYG",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-10-22",
+      "filedDate": "2026-11-10",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116403.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "F000459",
+      "assetRaw": "Select Sector Spdr Energy Sel Sec ETF XLE",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-10-22",
+      "filedDate": "2026-11-10",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116403.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "F000459",
       "assetRaw": "GlobalXFds GlobalXDefense Tech ETF SHLD",
       "security": null,
       "side": "sell",
@@ -2170,6 +2282,34 @@
     },
     {
       "date": "2026-07-28",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-10-22",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-10-22",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-10-22",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-10-22",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-10-22",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-10-22",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-10-22",
       "value": 8000.5
     }
   ],
