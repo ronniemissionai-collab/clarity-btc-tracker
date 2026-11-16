@@ -944,6 +944,69 @@
   "trades": [
     {
       "memberId": "J000309",
+      "assetRaw": "Datadog, Inc. - Class A Common Stock",
+      "security": null,
+      "side": "buy",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-10-22",
+      "filedDate": "2026-11-13",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035757.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "J000309",
+      "assetRaw": "Estee Lauder Companies, Inc.",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-10-12",
+      "filedDate": "2026-11-13",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035757.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "J000309",
+      "assetRaw": "Sphere Entertainment Co. Class A Common Stock",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-10-12",
+      "filedDate": "2026-11-13",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035757.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "J000309",
+      "assetRaw": "BP p.l.c. Common Stock",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-10-01",
+      "filedDate": "2026-11-13",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035757.pdf",
+      "late": false,
+      "provenance": "kadoa"
+    },
+    {
+      "memberId": "J000309",
       "assetRaw": "Datadog, Inc. - Class A Common Stock (DDOG) [ST]",
       "security": null,
       "side": "buy",
@@ -4950,6 +5013,22 @@
     {
       "date": "2026-09-28",
       "value": 75000.5
+    },
+    {
+      "date": "2026-10-01",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-10-12",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-10-12",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-10-22",
+      "value": 8000.5
     }
   ],
   "measured": null
