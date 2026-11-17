@@ -193,6 +193,29 @@
     {
       "memberId": "H001072",
       "security": {
+        "ticker": "JBGS",
+        "kind": "other"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "sold",
+      "asOf": "2026-11-09",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035807.pdf"
+        }
+      ],
+      "note": "sale reported by PTR with no annual baseline in our coverage"
+    },
+    {
+      "memberId": "H001072",
+      "security": {
         "ticker": "KD",
         "kind": "other"
       },
@@ -378,9 +401,10 @@
   "trades": [
     {
       "memberId": "H001072",
-      "assetRaw": "JBG SMITH Properties Common Shares",
+      "assetRaw": "JBG SMITH Properties Common Shares (JBGS) [ST]",
       "security": null,
       "side": "sell",
+      "owner": "self",
       "range": {
         "lo": 1001,
         "hi": 15000
@@ -389,8 +413,7 @@
       "filedDate": "2026-11-13",
       "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035807.pdf",
       "late": false,
-      "note": "FULL-LIQUIDATION.",
-      "provenance": "kadoa"
+      "provenance": "both"
     },
     {
       "memberId": "H001072",

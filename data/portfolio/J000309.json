@@ -110,19 +110,24 @@
       },
       "owner": "joint",
       "range": {
-        "lo": 15001,
-        "hi": 50000
+        "lo": 1,
+        "hi": 48999
       },
       "status": "holds",
-      "asOf": "2026-03-19",
+      "asOf": "2026-10-01",
       "extraction": "pdf-text",
       "verification": "unverified",
       "sources": [
         {
           "kind": "filing",
           "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034301.pdf"
+        },
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035757.pdf"
         }
-      ]
+      ],
+      "note": "partial sale 2026-10-01"
     },
     {
       "memberId": "J000309",
@@ -287,6 +292,28 @@
     {
       "memberId": "J000309",
       "security": {
+        "ticker": "DDOG",
+        "kind": "other"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "holds",
+      "asOf": "2026-10-22",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035757.pdf"
+        }
+      ]
+    },
+    {
+      "memberId": "J000309",
+      "security": {
         "ticker": "EL",
         "kind": "other"
       },
@@ -303,6 +330,28 @@
         {
           "kind": "filing",
           "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035551.pdf"
+        }
+      ]
+    },
+    {
+      "memberId": "J000309",
+      "security": {
+        "ticker": "EL",
+        "kind": "other"
+      },
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "holds",
+      "asOf": "2026-10-12",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035757.pdf"
         }
       ]
     },
@@ -732,14 +781,18 @@
         "lo": 1001,
         "hi": 15000
       },
-      "status": "holds",
-      "asOf": "2026-06-15",
+      "status": "sold",
+      "asOf": "2026-10-12",
       "extraction": "pdf-text",
       "verification": "unverified",
       "sources": [
         {
           "kind": "filing",
           "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034908.pdf"
+        },
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035757.pdf"
         }
       ]
     },
@@ -944,9 +997,10 @@
   "trades": [
     {
       "memberId": "J000309",
-      "assetRaw": "Datadog, Inc. - Class A Common Stock",
+      "assetRaw": "Datadog, Inc. - Class A Common Stock (DDOG) [ST]",
       "security": null,
       "side": "buy",
+      "owner": "self",
       "range": {
         "lo": 1001,
         "hi": 15000
@@ -955,11 +1009,11 @@
       "filedDate": "2026-11-13",
       "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035757.pdf",
       "late": false,
-      "provenance": "kadoa"
+      "provenance": "both"
     },
     {
       "memberId": "J000309",
-      "assetRaw": "Estee Lauder Companies, Inc.",
+      "assetRaw": "Estee Lauder Companies, Inc. (EL) [ST]",
       "security": null,
       "side": "buy",
       "owner": "spouse",
@@ -971,11 +1025,11 @@
       "filedDate": "2026-11-13",
       "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035757.pdf",
       "late": false,
-      "provenance": "kadoa"
+      "provenance": "both"
     },
     {
       "memberId": "J000309",
-      "assetRaw": "Sphere Entertainment Co. Class A Common Stock",
+      "assetRaw": "Sphere Entertainment Co. Class A Common Stock (SPHR) [ST]",
       "security": null,
       "side": "sell",
       "owner": "spouse",
@@ -987,11 +1041,11 @@
       "filedDate": "2026-11-13",
       "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035757.pdf",
       "late": false,
-      "provenance": "kadoa"
+      "provenance": "both"
     },
     {
       "memberId": "J000309",
-      "assetRaw": "BP p.l.c. Common Stock",
+      "assetRaw": "BP p.l.c. Common Stock (BP) [ST]",
       "security": null,
       "side": "sell",
       "owner": "joint",
@@ -1003,7 +1057,8 @@
       "filedDate": "2026-11-13",
       "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035757.pdf",
       "late": false,
-      "provenance": "kadoa"
+      "note": "partial sale",
+      "provenance": "both"
     },
     {
       "memberId": "J000309",

@@ -58,6 +58,52 @@
     {
       "memberId": "D000032",
       "security": {
+        "ticker": "ADSK",
+        "kind": "other"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "sold",
+      "asOf": "2026-10-02",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035811.pdf"
+        }
+      ],
+      "note": "sale reported by PTR with no annual baseline in our coverage"
+    },
+    {
+      "memberId": "D000032",
+      "security": {
+        "ticker": "ADSK",
+        "kind": "other"
+      },
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "sold",
+      "asOf": "2026-10-02",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035811.pdf"
+        }
+      ],
+      "note": "sale reported by PTR with no annual baseline in our coverage"
+    },
+    {
+      "memberId": "D000032",
+      "security": {
         "ticker": "BRO",
         "kind": "other"
       },
@@ -306,6 +352,50 @@
     {
       "memberId": "D000032",
       "security": {
+        "ticker": "IBKR",
+        "kind": "other"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "holds",
+      "asOf": "2026-10-02",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035811.pdf"
+        }
+      ]
+    },
+    {
+      "memberId": "D000032",
+      "security": {
+        "ticker": "IBKR",
+        "kind": "other"
+      },
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "holds",
+      "asOf": "2026-10-02",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035811.pdf"
+        }
+      ]
+    },
+    {
+      "memberId": "D000032",
+      "security": {
         "ticker": "INTU",
         "kind": "other"
       },
@@ -448,8 +538,8 @@
         "lo": 2002,
         "hi": 30000
       },
-      "status": "holds",
-      "asOf": "2026-08-12",
+      "status": "sold",
+      "asOf": "2026-10-02",
       "extraction": "pdf-text",
       "verification": "unverified",
       "sources": [
@@ -460,6 +550,10 @@
         {
           "kind": "filing",
           "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035420.pdf"
+        },
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035811.pdf"
         }
       ]
     },
@@ -474,8 +568,8 @@
         "lo": 2002,
         "hi": 30000
       },
-      "status": "holds",
-      "asOf": "2026-08-12",
+      "status": "sold",
+      "asOf": "2026-10-02",
       "extraction": "pdf-text",
       "verification": "unverified",
       "sources": [
@@ -486,6 +580,10 @@
         {
           "kind": "filing",
           "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035420.pdf"
+        },
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035811.pdf"
         }
       ]
     },
@@ -640,14 +738,18 @@
         "lo": 1001,
         "hi": 15000
       },
-      "status": "holds",
-      "asOf": "2026-06-09",
+      "status": "sold",
+      "asOf": "2026-10-02",
       "extraction": "pdf-text",
       "verification": "unverified",
       "sources": [
         {
           "kind": "filing",
           "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034968.pdf"
+        },
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035811.pdf"
         }
       ]
     },
@@ -662,19 +764,151 @@
         "lo": 1001,
         "hi": 15000
       },
-      "status": "holds",
-      "asOf": "2026-06-09",
+      "status": "sold",
+      "asOf": "2026-10-02",
       "extraction": "pdf-text",
       "verification": "unverified",
       "sources": [
         {
           "kind": "filing",
           "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034968.pdf"
+        },
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035811.pdf"
         }
       ]
     }
   ],
   "trades": [
+    {
+      "memberId": "D000032",
+      "assetRaw": "Autodesk, Inc. - Common Stock (ADSK) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-10-02",
+      "filedDate": "2026-11-16",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035811.pdf",
+      "late": false,
+      "provenance": "official"
+    },
+    {
+      "memberId": "D000032",
+      "assetRaw": "Autodesk, Inc. - Common Stock (ADSK) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-10-02",
+      "filedDate": "2026-11-16",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035811.pdf",
+      "late": false,
+      "provenance": "official"
+    },
+    {
+      "memberId": "D000032",
+      "assetRaw": "Interactive Brokers Group, Inc. - Class A Common Stock (IBKR) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-10-02",
+      "filedDate": "2026-11-16",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035811.pdf",
+      "late": false,
+      "provenance": "official"
+    },
+    {
+      "memberId": "D000032",
+      "assetRaw": "Interactive Brokers Group, Inc. - Class A Common Stock (IBKR) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-10-02",
+      "filedDate": "2026-11-16",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035811.pdf",
+      "late": false,
+      "provenance": "official"
+    },
+    {
+      "memberId": "D000032",
+      "assetRaw": "Netflix, Inc. - Common Stock (NFLX) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-10-02",
+      "filedDate": "2026-11-16",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035811.pdf",
+      "late": false,
+      "provenance": "official"
+    },
+    {
+      "memberId": "D000032",
+      "assetRaw": "Netflix, Inc. - Common Stock (NFLX) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-10-02",
+      "filedDate": "2026-11-16",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035811.pdf",
+      "late": false,
+      "provenance": "official"
+    },
+    {
+      "memberId": "D000032",
+      "assetRaw": "Zoetis Inc. Class A Common Stock (ZTS) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-10-02",
+      "filedDate": "2026-11-16",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035811.pdf",
+      "late": false,
+      "provenance": "official"
+    },
+    {
+      "memberId": "D000032",
+      "assetRaw": "Zoetis Inc. Class A Common Stock (ZTS) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-10-02",
+      "filedDate": "2026-11-16",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035811.pdf",
+      "late": false,
+      "provenance": "official"
+    },
     {
       "memberId": "D000032",
       "assetRaw": "Netflix, Inc. - Common Stock (NFLX) [ST]",
@@ -4224,6 +4458,38 @@
     },
     {
       "date": "2026-08-12",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-10-02",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-10-02",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-10-02",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-10-02",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-10-02",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-10-02",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-10-02",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-10-02",
       "value": 8000.5
     }
   ],

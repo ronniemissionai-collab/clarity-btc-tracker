@@ -1,18 +1,18 @@
 {
-  "generatedAt": "2026-11-16T19:46:12.193Z",
+  "generatedAt": "2026-11-17T18:43:34.989Z",
   "asOf": {
-    "bill": "2026-11-16",
-    "members": "2026-11-16",
-    "holdings": "2026-11-16",
-    "trades": "2026-11-16",
-    "traders": "2026-11-16",
-    "news": "2026-11-16"
+    "bill": "2026-11-17",
+    "members": "2026-11-17",
+    "holdings": "2026-11-17",
+    "trades": "2026-11-17",
+    "traders": "2026-11-17",
+    "news": "2026-11-17"
   },
   "run": {
     "ok": true,
     "stats": {
-      "houseNewPtrs": 0,
-      "houseTrades": 0,
+      "houseNewPtrs": 5,
+      "houseTrades": 28,
       "houseOcrFlagged": 0,
       "houseUnmatchedFilings": 0,
       "houseIssues": 0,
@@ -21,17 +21,17 @@
       "senateAnnualHoldings": 0,
       "senatePaperStubs": 0,
       "senateSkipped": 0,
-      "officialTradeLedger": 5863,
+      "officialTradeLedger": 5891,
       "annualBaselineRows": 12,
       "kadoaNormalized": 48835,
       "kadoaSkippedRows": 5301,
       "kadoaUnmatchedFilers": 1,
-      "tradesMerged": 48941,
-      "tradesProvenanceOfficial": 106,
-      "tradesProvenanceBoth": 5757,
-      "tradesProvenanceKadoa": 43078,
+      "tradesMerged": 48949,
+      "tradesProvenanceOfficial": 114,
+      "tradesProvenanceBoth": 5777,
+      "tradesProvenanceKadoa": 43058,
       "tradesBackfilled": 38727,
-      "tradesMissedByOfficial": 4351,
+      "tradesMissedByOfficial": 4331,
       "tradeConflicts": 244,
       "holdingsDerived": 79,
       "holdingRejects": 0,
@@ -47,8 +47,8 @@
       "tradersClaimsNotSupported": 1,
       "unpriceableBuys": 2658,
       "portfolioFiles": 239,
-      "portfolioPositions": 2372,
-      "portfolioRejects": 43466,
+      "portfolioPositions": 2379,
+      "portfolioRejects": 43461,
       "commonSecurities": 186,
       "slimmedTrades": 298,
       "tier1Holders": 10,
@@ -57,7 +57,7 @@
     },
     "errors": [],
     "warnings": [
-      "kadoa cross-check: 4351 row(s) inside the official coverage window were only found via kadoa - investigate the official ingest"
+      "kadoa cross-check: 4331 row(s) inside the official coverage window were only found via kadoa - investigate the official ingest"
     ]
   }
 }

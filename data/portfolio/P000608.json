@@ -947,7 +947,7 @@
   "trades": [
     {
       "memberId": "P000608",
-      "assetRaw": "Illinois State GO UTX",
+      "assetRaw": "Illinois State GO UTX [GS]",
       "security": null,
       "side": "sell",
       "owner": "spouse",
@@ -959,11 +959,12 @@
       "filedDate": "2026-11-13",
       "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035786.pdf",
       "late": false,
-      "provenance": "kadoa"
+      "note": "partial sale",
+      "provenance": "both"
     },
     {
       "memberId": "P000608",
-      "assetRaw": "Inverted Capital I LP",
+      "assetRaw": "Inverted Capital I LP [OT]",
       "security": null,
       "side": "buy",
       "owner": "spouse",
@@ -975,12 +976,11 @@
       "filedDate": "2026-11-13",
       "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035786.pdf",
       "late": false,
-      "note": "Pooled Investment Fund",
-      "provenance": "kadoa"
+      "provenance": "both"
     },
     {
       "memberId": "P000608",
-      "assetRaw": "Watsonville CA W SWR UTIL",
+      "assetRaw": "Watsonville CA W SWR UTIL [GS]",
       "security": null,
       "side": "buy",
       "owner": "spouse",
@@ -992,11 +992,11 @@
       "filedDate": "2026-11-13",
       "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035786.pdf",
       "late": false,
-      "provenance": "kadoa"
+      "provenance": "both"
     },
     {
       "memberId": "P000608",
-      "assetRaw": "U.S. Treasury Bill",
+      "assetRaw": "U.S. Treasury Bill [GS]",
       "security": null,
       "side": "sell",
       "owner": "spouse",
@@ -1008,11 +1008,11 @@
       "filedDate": "2026-11-13",
       "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035786.pdf",
       "late": false,
-      "provenance": "kadoa"
+      "provenance": "both"
     },
     {
       "memberId": "P000608",
-      "assetRaw": "Charlotte-Meckle HLTH",
+      "assetRaw": "Charlotte-Meckle HLTH [GS]",
       "security": null,
       "side": "sell",
       "owner": "spouse",
@@ -1024,11 +1024,11 @@
       "filedDate": "2026-11-13",
       "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035786.pdf",
       "late": false,
-      "provenance": "kadoa"
+      "provenance": "both"
     },
     {
       "memberId": "P000608",
-      "assetRaw": "Berks Cnty PA GO UTX",
+      "assetRaw": "Berks Cnty PA GO UTX [GS]",
       "security": null,
       "side": "sell",
       "owner": "spouse",
@@ -1040,11 +1040,11 @@
       "filedDate": "2026-11-13",
       "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035786.pdf",
       "late": false,
-      "provenance": "kadoa"
+      "provenance": "both"
     },
     {
       "memberId": "P000608",
-      "assetRaw": "Allocate Alpha Fund II LP",
+      "assetRaw": "Allocate Alpha Fund II LP [OT]",
       "security": null,
       "side": "buy",
       "owner": "spouse",
@@ -1056,12 +1056,11 @@
       "filedDate": "2026-11-13",
       "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035786.pdf",
       "late": false,
-      "note": "Pooled Investment Fund",
-      "provenance": "kadoa"
+      "provenance": "both"
     },
     {
       "memberId": "P000608",
-      "assetRaw": "Smash Capital Fund II LP",
+      "assetRaw": "Smash Capital Fund II LP [OT]",
       "security": null,
       "side": "buy",
       "owner": "spouse",
@@ -1073,12 +1072,11 @@
       "filedDate": "2026-11-13",
       "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035786.pdf",
       "late": false,
-      "note": "Pooled Investment Fund",
-      "provenance": "kadoa"
+      "provenance": "both"
     },
     {
       "memberId": "P000608",
-      "assetRaw": "Allocate Premier Access Fund",
+      "assetRaw": "Allocate Premier Access Fund [OT]",
       "security": null,
       "side": "buy",
       "owner": "spouse",
@@ -1090,8 +1088,7 @@
       "filedDate": "2026-11-13",
       "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035786.pdf",
       "late": false,
-      "note": "Pooled Investment Fund",
-      "provenance": "kadoa"
+      "provenance": "both"
     },
     {
       "memberId": "P000608",
@@ -15218,7 +15215,7 @@
     "method": "midpoint",
     "benchmark": "SPY",
     "window": "disclosed buys 2013-02-13 to 2025-09-09, since-trade, midpoint-weighted",
-    "asOf": "2026-11-16",
+    "asOf": "2026-11-17",
     "note": "Estimate: position sizes are disclosed-range midpoints, never exact amounts. 275 unpriceable position(s) excluded (options or no resolvable price)."
   }
 }
