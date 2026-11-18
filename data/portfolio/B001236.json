@@ -36,6 +36,72 @@
   "trades": [
     {
       "memberId": "B001236",
+      "assetRaw": "iShares 10-20 Year Treasury Bond ETF",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-10-21",
+      "filedDate": "2026-11-17",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/21941188-c04d-4713-8e6f-d954918e93fd/",
+      "late": false,
+      "note": "partial sale",
+      "provenance": "official"
+    },
+    {
+      "memberId": "B001236",
+      "assetRaw": "iShares BB Rated Corporate Bond ETF",
+      "security": null,
+      "side": "buy",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-10-21",
+      "filedDate": "2026-11-17",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/06b7b716-bdc0-4c47-a4aa-96624e1e702c/",
+      "late": false,
+      "provenance": "official"
+    },
+    {
+      "memberId": "B001236",
+      "assetRaw": "iShares CMBS ETF",
+      "security": null,
+      "side": "sell",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-10-21",
+      "filedDate": "2026-11-17",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/21941188-c04d-4713-8e6f-d954918e93fd/",
+      "late": false,
+      "note": "partial sale",
+      "provenance": "official"
+    },
+    {
+      "memberId": "B001236",
+      "assetRaw": "iShares MBS ETF",
+      "security": null,
+      "side": "buy",
+      "owner": "joint",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-10-21",
+      "filedDate": "2026-11-17",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/06b7b716-bdc0-4c47-a4aa-96624e1e702c/",
+      "late": false,
+      "provenance": "official"
+    },
+    {
+      "memberId": "B001236",
       "assetRaw": "Aptiv PLC Ordinary Shares",
       "security": null,
       "side": "sell",
@@ -10231,15 +10297,31 @@
     {
       "date": "2026-09-25",
       "value": 8000.5
+    },
+    {
+      "date": "2026-10-21",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-10-21",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-10-21",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-10-21",
+      "value": 8000.5
     }
   ],
   "measured": {
-    "return": 8.2,
-    "excess": -12,
+    "return": 6.9,
+    "excess": -11.1,
     "method": "midpoint",
     "benchmark": "SPY",
     "window": "disclosed buys 2023-08-29 to 2026-09-24, since-trade, midpoint-weighted",
-    "asOf": "2026-11-17",
-    "note": "Estimate: position sizes are disclosed-range midpoints, never exact amounts. 7 unpriceable position(s) excluded (options or no resolvable price)."
+    "asOf": "2026-11-18",
+    "note": "Estimate: position sizes are disclosed-range midpoints, never exact amounts. 9 unpriceable position(s) excluded (options or no resolvable price)."
   }
 }

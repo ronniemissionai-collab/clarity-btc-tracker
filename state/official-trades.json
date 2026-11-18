@@ -90264,5 +90264,67 @@
     "filedDate": "2026-11-13",
     "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035786.pdf",
     "late": false
+  },
+  {
+    "memberId": "B001236",
+    "assetRaw": "iShares 10-20 Year Treasury Bond ETF",
+    "security": null,
+    "side": "sell",
+    "owner": "joint",
+    "range": {
+      "lo": 1001,
+      "hi": 15000
+    },
+    "transactionDate": "2026-10-21",
+    "filedDate": "2026-11-17",
+    "docUrl": "https://efdsearch.senate.gov/search/view/ptr/21941188-c04d-4713-8e6f-d954918e93fd/",
+    "late": false,
+    "note": "partial sale"
+  },
+  {
+    "memberId": "B001236",
+    "assetRaw": "iShares CMBS ETF",
+    "security": null,
+    "side": "sell",
+    "owner": "joint",
+    "range": {
+      "lo": 1001,
+      "hi": 15000
+    },
+    "transactionDate": "2026-10-21",
+    "filedDate": "2026-11-17",
+    "docUrl": "https://efdsearch.senate.gov/search/view/ptr/21941188-c04d-4713-8e6f-d954918e93fd/",
+    "late": false,
+    "note": "partial sale"
+  },
+  {
+    "memberId": "B001236",
+    "assetRaw": "iShares MBS ETF",
+    "security": null,
+    "side": "buy",
+    "owner": "joint",
+    "range": {
+      "lo": 1001,
+      "hi": 15000
+    },
+    "transactionDate": "2026-10-21",
+    "filedDate": "2026-11-17",
+    "docUrl": "https://efdsearch.senate.gov/search/view/ptr/06b7b716-bdc0-4c47-a4aa-96624e1e702c/",
+    "late": false
+  },
+  {
+    "memberId": "B001236",
+    "assetRaw": "iShares BB Rated Corporate Bond ETF",
+    "security": null,
+    "side": "buy",
+    "owner": "joint",
+    "range": {
+      "lo": 1001,
+      "hi": 15000
+    },
+    "transactionDate": "2026-10-21",
+    "filedDate": "2026-11-17",
+    "docUrl": "https://efdsearch.senate.gov/search/view/ptr/06b7b716-bdc0-4c47-a4aa-96624e1e702c/",
+    "late": false
   }
 ]
