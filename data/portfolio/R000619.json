@@ -317,17 +317,16 @@
         "lo": 1001,
         "hi": 15000
       },
-      "status": "sold",
-      "asOf": "2026-06-25",
+      "status": "holds",
+      "asOf": "2026-11-04",
       "extraction": "pdf-text",
       "verification": "unverified",
       "sources": [
         {
           "kind": "filing",
-          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035147.pdf"
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20036855.pdf"
         }
-      ],
-      "note": "sale reported by PTR with no annual baseline in our coverage"
+      ]
     },
     {
       "memberId": "R000619",
@@ -382,19 +381,24 @@
       },
       "owner": "self",
       "range": {
-        "lo": 2002,
-        "hi": 30000
+        "lo": 0,
+        "hi": 28999
       },
       "status": "holds",
-      "asOf": "2026-06-25",
+      "asOf": "2026-10-28",
       "extraction": "pdf-text",
       "verification": "unverified",
       "sources": [
         {
           "kind": "filing",
           "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035147.pdf"
+        },
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20036855.pdf"
         }
-      ]
+      ],
+      "note": "partial sale 2026-10-28"
     },
     {
       "memberId": "R000619",
@@ -534,6 +538,107 @@
     }
   ],
   "trades": [
+    {
+      "memberId": "R000619",
+      "assetRaw": "Costco Wholesale Corporation - Common Stock (COST) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-11-12",
+      "filedDate": "2026-11-18",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20036855.pdf",
+      "late": false,
+      "note": "partial sale",
+      "provenance": "official"
+    },
+    {
+      "memberId": "R000619",
+      "assetRaw": "Alphabet Inc. - Class A Common Stock (GOOGL) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-11-04",
+      "filedDate": "2026-11-18",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20036855.pdf",
+      "late": false,
+      "note": "partial sale",
+      "provenance": "official"
+    },
+    {
+      "memberId": "R000619",
+      "assetRaw": "Eli Lilly and Company Common Stock (LLY) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-11-04",
+      "filedDate": "2026-11-18",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20036855.pdf",
+      "late": false,
+      "note": "partial sale",
+      "provenance": "official"
+    },
+    {
+      "memberId": "R000619",
+      "assetRaw": "Lumentum Holdings Inc. - Common Stock (LITE) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-11-04",
+      "filedDate": "2026-11-18",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20036855.pdf",
+      "late": false,
+      "note": "partial sale",
+      "provenance": "official"
+    },
+    {
+      "memberId": "R000619",
+      "assetRaw": "Microsoft Corporation - Common Stock (MSFT) [ST]",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-11-04",
+      "filedDate": "2026-11-18",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20036855.pdf",
+      "late": false,
+      "provenance": "official"
+    },
+    {
+      "memberId": "R000619",
+      "assetRaw": "NVIDIA Corporation - Common Stock (NVDA) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-10-28",
+      "filedDate": "2026-11-18",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20036855.pdf",
+      "late": false,
+      "note": "partial sale",
+      "provenance": "official"
+    },
     {
       "memberId": "R000619",
       "assetRaw": "Alphabet Inc. - Class C Capital Stock (GOOG) [ST]",
@@ -1337,6 +1442,30 @@
     },
     {
       "date": "2026-10-16",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-10-28",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-11-04",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-11-04",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-11-04",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-11-04",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-11-12",
       "value": 8000.5
     }
   ],

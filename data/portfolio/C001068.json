@@ -171,6 +171,29 @@
     {
       "memberId": "C001068",
       "security": {
+        "ticker": "WBD",
+        "kind": "other"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "sold",
+      "asOf": "2026-10-07",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20036849.pdf"
+        }
+      ],
+      "note": "sale reported by PTR with no annual baseline in our coverage"
+    },
+    {
+      "memberId": "C001068",
+      "security": {
         "ticker": "WU",
         "kind": "other"
       },
@@ -229,6 +252,22 @@
       "transactionDate": "2026-12-26",
       "filedDate": "2026-02-09",
       "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033889.pdf",
+      "late": false,
+      "provenance": "official"
+    },
+    {
+      "memberId": "C001068",
+      "assetRaw": "Warner Bros. Discovery, Inc. - Series A Common Stock (WBD) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-10-07",
+      "filedDate": "2026-11-18",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20036849.pdf",
       "late": false,
       "provenance": "official"
     },
@@ -3035,6 +3074,10 @@
     {
       "date": "2026-08-21",
       "value": 375000.5
+    },
+    {
+      "date": "2026-10-07",
+      "value": 8000.5
     },
     {
       "date": "2026-12-26",

@@ -40,23 +40,39 @@
       },
       "owner": "self",
       "range": {
-        "lo": 15001,
-        "hi": 50000
+        "lo": 1001,
+        "hi": 15000
       },
       "status": "sold",
-      "asOf": "2026-03-25",
+      "asOf": "2026-11-05",
       "extraction": "pdf-text",
       "verification": "unverified",
       "sources": [
         {
           "kind": "filing",
-          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034384.pdf"
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20036864.pdf"
         }
       ],
       "note": "sale reported by PTR with no annual baseline in our coverage"
     }
   ],
   "trades": [
+    {
+      "memberId": "S001185",
+      "assetRaw": "Tapestry, Inc. Common Stock (TPR) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-11-05",
+      "filedDate": "2026-11-18",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20036864.pdf",
+      "late": false,
+      "provenance": "official"
+    },
     {
       "memberId": "S001185",
       "assetRaw": "GE HealthCare Technologies Inc. - Common Stock (GEHC) [ST]",
@@ -136,6 +152,10 @@
     {
       "date": "2026-03-25",
       "value": 32500.5
+    },
+    {
+      "date": "2026-11-05",
+      "value": 8000.5
     }
   ],
   "measured": null

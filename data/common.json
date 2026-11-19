@@ -4,14 +4,31 @@
       "ticker": "MSFT",
       "kind": "other"
     },
-    "ownersCount": 15,
+    "ownersCount": 16,
     "partySplit": {
-      "R": 6,
+      "R": 7,
       "D": 9,
       "I": 0
     },
-    "latestBuyDate": "2026-09-30",
+    "latestBuyDate": "2026-11-04",
     "owners": [
+      {
+        "memberId": "R000619",
+        "name": "Michael A. Rulli",
+        "party": "R",
+        "chamber": "house",
+        "state": "OH",
+        "active": true,
+        "buyDates": [
+          "2026-11-04",
+          "2026-02-05"
+        ],
+        "latestRange": {
+          "lo": 1001,
+          "hi": 15000
+        },
+        "status": "holds"
+      },
       {
         "memberId": "M001136",
         "name": "Lisa C. McClain",
@@ -330,22 +347,6 @@
         "active": true,
         "buyDates": [
           "2026-03-19"
-        ],
-        "latestRange": {
-          "lo": 1001,
-          "hi": 15000
-        },
-        "status": "sold"
-      },
-      {
-        "memberId": "R000619",
-        "name": "Michael A. Rulli",
-        "party": "R",
-        "chamber": "house",
-        "state": "OH",
-        "active": true,
-        "buyDates": [
-          "2026-02-05"
         ],
         "latestRange": {
           "lo": 1001,
@@ -3096,8 +3097,8 @@
           "2025-08-01"
         ],
         "latestRange": {
-          "lo": 2002,
-          "hi": 30000
+          "lo": 0,
+          "hi": 28999
         },
         "status": "holds"
       },

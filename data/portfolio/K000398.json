@@ -443,6 +443,52 @@
     {
       "memberId": "K000398",
       "security": {
+        "ticker": "WBD",
+        "kind": "other"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "sold",
+      "asOf": "2026-10-07",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20036844.pdf"
+        }
+      ],
+      "note": "sale reported by PTR with no annual baseline in our coverage"
+    },
+    {
+      "memberId": "K000398",
+      "security": {
+        "ticker": "WBD",
+        "kind": "other"
+      },
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "sold",
+      "asOf": "2026-10-07",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20036844.pdf"
+        }
+      ],
+      "note": "sale reported by PTR with no annual baseline in our coverage"
+    },
+    {
+      "memberId": "K000398",
+      "security": {
         "ticker": "WPM",
         "kind": "other"
       },
@@ -464,6 +510,105 @@
     }
   ],
   "trades": [
+    {
+      "memberId": "K000398",
+      "assetRaw": "Johnson & Johnson Common Stock (JNJ) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-10-27",
+      "filedDate": "2026-11-19",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20036844.pdf",
+      "late": false,
+      "note": "partial sale",
+      "provenance": "official"
+    },
+    {
+      "memberId": "K000398",
+      "assetRaw": "Microsoft Corporation - Common Stock (MSFT) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "transactionDate": "2026-10-27",
+      "filedDate": "2026-11-19",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20036844.pdf",
+      "late": false,
+      "note": "partial sale",
+      "provenance": "official"
+    },
+    {
+      "memberId": "K000398",
+      "assetRaw": "Stryker Corporation Common Stock (SYK) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-10-27",
+      "filedDate": "2026-11-19",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20036844.pdf",
+      "late": false,
+      "note": "partial sale",
+      "provenance": "official"
+    },
+    {
+      "memberId": "K000398",
+      "assetRaw": "U.S. Treasury Note [GS]",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2026-10-20",
+      "filedDate": "2026-11-19",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20036844.pdf",
+      "late": false,
+      "provenance": "official"
+    },
+    {
+      "memberId": "K000398",
+      "assetRaw": "Warner Bros. Discovery, Inc. - Series A Common Stock (WBD) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-10-07",
+      "filedDate": "2026-11-19",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20036844.pdf",
+      "late": false,
+      "provenance": "official"
+    },
+    {
+      "memberId": "K000398",
+      "assetRaw": "Warner Bros. Discovery, Inc. - Series A Common Stock (WBD) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-10-07",
+      "filedDate": "2026-11-19",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20036844.pdf",
+      "late": false,
+      "provenance": "official"
+    },
     {
       "memberId": "K000398",
       "assetRaw": "Johnson & Johnson Common Stock (JNJ) [ST]",
@@ -3755,15 +3900,39 @@
     {
       "date": "2026-09-30",
       "value": 8000.5
+    },
+    {
+      "date": "2026-10-07",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-10-07",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-10-20",
+      "value": 75000.5
+    },
+    {
+      "date": "2026-10-27",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-10-27",
+      "value": 32500.5
+    },
+    {
+      "date": "2026-10-27",
+      "value": 8000.5
     }
   ],
   "measured": {
-    "return": 24.4,
-    "excess": -1.8,
+    "return": 24.6,
+    "excess": -0.9,
     "method": "midpoint",
     "benchmark": "SPY",
     "window": "disclosed buys 2023-01-18 to 2026-09-29, since-trade, midpoint-weighted",
-    "asOf": "2026-11-18",
-    "note": "Estimate: position sizes are disclosed-range midpoints, never exact amounts. 9 unpriceable position(s) excluded (options or no resolvable price)."
+    "asOf": "2026-11-19",
+    "note": "Estimate: position sizes are disclosed-range midpoints, never exact amounts. 10 unpriceable position(s) excluded (options or no resolvable price)."
   }
 }
