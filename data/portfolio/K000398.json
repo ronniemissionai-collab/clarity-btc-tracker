@@ -525,7 +525,7 @@
       "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20036844.pdf",
       "late": false,
       "note": "partial sale",
-      "provenance": "official"
+      "provenance": "both"
     },
     {
       "memberId": "K000398",
@@ -542,7 +542,7 @@
       "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20036844.pdf",
       "late": false,
       "note": "partial sale",
-      "provenance": "official"
+      "provenance": "both"
     },
     {
       "memberId": "K000398",
@@ -559,7 +559,7 @@
       "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20036844.pdf",
       "late": false,
       "note": "partial sale",
-      "provenance": "official"
+      "provenance": "both"
     },
     {
       "memberId": "K000398",
@@ -575,7 +575,7 @@
       "filedDate": "2026-11-19",
       "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20036844.pdf",
       "late": false,
-      "provenance": "official"
+      "provenance": "both"
     },
     {
       "memberId": "K000398",
@@ -591,7 +591,7 @@
       "filedDate": "2026-11-19",
       "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20036844.pdf",
       "late": false,
-      "provenance": "official"
+      "provenance": "both"
     },
     {
       "memberId": "K000398",
@@ -607,7 +607,7 @@
       "filedDate": "2026-11-19",
       "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20036844.pdf",
       "late": false,
-      "provenance": "official"
+      "provenance": "both"
     },
     {
       "memberId": "K000398",
@@ -3927,12 +3927,12 @@
     }
   ],
   "measured": {
-    "return": 24.6,
+    "return": 22.5,
     "excess": -0.9,
     "method": "midpoint",
     "benchmark": "SPY",
     "window": "disclosed buys 2023-01-18 to 2026-09-29, since-trade, midpoint-weighted",
-    "asOf": "2026-11-19",
+    "asOf": "2026-11-20",
     "note": "Estimate: position sizes are disclosed-range midpoints, never exact amounts. 10 unpriceable position(s) excluded (options or no resolvable price)."
   }
 }
