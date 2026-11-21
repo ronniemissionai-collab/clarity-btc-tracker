@@ -37,6 +37,23 @@
   "trades": [
     {
       "memberId": "C001098",
+      "assetRaw": "Goldman Sachs Group, Inc. (The) Common Stock",
+      "security": null,
+      "side": "sell",
+      "owner": "spouse",
+      "range": {
+        "lo": 250001,
+        "hi": 500000
+      },
+      "transactionDate": "2026-11-11",
+      "filedDate": "2026-11-20",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/f0f7eba0-ca09-4b80-a97b-64b6dafb835e/",
+      "late": false,
+      "note": "partial sale",
+      "provenance": "official"
+    },
+    {
+      "memberId": "C001098",
       "assetRaw": "Goldman Sachs Group",
       "security": null,
       "side": "sell",
@@ -57,6 +74,10 @@
     {
       "date": "2025-11-11",
       "value": 175000.5
+    },
+    {
+      "date": "2026-11-11",
+      "value": 375000.5
     }
   ],
   "measured": null
