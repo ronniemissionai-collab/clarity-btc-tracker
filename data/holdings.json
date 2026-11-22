@@ -747,10 +747,10 @@
       "lo": 21007,
       "hi": 140000
     },
-    "status": "holds",
+    "status": "stale",
     "asOf": "2025-11-21",
     "extraction": "pdf-text",
-    "verification": "unverified",
+    "verification": "corroborated",
     "sources": [
       {
         "kind": "filing",
@@ -775,6 +775,16 @@
       {
         "kind": "filing",
         "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20033570.pdf"
+      },
+      {
+        "kind": "news",
+        "url": "https://jat.cool/news/congress-bitcoin-etf-purchases-ranked/",
+        "title": "The largest disclosed Bitcoin ETF buying runs in Congress | JAT.Cool"
+      },
+      {
+        "kind": "news",
+        "url": "https://www.linkedin.com/posts/veridion-markets_ibit-etf-holdings-weight-fund-data-veridion-activity-7516554047718334464-6zaz",
+        "title": "Who in Congress is buying the Bitcoin ETF? | Veridion Markets"
       }
     ]
   },
