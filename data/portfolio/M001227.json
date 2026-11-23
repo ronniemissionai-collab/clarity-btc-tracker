@@ -17,6 +17,23 @@
       "side": "sell",
       "owner": "self",
       "range": {
+        "lo": 50001,
+        "hi": 100000
+      },
+      "transactionDate": "2026-11-19",
+      "filedDate": "2026-11-20",
+      "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20036883.pdf",
+      "late": false,
+      "note": "partial sale",
+      "provenance": "official"
+    },
+    {
+      "memberId": "M001227",
+      "assetRaw": "Verizon Communications Inc. Common Stock (VZ) [ST]",
+      "security": null,
+      "side": "sell",
+      "owner": "self",
+      "range": {
         "lo": 100001,
         "hi": 250000
       },
@@ -51,6 +68,10 @@
     {
       "date": "2026-04-07",
       "value": 175000.5
+    },
+    {
+      "date": "2026-11-19",
+      "value": 75000.5
     }
   ],
   "measured": null

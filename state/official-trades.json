@@ -90906,5 +90906,36 @@
     "docUrl": "https://efdsearch.senate.gov/search/view/ptr/f0f7eba0-ca09-4b80-a97b-64b6dafb835e/",
     "late": false,
     "note": "partial sale"
+  },
+  {
+    "memberId": "C001055",
+    "assetRaw": "Apple Inc. - Common Stock (AAPL) [ST]",
+    "security": null,
+    "side": "buy",
+    "owner": "spouse",
+    "range": {
+      "lo": 1001,
+      "hi": 15000
+    },
+    "transactionDate": "2026-11-16",
+    "filedDate": "2026-11-21",
+    "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20036891.pdf",
+    "late": false
+  },
+  {
+    "memberId": "M001227",
+    "assetRaw": "Verizon Communications Inc. Common Stock (VZ) [ST]",
+    "security": null,
+    "side": "sell",
+    "owner": "self",
+    "range": {
+      "lo": 50001,
+      "hi": 100000
+    },
+    "transactionDate": "2026-11-19",
+    "filedDate": "2026-11-20",
+    "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20036883.pdf",
+    "late": false,
+    "note": "partial sale"
   }
 ]
