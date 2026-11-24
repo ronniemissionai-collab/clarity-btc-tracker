@@ -572,6 +572,25 @@
     "provenance": "kadoa"
   },
   {
+    "memberId": "H001096",
+    "assetRaw": "Tesla, Inc. - Common Stock (TSLA) [ST]",
+    "security": {
+      "ticker": "TSLA",
+      "kind": "treasury"
+    },
+    "side": "buy",
+    "owner": "spouse",
+    "range": {
+      "lo": 1001,
+      "hi": 15000
+    },
+    "transactionDate": "2026-03-31",
+    "filedDate": "2026-11-23",
+    "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035776.pdf",
+    "late": true,
+    "provenance": "official"
+  },
+  {
     "memberId": "A000383",
     "assetRaw": "Tesla, Inc. - Common Stock",
     "security": {

@@ -1020,6 +1020,28 @@
     ]
   },
   {
+    "memberId": "H001096",
+    "security": {
+      "ticker": "TSLA",
+      "kind": "treasury"
+    },
+    "owner": "spouse",
+    "range": {
+      "lo": 1001,
+      "hi": 15000
+    },
+    "status": "holds",
+    "asOf": "2026-03-31",
+    "extraction": "pdf-text",
+    "verification": "unverified",
+    "sources": [
+      {
+        "kind": "filing",
+        "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035776.pdf"
+      }
+    ]
+  },
+  {
     "memberId": "J000307",
     "security": {
       "ticker": "SPCX",
