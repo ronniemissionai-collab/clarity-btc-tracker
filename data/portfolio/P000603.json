@@ -12,6 +12,54 @@
   "trades": [
     {
       "memberId": "P000603",
+      "assetRaw": "NVIDIA Corporation - Common Stock",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-11-09",
+      "filedDate": "2026-11-25",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/99dc7269-2f99-4c8b-8d0c-a3a91328af84/",
+      "late": false,
+      "provenance": "official"
+    },
+    {
+      "memberId": "P000603",
+      "assetRaw": "NVIDIA Corporation - Common Stock",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-11-07",
+      "filedDate": "2026-11-25",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/99dc7269-2f99-4c8b-8d0c-a3a91328af84/",
+      "late": false,
+      "provenance": "official"
+    },
+    {
+      "memberId": "P000603",
+      "assetRaw": "NVIDIA Corporation - Common Stock",
+      "security": null,
+      "side": "buy",
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "transactionDate": "2026-11-05",
+      "filedDate": "2026-11-25",
+      "docUrl": "https://efdsearch.senate.gov/search/view/ptr/99dc7269-2f99-4c8b-8d0c-a3a91328af84/",
+      "late": false,
+      "provenance": "official"
+    },
+    {
+      "memberId": "P000603",
       "assetRaw": "GILD",
       "security": null,
       "side": "buy",
@@ -30,6 +78,18 @@
   "series": [
     {
       "date": "2020-02-26",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-11-05",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-11-07",
+      "value": 8000.5
+    },
+    {
+      "date": "2026-11-09",
       "value": 8000.5
     }
   ],

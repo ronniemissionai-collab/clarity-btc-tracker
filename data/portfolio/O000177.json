@@ -8,13 +8,268 @@
     "district": "MO-03",
     "active": true
   },
-  "positions": [],
+  "positions": [
+    {
+      "memberId": "O000177",
+      "security": {
+        "ticker": "AMP",
+        "kind": "other"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "sold",
+      "asOf": "2026-10-29",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20036908.pdf"
+        }
+      ],
+      "note": "sale reported by PTR with no annual baseline in our coverage"
+    },
+    {
+      "memberId": "O000177",
+      "security": {
+        "ticker": "CMCSA",
+        "kind": "other"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "sold",
+      "asOf": "2026-10-29",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20036908.pdf"
+        }
+      ],
+      "note": "sale reported by PTR with no annual baseline in our coverage"
+    },
+    {
+      "memberId": "O000177",
+      "security": {
+        "ticker": "DIS",
+        "kind": "other"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "sold",
+      "asOf": "2026-10-29",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20036908.pdf"
+        }
+      ],
+      "note": "sale reported by PTR with no annual baseline in our coverage"
+    },
+    {
+      "memberId": "O000177",
+      "security": {
+        "ticker": "DUK",
+        "kind": "other"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "status": "sold",
+      "asOf": "2026-10-29",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20036908.pdf"
+        }
+      ],
+      "note": "sale reported by PTR with no annual baseline in our coverage"
+    },
+    {
+      "memberId": "O000177",
+      "security": {
+        "ticker": "GEHCV",
+        "kind": "other"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "sold",
+      "asOf": "2026-10-29",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20036908.pdf"
+        }
+      ],
+      "note": "sale reported by PTR with no annual baseline in our coverage"
+    },
+    {
+      "memberId": "O000177",
+      "security": {
+        "ticker": "HPQ",
+        "kind": "other"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "sold",
+      "asOf": "2026-10-29",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20036908.pdf"
+        }
+      ],
+      "note": "sale reported by PTR with no annual baseline in our coverage"
+    },
+    {
+      "memberId": "O000177",
+      "security": {
+        "ticker": "MDLZ",
+        "kind": "other"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "status": "sold",
+      "asOf": "2026-10-29",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20036908.pdf"
+        }
+      ],
+      "note": "sale reported by PTR with no annual baseline in our coverage"
+    },
+    {
+      "memberId": "O000177",
+      "security": {
+        "ticker": "MDT",
+        "kind": "other"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "sold",
+      "asOf": "2026-10-29",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20036908.pdf"
+        }
+      ],
+      "note": "sale reported by PTR with no annual baseline in our coverage"
+    },
+    {
+      "memberId": "O000177",
+      "security": {
+        "ticker": "PEP",
+        "kind": "other"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "status": "sold",
+      "asOf": "2026-10-29",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20036908.pdf"
+        }
+      ],
+      "note": "sale reported by PTR with no annual baseline in our coverage"
+    },
+    {
+      "memberId": "O000177",
+      "security": {
+        "ticker": "PG",
+        "kind": "other"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 15001,
+        "hi": 50000
+      },
+      "status": "sold",
+      "asOf": "2026-10-29",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20036908.pdf"
+        }
+      ],
+      "note": "sale reported by PTR with no annual baseline in our coverage"
+    },
+    {
+      "memberId": "O000177",
+      "security": {
+        "ticker": "VZ",
+        "kind": "other"
+      },
+      "owner": "self",
+      "range": {
+        "lo": 1001,
+        "hi": 15000
+      },
+      "status": "sold",
+      "asOf": "2026-10-29",
+      "extraction": "pdf-text",
+      "verification": "unverified",
+      "sources": [
+        {
+          "kind": "filing",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20036908.pdf"
+        }
+      ],
+      "note": "sale reported by PTR with no annual baseline in our coverage"
+    }
+  ],
   "trades": [
     {
       "memberId": "O000177",
-      "assetRaw": "Ameriprise Financial, Inc. Common Stock",
+      "assetRaw": "Ameriprise Financial, Inc. Common Stock (AMP) [ST]",
       "security": null,
       "side": "sell",
+      "owner": "self",
       "range": {
         "lo": 1001,
         "hi": 15000
@@ -23,13 +278,14 @@
       "filedDate": "2026-11-24",
       "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20036908.pdf",
       "late": false,
-      "provenance": "kadoa"
+      "provenance": "both"
     },
     {
       "memberId": "O000177",
-      "assetRaw": "Comcast Corporation - Class A Common Stock",
+      "assetRaw": "Comcast Corporation - Class A Common Stock (CMCSA) [ST]",
       "security": null,
       "side": "sell",
+      "owner": "self",
       "range": {
         "lo": 1001,
         "hi": 15000
@@ -38,13 +294,14 @@
       "filedDate": "2026-11-24",
       "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20036908.pdf",
       "late": false,
-      "provenance": "kadoa"
+      "provenance": "both"
     },
     {
       "memberId": "O000177",
-      "assetRaw": "Duke Energy Corporation",
+      "assetRaw": "Duke Energy Corporation (DUK) [ST]",
       "security": null,
       "side": "sell",
+      "owner": "self",
       "range": {
         "lo": 15001,
         "hi": 50000
@@ -53,13 +310,14 @@
       "filedDate": "2026-11-24",
       "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20036908.pdf",
       "late": false,
-      "provenance": "kadoa"
+      "provenance": "both"
     },
     {
       "memberId": "O000177",
-      "assetRaw": "GE HealthCare Technologies Inc.",
+      "assetRaw": "GE HealthCare Technologies Inc. (GEHCV) [ST]",
       "security": null,
       "side": "sell",
+      "owner": "self",
       "range": {
         "lo": 1001,
         "hi": 15000
@@ -68,13 +326,14 @@
       "filedDate": "2026-11-24",
       "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20036908.pdf",
       "late": false,
-      "provenance": "kadoa"
+      "provenance": "both"
     },
     {
       "memberId": "O000177",
-      "assetRaw": "HP Inc. Common Stock",
+      "assetRaw": "HP Inc. Common Stock (HPQ) [ST]",
       "security": null,
       "side": "sell",
+      "owner": "self",
       "range": {
         "lo": 1001,
         "hi": 15000
@@ -83,13 +342,14 @@
       "filedDate": "2026-11-24",
       "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20036908.pdf",
       "late": false,
-      "provenance": "kadoa"
+      "provenance": "both"
     },
     {
       "memberId": "O000177",
-      "assetRaw": "Medtronic plc. Ordinary Shares",
+      "assetRaw": "Medtronic plc. Ordinary Shares (MDT) [ST]",
       "security": null,
       "side": "sell",
+      "owner": "self",
       "range": {
         "lo": 1001,
         "hi": 15000
@@ -98,13 +358,14 @@
       "filedDate": "2026-11-24",
       "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20036908.pdf",
       "late": false,
-      "provenance": "kadoa"
+      "provenance": "both"
     },
     {
       "memberId": "O000177",
-      "assetRaw": "Mondelez International, Inc. - Class A Common Stock",
+      "assetRaw": "Mondelez International, Inc. - Class A Common Stock (MDLZ) [ST]",
       "security": null,
       "side": "sell",
+      "owner": "self",
       "range": {
         "lo": 15001,
         "hi": 50000
@@ -113,13 +374,14 @@
       "filedDate": "2026-11-24",
       "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20036908.pdf",
       "late": false,
-      "provenance": "kadoa"
+      "provenance": "both"
     },
     {
       "memberId": "O000177",
-      "assetRaw": "PepsiCo, Inc. - Common Stock",
+      "assetRaw": "PepsiCo, Inc. - Common Stock (PEP) [ST]",
       "security": null,
       "side": "sell",
+      "owner": "self",
       "range": {
         "lo": 15001,
         "hi": 50000
@@ -128,13 +390,14 @@
       "filedDate": "2026-11-24",
       "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20036908.pdf",
       "late": false,
-      "provenance": "kadoa"
+      "provenance": "both"
     },
     {
       "memberId": "O000177",
-      "assetRaw": "Procter & Gamble Company",
+      "assetRaw": "Procter & Gamble Company (PG) [ST]",
       "security": null,
       "side": "sell",
+      "owner": "self",
       "range": {
         "lo": 15001,
         "hi": 50000
@@ -143,13 +406,14 @@
       "filedDate": "2026-11-24",
       "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20036908.pdf",
       "late": false,
-      "provenance": "kadoa"
+      "provenance": "both"
     },
     {
       "memberId": "O000177",
-      "assetRaw": "US Bancorp Del DEPOSITARY SH S G",
+      "assetRaw": "US Bancorp Del DEPOSITARY SH S G (USB$N) [ST]",
       "security": null,
       "side": "sell",
+      "owner": "self",
       "range": {
         "lo": 1001,
         "hi": 15000
@@ -158,13 +422,14 @@
       "filedDate": "2026-11-24",
       "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20036908.pdf",
       "late": false,
-      "provenance": "kadoa"
+      "provenance": "both"
     },
     {
       "memberId": "O000177",
-      "assetRaw": "Verizon Communications Inc. Common Stock",
+      "assetRaw": "Verizon Communications Inc. Common Stock (VZ) [ST]",
       "security": null,
       "side": "sell",
+      "owner": "self",
       "range": {
         "lo": 1001,
         "hi": 15000
@@ -173,13 +438,14 @@
       "filedDate": "2026-11-24",
       "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20036908.pdf",
       "late": false,
-      "provenance": "kadoa"
+      "provenance": "both"
     },
     {
       "memberId": "O000177",
-      "assetRaw": "Walt Disney Company",
+      "assetRaw": "Walt Disney Company (DIS) [ST]",
       "security": null,
       "side": "sell",
+      "owner": "self",
       "range": {
         "lo": 1001,
         "hi": 15000
@@ -188,7 +454,7 @@
       "filedDate": "2026-11-24",
       "docUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20036908.pdf",
       "late": false,
-      "provenance": "kadoa"
+      "provenance": "both"
     }
   ],
   "series": [
